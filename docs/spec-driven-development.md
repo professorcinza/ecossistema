@@ -38,6 +38,25 @@ ESPECIFICAÇÃO → REVISÃO → IMPLEMENTAÇÃO → VERIFICAÇÃO → NORMA
 - **Longevidade**: pessoas passam, specs ficam — o ecossistema é desenhado para sobreviver às suas mãos;
 - **Eficiência energética aplicada ao próprio desenvolvimento**: spec é o *minimizar desperdício* da engenharia — menos retrabalho, menos código órfão, menos decisão re-discutida.
 
+## A linguagem oficial: RUST (decisão do arquiteto, 22/08/2026)
+
+**Rust é a linguagem oficial de desenvolvimento dos projetos do ecossistema** — a padrão para todo código novo de propriedade do ecossistema, com exceções registradas.
+
+**Por quê — coerência com o que já está especificado**:
+
+1. **Segurança de memória sem GC** — elimina a *classe* de vulnerabilidades que o hardening do GrapheneOS (TOS-004) tenta mitigar; cerca de 70% dos CVEs graves de código C/C++ são de memória — Rust apaga a categoria;
+2. **Mainline de verdade** — o kernel Linux aceita Rust desde 6.1; drivers novos são escritos em Rust upstream (o driver de GPU do Asahi Linux, o projeto análogo mais próximo, é Rust); contribuições upstream-first (SYS-005) têm caminho moderno;
+3. **Energia previsível** — sem GC = sem picos de latência = menos wake-ups; abstrações de custo zero compilam para código apertado — perf/W na classe do C quando bem feito;
+4. **Cadeia de suprimento** — cargo com builds reproduzíveis e auditoria de dependências realiza a TOS-019 nativamente.
+
+**Exceções (registro, não tolerância — a lei de sempre)**:
+
+| Exceção | Quando |
+|---|---|
+| **C** | contribuições a projetos upstream escritos em C (Mesa, kernel core) — fala-se a língua da casa anfitriã; bindings Rust do nosso lado |
+| **Python** | ferramentaria de IA onde o ecossistema manda (TOS-024) — a língua do território |
+| **Shell/outras** | cola fina e scripts — onde Rust é canhão em passarinho, registrou-se e seguiu |
+
 ---
 
 *Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*

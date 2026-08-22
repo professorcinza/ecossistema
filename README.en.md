@@ -59,6 +59,7 @@ External repositories authored by the project's founder. Under the Collaboration
 - [TEIA: REDE](https://github.com/professorcinza/teia-rede) — P2P investigation game + TEIA v22.0 Operator in a single userscript, serverless; AGPL-3.0.
 - [Poder Visível](https://github.com/professorcinza/poder-visivel) — static, decentralized, anonymous anti-corruption platform; works offline; AGPL-3.0.
 - [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — worlds-and-contracts system for LLM-assisted narratives; AGPL-3.0.
+- [Avatar-Energy](https://github.com/professorcinza/avatar-energy) — being defined by the architect; to be published under the Open Invention Policy licenses.
 
 ## License
 

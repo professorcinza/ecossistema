@@ -57,6 +57,29 @@ ESPECIFICAÇÃO → REVISÃO → IMPLEMENTAÇÃO → VERIFICAÇÃO → NORMA
 | **Python** | ferramentaria de IA onde o ecossistema manda (TOS-024) — a língua do território |
 | **Shell/outras** | cola fina e scripts — onde Rust é canhão em passarinho, registrou-se e seguiu |
 
+## Contribuição-first: fork somente em última instância (decisão do arquiteto, 22/08/2026)
+
+Para todo projeto atual mantido pela comunidade que entrar no ecossistema (kernel, Mesa, wlroots, runtimes de IA, ferramentas), a ordem é invariável:
+
+```
+1. ESTABELECER-SE   —patches, testes, documentação, engenharia reversa,
+                     relatórios de bug com dados: mérito antes de opinião
+2. CONTRIBUIR       — o que o ecossistema precisar que exista lá,
+                     sobe para lá; nosso código roda no upstream,
+                     não o contrário
+3. FORK             — somente em última instância, registrada
+```
+
+**O fork é última instância porque carrega o ônus da prova. Um fork só se justifica quando**:
+
+1. O upstream está **morto** — sem mantenedor ativo, confirmado e datado;
+2. Houve **tentativa genuína e recusada** — contribuição apresentada, discutida em público, e a recusa é arquitetural e definitiva;
+3. A divergência é **estrutural e irreconciliável** com a existência do projeto anfitrião.
+
+Todo fork é registrado como exceção: com ID, justificativa datada e **plano de re-merge** — o objetivo de um fork bem-nascido é voltar para casa quando a casa mudar.
+
+*O espelho da regra: assim como nenhuma peça de hardware fechada entra sem registro (MOD-014), nenhum código alheio bifurcado entra sem registro.*
+
 ---
 
 *Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*

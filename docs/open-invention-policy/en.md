@@ -18,7 +18,7 @@ In addition to the Unilateral Declaration of Commitment and the Open Collaborati
 
 ## Article 2 — The licenses (all with mandatory attribution)
 
-1. **Software**: GNU GPL 3.0 or later — anyone may use, study, modify, and distribute it, keeping the work open and the author credited;
+1. **Software**: GNU AGPL 3.0 or later — anyone may use, study, modify, and distribute it, keeping the work open and the author credited;
 2. **Hardware**: CERN Open Hardware Licence (CERN-OHL-S) — the same spirit, for designs, circuits, and schematics;
 3. **Documents and other content**: Creative Commons Attribution 4.0 International (CC BY 4.0);
 4. In special cases, another free license with mandatory attribution may be adopted, provided it is declared in the published file itself.

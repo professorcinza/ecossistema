@@ -54,11 +54,11 @@ Sugestões, correções e novas ideias são bem-vindas por meio de *issues* e *p
 Repositórios externos de autoria do idealizador do projeto:
 
 - [Our Civilization — The Game](https://github.com/professorcinza/Our-Civilization-The-Game) — RPG narrativo spec-driven de treinamento militar e defesa, bilíngue (pt-br/en); conteúdo CC BY-SA 4.0, código AGPL-3.0.
-- [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — constituição analítica da plataforma TEIA: prompts de sistema, frameworks (PET, SOPBRA) e perfis de nações (BR, US); MIT.
-- [TEIA](https://github.com/professorcinza/TEIA) — protocolo de investigação político-econômica: metodologia v22.0 (156 dimensões × 60 lentes), pipeline PET e dossiês dos 16 problemas endêmicos; MIT.
-- [TEIA: REDE](https://github.com/professorcinza/teia-userscript) — jogo P2P de investigação + Operador TEIA v22.0 num único userscript, sem servidor; MIT.
-- [V for X](https://github.com/professorcinza/v_for_x) — plataforma estática, descentralizada e anônima contra corrupção; funciona offline; MIT.
-- [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — sistema de mundos e contratos para narrativas assistidas por LLM; MIT.
+- [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — constituição analítica da plataforma TEIA: prompts de sistema, frameworks (PET, SOPBRA) e perfis de nações (BR, US); AGPL-3.0.
+- [TEIA](https://github.com/professorcinza/TEIA) — protocolo de investigação político-econômica: metodologia v22.0 (156 dimensões × 60 lentes), pipeline PET e dossiês dos 16 problemas endêmicos; AGPL-3.0.
+- [TEIA: REDE](https://github.com/professorcinza/teia-userscript) — jogo P2P de investigação + Operador TEIA v22.0 num único userscript, sem servidor; AGPL-3.0.
+- [V for X](https://github.com/professorcinza/v_for_x) — plataforma estática, descentralizada e anônima contra corrupção; funciona offline; AGPL-3.0.
+- [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — sistema de mundos e contratos para narrativas assistidas por LLM; AGPL-3.0.
 
 ## Licença
 

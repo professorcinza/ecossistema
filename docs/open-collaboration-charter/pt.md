@@ -38,7 +38,7 @@ Para que não paire dúvida, o autor declara que:
 
 ## Artigo 4 — Da propriedade intelectual
 
-1. **Software** será publicado, por padrão, sob licenças de software livre que exijam crédito de autoria (como MIT ou GPL, conforme o caso);
+1. **Software** será publicado, por padrão, sob licenças de software livre que exijam crédito de autoria (como GPL ou AGPL, conforme o caso);
 2. **Documentos e demais conteúdos** são publicados sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0);
 3. O histórico público de versões do repositório constitui registro permanente, com data e hora, da autoria e da prioridade das ideias nele publicadas.
 

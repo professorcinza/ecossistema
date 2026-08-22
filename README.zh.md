@@ -54,11 +54,11 @@
 由本项目发起人撰写的外部仓库：
 
 - [Our Civilization — The Game](https://github.com/professorcinza/Our-Civilization-The-Game) — 规格驱动的军事与防御训练叙事角色扮演游戏，双语（葡/英）；内容 CC BY-SA 4.0，代码 AGPL-3.0。
-- [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — TEIA 平台的"分析宪法"：系统提示词、分析框架（PET、SOPBRA）与国家档案（巴西、美国）；MIT 许可。
-- [TEIA](https://github.com/professorcinza/TEIA) — 政治经济调查协议：v22.0 方法论（156 维 × 60 透镜）、PET 流水线与 16 项结构性问题档案；MIT。
-- [TEIA: REDE](https://github.com/professorcinza/teia-userscript) — P2P 调查游戏 + TEIA v22.0 操作器，单文件用户脚本，无服务器；MIT。
-- [V for X](https://github.com/professorcinza/v_for_x) — 静态、去中心化、匿名的反腐平台；可离线运行；MIT。
-- [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — 面向 LLM 辅助叙事的"世界与契约"系统；MIT。
+- [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — TEIA 平台的"分析宪法"：系统提示词、分析框架（PET、SOPBRA）与国家档案（巴西、美国）；AGPL-3.0 许可。
+- [TEIA](https://github.com/professorcinza/TEIA) — 政治经济调查协议：v22.0 方法论（156 维 × 60 透镜）、PET 流水线与 16 项结构性问题档案；AGPL-3.0。
+- [TEIA: REDE](https://github.com/professorcinza/teia-userscript) — P2P 调查游戏 + TEIA v22.0 操作器，单文件用户脚本，无服务器；AGPL-3.0。
+- [V for X](https://github.com/professorcinza/v_for_x) — 静态、去中心化、匿名的反腐平台；可离线运行；AGPL-3.0。
+- [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — 面向 LLM 辅助叙事的"世界与契约"系统；AGPL-3.0。
 
 ## 许可证
 

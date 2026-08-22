@@ -177,6 +177,10 @@ ENTRADA (aberta)          CRIVO TÉCNICO                        DESTINO (três)
 - **A spec é o ponto de encontro das duas direções** — onde a intenção de cima e a medida de abaixo se fundem em requisito verificável. Nem cascata (top-down puro afoga no dogma), nem deriva (bottom-up puro perde o rumo): a direção dominante em cada momento é **a que tem o sinal mais forte** — e o histórico do Git registra cada inversão;
 - **O precedente é a própria fundação**: a base 02 (Dyson) desceu sobre a base 06 (smartphone medido) e ambas pariram a mesma teia de especificações; o cósmico e o bolso na mesma tarde, cada um corrigindo o outro.
 
+## Trilíngue por concepção (lei do arquiteto, 22/08/2026)
+
+*Tudo que o arquiteto postou e postar ganha as três traduções **na concepção*** — PT, EN e ZH nascem juntos, não se traduz depois. Documento novo sem as três versões está incompleto por definição; a esteira valida a completude (FMT-002 estendida: spec ou base sem trigêmeas não passa). Débito pré-existente é dívida declarada no rastreador — e paga.
+
 ---
 
 *Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*

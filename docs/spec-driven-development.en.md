@@ -167,6 +167,19 @@ INTAKE (open)          TECHNICAL SIEVE                        OUTCOME (three)
 | FIL-007 | system metrics: volume, approval rate, time-to-decision — the sieve measures itself |
 | FIL-008 | periodic kaizen review of parking and refusals — a changed world can change the verdict |
 
+## The architect's method: asymmetric TOP-DOWN ⇄ BOTTOM-UP (declaration, 2026-08-22)
+
+*The architect works top-down and bottom-up **asymmetrically, whenever possible** — and the asymmetry is method, not disorder:*
+
+- **TOP-DOWN** gives the *telos*: from vision (civilization, Kardashev, the Second Moon) requirements descend that give meaning to detail;
+- **BOTTOM-UP** gives the *friction*: from measured artifacts (Moto G Power, RX 9070, teia-rede in code) numbers rise that correct the vision;
+- **The spec is where both directions meet** — neither waterfall (pure top-down drowns in dogma) nor drift (pure bottom-up loses the course): the dominant direction at each moment is **the one with the strongest signal** — and the Git history records every reversal;
+- **The precedent is the foundation itself**: base 02 (Dyson) descended upon base 06 (measured smartphone) and both birthed the same web of specifications; the cosmic and the pocket in one afternoon, each correcting the other.
+
+## Trilingual by conception (architect's law, 2026-08-22)
+
+*Everything the architect has posted and will post gets the three translations **at conception*** — PT, EN and ZH are born together, not translated after. A new document without its three versions is incomplete by definition; the pipeline validates completeness (FMT-002 extended: spec or base without triplets doesn't pass). Pre-existing debt is declared debt in the tracker — and it gets paid.
+
 ---
 
 *Code AGPL-3.0-or-later · Content CC BY-SA 4.0. Architecture and authorship: Cleiton Moura Loura.*

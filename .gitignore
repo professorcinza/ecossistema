@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Ferramentas locais / Local tools / 本地工具
+.mimosa/

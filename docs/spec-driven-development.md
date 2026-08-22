@@ -134,6 +134,40 @@ REPO DE SPEC          ESTEIRA                                          PRODUTO
 
 *O fecho simétrico: a IA que materializa as specs roda na cadeia de APUs (TOS-024) — o sistema constrói o sistema que o constrói. A teia tece a si mesma.*
 
+## Crivo de sugestões: kaizen de entrada, spec na saída (decisão do arquiteto, 22/08/2026)
+
+Usuários e interessados sugerem melhorias em cultura **lean/kaizen** — melhoria contínua, vinda de todos, em incrementos pequenos. Toda sugestão atravessa um **crivo técnico** antes de virar feature em especificação:
+
+```
+ENTRADA (aberta)          CRIVO TÉCNICO                        DESTINO (três)
+┌────────────────┐   ┌──────────────────────────────┐   ┌─────────────────────┐
+│ qualquer pessoa │ → │ 1. VALOR × DESPERDÍCIO (lean)│ → │ SPEC: entra como    │
+│ sugere, em      │   │ 2. COERÊNCIA com a arquitetura│   │ rascunho de nova    │
+│ canal público,  │   │ 3. VERIFICABILIDADE (lei 2)  │   │ versão da spec      │
+│ com problema +  │   │ 4. CONTA DE ENERGIA: custa    │   │ PARKING: backlog    │
+│ proposta        │   │    mais do que economiza?     │   │ com gatilho de      │
+└────────────────┘   │ 5. ABERTURA (MOD-014)        │   │ reavaliação         │
+                      │ 6. SIMPLICIDADE: menor delta  │   │ RECUSA: motivo      │
+                      │ 7. CUSTO DE MANUTENÇÃO        │   │ registrado — túmulo │
+                      └──────────────────────────────┘   │ documentado         │
+                                                          └─────────────────────┘
+```
+
+**As leis do crivo**:
+
+| ID | Requisito | Origem |
+|---|---|---|
+| FIL-001 | entrada aberta e pública: qualquer pessoa sugere, com problema observado + proposta — sem isto, não é sugestão, é opinião | kaizen |
+| FIL-002 | teste lean primeiro: a sugestão remove desperdício ou adiciona valor? nada que só adiciona custo passa | lean |
+| FIL-003 | conta de energia obrigatória: feature que custa mais energia do que devolve precisa justificar-se explicitamente | ecossistema |
+| FIL-004 | sem verificação não há spec — a lei 2 do SDD vale também para mudanças | SDD |
+| FIL-005 | toda sugestão recebe resposta com motivo — o túmulo é documentado; loop fechado, ou as sugestões morrem | kaizen |
+| FIL-006 | sugestão aprovada vira **delta de spec versionada** (vN), nunca edição silenciosa | SDD/norma |
+| FIL-007 | métricas do sistema: volume, taxa de aprovação, tempo até decisão — o crivo também se mede | lean |
+| FIL-008 | revisão kaizen periódica do parking e das recusas — o que mudou no mundo pode mudar o veredito | kaizen |
+
+*A simetria da casa: assim como a esteira materializa specs em produto, o crivo materializa vozes em specs. Entrada humana, rigor de engenharia, saída versionada.*
+
 ---
 
 *Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*

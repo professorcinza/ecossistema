@@ -80,6 +80,29 @@ Todo fork é registrado como exceção: com ID, justificativa datada e **plano d
 
 *O espelho da regra: assim como nenhuma peça de hardware fechada entra sem registro (MOD-014), nenhum código alheio bifurcado entra sem registro.*
 
+## Reverse Spec e unificação de frentes (decisão do arquiteto, 22/08/2026)
+
+Quando muitos projetos tiverem a mesma função e o mesmo objetivo — mantidos por pessoas e equipes diferentes, em tecnologias diferentes — o ecossistema não escolhe um nem apoia todos: **unifica a frente**. O método:
+
+```
+1. MAPEAR O CAMPO      — todos os projetos do domínio, qualquer equipe, qualquer tecnologia
+2. REVERSE SPEC        — engenharia reversa de especificações de cada um: requisitos medidos, não impressões
+3. INTERSEÇÃO ∪ UNIÃO  — o núcleo comum (o que TODOS fazem = a função essencial do domínio)
+                         + o melhor de cada um (o que cada um faz de único e superior)
+4. SPEC UNIFICADA      — a especificação única, cada requisito citando de qual projeto foi destilado
+5. FRENTE ÚNICA        — uma só frente de desenvolvimento para o domínio no ecossistema
+```
+
+**A lei de prioridade**:
+
+> **SPEC DRIVEN DEVELOPMENT + REVERSE SPEC > PROJETOS ATUAIS QUE VALHAM A INTEGRAÇÃO**
+
+Nenhum projeto entra por existir e funcionar; entra por **cobrir a spec destilada do campo inteiro**. A spec nasce do mapeamento de todos, não da arquitetura acidental de um — assim o ecossistema não herda as escolhas fortuitas de ninguém, nem fragmenta seu esforço entre frentes gêmeas.
+
+**A ponte com a lei contribuição-first**: unificar ≠ reescrever. A spec unificada aponta a **âncora** — o projeto vivo com maior cobertura da spec — e as lacunas que o ecossistema contribui para fechar, na casa anfitriã. Frente própria somente quando o campo estiver fragmentado sem âncora; fork permanece última instância. Cada requisito da spec unificada carrega sua genealogia: de qual projeto veio, o que provou.
+
+*O precedente é a própria casa: as especificações TeiaOS (TOS-001–024) foram destiladas por este método — GrapheneOS, Ubuntu Touch e nove distribuições reverse-specificadas numa frente única — antes de a norma existir. A norma batiza a prática.*
+
 ---
 
 *Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*

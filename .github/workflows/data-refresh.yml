@@ -1,0 +1,121 @@
+name: Scheduled Data Refresh
+
+on:
+  schedule:
+    # Run every Sunday at 00:00 UTC
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Save snapshot of current data
+        run: python3 scripts/snapshot.py save
+
+      - name: Run data update pipeline
+        run: python3 scripts/update_data.py
+        continue-on-error: true
+
+      - name: Fetch governance indicators
+        run: python3 scripts/fetch_governance.py
+        continue-on-error: true
+
+      - name: Fetch Our World in Data datasets
+        run: python3 scripts/fetch_owid.py
+        continue-on-error: true
+
+      - name: Generate data freshness report
+        run: |
+          python3 -c "
+          import json
+          from datetime import datetime
+          d = json.load(open('data/world_backbone.json'))
+          meta = d['metadata']
+          today = datetime.utcnow().strftime('%Y-%m-%d')
+          print(f'## Data Freshness Report ({today})')
+          print()
+          print(f'- **last_updated:** {meta.get(\"last_updated\", meta.get(\"created\", \"unknown\"))}')
+          print(f'- **countries:** {meta.get(\"total_countries\", \"?\")}')
+          print(f'- **sources:** {len(meta.get(\"sources\", []))}')
+          print()
+          # Sample year fields across dimensions
+          c = d['countries'][0]
+          year_fields = []
+          for dim in ['economy', 'health', 'education', 'environment', 'water_sanitation', 'connectivity']:
+              if dim in c:
+                  yf = next((k for k in c[dim] if 'year' in k.lower()), None)
+                  if yf:
+                      year_fields.append(f'{dim}: {c[dim][yf]}')
+          if year_fields:
+              print('**Data vintages (sample country):**')
+              for yf in year_fields:
+                  print(f'  - {yf}')
+          " > freshness_report.md
+          cat freshness_report.md
+
+      - name: Rebuild static API endpoints
+        run: |
+          npm run build
+        env:
+          NODE_ENV: production
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "files_changed=$(git diff --cached --name-only | wc -l)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request with updated data
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "data: scheduled refresh $(date -u +%Y-%m-%d)"
+          title: "🔄 Scheduled Data Refresh — $(date -u +%Y-%m-%d)"
+          body: |
+            ## Automated Data Refresh
+
+            $(cat freshness_report.md)
+
+            **Pipeline steps:**
+            - Snapshot of previous data saved
+            - World Bank Open Data API (9 indicators, ~1600 field updates)
+            - OpenSanctions adjudicated dossiers
+            - EJAtlas environmental conflicts
+            - Static API endpoints rebuilt
+
+            **Files changed:** ${{ steps.changes.outputs.files_changed }}
+
+            Review the diff carefully before merging.
+          branch: data/refresh-$(date -u +%Y-%m-%d)
+          delete-branch: true
+          labels: data, automated

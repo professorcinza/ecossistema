@@ -59,7 +59,7 @@ Repositórios externos de autoria do idealizador do projeto. Conforme a Carta de
 - [TEIA: REDE](https://github.com/professorcinza/teia-rede) — jogo P2P de investigação + Operador TEIA v22.0 num único userscript, sem servidor; AGPL-3.0.
 - [Poder Visível](https://github.com/professorcinza/poder-visivel) — plataforma estática, descentralizada e anônima contra corrupção; funciona offline; AGPL-3.0.
 - [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — sistema de mundos e contratos para narrativas assistidas por LLM; AGPL-3.0.
-- [Avatar-Energy](https://github.com/professorcinza/avatar-energy) — em definição pelo arquiteto; será publicado sob as licenças da Política de Invenção Aberta.
+- [Avatar-Energy](https://github.com/professorcinza/avatar-energy) — o agente da energia: maximizar, redirecionar, alocar, conservar, armazenar, distribuir e minimizar desperdício; AGPL-3.0.
 
 ## Licença
 

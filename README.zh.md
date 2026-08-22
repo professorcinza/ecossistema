@@ -59,7 +59,7 @@
 - [TEIA: REDE](https://github.com/professorcinza/teia-rede) — P2P 调查游戏 + TEIA v22.0 操作器，单文件用户脚本，无服务器；AGPL-3.0。
 - [Poder Visível](https://github.com/professorcinza/poder-visivel) — 静态、去中心化、匿名的反腐平台；可离线运行；AGPL-3.0。
 - [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — 面向 LLM 辅助叙事的"世界与契约"系统；AGPL-3.0。
-- [Avatar-Energy](https://github.com/professorcinza/avatar-energy) — 由架构师定义中；将按《开放发明政策》许可发布。
+- [Avatar-Energy](https://github.com/professorcinza/avatar-energy) — 能源代理：增效、重定向、分配、节约、储存、配送与减少浪费；AGPL-3.0。
 
 ## 许可证
 

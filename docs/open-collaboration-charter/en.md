@@ -39,7 +39,7 @@ Lest any doubt remain, the author declares that:
 ## Article 4 — Intellectual property
 
 1. **Software** shall by default be published under free-software licenses that require authorship credit (such as GPL or AGPL, as appropriate);
-2. **Documents and other content** are published under the Creative Commons Attribution 4.0 International (CC BY 4.0);
+2. **Documents and other content** are published under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0);
 3. The repository's public version history constitutes a permanent, timestamped record of the authorship and priority of the ideas published in it.
 
 ## Article 5 — The invitation

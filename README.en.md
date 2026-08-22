@@ -62,4 +62,4 @@ External repositories authored by the project's founder:
 
 ## License
 
-The contents of this repository are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+The contents of this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE). Software is published under GNU AGPL 3.0 or later.

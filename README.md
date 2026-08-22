@@ -62,4 +62,4 @@ Repositórios externos de autoria do idealizador do projeto:
 
 ## Licença
 
-O conteúdo deste repositório está licenciado sob a [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](LICENSE).
+O conteúdo deste repositório está licenciado sob a [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](LICENSE). O software é publicado sob GNU AGPL 3.0 ou posterior.

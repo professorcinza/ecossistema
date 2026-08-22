@@ -20,8 +20,9 @@ Em complemento à Declaração Unilateral de Compromisso e à Carta de Colabora�
 
 1. **Software**: GNU AGPL 3.0 ou posterior — qualquer um pode usar, estudar, modificar e distribuir, mantendo a obra aberta e o crédito ao autor;
 2. **Hardware**: CERN Open Hardware Licence (CERN-OHL-S) — o mesmo espírito, para desenhos, circuitos e esquemas;
-3. **Documentos e demais conteúdos**: Creative Commons Atribuição 4.0 Internacional (CC BY 4.0);
-4. Em casos especiais, outra licença livre com atribuição obrigatória poderá ser adotada, desde que declarada no próprio arquivo publicado.
+3. **Documentos e demais conteúdos**: Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0);
+4. Em casos especiais, outra licença livre com atribuição obrigatória poderá ser adotada, desde que declarada no próprio arquivo publicado;
+5. Obras já publicadas mantêm a licença vigente na sua publicação; o relicenciamento de um projeto dá-se sempre por commit explícito, nunca por reescrita de histórico.
 
 ## Artigo 3 — Da atribuição
 

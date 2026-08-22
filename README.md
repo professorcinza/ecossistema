@@ -34,6 +34,7 @@ O projeto nasce como um **compromisso unilateral** — não como uma negociaçã
 | Documento | Português | English | 中文 |
 |---|---|---|---|
 | Declaração Unilateral de Compromisso | [pt](docs/unilateral-commitment/pt.md) | [en](docs/unilateral-commitment/en.md) | [zh](docs/unilateral-commitment/zh.md) |
+| Carta de Boas-Vindas | [pt](docs/carta-boas-vindas/pt.md) | [en](docs/carta-boas-vindas/en.md) | [zh](docs/carta-boas-vindas/zh.md) |
 | Carta de Colaboração Aberta | [pt](docs/open-collaboration-charter/pt.md) | [en](docs/open-collaboration-charter/en.md) | [zh](docs/open-collaboration-charter/zh.md) |
 | Política de Invenção Aberta | [pt](docs/open-invention-policy/pt.md) | [en](docs/open-invention-policy/en.md) | [zh](docs/open-invention-policy/zh.md) |
 | Spec Driven Development | [pt](docs/spec-driven-development.md) | [en](docs/spec-driven-development.en.md) | [zh](docs/spec-driven-development.zh.md) |

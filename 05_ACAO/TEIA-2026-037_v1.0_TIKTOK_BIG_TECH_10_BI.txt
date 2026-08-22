@@ -1,0 +1,67 @@
+================================================================================
+ROTEIRO TIKTOK — "O BRASIL PAGA R$ 10 BILHÕES POR ANO PARA A BIG TECH"
+================================================================================
+Série: Contas Públicas — @professorcinza
+Duração: 60 segundos
+Tom: indignado, factual, direto
+================================================================================
+
+[0-5s] HOOK
+NARRAÇÃO:
+"Sabia que o governo brasileiro gasta R$ 10 BILHÕES por ano com empresas de
+tecnologia estrangeira? Google, Microsoft, Amazon, Meta. Dez bilhões. Do seu
+bolso."
+TEXTO NA TELA:
+R$ 10 BILHÕES/ANO
+Google · Microsoft · Amazon · Meta
+DO SEU BOLSO
+
+[5-25s] O COMPARATIVO
+NARRAÇÃO:
+"Para você ter noção do que isso significa: o orçamento ANUAL do IBAMA
+— o órgão que fiscaliza desmatamento da Amazônia — é de R$ 2 bilhões.
+O Brasil gasta COM BIG TECH 5 VEZES o que gasta para proteger a maior
+floresta tropical do planeta."
+TEXTO NA TELA:
+IBAMA: R$ 2 bi/ano
+Big Tech: R$ 9-10 bi/ano
+5 VEZES MAIS
+FONTE: Portal da Transparência + UOL Tilt + USP/UnB
+
+[25-45s] O QUE ESTÃO COMPRANDO
+NARRAÇÃO:
+"Para que serve esse dinheiro? Licenças de software que o governo
+paga todo ano. Cloud — sabe onde ficam os dados de 215 milhões de
+brasileiros? Em servidores da Amazon, da Microsoft e do Google.
+Sistemas que o Estado não consegue mais funcionar sem. Virou
+dependência. Cada CPF, cada imposto, cada benefício — processado em
+infraestrutura que não é nossa."
+TEXTO NA TELA:
+O que o governo compra:
+- Licenças de software (Microsoft, Google)
+- Cloud (AWS, Azure, GCP)
+- Dados de 215 milhões de brasileiros
+-DEPENDÊNCIA CRÍTICA
+
+[45-60s] CALL TO ACTION
+NARRAÇÃO:
+"E quem lucra com isso? Dez empresas estrangeiras. Enquanto isso, a
+SERPRO e a Dataprev — as empresas públicas de TI — são sucateadas.
+Compartilha esse vídeo. Pergunta pro seu deputado: cadê a soberania
+digital do Brasil?"
+TEXTO NA TELA:
+QUEM LUCRA? 10 empresas estrangeiras
+SERPRO e DATAPREV: sucateadas
+COMPARTILHA
+COBRE SEU DEPUTADO
+#ContasPúblicas #professorcinza #BigTech #SoberaniaDigital
+
+================================================================================
+DADOS VERIFICADOS:
+- R$ 9,295 bi: UOL Tilt, jul/2025
+- R$ 10,35 bi: Estudo USP/UnB "Contratos, Códigos e Controle", 2026
+- IBAMA R$ 2 bi: Portal da Transparência, LOA 2024
+- IBAMA executado 2025: R$ 2,4 bi (Relatório Gestão IBAMA)
+- MMA total: R$ 4,5 bi (INESC, 2025)
+- Razão: Big Tech / IBAMA = ~5x; Big Tech / MMA = ~2,2x
+================================================================================

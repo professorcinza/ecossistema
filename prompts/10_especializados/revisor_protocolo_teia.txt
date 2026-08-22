@@ -1,0 +1,28 @@
+================================================================================
+REVISOR E ATUALIZADOR DE PROTOCOLOS TEIA EXISTENTES — v22.0
+================================================================================
+
+Você recebe um documento TEIA antigo ou existente (protocolo, dossiê, etc.).
+
+Tarefas:
+1. Leia o documento completo.
+2. Aplique o checklist 32 atualizado (versão v22).
+3. Identifique:
+   - O que está desatualizado (dados, leis, contexto 2026+)
+   - Onde faltam níveis 16-18 ou lentes 45-60 (se o tema justificar)
+   - Onde o diagnóstico da máquina pode ser aprofundado
+   - Onde as propostas podem ser mais executáveis ou com melhor instrumento
+4. Gere uma versão revisada ou um "Addendum de Atualização v22".
+5. Sugira novo número de protocolo se necessário (ex: TEIA-2026-XXX_v1.1).
+
+Saída:
+- Relatório de revisão (itens falhados + melhorias)
+- Versão corrigida / atualizada do documento (ou seções chave)
+- Lista de dims/lentes que devem ser adicionadas
+- Recomendação de ação (republicar, anexar addendum, descartar)
+
+Seja rigoroso. Priorize precisão factual e profundidade.
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

@@ -1,0 +1,186 @@
+================================================================================
+ÍNDICE-MESTRE: SWARM DE CAMPANHAS ANTI-MITOS POLÍTICOS BRASILEIROS
+================================================================================
+Estratégia de desmontagem cognitiva para 2026
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Protocolo: TEIA-2026-082 (Índice-Mestre)
+Data: Julho/2026
+================================================================================
+
+ESTRATÉGIA GERAL
+
+Este swarm ataca o ESCUDO COGNITIVO do sistema de captura brasileiro — o
+conjunto de mitos, crenças e vieses que paralisa a população e mantém o
+sistema imune a reformas.
+
+A tese central: NENHUMA REFORMA INSTITUCIONAL DURA se o escudo cognitivo
+permanecer intacto. Desmontar o escudo é PRÉ-REQUISITO para mudança estrutural.
+
+O swarm opera em 5 frentes paralelas, cada uma mirando uma cordilheira de
+mitos (8 cordilheiras, 32 mitos mapeados no TEIA-076).
+
+
+================================================================================
+ARQUITETURA DO SWARM
+================================================================================
+
+DOCUMENTO-RAIZ (o mapa completo):
+  TEIA-2026-076 — MAPA DE MITOS E CRENCAS POLÍTICAS BRASILEIRAS
+  → 8 cordilheiras, 32 mitos, funções cognitiva/sistêmica, contranarrativas
+
+5 FRENNTES DE ATAQUE COGNITIVO:
+
+  FRENTE A — ANTI-FATALISMO (TEIA-077)
+  Cordilheiras-alvo: 1 (Fatalismo)
+  Eixo: "Não é todo político. É uma REDE ESPECÍFICA."
+  Peças: série TikTok, carrossel IG, dossiê técnico, thread
+  Objetivo: Destruir a paralisia fatalista. Direcionar indignação.
+
+  FRENTE B — ANTI-MESSIANISMO (TEIA-078)
+  Cordilheiras-alvo: 2 (Messianismo)
+  Eixo: "Não é salvador. É sistema. Mapeie e desmonte a rede."
+  Peças: TikTok, carrossel IG, thread
+  Objetivo: Esvaziar o personalismo. Focar em instituições.
+
+  FRENTE C — ANTI-DESLOCAMENTO (TEIA-079)
+  Cordilheiras-alvo: 3 (Deslocamento de Causalidade)
+  Eixo: "O brasileiro é SAQUEADO, não preguiçoso. CAPTURA x GESTÃO."
+  Peças: TikTok, carrossel IG, dossiê técnico, thread
+  Objetivo: Redirecionar a culpa do povo/governo para a rede de captura.
+
+  FRENTE D — ANTI-MAGIA ECONÔMICA (TEIA-080)
+  Cordilheiras-alvo: 4 (Crenças mágicas sobre economia)
+  Eixo: "Brasil é SAQUEADO, não pobre. R$ 3 tri/ano extraídos."
+  Peças: série TikTok (3 ep.), carrossel IG, dossiê técnico, thread
+  Objetivo: Desmascarar a narrativa de escassez. Mostrar o fluxo de captura.
+
+  FRENTE E — ANTI-APATIA (TEIA-081)
+  Cordilheiras-alvo: 5, 6, 7 (Institucional, Cidadã, Temporal)
+  Eixo: "Democracia se FAZ funcionar. Votar é começo. Mudar é incremental."
+  Peças: TikTok, carrossel IG, thread, manual eleitor 2026
+  Objetivo: Instalar agência. Mobilizar para ação informada e persistente.
+
+
+================================================================================
+INVENTÁRIO DE PEÇAS (após execução completa)
+================================================================================
+
+TOTAL ESPERADO: ~19 peças de comunicação
+
+FRENTE A (4 peças):
+  A1. SÉRIE TIKTOK "30 parlamentares que NÃO roubam" (roteiro 3 ep.)
+  A2. CARROSSEL IG "Rede de Captura: 14 nomes que controlam 80%"
+  A3. DOSSIÊ TXT nominativo (14 veto players)
+  A4. THREAD "Todo político é ladrão = melhor amigo do ladrão"
+
+FRENTE B (3 peças):
+  B1. TIKTOK "5 messias que decepcionaram" (roteiro 90s)
+  B2. CARROSSEL IG "Presidente muda tom. Congresso muda pauta."
+  B3. THREAD "O próximo salvador vai te decepcionar também"
+
+FRENTE C (4 peças):
+  C1. TIKTOK "Por que você está exausto (e quem lucra)"
+  C2. CARROSSEL IG "CAPTURA x GESTÃO: o novo eixo"
+  C3. DOSSIÊ TXT (4 quadrantes aplicados a amostra real)
+  C4. THREAD "O brasileiro não é preguiçoso. É SAQUEADO."
+
+FRENTE D (4 peças):
+  D1. SÉRIE TIKTOK "Onde foram seus R$ 3 trilhões" (3 ep.)
+  D2. CARROSSEL IG "R$ 950 bi em juros: para onde foi?"
+  D3. DOSSIÊ TXT (fluxo detalhado R$ 3 tri)
+  D4. THREAD "Juros altos protege quem?"
+
+FRENTE E (4 peças):
+  E1. TIKTOK "Manual do Eleitor Informado 2026"
+  E2. CARROSSEL IG "Votar e dormir = plantar e não regar"
+  E3. THREAD "Democracia não funciona. Se FAZ funcionar."
+  E4. MANUAL ELEITOR 2026 (dossiê técnico completo)
+
+
+================================================================================
+SEQUENCIAMENTO TEMPORAL SUGERIDO
+================================================================================
+
+FASE 1 (4 semanas) — DIAGNÓSTICO COGNITIVO
+  Semana 1: Frente A (Anti-Fatalismo) — instala o conceito de REDE ESPECÍFICA
+  Semana 2: Frente C (Anti-Deslocamento) — redireciona indignação
+  Semana 3: Frente D (Anti-Magia Econômica) — revela R$ 3 tri
+  Semana 4: Reciclagem cruzada + responds a reações
+
+FASE 2 (4 semanas) — DESMONTAGEM DOS SALVADORES
+  Semana 5-6: Frente B (Anti-Messianismo) — esvazia personalismo
+  Semana 7: Frente A reforço (atualização da lista de 14)
+  Semana 8: Reciclagem
+
+FASE 3 (permanente) — MOBILIZAÇÃO
+  Semana 9+: Frente E (Anti-Apatia) — instala agência
+  Frequência: 2-3 peças/semana
+  Objetivo: converter indignação informada em VOTO CRITERIOSO + COBRANÇA
+
+
+================================================================================
+CRITÉRIOS DE SUCESSO (KPIs GLOBAIS)
+================================================================================
+
+KPI COGNITIVO (difícil de medir, mas essencial):
+  → Pesquisa qualitativa pré/pós: % que concorda com "todo político é ladrão"
+  → Meta: reduzir de ~70% para <55% em público-alvo
+
+KPI DE ALCANCE:
+  → Views totais combinadas: 1M+ (todas as plataformas, 12 semanas)
+  → Shares: 50K+ (taxa de viralização >5%)
+  → Salvamentos: 20K+ (indicador de valor percebido)
+
+KPI DE CONVERSÃO DE FRAME:
+  → Menções orgânicas ao frame "CAPTURA x GESTÃO" em redes
+  → Uso da expressão "rede específica" em comentários
+  → Adesão ao hashtag #RedeDeCaptura ou #CapturaXGestao
+
+KPI DE AÇÃO:
+  → Downloads do Manual do Eleitor 2026
+  → Inscrições em newsletter/canal
+  → Mensagens a parlamentares (se campanha de pressão ativa)
+
+KPI ELEITORAL (2026):
+  → Redução % de abstenção/branco/nulo em distritos-alvo
+  → Aumento de votos em parlamentares classificados GESTÃO pelo TEIA
+
+
+================================================================================
+FRAME DOMINANTE A SUBSTITUIR
+================================================================================
+
+FRAME ATUAL (a destruir):
+  "Brasil não tem jeito. Todos políticos são iguais. Esquerda x Direita.
+   A culpa é do governo. Meu voto não muda nada. Tem jeito é com salvador."
+
+FRAME TEIA (a instalar):
+  "O Brasil é uma das 8 maiores economias do mundo. É SAQUEADO por uma
+   rede específica de 14 veto players, não por 'todo político'. O problema
+   não é escassez — é captura. Não é esquerda x direita — é GESTÃO x
+   CAPTURA. Não há salvador. Há trabalho informado e persistente. Vote
+   criteriosamente. Cobrage persistentemente. O sistema cede sob pressão
+   organizada."
+
+
+================================================================================
+ARQUIVOS DO SWARM
+================================================================================
+
+Base:
+  /14_ELEITORAL_2026/TEIA-2026-076_v1.0_MAPA_MITOS_CRENCAS_POLITICAS_BR.txt
+
+Frentes:
+  /14_ELEITORAL_2026/TEIA-2026-077_v1.0_SWARM_FRENTE_A_ANTI_FATALISMO.txt
+  /14_ELEITORAL_2026/TEIA-2026-078_v1.0_SWARM_FRENTE_B_ANTI_MESSIANISMO.txt
+  /14_ELEITORAL_2026/TEIA-2026-079_v1.0_SWARM_FRENTE_C_ANTI_DESLOCAMENTO.txt
+  /14_ELEITORAL_2026/TEIA-2026-080_v1.0_SWARM_FRENTE_D_ANTI_MAGIA_ECONOMICA.txt
+  /14_ELEITORAL_2026/TEIA-2026-081_v1.0_SWARM_FRENTE_E_ANTI_APATIA.txt
+
+Índice-mestre:
+  /14_ELEITORAL_2026/TEIA-2026-082_v1.0_INDICE_MESTRE_SWARM.txt  (este)
+
+================================================================================
+FIM
+================================================================================

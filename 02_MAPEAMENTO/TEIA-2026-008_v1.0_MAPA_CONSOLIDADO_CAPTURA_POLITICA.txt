@@ -1,0 +1,611 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-008
+VERSÃO: v1.0
+CATEGORIA: 02_MAPEAMENTO
+TÍTULO: Mapa Consolidado de Captura Política
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 30,862 bytes (30.1 KB)
+HASH MD5: 5ee7920e04dd27d4a263daca71744e54
+HASH SHA-256: 7aefcb6d97feae40620e7a7c5389ce2860ae17233e206c4678736ddc5412a2a6
+================================================================================
+
+================================================================================
+MAPA CONSOLIDADO: QUEM LUCRA COM A INEFICIÊNCIA → QUEM PROTEGE NO CONGRESSO
+================================================================================
+CRUZAMENTO DOS 3 EIXOS DE CAPTURA POLÍTICA NO BRASIL (2023-2027)
+================================================================================
+Autor: Cleiton Moura
+Data: Julho/2026
+Base: dados de TSE, STF, CGU, PF, DIAP, Congresso Nacional, veículos investigativos.
+================================================================================
+
+COMO LER ESTE MAPA
+
+Cada linha conecta: QUEM LUCRA (interesse econômico) → QUEM PROTEGE 
+(parlamentar/comissão) → COMO (mecanismo de influência documentado) → 
+ONDE BLOQUEIA (em qual veto do V3.0 este ator é obstáculo).
+
+O mapa identifica 3 SISTEMAS DE CAPTURA que operam em paralelo, com 
+sobreposição de parlamentares que servem a mais de um sistema.
+
+
+================================================================================
+SISTEMA 1 — CAPTURA FINANCEIRA (Bancos + Febraban + Banco Master)
+================================================================================
+
+QUEM LUCRA:
+- Bancos top-5 (Itaú R$ 40,2 bi lucro em 2024; Bradesco, Santander, BB, Caixa)
+- Banco Master (Daniel Vorcaro/Fabiano Zettel) — fraude de R$ 12-50 bi
+- Febraban (Isaac Sidney) — orçamento institucional R$ 200-300 mi/ano
+- Asset managers (BTG Asset, Itaú Asset, XP Asset) — FII/FIAGRO em regime favorecido
+- Seguradoras e previdência (Brasilprev, Mapfre, SulAmérica)
+
+VOLUME DA CAPTURA: Spread de 28-30 p.p. × R$ 4,5 tri em crédito = ~R$ 500-700 bi/ano
+em spread bancário. Juros da DPF de R$ 950 bi/ano (80% para o SFN).
+
+------------------------------------------------------------------------
+TRÍADE DE VETO CENTRAL (3 nomes que controlam toda pauta financeira)
+------------------------------------------------------------------------
+
+1. HUGO MOTTA (Republicanos-PB) — PRESIDENTE DA CÂMARA
+   MECANISMO: Empréstimo R$ 22 mi do Banco Master à cunhada (empresa Bianca 
+   Medeiros). PF encontrou diálogos do PRÓPRIO MOTTA pedindo liberação a Vorcaro.
+   Hotel de luxo em Lisboa bancado por Vorcaro (junto com Ciro Nogueira).
+   BLOQUEIO CONCRETO: Em nov/2025, LIGOU para Alcolumbre avisando que NÃO 
+   COLOCARIA EM VOTAÇÃO projeto que majorava tributação de bancos. Matéria 
+   arquivada. O maior gesto de proteção bancária da legislatura — ocorreu 
+   EXATAMENTE quando era investigado pelo empréstimo do Master.
+   ATRAPALHA: Vetor 2 (spread), Vetor 1 (gestão dívida)
+
+2. DAVI ALCOLUMBRE (União-AP) — PRESIDENTE DO SENADO/CONGRESSO
+   MECANISMO: Recebeu R$ 474 milhões em emendas pagas em UM DIA (saúde AP).
+   Comandou CCJ na aprovação da EC 132 com regra de transição FAVORÁVEL ao 
+   setor financeiro (IFs em 5,8% de CBS+IBS, sem créditos, abaixo da proposta 
+   original de Haddad). Aceitou articulação de Motta para arquivar tributação 
+   de bancos (nov/2025).
+   ATRAPALHA: Vetor 2 (spread), Vetor 1 (gestão dívida)
+
+3. RENAN CALHEIROS (MDB-AL) — PRESIDENTE DA CAE (Comissão de Assuntos Econômicos)
+   MECANISMO: Controla audiências com o BC (Galípolo) e pauta tributária do 
+   Senado. Delações Odebrecht: R$ 9 mi em pagamentos via operador Hamylton 
+   Padilha. OPOE-SE à instalação da CPI do Banco Master.
+   ATRAPALHA: Vetor 2 (spread), Vetor 4 (transparência)
+
+------------------------------------------------------------------------
+REDE BANCO MASTER (8 políticos diretamente conectados)
+------------------------------------------------------------------------
+
+NOME                        | PARTIDO/UF  | VÍNCULO COM VORCARO/MASTER
+----------------------------|-------------|--------------------------------
+Hugo Motta                  | REP-PB      | Empréstimo R$ 22 mi à cunhada
+Jair Bolsonaro              | PL-SP       | R$ 3 mi de Zettel (maior doador)
+Tarcísio de Freitas         | REP-SP      | R$ 2 mi de Zettel (governo SP)
+Ciro Nogueira               | PP-PI       | Hotel Lisboa bancado por Vorcaro
+Flávio Bolsonaro            | PL-RJ       | Negociação de R$ 134 mi (áudio)
+Valdemar Costa Neto         | PL-SP       | Admitiu R$ 3 mi de Zettel; R$ 119mi emendas
+Nikolas Ferreira            | PL-MG       | Jatinho de Vorcaro em campanha
+Isaac Sidney (Febraban)     | ---         | Empréstimo R$ 5,5 mi do Master (2020)
+
+------------------------------------------------------------------------
+CONTROLE DE COMISSÕES FINANCEIRAS
+------------------------------------------------------------------------
+
+COMISSÃO                          | QUEM CONTROLA              | PARTIDO
+----------------------------------|----------------------------|--------
+Presidência da Câmara             | Hugo Motta                 | Republicanos
+Presidência do Senado             | Davi Alcolumbre            | União Brasil
+CAE (Assuntos Econômicos - Senado)| Renan Calheiros            | MDB
+CFT (Finanças e Tributação)       | Merlong Solano (2026-27)   | PT
+                                   Rogério Correia (2024-25)  | PT
+Membro titular CFT                | Pauderney Avelino          | União (AM)
+CFT (ex-presidente)               | Mário Negromonte Jr.       | PP (BA)
+
+------------------------------------------------------------------------
+PARTIDOS-ÂNCORA DO SETOR FINANCEIRO
+------------------------------------------------------------------------
+
+PARTIDO | SETOR DOMINANTE                          | LÍDER CONEXO
+--------|------------------------------------------|------------------
+MDB     | Sistema financeiro institucional         | Renan, Baleia Rossi, Eduardo Braga
+PSD     | Cartões, adquirentes, fintechs (Cielo etc)| Kassab, Delegada Catarina
+PL      | Rede Banco Master + banqueiros regionais  | Valdemar, Flávio Bolsonaro
+PP      | Bancos regionais + centrão orçamentário   | Arthur Lira, Ciro Nogueira
+PT      | Relatoria tributária (aceitou IFs 5,8%)   | Reginaldo Lopes, Merlong
+
+------------------------------------------------------------------------
+COMO O SETOR FINANCEIRO BLOQUEIA CADA VETOR DO V3.0
+------------------------------------------------------------------------
+
+VETOR 1 (Dívida): Resistência MÉDIA. Prefixação já em curso (47%). 
+  Veto: Motta/Alcolumbre podem bloquear qualquer PL que mexa em regulação 
+  de títulos ou que crie o IQD via lei (mas IQD pode sair por portaria do 
+  Tesouro, sem Congresso).
+
+VETOR 2 (Spread): Resistência MÉDIA-ALTA. PL reduzindo CSLL de IFs 
+  (Frente A do V3.0) foi ARQUIVADO em nov/2025 por articulação Motta-
+  Alcolumbre. Lei do Lobby (PL 1878/2024) SEM relatoria designada — 
+  bloqueio institucional pela Mesa. Febraban defende "governança rígida" 
+  do Open Finance que na prática dificulta entrada de fintechs.
+
+VETOR 4 (Transparência): Resistência ALTÍSSIMA. Renan Calheiros (CAE) 
+  opõe-se à CPI do Banco Master. Galípolo pediu blindagem do BC via CAE.
+
+
+================================================================================
+SISTEMA 2 — CAPTURA ORÇAMENTÁRIA (Emendas + Orçamento Secreto + Contratantes)
+================================================================================
+
+QUEM LUCRA:
+- Contratantes do Estado (construtoras Allpha, Grupo José Marcos/"Rei do Lixo")
+- ONGs capturadas (Moriá: R$ 74 mi em emendas)
+- Partidos que controlam emendas de liderança (PP, União, PL, Republicanos = 96%)
+
+VOLUME DA CAPTURA: R$ 28,8 bi em emendas para municípios em 2024 (salto de 
+269% vs 2019). R$ 1,3 bi em "emendas de liderança" em 2025 (96% em 4 partidos).
+Operação Overclean: R$ 1,4 bi em desvios via DNOCS/BA/AL.
+
+------------------------------------------------------------------------
+NÚCLEO DURO ORÇAMENTÁRIO (CMO + relatores + lideranças)
+------------------------------------------------------------------------
+
+1. ARTHUR LIRA (PP-AL) — Ex-presidente da Câmara (2021-2025)
+   MECANISMO: Relatório sigiloso da PF (dez/2025): destinou emendas do orçamento 
+   secreto à ALLPHA PAVIMENTAÇÕES (obra de R$ 20,4 mi em AL via DNOCS, pregão 
+   fraudado). Ex-assessora investigada (e já citada na Odebrecht). R$ 73 mi em 
+   emendas para AL em dez/2024.
+   ATRAPALHA: Vetor 4 (transparência) — é alvo direto
+
+2. ÂNGELO CORONEL (PSD-BA) — Relator-geral LOA 2025
+   MECANISMO: ADMITIU ao Metrópoles (jun/2025) ser "um dos citados" em gravação 
+   da PF (Operação Overclean) envolvendo Rafael Parente (Allpha) e DNOCS. Enviou 
+   emendas para DNOCS em 2020. Um dos senadores mais ricos do Congresso.
+   ATRAPALHA: Vetor 4
+
+3. LUIZ CARLOS MOTTA (PL-SP) — Relator-geral LOA 2024
+   MECANISMO: Indicado por Lira e Valdemar. Ampliou em quase R$ 25 bi as emendas 
+   sem transparência (Estadão). Presidente da Fecomerciários-SP. Secretário-geral 
+   da Frente Servir Brasil (funcionalismo). DUPLO NODO: orçamento + complexidade.
+   ATRAPALHA: Vetor 3, Vetor 4
+
+4. JÚLIO ARCOVERDE (PP-PI) — Presidente CMO 2024-2025
+   MECANISMO: PP do Piauí (mesmo estado de Ciro Nogueira). Articulador do Centrão. 
+   Presidiu votação da LDO 2025 e LOA 2025.
+   ATRAPALHA: Vetor 4
+
+5. VALDEMAR COSTA NETO (PL-SP) — Presidente nacional do PL
+   MECANISMO: PF aponta R$ 119 milhões em emendas suas irrigaram cidades 
+   estratégicas para o PL nas eleições municipais de 2024. R$ 97 mi enviados 
+   na semana ANTERIOR ao limite pré-eleição. Assessora investigada (Operação 
+   Transparência da PF, dez/2024).
+   ATRAPALHA: Vetor 4
+
+6. PEDRO LUCAS FERNANDES (União-MA) — Líder União → Min. Comunicações
+   MECANISMO: 47% das "emendas de liderança" do União em 2025 foram para o 
+   MARANHÃO (terra dele): R$ 134,9 milhões. Indicado por Lula para ministro 
+   substituindo Juscelino Filho (denunciado pela PGR).
+   ATRAPALHA: Vetor 4
+
+7. RICARDO BARROS (PP-PR) — Líder do Governo na Câmara
+   MECANISMO: Relator-geral do Orçamento em 2016. Caso Covaxin (Precisa 
+   Medicamentos/Francisco Maximiano) — arquivado por Nunes Marques (2023). 
+   MPF: R$ 20 mi em medicamentos não entregues. Defendeu orçamento secreto 
+   como "empoderamento" do Congresso.
+   ATRAPALHA: Vetor 4
+
+------------------------------------------------------------------------
+ESTADOS-CAPTIVO DE CAPTURA ORÇAMENTÁRIA FAMILIAR
+------------------------------------------------------------------------
+
+ESTADO       | FAMÍLIA POLÍTICA          | VOLUME (emendas)
+-------------|---------------------------|------------------
+Maranhão (MA)| Sarney/Felipeão/Pedro Lucas| R$ 134,9 mi (só Pedro Lucas)
+Alagoas (AL) | Lira/Renan Calheiros      | R$ 73 mi (Lira, dez/2024)
+Amazonas (AM)| Eduardo Braga/Omar Aziz   | R$ 4,3 bi (2015-2025 acumulado)
+Piauí (PI)   | Ciro Nogueira/Eliane      | R$ 544 mi (família)
+Bahia (BA)   | Coronel/ACM Neto/Félix    | R$ 1,4 bi (Overclean)
+Tocantins (TO)| Dorinha Seabra           | Top per capita receptor
+
+------------------------------------------------------------------------
+RANKING "EMENDAS DE LIDERANÇA" 2025 (Transparência Brasil, 13/07/2026)
+------------------------------------------------------------------------
+
+PARTIDO        | INDICAÇÕES | VALOR (R$)       | LÍDER
+---------------|------------|------------------|------------------
+PP             | 464        | 427.749.685      | Lira/Ciro/Arcoverde
+UNIÃO BRASIL   | 303        | 288.744.163      | Pedro Lucas (47% p/ MA)
+PL             | 234        | 254.300.000      | Valdemar (SP concentrado)
+REPUBLICANOS   | 260        | 218.400.000      | Marcos Pereira/Hugo Motta
+
+NOTA: 96% de R$ 1,3 bilhão concentrado em 4 partidos. Sem autoria identificada.
+
+
+================================================================================
+SISTEMA 3 — CAPTURA DA COMPLEXIDADE (Cartórios + Contadores + Sistema S + 
+Funcionalismo)
+================================================================================
+
+QUEM LUCRA:
+- 13.233 cartórios (faturamento R$ 15,7 bi/ano, CNJ)
+- ~520.000 contadores registrados (CFC)
+- Sistema S (R$ 30 bi/ano em tributação parafiscal)
+- Sindicatos de servidores (caixa agregado R$ 200-400 mi/ano)
+- Escritórios de advocacia tributária (Mattos Filho, Pinheiro Neto etc.)
+
+VOLUME DA CAPTURA: Custo Brasil de R$ 1,7 tri/ano. Conformidade tributária 
+de R$ 150-430 bi/ano (1,3-4% do PIB). 1.501 horas/ano de conformidade fiscal 
+por empresa (pior do mundo).
+
+------------------------------------------------------------------------
+AS 5 MAIORES BANCADAS SETORIAIS DO CONGRESSO (por tamanho)
+------------------------------------------------------------------------
+
+BANCADA                               | PARLAMENTARES | PRESIDENTE
+--------------------------------------|---------------|------------------
+CARTÓRIOS (Justiça Notarial)          | 325+          | Zé Neto (PT-BA)
+FUNCIONALISMO PÚBLICO (Servir Brasil) | 129 (DIAP)    | André Figueiredo (PDT-CE)
+ADVOCACIA                             | 199+          | Fábio Trad (PT-MS)
+CONTABILIDADE                         | ~100+         | Júlio César (PSD-PI)
+DESPACHANTES                          | ~50+          | Cleber Verde (REP-MA)
+
+NOTA CRÍTICA: A bancada dos cartórios (325+) é a MAIOR bancada do Congresso.
+A de funcionalismo (129 confirmados pelo DIAP, 235 segundo Infomoney) é a 
+3ª maior força transversal. Juntas, estas bancadas formam o BLOCO DA 
+COMPLEXIDADE — com poder de veto PRÉ-PAUTA (não precisam votar contra; 
+basta impedir que chegue ao plenário).
+
+------------------------------------------------------------------------
+NÚCLEOS DIRIGENTES POR VETOR DA COMPLEXIDADE
+------------------------------------------------------------------------
+
+FUNCIONALISMO/SERVIDORES:
+- ANDRÉ FIGUEIRADO (PDT-CE) — Presidente Frente Servir Brasil. Comandou 
+  queda da PEC 32/2020 (reforma administrativa de Guedes). Relações com 
+  ANFIP e CONASUDE.
+- WEVERTON ROCHA (PDT-MA) — 1º vice, senador, conselho de ética.
+- LUIZ CARLOS MOTTA (PL-SP) — Secretário-geral. DUPLO NODO: também é 
+  relator de LOA e elo do Sistema S. Aparece nos 3 sistemas de captura.
+
+CARTÓRIOS:
+- ZÉ NETO (PT-BA) — Presidente da Frente da Justiça Notarial (325+ 
+  parlamentares). Líder do governo Lula na Câmara. Relator de PLPs sobre 
+  Reforma Tributária e Simples/MEI.
+- CELSO SABINO (União-PA) — Vice. Auditor estadual licenciado. Hoje 
+  ministro do Turismo.
+
+CONTABILIDADE:
+- JÚLIO CÉSAR (PSD-PI) — Auditor fiscal. Proponente da Frente Parlamentar 
+  da Contabilidade. Pré-candidato ao Senado 2026.
+
+SISTEMA S:
+- LUIZ CARLOS MOTTA (PL-SP) — Presidente Fecomerciários-SP.
+- RODRIGO PACHECO (PSD-MG) — Presidente do Senado. Promoveu homenagem 
+  ao Sistema S em sessão especial (set/2025).
+- DANILO FORTE (União-CE) — Relator LDO. TENTOU orçamentizar Sistema S 
+  e RECUOU (prova do poder de veto do setor).
+
+AUDITORIA FISCAL (Receita):
+- EDUARDO BRAGA (MDB-AM) — Relator reforma tributária no Senado. 
+  DUPLO NODO: também é relator do PLP 68 e favoreceu FII/FIAGRO 
+  (interesse de asset managers). Aparece nos Sistemas 1 e 3.
+- MARCELO CASTRO (MDB-PI) — Presidente CAS. Relator Orçamento Seguridade.
+
+ADVOGACIA:
+- FÁBIO TRAD (PT-MS) — Coordenador Frente Parlamentar da Advocacia.
+
+DESPACHANTES:
+- CLEBER VERDE (Republicanos-MA).
+
+------------------------------------------------------------------------
+VOTAÇÕES-CHAVE: COMO A BANCADA DA COMPLEXIDADE VOTA
+------------------------------------------------------------------------
+
+PEC 32/2020 (Reforma Administrativa): ARQUIVADA sem votação.
+  Mobilização pré-pauta de André Figueiredo + ANFIP/SINAIT. 
+  Lição: a bancada tem poder de veto PRÉ-PAUTA — não precisa votar 
+  contra no plenário; basta impedir que chegue lá.
+
+PEC DA ANISTIA (set/2025): Aprovada 311x163.
+  PL/Servidores (Bia Kicis, Pazuello, Capitão Augusto) votaram SIM.
+  PT/Servidores (Erika Kokay, André Figueiredo) votaram NÃO.
+  OBSERVAÇÃO: A bancada da complexidade NÃO é coesa ideologicamente. 
+  O eixo é SETORIAL, não partidário. PL e PSOL estão igualmente 
+  representados na bancada do funcionalismo.
+
+Lei de Liberdade Econômica (LC 167/2019): Aprovada mas com resistência 
+  da CTASP à generalização do silêncio positivo. Cartórios mantiveram 
+  exigência de registro mercantil e junta comercial.
+
+
+================================================================================
+CRUZAMENTO: POLÍTICOS QUE APARECEM EM MAIS DE UM SISTEMA
+================================================================================
+
+Estes são os NODOS DE INTERSEÇÃO — parlamentares que conectam múltiplos 
+sistemas de captura. São os veto players mais poderosos porque acumulam 
+influência em mais de uma frente.
+
+------------------------------------------------------------------------
+NODOS TRIPLAMENTE CONECTADOS (3 sistemas)
+------------------------------------------------------------------------
+
+LUIZ CARLOS MOTTA (PL-SP)
+  Sistema 1 (Financeiro): Relator-geral LOA 2024, ampliou R$ 25 bi em 
+    emendas sem transparência.
+  Sistema 2 (Orçamento): Relator de LOA, indicado por Lira/Valdemar.
+  Sistema 3 (Complexidade): Secretário-geral Frente Servir Brasil; 
+    presidente Fecomerciários-SP; elo Sistema S.
+  VEREDICTO: Nodo mais conectado do Congresso. Toca orçamento, 
+    funcionalismo E Sistema S simultaneamente.
+
+HUGO MOTTA (Republicanos-PB)
+  Sistema 1 (Financeiro): Empréstimo R$ 22 mi do Banco Master; bloqueou 
+    tributação de bancos (nov/2025).
+  Sistema 2 (Orçamento): Presidente da Câmara — controla pauta que 
+    define o que vota e quando.
+  Sistema 3 (Complexidade): Controla tramitação de PEC da Reforma 
+    Administrativa (Pedro Paulo é relator); articulou PEC da Blindagem 
+    com voto secreto.
+  VEREDICTO: Veto player supremo da legislatura. Controla a pauta.
+
+EDUARDO BRAGA (MDB-AM)
+  Sistema 1 (Financeiro): Relator PLP 68 no Senado; favoreceu FII/FIAGRO 
+    (interesse de asset managers).
+  Sistema 2 (Orçamento): R$ 141,8 mi em 3 emendas (recordista entre 
+    senadores); Amazonas acumula R$ 4,3 bi (com Omar Aziz).
+  Sistema 3 (Complexidade): Relator reforma tributária (PEC 45/2019) no 
+    Senado; incluiu cashback, FDR ampliado; interlocutor de auditores.
+  VEREDICTO: O senador mais estratégico para pauta tributária.
+
+CIRO NOGUEIRA (PP-PI)
+  Sistema 1 (Financeiro): Hotel Lisboa bancado por Vorcaro (Banco Master).
+  Sistema 2 (Orçamento): Família recebeu R$ 544 mi em emendas (ele + mãe 
+    Eliane Nogueira). Presidente nacional do PP.
+  Sistema 3 (Complexidade): PP é articulador do centrão que controla 
+    pauta e comissões (incluindo CMO).
+  VEREDICTO: Líder do Centrão. Decide governabilidade.
+
+------------------------------------------------------------------------
+NODOS DUPLAMENTE CONECTADOS (2 sistemas)
+------------------------------------------------------------------------
+
+ARTHUR LIRA (PP-AL)
+  Sistema 1: Defendeu autonomia do BC; nunca votou tributação de IFs.
+  Sistema 2: Emendas para Allpha (Overclean); R$ 73 mi para AL.
+
+VALDEMAR COSTA NETO (PL-SP)
+  Sistema 1: Admitiu R$ 3 mi de Zettel (rede Master).
+  Sistema 2: R$ 119 mi em emendas pré-eleição 2024.
+
+RENAN CALHEIROS (MDB-AL)
+  Sistema 1: Presidente CAE; controla audiências com BC; opõe-se à CPI 
+    do Banco Master.
+  Sistema 2: R$ 209 mi em emendas em ano eleitoral 2024; R$ 1 mi para CSA.
+
+RODRIGO PACHECO (PSD-MG)
+  Sistema 1: Conduziu EC 132 e PLP 68 sem contestar favorecimento a IFs.
+  Sistema 3: Promotor da homenagem ao Sistema S; interlocutor CNC.
+
+ZÉ NETO (PT-BA)
+  Sistema 1: Líder do governo Lula na Câmara; relator PLPs tributários.
+  Sistema 3: Presidente da Frente dos Cartórios (325+ parlamentares).
+
+BALEIA ROSSI (MDB-SP)
+  Sistema 1: Presidente nacional do MDB; apoiado pelo grupo Itaú em 2020.
+  Sistema 3: Controla indicações políticas para BB/Caixa/BC.
+
+DANILO FORTE (União-CE)
+  Sistema 2: Relator LDO; tentou orçamentizar Sistema S e recuou.
+  Sistema 3: Elo com Sistema S (SESC/SENAC).
+
+JÚLIO CÉSAR (PSD-PI)
+  Sistema 2: Relator PECs fiscais; pré-candidato Senado.
+  Sistema 3: Proponente da Frente da Contabilidade; auditor fiscal.
+
+MARCELO CASTRO (MDB-PI)
+  Sistema 1: Presidente CAS; relator orçamento seguridade.
+  Sistema 3: Diálogo ANFIP/FENAFISCO; regulamentação bônus eficiência.
+
+
+================================================================================
+MATRIZ DE BLOQUEIO: QUAL POLÍTICO BLOQUEIA QUAL VETOR DO V3.0
+================================================================================
+
+------------------------------------------------------------------------
+VETOR 1 — GESTÃO DA DÍVIDA (prefixação + Nota Fiscal do Tesouro)
+------------------------------------------------------------------------
+
+BLOQUEADOR                    | MECANISMO                         | INTENSIDADE
+------------------------------|-----------------------------------|------------
+Hugo Motta (REP-PB)           | Controla pauta; pode impedir PL   | ALTA
+Davi Alcolumbre (União-AP)    | Controla CCJ e pauta do Senado    | ALTA
+Renan Calheiros (MDB-AL)      | Controla CAE; audiências com BC   | MÉDIA
+
+NOTA: A maior parte do Vetor 1 NÃO precisa de Congresso (é gestão do 
+Tesouro). A Nota Técnica de Impacto Fiscal e o IQD podem sair por portaria. 
+O veto é menor do que parece.
+
+------------------------------------------------------------------------
+VETOR 2 — SPREAD BANCÁRIO (4 frentes: tributação + garantias + competição + dados)
+------------------------------------------------------------------------
+
+BLOQUEADOR                    | MECANISMO                         | INTENSIDADE
+------------------------------|-----------------------------------|------------
+Hugo Motta (REP-PB)           | ARQUIVOU tributação de IFs 11/25  | ALTÍSSIMA
+Davi Alcolumbre (União-AP)    | Aceitou articulação de Motta      | ALTA
+Renan Calheiros (MDB-AL)      | CAE; opõe-se a CPI do Master      | ALTA
+Febraban (Isaac Sidney)       | Lobby técnico; defende Open Fin.  | ALTA
+                              | "rígido" que bloqueia fintechs    |
+Pauderney Avelino (União-AM)  | CFT; transfere responsabilidade   | MÉDIA
+                              | para bancos (barreira entrada)    |
+Mário Negromonte Jr (PP-BA)   | Ex-presidente CFT; régua fintechs | MÉDIA
+
+NOTA: PL reduzindo CSLL de IFs foi o que Motta bloqueou em nov/2025. É o 
+caso mais didático: banco faz empréstimo, parlamentar bloqueia tributação.
+
+------------------------------------------------------------------------
+VETOR 3 — DESBUROCRATIZAÇÃO (silêncio administrativo + reforma tributária limpa)
+------------------------------------------------------------------------
+
+BLOQUEADOR                    | MECANISMO                         | INTENSIDADE
+------------------------------|-----------------------------------|------------
+André Figueiredo (PDT-CE)     | Arquivou PEC 32/2020; lidera      | ALTA
+                              | frente do funcionalismo           |
+Luiz Carlos Motta (PL-SP)     | Nodo orçamento + Sistema S +      | ALTA
+                              | funcionalismo; controla CMO       |
+Zé Neto (PT-BA)               | Presidente Frente Cartórios       | ALTA
+                              | (325+ parlamentares)              |
+Júlio César (PSD-PI)          | Frente Contabilidade; auditor     | MÉDIA
+Cleber Verde (REP-MA)         | Frente Despachantes               | MÉDIA
+Sistema S (CNC/SESC)          | R$ 30 bi/ano; Danilo Forte recuou | MÉDIA
+Fábio Trad (PT-MS)            | Frente Advocacia (199+ parl.)     | MÉDIA
+
+NOTA: A bancada dos cartórios é a MAIOR do Congresso (325+). O poder 
+de veto é PRÉ-PAUTA — não chega ao plenário. A reforma administrativa 
+(Pedro Paulo, PSD-RJ, é relator) está parada por resistência destes atores.
+
+------------------------------------------------------------------------
+VETOR 4 — TRANSPARÊNCIA PUNITIVA (IA + dashboard + denúncias automáticas)
+------------------------------------------------------------------------
+
+BLOQUEADOR                    | MECANISMO                         | INTENSIDADE
+------------------------------|-----------------------------------|------------
+Arthur Lira (PP-AL)           | Alvo direto (Overclean/Allpha)    | ALTÍSSIMA
+Ângelo Coronel (PSD-BA)       | Alvo direto (Overclean)           | ALTÍSSIMA
+Valdemar Costa Neto (PL-SP)   | Alvo direto (emendas R$ 119mi)    | ALTÍSSIMA
+Júlio Arcoverde (PP-PI)       | Presidente CMO; aliado Ciro       | ALTA
+Pedro Lucas (União-MA)        | 47% emendas para MA               | ALTA
+Ricardo Barros (PP-PR)        | Líder governo; caso Covaxin       | ALTA
+Hugo Motta (REP-PB)           | Articulou PEC da Blindagem        | ALTÍSSIMA
+                              | (voto secreto)                    |
+PEC DA BLINDAGEM (set/2025)   | 353x134 — Congresso aprovou       | FATTO COMPIUTO
+                              | blindagem antes de denúncias      |
+
+NOTA: Vetor 4 tem a MAIOR resistência de todos porque atinge o PRÓPRIO 
+CONGRESSO. A PEC da Blindagem (set/2025) foi aprovada 353x134 — 3 dias 
+DEPOIS do início da Operação Overclean (dez/2024) e no contexto de 
+escândalos de emendas pix. Coincidência temporal crítica: o Congresso 
+se blindou ANTES de ser formalmente acusado.
+
+
+================================================================================
+O PADRÃO ESTRUTURAL: COMO A CAPTURA FUNCIONA
+================================================================================
+
+1. NÃO É CORRUPÇÃO ALEATÓRIA. É UM SISTEMA.
+   Os 3 sistemas de captura (financeiro, orçamentário, complexidade) 
+   operam com lógica de clube: membership controlado, reciprocidade 
+   implícita, veto silencioso. Não é preciso propina em cada votação — 
+   basta manter as pessoas certas nos cargos certos.
+
+2. A PAUTA É O PRÊMIO.
+   Quem controla a pauta (Hugo Motta na Câmara, Alcolumbre no Senado) 
+   decide o que NUNCA chega a votação. Não precisam votar contra 
+   tributação de bancos — basta NÃO pautar. O veto mais poderoso é 
+   o silêncio.
+
+3. A SOBREPOSIÇÃO É INTENCIONAL.
+   Políticos que aparecem em 2 ou 3 sistemas (Motta, Lira, Braga, 
+   Ciro) não estão ali por acaso. São NODOS DE INTERSEÇÃO — pontos 
+   onde o sistema financeiro, o orçamento e a complexidade se encontram. 
+   Atacar um veto player destes é atacar 3 sistemas simultaneamente.
+
+4. O PARTIDO É O VEÍCULO, NÃO O MOTOR.
+   PL, PP, União, Republicanos, MDB e PT contêm parlamentares dos 3 
+   sistemas. A divisão não é esquerda/direita — é SETORIAL. PL 
+   (direita) e PSOL (esquerda) estão igualmente na bancada do 
+   funcionalismo. O eixo relevante é: este parlamentar bloqueia qual 
+   vetor?
+
+5. O CICLO ELEITORAL ALIMENTA A CAPTURA.
+   2024: eleições municipais → R$ 36 bi em emendas no 1º semestre; 
+   R$ 97 mi do PL na semana pré-eleição. 
+   2025: PEC da Blindagem (353x134) → autoanistia antes das denúncias.
+   2026: eleição presidencial/parlamentares → Centrão articula 
+   calendário de liberação de emendas antes do pleito.
+   O ciclo NÃO quebra a captura — a REFORÇA.
+
+6. O ESTADO NÃO É WEBERIANO.
+   A teoria do Estado implícita no V2.0 ("pensar bem e apresentar bem 
+   = aprovar bem") pressupõe Estado racional-legal. O Brasil opera com 
+   Estado neo-patrimonial (Fábio Wanderley Reis): interesses setoriais 
+   e relações pessoais pesam mais que mérito técnico. Ignorar isso é 
+   falha metodológica fatal.
+
+
+================================================================================
+IMPLICAÇÕES ESTRATÉGICAS PARA O V3.0
+================================================================================
+
+1. NÃO TENTE CONVENCER HUGO MOTTA.
+   O presidente da Câmara é o veto player supremo. Ele tem R$ 22 mi 
+   de motivo pessoal para proteger o setor bancário (empréstimo Master 
+   à cunhada). A estratégia não é convencê-lo — é CRIAR custo político 
+   de NÃO pautar. Pressão eleitoral indireta via formadores de opinião.
+
+2. VETORES QUE NÃO PRECISAM DE CONGRESSO SÃO PRIORITÁRIOS.
+   Vetor 1 (Nota Fiscal do Tesouro, IQD): via portaria do MF.
+   Vetor 2 Frente B (garantias via Drex) e Frente D (dados via BCB): 
+   via regulamentação.
+   Estas ações avançam SEM depender de Motta/Alcolumbre.
+
+3. O VETOR 4 SÓ AVANÇA FORA DO CONGRESSO.
+   Começar em municípios (onde o Congresso não bloqueia) e usar MPF/TCU/CGU 
+   como aliados institucionais. O Congresso NUNCA vai aprovar transparência 
+   punitiva de emendas parlamentares — a PEC da Blindagem prova isso.
+
+4. A JANELA É PÓS-CRIME.
+   Cada fase da Operação Overclean, cada novo escândalo, cada denúncia 
+   da PGR cria uma janela política temporária. O V3.0 deve estar PRONTO 
+   com proposta legislativa redigida, coalizão mobilizada e narrativa 
+   testada para entrar na janela ANTES que ela feche.
+
+5. COALIZÃO MÍNIMA PARA CADA VETOR:
+   Vetor 1: não precisa de Congresso (portaria Tesouro)
+   Vetor 2: 30-50 deputados em CTF + BCB via CMN (Frentes B e D não 
+     precisam de plenário)
+   Vetor 3: 257+41 mas com janela da EC 132 aberta agora
+   Vetor 4: NÃO buscar via Congresso. Via Judiciário (STF/MPF/TCU).
+
+6. O ALVO NÃO É O POLÍTICO. É A PAUTA.
+   Motta, Alcolumbre e Renan são peças de um sistema. Substituí-los 
+   sem mudar o sistema apenas troca quem controla a pauta. A mudança 
+   estrutural exige: (a) transparência que identifica quem pauta e 
+     quem bloqueia; (b) custo político de NÃO pautar; (c) coalizão 
+     de ganhadores com incentivo material em financiar contrapressão.
+
+
+================================================================================
+ARQUIVOS DE REFERÊNCIA GERADOS
+================================================================================
+
+1. /home/kratos/fact_check_brasil_V2.txt (24,5 KB)
+   Fact-check dos 15 números do V2.0
+
+2. /home/kratos/refutacao_v2_brasil.txt (40,5 KB)
+   6 ataques técnicos ao metodologia
+
+3. /home/kratos/MAPEAMENTO_VETO_PLAYERS_V2.txt (31,6 KB)
+   Veto players institucionais por vetor
+
+4. /home/kratos/BRASIL_V3_SINTESE_FINAL.txt (54,6 KB)
+   Síntese V3.0 completa
+
+5. /home/kratos/orcamento_secreto_emendas_parlamentares_2023_2027.txt (39,6 KB)
+   Mapeamento nominal do orçamento secreto e emendas
+
+6. /home/kratos/mapeamento_setor_financeiro_congresso_2023_2027.txt (39,1 KB)
+   Mapeamento nominal do setor financeiro no Congresso
+
+7. /home/kratos/complexidade_research/industria_complexidade_parlamentares_2023_2027.txt (28,6 KB)
+   Mapeamento nominal da indústria da complexidade
+
+8. ESTE DOCUMENTO (mapa consolidado)
+   Cruzamento dos 3 eixos de captura política
+
+================================================================================
+FIM DO MAPA CONSOLIDADO
+================================================================================

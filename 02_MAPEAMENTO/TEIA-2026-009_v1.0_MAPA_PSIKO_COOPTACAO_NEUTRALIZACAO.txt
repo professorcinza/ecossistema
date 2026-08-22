@@ -1,0 +1,890 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-009
+VERSÃO: v1.0
+CATEGORIA: 02_MAPEAMENTO
+TÍTULO: Mapa Psicológico — Cooptação e Neutralização
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 41,127 bytes (40.2 KB)
+HASH MD5: 9e5e7fbd86f901668deaaccd95b0d272
+HASH SHA-256: 0cbbd5482ae9a72d18f53c23f279b8135b6ad41513328377857e8f8d58719144
+================================================================================
+
+================================================================================
+MAPA PSICOLÓGICO-ESTRATÉGICO: COOPTAÇÃO E NEUTRALIZAÇÃO DE ATORES
+================================================================================
+Análise de vulnerabilidades humanas, mecanismos de influência e estratégias
+de cooptação ou neutralização para cada veto player mapeado.
+================================================================================
+Autor: Cleiton Moura
+Data: Julho/2026
+Premissa: TODO veto player é um ser humano com psicologia, medos, ambições
+e preço. Não existe ator irremovível — existe estratégia ainda não aplicada.
+================================================================================
+
+METODOLOGIA ANALÍTICO
+
+Cada ator é avaliado em 5 dimensões psicológicas:
+
+1. MOTIVADOR PRIMÁRIO: o que REALMENTE move esta pessoa
+   (poder, dinheiro, medo, legado, ego, sobrevivência, ideologia)
+
+2. VULNERABILIDADE: onde esta pessoa é fraca
+   (jurídica, eleitoral, reputacional, financeira, familiar, psicológica)
+
+3. COOPTÁVEL? Esta pessoa pode ser transformada em aliada?
+   SIM = tem algo a ganhar com a reforma
+   CONDICIONAL = depende do desenho da proposta
+   NÃO = tem muito a perder e nada a ganhar
+
+4. SE COOPTÁVEL: O QUE OFERECER
+5. SE NÃO: COMO NEUTRALIZAR
+
+------------------------------------------------------------------------
+TABELA DE MOTIVADORES HUMANOS (todos somos movidos por estes 7 vetores)
+------------------------------------------------------------------------
+
+MOTIVADOR     | DESCRIÇÃO                    | EXEMPLO NO CONGRESSO
+--------------|------------------------------|------------------------
+SOBREVIVÊNCIA | Evitar prisão, ruína, exílio | Lira, Coronel, Valdemar
+PODER         | Controlar pauta, cargos, $   | Motta, Alcolumbre, Renan
+AMBição       | Próximo cargo (Sen, Gov, Pres)| Tarcísio, Nikolas, Pedro Lucas
+EGO           | Reconhecimento, legado, fama | Renan (ex-pres Senado), Braga
+MEDO          | Perder o que já tem          | Hugo Motta (PF Master)
+INTERESSE $   | Lucro pessoal/familiar       | Motta (R$ 22mi), Ciro (hotel)
+IDEOLOGIA     | Crença genuína               | André Figueiredo (servidores)
+
+
+================================================================================
+NÍVEL 1 — A TRÍADE SUPREMA (controla toda a pauta)
+================================================================================
+
+------------------------------------------------------------------------
+1. HUGO MOTTA (Republicanos-PB) — Presidente da Câmara
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: SOBREVIVÊNCIA + PODER
+  Hugo Motta tem 35 anos. Presidiu a Câmara aos 35. Seu motivador dominante
+  é o MEDO da PF + a AMBIÇÃO de continuar no poder. O empréstimo de R$ 22 mi
+  do Banco Master à cunhada é uma espada sobre a cabeça dele. A PF tem os
+  diálogos. A qualquer momento pode virar denúncia.
+
+VULNERABILIDADES:
+  (a) JURÍDICA: PF tem diálogos periciados pedindo liberação do empréstimo
+      ao Vorcaro. Caso evolua para denúncia, perde mandato e面临 prisão.
+  (b) REPUTACIONAL: Se a narrativa "Motta bloqueou tributação de bancos 
+      após receber R$ 22 mi do Master" ganhar tração pública, fica 
+      insustentável.
+  (c) FAMILIAR: A cunhada (Bianca Medeiros) e o irmão (Carlos Wanderley)
+      estão expostos. O R$ 22 mi foi para compra de terra em João Pessoa.
+  (d) PARTIDÁRIA: Republicanos é partido de Tarcísio (governador SP) e
+      Marcos Pereira (evangélico). Motta não é dono do partido — é 
+      inquilino.
+
+COOPTÁVEL? CONDICIONAL — depende do custo de NÃO cooperar.
+  Motta é pragmático (não ideológico). Se o custo político de bloquear 
+  a reforma superar o custo de deixá-la passar, ele a deixa passar. 
+  Não precisa amar a reforma — precisa temer mais bloqueá-la do que 
+  liberá-la.
+
+O QUE OFERECER:
+  - Saída honrosa: se a Nota Técnica de Impacto Fiscal (Vetor 1) sair 
+    por PORTARIA do Tesouro (não precisa de Congresso), Motta não precisa
+    se posicionar. Neutraliza sem confronto.
+  - Pautas que NÃO afetam bancos: deixar Vetor 3 (desburocratização) 
+    avançar primeiro. Motta pode GANHAR capital político apresentando 
+    o Silêncio Administrativo como "conquista da Câmara" sem tocar 
+    no sistema financeiro.
+
+COMO NEUTRALIZAR (se não cooperar):
+  (1) AMPLIFICAÇÃO DO CASO MASTER: a narrativa "Motta bloqueou tributação 
+      de bancos após empréstimo do Master" é devastadora se alcançar 
+      massa. YouTube + TikTok com dados factuais. Não é ataque pessoal 
+      — é correlação temporal documentada.
+  (2) PRESSÃO VIA REPUBLICANOS: Tarcísio de Freitas (governador SP, 
+      pré-candidato presidencial 2026) NÃO quer ser associado ao 
+      escândalo Master. Pressão sobre Tarcísio = pressão sobre o partido 
+      = pressão sobre Motta.
+  (3) CPI DO BANCO MASTER: se instalada, Motta é forçado a testemunhar 
+      ou obstruir. Obstrução de CPI é crime. O próprio fato de uma CPI 
+      existir muda seu cálculo de custo-benefício.
+  (4) VIA STF: se Flávio Dino (relator da ADPF 854) determinar 
+      transparência total de emendas, Motta perde o instrumento de 
+      troca política (emendas secretas = moeda de poder).
+
+CUSTO: MÉDIO. PRAZO: 6-18 meses.
+
+------------------------------------------------------------------------
+2. DAVI ALCOLUMBRE (Uniãoão-AP) — Presidente do Senado/Congresso
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: PODER + AMBIÇÃO
+  Alcolumbre é o arquétipo do político "um pé em cada canoa". Não tem 
+  ideologia — tem interesse. Quer continuar presidindo o Senado ou 
+  alcançar cargo maior. O Amapá é seu curral eleitoral (R$ 474 mi em 
+  emendas em um dia).
+
+VULNERABILIDADES:
+  (a) REPUTACIONAL: R$ 474 mi em emendas em UM DIA é statisticamente 
+      absurdo. Se virar narrativa pública ("Alcolumbre recebeu meio 
+      bilhão em um dia"), é difícil defender.
+  (b) ELEITORAL: Amapá é pequeno (513 mil eleitores). A concentração 
+      de emendas é visível para o eleitor local — pode ser usada tanto 
+      a favor (trouxe recursos) quanto contra (desviou).
+  (c) COALIZÃO: União Brasil é partido novo (fusão DEM-PSL), sem 
+      disciplina interna. Alcolumbre é negociável.
+
+COOPTÁVEL? SIM — com baixo custo.
+  Alcolumbre é o mais pragmático da tríade. Não tem vínculo emocional 
+  com o setor bancário (ao contrário de Motta). Aceitou a articulação 
+  de Motta em nov/2025 não por convicção, mas por conveniência de poder.
+
+O QUE OFERECER:
+  - PROJETO DE IMPACTO PARA O AMAPÁ: Alcolumbre quer ser reeleito ou 
+    alcançar cargo maior. Um projeto visível de modernização (ex: 
+    digitalização de portos, integração Drex para comércio fronteira 
+    AP) dá a ele algo para se orgulhar.
+  - RECONHECIMENTO INTERNACIONAL: senadores adoram ser convidados para 
+    fóruns internacionais (OCDE, FMI). Apresentá-lo como "líder da 
+    modernização tributária brasileira" massageia o ego.
+  - PAUTA SEPARADA: deixar Vetor 1 (gestão dívida) avançar via Tesouro 
+    sem passar pelo Senado. Reduz o confronto direto.
+
+COMO NEUTRALIZAR:
+  (1) EXPOSIÇÃO DO R$ 474 MI: dado concreto, fácil de comunicar.
+  (2) DIVISÃO NO UNIÃO: o partido tem alas (ACM Neto/BA, Pedro Lucas/MA,
+      Tabl/SP). Pressionar alas regionais para que Motta perca apoio 
+      interno.
+  (3) REFORMA DO REGIMENTO DO SENADO: mudar regras para que o presidente
+      não controle sozinho a pauta. Exigir pauta automática para projetos 
+      com X assinaturas.
+
+CUSTO: BAIXO-MÉDIO. PRAZO: 6-12 meses.
+
+------------------------------------------------------------------------
+3. RENAN CALHEIROS (MDB-AL) — Presidente da CAE
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: EGO + LEGADO + PODER
+  Renan foi presidente do Senado por 12 anos (2005-2017). Já foi um dos 
+  homens mais poderosos do Brasil. Seu motivador é o LEGADO — quer ser 
+  lembrado como estadista, não como um dos citados na Odebrecht. Tem 
+  orgulho ferido de ter perdido a presidência do Senado.
+
+VULNERABILIDADES:
+  (a) JURÍDICA: delações Odebrecht (R$ 9 mi via operador Hamylton 
+      Padilha). Caso JS Container. Nunca foi condenado, mas a sombra 
+      existe.
+  (b) REPUTACIONAL: já foi alvo de memes, charges e escândalos. Tem 
+      casca grossa — mas a fadiga reputacional é real.
+  (c) FAMILIAR: filho Renan Filho (ministro dos Transportes) foi citado 
+      na Odebrecht (R$ 800 mil). A família política está exposta.
+  (d) OPÕE-SE à CPI do Banco Master: posição indefensável publicamente.
+
+COOPTÁVEL? CONDICIONAL — via EGO e LEGADO.
+  Renan tem 69 anos. Está no fim de carreira. Se oferecerem a ele um 
+  PAPEL HISTÓRICO (ex: relator de uma reforma que melhora a gestão 
+  fiscal), pode aceitar pela glória. Quer ser "o homem que consertou 
+  o Brasil", não "o homem que protegeu bancos".
+
+O QUE OFERECER:
+  - RELATORIA DE UMA PROPOSTA COM SEU NOME: "Emenda Calheiros" ou 
+    "Marco Calheiros de Gestão Fiscal". Políticos seniores adoram 
+    ter coisas com seu nome.
+  - AUDIÊNCIAS NA CAE COM GALÍPOLO: se Renan conduzir audiências 
+    públicas com o presidente do BC sobre custo fiscal da Selic, 
+    ganha mídia e relevância. Vira o "senador que questionou o BC".
+  - POSICIONAMENTO PRÓ-CPI DO MASTER: se Renan deixar a CPI do Master 
+    instalar, vira herói anticorrupção. O custo de se opor à CPI é 
+    muito alto publicamente.
+
+COMO NEUTRALIZAR:
+  (1) PRESSÃO PARA CPI DO MASTER: se suficiente pressão pública exigir 
+      a CPI e Renan continuar bloqueando, fica insustentável.
+  (2) ENTRADA DO STF: Dino já tem a ADPF 854. Se o STF determinar 
+      regras mais rígidas para emendas, reduz o poder de Renan como 
+      negociador de pauta.
+  (3) ALTERNATIVA NA CAE: identificar senadores da CAE que podem 
+      articular pauta paralela (Alessandro Vieira-SE, Randolph 
+      Rodrigues-AP são tecnicamente competentes e podem ser aliados 
+      em pautas específicas).
+
+CUSTO: MÉDIO. PRAZO: 12-24 meses.
+
+
+================================================================================
+NÍVEL 2 — NÓS DE PODER ORÇAMENTÁRIO
+================================================================================
+
+------------------------------------------------------------------------
+4. ARTHUR LIRA (PP-AL) — Ex-presidente da Câmara, pré-candidato ao Senado
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: SOBREVIVÊNCIA + AMBIÇÃO
+  Lira perdeu a presidência da Câmara. Agora quer o Senado (eleição 2026).
+  O Overclean é uma ameaça existencial para ele. Relatório sigiloso da 
+  PF (dez/2025) o conecta à Allpha Pavimentações.
+
+VULNERABILIDADES:
+  (a) JURÍDICA: PF tem relatório sigiloso conectando-o à Allpha. A 
+      9ª fase da Overclean (jan/2026) pode escalar.
+  (b) ELEITORAL: Alagoas é estado pequeno. O Overclean pode dominar 
+      o debate eleitoral de 2026. Se a narrativa "Lira desviou R$ 1,4 
+      bi via DNOCS" pegar, perde o Senado.
+  (c) EX-ASSESSORA: investigada pela PF E já citada na Odebrecht. 
+      Dupla exposição.
+
+COOPTÁVEL? NÃO — tem muito a perder.
+  Lira é o veto player mais comprometido. Qualquer reforma de 
+  transparência (Vetor 4) ameaça diretamente seu modelo político.
+
+COMO NEUTRALIZAR:
+  (1) OVERCLEAM COMO CUSTO ELEITORAL: a operação está em curso (PF). 
+      O papel do V3.0 é AMPLIFICAR o caso no debate público de ALAGOAS, 
+      não processualmente. Documentário, TikTok, rádio local.
+  (2) APOIAR ADVERSÁRIO NO SENADO: identificar candidato competitivo 
+      em AL que seja reformista. Não precisa vencer — basta ameaçar 
+      a vitória de Lira para forçá-lo a gastar capital político se 
+      defendendo.
+  (3) ISOLAMENTO INSTITUCIONAL: com Lira fora da presidência da 
+      Câmara (desde fev/2025), seu poder diminuiu. Se Hugo Motta 
+      for neutralizado (Nível 1), Lira perde o braço na Câmara.
+
+CUSTO: ALTO. PRAZO: 12-24 meses (alinhado com eleição 2026).
+
+------------------------------------------------------------------------
+5. CIRO NOGUEIRA (PP-PI) — Ex-Casa Civil, líder do Centrão
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: SOBREVIVÊNCIA + RIQUEZA FAMILIAR
+  Ciro foi chefe da Casa Civil de Bolsonaro. Hotel de luxo em Lisboa 
+  bancado por Vorcaro (Banco Master). Família controla PP no Piauí 
+  (mãe é senadora: R$ 399 mi em emendas em 2021).
+
+VULNERABILIDADES:
+  (a) JURÍDICA: conexão Master (Vorcaro pagou hotel Lisboa). Pode 
+      evoluir na investigação do Master.
+  (b) FAMILIAR: mãe (Eliane Nogueira) é senadora com R$ 399 mi em 
+      emendas. Família inteira exposta.
+  (c) ELEITORAL: Piauí é pequeno. R$ 544 mi em emendas familiares é 
+      número fácil de comunicar.
+
+COOPTÁVEL? NÃO — contrôle de família sobre estado.
+
+COMO NEUTRALIZAR:
+  (1) EXPOSIÇÃO DA DINÂMICA FAMILIAR: "Família Nogueira: R$ 544 mi em 
+      emendas" é narrativa potente para PI.
+  (2) APOIAR ALTERNATIVA NO PP: o PP tem outras alas. Pressão interna 
+      pode fragmentar o contrôle de Ciro.
+  (3) MASTER: se a CPI do Master for instalada, Ciro é forçado a 
+      depor sobre o hotel em Lisboa.
+
+CUSTO: ALTO. PRAZO: 12-24 meses.
+
+------------------------------------------------------------------------
+6. ÂNGELO CORONEL (PSD-BA) — Relator-geral LOA 2025
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: RIQUEZA + PODER
+  Um dos senadores mais ricos do Congresso. ADMITIU ser citado na 
+  Overclean. Empresário. Relator do Orçamento = controle de R$ bilhões.
+
+VULNERABILIDADES:
+  (a) JURÍDICA: admitiu publicamente ser "um dos citados" na Overclean.
+      Autoincriminação.
+  (b) REPUTACIONAL: já admitiu conexão com Allpha/Rafael Parente.
+
+COOPTÁVEL? NÃO.
+
+COMO NEUTRALIZAR:
+  (1) Overclean em curso (PF). Exposição midiática contínua.
+  (2) SUBSTITUIÇÃO NA RELATORIA: se Hugo Motta for neutralizado, a 
+      nomeação do relator da LOA muda. Pressionar por um relator 
+      técnico (não ligado ao centrão).
+  (3) BAIA: ACM Neto (União-BA) é rival político. Explorar racha 
+      interno na bancada baiana.
+
+CUSTO: MÉDIO. PRAZO: 12 meses.
+
+------------------------------------------------------------------------
+7. VALDEMAR COSTA NETO (PL-SP) — Presidente nacional do PL
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: SOBREVIVÊNCIA + PODER PARTIDÁRIO
+  Valdemar já renunciou a mandato em 2005 por escândalo (mensalão). 
+  Voltou. Presidente do PL. R$ 119 mi em emendas pré-eleição 2024.
+
+VULNERABILIDADES:
+  (a) JURÍDICA: PF aponta R$ 119 mi em emendas pré-eleição. Assessora 
+      investigada (Operação Transparência, dez/2024).
+  (b) REPUTACIONAL: histórico de escândalo (mensalão). Reincidência 
+      é narrativa potente.
+
+COOPTÁVEL? NÃO.
+
+COMO NEUTRALIZAR:
+  (1) PF em curso. Exposição pública do padrão (R$ 97 mi na semana 
+      pré-eleição = compra de votos municipais).
+  (2) PRESSÃO SOBRE O PL: Bolsonaro é inelegível mas continua líder 
+      da base. Se a narrativa "Valdemar usa o PL para desvio" pegar, 
+      a própria base bolsonarista pode virar contra ele.
+  (3) ESQUEMA MASTER: R$ 3 mi de Zettel (admitido). Conexão direta 
+      com Vorcaro.
+
+CUSTO: MÉDIO-ALTO. PRAZO: 12-24 meses.
+
+------------------------------------------------------------------------
+8. RICARDO BARROS (PP-PR) — Líder do Governo na Câmara
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: PODER + SOBREVIVÊNCIA
+  Ex-ministro da Saúde (Temer). Caso Covaxin (Precisa Medicamentos). 
+  Líder do governo = controla votação de matérias do executivo.
+
+VULNERABILIDADES:
+  (a) JURÍDICA: caso Covaxin arquivado por Nunes Marques (2023) mas 
+      pode reabrir. MPF: R$ 20 mi em medicamentos não entregues.
+  (b) DEFENDE ORÇAMENTO SECRETO PUBLICAMENTE: chamou de 
+      "empoderamento do Congresso". Posição difícil de defender.
+
+COOPTÁVEL? CONDICIONAL.
+  Como líder do GOVERNO, sua posição depende de Lula/Haddad. Se o 
+  executivo apoiar a Nota Técnica de Impacto Fiscal (Vetor 1), 
+  Ricardo Barros é FORÇADO a votar a favor (é líder do governo).
+
+O QUE OFERECER:
+  - ALINHAMENTO VIA EXECUTIVO: não cooptar Barros diretamente. 
+    Cooptar HADDAD/Fazenda. Se Haddad quer a Nota Técnica (ganha 
+    previsibilidade), Barros tem que articular a votação.
+
+COMO NEUTRALIZAR:
+  (1) VIA HADDAD: alinhar com Ministério da Fazenda. Se a pauta for 
+      do executivo, Barros obedece (cargo depende de Lula).
+  (2) EXPOSIÇÃO DO CASO COVAXIN: "Precisa Medicamentos" é nome fácil 
+      de comunicar.
+
+CUSTO: BAIXO (via executivo). PRAZO: 6-12 meses.
+
+
+================================================================================
+NÍVEL 3 — NÓS DE INTERSEÇÃO (2-3 sistemas)
+================================================================================
+
+------------------------------------------------------------------------
+9. LUIZ CARLOS MOTTA (PL-SP) — Triple Nodo
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: PODER SINDICAL + RIQUEZA
+  Presidente da Fecomerciários-SP (base eleitoral sindical). Secretário-
+  geral da Frente Servir Brasil. Relator de LOA. Toca Sistema S, 
+  funcionalismo e orçamento simultaneamente.
+
+VULNERABILIDADES:
+  (a) AMPLIOU R$ 25 bi em emendas sem transparência (Estadão). Número 
+      que pode virar narrativa.
+  (b) RELATOR DE LOA = posição visível. Tudo que passa por ele é 
+      público.
+  (c) DUPLA FUNÇÃO: ser relator de LOA E líder do funcionalismo é 
+      conflito de interesse explícito.
+
+COOPTÁVEL? CONDICIONAL — via Sistema S.
+  Motta ganha com a manutenção do Sistema S (R$ 30 bi/ano em tributo 
+  parafiscal para Fecomerciários). Se a reforma do Sistema S for 
+  desenhada como "modernização" (não extinção), ele pode apoiar.
+
+O QUE OFERECER:
+  - REFORMA DO SISTEMA S COM COMPENSAÇÃO: transformar 30% da 
+    arrecadação parafiscal em fundo de crédito para fintechs 
+    cooperativas (Sicredi/Sicoob). Motta ganha: (a) controle sobre 
+    novo fundo, (b) legado de modernizador, (c) a Fecomerciários 
+    mantém relevância.
+
+COMO NEUTRALIZAR:
+  (1) CONFLITO DE INTERESSE: expor que o relator da LOA é líder do 
+      funcionalismo e presidente de entidade do Sistema S. PGR pode 
+      opinar.
+  (2) SUBSTITUIÇÃO NA RELATORIA: se Hugo Motta for neutralizado, 
+      novo presidente da Câmara nomeia outro relator.
+
+CUSTO: MÉDIO. PRAZO: 12 meses.
+
+------------------------------------------------------------------------
+10. EDUARDO BRAGA (MDB-AM) — Triple Nodo
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: PODER + RIQUEZA REGIONAL
+  Relator da reforma tributária no Senado. Incluiu regime favorecido 
+  para FII/FIAGRO. Amazonas: R$ 4,3 bi em emendas (com Omar Aziz).
+
+VULNERABILIDADES:
+  (a) CONCENTRAÇÃO DE EMENDAS: R$ 141,8 mi em 3 emendas (recordista).
+  (b) VÍNCULO FII/FIAGRO: incluiu regime favorecido para fundos 
+      imobiliários — beneficia asset managers diretamente. Pode ser 
+      narrativa de "Braga protege ricos".
+
+COOPTÁVEL? SIM — é técnico e pragmático.
+  Braga é ex-governador. Tem histórico de gestão (não apenas 
+  legislativo). Votou SIM na reforma tributária. Incluiu cashback 
+  de botijão (pauta social). Não é ideologicamente contra reforma.
+
+O QUE OFERECER:
+  - PAPEL DE RELATOR DO IQD: se o Índice de Qualidade da Dívida 
+    precisar de base legislativa, Braga pode ser o relator no 
+    Senado. Dá a ele legado técnico.
+  - CASHBACK TRIBUTÁRIO AMPLIADO: ele já incluiu cashback de gás. 
+    Ampliar para serviços financeiros (crédito barato para baixa 
+    renda) é pauta que ele pode apresentar como própria.
+
+COMO NEUTRALIZAR:
+  (1) EXPOSIÇÃO DAS EMENDAS DA AMAZÔNIA: R$ 4,3 bi para um estado 
+      de 4 milhões de habitantes é R$ 1.075/habitante. Comparar 
+      com SP (R$ X/habitante) comunica desproporção.
+  (2) OMAR AZIZ (PSD-AM): tio de Braga. Rivalidade interna no AM 
+      pode ser explorada se Aziz for mais cooperativo.
+
+CUSTO: BAIXO (altamente cooptável). PRAZO: 6-12 meses.
+
+------------------------------------------------------------------------
+11. BALEIA ROSSI (MDB-SP) — Presidente nacional do MDB
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: AMBIÇÃO PRESIDENCIAL + PODER PARTIDÁRIO
+  Presidente do MDB. Pré-candidato a tudo (SP, Senado, Presidência). 
+  Apoiado pelo grupo Itaú em 2020. Articula fusão MDB-PSDB.
+
+VULNERABILIDADES:
+  (a) VÍNCULO ITAÚ: apoio explícito em 2020 (Décio da Produção). 
+      Se a narrativa "Rossi é o candidato dos bancos" pegar, perde 
+      apelo popular.
+  (b) FUSÃO MDB-PSDB: complexa, pode não vingar. Se falhar, 
+      enfraquece.
+
+COOPTÁVEL? SIM — via AMBIÇÃO.
+  Rossi quer ser presidente. Se calcular que a pauta de gestão 
+  fiscal e redução de spread é POPULAR (electoralmente vantajosa), 
+  pode adotá-la como plataforma.
+
+O QUE OFERECER:
+  - PAUTA POPULAR ANTI-OLIGOPÓLIO: "Baleia Rossi: o candidato que 
+    quebrou o oligopólio bancário". Narrativa eleitoral potente.
+  - APOIO DO ITAÚ DE forma ESTRUTURADA: se o Itaú for cooptado 
+    (ver Nível 5), Rossi ganha apoio técnico E político.
+
+COMO NEUTRALIZAR:
+  (1) EXPOSIÇÃO DO VÍNCULO ITAÚ: se Rossi aparecer como "candidato 
+      dos bancos", perde base popular.
+  (2) FUSÃO FRACASSADA: se não conseguir unir MDB-PSDB, perde 
+      capital político.
+
+CUSTO: BAIXO. PRAZO: 6-12 meses.
+
+
+================================================================================
+NÍVEL 4 — LÍDERES SETORIAIS (complexidade e funcionalismo)
+================================================================================
+
+------------------------------------------------------------------------
+12. ANDRÉ FIGUEIREDO (PDT-CE) — Presidente da Frente Servir Brasil
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: IDEOLOGIA + LEALDADE DE CATEGORIA
+  Este é o ator mais DIFÍCIL de neutralizar porque é movido por 
+  IDEOLOGIA genuína, não por corrupção. Acredita que defender 
+  servidores públicos é correto. Comandou a queda da PEC 32/2020.
+
+VULNERABILIDADES:
+  (a) POUCAS: não tem processos, não tem escândalos financeiros. 
+      Sua vulnerabilidade é POLÍTICA: se os próprios servidores 
+      deixarem de apoiá-lo.
+  (b) PDT: partido pequeno. Se Ciro Gomes (líder do PDT) mudar 
+      de posição, André Figueiredo perde base.
+
+COOPTÁVEL? CONDICIONAL — via ENQUADRAMENTO.
+  Não se coopta André Figueiredo com dinheiro ou cargo. Se coopta 
+  com ARGUMENTO: "silêncio administrativo NÃO elimina servidores — 
+  elimina BUROCRACIA INÚTIL que sobrecarrega os servidores honestos".
+
+O QUE OFERECER:
+  - REFORMA QUE PROTEGE SERVIDOR HONESTO: silêncio administrativo 
+    não é contra servidor — é contra o sistema que força o servidor 
+    a ser burocrata em vez de gestor. Apresentar como "liberação 
+    dos servidores para trabalho relevante".
+  - MODERNIZAÇÃO COM MANUTENÇÃO DE CARREIRAS: o medo do funcionalismo 
+    é perder emprego. Garantir que nenhuma carreira é extinta — 
+    apenas realocada para funções de fiscalização estratégica (não 
+    processos de papel).
+  - BÔNUS DE EFICIÊNCIA: servidores que reduzem backlog ganham 
+    bônus. Isto é pauta do funcionalismo (ANFIP já defende).
+
+COMO NEUTRALIZAR:
+  (1) ENQUADRAMENTO: não é "reforma administrativa contra 
+      servidores". É "liberação de servidores para trabalho 
+      relevante".
+  (2) DIVISÃO INTERNA DO FUNCIONALISMO: a bancada tem 129 
+      parlamentares de partidos diferentes. PL/Servidores (Bia 
+      Kicis, Pazuello) e PT/Servidores (Erika Kokay) votam 
+      diferente. Explorar a divisão: apresentar a reforma como 
+      "pauta da direita" (liberdade econômica) perde o PT; 
+      apresentar como "pauta de esquerda" (reduzir custo para 
+      trabalhador) perde o PL. O enquadramento correto é 
+      TÉCNICO-ADMINISTRATIVO (não ideológico).
+  (3) CIRO GOMES: líder do PDT. Se Ciro apoiar, André segue.
+
+CUSTO: MÉDIO. PRAZO: 12-24 meses.
+
+------------------------------------------------------------------------
+13. ZÉ NETO (PT-BA) — Presidente da Frente dos Cartórios (325+)
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: PODER SETORIAL + LEALDADE DE CATEGORIA
+  Controla a MAIOR bancada do Congresso (325+). Líder do governo 
+  Lula na Câmara. Relator de PLPs tributários.
+
+VULNERABILIDADES:
+  (a) CONFLITO DE INTERESSE: líder do governo E presidente da 
+      bancada dos cartórios. Se a narrativa "Zé Neto protege 
+      cartórios contra modernização" pegar, gera desconforto com 
+      o Palácio do Planalto.
+  (b) PT: se Lula/Haddad apoiarem digitalização, Zé Neto é forçado 
+      a cooperar (é líder do governo).
+
+COOPTÁVEL? CONDICIONAL — via LULA.
+  Zé Neto obedece ao Planalto (cargo de líder depende de Lula). 
+  Se Lula apoiar a digitalização de cartórios, Zé Neto articula a 
+  aprovação.
+
+O QUE OFERECER:
+  - COMPENSAÇÃO PARA CARTÓRIOS: como no modelo espanhol, cartórios 
+    recebem novas atribuições (certificação digital, attestation de 
+    smart contracts via Drex) que substituem a perda de receita com 
+    papel. Não é extinção — é transformação.
+  - PAPEL DE LÍDER NA MODERNIZAÇÃO: Zé Neto apresenta a digitalização 
+    como "conquista do PT para o cidadão" (reduz tempo de registro 
+    de imóvel de meses para dias).
+
+COMO NEUTRALIZAR:
+  (1) VIA LULA: pressão sobre o Planalto. Se Lula assinar decreto 
+      de digitalização, Zé Neto obedece.
+  (2) CONFLITO DE INTERESSE PÚBLICO: expor que o líder do governo 
+      preside a bancada de um setor econômico específico.
+  (3) ALTERNATIVAS TECNOLÓGICAS: o Drex e o SERP (Sistema Eletrônico 
+    de Registros Públicos, Lei 14.382/2022) já existem. A questão 
+    é implementação. Avançar via Judiciário (CNJ) reduz a 
+    dependência de Congresso.
+
+CUSTO: MÉDIO. PRAZO: 12-24 meses.
+
+------------------------------------------------------------------------
+14. JÚLIO CÉSAR (PSD-PI) — Proponente da Frente da Contabilidade
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: AMBIÇÃO (pré-candidato ao Senado 2026) + PODER 
+                    SETORIAL (auditor fiscal)
+
+VULNERABILIDADES:
+  (a) AUDITOR FISCAL: profissão declarada ao TSE. A reforma 
+      tributária que SIMPLIFICA tributos reduz a demanda por 
+      auditores — conflito de interesse direto.
+  (b) PRÉ-CANDIDATO AO SENADO: vulnerável eleitoralmente no PI.
+
+COOPTÁVEL? CONDICIONAL — via ENQUADRAMENTO ELEITORAL.
+  Como pré-candidato ao Senado, Júlio César precisa de narrativa 
+  eleitoral. Se a simplificação tributária for apresentada como 
+  "reduz custo para o piccolo empreendedor do PI", ele pode apoiar.
+
+O QUE OFERECER:
+  - "SIMPLIFICAÇÃO QUE PROTEGE O PEQUENO": enquadrar a reforma como 
+    benefício para MEI/pequeno empresário (não para grande empresa).
+    Contadores que servem MEI mantêm clientela; contadores que 
+    servem planejamento tributário complexo perdem — mas isso é 
+    minoria.
+  - CERTIFICAÇÃO DIGITAL: contadores ganham nova atribuição 
+    (auditoria de smart contracts, certificação Drex).
+
+CUSTO: BAIXO-MÉDIO. PRAZO: 6-12 meses.
+
+
+================================================================================
+NÍVEL 5 — ATORES DO SETOR PRIVADO (Febraban, Itaú, Sistema S)
+================================================================================
+
+------------------------------------------------------------------------
+15. FEBRABAN / ISAAC SIDNEY
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: PODER INSTITUCIONAL + SOBREVIVÊNCIA PESSOAL
+  Isaac Sidney é presidente da Febraban (maior lobby bancário). 
+  TOMOU R$ 5,5 mi emprestado do Banco Master em 2020. Conexão 
+  documentada entre o lobby oficial e o esquema Master.
+
+VULNERABILIDADES:
+  (a) JURÍDICA: empréstimo de R$ 5,5 mi do Banco Master. Se a CPI 
+      do Master for instalada, Sidney é convocado.
+  (b) REPUTACIONAL: Febraban perdeu credibilidade técnica após 
+      escândalos (Master, spread elevado, taxa de juros real mais 
+      alta do mundo).
+
+COOPTÁVEL? CONDICIONAL — via DIVISÃO INTERNA.
+  A Febraban NÃO é monolítica. Itaú, Bradesco e Santander (bancos 
+  listados em bolsa com compliance) TÊM MEDO de serem associados ao 
+  Banco Master. O Nubank e fintechs JÁ são aliados potenciais do 
+  Vetor 2. A estratégia é DIVIDIR a Febraban.
+
+O QUE OFERECER:
+  - A Febraban pode apoiar: (a) reforma do sistema de garantias 
+    (reduz inadimplência que afeta TODOS os bancos), (b) Drex 
+    (modernização que bancos grandes podem absorver mais rápido).
+  - O que NÃO pode apoiar: redução de CSLL, tributação de IFs, 
+    Open Finance irrestrito. Estes são linha vermelha.
+
+COMO NEUTRALIZAR:
+  (1) DIVISÃO: cooptar Nubank + XP + fintechs para uma ASSOCIAÇÃO 
+      ALTERNATIVA (Fintech Brasil) que concorre com a Febraban na 
+      narrativa pública. "Febraban defende bancos antigos; 
+      Fintech Brasil defende consumidores."
+  (2) CPI DO MASTER: expõe a conexão Sidney-Vorcaro. Enfraquece 
+      a Febraban institucionalmente.
+  (3) INTERNACIONAL: a OCDE e o Banco Mundial já recomendam mais 
+      competição no SFN brasileiro. Usar essas instituições como 
+      contrapeso técnico.
+
+CUSTO: MÉDIO-ALTO. PRAZO: 12-24 meses.
+
+------------------------------------------------------------------------
+16. SISTEMA S (CNC, SESC, SENAC, SENAI)
+------------------------------------------------------------------------
+
+MOTIVADOR PRIMÁRIO: SOBREVIVÊNCIA INSTITUCIONAL + R$ 30 BI/ANO
+  O Sistema S movimenta R$ 30 bi/ano em tributação parafiscal. 
+  É um Estado paralelo de serviços sociais. Tem medo de ser 
+  orçamentizado (perde autonomia).
+
+VULNERABILIDADES:
+  (a) OPACIDADE: o Sistema S não presta contas ao TCU de forma 
+      completa. R$ 30 bi/ano sem auditoria externa é vulnerabilidade 
+      reputacional.
+  (b) CONFLITO SOCIAL: o Sistema S serve patrões E empregados 
+      (paradoxo estrutural). Se sindicatos de trabalhadores 
+      questionarem a gestão, o sistema racha.
+  (c) DANILO FORTE já tentou orçamentizar e RECUOU (prova do poder 
+      de veto, mas também prova de que o ataque é viável).
+
+COOPTÁVEL? CONDICIONAL — via REFORMA QUE PRESERVA Atribuições.
+  Se a reforma for "extinção do Sistema S", o veto é total. Se 
+  for "transparência + modernização + manutenção de serviços", 
+  é negociável.
+
+O QUE OFERECER:
+  - AUDITORIA TCU OPCIONAL: o Sistema S aceita auditoria voluntária 
+    em troca de manutenção da autonomia financeira. "Quem não tem 
+    o que esconder, aceita transparência."
+  - DIGITALIZAÇÃO DE SERVIÇOS: SESC/SENAC ganham plataforma digital 
+    que amplia alcance (cursos online para 100 mi de pessoas em 
+    vez de presenciais para 10 mi).
+
+CUSTO: ALTO. PRAZO: 24+ meses.
+
+
+================================================================================
+ESTRATÉGIAS SISTÊMICAS (não ator-específicas)
+================================================================================
+
+Estas estratégias funcionam para TODOS os atores simultaneamente, 
+independentemente de perfil individual.
+
+------------------------------------------------------------------------
+S1 — CPI DO BANCO MASTER (a alavanca universal)
+------------------------------------------------------------------------
+
+A CPI do Banco Master é o maior instrumento de pressão disponível. 
+Ela atinge Motta, Ciro, Flávio Bolsonaro, Valdemar, Isaac Sidney 
+(Febraban) e indiretamente Lira e Coronel (via Overclean).
+
+POR QUE FUNCIONA:
+- Médo de depor em CPI pública (exposição máxima)
+- Médo de newos revelations (PF tem diálogos periciados)
+- Médo de CPI gerar CPI (Master pode escalar para Overclean)
+
+COMO FORÇAR:
+- Pressão pública via mídia social + investigativa
+- Petição com 1,7+ milhões de assinaturas (necessário para CPI 
+  no Senado: 1/3 das assinaturas = 27 senadores)
+- Aliados potenciais no Senado: Alessandro Vieira (PSDB-SE), 
+  Randolph Rodrigues (PT-AP), Soraya Thronicke, Omar Aziz (que 
+  pode querer redimir-se do Amazonas)
+
+CUSTO: MÉDIO. PRAZO: 6-12 meses.
+
+------------------------------------------------------------------------
+S2 — AMPLIFICAÇÃO NARRATIVA (YouTube + TikTok)
+------------------------------------------------------------------------
+
+A narrativa mais potente NÃO é "corrupção genérica". É a CORRELAÇÃO 
+TEMPORAL ESPECÍFICA: "Motta recebeu R$ 22 mi do Master e BLOQUEOU 
+tributação de bancos". Isso é diferente de "político corrupto" — 
+é "sistema de captura documentado".
+
+PRODUTOS:
+(a) DOCUMENTÁRIO YouTube (45-60 min, estilo Last Week Tonight):
+    "O Preço da Selic" — explica como R$ 950 bi/ano em juros da 
+    dívida financia o sistema político. Usa dados do fact-check, 
+    nomes do mapa consolidado e correlações temporais.
+(b) TIKTOKS DE 60 SEGUNDOS com dados específicos:
+    "Sabia que você paga R$ X por ano em juros da dívida que vai 
+    para o Itaú?" 
+    "Sabia que Hugo Motta bloqueou a tributação de bancos 3 meses 
+    depois de receber R$ 22 mi do Banco Master?"
+(c) PODCASTS com economistas e jornalistas investigativos que 
+    JÁ publicaram sobre o tema (Malu Gaspar, Fábio Serapião).
+
+ALVO: 5 milhões de formadores de opinião (não 200 milhões).
+
+CUSTO: R$ 3-5 mi/ano. PRAZO: contínuo.
+
+------------------------------------------------------------------------
+S3 — ALIANÇA COM O JUDICIÁRIO (STF + MPF + TCU)
+------------------------------------------------------------------------
+
+O Judiciário é o aliado mais potente porque NÃO depende do Congresso.
+
+(a) STF (Flávio Dino): já tem a ADPF 854 em curso. Pode determinar 
+    transparência total de emendas, identificando autores. Se isso 
+    acontecer, o poder de troca política via emendas secretas DESAPARECE.
+(b) MPF: pode investigar conflito de interesse de parlamentares 
+    que presidem bancadas setoriais (Zé Neto preside cartórios; 
+    André Figueiredo preside servidores).
+(c) TCU: pode auditar o Sistema S, as emendas parlamentares e o 
+    custo de conformidade tributária.
+(d) CGU: já está auditando ONGs beneficiadas por emendas (26 ONGs, 
+    50% com falhas graves).
+
+COMO ATIVAR:
+- Petições e representações formais ao MPF, TCU e CGU documentando 
+  conflitos de interesse específicos.
+- Amicus curiae em ADIs no STF.
+
+CUSTO: BAIXO (institucional). PRAZO: 6-24 meses (processos judiciais).
+
+------------------------------------------------------------------------
+S4 — COOPTAÇÃO DE GANHADORES (construção de coalizão positiva)
+------------------------------------------------------------------------
+
+Para cada veto, existe um GANHADOR que pode ser cooptado:
+
+VETOR 1 (Dívida): Tesouro/MF, fundos soberanos → já são aliados.
+VETOR 2 (Spread): Fintechs (Nubank R$ X bi lucro), cooperativas 
+  (R$ 885 bi em ativos), CNI/Fiesp (spread = custo).
+VETOR 3 (Desburocratização): MEI/pequeno empresário (SEBRAE), 
+  exportadores, OCDE.
+VETOR 4 (Transparência): MPF, CGU, TCU, sociedade civil.
+
+ESTRATÉGIA: o Think Tank Híbrido (V3.0) deve funcionar como 
+CLEARING HOUSE de interesses alinhados. Conectar Nubank com 
+Sicredi. Conectar CNI com SEBRAE. Conectar MPF com Transparência 
+Brasil. Construir a coalizão que CONTRABALANÇA Febraban + 
+Centrão + Sistema S.
+
+O Incor MEJOR cenário: aliança Nubank + Sicredi + CNI + Fiesp + 
+OCDE + MPF + Transparência Brasil. Esta coalizão tem capital 
+político e financeiro para enfrentar Febraban + Centrão.
+
+CUSTO: R$ 10-15 mi/ano (co-financiamento de aliados). PRAZO: contínuo.
+
+------------------------------------------------------------------------
+S5 — PRESSÃO INTERNACIONAL (OCDE + FMI + TRANSPARENCY INT'L)
+------------------------------------------------------------------------
+
+A OCDE está em processo de adesão do Brasil. Exige:
+- Boas práticas regulatórias (Vetor 3)
+- Transparência orçamentária (Vetor 4)
+- Competição no setor financeiro (Vetor 2)
+
+ESTRATÉGIA: usar o processo de adesão à OCDE como ALAVANCA. Cada 
+relatório da OCDE que critica o Brasil é munição política. Não é 
+"ingerência estrangeira" — é benchmarking internacional.
+
+O FMI publica Artigo IV anualmente. O Banco Mundial publica Doing 
+Business (mesmo extinto, o substituto B-READY existe). Transparency 
+International publica o Índice de Percepção da Corrupção.
+
+CUSTO: BAIXO (diplomático). PRAZO: contínuo.
+
+
+================================================================================
+MATRIZ DE PRIORIZAÇÃO: ONDE ATACAR PRIMEIRO
+================================================================================
+
+------------------------------------------------------------------------
+TABELA: COOPTAÇÃO VS NEUTRALIZAÇÃO POR ATOR
+------------------------------------------------------------------------
+
+ATOR                    | COOPTÁVEL? | CUSTO  | IMPACTO SE NEUTRALIZADO
+------------------------|------------|--------|-------------------------
+Hugo Motta              | CONDICIONAL| MÉDIO  | ALTÍSSIMO (libera pauta)
+Davi Alcolumbre         | SIM        | BAIXO  | ALTO (libera Senado)
+Renan Calheiros         | CONDICIONAL| MÉDIO  | ALTO (libera CAE)
+Arthur Lira             | NÃO        | ALTO   | ALTO (mas perdeu Câmara)
+Ciro Nogueira           | NÃO        | ALTO   | MÉDIO (central é disperso)
+Ângelo Coronel          | NÃO        | MÉDIO  | MÉDIO (relator)
+Valdemar Costa Neto     | NÃO        | MÉDIO  | MÉDIO (PL pode fragmentar)
+Ricardo Barros          | CONDICIONAL| BAIXO  | ALTO (via executivo)
+Luiz Carlos Motta       | CONDICIONAL| MÉDIO  | ALTO (triple nodo)
+Eduardo Braga           | SIM        | BAIXO  | ALTO (relator tributário)
+Baleia Rossi            | SIM        | BAIXO  | ALTO (MDB)
+André Figueiredo        | CONDICIONAL| MÉDIO  | ALTO (funcionalismo)
+Zé Neto                 | CONDICIONAL| MÉDIO  | ALTÍSSIMO (cartórios 325+)
+Júlio César             | CONDICIONAL| BAIXO  | MÉDIO (contadores)
+Febraban/Isaac Sidney   | CONDICIONAL| MÉDIO  | ALTO (lobby bancário)
+Sistema S               | CONDICIONAL| ALTO   | MÉDIO
+
+------------------------------------------------------------------------
+PRIORIZAÇÃO (GORDIAN KNOTS)
+------------------------------------------------------------------------
+
+Se eu pudesse fazer apenas 3 ações, seriam:
+
+1. INSTALAR A CPI DO BANCO MASTER.
+   É a alavanca que atinge Motta, Ciro, Valdemar, Isaac Sidney e 
+   indiretamente Lira/Coronel. Muda o cálculo de custo-benefício 
+   de TODOS os atores simultaneamente. Médo de depor = disposição 
+   a negociar.
+
+2. COOPTAR DAVI ALCOLOMBRE + EDUARDO BRAGA + BALEIA ROSSI.
+   São os 3 atores mais pragmáticos e cooptáveis com baixo custo. 
+   Alcolumbre libera o Senado. Braga traz expertise tributária e 
+   legiado. Rossi traz o MDB (o partido-âncora). Juntos, formam 
+   uma base de 40-60 votos no Senado e abrem o MDB.
+
+3. AMPLIFICAR A NARRATIVA "MOTTA BLOQUEOU TRIBUTAÇÃO APÓS MASTER".
+   Não como ataque pessoal, mas como CORRELAÇÃO DOCUMENTADA de como 
+   o sistema funciona. YouTube + TikTok. Alvo: 5 mi de formadores 
+   de opinião. O custo político de Motta continuar bloqueando 
+   aumenta a cada mês que a narrativa ganha tração.
+
+
+================================================================================
+O PRINCÍPIO FUNDAMENTAL
+================================================================================
+
+Nenhum político suporta sozinho o peso de uma narrativa pública 
+corretamente construída. A questão não é se Motta, Lira ou Renan 
+são invulneráveis. A questão é se existe ALGUÉM construindo a 
+narrativa com rigor técnico e alcance suficiente.
+
+O V2.0 tinha diagnóstico. O V3.0 tem correções. O mapa consolidado 
+tem nomes. Este documento tem estratégia.
+
+O que falta é EXECUÇÃO: capital, equipe e capacidade operacional 
+para transformar análise em pressão política concreta.
+
+O dinheiro virá do trabalho — dos ganhadores que têm incentivo 
+material em financiar a mudança (fintechs, cooperativas, indústria, 
+sociedade civil organizada). A coalizão existe em potência. Falta 
+o nodo articulador.
+
+================================================================================
+FIM DO MAPA PSICOLÓGICO-ESTRATÉGICO
+================================================================================

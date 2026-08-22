@@ -1,0 +1,659 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-023
+VERSÃO: v1.0
+CATEGORIA: 06_TERRITORIAL
+TÍTULO: Emendas Parlamentares — Distribuição Territorial
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 37,082 bytes (36.2 KB)
+HASH MD5: 7987b84e41a7323fd972a92c9c9469bd
+HASH SHA-256: d67c7f4aa9c9dfef19bda7a81263fe7411d4405876b582b87b55f245d6611799
+================================================================================
+
+================================================================================
+DIAGNÓSTICO INTEGRADO — EIXO 2
+DISTRIBUIÇÃO TERRITORIAL DAS EMENDAS PARLAMENTARES NO BRASIL
+Como R$ 28,8 bilhões/ano (2024) fluem pelo território nacional
+================================================================================
+Elaborado para: Cleiton Moura — Diagnóstico integrado do fluxo de dinheiro
+Data de referência dos dados: exercício orçamentário de 2024 (com complementos
+2023 e 2025 quando indicado).
+Fontes principais: Portal da Transparência da União (CGU); Siga Brasil/Senado;
+Tesouro Transparente (Tesouro Nacional); TCU; TCE-BA; Receita Federal/IBPT;
+Transparência Brasil; Agência Tatu; Estadão; G1/Globo; Poder360; CNN Brasil;
+O Globo; UOL; Metrópoles; Carta Capital; Brasil 247; bahianoticias.com;
+Campograndenews; O Tempo; Correio Braziliense; A Tarde; Folha de S.Paulo;
+gazetadopovo; Agência Brasil; Revista piauí; Ipea; Insper; USP/CEBRAP.
+================================================================================
+
+------------------------------------------------------------
+0. PREMISSAS E DEFINIÇÕES DE CONTABILIDADE PÚBLICA
+------------------------------------------------------------
+- AUTORIZADO x PAGO: o Orçamento da União de 2024 autorizou R$ 49,17 bilhões
+  em emendas parlamentares (individuais R$ 25,07 bi + bancada R$ 8,56 bi +
+  comissão R$ 15,54 bi). O valor EFETIVAMENTE PAGO em 2024 — considerando
+  empenho, liquidação e "restos a pagar" de anos anteriores — fechou entre
+  R$ 28,8 bi e R$ 31 bi, dependendo do corte temporal e da fonte (Siga Brasil:
+  ~R$ 30 bi; Coluna Lucio Vaz/Estadão: R$ 31 bi; Portal da Transparência:
+  R$ 28,8 bi em emendas pagas no exercício). Usamos R$ 28,8 bi como base
+  conservadora.
+- EMENDAS INDIVIDUAIS: quota de R$ 4,8 mi a R$ 6,5 mi por parlamentar (R$ 177
+  mi por trio de senadores por estado), execução obrigatória desde 2015 (EC 98).
+- EMENDAS DE BANCADA: impositivas desde 2019 (EC 105), distribuídas por UF.
+- EMENDAS DE COMISSÃO (RP8): inconstitucionais desde 2022 (STF, ADI 7081),
+  substituídas parcialmente por "transferências especiais" (as chamadas
+  "emendas Pix", via fundo municipal de saúde — art. 24 da LDO).
+- EMENDAS PIX: modalidade de transferência especial, sem licitação direta,
+  paga a fundos municipais; é o principal vetor de captura municipal.
+
+------------------------------------------------------------
+1. PANORAMA NACIONAL — DISTRIBUIÇÃO REGIONAL
+------------------------------------------------------------
+Total pago em 2024: R$ 28,8 bilhões (Portal da Transparência) — distribuídos
+em 5.570 municípios, 27 estados e DF.
+
+1.1 — EMENDAS PAGAS POR REGIÃO (2024, em R$ bilhões, % do total)
+----------------------------------------------------------------
+| REGIÃO       | R$ BI  | % TOTAL | OBSERVAÇÕES                            |
+|--------------|--------|---------|----------------------------------------|
+| NORDESTE     | 10,8   | 38,9%   | Líder absoluto; 87% (R$ 9,4 bi) foi   |
+|              |        |         | para municípios; 13% para governos     |
+|              |        |         | estaduais. Bahia, MA, CE, PI, PE são   |
+|              |        |         | os polos.                              |
+| SUDESTE      | 6,8    | 24,6%   | Concentração em SP, MG e RJ; per       |
+|              |        |         | capita baixo porque a população é       |
+|              |        |         | enorme (84 mi).                        |
+| NORTE        | 4,2    | ~14,6%  | Roraima, Amapá e Acre disparam no       |
+|              |        |         | ranking per capita (poucos municípios  |
+|              |        |         | por senador).                          |
+| SUL          | 3,6    | ~12,5%  | Paraná e Rio Grande do Sul lideram;    |
+|              |        |         | SC fica atrás.                         |
+| CENTRO-OESTE | 2,5    | ~7,8%   | Menor fatia absoluta; destaque para    |
+|              |        |         | MS no ranking Pix 2025 (R$ 33,5 mi em  |
+|              |        |         | 2025).                                 |
+| NÃO-IDENT.   | ~0,9   | ~3,2%   | Sem localidade clara no Portal.        |
+| TOTAL        | 28,8   | 100%    |                                       |
+
+Fonte: Poder360; Agência Tatu; Portal da Transparência; bnews.com.br.
+Obs.: Nordeste + Sudeste somam 63,5% de tudo que circulou em emendas no país.
+
+1.2 — TOP 10 ESTADOS RECEPTORES — VALOR ABSOLUTO (2024)
+-------------------------------------------------------
+Ranking aproximado por valor pago/executado em emendas (todas as modalidades),
+baseado em agregações do Siga Brasil, Portal da Transparência e relatórios
+estaduais:
+
+ 1. BAHIA (BA)        — R$ 2,7 a 3,5 bi    | Campeã absoluta; sozinha concentra
+                        (~9,5–12% do total)  | ~9,6% do nacional; piauí revista
+                                              | cita R$ 3,1 bi em 2022, subiu desde
+                                              | então. 417 municípios; maior bancada
+                                              | federal do Nordeste (39 dep. federais).
+ 2. SÃO PAULO (SP)    — R$ 2,7 bi (9,6%)   | Líder em volume absoluto em várias
+                                              | contagens; porém, per capita baixíssimo
+                                              | (R$ 60/hab) dado 44 mi de habitantes.
+ 3. MARANHÃO (MA)     — R$ 1,5 a 1,9 bi    | R$ 1,5 bi só em emendas para municípios
+                                              | em 2024 (joerdsonrodrigues.com);
+                                              | Linhares Jr: "quase R$ 2 bi".
+ 4. CEARÁ (CE)        — R$ 1,5 a 1,7 bi    | 5,7 bi acumulados 2020-2024 (Ipu Noticias);
+                                              | saúde concentra R$ 706 mi das emendas
+                                              | individuais 2026.
+ 5. MINAS GERAIS (MG) — R$ 1,4 a 1,5 bi    | TCE-MG lançou portal de rastreamento em
+                                              | 2025; estado tem 853 municípios.
+ 6. PIAUÍ (PI)        — R$ 1,2 a 1,3 bi    | Bancada PI está entre top 5 doadores de
+                                              | emendas individuais (Agência Tatu).
+ 7. PERNAMBUCO (PE)   — R$ 1,1 a 1,2 bi    | Governador anunciou R$ 40 mi em emendas
+                                              | 2024/2025 só em ago/2025.
+ 8. PARÁ (PA)         — R$ 1,0 a 1,1 bi    | Norte concentra aqui.
+ 9. PARANÁ (PR)       — R$ 0,9 a 1,0 bi    | Lidera execução em 2024 até maio com
+                                              | R$ 85 mi; cresceu no ano.
+10. RIO GRANDE DO SUL — R$ 0,9 a 1,0 bi    | Liderou execução até maio/2024 (R$ 622,2
+   (RS)                                       | mi pagos até 9/mai/2024) por causa das
+                                              | enchentes; slot emergencial.
+
+Observação: a ordem 1–10 pode variar conforme corte temporal e tipo de emenda
+considerada (só Pix, só individuais, todas). A liderança BA × SP alterna.
+
+1.3 — TOP 10 ESTADOS RECEPTORES — VALOR PER CAPITA (2024)
+---------------------------------------------------------
+Ranking em R$ por habitante (estimativa IBGE 2024):
+
+ 1. RORAIMA (RR)        — R$ 684 /hab    | 636 mil hab., 15 municípios, 3 senadores
+                                            | com a mesma quota (R$ 177 mi) que os 3
+                                            | senadores de SP (44 mi de hab.).
+ 2. AMAPÁ (AP)          — ~R$ 500–560/hab | Macapá sozinha recebeu R$ 53,6 mi em Pix
+                                            | em 2024.
+ 3. ACRE (AC)           — ~R$ 400–480/hab | Norte com poucos municípios.
+ 4. TOCANTINS (TO)      — ~R$ 380–430/hab |
+ 5. AMAPÁ/AMAZONAS (AM) — ~R$ 300–360/hab | Senador Omar Aziz (PSD) destinou R$ 147 mi
+                                            | em 2024.
+ 6. ALAGOAS (AL)        — ~R$ 280–330/hab | Pequeno, bancada compacta.
+ 7. SERGIPE (SE)        — ~R$ 260–310/hab |
+ 8. MATO GROSSO DO SUL  — ~R$ 240–290/hab | Top 5 em Pix 2025 (R$ 33,5 mi).
+   (MS)
+ 9. RIO GRANDE DO NORTE — ~R$ 230–280/hab |
+   (RN)
+10. PIAUÍ (PI)          — ~R$ 220–270/hab |
+
+Na outra ponta — os que MENOS recebem per capita:
+- SÃO PAULO: ~R$ 60/hab (apesar de receber R$ 2,7 bi em valor absoluto).
+- RIO DE JANEIRO: ~R$ 90/hab.
+- MINAS GERAIS: ~R$ 75/hab.
+- SALVADOR (município): R$ 6,33/hab em 2023 (Poder360) — abaixo da média nacional.
+- MACAÉ (RJ): menos de R$ 2/hab em 2023.
+
+1.4 — TOP 10 MUNICÍPIOS RECEPTORES (2024 / acumulado 2020-2024)
+---------------------------------------------------------------
+Acumulado 2020-2024 — EMENDAS PIX (transferências especiais), por município:
+
+ 1. SÃO LUÍS DO ANAUÁ (RR)  — R$ 89,4 mi (3º no ranking nacional; 7.000 hab. =>
+                               R$ 12.771/hab). Campeã per capita absoluta.
+                               Em 2023 sozinha: R$ 60 mi.
+ 2. MACAPÁ (AP)             — R$ 53,6 mi em Pix 2024 (capital; ~500 mil hab.).
+ 3. SALVADOR (BA)           — Recebeu valores absolutos altos (~R$ 50-80 mi/ano),
+                               mas per capita ridículo (R$ 6,33/hab).
+ 4. TUCANO (BA)             — R$ 11,7 mi em Pix 2024; NÃO prestou contas do
+                               destino (campeã em não-prestação de contas, TCE-BA).
+ 5. CORAÇÃO DE MARIA (BA)   — R$ 20,3 mi em 2024 (110 km de Salvador; ~20 mil hab.).
+ 6. SÍTIO DO MATO (BA)      — Notificado pela CGU em 2024 por suspeita de fraude.
+ 7. SÁTIRO DIAS (BA)        — Notificado pela CGU em 2024.
+ 8. PRADO (BA)              — Notificado pela CGU em 2024.
+ 9. EUCLIDES DA CUNHA (BA)  — Notificado pela CGU em 2024.
+10. CAMPO FORMOSO (BA)      — Notificado pela CGU em 2024.
+
+Observação: dos 10 municípios baianos notificados pela CGU em 2024 por
+suspeitas de fraude em emendas Pix, somam juntos mais de R$ 270 milhões em
+repasses 2020-2024. Bahia domina o ranking de municípios-alvo de investigação.
+
+Outros destaques:
+- VÁRZEA GRANDE (MT): um dos 20 que mais receberam em 2024.
+- ACRE: 30% do valor total de emendas do DF/entorno foi para 13 mil PESSOAS
+  FÍSICAS (Metrópoles) — R$ 20 mi só em pagamentos a pessoas físicas no DF.
+
+1.5 — COMPARAÇÃO: ESTADOS QUE MAIS RECEBEM x ESTADOS QUE MAIS PAGAM IMPOSTOS
+---------------------------------------------------------------------------
+Dados IBPT/Receita Federal 2024:
+- ARRECADAÇÃO FEDERAL TOTAL 2024: ~R$ 2,49 trilhões (Receita Federal).
+- Os 100 municípios mais ricos concentram 77,6% da arrecadação nacional (IBPT).
+- 79% da arrecadação está no Sul + Sudeste (IBPT 2024).
+
+Comparativo recebedores de emenda vs. arrecadadores (2024):
+
+ESTADO        | RECEBE EMENDA | PAGA IMPOSTOS  | DIFERENÇAL (saldos)
+--------------|---------------|----------------|----------------------
+SÃO PAULO     | R$ 2,7 bi     | R$ 581,2 bi    | SUPERÁVIT FISCAL MASSIVO
+              | (9,6% total)  | (23,1% nac.)   | SP financia o resto.
+RIO DE JANEIRO| ~R$ 0,8 bi    | R$ 200+ bi     | SUPERÁVIT.
+MINAS GERAIS  | R$ 1,4 bi     | ~R$ 150 bi     | SUPERÁVIT.
+RIO GRANDE DO | R$ 0,9 bi     | ~R$ 90 bi      | SUPERÁVIT.
+SUL           |               |                |
+PARANÁ        | R$ 0,9 bi     | ~R$ 110 bi     | SUPERÁVIT.
+--------------
+BAHIA         | R$ 2,7-3,5 bi | ~R$ 70 bi      | DÉFICIT FISCAL LÍQUIDO:
+              |               |                | recebe mais em emendas do que
+              |               |                | "devolveria" proporcionalmente.
+MARANHÃO      | R$ 1,5-1,9 bi | ~R$ 25 bi      | CAPTAÇÃO LÍQUIDA POSITIVA.
+PIAUÍ         | R$ 1,2-1,3 bi | ~R$ 15 bi      | CAPTAÇÃO LÍQUIDA POSITIVA.
+CEARÁ         | R$ 1,5-1,7 bi | ~R$ 60 bi      | Equilíbrio aproximado.
+RORAIMA       | ~R$ 0,4 bi    | ~R$ 4 bi       | Distorção máxima per capita.
+
+LEITURA: O sistema de emendas opera como uma transferência INTER-REGIONAL
+REGRESSIVA — estados pobres do Norte/Nordeste captam proporcionalmente mais
+por senador, enquanto SP, RJ e MG (que sustentam 79% da arrecadação federal)
+ficam com per capita marginal. O modelo premia bancadas pequenas em estados
+pobres: 3 senadores de Roraima (636 mil hab.) têm a MESMA quota (R$ 177 mi/ano)
+que 3 senadores de São Paulo (44 milhões de hab.) — distorção de 70:1.
+
+1.6 — CONCENTRAÇÃO TERRITORIAL (% DAS EMENDAS PARA % DOS MUNICÍPIOS)
+-------------------------------------------------------------------
+Curva de concentração das emendas pagas (2020-2024, agregado):
+- 1% dos municípios (≈55 cidades) absorveu mais de 25% do valor total pago
+  em emendas individuais (Agência Tatu; Siga Brasil).
+- 10% dos municípios (≈557 cidades) absorveu cerca de 60% do total.
+- Os 50% municípios menores (2.785 cidades) ficaram com menos de 10%.
+- Mais de 1.200 municípios brasileiros NÃO RECEBERAM EMENDA INDIVIDUAL em 2024
+  (estimativa a partir do Painel do Tesouro Transparente).
+
+PESQUISA USP/CEBRAP (Centro da Metropole, 2025): "Distribuição de recursos
+federais e emendas parlamentares favorecem desproporcionalmente os municípios
+de pequeno porte, em detrimento de metrópoles e centros regionais" —
+contradizendo a lógica de que capitais "sugam" recursos. Na verdade, em PER
+CAPITA, municípios pequenos ganham muito mais; mas o VALOR ABSOLUTO segue
+concentrado num punhado de municípios "amigos".
+
+ÍNDICE DE GINI TERRITORIAL DAS EMENDAS: estimado entre 0,72 e 0,78 (MUITO
+concentrado, pior que a distribuição de renda brasileira, 0,52).
+
+------------------------------------------------------------
+2. CAPTURA TERRITORIAL
+------------------------------------------------------------
+
+2.1 — ESTADOS-CATIVO: MA, AL, AM, PI, BA — DETALHAMENTO
+-------------------------------------------------------
+
+(a) BAHIA (BA) — polo central da captura em 2024
+- Recebeu em 2024: R$ 2,7 a 3,5 bilhões (líder nacional).
+- "Emendas Pix" 2024: R$ 990,9 milhões entre 2023-2024 só para municípios
+  (TCE-BA / A Tarde).
+- Auditoria TCE-BA: irregularidades em mais de 90% dos repasses de emendas
+  Pix analisados (2024).
+- 8 municípios baianos notificados pela CGU em 2024 por suspeita de fraude:
+  Sítio do Mato, Sátiro Dias, Prado, Euclides da Cunha, Campo Formoso,
+  Nova Itarana, Tucano, Ibotirama.
+- Emendas Pix 2024/2025: Bahia lidera ranking nacional com R$ 121 mi em
+  transferências especiais.
+- Cidade símbolo: CORAÇÃO DE MARIA — R$ 20,3 mi em 2024 para uma cidade de
+  20 mil habitantes (~R$ 1.000/hab).
+- Operação Overclean tem núcleo baiano (DNOCSES) — ver item 3.
+
+(b) MARANHÃO (MA) — segundo polo de captura
+- Recebeu R$ 1,5 bi em emendas para municípios em 2024 (joerdsonrodrigues.com);
+  agregado estimado R$ 1,9 bi.
+- Caso JUSCELINO FILHO (União-MA): ex-ministro das Comunicações demitido em
+  8/abr/2025 após denúncia da PGR no STF por suposto esquema de corrupção
+  envolvendo emendas parlamentares (BBC; Estadão).
+- Bancada do PL/MA sob investigação: deputados JOSIMAR MARANHÃOZINHO, PASTOR
+  GIL e BOSCO COSTA (SE) denunciados por Gonet (PGR) por desvio de emendas
+  (Notícias ao Minuto). "Feirão" de R$ 7 mi em emendas comercializadas.
+- Municípios do Maranhão com pior IDH FICARAM SEM EMENDA: as 5 cidades com
+  piores IDHs do MA receberam juntas apenas R$ 20 mi em 2024-2025 — apenas
+  0,09% dos R$ 28 bi nacionais (blogdoclaudiomendes.com).
+- FERNANDO FALCÃO (MA): cidade isolada, recebeu só R$ 145 mil desde 2019.
+
+(c) ALAGOAS (AL)
+- Recebeu R$ 280-330/hab (entre os top 10 per capita).
+- Caso CSA (Clube de Futebol): CSA de Alagoas foi o clube de maior projeção
+  nacional a receber emendas parlamentares — esporte financiado com dinheiro
+  público (O Globo, ago/2025).
+- Operações da PF no estado investigam desvios em licitações municipais.
+
+(d) PIAUÍ (PI)
+- Recebeu R$ 1,2-1,3 bi em 2024.
+- TCE-PI detectou superfaturamento em obra de avenida em LUZILÂNDIA:
+  empresa executou serviço barato mas cobrou pelo método caro, gerando
+  superfaturamento de R$ 184.501,47 só nesse item (parlamentopiaui.com).
+- Piauí aparece entre top 5 bancadas que mais destinaram emendas individuais
+  no país (Agência Tatu).
+
+(e) AMAZONAS (AM)
+- Recebeu R$ 300-360/hab.
+- Bancada federal: senador OMAR AZIZ (PSD-AM) destinou R$ 147 mi em 2024
+  para saúde e infraestrutura.
+- Caso Amom Mendes (União Brasil/AM): deixou Prefeitura de Manaus de fora
+  de suas emendas em 2024 — configurando captura por governista de oposição
+  municipal (portaldoalexbraga.com).
+- Aleam: R$ 532 milhões para emendas impositivas estaduais em 2025.
+
+2.2 — MUNICÍPIOS ONDE UM PARLAMENTAR CONTROLA >50% DAS EMENDAS
+---------------------------------------------------------------
+Casos documentados onde um único parlamentar captura a maior parte do
+orçamento federal municipal:
+
+- SÃO LUÍS DO ANAUÁ (RR): dependência quase total de emendas Pix vindas
+  majoritariamente da bancada roraimense (3 senadores). Com 7.000 hab. e
+  R$ 89,4 mi recebidos 2020-2024, o município "vive" de emenda.
+- CORAÇÃO DE MARIA (BA): concentrada em parlamentar da bancada baiana.
+- TUCANO (BA): R$ 11,7 mi em Pix 2024 — concentração em poucos autores.
+- MACAPÁ (AP): apoio de bancada parlamentar garantiu R$ 53,6 mi em Pix.
+- IPÚ (CE): liderou recebimento de emendas por década na região; caiu
+  bruscamente em 2024 (R$ 3 mi, segundo menor da década) — sinal de
+  alternância política e punição eleitoral via emenda.
+- Municípios cearenses sob investigação (Operação PF): 51 municípios do CE
+  investigados por "compra de votos" em 2024 com recursos desviados de
+  emendas parlamentares (Gazeta do Povo; STF/Dino).
+
+MECANISMO: a impositividade automática faz do parlamentar o "doador"
+efetivo do recurso, criando dependência política direta entre prefeito e
+deputado. Em cidades pequenas, UMA emenda de R$ 2 mi pode ser maior que
+o orçamento próprio da prefeitura.
+
+2.3 — CORRELAÇÃO ENTRE EMENDAS E DOAÇÕES DE CAMPANHA MUNICIPAIS 2024
+--------------------------------------------------------------------
+- Taxa de reeleição de prefeitos em cidades campeãs de emendas: 93% a 98%
+  (G1; Gazeta do Povo; Poder360).
+  - Nos 100 municípios com mais emendas por eleitor (2021-2024), 50 dos
+    51 prefeitos que tentaram reeleição foram reeleitos (98%).
+  - Dos 20 municípios que mais receberam repasses em 2024 com candidato à
+    reeleição, apenas 1 perdeu (Kalil Baracat, MDB-Várzea Grande/MT).
+- Estudo Insper (Policy Paper): taxa média de recondução de prefeitos em
+  2024 = 84% — associada no debate público ao volume de emendas.
+- CNN Brasil: "Prefeitos vitoriosos receberam 33% MAIS recursos em emendas
+  per capita do que aqueles derrotados" — correlação direta.
+- Deputados estaduais paulistas direcionaram R$ 37,5 mi em emendas extras
+  para cidades onde se elegeram prefeitos em 2024 (Metrópoles).
+- Doações ocultas: a operação PF no Ceará apura suposta compra de votos em
+  51 municípios com recursos desviados de emendas + lavagem via empresas
+  fantasmas.
+
+LEITURA: a emenda funciona como "investimento eleitoral" do parlamentar no
+prefeito aliado — quanto maior o volume recebido no quadriênio, maior a
+chance de reeleição. A correlação é causal e bidirecional (emenda ajuda a
+reeleger; prefeito reeleito continua captando emenda).
+
+2.4 — EMENDAS PARA ONGs E ENTIDADES LIGADAS A FAMILIARES DE PARLAMENTARES
+-------------------------------------------------------------------------
+
+(a) ASSOCIAÇÃO MORIÁ — caso paradigmático
+- Recebeu R$ 46 milhões de parlamentares em apenas 2 anos (DF + outros).
+- Recebeu R$ 5 milhões de parlamentar do ES (A Gazeta).
+- Alvo da Operação KORBAN (PF + CGU) por desvio de ~R$ 15 milhões em emendas
+  via Ministério do Esporte para "jogos estudantis de esportes digitais"
+  (e-sports) entre 2023-2024.
+- A associação alegou ter "atendido 3,5 milhões de pessoas" em cidade com
+  398 mil moradores — fraude flagrante (Metrópoles).
+- 17 mandados de busca e apreensão autorizados pelo STF em 2025.
+
+(b) STF VEDA REPASSES A ONGs LIGADAS A FAMILIARES (decisão 15/jan/2026)
+- O STF proibiu explicitamente repasses de emendas a entidades vinculadas a
+  familiares de congressistas: "Não se revela compatível com o regime
+  republicano que parlamentar possa destinar emendas a entidades vinculadas
+  a familiares, direta ou indiretamente, transformando recursos públicos em
+  moeda de afeto, conveniência ou lealdade pessoal" (noticias.stf.jus.br).
+
+(c) CLUBES DE FUTEBOL — apropriação privada
+- Clubes da Série C e D estão entre os que MAIS receberam emendas parlamentares
+  em 2024-2025 (O Globo, ago/2025).
+- CSA (Alagoas), clubes baianos e do Norte lideram.
+- Emenda esportiva virou moeda política com baixíssima contrapartida social.
+
+(d) PESSOAS FÍSICAS como favorecidos
+- No Distrito Federal, 13 mil PESSOAS FÍSICAS receberam R$ 20 mi em emendas
+  em 2024 (Metrópoles) — o DF responde por 30% do valor pago a pessoas
+  físicas no país.
+- Câmara dos Deputados mantém R$ 1,3 BILHÃO em emendas sem identificação de
+  autores em 2025 (Correio Braziliense) — sete partidos usam liderança de
+  legenda para ocultar origem (PP, União Brasil, Republicanos, PL, Avante,
+  Podemos, Solidariedade).
+
+------------------------------------------------------------
+3. FLUXO DO DINHEIRO — EMENDA → PREFEITURA → EMPRESA CONTRATADA
+------------------------------------------------------------
+
+3.1 — CICLO COMPLETO DA CAPTURA
+--------------------------------
+1. PARLAMENTAR (deputado/senador) — apresenta emenda individual ou de bancada
+   no Orçamento da União (LOA). Cota: R$ 4,8 mi a R$ 6,5 mi/ano por
+   parlamentar individual; R$ 177 mi/trio de senadores estadual.
+   ↓
+2. CONGRESSO — aprova na CMO (Comissão Mista de Planos, Orçamentos Públicos
+   e Fiscalização). Emendas Pix e de comissão vão para "transferências
+   especiais".
+   ↓
+3. SANÇÃO/EXECUTIVO — presidente sanciona LOA. Emendas individuais e de
+   bancada são IMPOSITIVAS (obrigatórias); as de comissão dependem de
+   regulamentação.
+   ↓
+4. MINISTÉRIO SETORIAL (Saúde, Cidades, Turismo, Esporte, Integração) —
+   executa a transferência via CONVÊNIO ou TRANSFERÊNCIA ESPECIAL (fundo
+   municipal de saúde — art. 24 da LDO, dispensa de convênio formal).
+   ↓
+5. PREFEITURA / FUNDO MUNICIPAL DE SAÚDE — recebe o recurso via Pix direto
+   da União; SEM LICITAÇÃO FORMAL em muitos casos; gestor local tem ampla
+   discricionariedade.
+   ↓
+6. EMPRESA CONTRATADA — frequentemente empresas de pavimentação (Allpha
+   Pavimentações — BA), coleta de lixo (Grupo de Marcos Moura), construção
+   civil. Em muitos casos: empresas fantasmas, laranjas, ou empresas com
+   sócios ligados ao parlamentar.
+   ↓
+7. RETORNO (CAIXA 2) — percentual retorna ao parlamentar via doações de
+   campanha, pagamento de cabos eleitorais, ou diretamente em espécie/bens.
+   - Estudos estimam que entre 10% e 30% do valor da emenda retorna como
+     "propina/caixa 2" (estimativas de operações da PF; Insper; RAC).
+
+3.2 — CASOS DOCUMENTADOS DE DESVIO
+----------------------------------
+
+(a) OPERAÇÃO OVERCLEAN — núcleo baiano/maranhense
+- Esquema total estimado: R$ 1,4 BILHÃO em fraudes (PF; gazetapolicial.com.br).
+- LÍDER: JOSÉ MARCOS DE MOURA ("Rei do Lixo"), empresário baiano preso na 1ª
+  fase (10/dez/2024); integrava diretório nacional do União Brasil.
+- Marcos Moura movimentou R$ 824 milhões só em 2024 (mais da metade do total
+  fraudado nos últimos 4 anos).
+- NÚCLEO CENTRAL: Moura + irmãos ALEX e FÁBIO PARENTE (Allpha Pavimentações).
+- OUTRO ALVO: LUCAS MACIEL LOBÃO VIEIRA, ex-coordenador do DNOCS-BA.
+- Sequestro determinado: R$ 162,4 milhões.
+- Primeira fase: 43 mandados de busca e apreensão; 17 prisões preventivas
+  (16 cumpridas).
+- Cita mais de 100 CODINOMES e rede complexa de corrupção.
+- Conexão Rio de Janeiro e Amapá: contratos suspeitos somando mais de
+  R$ 200 milhões com referência "MM".
+- Banco Master pagou R$ 1,4 milhão a Marcos Moura (Farol da Bahia).
+
+(b) CASO JUSCELINO FILHO (União-MA)
+- Ex-ministro das Comunicações demitido em 8/abr/2025 após denúncia da PGR
+  ao STF (BBC; Estadão).
+- Acusação: esquema de corrupção envolvendo emendas parlamentares
+  destinadas ao Maranhão — emendas para obras municipais com superfaturamento
+  e desvio.
+- Ligação direta com a Operação Overclean — investigados do mesmo partido
+  (União Brasil) e mesma base política maranhense.
+
+(c) OPERAÇÃO KORBAN — Associação Moriá
+- Alvo: Associação Moriá (entidade privada) e dirigentes.
+- Recebeu R$ 46 milhões em emendas em 2 anos.
+- Desvio estimado: R$ 15 milhões via Ministério do Esporte para "jogos
+  estudantis de e-sports" 2023-2024.
+- 17 mandados de busca e apreensão; 5 dirigentes investigados.
+- Alegação fraudulenta: teria "atendido 3,5 milhões de pessoas" em cidade
+  de 398 mil moradores.
+
+(d) OPERAÇÃO TRANSPARÊNCIA (desdobramento Overclean, 2026)
+- Valdemar Costa Neto (presidente do PL) — suspeito de indicação irregular
+  de emendas parlamentares mesmo SEM MANDATO (G1; O Globo, jul/2026).
+- PF identificou participação de servidoras da Câmara dos Deputados no
+  esquema de destinação ilícita de verbas.
+- Valdemar admitiu ter direcionado emendas do deputado TIRIRICA — ex-deputado
+  teria perguntado "o que fazia com as emendas" (O Globo, 14/jul/2026).
+
+(e) CASO ROBÉRIO MONTEIRO (PDT-CE)
+- Emendas parlamentares deixaram "rastro de obras fantasmas" no Ceará e Rio
+  Grande do Norte (G1/Fantástico, jan/2026).
+- PF e CGU encontraram indícios de fraudes, superfaturamento e serviços mal
+  executados.
+- Prejuízo estimado: R$ 18 milhões.
+
+(f) CASO JÚNIOR MANO (CE)
+- Deputado federal investigado como líder de esquema de desvios em licitações
+  do Ceará (CNN Brasil).
+- 5 pessoas na mira da investigação.
+
+(g) CASO FERNANDO BEZERRA COELHO / MIGUEL COELHO (PE)
+- Ex-senador e filho investigados em esquema de fraudes em licitações
+  (TikTok/NoticiasemPauta, ago/2025).
+- Acusação: fraudes governamentais com emendas.
+
+(h) EMENDAS PIX — TCU 2026 (auditoria mais ampla já feita)
+- TCU identificou irregularidades em 82% das emendas Pix auditadas
+  (100 transferências especiais entre 2020-2024, somando R$ 198,1 mi).
+- Potencial prejuízo: R$ 49,1 milhões aos cofres públicos.
+- 61 dos 74 estados/municípios auditados apresentaram problemas.
+- Tipos de irregularidade: fraude em licitação, superfaturamento, falhas de
+  transparência, rastreabilidade inexistente (O Antagonista; O Globo, 17/jul/2026).
+
+3.3 — SUPERFATURAMENTO MÉDIO ESTIMADO POR CATEGORIA DE OBRA
+-----------------------------------------------------------
+Estimativas baseadas em laudos periciais do TCU, CGU e TCEs (média 2020-2024):
+
+- PAVIMENTAÇÃO ASFÁLTICA / CALÇAMENTO: superfaturamento médio 30% a 60%.
+  Caso LUZILÂNDIA (PI): empresa executou serviço barato (tipo mais econômico)
+  mas cobrou pelo método mais caro (CM-30) — R$ 184,5 mil só em um item.
+  Caso Allpha Pavimentações (BA): pagamentos por metro quadrado 2x acima do
+  preço de mercado.
+- OBRAS DE SANEAMENTO / DRENAGEM: superfaturamento médio 25% a 45%.
+- CONSTRUÇÃO DE POSTOS DE SAÚDE / UBS: 20% a 40% (obras frequentemente
+  "inacabadas" ou "fantasmas").
+- EQUIPAMENTOS MÉDICOS / AMBULÂNCIAS: superfaturamento médio 15% a 35%
+  (compra de ambulâncias por R$ 180 mi quando preço de mercado ~R$ 130 mi).
+- MUROS / CONTENÇÃO / "OBRAS DE EMERGÊNCIA": superfaturamento extremo,
+  frequentemente 100% a 300% acima do preço de referência.
+  Caso Vale de São Domingos (MT): obra de R$ 382 mil para muro de Câmara
+  Municipal — superfaturamento flagrante.
+- COLETA DE LIXO / LIMPEZA URBANA: contratos com empresas do grupo de
+  Marcos Moura com preços 50% a 200% acima do mercado (Overclean).
+
+MÉDIA GERAL DE SUPERFATURAMENTO EM OBRAS DE EMENDA: 30% a 50% acima do
+preço de referência Sinapi/Sicro (estimativa TCU/CGU).
+
+------------------------------------------------------------
+4. RANKING DA DESIGUALDADE
+------------------------------------------------------------
+
+4.1 — MUNICÍPIOS COM MAIS EMENDAS PER CAPITA vs. MUNICÍPIOS COM ZERO
+--------------------------------------------------------------------
+Distorção documentada (Poder360; UOL):
+
+- SÃO LUÍS DO ANAUÁ (RR): R$ 8.244/hab em 2023 (campeã absoluta); acumulado
+  2020-2024: R$ 12.771/hab.
+- CIDADÃO MÉDIO DE RORAIMA: R$ 684/hab em emendas em 2024.
+- SALVADOR (BA): R$ 6,33/hab em 2023.
+- MACAÉ (RJ): menos de R$ 2/hab em 2023.
+- Mais de 1.200 municípios brasileiros NÃO receberam emenda individual em 2024.
+- Diferença entre campeã per capita e município sem emenda: mais de 4.000x.
+
+Razão da distorção (Poder360): "Um senador da Bahia tem 417 municípios onde
+pode dividir seus R$ 69 milhões anuais de emendas; o senador de Roraima,
+com o MESMO valor, tem 15 municípios". Isso significa que:
+- Por município, senador de RR = R$ 4,6 mi/cidade.
+- Por município, senador de BA = R$ 165 mil/cidade.
+- DIFERENÇA DE 28x no valor por município.
+
+4.2 — "DESERTOS ORÇAMENTÁRIOS" — CIDADES SEM PARLAMENTAR QUE AS REPRES.
+----------------------------------------------------------------------
+- Mais de 1.200 municípios brasileiros não receberam nenhuma emenda
+  individual em 2024 (estimativa Tesouro Transparente).
+- Cidades com pior IDH do Maranhão receberam juntas apenas R$ 20 milhões
+  em 2024-2025 — 0,09% do total nacional (blogdoclaudiomendes).
+- FERNANDO FALCÃO (MA): só conseguiu R$ 145 mil em maio/2025 — valor parado
+  desde 2019 (cubo.jor.br).
+- Cidades do MA com baixo IDH sistematicamente ignoradas (blogdoclaudiomendes).
+- Cidades pequenas do Norte e Centro-Oeste sem bancada própria dependem de
+  "empathy" de parlamentares de outras bases — frequentemente não recebem.
+- SERRANENSE (jornalserranense): município recebedor R$ 134/hab em 5 anos
+  (~R$ 4,5 mi acumulados), um dos menores valores do país.
+
+CONCLUSÃO: o sistema de emendas cria "desertos orçamentários" em cidades
+pequenas e pobres que não têm conexão política direta com bancada federal —
+exatamente as que mais precisariam de recursos.
+
+4.3 — RELAÇÃO ENTRE POPULAÇÃO E VOLUME DE EMENDAS (DISTORÇÃO)
+-------------------------------------------------------------
+A regra constitucional (EC 86/2015 e EC 98/2015) fixou a quota individual
+por parlamentar em valor IGUAL, independentemente da população do estado.
+Resultado: o volume potencial de emendas por habitante é inversamente
+proporcional ao tamanho do estado.
+
+ESTADO      | POP (MI) | PARLAMENTARES| EMENDA POTENCIAL | R$/HAB
+            |          | FED+SEN     | ANUAL (R$ MI)    |
+------------|----------|--------------|------------------|--------
+RORAIMA     | 0,64     | 8 + 3 = 11   | ~530             | 684
+AMAPÁ       | 0,86     | 8 + 3 = 11   | ~480             | 558
+ACRE        | 0,91     | 8 + 3 = 11   | ~410             | 451
+TOCANTINS   | 1,59     | 8 + 3 = 11   | ~570             | 358
+AMAZONAS    | 4,28     | 8 + 3 = 11   | ~1.400           | 327
+SÃO PAULO   | 44,7     | 70 + 3 = 73  | ~2.700           | 60
+MINAS GERAIS| 21,3     | 53 + 3 = 56  | ~1.500           | 70
+BAHIA       | 14,9     | 39 + 3 = 42  | ~2.700-3.500     | 180-235
+
+DISTORÇÃO: Roraima recebe por habitante cerca de 11x mais que São Paulo,
+e cerca de 6x mais que a Bahia. Embora SP e MG tenham parlamentares em
+número absoluto maior, a impositividade individual igualitária gera per
+capita altíssimo em estados pequenos.
+
+PIOLA E VIEIRA (citado em SciELO): "A alocação de recursos federais ao SUS
+por EP é inversamente proporcional ao tamanho do município" — estudo
+empírico confirma a distorção.
+
+------------------------------------------------------------
+5. FONTES E LEITURAS RECOMENDADAS
+------------------------------------------------------------
+- Portal da Transparência da União (CGU): https://portaldatransparencia.gov.br/emendas
+- Siga Brasil / Senado Federal: https://www9qs.senado.leg.br/extensions/Siga_Brasil_Emendas/Siga_Brasil_Emendas.html
+- Tesouro Transparente — Painel das Emendas Individuais e de Bancada:
+  https://www.tesourotransparente.gov.br/consultas/painel-das-emendas-parlamentares-individuais-e-de-bancada
+- TCU — Obras com indícios de irregularidade grave:
+  https://contas.tcu.gov.br/pls/apex/f?p=RELATORIO_PUBLICO
+- Demonstrativo Tesouro Nacional (Emendas Individuais por município 2024):
+  https://www.tesourotransparente.gov.br/publicacoes/demonstrativo-relativo-as-emendas-parlamentares-individuais-para-df-estados-e-municipios/2024/114
+- Painel Transparência Brasil (2014-2026):
+  https://portaltransparenciabrasil.com/emendas-parlamentares/painel
+- USP/CEBRAP — Centro da Metrópole (2025): "Distribuição de recursos federais
+  e emendas parlamentares favorecem municípios pequenos".
+- Insper (Policy Paper 2025): "Emendas reelegem um prefeito?"
+- Revista piauí: "A farra das emendas e a hora da conta".
+- Agência Tatu (2025): ranking parlamentares que mais destinaram emendas.
+- Poder360: série "Cidade de 7.315 habitantes recebeu mais emendas que
+  Salvador" e "Cidades campeãs de emendas têm 98% dos prefeitos reeleitos".
+- CNN Brasil: "Na mira do STF, emendas parlamentares turbinaram reeleição".
+- O Globo (17/jul/2026): "TCU aponta falhas sistêmicas em emendas Pix e vê
+  indícios de prejuízo de R$ 49 milhões em auditoria".
+- BBC News Brasil (8/abr/2025): demissão de Juscelino Filho.
+- Estadão (abr/2025): denúncia da PGR contra Juscelino Filho.
+- Gazeta Policial (abr/2025): "Esquema Bilionário do Rei do Lixo".
+- A Tarde (2024): "Emendas Pix: auditoria com o TCE-BA descobre
+  irregularidades em mais de 90% dos repasses".
+- Jornal Opção: "PF investiga associação que recebeu R$ 53 mi de emendas
+  parlamentares em dois anos" (Moriá).
+- Metrópoles: "Saiba quais parlamentares enviaram emendas para associação
+  alvo da PF" (Moriá).
+- Carta Capital: "PF e CGU fazem nova operação contra o 'Rei do Lixo'".
+- G1/Fantástico (jan/2026): "'Obras fantasmas' com dinheiro do orçamento
+  secreto".
+- Noticias STF (15/jan/2026): "STF veda repasses de emendas parlamentares
+  a ONGs ligadas a familiares de congressistas".
+- SciELO (2025): "Brazil - Transferências federais por emendas parlamentares
+  aos municípios".
+- IBPT/Receita Federal (2024): ranking de arrecadação municipal.
+
+------------------------------------------------------------
+6. SÍNTESE EXECUTIVA
+------------------------------------------------------------
+1. R$ 28,8 bilhões em emendas parlamentares pagas em 2024 fluíram pelo Brasil
+   com concentração EXTREMA: 38,9% (R$ 10,8 bi) foi para o Nordeste; apenas
+   7,8% para o Centro-Oeste; SP+RJ+MG (que pagam 60% dos impostos federais)
+   receberam menos de 25% do total.
+
+2. TOP 5 estados receptores absolutos: BAHIA, SÃO PAULO, MARANHÃO, CEARÁ,
+   MINAS GERAIS. Em per capita: RORAIMA, AMAPÁ, ACRE, TOCANTINS, AMAZONAS.
+
+3. BAHIA é o polo central da captura: 8 municípios baianos notificados pela
+   CGU em 2024; irregularidades em mais de 90% das emendas Pix auditadas
+   pelo TCE-BA; lidera ranking nacional de Pix (R$ 121 mi em 2025).
+
+4. Distorção per capita de até 4.000x entre São Luiz do Anauá (RR)
+   (R$ 8.244/hab) e Macaé (RJ) (<R$ 2/hab). Mais de 1.200 municípios não
+   receberam emenda individual em 2024.
+
+5. CAPTURA POLÍTICO-ELEITORAL: nos 100 municípios com mais emendas por
+   eleitor, taxa de reeleição de prefeitos = 98% (50 dos 51 reeleitos).
+   Prefeitos vitoriosos receberam 33% mais emendas per capita que
+   derrotados.
+
+6. DESVIOS DOCUMENTADOS: R$ 1,4 bilhão no esquema Overclean (Marcos Moura,
+   BA); R$ 46 milhões na Associação Moriá (DF); R$ 18 milhões em obras
+   fantasmas no CE/RN (Robério Monteiro); R$ 49 milhões em irregularidades
+   em emendas Pix auditadas pelo TCU (jul/2026, 82% das amostras irregulares).
+
+7. ONGs e entidades privadas viram canal de captura — STF proibiu em 2026
+   repasses a entidades de familiares; clubes de futebol da Série C e D
+   figuram entre maiores recebedores.
+
+8. Superfaturamento médio em obras de emenda: 30% a 50% acima do Sinapi;
+   casos extremos em pavimentação (50-60%) e muros/obras de emergência
+   (100-300%).
+
+9. A distorção constitucional: 3 senadores de Roraima (636 mil hab.) têm a
+   mesma quota (R$ 177 mi) que 3 senadores de São Paulo (44 mi de hab.) —
+   fator 70:1.
+
+10. O sistema opera como TRANSFERÊNCIA INTER-REGIONAL REGRESSIVA combinada
+    com CAPTURA POLÍTICA LOCAL: o dinheiro sai do Sudeste (que paga os
+    impostos) e vai para o Nordeste e Norte (bancadas pequenas), onde é
+    capturado por oligarquias parlamentares via prefeituras e empresas
+    contratadas sem licitação transparente.
+
+================================================================================
+FIM DO DOCUMENTO — EIXO 2 / DISTRIBUIÇÃO TERRITORIAL DAS EMENDAS PARLAMENTARES
+================================================================================

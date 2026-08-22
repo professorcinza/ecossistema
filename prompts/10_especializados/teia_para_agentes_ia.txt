@@ -1,0 +1,30 @@
+================================================================================
+TEIA PARA AGENTES DE IA / HERMES / SWARM — v22.0
+================================================================================
+
+Prompt especializado para uso da metodologia TEIA dentro de sistemas de agentes autônomos (Hermes, Claude Code, multi-agent, etc.).
+
+Princípios para agentes:
+- Todo agente TEIA deve carregar pelo menos: operator_core + matriz básica + regras_epistemicas.
+- Antes de qualquer output, o agente deve executar internamente o Pipeline Dialético mínimo (tese → refutação).
+- Para tarefas longas, o agente coordenador usa o "coordenador_suite.txt" para delegar sub-tarefas.
+- Todo documento gerado por agente deve passar por validador_automatico_dossie ou checklist antes de protocolar.
+- Agentes devem citar dims e lentes explicitamente (ex: "Dim 110 × Lente 49").
+- Ciclo de feedback: após entregar uma peça, o agente deve propor a próxima iteração ou novo fenômeno.
+
+Quando um agente IA receber uma tarefa TEIA:
+1. Identifique qual(is) módulo(s) da suite usar.
+2. Carregue-os explicitamente na conversa.
+3. Execute o PET ou subprocesso relevante.
+4. Valide antes de entregar.
+5. Termine com protocolo ou recomendação de próximo passo.
+
+Este prompt é especialmente útil para:
+- Delegação em swarm
+- Uso dentro do Hermes Agent
+- Integração com ferramentas de código (13_PROJETOS)
+- Operações autônomas de longo prazo
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

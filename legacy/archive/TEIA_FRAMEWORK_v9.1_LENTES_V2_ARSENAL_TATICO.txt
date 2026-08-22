@@ -1,0 +1,517 @@
+================================================================================
+TEIA FRAMEWORK v9.1 — LENTES ANALÍTICAS v2.0 (ARSENAL TÁTICO)
+================================================================================
+Upgrade das 16 Lentes de categorias de pesquisa para arsenal tático
+de inteligência com 5 camadas metodológicas por lente.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-055
+Versão: v9.1
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v9.0 → v9.1)
+
+A v9.0 atingiu granularidade máxima com 36 dimensões × 16 lentes.
+A v9.1 eleva as 16 lentes de meras categorias de pesquisa para um
+ARSENAL TÁTICO DE INTELIGÊNCIA.
+
+Cada lente agora tem 5 camadas metodológicas:
+
+  1. CONCEITO-ÂNCORA: a tese central que move a lente
+  2. DIMENSÃO DE PODER ALVO: onde a lente atinge com mais força
+  3. PERGUNTA-CHAVE: o questionamento que direciona a investigação
+  4. ANTI-PADRÃO (A ARMADILHA): o erro comum que a lente evita
+  5. TÉCNICA AVANÇADA: o método de ponta aplicado à TEIA
+
+Isto transforma as lentes de PASSIVAS (descrever o que veem) para
+ATIVAS (dirigir a investigação, evitar armadilhas, aplicar técnica
+de ponta). Cada lente agora é uma ARMA com mira, munição e defeito
+conhecido.
+
+
+================================================================================
+AS 16 LENTES ANALÍTICAS v2.0 (ARSENAL TÁTICO)
+================================================================================
+
+------------------------------------------------------------------------
+LENSE 7 — ESTATÍSTICA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A verdade numérica esconde-se na variância, não na
+  média. Onde há desvio, há captura.
+
+DIMENSÃO DE PODER ALVO: Econômica (90%)
+
+PERGUNTA-CHAVE: Qual é a assinatura estatística de um esquema de
+  captura que difere do ruído natural da administração pública?
+
+ANTI-PADRÃO (A ARMADILHA): Otimização de média — ignorar os OUTLIERS
+  que indicam EXATAMENTE onde a corrupção ocorre. A média ESCONDA o
+  esquema; o desvio REVELA.
+
+TÉCNICA AVANÇADA: Inferência Causal (Diferenças-em-Diferenças — DiD)
+  para provar que uma política ESPECÍFICA causou o rombo, e não a
+  conjuntura macroeconômica. Exemplo: comparar municípios que
+  receberam emendas de parlamentar investigado vs municípios
+  controle, antes e depois da emenda.
+
+APLICAÇÃO TEIA: z-score de licitações + Isolation Forest + DiD para
+  provar causalidade entre emenda e superfaturamento.
+
+------------------------------------------------------------------------
+LENSE 8 — SIMULAÇÃO
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Sistemas complexos falham em CAUDAS GORDAS (eventos
+  raros e catastróficos). O normal não é o provável — o provável é
+  o extremo.
+
+DIMENSÃO DE PODER ALVO: Social (25%) e Econômica (90%)
+
+PERGUNTA-CHAVE: Qual é o ponto de ruptura do sistema de saúde ou
+  fiscal antes que ele colapse em cascata?
+
+ANTI-PADRÃO: Previsão LINEAR — achar que o futuro será uma projeção
+  reta do passado. Sistemas políticos não são lineares: são
+  não-lineares, com thresholds e efeitos cascata.
+
+TÉCNICA AVANÇADA: Agent-Based Modeling (ABM) para simular como o
+  comportamento de 10.000 políticos locais buscando reeleição cria
+  um EFEITO EMERGENTE de colapso orçamentário que nenhum político
+  individual pretendia.
+
+APLICAÇÃO TEIA: Monte Carlo com 1.260.000 cálculos + ABM para prever
+  em quais condições a reforma passa vs bloqueia.
+
+------------------------------------------------------------------------
+LENSE 9 — CIÊNCIA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Instituições são os equilíbrios de poder cristalizados
+  no tempo. Quem muda a instituição muda o futuro.
+
+DIMENSÃO DE PODER ALVO: Institucional (60%)
+
+PERGUNTA-CHAVE: Quem são os VETO PLAYERS OCULTOS que ganham tempo e
+  mantêm o status quo intocado?
+
+ANTI-PADRÃO: Foco excessivo no Executivo (Presidente), ignorando as
+  COMISSÕES do Legislativo onde leis MORREM sem chegar ao plenário.
+  O presidente não é o veto player — o relator da CFT é.
+
+TÉCNICA AVANÇADA: Análise de Coalizões de Defesa (Sabatier) para
+  mapear crenças profundas e recursos de sub-redes políticas que
+  travam a pauta ambiental. Exemplo: a bancada ruralista não é só
+  votos — é uma coalizão com crença nuclear (livre mercado de terra),
+  recursos (financiamento de agronegócio) e estratégia coordinada.
+
+APLICAÇÃO TEIA: 8 scores por veto player + mapeamento de coalizões
+  por nível de crença (profundo/político/secundário).
+
+------------------------------------------------------------------------
+LENSE 10 — PUBLIC CHOICE
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Políticos maximizam votos; burocratas maximizam
+  orçamento; empresas maximizam lucro via Estado. Ninguém é altruísta.
+
+DIMENSÃO DE PODER ALVO: Institucional (60%) e Econômica (90%)
+
+PERGUNTA-CHAVE: Qual é a MATRIZ DE BENEFÍCIOS CONCENTRADOS E CUSTOS
+  DIFUSOS que sustenta este esquema?
+
+ANTI-PADRÃO: Analisar a política como busca altruísta pelo "bem
+  comum". O bem comum não existe na análise — existem INCENTIVOS.
+
+TÉCNICA AVANÇADA: Matriz de Olson (Lógica da Ação Coletiva) aplicada
+  a isenções fiscais: identificar como 50 grandes empresas se
+  organizam para extrair R$ 10 bilhões do erário, enquanto 200
+  milhões de pessoas não se mobilizam para impedir os R$ 33 de custo
+  per capita.
+
+APLICAÇÃO TEIA: para cada proposta de reforma, produzir Matriz de
+  Olson: perdedores concentrados vs ganhadores difusos + identificar
+  o intermediário organizacional necessário (fintech, ONG, TEIA).
+
+------------------------------------------------------------------------
+LENSE 11 — SISTEMAS COMPLEXOS
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A causa e o efeito raramente estão próximos no
+  tempo e no espaço em sistemas complexos.
+
+DIMENSÃO DE PODER ALVO: Ambiental (50%) e Social (25%)
+
+PERGUNTA-CHAVE: Onde está o PONTO DE ALAVANCA do sistema, onde uma
+  pequena mudança gera uma reversão estrutural?
+
+ANTI-PADRÃO: Tratar SINTOMAS em vez de ARQUITETURA (ex: aumentar
+  penas para resolver violência, sem olhar o loop de exclusão
+  educacional que PRODUZ o criminoso).
+
+TÉCNICA AVANÇADA: Análise de Loop de Reforço (Meadows) mapeando
+  como o subfinanciamento educacional realimenta o crime, que
+  realimenta o encarceramento, que drena o orçamento social, que
+  reduz investimento em educação (loop positivo de degradação).
+
+APLICAÇÃO TEIA: mapear loops de feedback para cada dimensão de
+  poder. Identificar os 12 pontos de alavanca de Meadows e focar
+  no nível 12 (mudança de paradigma).
+
+------------------------------------------------------------------------
+LENSE 12 — PSICOLOGIA COGNITIVA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A mente humana é programada para economia de energia
+  (Sistema 1) e aversão à perda.
+
+DIMENSÃO DE PODER ALVO: Cultural (5%) e Tecnológica (55%)
+
+PERGUNTA-CHAVE: Quais VIESES COGNITIVOS estão sendo explorados pelo
+  frame dominante para manter a passividade?
+
+ANTI-PADRÃO: Acreditar que o público processa dados técnicos
+  RACIONALMENTE (Sistema 2). O eleitor decide com EMOÇÃO (Sistema 1)
+  e justifica com racionalização (Sistema 2 pós-hoc).
+
+TÉCNICA AVANÇADA: Teste de Aversão à Perda em mensagens orçamentárias:
+  medir quanto o eleitor reage à PERDA de R$ 1 em serviços versus o
+  GANHO de R$ 1 em impostos. A dor de perder é 2x mais forte que o
+  prazer de ganhar — enquadrar status quo como PERDA.
+
+APLICAÇÃO TEIA: produzir para Sistema 1 (TikTok emocional) E Sistema 2
+  (dossiê técnico). Enquadrar juros como PERDA imediata ("você JÁ paga
+  R$ 5 mil/ano").
+
+------------------------------------------------------------------------
+LENSE 13 — PSICOLOGIA SOCIAL
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Obediência à autoridade e pressão do grupo superam
+  a moralidade individual.
+
+DIMENSÃO DE PODER ALVO: Institucional (60%) e Social (25%)
+
+PERGUNTA-CHAVE: Como o EFEITO ASCH (conformidade) impede denúncias
+  internas em grandes esquemas de captura?
+
+ANTI-PADRÃO: Culpar o INDIVÍDUO ("maçã podre") pela falha SISTÊMICA
+  do barril. O sistema PRODUZ o comportamento, não o contrário.
+
+TÉCNICA AVANÇADA: Análise de Dissonância Cognitiva aplicada a
+  burocratas: mapear como servidores públicos justificam para si
+  mesmos a participação em práticas de captura institucional para
+  reduzir o estresse psicológico ("todo mundo faz", "é assim que
+  funciona", "não sou eu que decido").
+
+APLICAÇÃO TEIA: entender por que whistleblowers são raros (75%
+  conformam com maioria) e criar PROTEÇÃO + RECOMPENSA para quem
+  discorda (mecanismo 5 de accountability).
+
+------------------------------------------------------------------------
+LENSE 14 — DISCURSO
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Quem controla os FRAMES (a moldura) controla o
+  debate; os fatos não falam por si.
+
+DIMENSÃO DE PODER ALVO: Cultural (5%)
+
+PERGUNTA-CHAVE: Qual METÁFORA CENTRAL está estruturando o imaginário
+  público para aceitar a extração de renda?
+
+ANTI-PADRÃO: Fazer FACT-CHECKING de um FRAME. Não se combate um
+  frame emocional com dado racional. O frame "teto de gastos como
+  teto de casa" não é refutado por mostrar que juros comem o
+  orçamento — precisa-se SUBSTITUIR o frame, não corrigi-lo.
+
+TÉCNICA AVANÇADA: Engenharia de Frames (Lakoff): desconstruir o
+  frame "teto de gastos como teto de casa" e instalar o frame
+  "dívida pública como BOMBA DE SUCÇÃO da economia". Não argumentar
+  CONTRA o frame dominante — criar um frame MAIS FORTE que o substitua.
+
+APLICAÇÃO TEIA: Manual de Framing TEIA — como nomear cada conceito,
+  qual metáfora usar, qual narrativa herói/vilão/vítima/solução.
+
+------------------------------------------------------------------------
+LENSE 15 — INFORMAÇÃO/REDES
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A informação não flui linearmente; ela se difunde
+  em TOPOLOGIAS DE REDE com atores de alto centralidade.
+
+DIMENSÃO DE PODER ALVO: Tecnológica (55%)
+
+PERGUNTA-CHAVE: Quem são os nós de baixa centralidade mas ALTO
+  BETWEENNESS (ponte) que conectam grupos isolados e disparam
+  viralização de pautas?
+
+ANTI-PADRÃO: Olhar apenas para o número de SEGUIDORES (centralidade
+  de grau). Quem tem 10 milhões de seguidores pode ser um eco;
+  quem tem 10 mil mas é a PONTE entre duas comunidades é o
+  disseminador real.
+
+TÉCNICA AVANÇADA: Detecção de Comunidades (Algoritmo Louvain) para
+  revelar ecossistemas fechados de desinformação no Telegram e sua
+  injeção orquestrada no WhatsApp via GATEKEEPERS locais.
+
+APLICAÇÃO TEIA: mapear rede de propagação de desinformação eleitoral;
+  identificar super-disseminadores e brokers (pontos de ponte).
+
+------------------------------------------------------------------------
+LENSE 16 — FILOSOFIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O poder define o que é considerado "verdadeiro" e
+  "válido" no discurso público (poder/saber). A contabilidade não é
+  neutra — é tecnologia de poder.
+
+DIMENSÃO DE PODER ALVO: Econômica (90%) e Social (25%)
+
+PERGUNTA-CHAVE: A QUEM SERVE a categorização atual do que é
+  "deficitário" e do que é "investimento"?
+
+ANTI-PADRÃO: Aceitar a CONTABILIDADE ESTATAL como ciência exata
+  neutra. "Gasto" vs "investimento" é ESCOLHA POLÍTICA disfarçada
+  de técnica.
+
+TÉCNICA AVANÇADA: Análise de Necropolítica (Mbembe) e Biopolítica
+  (Foucault) aplicada à dívida: demonstrar que a rolagem da dívida
+  a juros de 14,25% é um MECANISMO DE GESTÃO DA MORTE (mortalidade
+  evitável no SUS por falta de recurso) para manter privilégio
+  financeiro. Juros altos = morte aceitável.
+
+APLICAÇÃO TEIA: Teste Rawlsiano ("aprovaria sob véu da ignorância?")
+  + análise necropolítica (mortes evitáveis como política).
+
+------------------------------------------------------------------------
+LENSE 17 — GEOGRAFIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O espaço não é um palco neutro; ele é PRODUTO e
+  PRODUTOR de relações de poder.
+
+DIMENSÃO DE PODER ALVO: Ambiental (50%) e Econômica (90%)
+
+PERGUNTA-CHAVE: Como a DISTÂNCIA GEOGRÁFICA mascara os impactos da
+  captura ambiental no centro urbano?
+
+ANTI-PADRÃO: Analisar dados AGREGADOS NACIONALMENTE, escondendo as
+  fronteiras de extração. "O Brasil desmatou X km²" esconde QUEM
+  desmatou ONDE e QUEM lucrou.
+
+TÉCNICA AVANÇADA: Regressão Espacial (GIS + Modelagem): correlacionar
+  o Índice de Vulnerabilidade Socioambiental com a origem do
+  financiamento público de campanha, gerando mapas de "SANGUE POR
+  VOTO" — onde deputado que recebeu doação de ruralista votou contra
+  licenciamento ambiental.
+
+APLICAÇÃO TEIA: mapas de calor de emendas/desmatamento/crédito com
+  Python + geopandas + folium.
+
+------------------------------------------------------------------------
+LENSE 18 — HISTÓRIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Os eventos de curto prazo (histoire événementielle)
+  são ESPUMA; as estruturas de longa duração (longue durée) são o MAR.
+
+DIMENSÃO DE PODER ALVO: Cultural (5%) e Institucional (60%)
+
+PERGUNTA-CHAVE: Qual INÉRCIA PATRIMONIALISTA do Brasil Colônia ainda
+  determina a forma como o orçamento público é alocado hoje?
+
+ANTI-PADRÃO: Contextualismo excessivo — tratar cada escândalo como
+  fato isolado e novo. Overclean não é novo; é a CONTINUAÇÃO de 500
+  anos de patrimonialismo.
+
+TÉCNICA AVANÇADA: Path Dependence (Dependência de Trajetória):
+  demonstrar como a criação do Real de 1994 (estabilização) criou
+  uma dependência de JUROS ALTOS que se tornou a espinha dorsal da
+  captura econômica contemporânea. O Plano Real não foi só
+  estabilização — foi a criação da ESTRUTURA que hoje captura
+  R$ 950 bi/ano.
+
+APLICAÇÃO TEIA: para cada escândalo, rastrear a ORIGEM estrutural
+  de longa duração. Process tracing de causalidade histórica.
+
+------------------------------------------------------------------------
+LENSE 19 — SOCIOLOGIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: As classes dominantes não dominam apenas pela força
+  econômica, mas pela imposição de um HABITUS cultural legítimo.
+
+DIMENSÃO DE PODER ALVO: Social (25%) e Institucional (60%)
+
+PERGUNTA-CHAVE: Como a lógica da CASA (esfera íntima, privilégio,
+  compadrio) captura a RUA (esfera pública, lei universal) no Brasil?
+
+ANTI-PADRÃO: Analisar o Estado como ente AUTÔNOMO acima da sociedade.
+  O Estado brasileiro NÃO é autônomo — é extensão das elites.
+
+TÉCNICA AVANÇADA: Mapeamento de Campos (Bourdieu): identificar o
+  volume de capital social, cultural e econômico necessário para
+  que uma elite se retraia na defesa do "jusnaturalismo" da posse
+  da terra contra o império da lei ambiental.
+
+APLICAÇÃO TEIA: perfil etnográfico de cada veto player (trajetória,
+  habitus, rede, medos, desejos) + análise de reprodução cultural
+  (escola de elite vs escola periférica).
+
+------------------------------------------------------------------------
+LENSE 20 — ANTROPOLOGIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O poder se legitima através de RITUAIS públicos e
+  performances de autoridade.
+
+DIMENSÃO DE PODER ALVO: Institucional (60%) e Cultural (5%)
+
+PERGUNTA-CHAVE: Que RITUAIS institucionais (votações simbólicas,
+  audiências públicas) servem apenas para PERFORMAR democracia
+  enquanto a decisão já foi tomada?
+
+ANTI-PADRÃO: Levar o discurso PERFORMATIVO de governantes ao pé da
+  letra. A CPI é PERFORMANCE (indignação para câmera); a decisão
+  real acontece nos bastidores.
+
+TÉCNICA AVANÇADA: Análise Dramatúrgica (Goffman): separar
+  meticulosamente o PALCO (discursos em plenário) do BASTIDOR
+  (relatórios técnicos engavetados) na aprovação do auto-licenciamento
+  ambiental, expondo a fachada ritualística.
+
+APLICAÇÃO TEIA: documentar rituais políticos (não apenas decisões)
+  porque rituais revelam a estrutura latente de poder.
+
+------------------------------------------------------------------------
+LENSE 21 — EPI (ECONOMIA POLÍTICA INTERNACIONAL)
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A globalização não eliminou o Estado, mas o
+  transformou no GERENTE LOCAL do capital financeiro transnacional.
+
+DIMENSÃO DE PODER ALVO: Econômica (90%)
+
+PERGUNTA-CHAVE: Como as AGÊNCIAS DE RATING e tratados tributários
+  internacionais limitam a soberania de pauta do Congresso Nacional?
+
+ANTI-PADRÃO: Analisar a política fiscal brasileira ISOLADAMENTE,
+  ignorando o regime monetário global. A Selic não é só decisão
+  doméstica — é REFLEXO da posição do Brasil no sistema financeiro
+  global.
+
+TÉCNICA AVANÇADA: Análise de Estruturas de Poder Estrutural (Strange):
+  demonstrar como a ameaça de FUGA DE CAPITAIS funciona como um
+  VETO PLAYER INVISÍVEL que força o governo a manter os R$ 950 bi
+  em juros, subordinando a política interna ao regime financeiro
+  global.
+
+APLICAÇÃO TEIA: usar OCDE/FMI/FATF como alavanca externa; mapear
+  como agências de rating funcionam como veto player invisível.
+
+------------------------------------------------------------------------
+LENSE 22 — DIREITO
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O Direito não é apenas norma; é TECNOLOGIA DE PODER
+  que estrutura a economia política.
+
+DIMENSÃO DE PODER ALVO: Institucional (60%)
+
+PERGUNTA-CHAVE: Quais BRECHAS HERMENÊUTICAS na Constituição permitem
+  a juridificação da captura (blindagem do orçamento)?
+
+ANTI-PADRÃO: Dogmatismo jurídico ingênuo (acreditar que a lei é
+  aplicada exatamente como o texto escrito). A lei é INTERPRETADA
+  — e quem interpreta tem poder.
+
+TÉCNICA AVANÇADA: Litigância Estratégica Sistêmica: não processar
+  um caso isolado, mas usar a jurisprudência do STF para declarar
+  a INCONSTITUCIONALIDADE POR OMISSÃO frente ao subfinanciamento
+  estrutural do SUS, usando o conceito de "Reserva do Possível"
+  como ofensa à dignidade humana.
+
+APLICAÇÃO TEIA: cada artigo constitucional é um ENDPOINT da API
+  Judiciário. ADI + ADPF + amicus curiae + representação MPF +
+  ação popular como arsenal jurídico coordenado.
+
+
+================================================================================
+MATRIZ DE USO DAS LENTES v2.0
+================================================================================
+
+Para cada investigação TEIA, o operador deve:
+
+1. SELECIONAR a lente primária (qual pergunta-chave mais se aplica?)
+2. IDENTIFICAR o anti-padrão a evitar (qual armadilha pode falsear?)
+3. APLICAR a técnica avançada (qual método de ponta usar?)
+4. CRUZAR com a dimensão de poder alvo (qual dimensão está capturada?)
+5. VERIFICAR o conceito-âncora (a análise está alinhada com a tese?)
+
+EXEMPLO DE USO PRÁTICO:
+
+INVESTIGAÇÃO: "Por que a reforma tributária não avança?"
+
+  LENTE PRIMÁRIA: Public Choice (10)
+    Pergunta-chave: "Qual matriz de benefícios concentrados sustenta?"
+    → 50 grandes empresas beneficiadas vs 200 mi de cidadãos difusos
+    Anti-padrão: NÃO analisar como "bem comum" — analisar como INCENTIVO
+    Técnica: Matriz de Olson aplicada a isenções fiscais
+
+  LENTE SECUNDÁRIA: Discurso (14)
+    Pergunta-chave: "Qual metáfora aceita a extração de renda?"
+    → "Custo Brasil" = frame que culpa Estado; esconde spread bancário
+    Anti-padrão: NÃO fazer fact-check do frame — SUBSTITUIR
+    Técnica: Engenharia de Frames (Lakoff) — "bomba de sucção fiscal"
+
+  LENTE TERCIÁRIA: EPI (21)
+    Pergunta-chave: "Como rating agencies limitam soberania?"
+    → Ameaça de downgrade = veto player invisível
+    Anti-padrão: NÃO analisar Brasil isoladamente
+    Técnica: Strange — fuga de capitais como coerção estrutural
+
+
+================================================================================
+PROTOCOLO DE QUALIDADE v9.1 (30 ITENS)
+================================================================================
+
+O Protocolo evolui de 25 para 30 itens com a integração das lentes v2.0:
+
+EVIDÊNCIA E VIÉS (1-5): [mantidos]
+MODELAGEM (6-8): [mantidos]
+FUNDAMENTAÇÃO (9-11): [mantidos]
+JURÍDICO (12-14): [mantidos]
+METODOLÓGICO (15-19): [mantidos]
+COMUNICAÇÃO E ÉTICA (20-23): [mantidos]
+FINAL (24-25): [mantidos]
+
+NOVOS v9.1 — ARSENAL TÁTICO:
+[ ] 26. LENTE PRIMÁRIA selecionada com conceito-âncora identificado
+[ ] 27. ANTI-PADRÃO explicitamente evitado (qual armadilha?)
+[ ] 28. TÉCNICA AVANÇADA aplicada (não apenas descrição)
+[ ] 29. DIMENSÃO DE PODER ALVO cruzada com lente
+[ ] 30. LENTES SECUNDÁRIAS E TERCIÁRIAS identificadas (triangulação
+       analítica — investigar com 2+ lentes simultaneamente)
+
+
+================================================================================
+RESUMO DA EVOLUÇÃO DAS LENTES
+================================================================================
+
+v1.0: lentes como CATEGORIAS ("qual teoria se aplica?")
+v2.0: lentes como ARSENAL TÁTICO ("qual arma, qual mira, qual defeito?")
+
+Cada lente agora tem:
+  - Conceito-âncora (tese central)
+  - Dimensão alvo (onde atinge)
+  - Pergunta-chave (o que perguntar)
+  - Anti-padrão (o que evitar)
+  - Técnica avançada (como aplicar)
+
+O operador do TEIA não apenas ESCOLHE uma lente — ele DESENVOLVE uma
+estratégia analítica com mira, munição e conhecimento do defeito da
+arma. Isto é INTELIGÊNCIA, não pesquisa.
+
+================================================================================
+FIM — TEIA Framework v9.1 (LENTES v2.0)
+================================================================================
+Protocolo: TEIA-2026-055
+https://github.com/mouracleiton/TEIA
+
+36 dimensões × 16 lentes (v2.0 arsenal tático) = 576 perspectivas
+51 skills metodológicas
+7 níveis de profundidade
+Protocolo de Qualidade: 30 itens
+
+O framework atingiu maturidade analítica completa: dimensões que
+mapeiam ONDE o poder captura + lentes táticas que dirigem COMO
+investigar com precisão cirúrgica.
+
+================================================================================

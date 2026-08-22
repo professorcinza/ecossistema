@@ -1,0 +1,596 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-067
+VERSÃO: v2.0 (atualizada 20/07/2026 com dados 2025-2026)
+CATEGORIA: 05_ACAO
+TÍTULO: Dossiê Técnico — SUS vs Juros da Dívida (Ministério da Saúde)
+STATUS: PROTOCOLO_PENDENTE — Entregar ao Min. da Saúde
+DATA: 19/07/2026 (v1.0) | ATUALIZAÇÃO: 20/07/2026 (v2.0)
+
+NOTA DE ATUALIZAÇÃO v2.0 (20/07/2026):
+- Juros 2025 consolidados: R$ 1.062,6 bi (8,34% PIB) — vs R$ 950,4 bi (2024)
+- DPF dez/2025: R$ 8,635 tri (+18% vs R$ 7,316 tri em 2024)
+- LOA 2026 Saúde: R$ 271,3 bi — vs R$ 245 bi (2025) (+11%)
+- Selic jul/2026: 14,25% a.a. (em queda desde pico de 15% em 2025)
+- Déficit nominal 2025: R$ 1,06 tri (8,34% PIB)
+- NOVA RAZÃO JUROS/SUS: R$ 1,06 tri / R$ 271 bi = 3,91x (era 4,10x em 2024)
+- Fontes: Banco Central (Est. Fiscais jan/2026), Tesouro Nacional, Senado
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: 30,810 bytes (30.1 KB)
+HASH MD5: 98992edc79f6e3e4c1794494d73359bc
+================================================================================
+
+================================================================================
+DOSSIÊ TÉCNICO N.º 001/2025 – MINISTÉRIO DA SAÚDE
+EIXO SAÚDE: DO ENCOLHIMENTO FISCAL À RECONSTRUÇÃO DO SUS
+Como redirecionar R$ 60–80 bi/ano para a saúde sem elevar impostos e gerar
+R$ 30–50 bi/ano em eficiência interna do SUS
+================================================================================
+CLASSIFICAÇÃO: Documento de subsídio técnico à decisão executiva
+AUTORIA: Coordenação de Análise Econômico-Sanitária
+DATA-BASE: janeiro/2025 (juros de 2024 consolidados pelo Tesouro Nacional)
+ESTRITA CONFORMIDADE: EC 126/2022 (arcabouço fiscal), LC 141/2012, Lei 9.279/96,
+                      Lei 9.656/98, Lei 14.200/2021, Lei 14.334/2022.
+================================================================================
+
+
+--------------------------------------------------------------------------------
+0. RESUMO EXECUTIVO (1 página)
+--------------------------------------------------------------------------------
+
+(a) DIAGNÓSTICO-CENTRAL
+EM 2025, o setor público consolidado brasileiro desembolsou R$ 1.062,6 BILHÕES
+em juros nominais da dívida pública (fonte: Banco Central, Estatísticas Fiscais
+jan/2026) — recorde histórico, equivalente a 8,34% do PIB. Em 2024 foram
+R$ 950,4 bi (8,05% PIB). A LOA 2026 autorizou R$ 271,3 bilhões para a função
+saúde (vs R$ 245 bi em 2025; R$ 231,9 bi empenhados em 2024).
+A relação é inequívoca:
+
+    CADA R$ 1,00 INVESTIDO NO SUS CORRESPONDE A R$ 3,91 PAGOS EM JUROS DA DÍVIDA.
+    EM OUTRAS PALAVRAS: O BRASIL PAGA EM JUROS, A CADA ANO, O EQUIVALENTE A
+    QUASE QUATRO ORÇAMENTOS INTEIROS DO MINISTÉRIO DA SAÚDE.
+
+A dívida pública federal saltou de R$ 6,52 tri (2023) → R$ 7,316 tri (2024) →
+R$ 8,635 TRI (dez/2025), projeção R$ 9,2–10,3 tri para 2026 (PAF/Tesouro).
+A taxa Selic, que esteve em 15% a.a. durante 2025 (maior nível em quase 20 anos),
+foi reduzida para 14,25% em julho/2026 (Copom, 3º corte consecutivo).
+Cada ponto percentual adicional de Selic eleva o serviço da dívida em ~R$ 31,4 bi
+ao ano (Bacen, coeficiente de Sensibilidade Fiscal). A política monetária
+restritiva – concebida para conter a inflação – opera, no plano fiscal, como o
+principal dreno de recursos da saúde pública.
+
+(b) APORTES DE RECURSO PROPOSTOS (R$ 60–80 bi/ano, sem novo tributo)
+    P1 – Nota Técnica de Impacto Fiscal na Saúde (NTIFS) e Anexo de Saúde ao
+         LDO/PPA: clawback de R$ 20–30 bi/ano via recomposição do piso de 15%
+         da RCL e prioridade reversa na execução do arcabouço fiscal.
+    P2 – Centralização Nacional de Compras do SUS (e-CNSUS): economia estimada
+         de R$ 12–18 bi/ano (preço de referência, pooling, marca própria).
+    P3 – Telemedicina, IA de triagem e Regulação Assistencial Integrada (RAI):
+         redução de R$ 10–15 bi/ano em custos evitáveis (pronto-socorro, desloca-
+         mento, internações sensíveis à atenção primária).
+    P5 – Licença compulsória de medicamentos estratégicos (Lei 9.279/96, art. 71;
+         Lei 14.200/2021): economia de R$ 8–12 bi/ano em aquisição de NHS,
+         componente especializado e Componente de Custeio.
+
+(c) EFICIÊNCIA INTERNA (R$ 30–50 bi/ano, dentro do teto)
+    P4 – Regulação forte de planos e fim da negativa abusiva de cobertura,
+         reduzindo o deslocamento de usuários do setor privado para o SUS
+         (estimado em R$ 12–18 bi/ano de custo evitado) + R$ 18–32 bi/ano em
+         ganhos de eficiência SUS (combate ao faturamento fraudulento de AIHs,
+         redução de internações por eventos sentinela, etc.).
+
+(d) CUSTO DAS PROPOSTAS
+    DAS CINCO PROPOSTAS, QUATRO SÃO DE CUSTO FISCAL LÍQUIDO ZERO (instrumentos
+    de portaria, resolução, instrução normativa, medida provisória) E UMA (P1)
+    IMPLICA RECOMPOSI ORÇAMENTÁRIA ABSORVÍVEL PELA REDUÇÃO DO RISCO FISCAL
+    PROPICIADA PELA PRÓPRIA P1. TODAS AS PROPOSTAS TÊM RETORNO POSITIVO.
+
+(e) RESULTADO AGREGADO PROJETADO
+    LIBERAÇÃO FISCAL DIRECIONADA À SAÚDE: R$ 60–80 bi/ano.
+    ECONOMIA INTERNA E REGULATÓRIA:        R$ 30–50 bi/ano.
+    TOTAL:                                 R$ 90–130 bi/ano.
+    EQUIVALENTE A 39%–56% DO ORÇAMENTO DO MS EM 2024, SEM CRIAR TRIBUTO.
+
+
+--------------------------------------------------------------------------------
+1. DIAGNÓSTICO: SUS vs JUROS DA DÍVIDA (DADOS FACT-CHECKED)
+--------------------------------------------------------------------------------
+
+1.1. Base de dados primária
+   – Tesouro Nacional (Secretaria do Tesouro Federal – STN): Resultado Fiscal
+     do Setor Público Consolidado, 2024.
+   – Banco Central do Brasil: Nota de Sensibilidade da Dívida Pública, 2024.
+   – Portal da Transparência / SIAFI: execução orçamentária do órgão 36000
+     (Ministério da Saúde).
+   – Relatório Anual de Gestão do SUS 2024 (Ministério da Saúde).
+   – Senado Federal: sanção da LOA 2025 (Lei nº 14.918/2025).
+   – CMED (Anvisa): resoluções de preços de medicamentos 2024.
+
+1.2. Estoque-fonte e fluxo-fonte (ATUALIZADO v2.0)
+   (i)   Dívida Pública Federal (DPF): R$ 7,316 tri (2024) → R$ 8,635 tri (2025).
+         Projeção PAF 2026: R$ 9,2 a 10,3 tri (Tesouro Nacional, jan/2026).
+   (ii)  Juros nominais pagos em 2025: R$ 1.062,6 bi (8,34% do PIB) — recorde.
+         Em 2024: R$ 950,4 bi (8,05% do PIB). Alta de 12% em um ano.
+   (iii) Orçamento do MS empenhado em 2024: R$ 231,9 bi (execução 99,4%).
+   (iv)  LOA 2025 – função saúde: R$ 245 bi. LOA 2026: R$ 271,3 bi (+11%).
+   (v)   Piso constitucional (LC 141/2012, art. 4º): 15% da RCL.
+         Em 2024, déficit de piso estimado em R$ 24 bi/ano.
+   (vi)  Selic: 15,0% a.a. (pico durante 2025). Em julho/2026: 14,25% a.a.
+         (Copom, 17/06/2026 — 3º corte consecutivo de 0,25 p.p.).
+   (vii) Déficit nominal 2025: R$ 1,06 tri (8,34% do PIB). Déficit primário:
+         R$ 55 bi (0,43% do PIB). Em 12m até mar/2026: déficit nominal sobe
+         para 9,41% do PIB (Bacen, 30/01/2026).
+
+1.3. Razão Juros/SUS (ATUALIZADO v2.0)
+   2024: R$ 950,4 bi ÷ R$ 231,9 bi = 4,10
+   2025: R$ 1.062,6 bi ÷ R$ 245 bi (LOA) = 4,34
+   2026: R$ 1.062,6 bi (proxy) ÷ R$ 271,3 bi (LOA) = 3,91
+   → O Brasil paga em juros da dívida o equivalente a ~4 orçamentos completos
+     do Ministério da Saúde. A LOA 2026 reduziu ligeiramente a razão pelo
+     aumento do orçamento da saúde, mas os juros seguem em trajetória de alta.
+
+1.4. Sensibilidade fiscal (Bacen) — ATUALIZADO v2.0
+   – Cada +1 p.p. de Selic adiciona ~R$ 31,4 bi ao serviço da dívida/ano.
+   – Cada +1 p.p. de inflação (IPCA) adiciona ~R$ 11,8 bi/ano.
+   – Com ~50% da DPF atrelada à Selic, o ciclo de alta (13,75% → 15,00% em
+     2024-2025) gerou impacto da ordem de R$ 39,4 bi — 17% do orçamento do MS.
+   – A DPF cresceu R$ 1,319 tri em um único ano (2024→2025): R$ 7,316 tri →
+     R$ 8,635 tri (+18%). Composição: DPMFi = R$ 8,31 tri (96,22%); DPFe =
+     R$ 326 bi (3,78%).
+   – Dívida bruta do setor público: 78,7% do PIB em 2025 (IF projeção: 82,4%
+     em 2026).
+
+1.5. Equivalências materiais (impacto na vida concreta)
+   Cada R$ 1 bi aplicado no SUS equivale a, aproximadamente:
+     – 12 UPAs de média porte construídas e equipadas;
+     – 8.000 leitos hospitalares adicionais em rede própria (R$ 125 mil/leito-ano);
+     – 200 ambulâncias tipo D (UTI móvel);
+     – 250 mil exames de ressonância magnética financiados;
+     – 4.500 médicos em regime de plantão por um ano (R$ 220 mil/médico-ano).
+   Portanto, os R$ 950 bi pagos em juros em 2024 representam o custo de
+   oportunidade de, anualmente, cerca de:
+     – 11.400 UPAs, OU
+     – 7,6 milhões de leitos, OU
+     – 190 mil ambulâncias, OU
+     – 4,3 milhões de médicos em regime anual de plantão.
+   OBS.: Os exemplos são ilustrativos; a finalidade é tornar o sacrifício fiscal
+   mensurável em produtivos equivalentes de saúde.
+
+1.6. Diagnóstico-resumo
+   A crise do SUS NÃO É PRIMARIAMENTE DE GESTÃO; É DE FLUXO DE CAIXA. O subsídio
+   implícito concedido aos detentores de títulos públicos (rentistas) – 8,05% do
+   PIB em um único exercício – esmaga a capacidade do Estado de honrar o
+   mandamento constitucional do art. 196 da CF/88 (saúde como direito universal
+   e dever do Estado). Enquanto o arco de juros não for reequilibrado, qualquer
+   reforma administrativa do SUS produzirá ganhos marginais apenas.
+
+
+--------------------------------------------------------------------------------
+2. PROPOSTA 1 – NOTA TÉCNICA DE IMPACTO FISCAL NA SAÚDE (NTIFS)
+--------------------------------------------------------------------------------
+
+2.1. Instrumento
+   Portaria Interministerial MS/MF/CGPLAN nº [xxx], de [data]/2025, criando a
+   Nota Técnica de Impacto Fiscal na Saúde, exigida PREVIAMENTE a:
+   (a)  qualquer proposta de política econômica que altere a Selic, as
+        condições de rolagem da DPF, ou a política de superávit primário;
+   (b)  qualquer ato do Bacen/Copom, do CMN ou do Tesouro que implique,
+        direta ou indiretamente, majoração de despesa financeira acima de
+        R$ 5 bi no exercício corrente ou seguinte.
+
+2.2. Conteúdo mínimo da NTIFS
+   – Quantificação em reais correntes do acréscimo de despesa financeira.
+   – Conversão do impacto em "unidades de SUS": leitos, UPA, médicos,
+     medicamentos essenciais, cobertura vacinal.
+   – Contraprova de salvaguarda: política alternativa que minimize o
+     impacto sobre o teto do arcabouço fiscal (EC 126/2022) preservando
+     o piso da saúde (15% da RCL, LC 141/2012).
+   – Parecer técnico vinculante do Conselho Nacional de Saúde (CNS) e do
+     Conselho Consultivo do Ministério da Saúde sobre a viabilidade
+     social da política proposta.
+
+2.3. Fórmula de conversão Selic → SUS
+   ΔDESPPÚBLICA (R$ bi) = ΔSEIC (p.p.) × 31,4
+   NÚMERO-EQUIVALENTE DE HOSPITAIS = ΔDESPÙBLICA ÷ R$ 0,500 bi
+   (custo médio de um hospital geral de 200 leitos construído e equipado).
+   EXEMPLO OPERACIONAL:
+   – Alta de 1 p.p. na Selic = +R$ 31,4 bi/ano = 62 hospitais.
+   – Alta de 0,5 p.p. = +R$ 15,7 bi/ano = 31 hospitais.
+   – Redução de 1 p.p. = –R$ 31,4 bi/ano = possibilidade de realocar
+     R$ 31,4 bi/ano para saúde, equivalentes a 62 hospitais ou
+     251 mil leitos em rede existente.
+
+2.4. Medida correlata: ANEXO SAÚDE no LDO/PPA
+   Incluir, como Anexo V da Lei de Diretrizes Orçamentárias (LDO) e do PPA
+   2025–2027, o "Anexo de Saúde", com a demonstração trimestral do sacrifício
+   fiscal implícito na política monetária, medido em leitos e UPA-equivalentes.
+   Custo fiscal: ZERO (ato legislativo ordinário, via LDO).
+
+2.5. Estimativa de impacto de recurso
+   Redução gradual da Selic (de 15% para 12% em 24 meses, sob condição de
+   inflação dentro da banda de tolerância) libera R$ 94 bi/ano em estoque
+   rolado – dos quais:
+     – 30% (R$ 28 bi/ano) alocados ao Fundo Nacional de Saúde para o Piso de
+       Atenção Básica (PAB);
+     – 30% (R$ 28 bi/ano) para a Rede Cegonha, UPA, SAMU e regulação assistencial;
+     – 40% (R$ 38 bi/ano) para o cálculo de amortização da dívida (efeito
+       virtuoso que reduz novamente o serviço futuro).
+   Aplicação imediata: emenda constitucional ou MP com força de lei
+   complementar, recebida no arcabouço como "cláusula de salvaguarda social".
+
+2.6. Justificativa técnica
+   A Constituição (art. 196) e a Lei Complementar 141/2012 (art. 4º)
+   estabelecem o piso de 15% da RCL para ações e serviços públicos de saúde
+   (ASPSP). O descumprimento recorrente configura omissão inconstitucional.
+   A NTIFS não inibe a política monetária; apenas a TRANSPARENTEIZA em
+   linguagem de saúde pública, criando constrangimento reputacional e jurídico
+   sobre decisões que transferem renda do SUS para o rentismo.
+
+
+--------------------------------------------------------------------------------
+3. PROPOSTA 2 – CENTRALIZAÇÃO NACIONAL DE COMPRAS DO SUS (e-CNSUS)
+--------------------------------------------------------------------------------
+
+3.1. Diagnóstico atual
+   – Compras SUS hoje: 5.570 municípios + 26 estados + DF compram de forma
+     FRAGMENTADA via licitações próprias, com variações de preço de até
+     412% para o MESMO item (auditorias TCU 2021–2024 sobre medicamentos,
+     materiais hospitalares e OPME).
+   – Exemplos documentados (TCU Acórdãos 1577/2021, 1405/2023 e 2810/2024):
+       * Seringa de 10 ml: pagos de R$ 0,18 a R$ 0,77 (variação 328%).
+       * Dipirona 500 mg comp.: R$ 0,02 a R$ 0,28 (1.300%).
+       * Luva de procedimento: R$ 0,12 a R$ 0,49 (308%).
+       * Marcapasso: R$ 4.200 a R$ 17.800 (324%).
+       * Stent farmacológico: R$ 2.100 a R$ 7.900 (276%).
+   – Compras militares, da Abreu e Lima (Petrobras), da Ebserh e do INSS já
+     provaram o modelo: preços 25% a 45% menores quando há pooling nacional
+     com registro de preços unificado.
+
+3.2. Modelo proposto
+   – Criar a Plataforma Nacional de Compras do SUS (e-CNSUS), sob gestão do
+     Ministério da Saúde com a cooperação técnica da LOGAD (Secretaria de
+     Logística e TI do MF) e da Secretaria de Fazenda dos estados.
+   – Itens estratégicos (medicamentos NHS, OPME, equipamentos médico-hospi-
+     talares acima de R$ 50 mil/unidade, vacinas, órteses/próteses):
+     COMPRA 100% CENTRALIZADA via Pregão Eletrônico Nacional do SUS.
+   – Itens de custeio corrente (medicamentos básicos, material de consumo):
+     SISTEMA DE PREÇO DE REFERÊNCIA NACIONAL (PRN-SUS) – estados e municípios
+     compram localmente, mas com teto de preço nacional. Acima do teto,
+     a compra é VETADA no SIAFI.
+   – Marca Própria SUS (Parcerias para Produção Estratégica – PPE):
+     expandir a produção própria pela Funed-MG, Butantan, Fiocruz, Tecpar,
+     Biolab, Labin e Laboratórios Oficiais Federais (Indústria Farmacêutica
+     Oficial – IFO) para 60 itens do NHS, no modelo do "Remédio do SUS"
+     (embalagem única, padrão de qualidade unificado).
+
+3.3. Estimativa de economia
+   – Compras SUS 2024: ~R$ 62 bi (medicamentos + OPME + materiais + equipamentos).
+   – Ganhos médios com centralização completa (pooling + registro unificado
+     + marca própria + teto de preço nacional): 20% a 30% sobre a base.
+   – FAIXA DE ECONOMIA: R$ 12,4 bi a R$ 18,6 bi/ano.
+   – META MODERADA ADOTADA: R$ 14 bi/ano (22,6%).
+
+3.4. Instrumento jurídico
+   – Decreto presidencial regulamentando o art. 14-K da Lei 8.666/93
+     (incluído pela Lei 14.133/2021, Nova Lei de Licitações) e o art. 28
+     da LC 141/2012 (consórcios públicos de saúde).
+   – Instrução Normativa MS nº [xxx], de [data]/2025, estabelecendo o
+     Catálogo Nacional de Itens de Saúde (CNIS) e a Tabela de Preço Máximo
+     Admitido (TPMA-SUS), com revisão trimestral.
+   – Adesão voluntária de estados/municípios via Termo de Cooperação;
+     BÔNUS DE ADESÃO: prioridade na liberação de recursos de emendas
+     parlamentares (Componente de Custeio) e de transferências fundo-a-fundo.
+
+3.5. Custo fiscal da proposta
+   ZERO ao Tesouro. Implementação custeada com 0,5% da economia gerada
+   (R$ 70 mi/ano para infraestrutura digital, equipe técnica de 80 servidores
+   e plataforma integrada ao SIAFI/Compras.gov.br).
+
+
+--------------------------------------------------------------------------------
+4. PROPOSTA 3 – TELEMEDICINA E IA DE TRIAGEM (REGULAÇÃO ASSISTENCIAL INTEGRADA)
+--------------------------------------------------------------------------------
+
+4.1. Evidência internacional
+   – Reino Unido (NHS): IA de triagem reduziu em 26% as idas desnecessárias
+     ao pronto-socorro (estudo Imperial College, 2023).
+   – Canadá (Ontário): telemedicina reduz custo por consulta de US$ 89
+     (presencial) para US$ 38 (virtual) – economia de 57%.
+   – Brasil (Telessaúde Redes, Fiocruz/MS): avaliação 2020–2023 em
+     9 estados mostrou redução de 31% em encaminhamentos desnecessários
+     à atenção especializada e de 22% em internações por condições
+     sensíveis à atenção primária (ICSAP).
+   – Ministério da Saúde (CONITEC, Relatório Técnico 13/2023): telessaúde
+     com IA reduz deslocamento, internação e sinistralidade do SUS.
+
+4.2. Custo atual evitável
+   – Consulta de pronto-socorro no SUS: custo médio R$ 185 (DAF/SCTIE/MS).
+   – Atendimento por telessaúde com IA de pré-triagem: R$ 35 (modelo
+     Brasileiro de Teleatendimento, IEPS 2024).
+   – Diferença: R$ 150 por evento evitado.
+   – Volume de atendimentos em PS/UPA por ano: 110 milhões (DATASUS/CNES).
+   – Se 20% dos atendimentos forem redirecionados (conservador), são
+     22 milhões de eventos evitados × R$ 150 = R$ 3,3 bi/ano só em PS.
+   – Internações por CSAP (condições sensíveis à atenção primária):
+     2,9 milhões/ano, custo médio R$ 4.200 → R$ 12,2 bi.
+     Redução de 20% via IA de vigilância clínica: R$ 2,4 bi/ano.
+   – Deslocamentos evitados (transporte sanitário, SAMU desnecessário):
+     R$ 4–6 bi/ano.
+   – FAIXA TOTAL DE ECONOMIA ANUAL: R$ 10 a 15 bi/ano.
+
+4.3. Modelo proposto
+   (a) PORTARIA MS/GM nº [xxx]/2025 instituindo a Regulação Assistencial
+       Integrada (RAI-SUS), com pré-requisito OBRIGATÓRIO de tele-triagem
+       por IA validada pela CONITEC antes de consultas de especialidade
+       e atendimentos de PS não-emergenciais.
+   (b) Plataforma nacional RNDS (Rede Nacional de Dados em Saúde) ampliada
+       com módulo de IA clínica open-source licenciado pelo MS para estados
+       e municípios (modelo "SUS-IA").
+   (c) Requalificação dos Agentes Comunitários de Saúde (ACS) e dos ACE
+       como operadores de IA de triagem domiciliar (Programa Saúde no Lar).
+
+4.4. Instrumento jurídico
+   – Lei 14.510/2022 (telemedicina) já autoriza atos técnicos; basta
+     Portaria MS para padrão operacional.
+   – Resolução CFM 2.314/2022 em vigor.
+   – Marco Legal da IA (Lei 14.854/2024) – conformidade assegurada.
+   – Custo fiscal: R$ 0 (implantação absorvida por parcerias com IPEA,
+     Finep, Fiocruz, e pelo redirecionamento do orçamento de TI do MS).
+
+4.5. Risco controlado
+   – Substituição parcial da telemedicina por desemprego médico: MITIGADO
+     pela vinculação da implantação à RESIDÊNCIA MÉDICA e ao Mais Médicos,
+     com telemedicina como Ferramenta de apoio ao profissional, não
+     substituto. A IA não substitui o ato médico; reorganiza o fluxo.
+
+
+--------------------------------------------------------------------------------
+5. PROPOSTA 4 – REGULAÇÃO FORTE DE PLANOS DE SAÚDE
+--------------------------------------------------------------------------------
+
+5.1. Diagnóstico
+   – 50,3 milhões de brasileiros têm plano de saúde (ANS, dez/2024).
+   – Porém, 1 a cada 4 usuários relata negativa de cobertura no último
+     ano (Procon-SP, 2024), com migration forçada para o SUS.
+   – Estudo IPEA 2023: a fila no SUS gerada pela "porta giratória" dos
+     planos custa R$ 23 bi/ano ao Tesouro (consultas, exames, internações
+     que deveriam estar cobertos pelo setor privado).
+   – Reajustes por faixa etária chegam a 100%–180% dos 59 aos 69 anos.
+   – Multas por negativa abusiva são irrisórias (mediana de R$ 5 mil,
+     suspensas por liminares em 70% dos casos).
+
+5.2. Proposta
+   (a) Resolução Normativa ANS tornando vinculante o rol de procedimentos
+       (atualmente exemplificativo, conforme STF RE 1.041.210) e
+       AUTOMÁTICA a cobertura de:
+       – medicamentos off-label para doenças graves com evidência nível A;
+       – terapias CAR-T, imunoterapias, antineoplásicos de alto custo;
+       – procedimentos pós-COVID (Síndrome Pós-COVID).
+       Multa administrativa por negativa abusiva: R$ 100 mil por evento
+       (hoje R$ 80 mil apenas após recurso administrativo).
+   (b) Resolução ANS estabelecendo TETO de reajuste por faixa etária em
+       até 25% acumulado, com revisão obrigatória.
+   (c) PROCON-SUS: cross-share de dados ANS x Procons x CNJ para
+       identificação automática de operadoras com padrão de negativas
+       superiores a 5% das autorizações. Sanção: intervenção técnico-
+       administrativa prevista no art. 22 da Lei 9.656/98.
+   (d) "porta de saída": se a operadora negar, o SUS atende automaticamente
+       e DESCONTA da ANS o valor cheio do procedimento + 30% de multa.
+       Instrumento: Medida Provisória ou Projeto de Lei do Executivo.
+
+5.3. Estimativa de economia
+   – Redução do custo de oportunidade do SUS: R$ 12–18 bi/ano (efeito
+     "porta giratória" revertido).
+   – Recuperação retroativa via desconto automático: R$ 5–8 bi/ano.
+   – Redução do reembolso a operadoras do SUS (rede complementar):
+     R$ 3–5 bi/ano.
+   – FAIXA TOTAL: R$ 20–31 bi/ano (parte da qual ingressa como receita
+     não-tributária do Fundo Nacional de Saúde).
+
+5.4. Instrumento
+   – Resoluções Normativas ANS (iniciativa do executivo, R$ 0).
+   – Portaria Interministerial MS/MJ/AGU nº [xxx]/2025 (procon-SUS).
+   – MP para o desconto automático (art. 62 CF/88 em caso de urgência).
+
+
+--------------------------------------------------------------------------------
+6. PROPOSTA 5 – LICENÇA COMPULSÓRIA DE MEDICAMENTOS ESTRATÉGICOS
+--------------------------------------------------------------------------------
+
+6.1. Fundamento jurídico (ATUALIZADO v2.0)
+   – Lei 9.279/96 (LPI), arts. 68 a 74 (licença compulsória).
+   – Lei 14.200/2021 (emergência nacional, interesse público, calamidade).
+   – Acordo TRIPS (art. 31) e Declaração de Doha sobre TRIPS e Saúde
+     Pública (2001) – reconhecem o direito soberano de licenciar.
+   – Art. 109-A do ADCT (incluído pela EC 132/2023) e competência privativa
+     da União para legislar sobre propriedade industrial.
+   – NOVIDADE 2026: PL 68/2026 (Câmara, regime de urgência aprovado 02/2026)
+     propõe licença compulsória da TIRZEPATIDA (Mounjaro/Zepbound) —
+     medicamento de interesse público. Autor: Dep. Mário Heringer.
+     Fonte: Senado (06/02/2026); Saúde Business (02/2026).
+   – Patente do DOLUTEGRAVIR (HIV) expira em 28/04/2026 — fim do monopólio.
+     ~700 mil pessoas usam dolutegravir no SUS (principal antirretroviral).
+     Fonte: De Olho nas Patentes.
+
+6.2. Casos elegíveis (não exaustivo)
+   – Medicamentos antineoplásicos de alto custo (imatinibe, trastuzumabe,
+     nivolumabe, pembrolizumabe, etc.).
+   – Antirretrovirais (HIV/AIDS) e medicamentos de hepatite C.
+   – Insulinas análogas e novos anticoagulantes orais.
+   – Biológicos para doenças autoimunes (adalimumabe, etanercepte).
+   – Antivirais para hepatites e pandemias.
+   – Medicamentos para doenças raras com preços abusivos.
+
+6.3. Diferencial de preço
+   – Imatinibe: versão patenteada ~R$ 14 mil/caixa vs genérico indiano
+     ~R$ 200 – DIFERENCIAL DE 7.000%.
+   – Trastuzumabe: R$ 8.500 vs biossimilar brasileiro R$ 1.800 –
+     economia de R$ 6.700 por dose × ~30 mil pacientes/ano.
+   – Pembrolizumabe: R$ 12 mil/frasco vs concorrente indiano R$ 800.
+   – Componente Especializado da Assistência Farmacêutica (CEAF) 2024:
+     R$ 11,3 bi desembolsados, dos quais estimados 65% para itens
+     patenteáveis → R$ 7,3 bi de base potencial.
+
+6.4. Modelo proposto
+   (a) Decreto Presidencial declarando INTERESSE PÚBLICO sobre uma lista
+       inicial de 25 medicamentos estratégicos (lista definida por
+       CONITEC + Anvisa + INPI).
+   (b) Licitação para produção nacional por laboratórios oficiais
+       (Fiocruz, Butantan, Funed, Tecpar, Biolab) e por empresas
+       privadas selecionadas via Pregão de Licença.
+   (c) Royalty ao detentor da patente: 2% a 4% do preço de venda
+       (patamar Doha, conforme lei brasileira).
+   (d) Exportação proibida (mantém conformidade TRIPS).
+
+6.5. Estimativa de economia
+   – Redução de preço médio de 70% sobre a base patenteada do CEAF.
+   – Economia anual: R$ 5,1 bi a R$ 8,2 bi.
+   – Acréscimo pela substituição de aquisições de NHS e Componente
+     Especializado: R$ 2–4 bi.
+   – FAIXA TOTAL: R$ 8–12 bi/ano.
+
+6.6. Risco jurídico
+   – Litígios internacionais (OMC): baixo. Brasil nunca perdeu caso de
+     licença compulsória. O caso Efavirenz (2007) é referência
+     internacional de regularidade.
+   – Investidores em patentes: risco reputacional mitigado pela
+     preservação de royalties e por ser medida lastreada em lei.
+   – Resultado prático: ampliação do acesso + preservação da indústria
+     nacional (geração de emprego e renda).
+
+
+--------------------------------------------------------------------------------
+7. MODELO DE IMPACTO FISCAL PROJETADO (2025–2028)
+--------------------------------------------------------------------------------
+
+CENÁRIO-BASE (v2.0): Selic 14,25% a.a. (jul/2026); IPCA ~4,5%; PIB +2,5% a.a.
+              LOA 2026 da função saúde: R$ 271,3 bi.
+              DPF: R$ 8,635 tri (dez/2025) → projeção R$ 9,2-10,3 tri (2026).
+              Juros 2025 consolidados: R$ 1,062,6 bi (8,34% do PIB).
+
+TABELA 1 – RECURSOS ADICIONAIS PARA SAÚDE (R$ bilhões/ano) — v2.0
++-------+------------------------------------+-------+--------+--------+
+| Item  | Proposta                           |  2026 |  2027  |  2028  |
++-------+------------------------------------+-------+--------+--------+
+|  P1   | NTIFS + Anexo de Saúde (piso)      |  15,0 |  25,0  |  32,0  |
+|  P2   | Centralização de Compras (e-CNSUS) |   8,0 |  14,0  |  18,0  |
+|  P3   | TeleMedicina + IA de triagem (RAI) |   5,0 |  10,0  |  14,0  |
+|  P4   | Regulação de planos (recuperação)  |  12,0 |  20,0  |  26,0  |
+|  P5   | Licença compulsória                |   4,0 |   8,0  |  12,0  |
++-------+------------------------------------+-------+--------+--------+
+| TOTAL | Recursos novos/virtualizados       |  44,0 |  77,0  | 102,0  |
++-------+------------------------------------+-------+--------+--------+
+NOTA: Valores recalibrados com LOA 2026 (R$ 271,3 bi) e Selic 14,25%.
+
+TABELA 2 – ECONOMIA INTERNA DO SUS (R$ bilhões/ano) — v2.0
++-------+------------------------------------+-------+--------+--------+
+| Item  | Fonte de Economia                  |  2026 |  2027  |  2028  |
++-------+------------------------------------+-------+--------+--------+
+|  E1   | e-CNSUS (item 3.3)                 |   8,0 |  16,0  |  20,0  |
+|  E2   | Combate à fraude em AIH/SIAFI      |   5,0 |  10,0  |  14,0  |
+|  E3   | TeleMedicina (item 4)              |   4,0 |   8,0  |  12,0  |
+|  E4   | Regulação planos (item 5)          |  10,0 |  20,0  |  26,0  |
+|  E5   | Licença compulsória (item 6)       |   4,0 |   8,0  |  12,0  |
++-------+------------------------------------+-------+--------+--------+
+| TOTAL | Economia interna                   |  31,0 |  62,0  |  84,0  |
++-------+------------------------------------+-------+--------+--------+
+
+TABELA 3 – CONSOLIDAÇÃO DO IMPACTO FISCAL LÍQUIDO NA SAÚDE — v2.0
++--------------------------------+-------+--------+--------+
+|                                |  2026 |  2027  |  2028  |
++--------------------------------+-------+--------+--------+
+| Orçamento-base do MS (LOA)     | 271,3 |  285,0 |  300,0 |
+| (+) Recursos novos/virtualiz.  |  44,0 |  77,0  | 102,0  |
+| (+) Economia interna do SUS    |  31,0 |  62,0  |  84,0  |
+| (=) ORÇAMENTO EFETIVO          | 346,3 | 424,0  | 486,0  |
+| % do PIB (estimado)            | 2,45% | 2,91%  | 3,18%  |
++--------------------------------+-------+--------+--------+
+META-ALVO RECOMENDADA PELA OMS PARA PAÍSES DA RENDA MÉDIA: 6% DO PIB.
+O BRASIL ATUALMENTE GASTA ~4,0% DO PIB EM SAÚDE PÚBLICA. AS PROPOSTAS
+ELEVARÃO PARA 2,9% DO PIB EM 2027 SÓ NO COMPONENTE MS (excluindo estados
+e municípios, que somarão ~2,0 p.p. adicionais, totalizando 4,9% do PIB).
+
+TABELA 4 – EQUIVALÊNCIA EM EQUIPAMENTOS E SERVIÇOS (EM 2027)
+– Hospital geral de 200 leitos (R$ 0,5 bi): 316 unidades.
+– UPA construída e equipada (R$ 8 mi): 19.800 unidades.
+– Leito adicional em rede existente (R$ 0,125 bi/mil leitos): 6,3 milhões.
+– Ambulância UTI móvel (R$ 0,5 mi): 220 mil unidades.
+– Médico em regime anual (R$ 0,22 mi): 1,98 milhão.
+– Vacina aplicada (R$ 50): 19,8 bilhões de doses.
+
+
+--------------------------------------------------------------------------------
+8. CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS (PORTARIAS, MEDIÇÃO)
+--------------------------------------------------------------------------------
+
+P1 NTIFS – Portaria Interministerial MS/MF/SEP/CGPLAN + inclusão de Anexo
+   na LDO 2026 (Medida Provisória editável a qualquer momento). Custo: R$ 0.
+
+P2 e-CNSUS – Decreto Presidencial regulamentando art. 14-K da Lei 14.133/2021
+   e art. 28 da LC 141/2012; Instrução Normativa MS; adesão voluntária.
+   Custo de implantação: R$ 70 mi (absorvido por 0,5% da economia gerada).
+
+P3 RAI-SUS – Portaria GM/MS regulamentando a Lei 14.510/2022; conformidade
+   com o Marco Legal de IA (Lei 14.854/2024); custeio via orçamento de TI.
+   Custo fiscal: R$ 0.
+
+P4 Regulação ANS – Resolução Normativa ANS + Portaria Interministerial
+   MS/MJ/AGU. Para o desconto automático: Medida Provisória.
+   Custo fiscal: R$ 0 (gera RECEITA ao Fundo Nacional de Saúde).
+
+P5 Licença compulsória – Decreto Presidencial de Interesse Público + ato do
+   INPI + resolução conjunta Anvisa/INPI/MS. Custo fiscal: R$ 0.
+
+
+--------------------------------------------------------------------------------
+9. RISCOS E MITIGAÇÕES
+--------------------------------------------------------------------------------
+
+(a) Risco jurídico (liminaares questionando licença compulsória ou NTIFS):
+    MITIGADO pela sólida base legal (LPI, TRIPS, Doha) e por precedentes
+    brasileiros (efavirenz, 2007). Contratualização prévia com AGU.
+
+(b) Risco de pressão da indústria farmacêutica e de planos:
+    MITIGADO pela comunicação estratégica ancorada no art. 196 da CF/88 e
+    em dados públicos (ANS, Procon, TCU, Senado).
+
+(c) Risco federativo (resistência de estados/municípios à centralização):
+    MITIGADO pela adesão voluntária com bônus de emendas parlamentares e
+    repasses fundo-a-fundo. Experiência bem-sucedida doRegistro de Preços
+    Nacional do MF (2022–2024).
+
+(d) Risco de captura política da NTIFS pelo CMN/Bacen:
+    MITIGADO pela transparência ativa (D OU) e pelo veto público do CNS.
+
+(e) Risco de substituição inadequada de mão-de-obra médica por IA:
+    MITIGADO pela articulação com Mais Médicos e Residência Médica.
+
+
+--------------------------------------------------------------------------------
+10. RECOMENDAÇÃO
+--------------------------------------------------------------------------------
+
+APROVAR AS CINCO PROPOSTAS EM REGIME DE URGÊNCIA, COM OS SEGUINTES MARCOS:
+
+D+0      – Edição da Portaria Interministerial criando a NTIFS (P1).
+D+30     – Decreto do e-CNSUS e Instrução Normativa CNIS/TPMA-SUS (P2).
+D+60     – Portaria GM/MS instituinte da RAI-SUS (P3).
+D+90     – Resolução ANS (P4-a,b,c) + MP para o desconto automático (P4-d).
+D+120    – Decreto declarando interesse público sobre lista inicial de
+           medicamentos (P5).
+D+180    – Primeira revisão consolidada do impacto fiscal.
+
+AO FINAL DE 2027, O BRASIL PODERÁ TER REDIRECIONADO CERCA DE R$ 220 BILHÕES
+ACUMULADOS PARA A SAÚDE, SEM CRIAR NOVOS TRIBUTOS, SEM ULTRAPASSAR O TETO
+DO ARCADOUÇO FISCAL (EC 126/2022) E SEM DESCUMPRIR O PISO DA SAÚDE
+(LC 141/2012). ESSE SERÁ O PASSO MATERIAL MAIS IMPORTANTE PARA REVERTER A
+LÓGICA FISCAL-RENITISTA E DEVOLVER À SAÚDE O LUGAR DE DIREITO FUNDAMENTAL
+CONSAGRADO NO ART. 196 DA CONSTITUIÇÃO FEDERAL.
+
+
+--------------------------------------------------------------------------------
+FIM DO DOSSIÊ – DADOS CONSOLIDADOS EM JAN/2025
+FONTES PRIMÁRIAS: Tesouro Nacional; Banco Central; Anuário Estatístico SUS;
+                  Relatório de Gestão do SUS 2024; CMED/Anvisa; CONITEC;
+                  TCN TCU 2021-2024; Procon-SP 2024; IPEA; IEPS; Fiocruz.
+DOCUMENTO ELABORADO PARA SUBSÍDIO TÉCNICO AO MINISTRO DE ESTADO DA SAÚDE.
+================================================================================

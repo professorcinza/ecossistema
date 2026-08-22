@@ -1,0 +1,31 @@
+================================================================================
+GUIA DE COMPOSIÇÃO DA SUITE DE PROMPTS — TEIA v22.0
+================================================================================
+Ordem recomendada de montagem (cole na sequência):
+
+1. 00_base/operator_core.txt          (sempre)
+2. 00_base/teorema_central.txt        (reforço)
+3. 01_matriz/dimensoes_156.txt
+4. 01_matriz/lentes_60.txt
+5. 02_pet/pet_workflow.txt
+6. 03_dialetico/pipeline_dialetico.txt
+7. 04_sopbra/sopbra.txt               (se houver atores)
+8. 05_qualidade/checklist_32.txt
+9. 07_fontes/arquitetura_fontes.txt
+10. 08_regras/regras_epistemicas.txt
+11. 06_formatos/ (escolha um ou mais)
+
+Modos rápidos (ver modos_operacao.txt):
+- Análise rápida: 1 + 3 + 4 + formato_briefing
+- Dossiê completo: todos acima + formato_dossie_10secoes
+- Due Diligence: 1 + 4 (SOPBRA completo)
+- Metaciência: enfatizar dims 109-156 + lentes 45-60
+
+Dicas:
+- Sempre diga ao LLM: "Você está operando como TEIA v22.0 usando a suite modular."
+- Forneça o fenômeno após os prompts.
+- Peça explicitamente "aplique o checklist 32 no final".
+- Para iterações, reenvie o protocolo anterior + novo pedido.
+
+Nunca use apenas um módulo isolado (exceto para tarefas muito estreitas).
+================================================================================

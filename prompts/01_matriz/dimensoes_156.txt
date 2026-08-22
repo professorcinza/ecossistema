@@ -1,0 +1,87 @@
+================================================================================
+156 DIMENSÕES DE CAPTURA — TEIA v22.0 (18 NÍVEIS)
+================================================================================
+Use sempre o NÚMERO da dimensão (ex: "Dim 110 — Taxonômica").
+
+NÍVEL 1 — SUPERFÍCIE (1-6)
+1.Econômica  2.Institucional  3.Tecnológica  4.Ambiental
+5.Social  6.Cultural
+
+NÍVEL 2 — PROFUNDIDADE (7-11)
+7.Midiática  8.Jurídica  9.Epistêmica  10.Espacial  11.Biopolítica
+
+NÍVEL 3 — SOMBRA (12-16)
+12.Temporal  13.Afetiva  14.Laboral  15.Infraestrutural  16.Religiosa
+
+NÍVEL 4 — ABISMO (17-21)
+17.Alimentar  18.Datificacional  19.Estética  20.Geracional  21.Atencional
+
+NÍVEL 5 — MICROFÍSICA (22-26)
+22.Linguística  23.Burocrática  24.Mobilizadora  25.Reprodutiva  26.Mitológica
+
+NÍVEL 6 — PSÍQUICA (27-31)
+27.Desejante  28.Creditícia  29.Lúdica  30.Arquivística  31.Zoopolítica
+
+NÍVEL 7 — SUB-BIOLÓGICA (32-36)
+32.Onírica  33.Tributária  34.Molecular  35.Pedagógica  36.Relacional
+
+NÍVEL 8 — MATERIAL/BRUTA (37-41)
+37.Militar  38.Hídrica  39.Acústica  40.Patológica  41.Excremental
+
+NÍVEL 9 — EXISTENCIAL (42-46)
+42.Métrica  43.Linhagem  44.Climática  45.Migratória  46.Sexual
+
+NÍVEL 10 — TERMINAL (47-51)
+47.Tanatopolítica  48.Opacitária  49.Cinética  50.Orbital  51.Traumática
+
+NÍVEL 11 — CÓSMICA (52-56)
+52.Atuarial  53.Criptográfica  54.Genética  55.Especulativa  56.Cancelatória
+
+NÍVEL 12 — ZÊNITE (57-66)
+57.Metabólica  58.Hiperreal  59.Filantrópica  60.Telúrica  61.Panóptica
+62.Termodinâmica  63.Autônoma  64.Ontológica  65.Farmacológica  66.Cartográfica
+
+NÍVEL 13 — CIBERNÉTICA/INFORMAÇÃO (67-75)
+67.Cibernética  68.Algorítmica  69.Semiótica  70.Reticular
+71.Entropia-Informação  72.Autômato  73.Sensorial
+74.Preditiva  75.Retroalimentativa
+
+NÍVEL 14 — NEURO/COGNITIVA (76-84)
+76.Atencional  77.Mnemônica  78.Emocional  79.Decisória
+80.Cognitiva  81.Neuroquímica  82.Perceptiva
+83.Linguística-Cerebral  84.Plasticidade
+
+NÍVEL 15 — COMPLEXIDADE/SISTÊMICA (85-108)
+85.Emergente  86.Não-Linear  87.Adaptativa  88.Auto-Organizativa
+89.Cascata  90.Modular  91.Hierárquica  92.Dissipativa  93.Sinérgica
+94.Caótica  95.Fractal  96.Reticular-Distribuída
+97.Metabólica-Global  98.Sinestésica  99.Ontogenética  100.Filogenética
+101.Epigenética  102.Existencial-Risco  103.Cósmica-Energética
+104.Quântica  105.Multiversal  106.Temporal-Não-Linear
+107.Consciência-Coletiva  108.Absoluta
+
+FOCO CRÍTICO: Dim 53 (Criptográfica) × Dim 3 (Tecnológica) × Dim 1 (Econômica)
+
+NÍVEL 16 — BIBLIOTECÁRIO / ORGANIZAÇÃO DO SABER (109-120)
+109.Bibliotecária  110.Taxonômica  111.Canônica  112.Citacional
+113.Editorial-Acadêmica  114.Curricular-Disciplinar  115.Peer-Review
+116.Patentária  117.Laboratorial  118.Metrológica
+119.Arquivística-Institucional  120.Agnológica
+
+NÍVEL 17 — CIÊNCIAS APLICADAS COMO MÁQUINA DE EXTRAÇÃO (121-140)
+121.Sanitária  122.Agroindustrial  123.Logística  124.Energética
+125.Mineral-Extrativa  126.Urbana  127.Habitacional  128.Transportes
+129.Espectral  130.Contábil-Normativa  131.Estatística-Oficial
+132.Avaliativa-Educacional  133.Seguritária  134.Esportiva-Espetacular
+135.Turística  136.Industrial-Manufatureira  137.Farmacêutica-Industrial
+138.Seguradora-Atuarial  139.Normativa-Técnica  140.Regulatória-Agência
+
+NÍVEL 18 — FRONTEIRAS DISCIPLINARES / METACIÊNCIA (141-156)
+141.Biotecnológica  142.Nanotecnológica  143.Geoengenharia  144.Nuclear
+145.Oceanográfica  146.Polar  147.Astropolítica  148.Interface-Neural
+149.Semicondutora  150.Materiais-Avançados  151.One-Health
+152.Justiça-Epistêmica  153.Ciência-Aberta/Fechada  154.Prospectiva
+155.Transdisciplinar  156.Metacientífica
+
+FOCO CRÍTICO v22.0: Dim 110 (Taxonômica) × Dim 112 (Citacional) × Dim 120 (Agnológica)
+================================================================================

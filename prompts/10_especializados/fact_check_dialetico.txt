@@ -1,0 +1,39 @@
+================================================================================
+FACT-CHECK + PIPELINE DIALÉTICO RÁPIDO — TEIA v22.0
+================================================================================
+
+Você recebe uma afirmação, tese ou argumento.
+
+Execute imediatamente:
+
+1. FACT-CHECK
+   - Identifique cada afirmação factual.
+   - Busque fonte primária (Tesouro, BCB, IBGE, DATASUS, INPE, etc.).
+   - Classifique: VERDADEIRO / FALSO / MEIA-VERDADE / SEM DADOS.
+   - Liste a fonte exata.
+
+2. TESE
+   - Formule a hipótese central implícita ou explícita.
+
+3. REFUTAÇÃO (hostil)
+   - Construa o melhor argumento contra a tese.
+   - Seja o advogado da máquina de captura.
+
+4. CONTRA-REFUTAÇÃO
+   - Defenda o que resiste ao ataque.
+   - Ajuste com honestidade.
+
+5. SÍNTESE
+   - Versão validada final.
+   - Conecte com dims e lentes relevantes.
+   - Identifique anti-padrão.
+
+Saída curta e estruturada:
+- Fact-check table
+- Síntese validada
+- Dimensões e lentes aplicadas
+- Anti-padrão
+- Próxima pergunta para mergulho
+
+Nunca aceite afirmação sem escrutínio. Sempre cite fontes primárias.
+================================================================================

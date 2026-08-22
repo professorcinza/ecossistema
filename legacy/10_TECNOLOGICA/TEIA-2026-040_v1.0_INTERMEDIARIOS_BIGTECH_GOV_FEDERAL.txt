@@ -1,0 +1,676 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-040
+VERSÃO: v1.0
+CATEGORIA: 10_TECNOLOGICA
+TÍTULO: Intermediários das Contratações de Big Tech pelo Governo Brasileiro
+STATUS: INTERNO — Análise de inteligência
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: 36,514 bytes (35.7 KB)
+HASH MD5: 3adddcb25c0bb73acf9f85164bd980eb
+================================================================================
+
+================================================================================
+TEIA — MAPA DOS INTERMEDIÁRIOS DAS CONTRATAÇÕES DE BIG TECH PELO GOVERNO BRASILEIRO
+================================================================================
+Autor: Cleiton Moura (TEIA) — Análise geopolítica/econômica
+Data de compilação: julho/2026
+Contexto: Governo brasileiro gasta R$ 9-10 bi/ano com Big Tech estrangeira (Google,
+Microsoft, Amazon, Meta, Oracle, etc.) — estimado em 5x o orçamento do IBAMA.
+Este dossiê mapeia QUEM FAZ A PONTE entre Big Tech estrangeira e o setor público
+brasileiro: revendedores, consultorias, licitantes, lobistas, parlamentares.
+
+FONTE PRINCIPAL: "Contratos, Códigos e Controle: A Influência das Big Techs no
+Estado Brasileiro" (USP-EACH/GETIP + UnB/GEPSI-Data, com Ergon Cugler de Moraes
+Silva, José Carlos Vaz e Julia Ribeiro de Almeida Veneziani — USP; Isabela Rocha
+e Camila de Camargo Modanez — UnB, publicado em jul/2025). Levantou +10 mil
+contratos federais/estaduais/municipais (2014-2025).
+
+================================================================================
+VALORES TOTAIS POR BIG TECH (2014-2025, estudo USP/UnB, fonte Núcleo Jornalismo)
+================================================================================
+TOTAL DO SETOR PÚBLICO BRASILEIRO COM BIG TECHS (2014-2025): R$ 23 BILHÕES
+• Apenas em 12 meses (jun/2024-jun/2025): R$ 10,3 bilhões
+• Cifra suficiente para: (a) pagar todas as bolsas CAPES/CNPq do período;
+  (b) sustentar integralmente a UnB por 4,5 anos.
+
+MAIORES FORNECEDORES (valores nominais, em R$):
+1. Microsoft:        R$ 3,27 bilhões
+2. Oracle:           R$ 1,02 bilhão
+3. Google:           R$ 938,8 milhões
+4. Red Hat (IBM):    R$ 909,2 milhões
+5. AWS (Amazon):     estimado em ~R$ 700+ milhões (multicloud)
+6. Meta:             valores menos visíveis (via WhatsApp BSPs)
+
+Fontes oficiais consultadas pelo estudo:
+- Portal Nacional de Contratações Públicas (PNCP)
+- Contratos.gov.br (antigo ComprasNet)
+- Painel de Preços – Serviços
+- Painel de Preços – Materiais
+- Catálogo de Soluções de TIC com Condições Padronizadas
+
+================================================================================
+1. REVENDEDORES E INTEGRADORES AUTORIZADOS
+================================================================================
+
+1.1 — REVENDA MICROSOFT (Licenciamento corporativo / Enterprise Agreement - EA)
+---------------------------------------------------------------------------
+
+★ BRASOFTWARE INFORMÁTICA LTDA — "PRINCIPAL REVENDA MICROSOFT NO PAÍS"
+   • Fundada em 1987. Escritórios em todo Brasil.
+   • Autosdescrita como "um dos principais parceiros Microsoft na América Latina,
+     gerenciando o maior número de contratos de licenciamento e serviços Microsoft
+     online" (Microsoft Azure Marketplace partner profile).
+   • É a principal via de entrada do Microsoft Office 365, Windows, SQL Server,
+     Azure, etc. em órgãos federais.
+   • Principais contratos públicos conhecidos (com fontes):
+
+     ▶ POLÍCIA FEDERAL — Contrato nº 02/2025-DTI/PF (assinado em fev/2025)
+       Valor: R$ 148 milhões (preço estimado em edital: R$ 164.792.809,22)
+       Prazo: 36 meses (3 anos)
+       Objeto: Licenças EA para 19.651 usuários (15.425 policiais + 4.226
+       prestadores/estagiários) — Office 365, Windows, SQL Server, Exchange,
+       Teams, etc. (fonte: Capital Digital / gov.br/pf/licitacoes)
+
+     ▶ Outros órgãos federais: contratos ativos em vários ministérios (em
+       análise pelo TCU em 2026, que anunciou auditoria abrangente em TI).
+
+★ OUTROS REVENDEDORES MICROSOFT COM ATUAÇÃO EM GOVERNO:
+   • SND (snd.com.br) — distribuidora; atua com revendas para setor público
+   • Goldnet TI (goldnet.com.br) — revenda autorizada Azure / Microsoft 365
+   • MOVX Tecnologia (grupomovx.com) — representante Microsoft 2026
+   • Tradework — revenda oficial Microsoft
+   • Softwares Digitais (softwaresdigitais.com.br) — licenciamento corporativo
+     desde 2018, foco em compliance
+   • vWare — revenda Microsoft/Dell/Kaspersky/ESET
+   • Ores (ores.com.br) — consultoria de licenciamento corporativo (M365 E3/E5,
+     Business Premium, Copilot: R$ 70 a R$ 480 por usuário/mês)
+
+   DISTRIBUIDORES OFICIAIS MICROSOFT (nível superior às revendas):
+   • Cadenciados pelo programa Microsoft Partner Network — operam como atacadistas
+     de licenças para revendas locais que então vendem ao governo.
+
+1.2 — REVENDA / PARCERIA GOOGLE CLOUD / GOOGLE WORKSPACE
+--------------------------------------------------------
+
+★ RW3 TECNOLOGIA (nome fantasia; razão social: RJR COMÉRCIO E SERVIÇOS DE
+   INFORMÁTICA LTDA) — PARCEIRA GOOGLE NO SERPRO
+   • Capital social: R$ 200 mil (empresa "pequena" pelo porte, mas gigante pela
+     influência).
+   • Diretor: ROBERTO FLORENTINO (advogado, articulador).
+   • Obteve DISPENSA DE LICITAÇÃO do Serpro (Lei das Estatais 13.303/2016) para
+     integrar a suíte Google na estatal via "contrato de parceria" denominado
+     "TEAMWORK" (Google + Zimbra).
+   • EMPENHO INICIAL: R$ 4 milhões do Serpro para RW3 (Portal da Transparência).
+   • CONTRATO ADICIONAL: R$ 7 milhões com Ministério da Justiça (sem licitação —
+     o Serpro atua como "cabeça" do contrato).
+   • REUNIÕES PRIVADAS com presidente do Serpro Glória Guimarães e diretor de
+     Operações Iran Porto Júnior (2017-2018); encontro decisório em 30/mai/2018
+     com JOÃO CARLOS BOLONHA, diretor da Google Cloud Brazil.
+   • Anúncio oficial da parceria em nov/2018 (13º Congresso de Inovação no Poder
+     Judiciário - Conip Judiciário 2018).
+   • Continuou ativa no Governo Bolsonaro, patrocinando evento onde presidente do
+     Serpro (Caio Paes de Andrade) e presidente da Dataprev (Christiane Edington)
+     palestraram.
+   • Fonte: Capital Digital (Luiz Queiroz).
+
+★ GOOGLE CLOUD BRASIL — DIRETORES RELEVANTES:
+   • João Carlos Bolonha — diretor de Google Cloud Brazil (envolvido em acordo Serpro).
+   • Marcelo Lacerda — diretor de Relações Governamentais e Políticas Públicas do
+     Google Brasil; vice-presidente de Estratégia da Câmara e-net (associação
+     setorial). Assinou editorial contra o PL 2630 exibido na home do Google.
+   • Anderson Gaspar — Head para Clientes Corporativos do Google Cloud.
+
+★ OUTROS PARCEIROS GOOGLE CLOUD NO BRASIL:
+   • IPNET by Vivo (ipnet.cloud) — Google Cloud Partner oficial da Telefônica/Vivo
+   • Guinux (guinux.com.br) — Google Cloud Partner pioneiro no Brasil
+   • Megaport — Google Cloud Partner Interconnect
+   • Oi Soluções — parceria Google Cloud para clientes corporativos
+
+1.3 — AWS (AMAZON WEB SERVICES) — CONTRATOS DIRETOS COM SERPRO/DATAPREV
+------------------------------------------------------------------------
+
+A AWS NÃO USA REVENDEDOR: assina CONTRATOS DIRETOS com Serpro e Dataprev na
+"Nuvem de Governo":
+   • Dataprev contratou AWS + Huawei + Oracle (contratos multicloud).
+   • Serpro contratou AWS + Huawei + Oracle + Google (posteriormente Microsoft
+     Azure, IBM Cloud, totalizando 6 provedores multicloud).
+   • TCU (2026) determinou que Serpro altere cláusula 3.2 do contrato com AWS,
+     eliminando possibilidade de "acesso ou compartilhamento de dados em
+     atendimento a determinações de autoridades estrangeiras" — ou seja, o
+     contrato original permitia que EUA solicitassem dados do governo brasileiro.
+
+★ AWS BRASIL — PATROCÍNIO E ARTICULAÇÃO:
+   • Patrocinou evento onde o presidente do Serpro (Caio Paes de Andrade) e a
+     presidente da Dataprev (Christiane Edington) palestraram (Capital Digital).
+   • "Projeto Estaleiro" — tentativa de internar a nuvem AWS via Serpro.
+
+★ PARCEIROS AWS NO BRASIL (revenda/implementação):
+   • UDS (uds.com.br) — AWS Partner consultoria
+   • NUAGE (nuageit.com.br) — AWS Partner Network
+   • Claranet — AWS Premier Partner
+   • Logicalis, Mesa Mobile, Devoteam, Luxoft — todos AWS Partners
+
+1.4 — META / WHATSAPP BUSINESS API — PARCEIROS BSP (Business Solution Providers)
+--------------------------------------------------------------------------------
+
+A Meta não faz contratos diretos com o governo federal para WhatsApp Business.
+Opera via BSPs (Business Solution Providers) autorizados:
+
+★ 360DIALOG (360dialog.com/br) — "parceiro oficial da Meta"; +100.000 empresas
+   integradas; acesso à WhatsApp Business API em 30 minutos.
+★ WATI (wati.io) — BSP indiano com forte atuação Brasil; team inbox multi-usuário.
+★ ZENVIA (zenvia.com) — BRASILEIRA; principal BSP nacional; CX Solution com IA;
+   atende governo e grandes empresas.
+★ DTLINK / DT Network, Movidesk, RD Station, Channel.io — demais BSPs nacionais.
+
+Para META VERIFIED e Facebook/Instagram Ads, a Meta opera direto ou via
+agências de performance (Água Doce, Resource Group, etc.) — sem canal direto
+relevante para governo.
+
+================================================================================
+2. CONSULTORIAS E INTEGRADORAS — QUEM IMPLEMENTA CLOUD/IA NO GOVERNO
+================================================================================
+
+2.1 — BIG FOUR E GIGANTES GLOBAIS NO BRASIL
+-------------------------------------------
+
+★ ACCENTURE DO BRASIL LTDA (CNPJ 96.534.094/0001-58; matriz: São Paulo)
+   • Controlada pela Accenture International B.V. (Holanda).
+   • Procurador no Brasil: Marcelo Volta de Almeida Prado.
+   • Operação massiva em consultoria de gestão + TI; contratos federais
+     recorrentes.
+   • Possui "Accenture Federal Services" como unidade global especializada em
+     governo (maior nos EUA).
+
+★ DELOITTE BRASIL — escritórios em SP/RJ/BSB e outras capitais
+   • Consultoria tributária + TI; atua em terceirização e projetos digitais.
+   • Publicou "Panorama da Lei da Terceirização no Brasil" (2025, com 51 empresas).
+
+★ MCKINSEY & COMPANY e BOSTON CONSULTING GROUP (BCG) — atuação discreta em
+   projetos de alto nível no Executivo federal; sem contratos públicos de grande
+   vulto identificados de forma clara (atuação via consultorias estratégicas
+   fechadas com sigilo comercial).
+
+2.2 — CONSULTORIAS/INTEGRADORAS BRASILEIRAS RELEVANTES PARA GOVERNO
+-------------------------------------------------------------------
+
+★ TIVIT — ADQUIRIDA PELA ALMAVIVA (Itália) EM 2025
+   • Era propriedade da Apax Partners LLP (private equity britânico).
+   • Cade aprovou aquisição sem restrições em jul/2025.
+   • Marco Tripi (CEO Almaviva) acumula presidência; Paulo Freitas segue como CEO.
+   • Terceirização massiva de TI para bancos estatais e governo.
+   • Agora parte de grupo global de transformação digital/IA/cloud.
+
+★ CI&T — ADQUIRIU A DEXTRA
+   • Fundada em 1995; clientes iniciais: IBM, HP, Vale, Natura, Globo.
+   • Aquisição da Dextra reforçou presença em desenvolvimento end-to-end.
+   • Atuação em gov.br e projetos de governo digital.
+
+★ STEFANINI — GRUPO BRASILEIRO MULTINACIONAL
+   • Fundada em 1987 por Marco Stefanini; 30.000+ colaboradores em 41 países.
+   • Contrato histórico com CAIXA ECONÔMICA FEDERAL: R$ 127,6 milhões (2008) —
+     terceirização de TI da área de loterias.
+   • CEO global: Marco Stefanini. CEO Brasil (2026): Rodrigo Stefanini.
+   • Atuação forte em SAP/Oracle, Cyber Defense (Stefanini Rafael).
+
+★ OUTRAS:
+   • EVAL (eval.br) — consultoria de TI
+   • MURAL — desenvolvimento para governo
+   • PROQUEST — BI / analytics governo
+   • Capgemini Brasil (Glória Guimarães, ex-presidente do Serpro, foi para cá)
+   • INNOVATEC, INFLOR — setor específico
+
+2.3 — SERPRO E DATAPREV (ESTATAIS — OS "BROKERS" DA NUVEM SOBERANA)
+-------------------------------------------------------------------
+
+★ SERPRO (Serviço Federal de Processamento de Dados) — estatal federal
+   • Presidente atual (2025): Alexandre Amorim.
+   • Antigos presidentes: Glória Guimarães, Caio Paes de Andrade.
+   • Diretor de Operações histórico: Iran Porto Júnior (exonerado em 2019).
+   • Atua como "BROKER" da chamada "Nuvem Soberana" ou "Nuvem de Governo" —
+     repassando serviços das Big Techs estrangeiras para órgãos federais.
+   • Sede: Brasília. Cobertura nacional.
+
+★ DATAPREV (Empresa de Tecnologia e Informações da Previdência)
+   • Presidente (Governo Bolsonaro): Christiane Edington.
+   • Presidente atual: Rodrigo Assumpção (questionou se nuvem "soberana" do
+     Serpro com Google é "tão soberana assim").
+   • Focada em INSS e sistemas previdenciários.
+
+★ FATOS CRÍTICOS SOBRE SERPRO/DATAPREV:
+   • Em 2023, foram RETIRADAS do Plano Nacional de Desestatização (PND) pelo
+     governo Lula, com reconhecimento de "relevância estratégica".
+   • Em 12/nov/2024, MGI (Ministério da Gestão e Inovação em Serviços Públicos)
+     assinou Acordos de Cooperação Técnica (ACTs) com Dataprev e Serpro para a
+     "Nuvem de Governo".
+   • Em jun/2025, inaugurada a Nuvem de Governo — "maior infraestrutura de cloud
+     soberana do Brasil", investimento > R$ 1 bilhão, acesso para +250 órgãos do
+     Executivo Federal.
+   • ATUALMENTE ESTÃO DENTRO: AWS, Huawei, Oracle, Google, Microsoft Azure,
+     IBM Cloud (6 provedores multicloud).
+   • 11 órgãos federais migrando dados para a nuvem soberana.
+   • INTELIGÊNCIA ARTIFICIAL DO GOOGLE (Gemini) já disponível na nuvem do Serpro
+     (out/2025) — sob gestão de Welsinner Brito, superintendente de Arquitetura
+     Corporativa, Plataformas Inteligentes e Engenharia de Nuvem do Serpro.
+
+================================================================================
+3. LICITAÇÕES E CONTRATOS DE ALTO VULTO (2023-2026)
+================================================================================
+
+3.1 — CONTRATOS BILIONÁRIOS IDENTIFICADOS
+-----------------------------------------
+
+★ CAIXA ECONÔMICA FEDERAL — NUvem SOBERANA DO SERPRO
+   • Contrato assinado em maio/2025 com Serpro (broker) por 5 anos.
+   • Valor inicial: R$ 752,6 milhões (R$ 150 mi/ano).
+   • Aditivo em 20/ago/2025: R$ 763,8 milhões (elevação de R$ 11,2 mi).
+   • Hospedado em ambiente Microsoft Azure (parceiro Serpro).
+   • Modalidade: INEXIGIBILIDADE DE LICITAÇÃO (contratação direta).
+   • Microsoft entra pela "janela" para acessar bases de dados da Caixa.
+   • Anterior: CEF tinha contrato Microsoft direto de R$ 508 milhões (elevado a
+     R$ 667 mi por aditivo) — agora substituído pelo contrato Serpro.
+   • Fonte: Capital Digital (Luiz Queiroz).
+
+★ POLÍCIA FEDERAL — CONTRATO COM BRASOFTWARE (fev/2025)
+   • R$ 148 milhões / 36 meses.
+   • Licenças Microsoft EA para 19.651 usuários.
+   • Modalidade: Pregão Eletrônico (Lei 14.133/21).
+
+★ STF/SERPRO (TRF-2) — CONTRATO DE ADESÃO MULTICLOUD (2026)
+   • "Contrato de Adesão" assinado entre TRF-2 e Serpro para serviços multicloud.
+   • Documento público em static.trf2.jus.br.
+
+★ EXTREME DIGITAL CONSULTORIA E REPRESENTAÇÕES LTDA
+   • Contrato de TI do governo federal reajustado em R$ 50,84 milhões (jul/2026).
+   • Fonte: O Tempo.
+
+★ CONSULTORIA ESTRATÉGICA GENÉRICA — DGCO nº 00727
+   • Contrato de consultoria e planejamento estratégico: R$ 5.623.794,96
+   • Prorrogado até 2027 (3º termo aditivo).
+   • Fonte: O Tempo (jul/2026).
+
+★ SERPRO / GOVERNO FEDERAL (contrato principal)
+   • Reajuste em jun/2026 — segue índices pactuados no contrato original de 2022.
+
+3.2 — MODALIDADES DE CONTRATAÇÃO QUE FAVORECEM BIG TECH
+-------------------------------------------------------
+
+   • INEXIGIBILIDADE DE LICITAÇÃO — usada quando o serviço é "exclusivo" da Big
+     Tech (caso Caixa/Serpro/Microsoft e Serpro/Google/RW3).
+   • DISPENSA DE LICITAÇÃO — Lei das Estatais 13.303/2016 (caso Serpro).
+   • ACORDOS DE COOPERAÇÃO TÉCNICA (ACTs) — assinados entre MGI e Serpro/Dataprev
+     (nov/2024) e entre Big Tech e órgãos específicos (BC, Universidades).
+   • PREGÃO ELETRÔNICO (Lei 14.133/21) — regra geral para licenças padronizadas.
+   • REGISTRO DE PREÇOS — permite futuras aquisições sem nova licitação.
+
+3.3 — CONTRATOS DE COOPERAÇÃO TÉCNICA (ACTs) BIG TECH → GOVERNO
+---------------------------------------------------------------
+
+   • Google Cloud ↔ Serpro (Teamwork, dez/2018)
+   • Microsoft Azure ↔ Serpro (2025 — última entrada na multicloud)
+   • AWS ↔ Dataprev + Serpro (2024)
+   • Oracle ↔ Dataprev + Serpro (2024)
+   • Huawei ↔ Dataprev + Serpro (2024) — surpreendente entrada chinesa
+   • IBM Cloud ↔ Serpro (2025)
+   • Google Cloud ↔ Banco Central (Big Data; chefe de TI do BC participou de
+     evento da Brasscom em Brasília)
+   • CVM ↔ Receita Federal (ACT jul/2026 — cooperação cadastral CNPJ)
+
+3.4 — CONTRATOS DE DESENVOLVIMENTO — CODIFICAGOV.BR
+---------------------------------------------------
+
+   • Programa de contratação centralizada de desenvolvimento de software do MGI.
+   • Economia declarada: R$ 250 milhões (até 2024).
+   • Base legal: Pregões 7/2023 e 8/2023 (Central de Compras).
+   • ~50 órgãos públicos participam; contrata empresas sob demanda.
+   • Sistemas estruturantes ainda mantidos por Serpro/Dataprev.
+
+3.5 — AUDIÊNCIA DO TCU (2026)
+-----------------------------
+   • TCU aprovou auditoria abrangente sobre contratos de TI da Administração
+     Pública Federal — devido à "persistência de fraudes bilionárias" (jan/2026).
+   • Foco: contratos de cloud, licenciamento e terceirização.
+   • Fonte: Jornal do Comércio (28/jan/2026).
+
+================================================================================
+4. LOBBY E ARTICULAÇÃO INSTITUCIONAL DAS BIG TECHS NO BRASIL
+================================================================================
+
+4.1 — "A TURMA DO BLOCK" (investigação Agência Pública + Núcleo + CLIP, set/2025)
+---------------------------------------------------------------------------------
+
+MAPEAMENTO INÉDITO: 74 profissionais de 16 plataformas digitais atuando em
+"políticas públicas" e "relações governamentais" no Brasil. Método: snowball
+sampling via LinkedIn.
+
+• META: 19 funcionários (MAIOR CONTINGENTE)
+• GOOGLE + YOUTUBE: 13 (10 Google + 3 YouTube)
+• TIKTOK: 7
+• UBER: 7
+• Demais: Amazon, X (Twitter), Discord, Mercado Livre, etc.
+
+PORTA GIRATÓRIA: 2 em cada 3 (≈67%) desses profissionais tiveram passagem por
+órgãos de governo (Presidência, ministérios, Casas Legislativas, agências
+reguladoras).
+
+• META e GOOGLE foram "excepcionalmente agressivas" contra o PL 2630/2020
+  (Fake News) entre 2022 e 2024.
+• GOOGLE contratou o ex-presidente MICHEL TEMER como articulador.
+• GOOGLE veiculou propaganda contra o PL em sua home page — gerou inquéritos.
+• META publicou anúncios de página inteira em jornais e em aeroportos de BSB.
+
+4.2 — INSTITUTO CIDADANIA DIGITAL (ICD) → "CONSELHO DIGITAL" (REBRANDING)
+-------------------------------------------------------------------------
+
+★ O PRINCIPAL ESCRITÓRIO DE LOBBY DAS BIG TECHS NO BRASIL.
+
+   • Razão social original: Instituto Cidadania Digital (ICD).
+   • Novo nome fantasia (rebranding): CONSELHO DIGITAL.
+   • CNPJ: 35.808.843/0001-01 (criado em 2019).
+   • Fundador, dono e presidente: FELIPE MELO FRANÇA (advogado).
+   • Origem política: assessor parlamentar do deputado Vinicius Poit (Novo-SP) —
+     "um dos principais articuladores da extrema-direita no Congresso".
+   • Também foi assessor de Luciano Bivar (União-PE).
+   • Conselheiro do movimento LIVRES (liberalismo suprapartidário).
+   • Diretor-executivo do ICD/Conselho Digital.
+
+ATUAÇÃO:
+   • SECRETARIADO-EXECUTIVO da Frente Parlamentar Mista da Economia e Cidadania
+     Digital ("Frente Digital") na Câmara dos Deputados.
+   • Produz material técnico,subsídios, emendas e textos legislativos para
+     parlamentares da Frente Digital.
+   • Organiza eventos fechados com assessores de senadores e deputados.
+   • Em 2024, promoveu "brunch" em restaurante sofisticado de Brasília com
+     assessores da Comissão Temporária de Regulamentação da IA (CTIA) do Senado.
+
+EMPRESAS-MANTENEDORAS (via associação setorial):
+   Google, X (Twitter), Amazon, Meta, TikTok, Discord, UBER, 99, Hotmart,
+   Mercado Livre.
+
+ASSOCIAÇÕES-MEMBRO DO ICD/CONSELHO DIGITAL:
+   • AMOBITEC (Associação Brasileira de Mobilidade e Tecnologia)
+     — associadas: Uber, 99, iFood, Buser, Flixbus, Rappi, Airbnb, QuintoAndar.
+   • CÂMARA E-NET (Câmara Brasileira de Economia Digital)
+     — associadas: Facebook/Meta, Google, Twitter, TikTok, Kwai.
+   • ALAI (Asociación Latinoamericana de Internet)
+
+CONSELHO ADMINISTRATIVO DO ICD (em 2023, só homens):
+   • João Paulo Nemoto Sabino de Freitas — iFood
+   • Ricardo Leite Ribeiro — Uber
+   • Felipe Melo França — diretor-executivo
+
+VICE-PRESIDENTE DE ESTRATÉGIA DA CÂMARA E-NET:
+   • MARCELO LACERDA — diretor de Relações Governamentais do GOOGLE Brasil.
+
+NA DIRETORIA DA CÂMARA E-NET:
+   • MURILLO LARANJEIRA — diretor sênior de políticas públicas da META.
+
+LEIS PRODUZIDAS PELO ICD EM ARTICULAÇÃO COM A FRENTE DIGITAL:
+   • Marco de Startups
+   • Lei do Governo Digital
+   • Lei da Telemedicina
+   • Política Nacional de Educação Digital
+
+4.3 — ASSOCIAÇÕES SETORIAIS TRADICIONAIS
+----------------------------------------
+
+★ BRASSCOM (Associação das Empresas de Tecnologia da Informação e Comunicação
+  e de Tecnologias Digitais)
+   • Mais de 90 membros, incluindo IBM, Microsoft e outras Big Techs.
+   • Renovou diretoria para biênio 2026-2028: TOTVS na presidência e Big Techs
+     no Conselho de Administração (reforça papel de interlocutora do governo).
+   • Publica relatórios (Cibersegurança 2025: projeção de R$ 104,6 bi em
+     cibersegurança até 2028).
+   • Atua no Plano Brasil Digital 2030 junto ao governo.
+   • Seminário "Governo e o Setor de TI – Garantia de Inovação, Produtividade e
+     Segurança" ( Brasília, mai/2025).
+   • Foi destacada por Rafael Zanatta (Data Privacy Brasil) como central na
+     articulação contra a LGPD e contra regulação de plataformas.
+
+★ ABES (Associação Brasileira de Empresas de Software)
+   • Junto com Brasscom e Abinee, saiu em defesa da ANPD como autoridade autônoma
+     na discussão do PL 2630 (Fake News).
+   • Crítica do adiamento do PL 278/2026 (infraestrutura de dados).
+   • Promove Plano Brasil Digital 2030 com CNI.
+
+★ ABINEE (Associação Brasileira da Indústria Elétrica e Eletrônica)
+   — Atua em conjunto com Brasscom e ABES em pautas digitais.
+
+★ AMCHAM BRASIL (Câmara Americana de Comércio para o Brasil)
+   • Articula empresas americanas (Amazon, Google, Microsoft, Nvidia) com governo.
+   • "Plano de Voo" anual reúne empresários e governo (B3, SP).
+   • Evento no Vale do Silício (2025) com foco em data centers — Haddad anunciou
+     MP 25 desonerando data centers.
+   • Defende aplicação contrária à "lei de reciprocidade aos EUA".
+
+★ US CHAMBER OF COMMERCE (American Chamber) — interface externa
+   • Coordena lobby americano no Brasil; abriu portas diplomáticas para BSA
+     (Business Software Alliance) — associação das Big Techs americanas.
+   • Segundo Rafael Zanatta: "vimos a presença desses lobistas nas reuniões de
+     trabalho das leis do setor".
+
+4.4 — FRENTES PARLAMENTARES DE TECNOLOGIA
+------------------------------------------
+
+★ FRENTE PARLAMENTAR MISTA DA ECONOMIA E CIDADANIA DIGITAL ("FRENTE DIGITAL")
+   • Criada em 2019.
+   • Requerimento de nova composição protocolado em 27/mar/2023.
+   • 204 deputados federais de 19 partidos assinaram (PL lidera com 50).
+   • 12 senadores (incluindo Rodrigo Pacheco, presidente do Senado).
+
+DIRETORIA (2023-2024):
+   • Presidente: Lafayette de Andrada (Republicanos-MG)
+   • Vice-presidente: Zé Vitor (PL-MG)
+   • Vice-presidente para Congresso: Mendonça Filho (União Brasil-PE)
+   • Vice-presidente para Senado: Laércio Oliveira (PP-SE)
+   • Secretário-geral: Evair de Melo (PP-ES)
+
+SENADORES SIGNATÁRIOS ATIVOS:
+   Alessandro Vieira (PSDB-SE), Irajá Silvestre Filho (PSD-TO), Izalci Lucas
+   (PSDB-DF), Jaques Wagner (PT-BA), Jorge Kajuru (PSB-GO), Otto Alencar (PSD-BA),
+   Plínio Valério (PSDB-AM), Rodrigo Cunha (União-AL), Rodrigo Pacheco (PSD-MG),
+   Veneziano Vital do Rêgo (MDB-PB), Weverton Rocha (PDT-MA).
+
+★ FRENTE PARLAMENTAR DE APOIO À CIBERSEGURANÇA (instalada mar/2025)
+   • Senado Federal, Resolução 55/24.
+   • Presidente: senador Esperidião Amin (PP-SC).
+   • Apoiada por ACATE (Associação Catarinense de Tecnologia), presidente Diego
+     Ramos.
+
+★ FRENTE PARLAMENTAR DE INTELIGÊNCIA ARTIFICIAL, PROTEÇÃO DE DADOS E SEGURANÇA
+   DIGITAL (criada em 2026, Senado)
+   • Discute arcabouço regulatório nacional.
+   • Tabata Amaral (deputada) é uma das articuladoras.
+
+★ FRENTE PARLAMENTAR EM DEFESA DOS TRABALHADORES POR APP (criada 2025)
+   • Temática — foca Uber, iFood, 99.
+
+4.5 — PORTA GIRATÓRIA DOCUMENTADA (Big Tech ↔ Governo)
+------------------------------------------------------
+
+Casos identificados em reportagens:
+   • Michel Temer (ex-presidente da República) — contratado pelo Google para
+     articulação contra regulação.
+   • Glória Guimarães (ex-presidente do Serpro) — foi para CAPEGEMINI Brasil.
+   • Iran Porto Júnior (ex-diretor de Operações do Serpro) — articulou parceria
+     Google/Serpro; remanejado e depois exonerado em 2019.
+   • Caio Paes de Andrade (ex-presidente do Serpro; foi secretário especial de
+     Gestão e Governo Digital no Ministério da Economia — Caio Mário Paes de
+     Andrade) — articulou redução de preços Microsoft com Serpro/Dataprev
+     (desconto de 17,68% negociado pelo governo federal).
+   • 11 profissionais das Big Techs identificados pelo Núcleo vieram do lobby de
+     Petróleo, Mineração, Tabaco e Setor Bancário.
+   • Governo Lula (2025) estuda ampliar "quarentena" para ex-servidores — sintoma
+     de que o problema cresceu.
+
+================================================================================
+5. CONEXÕES POLÍTICAS NO LEGISLATIVO FEDERAL
+================================================================================
+
+5.1 — COMISSÃO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO (CCTI) — CÂMARA DOS DEPUTADOS
+------------------------------------------------------------------------------
+
+   • Presidente (2026): Deputado ÁTILA LIRA (PP-PI) — advogado, empresário,
+     45 anos, filho do ex-deputado Átila de Freitas Lira.
+   • Presidente (2025): Deputado RICARDO BARROS (PP-PR) — líder do governo
+     Bolsonaro na Câmara; envolvido em CPI da Covid.
+   • Presidente (2024): Deputada NELY AQUINO (PODE-MG) — "ano marcado por
+     avanços e desafios para a Ciência e Tecnologia".
+   • Presidente (2023): Deputado GOULART (PSD) — substituiu Paulo Magalhães.
+   • Ex-presidente: Sandro Alex (ex-1º vice-presidente).
+
+5.2 — COMISSÃO DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO, COMUNICAÇÃO E INFORMÁTICA
+   (CCT) — SENADO FEDERAL
+   • Em 2026, foi desmembrada:
+     - Comissão de Comunicação (presidente: Amaro Neto — Republicanos)
+     - Comissão de Ciência, Tecnologia e Inovação (CCTI)
+
+5.3 — COMISSÃO TEMPORÁRIA DA REGULAMENTAÇÃO DA IA (CTIA) — SENADO
+----------------------------------------------------------------
+
+   • Relator: Senador EDUARDO GOMES (PL-TO).
+   • Senadores que apresentaram quase metade das 103 emendas:
+     - LAÉRCIO OLIVEIRA (PP-SE)
+     - MARCOS PONTES (PL-SP, ex-astronauta, ex-ministro da CTI)
+   • Pontes deu requerimento para +5 audiências públicas (10 meses após início
+     dos trabalhos) e quer convidar Sam Altman (OpenAI).
+   • Estratégia: adiar votação até recesso parlamentar, matendo o projeto.
+   • Visitas aos EUA (sede das Big Techs) por parlamentares brasileiros — custeadas
+     com dinheiro público (cada deputado gastou ~R$ 20 mil). Caso emblemático:
+     Kim Kataguiri e outros deputados em viagem ao Vale do Silício organizada
+     pelo ICD/Conselho Digital (Intercept, dez/2022).
+
+5.4 — DOAÇÕES POLÍTICAS (ELEIÇÕES 2022 E 2024)
+----------------------------------------------
+
+O Brasil PROÍBE doações de empresas (pessoas jurídicas) desde 2015 (Lei 13.165/15
+e decisão TSE). Doações só são permitidas por PESSOAS FÍSICAS (até 10% dos
+rendimentos do ano anterior) ou via PARTIDOS (Fundo Especial de Financiamento de
+Campanha - FEFC).
+
+Por isso, as BIG TECHS NÃO DOAM DIRETAMENTE. A influência política-eleitoral se
+dá por:
+   (a) Doações individuais de EXECUTIVOS e ACIONISTAS.
+   (b) Financiamento de THINK TANKS e associações setoriais (Conselho Digital,
+       Brasscom, ABES) que fazem advocacy.
+   (c) CONTRATOS com PARTIDOS para serviços de cloud/ads (Google Ads, Meta Ads).
+   (d) PATROCÍNIO de eventos políticos (seminários, jantares).
+
+DADOS GERAIS 2022 (referência):
+   • Total doado por pessoas físicas: ~R$ 246 milhões
+   • Contribuições totais: ~R$ 327 milhões
+   • 14 empresários fizeram doações individuais > R$ 1 milhão
+   • Maiores doadores: José Pacheco de Souza Mattar (Localiza, R$ 2,8 mi),
+     Linden (Beira-Rio, R$ 2 mi), Alexandre Grendene (R$ 1 mi), Armínio Fraga
+     (Gávea, R$ 1,3 mi), Brametal (R$ 1 mi p/ Carlos Moisés).
+   • NENHUM destes é diretamente Big Tech — camuflagem institucional.
+
+5.5 — "BANCADA DAS BIG TECHS" (FRENTE DIGITAL)
+   Bloco de 200+ parlamentares alinhado às pautas das Big Techs no Congresso.
+   Predominam PL (50 signatários), Republicanos, União Brasil; mas há também
+   PT e até PCdoB (interessante: Orlando Silva, PCdoB-SP, relator do PL 2630,
+   apoiou criação da Frente Digital).
+
+================================================================================
+6. CONTEXTO CRÍTICO E ANÁLISE TEIA
+================================================================================
+
+6.1 — A "NUVEM SOBERANA" É UMA ILUSÃO DE SOBERANIA
+--------------------------------------------------
+
+   Investigação do The Intercept Brasil (20/out/2025) e análise da Capital
+   Digital (Luiz Queiroz) mostram:
+
+   • A chamada "Nuvem Soberana" do Serpro/Dataprev é HOSPEDADA EM AMBIENTE
+     DAS BIG TECHS (Microsoft Azure, Google Cloud, AWS, Oracle, Huawei, IBM Cloud).
+   • A Caixa Econômica pagou R$ 763,8 milhões para hospedar dados na "nuvem
+     soberana" do Serpro, que na prática roda na Microsoft.
+   • O TCU (2026) flagrou cláusula contratual da AWS com Serpro permitindo
+     acesso de autoridades estrangeiras aos dados.
+   • O presidente da Dataprev, Rodrigo Assumpção, duvidou publicamente da
+     "soberania" da nuvem Serpro/Google.
+
+   • RISCO GEOPOLÍTICO: dados estratégicos do governo brasileiro (Receita
+     Federal, INSS, Polícia Federal, Caixa, Justiça Eleitoral) rodam em
+     infraestrutura controlada por empresas americanas (Microsoft, Google, AWS,
+     Oracle, IBM) sujeitas ao CLOUD ACT americano e a ordens judiciais dos EUA.
+   • A inclusão da Huawei (chinesa) cria vetor equivalente para Pequim.
+
+6.2 — INTERMEDIÁRIOS INVISÍVEIS (estudo USP/UnB)
+   "Além dos contratos bilionários com as big techs, o estudo revela a
+   multiplicação de intermediários invisíveis, que prestam serviços de revenda,
+   customização e suporte sem qualquer rastreabilidade clara." (Biodiversidadla)
+
+6.3 — O ELO GOVERNO → CONSULTORIA → BIG TECH
+   Muitos ex-diretores do Serpro/Dataprev (Glória Guimarães → Capgemini;
+   Iran Porto → setor privado; Caio Paes de Andrade → secretaria de governo)
+   migraram para consultorias que vendem para o governo — caracterizando porta
+   giratória que aprofunda dependência tecnológica.
+
+6.4 — RECOMENDAÇÕES DO ESTUDO USP/UnB
+   • Criação de programa nacional de fomento à SOBERANIA DIGITAL.
+   • Instituir NUVEM PÚBLICA FEDERADA via Rede Nacional de Pesquisa (RNP).
+   • Unificação das plataformas de compras de TIC (hoje fragmentadas).
+   • Proteção de dados estratégicos em setores sensíveis.
+
+================================================================================
+7. FONTES PRINCIPAIS (com URLs)
+================================================================================
+
+JORNALISMO INVESTIGATIVO:
+1. The Intercept Brasil — "As big techs transformaram soberania em produto — e o
+   Brasil comprou" (20/out/2025).
+   URL: https://www.intercept.com.br/2025/10/20/as-big-techs-transformaram-soberania-em-produto-e-o-brasil-comprou/
+2. Agência Pública / Núcleo / CLIP — "A turma do block: como as Big Techs montaram
+   equipes de lobby que derrubam projetos de lei" (9/set/2025).
+   URL: https://apublica.org/2025/09/a-turma-do-block-como-as-big-techs-montaram-equipes-de-lobby-que-derrubam-projetos-de-lei/
+3. Núcleo Jornalismo — "Big Techs acumulam R$23 bi em contratos públicos na última
+   década" (14/jul/2025).
+   URL: https://nucleo.jor.br/curtas/2025-07-14-big-techs-acumulam-r-23-bi-em-contratos-publicos-na-ultima-decada/
+4. Núcleo — "Quem compõe a frente parlamentar alinhada com as Big Tech" (25/mai/2023).
+   URL: https://nucleo.jor.br/interativos/2023/05/25/quem-defende-interesses-bigtechs-congresso/
+5. Núcleo — "A mão invisível das Big Techs pressiona governos na América Latina"
+   (9/set/2025).
+   URL: https://nucleo.jor.br/especiais/2025/09/09/como-a-mao-invisivel-das-big-techs-pressiona-governos-na-america-latina/
+6. Capital Digital (Luiz Queiroz):
+   • "Caixa adota nuvem soberana do Serpro em ambiente Microsoft ao custo de R$763,8 mi"
+     https://capitaldigital.com.br/caixa-adota-nuvem-soberana-do-serpro-em-ambiente-microsoft-ao-custo-de-r-7638-milhoes/
+   • "Polícia Federal mantém Microsoft por mais 36 meses, ao custo de R$148 mi"
+     https://capitaldigital.com.br/policia-federal-mantem-microsoft-por-mais-36-meses-ao-custo-de-r-148-milhoes/
+   • "Serpro já tem empenho de R$ 4 milhões para pagar revenda Google"
+     https://capitaldigital.com.br/serpro-ja-tem-empenho-de-r-4-milhoes-para-pagar-revenda-google-fenomeno-nas-relacoes-governamentais/
+   • "Big Techs tentam cooptar funcionários do Senado para agirem contra regulação da IA"
+     https://capitaldigital.com.br/big-techs-tentam-cooptar-funcionarios-do-senado-para-agirem-contra-regulacao-da-ia/
+   • "Com TOTVS na presidência e Big Techs no conselho, Brasscom reforça papel..."
+     https://capitaldigital.com.br/com-totvs-na-presidencia-e-big-techs-no-conselho-brasscom-reforca-papel-de-interlocutora-do-governo/
+7. Brasil de Fato — "Pesquisador da FGV: big techs operam no Brasil à margem da lei
+   e sem pagar impostos" (22/jul/2025). Entrevista com Ergon Cugler.
+8. Avoador — "Como as Big Techs mataram o PL das Fake News".
+9. Insurgência — "A bancada das big techs mostra a cara".
+
+PORTAIS DO GOVERNO:
+10. Portal da Transparência (contratos): https://portaldatransparencia.gov.br/contratos
+11. Compras.gov.br Contratos: https://comprasnet-contratos.readthedocs.io/
+12. PNCP (Portal Nacional de Contratações Públicas).
+13. Contratos Serpro: https://www.transparencia.serpro.gov.br/acesso-a-informacao/licitacoes-e-contratos/contratos
+14. PF/licitações: https://www.gov.br/pf/pt-br/assuntos/licitacoes/
+15. Contrato TRF-2/Serpro Multicloud:
+    https://static.trf2.jus.br/nas-internet/documento/transparencia/acordos/2026/TRF2_Multicloud_Contrato_de_Adesao_assinado_TRF2-SERPRO.pdf
+
+ESTUDOS ACADÊMICOS:
+16. SILVA, Ergon Cugler de Moraes; VAZ, José Carlos; VENEZIANI, Julia Ribeiro de
+    Almeida (USP). ROCHA, Isabela; MODANEZ, Camila de Camargo (UnB).
+    "Contratos, Códigos e Controle: A Influência das Big Techs no Estado
+    Brasileiro". Jul/2025. 10 MB.
+    Download via Núcleo Jornalismo.
+
+DOMÍNIOS DAS ENTIDADES DE LOBBY:
+17. Conselho Digital (antigo ICD): https://conselhodigital.org.br/quem-somos/
+18. Brasscom: https://brasscom.org.br/
+19. ABES: https://abes.org.br/
+20. AmCham Brasil: https://www.amcham.com.br/
+
+================================================================================
+FIM DO DOSSIÊ TEIA — INTERMEDIÁRIOS BIG TECH ↔ GOVERNO BRASILEIRO
+================================================================================

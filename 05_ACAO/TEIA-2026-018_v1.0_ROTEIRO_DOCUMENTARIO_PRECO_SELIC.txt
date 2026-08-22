@@ -1,0 +1,550 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-018
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Roteiro Documentário 'O Preço da Selic'
+STATUS: PUBLICACAO_PENDENTE
+DESTINATÁRIO: YouTube
+AÇÃO: Produzir/Publicar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 25,605 bytes (25.0 KB)
+HASH MD5: 38b0a18523728428e44f19f8fd272856
+HASH SHA-256: 0bcb48f7788fc7aae8cff628ccd8e77f2fd3de749864a595dde7193d55a3154d
+================================================================================
+
+================================================================================
+ROTEIRO COMPLETO — DOCUMENTÁRIO YOUTUBE "O PREÇO DA SELIC"
+================================================================================
+Formato: 50 minutos | Estilo: Last Week Tonight (John Oliver)
+Humor ácido + rigor técnico absoluto | Público: formadores de opinião
+Todos os dados verificados contra fontes primárias (BCB, Tesouro, IBGE)
+================================================================================
+
+NOTAS DE PRODUÇÃO:
+- Estilo visual: cortes rápidos, gráficos animados na tela, dados como overlay
+- Apresentador fala direto para câmera (estilo desk-piece)
+- Cortes B-roll: imagens de arquivo, screenshots de notícias, animações
+- Tom: indignado mas irônico. Nunca sarcastizar dados — sarcastizar o SISTEMA
+- Cada número que aparece na tela tem fonte citada no canto inferior
+- Trilha sonora: tensa, crescente. Cortes secos entre blocos.
+
+================================================================================
+BLOCO 1 — ABERTURA (00:00 — 05:00)
+"VOCÊ SABIA QUE..."
+================================================================================
+
+[00:00 — 00:30] COLD OPEN
+VISUAL: Tela preta. Aparece um relógio digital contando. Em vez de tempo,
+mostra dinheiro: R$ 3.000.000... R$ 3.000.001... R$ 3.000.002...
+Velocidade: ~R$ 3 milhões por minuto.
+SOM: Tick metálico a cada segundo. Cada tick = R$ 50 mil.
+NARRAÇÃO (off-screen): "A cada minuto que você passa neste vídeo, o governo
+brasileiro paga R$ 3 milhões em juros da dívida pública. R$ 3 milhões por
+minuto. A cada hora: R$ 180 milhões. A cada dia: R$ 2,6 bilhões."
+VISUAL: Relógio acelera. Contador sobe: R$ 2.600.000.000 em 24h.
+DADO NA TELA: "R$ 950,4 bilhões/ano — Fonte: Tesouro Nacional, DPF 2024"
+
+[00:30 — 02:00] HOOK
+CORTE: Apresentador na mesa. Iluminação direta. Tom sério.
+NARRAÇÃO: "R$ 950 bilhões. É o que o Brasil pagou em juros da dívida
+pública em 2024. Só de juros. Não estou falando de amortização, não estou
+falando de pagando a dívida em si. Estou falando do JURO. O aluguel do
+dinheiro que o governo deve."
+PAUSA.
+NARRAÇÃO: "Para colocar isso em perspectiva: a soma de TUDO que o governo
+federal gastou com Saúde, Educação, Segurança Pública e Bolsa Família em
+2024 foi de R$ 637 bilhões."
+VISUAL: Duas barras lado a lado.
+Barra 1 (Juros): R$ 950 bi — barra ENORME, vermelha
+Barra 2 (Saúde+Edu+Seg+BF): R$ 637 bi — barra menor, azul
+DADO NA TELA: "Razão: 1,49x — Fonte: LOA 2024 + Tesouro Nacional"
+NARRAÇÃO: "O Brasil gasta com JUROS DA DÍVIDA uma vez e meia o que gasta
+com as quatro maiores áreas sociais combinadas. Uma vez e meia."
+CORTE: Foto de hospital superlotado.
+NARRAÇÃO: "E não, não é porque gastamos pouco com saúde. É porque pagamos
+MUITO em juros."
+
+[02:00 — 04:00] CONTEXTO
+NARRAÇÃO: "E aqui vai um dado que provavelmente você nunca ouviu na vida:
+o Brasil tem a MAIOR taxa de juros real do mundo."
+VISUAL: Ranking internacional de juro real.
+DADO NA TELA:
+"Selic nominal: 14,25% a.a.
+IPCA 12m: 4,64%
+Juro real: ~9,2%
+Fonte: BCB Copom + IBGE IPCA (jun/2026)"
+NARRAÇÃO: "Juro real é quanto o banco central cobra ACIMA da inflação. Na
+Zona do Euro, é cerca de 2%. Nos EUA, cerca de 2,5%. No Chile, 4%. No
+México, 5%. No Brasil? Nove vírgula dois por cento."
+CORTE: Gráfico de barras comparando países. Brasil é uma torre.
+NARRAÇÃO: "Isso não é um acidente. É um PROJETO. E neste vídeo, eu vou te
+mostrar exatamente COMO esse projeto funciona, QUEM lucra com ele, e POR
+QUE nada muda."
+
+[04:00 — 05:00] PROMESSA DO VÍDEO
+NARRAÇÃO: "Mas antes — uma pergunta honesta: você sabe PARA QUEM o
+governo paga esses R$ 950 bilhões? Quem recebe? Onde esse dinheiro vai?"
+PAUSA.
+NARRAÇÃO: "A resposta vai te surpreender. E irritar. Provavelmente nas
+duas coisas ao mesmo tempo."
+VISUAL: Logo "O PREÇO DA SELIC" na tela. Trilha sonora cresce.
+CORTE SECO para Bloco 2.
+
+
+================================================================================
+BLOCO 2 — A ARITMÉTICA (05:00 — 12:00)
+"DE ONDE VEM E PARA ONDE VAI"
+================================================================================
+
+[05:00 — 07:00] O TAMANHO DA ECONOMIA
+NARRAÇÃO: "Vamos fazer contas. O PIB do Brasil — tudo que o país produz
+em um ano — é de R$ 11,7 trilhões."
+DADO NA TELA: "PIB 2024: R$ 11,746 tri — Fonte: IBGE (07/03/2025)"
+NARRAÇÃO: "O governo arrecada em impostos R$ 3,78 trilhões por ano."
+DADO NA TELA: "Arrecadação 2024: R$ 3,78 tri (32,2% do PIB) — Fonte:
+Receita Federal"
+NARRAÇÃO: "32% do PIB. É uma das maiores cargas tributárias do mundo. Não
+é pouco. O problema não é arrecadação."
+PAUSA.
+NARRAÇÃO: "A dívida pública federal — o que o governo deve — é de
+R$ 7,3 trilhões."
+DADO NA TELA: "DPF dez/2024: R$ 7,316 tri (80,4% do PIB) — Fonte: Tesouro
+Nacional"
+
+[07:00 — 09:30] QUEM DETÉM A DÍVIDA
+NARRAÇÃO: "Agora a pergunta crítica: quem são as pessoas que recebem
+esses R$ 950 bilhões de juros todo ano? Quem é o credor?"
+VISUAL: Gráfico de pizza aparecendo devagar.
+NARRAÇÃO: "Aproximadamente 80% da dívida interna está em poder do
+PRÓPRIO sistema financeiro nacional."
+DADO NA TELA (fatias da pizza):
+"Bancos comerciais: 35-40%
+Fundos de investimento: 25-30%
+Seguradoras/previdência: 10-12%
+Tesouro Direto (pessoa física): 12-15%
+Fundos de pensão: 5-7%
+Fonte: BCB + Tesouro Nacional (nov/2024)"
+NARRAÇÃO: "Ou seja: quando o governo paga juros, está transferindo
+dinheiro do contribuinte para... bancos, fundos de investimento e
+seguradoras. O mesmo sistema que cobra spread bancário de 30% do
+trabalhador é o sistema que recebe os juros da dívida pública."
+CORTE: Imagem de prédio do Itaú. Sede em São Paulo.
+DADO NA TELA: "Itaú: lucro líquido 2024 = R$ 40,23 bi
+Maior lucro bancário da história do Brasil
+Fonte:Resultado Trimestral Itaú Unibanco (IV/2024)"
+
+[09:30 — 12:00] O CICLO
+NARRAÇÃO: "E aqui está onde o sistema se torna circular e genial —
+genial no sentido sombrio da palavra."
+VISUAL: Animação de ciclo. Setas conectadas em círculo.
+Ciclo na tela:
+"1. Dívida é pós-fixada à Selic (33%)"
+"2. BC sobe Selic para combater inflação"
+"3. Despesa de juros do Tesouro sobe automaticamente"
+"4. Orçamento aperta — sobra menos para serviços"
+"5. Austeridade fiscal — corte de gasto"
+"6. Economia desacelera — menos investimento"
+"7. Pressão fiscal sobe — risco-país piora"
+"8. BC precisa subir Selic de novo"
+NARRAÇÃO: "Um terço da dívida — 33% — é pós-fixada. Isso significa que
+ela reajusta pela Selic no MESMO DIA. Quando o Copom decide subir a Selic
+de 14 para 14,25%, o custo da dívida pública sobe no instante em que a
+decisão é anunciada. Cada 0,25 ponto percentual de Selic custa ao
+Tesouro aproximadamente R$ 5 a 6 bilhões por ano."
+DADO NA TELA: "Cada 25 bps de Selic = ~R$ 5-6 bi/ano adicionais em juros
+Cálculo: 33% de R$ 7,3 tri = R$ 2,4 tri pós-fixado × 0,25% = R$ 6 bi"
+NARRAÇÃO: "O Banco Central sobe a taxa para combater a inflação. Mas ao
+fazer isso, transfere bilhões do Tesouro para os detentores da dívida.
+É como se o remédio para a inflação fosse também o combustível para o
+próximo incêndio fiscal."
+CORTE SECO para Bloco 3.
+
+
+================================================================================
+BLOCO 3 — O SPREAD (12:00 — 19:00)
+"O IMPOSTO PRIVADO"
+================================================================================
+
+[12:00 — 14:00] O QUE É SPREAD
+NARRAÇÃO: "Mas espera, porque os juros da dívida são só METADE da história.
+A outra metade é o SPREAD BANCÁRIO."
+VISUAL: Definição aparece na tela.
+DADO NA TELA:
+"SPREAD = taxa que o banco cobra do cliente - taxa que o banco paga
+para captar o dinheiro
+Exemplo: banco capta a 11% | empresta a 41% | spread = 30 p.p."
+NARRAÇÃO: "Spread é a diferença entre quanto o banco paga para pegar
+dinheiro e quanto ele cobra para emprestar. No Brasil, essa diferença é
+de 28 a 30 pontos percentuais."
+DADO NA TELA: "Spread médio 2024: 28-30 p.p.
+Fonte: BCB, SGS série 20783"
+NARRAÇÃO: "Para você ter ideia do que isso significa: na Alemanha, o
+spread médio é de 3 a 5 pontos percentuais. No Brasil, é SEIS VEZES
+maior."
+VISUAL: Comparação internacional em barras.
+DADO NA TELA:
+"Alemanha: ~3-5 p.p.
+EUA: ~4-6 p.p.
+Chile: ~8-10 p.p.
+México: ~10-12 p.p.
+BRASIL: 28-30 p.p. ← (barra gigante)
+Fonte: BCB + FMI + bancos centrais nacionais"
+
+[14:00 — 16:30] DECOMPOSIÇÃO
+NARRAÇÃO: "Agora, a pergunta óbvia: por que o spread brasileiro é tão
+alto? E aqui é onde a narrativa se divide. A resposta popular é: 'porque
+os bancos são gananciosos'. E é parcialmente verdadeiro. Mas não é a
+história inteira."
+VISUAL: Gráfico de decomposição aparecendo.
+NARRAÇÃO: "O Banco Central DECOMPÕE o spread em quatro componentes.
+E o que ele mostra surpreende:"
+DADO NA TELA:
+"DECOMPOSIÇÃO DO SPREAD (BCB, REB 2023):
+Inadimplência (PDD):          35,7%
+Despesas administrativas:     ~27%
+Tributos + FGC:               ~21%
+Margem líquida (lucro):       ~16%
+TOTAL:                       100% (~30 p.p.)"
+NARRAÇÃO: "84% do spread é CUSTO. Inadimplência alta, impostos sobre
+operações financeiras, exigências de Basileia, despesas operacionais.
+Apenas 16% é margem de lucro."
+PAUSA.
+NARRAÇÃO: "Isso significa que mesmo se você消 eliminasse COMPLETAMENTE o
+lucro dos bancos — zeros lucros, operação filantrópica — o spread ainda
+seria de cerca de 14 a 16 pontos percentuais. Ainda seria um dos maiores
+do mundo."
+CORTE: Gráfico mostrando "piso estrutural".
+DADO NA TELA:
+"PISO ESTRUTURAL DO SPREAD (mesmo em competição perfeita):
+Basileia III (capital):     +3 p.p.
+Inadimplência estrutural:   +5 p.p.
+Tributação setorial:        +4 p.p.
+Custo operacional:          +2 p.p.
+TOTAL:                     ~14 p.p."
+
+[16:30 — 19:00] IMPOSTO PRIVADO
+NARRAÇÃO: "Então o spread brasileiro é como um IMPOSTO PRIVADO sobre o
+crédito. Um imposto invisível que NINGUÉM votou para aprovar, mas que
+todo mundo paga."
+CORTE: Pessoa comum no caixa eletrônico.
+NARRAÇÃO: "Quando você paga 42% ao ano no cartão de crédito, 40% no
+cheque especial, 35% no crédito pessoal — você está pagando inadimplência
+de outros, impostos sobre o setor financeiro, exigências regulatórias e,
+sim, a margem de lucro do banco. Tudo embutido."
+PAUSA.
+NARRAÇÃO: "O Itaú — o maior banco privado do Brasil — lucrou R$ 40 bilhões
+em 2024. O maior lucro da história bancária do país. Enquanto isso, 14
+milhões de microempreendedores individuais pagam de 30 a 40% ao ano
+para ter acesso a crédito."
+CORTE: Logo Itaú com lucro. Corte para MEI.
+DADO NA TELA:
+"Itaú 2024: R$ 40,23 bi lucro líquido
+MEI: paga 30-40% a.a. por crédito
+Fonte: Itaú IV/2024 + BCB"
+NARRAÇÃO: "Isso não é coincidência. É desenho de sistema."
+CORTE SECO para Bloco 4.
+
+
+================================================================================
+BLOCO 4 — O SISTEMA (19:00 — 29:00)
+"COMO O SISTEMA SE REPRODUZ"
+================================================================================
+
+[19:00 — 21:30] A DÍVIDA PÓS-FIXADA
+NARRAÇÃO: "Para entender por que nada muda, precisamos voltar à dívida
+pública. Lembra que 33% da dívida é pós-fixada à Selic?"
+VISUAL: Composição da dívida na tela.
+DADO NA TELA:
+"COMPOSIÇÃO DPF (nov/2024, Tesouro):
+Prefixados (NTN-F + LTN):     47%  ← BOM!
+Pós-fixados (LFT/Selic):      33%  ← PROBLEMA
+Indexados inflação (NTN-B):   18%
+Câmbio:                        2%"
+NARRAÇÃO: "A boa notícia: isto JÁ ESTÁ melhorando. Em 2022, só 28% da
+dívida era prefixada. Em novembro de 2024, chegou a 47%. O Tesouro Nacional
+tem feito gestão ativa e está SUPERANDO a meta."
+DADO NA TELA:
+"Evolução prefixação:
+Dez/2022: 28%
+Nov/2024: 47%  (+19 p.p. em 2 anos)
+Meta PAF 2024: 40-45% — SUPERADA
+Fonte: Tesouro Nacional, PAF"
+NARRAÇÃO: "Isso é positivo. Mas ainda temos 33% pós-fixado. E esse 33%
+é o problema: cada ponto de Selic reajusta essa parcela no mesmo dia."
+
+[21:30 — 24:00] A NOTA TÉCNICA QUE NÃO EXISTE
+NARRAÇÃO: "Agora, aqui vai uma pergunta que provavelmente você nunca
+fez, mas deveria: quando o Copom decide manter a Selic em 14,25%,
+alguém CALCULA quanto isso custa ao Orçamento?"
+PAUSA.
+NARRAÇÃO: "A resposta é: não. Não oficialmente. O Tesouro Nacional tem os
+dados internamente. Analistas de mercado publicam estimativas. Mas não
+existe um documento PÚBLICO, OFICIAL, padronizado que diga: 'A decisão
+do Copom de hoje custa R$ X bilhões ao Orçamento da União nos próximos
+12 meses.'"
+CORTE: Tela vazia com texto.
+DADO NA TELA: "NOTA TÉCNICA DE IMPACTO FISCAL: NÃO EXISTE"
+NARRAÇÃO: "O HM Treasury britânico publica isso. O US Treasury publica
+isso. O Ministério da Fazenda do Chile publica isso. O Brasil... não."
+PAUSA.
+NARRAÇÃO: "E aqui está a coisa: criar essa nota custa ZERO reais. O
+Tesouro já tem os dados. Já faz as contas internamente. Já publica no
+Relatório Mensal da Dívida. A única coisa que falta é REORGANIZAR a
+informação num formato acessível, sincronizado com cada reunião do Copom."
+CORTE: Mockup de como a Nota Técnica pareceria.
+NARRAÇÃO: "Mas ninguém criou. Curioso, não? Quase como se houvesse
+interesse em que o público NÃO saiba quanto cada decisão de Selic custa."
+
+[24:00 — 29:00] A PREFIXAÇÃO E O ARCABOUÇO
+NARRAÇÃO: "Mas tem uma boa notícia real nessa história. O arcabouço
+fiscal — a LC 200 de 2023 — criou regras que geraram credibilidade fiscal.
+E essa credibilidade permitiu ao Tesouro começar a prefixar a dívida."
+VISUAL: Linha do tempo.
+DADO NA TELA:
+"LC 200/2023 (arcabouço fiscal) → credibilidade fiscal → mercado aceita
+prefixados → share prefixado sobe de 28% para 47%"
+NARRAÇÃO: "Isto é importante: prefixar a dívida significa que o governo
+trava a taxa de juros no momento da emissão. Se a Selic subir depois, o
+governo continua pagando a taxa fixada. Isso quebra o ciclo vicioso."
+CORTE: Animação do ciclo sendo quebrado.
+NARRAÇÃO: "O México fez algo similar com os M-bonos — alongou a dívida
+de longo prazo mantendo os Cetes de curto prazo. Não substituiu um pelo
+outro: COMPLEMENTOU. O Brasil pode fazer o mesmo: manter LFT para
+liquidez de curto prazo e aumentar NTN-F para duração."
+PAUSA.
+NARRAÇÃO: "O ponto é: a solução técnica EXISTE. Os instrumentos EXISTEM.
+O que falta é vontade política de acelerar e transparência para que a
+sociedade cobre continuidade."
+CORTE SECO para Bloco 5.
+
+
+================================================================================
+BLOCO 5 — A CAPTURA (29:00 — 41:00)
+"QUEM LUCRA PROTEGE QUEM DECIDE"
+================================================================================
+
+[29:00 — 31:00] INTRODUÇÃO
+NARRAÇÃO: "E aqui chegamos ao bloco que provavelmente vai te fazer querer
+jogar o celular na parede. Mas peço paciência — porque os dados são
+documentados."
+VISUAL: Tone shift. Iluminação mais escura. Trilha mais tensa.
+NARRAÇÃO: "A pergunta é simples: se a solução técnica existe, se os
+instrumentos são conhecidos, se o custo é zero... por que nada muda?"
+PAUSA LONGA.
+NARRAÇÃO: "A resposta tem nome. Tem CPF. Tem partido. Tem cargo no
+Congresso."
+CORTE: Logo "BANCO MASTER" aparece na tela.
+
+[31:00 — 35:00] O CASO BANCO MASTER
+NARRAÇÃO: "Em 2024 e 2025, a Polícia Federal descobriu uma rede de
+influência em torno do Banco Master, controlado pelo empresário Daniel
+Vorcaro. A fraude estimada varia de R$ 12 bilhões a R$ 50 bilhões."
+DADO NA TELA: "Banco Master: fraude estimada R$ 12-50 bi
+Controlador: Daniel Vorcaro | Operador: Fabiano Zettel
+Fonte: PF (Operação Compliance Zero + derivadas)"
+NARRAÇÃO: "Mas o que importa aqui não é a fraude financeira. É o que
+essa rede revelou sobre como o sistema financeiro se conecta com o
+sistema político."
+VISUAL: Diagrama de rede aparecendo na tela.
+NARRAÇÃO: "A PF encontrou diálogos periciados no celular de Vorcaro. E
+esses diálogos revelaram conexões com alguns dos políticos mais
+poderosos do Brasil."
+DADO NA TELA (nós da rede):
+"HUGO MOTTA (Republicanos-PB)
+Presidente da Câmara dos Deputados
+CIRO NOGUEIRA (PP-PI)
+Ex-ministro da Casa Civil
+FLÁVIO BOLSONARO (PL-RJ)
+Senador
+VALDEMAR COSTA NETO (PL-SP)
+Presidente nacional do PL
+NIKOLAS FERREIRA (PL-MG)
+Deputado federal
+JAIR BOLSONARO (PL-SP)
+Ex-presidente
+ISAAC SIDNEY
+Presidente da FEBRABAN"
+
+[35:00 — 38:30] O CASO HUGO MOTTA
+NARRAÇÃO: "Vou focar em UM caso, porque ele é didático. Hugo Motta é o
+presidente da Câmara dos Deputados. Ele tem 35 anos. É o mais jovem da
+história na posição."
+CORTE: Foto de Motta.
+NARRAÇÃO: "Em março de 2024, o Banco Master concedeu um empréstimo de
+R$ 22 milhões à empresa da cunhada de Hugo Motta. O dinheiro foi usado
+para comprar uma área de 400 hectares em João Pessoa."
+DADO NA TELA:
+"Empréstimo Banco Master → empresa da cunhada de Motta
+Valor: R$ 22 milhões
+Data: março/2024
+Uso: compra de 400 hectares em João Pessoa (PB)
+Fonte: O Tempo (16/03/2026), Estadão (06/2026), Metrópoles"
+NARRAÇÃO: "A PF encontrou diálogos no celular de Vorcaro em que o
+PRÓPRIO Hugo Motta pede ao banqueiro a liberação do empréstimo."
+DADO NA TELA: "PF: diálogos periciados mostram Motta pedindo liberação
+a Vorcaro — Fonte: Estadão, Metrópoles (06/2026)"
+PAUSA.
+NARRAÇÃO: "E aqui vem a correlação temporal. Em outubro de 2025 —
+aproximadamente 20 meses depois do empréstimo — um projeto que AUMENTAVA
+a tributação de instituições financeiras estava prestes a ser votado."
+VISUAL: Linha do tempo.
+DADO NA TELA:
+"MAR/2024: Banco Master empresta R$ 22 mi à cunhada de Motta
+OUT/2025: Motta LIGA para Alcolumbre (presidente do Senado)
+        → Informa que Câmara NÃO VOTARÁ tributação de bancos
+        → Matéria é ARQUIVADA
+Fonte: VEJA (21/11/2025)"
+PAUSA LONGA.
+NARRAÇÃO: "Banco empresta R$ 22 milhões. Parlamentar bloqueia tributação
+do setor bancário. Não é acusação. É CRONOLOGIA DOCUMENTADA."
+CORTE: Tela preta com texto branco.
+DADO NA TELA: "Correlação temporal ≠ causalidade
+Mas também ≠ coincidência"
+
+[38:30 — 41:00] A BANCADA INVISÍVEL
+NARRAÇÃO: "E Hugo Motta não é um caso isolado. Ele é o exemplo mais
+visível de um SISTEMA."
+VISUAL: Estrutura de poder na tela.
+NARRAÇÃO: "O controle da pauta financeira no Congresso está concentrado
+em três pessoas:"
+DADO NA TELA:
+"TRÍADE DE VETO FINANCEIRO:
+1. HUGO MOTTA (Republicanos-PB) — Presidente da Câmara → controla pauta
+2. DAVI ALCOLUMBRE (União-AP) — Presidente do Senado → controla CCJ
+3. RENAN CALHEIROS (MDB-AL) — Presidente da CAE → controla audiências com BC"
+NARRAÇÃO: "Estes três decidem o que chega a votação e o que NUNCA chega.
+Não precisam votar CONTRA uma reforma — basta não colocá-la na pauta.
+O silêncio é o veto mais poderoso."
+PAUSA.
+NARRAÇÃO: "E a Febraban — a federação dos bancos — tem orçamento
+institucional estimado de R$ 200 a 300 milhões por ano para representação
+e lobby. O presidente da Febraban, Isaac Sidney, TOMOU R$ 5,5 milhões
+emprestados do Banco Master em 2020."
+DADO NA TELA: "Isaac Sidney (Febraban): empréstimo R$ 5,5 mi do Banco
+Master em 2020 — Fonte: UOL/Natália Portinari (16/07/2026)"
+NARRAÇÃO: "Não é corrupção aleatória. É um SISTEMA. O mesmo sistema que
+lucra com a dívida pública protege os políticos que decidem sobre a
+dívida pública. E os políticos protegem o sistema que os financia."
+CORTE SECO para Bloco 6.
+
+
+================================================================================
+BLOCO 6 — O CUSTO BRASIL (41:00 — 46:00)
+"O QUE SOBRA PARA O CIDADÃO"
+================================================================================
+
+[41:00 — 44:00] CUSTO BRASIL
+NARRAÇÃO: "E enquanto esse sistema se reproduz, o cidadão paga a conta.
+O chamado 'Custo Brasil' — o conjunto de ineficiências que onera a
+economia — foi medido em R$ 1,7 trilhão por ano."
+DADO NA TELA: "Custo Brasil: R$ 1,7 tri/ano (~20% do PIB)
+Fonte: Movimento Brasil Competitivo (MBC/CNI, 2024)"
+NARRAÇÃO: "R$ 1,7 trilhão. Um quinto de TUDO que o país produz. Em
+ineficiência. Logística quebrada, burocracia excessiva, complexidade
+tributária."
+CORTE: Imagens de porto, estrada esburacada, fila de cartório.
+NARRAÇÃO: "O Brasil é o país onde uma empresa gasta 1.501 horas por ano
+apenas para cumprir obrigações tributárias. É o pior do mundo. A média
+global é 240 horas."
+DADO NA TELA:
+"Conformidade tributária:
+Brasil: 1.501 horas/ano ← PIOR DO MUNDO
+Média global: ~240 horas
+OCDE: ~159 horas
+Fonte: World Bank (última edição disponível)"
+NARRAÇÃO: "Mil e quinhentas e uma horas. Se um contador trabalhasse 8
+horas por dia exclusivamente em impostos, levaria 188 dias úteis. Ou
+seja: o ano INTEIRO. Sem fazer mais nada."
+VISUAL: Calendário preenchido. Todos os dias marcados "IMPOSTOS".
+
+[44:00 — 46:00] CARTÓRIOS E COMPLEXIDADE
+NARRAÇÃO: "E tem os cartórios. 13.233 cartórios no Brasil faturando
+R$ 31,4 bilhões por ano. É mais do que o orçamento de vários ministérios."
+DADO NA TELA: "13.233 serventias | R$ 31,4 bi/ano em 2024
+Fonte: CNJ, Justiça em Números 2024"
+NARRAÇÃO: "A Lei 14.382 de 2022 criou o Sistema Eletrônico de Registros
+Públicos — o SERP — para digitalizar tudo. Faz três anos. A implementação
+está parcial. Por resistência dos próprios cartórios."
+CORTE: Imagem de papelada em cartório.
+NARRAÇÃO: "E o pior: o deputado que preside a Frente Parlamentar da
+Justiça Notarial — a MAIOR bancada do Congresso, com 325 parlamentares —
+é o mesmo deputado que é líder do governo na Câmara. Ou seja: o homem
+que deveria articular a modernização do Estado é o mesmo que protege
+os cartórios."
+DADO NA TELA: "Zé Neto (PT-BA): Líder do Governo + Presidente Frente
+Cartórios (325+) + Relator PLPs Tributários"
+PAUSA.
+NARRAÇÃO: "O custo disso? Cada empresa que perde 1.501 horas com
+impostos, cada cidadão que espera meses para registrar um imóvel, cada
+MEI que paga 5 tributos diferentes — está pagando a ineficiência que
+mantém esse sistema de pé."
+CORTE SECO para Bloco 7.
+
+
+================================================================================
+BLOCO 7 — ENCERRAMENTO (46:00 — 50:00)
+"O QUE FAZER"
+================================================================================
+
+[46:00 — 48:30] AS 3 PROPOSTAS
+NARRAÇÃO: "Mas este não é um vídeo de reclamação. É um vídeo de solução.
+E a boa notícia é que existem 3 propostas que custam ZERO reais, não
+precisam de Congresso, e podem mudar o jogo."
+VISUAL: Lista aparecendo na tela.
+NARRAÇÃO: "Proposta 1: NOTA TÉCNICA DE IMPACTO FISCAL. O Tesouro Nacional
+publica, a cada reunião do Copom, quanto a decisão de Selic custa ao
+Orçamento. Dado informativo. Não interfere no Banco Central. Custa R$ 0
+porque os dados já existem internamente."
+DADO NA TELA: "PROPOSTA 1: Nota Técnica de Impacto Fiscal
+Custo: R$ 0 | Instrumento: portaria do Tesouro
+Precedente: HM Treasury (UK), US Treasury"
+NARRAÇÃO: "Proposta 2: ÍNDICE DE QUALIDADE DA DÍVIDA. Uma métrica
+trimestral que pontua a qualidade da dívida em 4 dimensões: percentual
+prefixado, prazo médio, diversificação de detentores e custo de rolagem.
+O Brasil seria o primeiro país emergente a publicar isso."
+DADO NA TELA: "PROPOSTA 2: Índice de Qualidade da Dívida (IQD)
+Custo: R$ 0 | Instrumento: portaria do Tesouro
+Meta: prefixação 55-60% até 2028"
+NARRAÇÃO: "Proposta 3: EXPANSÃO DE OPEN FINANCE. Permitir que dados
+alternativos de crédito — histórico de pagamento de contas de luz,
+água, telecom — sejam usados para conceder crédito. Reduz inadimplência.
+Reduz spread. Via resolução do CMN. Sem Congresso."
+DADO NA TELA: "PROPOSTA 3: Open Finance ampliado
+Custo: R$ 0 | Instrumento: resolução CMN
+Meta: spread 28-30 → 22-24 p.p. em 5 anos"
+
+[48:30 — 50:00] CALL TO ACTION
+NARRAÇÃO: "Nenhuma dessas três propostas custa um real. Nenhuma precisa
+de voto no Congresso. Nenhuma afeta a independência do Banco Central."
+PAUSA.
+NARRAÇÃO: "O que falta não é técnica. É pressão. É o público SABER que
+isto existe e COBRAR que seja implementado."
+CORTE: Apresentador olha direto para câmera.
+NARRAÇÃO: "Compartilhe este vídeo. Envie para quem precisa ver. Cobrem
+do Ministério da Fazenda. Cobrem dos parlamentares. A mudança não vem
+de cima. Vem de baixo."
+PAUSA.
+NARRAÇÃO: "O Brasil paga R$ 950 bilhões por ano em juros da dívida para
+manter um sistema que beneficia poucos à custa de muitos. Mas o sistema
+só funciona porque ninguém presta atenção."
+PAUSA FINAL.
+NARRAÇÃO: "Agora você está prestando atenção."
+VISUAL: Logo "O PREço DA SELIC" na tela. Trilha final.
+DADO NA TELA (créditos finais):
+"Todas as fontes verificadas contra dados primários:
+Tesouro Nacional | BCB | IBGE | Receita Federal | CNJ
+PF | CGU | TSE | Transparência Brasil
+Documentação completa disponível em: [LINK]
+
+O dinheiro da reforma virá do trabalho."
+
+FADE OUT.
+
+================================================================================
+FIM DO ROTEIRO — "O PREÇO DA SELIC"
+================================================================================
+Duração estimada: 50 minutos
+7 blocos | 30+ dados verificados | Estilo Last Week Tonight
+Meta: 5 milhões de visualizações em 90 dias
+================================================================================

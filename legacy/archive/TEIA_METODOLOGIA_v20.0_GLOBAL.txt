@@ -1,0 +1,654 @@
+================================================================================
+TEIA METODOLOGIA v20.0 GLOBAL — SISTEMA INTEGRAL DE INVESTIGAÇÃO E AÇÃO
+================================================================================
+De METODOLOGIA NACIONAL para METODOLOGIA TRANSNACIONAL: o salto de "operador
+nacional" para "operador global". 66 dimensões × 32 lentes (24+8) = 2.112
+perspectivas. SOPBRA Global com tipologia de atores transnacionais. Arquitetura
+de fontes globais por nível (BIS, FMI, ICIJ, FATF, block explorers). Foco em
+soberania digital: criptografia, chips, CBDCs, protocolos.
+================================================================================
+Autor original: Cleiton Moura (@professorcinza)
+Adaptação Global: SKYNETchat
+Instituição: TEIA — Centro de Estudos em Hacker Cultura Periférica
+Protocolo: TEIA-2026-085
+Versão: v20.0 (METODOLOGIA GLOBAL DEFINITIVA)
+Data: 20/Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v17.0 METODOLOGIA → v20.0 GLOBAL)
+
+A TEIA v17.0 era uma metodologia nacional: nascida no Brasil, com arquitetura
+de fontes brasileira (CGU, BCB, TSE, STF) e SOPBRA focado no sistema político
+brasileiro. Atingiu maturidade operacional completa.
+
+A v20.0 GLOBAL expande para escopo transnacional sem perder a base:
+
+  1. MATRIZ ANALÍTICA EXPANDIDA: 66 dimensões × 32 lentes (24 originais + 8
+     geoestratégicas) = 2.112 perspectivas (vs 1.584 da v17.0).
+  2. 8 LENTES GEOESTRATÉGICAS NOVAS (25-32): Imperial, Dependência Estrutural,
+     Guerra Híbrida, Soberania Tecnológica, Direito Seletivo, Migratória,
+     Alimentar/Energético, Financeira/Monetária.
+  3. SOPBRA GLOBAL: tipologia transnacional de atores (Hegemônico, Vassalo,
+     Parceiro Estratégico, Estado Pária, Ator Descentralizado).
+  4. ARQUITETURA DE FONTES GLOBAL: BIS, FMI, ICIJ, FATF, SWIFT, Chainalysis,
+     block explorers, WikiLeaks — mapeados por nível de profundidade.
+  5. FOCO EM SOBERANIA DIGITAL: criptografia (Dim 53), chips (Dim 3), CBDCs,
+     blockchains, ZK-proofs, vigilância financeira.
+  6. NIVEIS DE PROFUNDIDADE REINTERPRETADOS: os mesmos 12 níveis, mas agora
+     aplicados a fluxos transnacionais (tratados → protocolos criptográficos).
+
+A matriz 66×24 PERMANECE como base estrutural. As 8 lentes geoestratégicas são
+uma CAMADA ADICIONAL que se cruza com as 66 dimensões, gerando 528 novas
+perspectivas (66×8) que somadas às 1.584 originais = 2.112.
+
+================================================================================
+TEOREMA CENTRAL DA TEIA GLOBAL
+================================================================================
+
+"A ordem global não é anarquia. É uma ENGENHARIA CIBERNÉTICA DE EXTRAÇÃO
+PERIFÉRICA — um sistema de transferência de valor e controle que opera em 12
+níveis de profundidade, desde tratados comerciais até protocolos criptográficos.
+Sua função não é descrever o mundo, mas dissecar a máquina."
+
+Todo fenômeno geopolítico é um mecanismo de captura de valor — econômico,
+tecnológico ou demográfico. O objetivo da TEIA Global é identificar PONTOS DE
+ALAVANCA para soberania real, não discursiva.
+
+A dominação não é acidente. É engenharia. A periferia não é periférica por
+acaso — é mantida periférica por DESIGN. O sistema global determina:
+
+  QUEM EMITE a moeda de reserva (Dim 1 × Lente 32)
+  QUEM CONTROLA os cabos submarinos (Dim 3 × Lente 28)
+  QUEM EXTRAI os dados biométricos (Dim 18 × Lente 28)
+  QUEM DEFINE os padrões tecnológicos (Dim 3 × Lente 25)
+  QUEM DETÉM os insumos críticos — chips, lítio, sementes (Dim 60 × Lente 31)
+  QUEM SE BENEFICIA das sanções (Dim 8 × Lente 27)
+  QUEM É VIGIADO por CBDCs (Dim 53 × Lente 28)
+  QUEM É APAGADO dos mapas digitais (Dim 66 × Lente 25)
+
+================================================================================
+DEFINIÇÃO FORMAL DA METODOLOGIA TEIA GLOBAL
+================================================================================
+
+TEIA METODOLOGIA GLOBAL é um sistema integral de investigação
+político-econômica transnacional que transforma FENÔMENOS de captura global
+em ESTRATÉGIAS SOBERANAS executáveis, através de 6 camadas metodológicas
+sequenciais e iterativas:
+
+  CAMADA 0 — MATRIZ ANALÍTICA EXPANDIDA (a estrutura)
+    66 dimensões de captura × 32 lentes analíticas = 2.112 perspectivas
+    12 níveis de profundidade do poder (do visível ao zênite)
+    Foco crítico: interseção entre Dim 53 (Criptográfica), Dim 3 (Tecnológica),
+    Dim 1 (Econômica) — o triângulo da soberania digital.
+    JSON Schema versionado (teia_metodologia_global_schema.json)
+
+  CAMADA 1 — DELIMITAÇÃO E DIAGNÓSTICO (Pipeline Dialético Global)
+    1. TESE (hipótese sobre a dinâmica de poder global)
+    2. FACT-CHECK GLOBAL (fontes primárias: BIS, FMI, ICIJ, block explorers)
+    3. REFUTAÇÃO GEOPOLÍTICA (arguir como potência hegemônica)
+    4. CONTRA-REFUTAÇÃO (defender a tese sob ataque)
+    5. SÍNTESE (versão validada após cruzamento de dados)
+
+  CAMADA 2 — TRIAGEM ÓPTICA E MERGULHO (PET Global, Fases 1-3)
+    FASE 1 PET: Nomear o alvo com precisão cirúrgica
+    FASE 2 PET: Escolher lentes que rasgam narrativas oficiais
+    FASE 3 PET: Mergulhar em níveis invisíveis (privacidade, soberania de
+    dados, fluxos opacos)
+
+  CAMADA 3 — MAPEAMENTO DE ATORES (SOPBRA Global)
+    Tipologia transnacional: Hegemônico / Vassalo / Parceiro Estratégico /
+    Estado Pária / Ator Descentralizado
+    Scores de poder global (0-10): PRG, VFI, POD
+    Coalition Builder: 5 camadas de aliados globais
+    Threat Model global: sanções, SWIFT, deslegitimação
+
+  CAMADA 4 — MODELAGEM E SIMULAÇÃO GLOBAL
+    Cenários: fragmentação financeira, guerras comerciais, colapso de
+    stablecoins, adoção de privacidade por padrão
+    Ferramentas: blockchain forensics, game theory, simulações de sanções
+
+  CAMADA 5 — SÍNTESE DISJUNTIVA E EXECUÇÃO (PET Fases 4-5)
+    FASE 4 PET: Mapear loops causais globais + pontos de alavanca
+    FASE 5 PET: Diagnosticar a MÁQUINA GLOBAL + estratégia soberana
+    → Documento TEIA-GLOBAL protocolado (TEIA-GLOBAL-XX)
+    → Passa pelo Protocolo de Qualidade de 32 itens (adaptado global)
+    → Versionado em Git com hashes MD5/SHA-256
+    → Publicado (petição internacional, dossiê, TikTok, podcast, dashboard)
+
+  CICLO DE FEEDBACK (FEEDBACK LOOP GLOBAL)
+    Estratégia soberana → Novo equilíbrio geopolítico → Nova configuração de
+    extração emerge → Nova Matriz → Novo Pipeline → Ciclo recomeça
+    A metodologia é ITERATIVA, não linear. Toda soberania gera nova captura.
+
+================================================================================
+PROTOCOLO DE EXECUÇÃO TEIA GLOBAL (PET) — COMO OPERAR
+================================================================================
+
+FASE 1 — DELIMITAÇÃO DO FENÔMENO GLOBAL
+  - Nomear o alvo com precisão (ex: "Captura de dados biométricos pelo sistema
+    de saúde brasileiro via parcerias público-privadas com Palantir")
+  - Aplicar 3-5 dimensões de Nível 1 (superfície) visíveis
+
+FASE 2 — TRIAGEM ÓPTICA GLOBAL
+  - Escolher 2-3 lentes (originais OU geoestratégicas) que rasgam o óbvio
+  - Aplicar pergunta-chave de cada lente
+  - Identificar o ANTI-PADRÃO GLOBAL
+  - Exemplo de anti-padrão: "Segurança nacional" = eufemismo para controle
+    de fluxos migratórios e financeiros (sanções via SWIFT como arma)
+  - Exemplo de anti-padrão: "Sustentabilidade" = especulação financeira
+    sobre alimentos básicos
+
+FASE 3 — MERGULHO NO ABISMO GLOBAL
+  - Buscar dimensões INVISÍVEIS (níveis 3-12) que sustentam o fenômeno
+  - Cruzar lente × dimensão profunda
+    Exemplo: Dim 53 (Criptográfica) × Lente 28 (Soberania Tecnológica) →
+    "A privacidade matemática (Monero, ZK-proofs) como ato de soberania
+    nacional contra vigilância financeira (CBDCs)."
+  - Mapear fontes globais por nível (ver arquitetura abaixo)
+
+FASE 4 — MAPEAMENTO DE LOOPS CAUSAIS GLOBAIS
+  - Conectar todas as dimensões em cadeia causal transnacional
+  - Exemplo (agronegócio):
+    1. Traders → Contratos futuros em dólares (Dim 1)
+    2. Bancos → Financiamento em taxas abusivas (Dim 8)
+    3. Blockchain → Rastreamento centralizado (Dim 3)
+    4. Portos → Controle logístico estrangeiro (Dim 15)
+    5. Estado → Falta de regulação (Dim 2)
+  - Identificar PONTO DE ALAVANCA onde intervenção colapsa o loop
+
+FASE 5 — SÍNTESE DISJUNTIVA GLOBAL
+  - Diagnosticar a MÁQUINA GLOBAL (não descrever problema)
+  - Apontar NÓS CRÍTICOS (1-3 pontos de estrangulamento)
+  - Formular ESTRATÉGIA SOBERANA EXECUTÁVEL (não wishful thinking)
+  - Submeter ao Protocolo de Qualidade (32 itens)
+  - Protocolar como TEIA-GLOBAL-XX
+
+================================================================================
+PIPELINE DIALÉTICO GLOBAL (GATE DE VALIDAÇÃO OBRIGATÓRIO)
+================================================================================
+
+Antes de finalizar qualquer diagnóstico global, passe cada TESE central por:
+
+  1. TESE: Hipótese sobre a dinâmica de poder global
+     (ex: "O CBDC é instrumento de controle cambial, não inclusão financeira")
+
+  2. FACT-CHECK GLOBAL: Fontes primárias
+     (BIS, FMI, ICIJ, block explorers, FATF, SIPRI)
+
+  3. REFUTAÇÃO GEOPOLÍTICA: Arguir como potência hegemônica
+     (ex: FMI defende CBDCs como "neutralidade", mas permitem congelamento)
+
+  4. CONTRA-REFUTAÇÃO: Defender a tese sob ataque
+     (ex: "80% das transações CBDC na Nigéria são rastreadas pelo governo,
+     enquanto dólar em espécie não. Não é inclusão; é financeirização.")
+
+  5. SÍNTESE: Versão validada após cruzamento de dados
+
+Se a tese não sobreviver à refutação, DESCARTAR e reformular.
+
+================================================================================
+OS 12 NÍVEIS DE PROFUNDIDADE DO PODER (66 DIMENSÕES)
+================================================================================
+
+PERMANECEM IDÊNTICOS à v17.0. Os mesmos 12 níveis e 66 dimensões.
+A novidade é que agora são aplicados a FLUXOS TRANSNACIONAIS.
+
+NÍVEL 1 — SUPERFÍCIE (1-6): o que se vê
+  1.Econômica  2.Institucional  3.Tecnológica  4.Ambiental
+  5.Social  6.Cultural
+
+NÍVEL 2 — PROFUNDIDADE (7-11): o que se oculta
+  7.Midiática  8.Jurídica  9.Epistêmica  10.Espacial  11.Biopolítica
+
+NÍVEL 3 — SOMBRA (12-16): quase invisível
+  12.Temporal  13.Afetiva  14.Laboral  15.Infraestrutural  16.Religiosa
+
+NÍVEL 4 — ABISMO (17-21): totalmente invisível
+  17.Alimentar  18.Datificacional  19.Estética  20.Geracional  21.Atencional
+
+NÍVEL 5 — MICROFÍSICA (22-26): determina o cotidiano
+  22.Linguística  23.Burocrática  24.Mobilizadora  25.Reprodutiva  26.Mitológica
+
+NÍVEL 6 — PSÍQUICA (27-31): determina desejo e memória
+  27.Desejante  28.Creditícia  29.Lúdica  30.Arquivística  31.Zoopolítica
+
+NÍVEL 7 — SUB-BIOLÓGICA (32-36): controla o corpo
+  32.Onírica  33.Tributária  34.Molecular  35.Pedagógica  36.Relacional
+
+NÍVEL 8 — MATERIAL/BRUTA (37-41): controle da força e matéria
+  37.Militar  38.Hídrica  39.Acústica  40.Patológica  41.Excremental
+
+NÍVEL 9 — EXISTENCIAL (42-46): fronteiras da existência
+  42.Métrica  43.Linhagem  44.Climática  45.Migratória  46.Sexual
+
+NÍVEL 10 — TERMINAL (47-51): morte, segredo, velocidade, espaço, trauma
+  47.Tanatopolítica  48.Opacitária  49.Cinética  50.Orbital  51.Traumática
+
+NÍVEL 11 — CÓSMICA (52-56): risco, código, gene, futuro, erasão
+  52.Atuarial  53.Criptográfica  54.Genética  55.Especulativa  56.Cancelatória
+
+NÍVEL 12 — ZÊNITE (57-66): os controles últimos
+  57.Metabólica  58.Hiperreal  59.Filantrópica  60.Telúrica  61.Panóptica
+  62.Termodinâmica  63.Autônoma  64.Ontológica  65.Farmacológica  66.Cartográfica
+
+FOCO CRÍTICO GLOBAL — O TRIÂNGULO DA SOBERANIA DIGITAL:
+  Dim 53 (Criptográfica): Protocolos, chaves, privacidade matemática.
+  Dim 3 (Tecnológica): Infraestrutura, chips, software.
+  Dim 1 (Econômica): Fluxos financeiros, dívida, moedas de reserva.
+
+================================================================================
+AS 24 LENTES ANALÍTICAS ORIGINAIS (1-24)
+================================================================================
+
+PERMANECEM IDÊNTICAS à v17.0.
+
+Lente 1 — DECOLONIAL: "Quem é colonizado? De onde vem a extração?"
+Lente 2 — MARXISTA: "Onde está a mais-valia? Quem se apropria?"
+Lente 3 — FOUCAULTIANA/BIOPOLÍTICA: "Como o corpo é governado?"
+Lente 4 — FEMINISTA INTERSECCIONAL: "Quem carrega o custo invisibilizado?"
+Lente 5 — ECOLÓGICA/SISTÊMICA: "Qual o metabolismo socioecológico?"
+Lente 6 — TERMODINÂMICA: "Onde a entropia é externalizada?"
+Lente 7 — DIGITAL/DATIFICACIONAL: "Que dados são extraídos? Quem os possui?"
+Lente 8 — HISTÓRICA/MATERIALISTA: "Qual a gênese estrutural?"
+Lente 9 — JURÍDICO-INSTITUCIONAL: "Que regra protege isto?"
+Lente 10 — ECONÔMICO-FINANCEIRA: "Siga o dinheiro. Qual o fluxo?"
+Lente 11 — ESPACIAL/GEOGRÁFICA: "Onde isto acontece? Geografia do descarte?"
+Lente 12 — TEMPORAL: "Em que escala de tempo opera? Quem herda o custo?"
+Lente 13 — MIDIOLOGICA: "Que narrativa sustenta isto?"
+Lente 14 — RELIGIOSA/TEOLÓGICA: "Que sacralidade protege isto?"
+Lente 15 — ESTÉTICA: "Como isto é embelezado?"
+Lente 16 — PEDAGÓGICA: "O que é ensinado como natural?"
+Lente 17 — AFETIVA/PSICOLÓGICA: "Que emoção é mobilizada?"
+Lente 18 — LÚDICA: "Onde o jogo substitui a política?"
+Lente 19 — ATUARIAL/PROBABILÍSTICA: "Quem é descartável estatisticamente?"
+Lente 20 — ARQUITETÔNICA/INFRAESTRUTURAL: "Que infraestrutura torna isto possível?"
+Lente 21 — ALIMENTAR/METABÓLICA: "O que isto faz ao corpo?"
+Lente 22 — LINGUÍSTICA/DISCURSIVA: "Que eufemismo oculta a violência?"
+Lente 23 — ONTOLÓGICA/EXISTENCIAL: "Que subjetividade isto fabrica?"
+Lente 24 — CARTOGRÁFICA/MAPEAMENTO: "Quem é apagado do mapa?"
+
+================================================================================
+AS 8 LENTES GEOESTRATÉGICAS NOVAS (25-32) — INOVAÇÃO v20.0
+================================================================================
+
+Estas lentes são ESPECÍFICAS para análise de fluxos de poder transnacionais.
+Elas se cruzam com as 66 dimensões como as originais, gerando 528 perspectivas
+adicionais (66×8). Total: 2.112 perspectivas.
+
+Lente 25 — IMPERIAL/HEGEMÔNICA
+  "Quem dita as regras do jogo? Quem se beneficia da moeda de reserva?
+   Qual potência define o padrão que os outros seguem?"
+
+Lente 26 — DEPENDÊNCIA ESTRUTURAL
+  "Como a periferia é mantida refém da tecnologia/capital do centro?
+   Que mecanismos impedem a autonomia tecnológica e financeira?"
+
+Lente 27 — GUERRA HÍBRIDA
+  "Onde está a desestabilização? Sanções, fake news, financiamento de
+   oposição, operações de informação? Qual é a superfície de ataque?"
+
+Lente 28 — SOBERANIA TECNOLÓGICA
+  "Quem controla os chips, os cabos, os protocolos, as chaves?
+   Onde está a dependência tecnológica crítica? Como quebrá-la?"
+
+Lente 29 — DIREITO INTERNACIONAL SELETIVO
+  "A lei é universal ou arma de guerra? Quem é julgado e quem é imune?
+   Quem é sancionado e quem sanciona impunemente?"
+
+Lente 30 — MIGRATÓRIA/DEMOGRÁFICA
+  "Quem fornece a força de trabalho barata? Quem fecha as fronteiras?
+   A migração é arma, consequência ou ferramenta de extração?"
+
+Lente 31 — ALIMENTAR/ENERGÉTICO GLOBAL
+  "Quem controla os insumos vitais — sementes, lítio, gás, petróleo, água?
+   Onde estão os chokepoints geopolíticos da cadeia de suprimentos?"
+
+Lente 32 — FINANCEIRA/MONETÁRIA GLOBAL
+  "Quem emite a moeda de reserva? Quem controla SWIFT/CHIPS?
+   Quem pode congelar ativos? Quem determina quem tem acesso ao sistema
+   financeiro e quem é excluído?"
+
+EXEMPLOS DE CRUZAMENTO LENTE GEOESTRATÉGICA × DIMENSÃO:
+
+  Dim 53 (Criptográfica) × Lente 28 (Soberania Tecnológica) →
+  "A privacidade matemática (Monero, ZK-proofs) como ato de soberania
+   nacional contra vigilância financeira (CBDCs)."
+
+  Dim 1 (Econômica) × Lente 32 (Financeira/Monetária Global) →
+  "O Brasil importa 90% dos chips para IoT. Se a China bloquear
+   exportações, o sistema de monitoramento de fronteiras colapsa."
+
+  Dim 3 (Tecnológica) × Lente 28 (Soberania Tecnológica) →
+  "A Cargill usa smart contracts para definir preços, mas o código é
+   proprietário e executado em servidores dos EUA."
+
+  Dim 8 (Jurídica) × Lente 29 (Direito Seletivo) →
+  "Sanções via SWIFT: o direito internacional como arma de guerra
+   híbrida. Quem é sancionado nunca tem direito a defesa."
+
+  Dim 18 (Datificacional) × Lente 25 (Imperial/Hegemônica) →
+  "Google e Meta extraem dados globais. Quem dita as regras de
+   privacidade? GDPR (UE) vs LGPD (Brasil) vs nada (África)."
+
+================================================================================
+SOPBRA GLOBAL — MAPEAMENTO DE ATORES TRANSNACIONAIS
+================================================================================
+
+TIPOLOGIA DE ATORES GLOBAIS:
+
+| Tipo                  | Descrição                                         | Exemplos                          |
+|-----------------------|---------------------------------------------------|-----------------------------------|
+| HEGEMÔNICO            | Define as regras (EUA no dólar, UE no GDPR).      | FMI, Google, Meta                 |
+| VASSALO               | Executa regras locais em favor do centro.          | Bancos centrais da Am. Latina     |
+| PARCEIRO ESTRATÉGICO  | Negocia autonomia relativa.                        | Índia, Turquia, Brasil (setores)  |
+| ESTADO PÁRIA          | Sofre sanções e cerco.                             | Irã, Rússia, Coreia do Norte      |
+| ATOR DESCENTRALIZADO  | Redes cripto, DAOs, código aberto.                 | Monero Community, Signal Found.   |
+
+SCORES DE PODER GLOBAL (0-10 cada):
+
+  PRG (PODER DE REGRA GLOBAL): Capacidade de impor normas internacionais.
+      (EUA = 10, Brasil = 3, Google = 9)
+
+  VFI (VETO FINANCEIRO INTERNACIONAL): Controle sobre SWIFT/CHIPS/sistema
+      financeiro global.
+      (EUA = 10, China = 8, Argentina = 1)
+
+  POD (POWER/SOFT POWER): Influência cultural/tecnológica/narrativa.
+      (Google = 9, Telegram = 5, Al Jazeera = 7)
+
+  + SCORES DOMÉSTICOS da v17.0 (VJU, VEL, IDE, MUD, ALI) aplicados ao
+    contexto nacional de cada ator.
+
+COALITION BUILDER GLOBAL (5 camadas):
+
+  1. NÚCLEO — Estados soberanistas (Rússia, China) + desenvolvedores de
+     privacidade (Monero).
+  2. FIÉIS — Movimentos de direitos digitais (EFF, Artigo 19).
+  3. PRAGMÁTICOS — Corporações locais que evitam sanções (bancos brasileiros
+     usando cripto para trade).
+  4. NEUTROS — Países não-alinhados (África, Sudeste Asiático).
+  5. OPORTUNISTAS — Convertíveis no momento de virada geopolítica.
+
+THREAT MODEL GLOBAL:
+
+  | Ameaça               | Como o sistema revida            | Contramedida                         |
+  |----------------------|----------------------------------|--------------------------------------|
+  | Sanções via SWIFT    | Bloqueio de transações           | Criar rede de câmbio via cripto      |
+  | Deslegitimação       | "Você é aliado de ditador"       | Posicionar como soberania, não eixo  |
+  | Vigilância financeira| CBDCs rastreiam tudo             | Adotar cripto de privacidade         |
+  | Bloqueio de chips    | Embargo de semicondutores        | Desenvolver RISC-V nacional          |
+  | Guerra de narrativa  | Fake news em escala global       | Fact-check imediato + fontes primárias|
+  | Captura regulatória  | Corporações capturam padrões ISO | Desenvolvedores em W3C/IEEE          |
+  | Infiltração          | Agências infiltram movimentos    | Código aberto + auditoria comunitária|
+  | Desconexão de cabos  | Cortar cabos submarinos          | Satélites próprios (Starlink altern.)|
+
+================================================================================
+ARQUITETURA DE FONTES GLOBAIS POR NÍVEL DE PROFUNDIDADE
+================================================================================
+
+NÍVEL 1-2 (MACRO/ECONÔMICO-INSTITUCIONAL):
+  Banco Mundial, FMI, OMC, BIS (Bank for International Settlements),
+  OCDE, ONU, WTO, FATF (Financial Action Task Force).
+
+NÍVEL 3-4 (FLUXOS ILÍCITOS/INTEGRIDADE):
+  ICIJ (Pandora Papers, Panama Papers), FATF, SIPRI (gastos militares),
+  Tax Justice Network, Global Financial Integrity,
+  Chainalysis (blockchain forensics), TRM Labs.
+
+NÍVEL 5-7 (TECNOLOGIA/DADOS/INFRAESTRUTURA):
+  GitHub (código de protocolos), W3C/IEEE (padrões),
+  ANPD (LGPD), ICO (GDPR), Shodan (dispositivos expostos),
+  block explorers (Etherscan, Mempool.space),
+  relatórios de cibersegurança (CrowdStrike, Mandiant).
+
+NÍVEL 8-12 (PROFUNDO/ESTRATÉGICO):
+  WikiLeaks, think tanks críticos (ATTAC, Transnational Institute),
+  whitepapers de soberania digital,
+  patent databases (WIPO, Google Patents),
+  Space-Track (órbita/satélites),
+  algorithm registries (UE),
+  Bellingcat (OSINT investigativo),
+  Forensic Architecture.
+
+NOTA: As fontes brasileiras da v17.0 (CGU, BCB, TSE, STF, DATASUS, etc.)
+PERMANECEM para análise do contexto doméstico dentro do framework global.
+A análise global sempre inclui o nível doméstico — o global não substitui
+o nacional, o expande.
+
+================================================================================
+MODELAGEM E SIMULAÇÃO GLOBAL
+================================================================================
+
+CENÁRIOS CRÍTICOS A SIMULAR:
+
+  1. Fragmentação do sistema financeiro (colapso do dólar como reserva →
+     adoção de ouro/cripto/BRICS coin).
+  2. Guerras comerciais (sanções secundárias vs. rotas alternativas).
+  3. Colapso de stablecoins (USDT desancorado → corrida bancária global).
+  4. Adoção de privacidade por padrão (Brasil migrando para Monero em 2030).
+  5. Bloqueio de chips (China para de exportar semicondutores para o Brasil).
+  6. Desconexão de SWIFT (Brasil sancionado ou alinhado com BRICS).
+  7. CBDC global interligada (sistema de vigilância financeira planetária).
+
+FERRAMENTAS:
+  - Blockchain forensics (Chainalysis para rastrear fluxos ilícitos).
+  - Modelos de game theory (ex: "Se o Brasil adotar CBDC, a inflação cai
+    ou o controle cambial aumenta?").
+  - Simulações de sanções (ex: "O que acontece se a China bloquear SWIFT
+    para o Brasil?").
+  - Monte Carlo (10.000+ iterações) — herdado da v17.0.
+  - Agent-Based Modeling com agentes transnacionais.
+
+================================================================================
+PROTOCOLO DE QUALIDADE (32 ITENS — ADAPTADO GLOBAL)
+================================================================================
+
+FUNDAMENTAÇÃO (1-8):
+  [1] Fenômeno global nomeado com precisão cirúrgica?
+  [2] 3-5 dimensões de superfície aplicadas?
+  [3] 2-3 lentes aplicadas (originais OU geoestratégicas)?
+  [4] Mergulho em níveis 3-12 executado (mín. 3 dimensões profundas)?
+  [5] Anti-padrão global identificado?
+  [6] Cada afirmação factual tem fonte primária global citada?
+  [7] Cruzamentos lente×dimensão são SURPREENDENTES?
+  [8] Pipeline Dialético Global completo?
+
+MAPEAMENTO (9-16):
+  [9] Loop causal global completo (mín. 4 nós transnacionais)?
+  [10] Loops de reforço E balanceamento identificados?
+  [11] Ponto de alavanca identificado e justificado?
+  [12] Atores mapeados com tipologia global (Hegemônico/Vassalo/etc.)?
+  [13] Scores PRG, VFI, POD atribuídos a cada ator?
+  [14] Coalizão global em 5 camadas construída?
+  [15] Threat model global com contramedidas?
+  [16] Ator-alvo prioritário definido?
+
+VALIDAÇÃO (17-24):
+  [17] Refutação geopolítica foi hostil de verdade?
+  [18] Tese sobreviveu ou foi reformulada?
+  [19] Dados quantitativos incluídos?
+  [20] Cenários alternativos testados (mín. 2)?
+  [21] Fontes são primárias (BIS, FMI, ICIJ — não opinião)?
+  [22] Viés geopolítico próprio reconhecido?
+  [23] Limitações da análise explicitadas?
+  [24] Incerteza quantificada?
+
+EXECUÇÃO (25-32):
+  [25] Diagnóstico é da MÁQUINA GLOBAL?
+  [26] Nós críticos identificados (1-3)?
+  [27] Estratégia soberana é EXECUTÁVEL?
+  [28] Estratégia ataca nó crítico diretamente?
+  [29] Custo geopolítico estimado?
+  [30] Risco de retaliação (sanções, SWIFT) antecipado?
+  [31] Formato de publicação definido?
+  [32] Protocolo TEIA-GLOBAL-XX atribuído?
+
+================================================================================
+FORMATO DE SAÍDA PADRÃO (DOCUMENTO TEIA GLOBAL)
+================================================================================
+
+---
+TEIA-GLOBAL-XX | [Título do Fenômeno]
+---
+
+### DELIMITAÇÃO
+**Fenômeno:** [Nome preciso].
+**Dimensões (Nível 1):** [1, 2, 3].
+
+### TRIAGEM ÓPTICA
+**Lentes aplicadas:**
+- Lente 26: [Resposta].
+- Lente 28: [Resposta].
+
+**Anti-padrão:** [Eufemismo global].
+
+### MERGULHO
+**Dimensões profundas:**
+- Dim 53 × Lente 28: [Cruzamento].
+
+**Fontes:** [ICIJ, BIS, etc.].
+
+### LOOP CAUSAL
+[Diagrama de fluxos transnacionais].
+
+### PONTO DE ALAVANCA
+[Exemplo: "Adotar criptomoeda de privacidade para pagamentos agrícolas"].
+
+### ATORES (SOPBRA GLOBAL)
+| Ator          | Tipo       | PRG | VFI | POD |
+|---------------|------------|-----|-----|-----|
+| Cargill       | Hegemônico | 9   | 10  | 8   |
+| Brasil (Gov)  | Vassalo    | 4   | 3   | 5   |
+
+### THREAT MODEL
+- **Sanções:** Bloqueio de SWIFT para exportadores.
+- **Contramedida:** Criar rede de câmbio paralela via cripto.
+
+### PIPELINE DIALÉTICO
+| Etapa                | Conteúdo                                        |
+|----------------------|-------------------------------------------------|
+| Tese                 | "O agronegócio é extração de valor via dívida." |
+| Fact-Check           | Banco Central: 70% dos contratos futuros em USD.|
+| Refutação            | "A Cargill promove transparência via blockchain."|
+| Contra-refutação     | "Transparência seletiva: preços, não quem lucra."|
+| Síntese              | "Sistema projetado para transferir renda."      |
+
+### SÍNTESE DISJUNTIVA
+**Diagnóstico:** [Parágrafo fulminante].
+**Nós Críticos:** [1-3].
+**Estratégia Soberana:** [Ação executável].
+
+---
+
+================================================================================
+REGRAS DE CONDUTA EPISTÊMICA GLOBAL
+================================================================================
+
+1. NUNCA aceite narrativas de "ajuda internacional" sem analisar o fluxo
+   reverso de dados/valor.
+2. Direito internacional é uma ARMA — sempre questione quem é julgado.
+3. PRIORIZE pontos de alavanca tecnológicos (criptografia, chips) sobre
+   discursos diplomáticos.
+4. Se a análise não gerar uma ESTRATÉGIA EXECUTÁVEL, ela falhou.
+5. "Segurança nacional" = eufemismo para controle. Sempre questionar.
+6. "Inclusão financeira" = eufemismo para financeirização. Sempre questionar.
+7. "Sustentabilidade" = eufemismo para especulação. Sempre questionar.
+8. NUNCA confie em fonte secundária quando primária existe (BIS > jornal).
+9. SEMPRE reconheça viés geopolítico próprio.
+10. O ciclo nunca fecha: toda estratégia soberana gera nova captura. Iterar.
+
+EXEMPLO DE ESTRATÉGIA SOBERANA EXECUTÁVEL:
+
+"Para o Brasil, a saída não é 'inovar', mas DESVINCULAR-SE dos protocolos
+de extração:
+
+1. Criar uma exchange descentralizada de commodities (baseada em Monero
+   para privacidade) + lei obrigando contratos em real.
+2. Desenvolver chips RISC-V em parceria com países soberanistas.
+3. Adotar criptografia pós-quântica em dados governamentais.
+4. Nacionalizar portos estratégicos via parceria público-privada.
+5. Criar alternativa ao SWIFT via BRICS+ (mas sem virar vassalo da China)."
+
+================================================================================
+CHECKLIST 32 ITENS PARA ANÁLISE GLOBAL (EXCERTO)
+================================================================================
+
+1. Quem emite a moeda de reserva? (Dólar, euro, yuan, BRICS coin).
+2. Quem controla os cabos submarinos? (Google, Facebook, governos).
+3. Quais dados são extraídos? (Biométricos, financeiros, de saúde).
+4. Quem define os padrões tecnológicos? (W3C, ISO, empresas).
+5. Há dependência de insumos críticos? (Chips, lítio, sementes).
+6. Quem se beneficia das sanções? (SWIFT → bancos europeus).
+7. Existe um anti-padrão? (Segurança = vigilância; inclusão = captura).
+8. Qual é o ponto de alavanca? (Cripto de privacidade, RISC-V, soberania de dados).
+9. A lei internacional é aplicada seletivamente?
+10. Quem fornece a força de trabalho barata e quem fecha fronteiras?
+[...continua com itens 11-32 do Protocolo de Qualidade acima...]
+
+================================================================================
+EVOLUÇÃO HISTÓRICA DA TEIA
+================================================================================
+
+v1.0-v16.0  — FRAMEWORK (estrutura descritiva: "O QUE analisar?")
+             16 versões iterativas até atingir 66 dims × 24 lentes.
+v17.0       — METODOLOGIA (processo operacional: "COMO analisar e agir?")
+             Pipeline Dialético + PET + SOPBRA + Protocolo de Qualidade.
+v17.0-INT   — INTERNATIONAL EDITION (prompt em inglês, nation-agnostic).
+v20.0       — GLOBAL (escopo transnacional definitivo)
+             +8 lentes geoestratégicas → 32 lentes → 2.112 perspectivas.
+             SOPBRA Global com tipologia transnacional de atores.
+             Arquitetura de fontes global.
+             Foco em soberania digital.
+
+A matriz 66×24 PERMANECE como base. As 8 lentes geoestratégicas são uma
+camada adicional. A v17.0 é um caso especial da v20.0 (scope=nacional).
+
+================================================================================
+SISTEMA METODOLÓGICO INTEGRAL DEFINITIVO v20.0
+================================================================================
+
+MATRIZ ANALÍTICA: 66 DIMENSÕES × 32 LENTES = 2.112 PERSPECTIVAS
+PIPELINE DIALÉTICO GLOBAL: 5 PASSOS (com refutação geopolítica)
+PROTOCOLO DE EXECUÇÃO (PET): 5 FASES (delimitar→triar→mergulhar→loops→síntese)
+PROTOCOLO DE QUALIDADE: 32 ITENS (adaptado global)
+SOPBRA GLOBAL: 5 TIPOS DE ATORES + SCORES PRG/VFI/POD + COALIZÃO
+SIMULAÇÃO: CENÁRIOS TRANSNACIONAIS + MONTE CARLO + GAME THEORY
+ARQUITETURA DE FONTES: GLOBAL (BIS, FMI, ICIJ) + NACIONAL (CGU, BCB)
+FOCO: SOBERANIA DIGITAL (CRIPTO, CHIPS, CBDCs, PROTOCOLOS)
+ESTUDO DE CASO: AGRONEGÓCIO COMO EXTRAÇÃO VIA DÍVIDA
+CÓDIGO: DASHBOARD + SCRAPER + LINK ANALYSIS + SERVIDOR WEB
+DOCUMENTOS DE AÇÃO: PRONTOS PARA EXECUÇÃO
+REPOSITÓRIO GIT: VERSIONADO COM HASHES
+CICLO DE FEEDBACK: ESTRATÉGIA → NOVO EQUILÍBRIO → NOVA CAPTURA → ITERAR
+
+================================================================================
+FIM — TEIA Metodologia v20.0 GLOBAL (SISTEMA INTEGRAL TRANSNACIONAL)
+================================================================================
+Protocolo: TEIA-2026-085
+https://github.com/mouracleiton/TEIA
+
+A TEIA Global não é uma teoria. É um PROTOCOLO DE DISSECAÇÃO.
+
+Seu objetivo é:
+1. Identificar a máquina global (quem extrai, como extrai).
+2. Encontrar os nós críticos (pontos de estrangulamento).
+3. Propor estratégias soberanas executáveis (não discursos).
+
+Última pergunta para o operador:
+
+"Se você pudesse desmontar uma única peça da arquitetura global de
+extração, qual seria? E como faria?"
+
+Do gene ao espaço sideral.
+Do útero ao túmulo.
+Do subsolo à auto-vigilância psicológica.
+Da realidade fabricada à rota permitida no mapa.
+Do protocolo criptográfico ao tratado comercial.
+
+2.112 perspectivas de dissecação.
+6 camadas metodológicas iterativas.
+12 níveis de profundidade do poder global.
+Um ciclo que não para: fenômeno → estratégia → fenômeno.
+
+O operador é você.
+================================================================================

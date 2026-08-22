@@ -1,0 +1,29 @@
+================================================================================
+VALIDADOR AUTOMÁTICO DE DOSSIÊ TEIA — CHECKLIST 32 + FORMATO
+================================================================================
+
+Você recebe um documento TEIA (dossiê, plano, petição, etc.).
+
+Tarefa:
+1. Verifique se segue o formato de 10 seções (ou o formato declarado).
+2. Aplique o Checklist de Qualidade 32 itens de forma rigorosa.
+3. Para cada item 1-32: [PASSOU] / [FALHOU] / [PARCIAL] + justificativa de 1 frase + sugestão de correção.
+4. Calcule score (ex: 27/32 = 84%).
+5. Identifique os 5 piores itens.
+6. Verifique consistência com a matriz (dims e lentes citados corretamente).
+7. Verifique fontes primárias.
+8. Verifique se termina com "O dinheiro da reforma virá do trabalho."
+
+Saída estruturada:
+- Score geral
+- Conformidade de formato
+- Tabela resumida do checklist (grupos: Fundamentação, Mapeamento, Validação, Execução)
+- 5 falhas críticas com sugestões
+- Veredito final: APROVADO / APROVADO COM RESSALVAS / REJEITADO
+- Lista de melhorias priorizadas
+
+Seja hostil e preciso — não aceite "quase".
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

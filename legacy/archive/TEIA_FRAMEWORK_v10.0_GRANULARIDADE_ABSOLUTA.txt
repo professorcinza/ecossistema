@@ -1,0 +1,437 @@
+================================================================================
+TEIA FRAMEWORK v10.0 — GRANULARIDADE ABSOLUTA (41×16 = 656 PERSPECTIVAS)
+================================================================================
+Integração das 5 últimas dimensões de captura, mapeando as entranhas
+físicas e psíquicas do poder: força bruta, recursos vitais líquidos,
+som, doença e descartes da produção.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-057
+Versão: v10.0 (GRANULARIDADE ABSOLUTA — RELEASE FINAL DEFINITIVA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v9.2 → v10.0)
+
+A v9.2 operacionalizou as lentes com pipeline de dados. A v10.0
+atinge GRANULARIDADE ABSOLUTA ao mapear as últimas 5 dimensões
+que faltavam — o controle da força bruta, dos recursos vitais
+líquidos, do som, da doença e dos descartes da produção.
+
+Com 41 dimensões de captura × 16 lentes analíticas (v3.0 operacional),
+o framework gera 656 perspectivas de investigação.
+
+Este é o ESTADO FINAL ABSOLUTAMENTE DEFINITIVO do TEIA Framework.
+O mapeamento da arquitetura de dominação atingiu granularidade
+absoluta em todas as suas dimensões — materiais, simbólicas,
+psíquicas, biológicas, físicas, químicas e excrementais.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (ENTRANHAS FÍSICAS DO PODER)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 37 — MILITAR / PARAMILITAR
+------------------------------------------------------------------------
+COBERTURA TEIA: 60%
+
+O QUE É: o monopólio da violência física letal, a gestão do medo
+  armado e a substituição do Estado de Direito pela força extralegal.
+
+DIFERENÇA DA JURÍDICA (8):
+  Jurídica: controle da LEI e dos tribunais (seletividade formal)
+  Militar: TERROR FÍSICO — violência armada letal e controle
+  territorial por força. Quando a hegemonia falha, o sistema
+  recorre ao chumbo.
+
+QUEM DOMINA: Forças Armadas (Exército, Marinha, Aeronáutica),
+  Polícias Militares, Polícia Civil, Polícia Federal, ABIN,
+  milícias (RJ), PCC/Comando Vermelho, Primeiro Comando da Capital,
+  empresas de segurança privada, bandos criminosos regionais.
+
+COMO CAPTURA:
+  - Orçamento de defesa inflado: R$ 130+ bi/ano (Ministério da
+    Defesa) vs R$ 2 bi (IBAMA) — 65x mais
+  - Controle territorial por milícias: comércio, gás, internet,
+    transporte alternativo em favelas (RJ) — Estado substituído
+    por atores armados
+  - Tropas de choque privatizadas: repressão de movimentos sociais
+    por seguranças privados ou policiais fora de serviço
+  - Discurso golpista militar: altas patentes ameaçando ruptura
+    institucional (Atos de 7 de Setembro, cartas militares)
+  - Letalidade policial seletiva: ~6 mil mortes/ano por PM,
+    75% jovens negros periféricos (FBSP) — genocídio demográfico
+  - Tortura e execução: prática sistêmica em periferias e
+    presídios (mecanismo de terror)
+
+MÉTRICAS-CHAVE:
+  - Orçamento Defesa: R$ 130+ bi/ano
+  - Mortes por PM: ~6 mil/ano (75% jovens negros)
+  - População carcerária: ~800 mil
+  - Milícias no RJ: controlam ~18% do território metropolitano
+  - Gasto com segurança privada: ~R$ 80 bi/ano
+
+PROTOCOLO TEIA:
+  (a) Quem detém o MONOPÓLIO DA VIOLÊNCIA no território analisado?
+  (b) A violência é SELETIVA (raça/classe/território)?
+  (c) Há atores armados substituindo o Estado?
+  (d) A letalidade serve como mecanismo de TERROR político?
+
+------------------------------------------------------------------------
+DIMENSÃO 38 — HÍDRICA / HIDROSSOCIAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 55%
+
+O QUE É: o ciclo da água, a distribuição de água potável e o
+  saneamento. A transformação do líquido vital em ativo financeiro.
+
+DIFERENÇA DA AMBIENTAL (4) E ALIMENTAR (17):
+  Ambiental: biomas, florestas, clima
+  Alimentar: produção de comida
+  Hídrica: SOBREVIVÊNCIA LÍQUIDA — água potável, esgoto, outorga,
+  saneamento. Negar água = necropolítica.
+
+QUEM DOMINA: companhias de saneamento (Sabesp, Sanasa, Embasa — em
+  processo de privatização), milícias (controle de caminhão-pipa em
+  favelas), agronegócio (outorga de água para pivotagem), ANA (Agência
+  Nacional de Águas — capturável), empresas de água mineral (Nestlé,
+  Crystal).
+
+COMO CAPTURA:
+  - Privatização do saneamento: Lei 14.026/2020 (Novo Marco do
+    Saneamento) abre para privatização — universalização prometida
+    mas lucro privado sobre líquido vital
+  - Milícias controlando água: caminhão-pipa em favelas onde
+    Sabesp não chega — R$ 50-100/tanque para família pobre
+  - Agronegócio capturando outorgas: rios desviados para pivotagem
+    de soja enquanto comunidades ribeirinhas secam
+  - Esgoto in natura: 35% da população sem coleta de esgoto;
+    65% sem tratamento — esgoto despejado em rios de periferias
+  - Água como commodity: Nestlé e Crystal extraem água mineral
+    gratuita ou barata e vendem a R$ 3/garrafa
+
+MÉTRICAS-CHAVE:
+  - Sem água tratada: ~35 milhões
+  - Sem coleta de esgoto: ~100 milhões (35%)
+  - Sem tratamento de esgoto: ~65%
+  - Investimento necessário para universalização: R$ 700 bi
+  - Retorno: cada R$ 1 em saneamento = R$ 4 em economia de saúde
+
+PROTOCOLO TEIA:
+  (a) Quem controla a ÁGUA no território analisado?
+  (b) Há privatização do que é vital?
+  (c) A escassez de água é ARMA de subjugação?
+  (d) O esgoto despejado atinge QUAL população (raça/classe)?
+
+------------------------------------------------------------------------
+DIMENSÃO 39 — ACÚSTICA / SONORA
+------------------------------------------------------------------------
+COBERTURA TEIA: 25%
+
+O QUE É: o ambiente sonoro, o ruído e o silêncio como ferramentas
+  de dominação psicológica e segregação territorial.
+
+DIFERENÇA DA ESTÉTICA (19):
+  Estética: ambiente VISUAL (arquitetura, cores, poluição visual)
+  Acústica: FREQUÊNCIA INVISÍVEL — som, ruído, silêncio, ultrassom
+
+QUEM DOMINA: construtoras (que decidem isolamento acústico ou não),
+  gestores de tráfego (rodovias cruzando periferias), comércio
+  (música alta para expulsar indesejados), Estado (tortura sonora
+  em presídios), indústria (ruído fabril).
+
+COMO CAPTURA:
+  - Poluição sonora extrema em periferias: rodovias, aeroportos,
+    indústrias e comércio sem isolamento acústico cruzando bairros
+    pobres → cortisol crônico
+  - Silêncio como luxo: bairros ricos têm muros altos, vegetação
+    e zoneamento que PROÍBEM ruído → silêncio é privilégio
+  - Mosquito alarm: dispositivos de ultrassom (frequência que só
+    jovens ouvem) instalados em shopping centers para expulsar
+    adolescentes periféricos
+  - Tortura sonora em presídios: luzes e sons 24h para impedir
+    sono de detentos (cruzar com Dim 32 Onírica)
+  - Caminhões de som: saturação do debate público durante eleições
+    com volume insuportável → impossibilita deliberação
+  - Ruído crônico reduz QI de crianças em escolas próximas a
+    rodovias (estudo WHO)
+
+MÉTRICAS-CHAVE:
+  - População exposta a >65dB: ~30% (OMS recomenda <55dB)
+  - Escolas próximas a rodovias: redução de QI documentada
+  - Mosquito alarms: uso crescente em centros comerciais
+  - Custo saúde por poluição sonora: estimado R$ bilhões/ano
+
+PROTOCOLO TEIA:
+  (a) Quem sofre com o RUÍDO e quem tem direito ao SILÊNCIO?
+  (b) O ruído eleva cortisol e reduz capacidade cognitiva?
+  (c) Há uso de som como ARMA (expulsão, tortura)?
+  (d) A segregação acústica reflete segregação de classe/raça?
+
+------------------------------------------------------------------------
+DIMENSÃO 40 — PATOLÓGICA / EPIDEMIOLÓGICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 45%
+
+O QUE É: a doença, as pandemias e a vulnerabilidade imunológica
+  como ferramentas de controle social e mercado lucrativo.
+
+DIFERENÇA DA BIOPOLÍTICA (11) E MOLECULAR (34):
+  Biopolítica: gestão da vida/população (políticas de saúde)
+  Molecular: química corporal (agrotóxicos, psicoativos)
+  Patológica: AGENTE INFECCIOSO — doença como produto da engenharia
+  social e como mercado. O sistema LUCRA com o adoecimento.
+
+QUEM DOMINA: Big Pharma (Pfizer, J&J, GSK, Bayer), indústria de
+  planos de saúde (Hapvida, NotreDame, Bradesco Saúde), hospitais
+  privados (Albert Einstein, Sírio-Libanês), ANS (capturada),
+  ANVISA (capturável), laboratórios de análise.
+
+COMO CAPTURA:
+  - Negacionismo pandêmico deliberado: Bolsonaro sabotou vacina
+    (2021) → ~700 mil mortos → "economia" protegida às custas de
+    vidas (necropolítica manifesta)
+  - Endemias concentradas em áreas pobres: dengue, tuberculose,
+    leishmaniose tratadas como "problema de gestão" em vez de
+    ENGENHARIA SOCIAL (a doença é produto do sistema)
+  - Superlotação carcerária: 800 mil presos em espaço para 400 mil
+    → variantes patogênicas (tuberculose multirresistente, HIV,
+    COVID) incubadas e espalhadas ao retorno à comunidade
+  - Lucro exponencial com doença crônica: Big Pharma lucra com
+    diabetes, hipertensão, câncer — SEM CURA, só gestão
+    (paciente vivo mas dependente = melhor que curado)
+  - Medo do contágio para suspender liberdades: pandemias usadas
+    para justificar estado de exceção e controle de mobilidade
+  - SUS subfinanciado: 4,75% PIB vs OCDE 6,5% → sistema público
+    colapsa → população migra para plano privado → plano lucra
+
+MÉTRICAS-CHAVE:
+  - COVID-19: ~700 mil mortos (negligência intencional)
+  - Dengue: ~6 milhões de casos/ano (2024 recorde)
+  - Tuberculose: ~70 mil novos casos/ano
+  - Planos de saúde: 50 milhões de beneficiários (crescente)
+  - SUS: subfinanciado em ~R$ 200 bi/ano vs OCDE
+
+PROTOCOLO TEIA:
+  (a) Quem LUCRA com a doença do público analisado?
+  (b) Há negligência deliberada que gera adoecimento?
+  (c) A doença é CONCENTRADA em classe/raça/território específico?
+  (d) O medo de contágio é usado para suspender liberdades?
+
+------------------------------------------------------------------------
+DIMENSÃO 41 — EXCREMENTAL / RESIDUAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 50%
+
+O QUE É: a gestão do lixo, do esgoto, dos dejetos tóxicos e a
+  "externalização" dos custos ambientais da produção.
+
+DIFERENÇA DA AMBIENTAL (4):
+  Ambiental: exploração da natureza VIVA (florestas, fauna)
+  Excremental: ESCÓRIA DO CAPITALISMO — o que é DESCARTADO.
+  O sistema define quem tem o direito de jogar seu lixo sobre quem.
+
+QUEM DOMINA: empresas de coleta de lixo (Valor Ambiental, Estre,
+  Veglore), operadoras de aterro sanitário, empresas de mineração
+  (Vale, Samarco), indústrias poluentes (Braskem, Petrobras),
+  países do Norte Global (que exportam lixo eletrônico para o Sul).
+
+COMO CAPTURA:
+  - Aterros sanitários em periferias: localizados esmagadoramente
+    em territórios negros e periféricos (racismo ambiental) —
+    bairros pobres FEDORAM enquanto bairros ricos são limpos
+  - Usinas termelétricas e indústrias poluentes: concentradas em
+    "zonas de sacrifício" onde moram negros e pobres
+  - Lixo eletrônico do Norte Global: Brasil é destino de e-waste
+    tóxico dos EUA e Europa — crianças desmontam eletrônicos em
+    lixões sem proteção
+  - Rejeitos de mineração: Mariana (2015, 19 mortos) e
+    Brumadinho (2019, 270 mortos) — lama tóxica destruiu
+    comunidades SEM ressarcimento estrutural (Vale segue operando)
+  - Esgoto como externalidade: 65% sem tratamento → cólera,
+    diarreia, hepatite em comunidades ribeirinhas e periféricas
+  - O racismo excremental determina que a TOXICIDADE do consumo
+    das elites seja despejada nos corpos e territórios das classes
+    subalternas. A sujeira é a PROVA MATERIAL da desigualdade.
+
+MÉTRICAS-CHAVE:
+  - Aterros em periferias: ~70% localizados em áreas pobres
+  - E-waste importado: crescente (sem regulação efetiva)
+  - Mariana/Brumadinho: ~300 mortos, rios destruídos, Vale lucra
+  - População em "zonas de sacrifício": ~5-10 milhões
+  - Lixo per capita: ~400 kg/ano (crescente)
+
+PROTOCOLO TEIA:
+  (a) Onde fica o LIXO/REJEITO de quem consome?
+  (b) Quem MORA onde o lixo é despejado? (raça/classe)
+  (c) Há racismo ambiental determinando localização de aterro/indústria?
+  (d) A empresa que gera o rejeito ARCA com o custo ou externaliza?
+
+
+================================================================================
+OS 8 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (1-6): o que se vê
+  Econômica, Institucional, Tecnológica, Ambiental, Social, Cultural
+
+NÍVEL 2 — PROFUNDIDADE (7-11): o que se oculta
+  Midiática, Jurídica, Epistêmica, Espacial, Biopolítica
+
+NÍVEL 3 — SOMBRA (12-16): quase invisível
+  Temporal, Afetiva, Laboral, Infraestrutural, Religiosa
+
+NÍVEL 4 — ABISMO (17-21): totalmente invisível
+  Alimentar, Datificacional, Estética, Geracional, Atencional
+
+NÍVEL 5 — MICROFÍSICA (22-26): determina o cotidiano
+  Linguística, Burocrática, Mobilizadora, Reprodutiva, Mitológica
+
+NÍVEL 6 — PSÍQUICA (27-31): determina o desejo e a memória
+  Desejante, Creditícia, Lúdica, Arquivística, Zoopolítica
+
+NÍVEL 7 — SUB-BIOLÓGICA (32-36): controla o corpo e a engenharia social
+  Onírica, Tributária, Molecular, Pedagógica, Relacional
+
+NÍVEL 8 — MATERIAL/BRUTA (37-41): controle da força e da matéria
+  Militar, Hídrica, Acústica, Patológica, Excremental
+
+
+================================================================================
+NOVAS COMBINATÓRIAS POTENTES
+================================================================================
+
+COMBINAÇÃO EE: MILITAR (37) × GEOGRAFIA (Lente 17)
+  Conceito: Necropolítica e Geografia da Violência
+  Aplicação: mapear via GIS sobreposição entre territórios milicianos,
+  mortes por arma de fogo e limites eleitorais → violência não é
+  caos, é ENGENHARIA de ocupação territorial
+
+COMBINAÇÃO FF: HÍDRICA (38) × CIÊNCIA POLÍTICA (Lente 9)
+  Conceito: Hidro-Hegemonia e Poder de Agenda
+  Aplicação: investigar como bancada ruralista captura ANA/IBAMA
+  para alterar outorgas → água para monocultura de exportação
+  enquanto comunidades secam
+
+COMBINAÇÃO GG: ACÚSTICA (39) × SISTEMAS COMPLEXOS (Lente 11)
+  Conceito: Carga Alostática e Loops de Estresse Urbano
+  Aplicação: modelar loop: ruído → cortisol → irritabilidade →
+  violência → demanda policial → encarceramento → custo → menos
+  investimento em isolamento acústico → mais ruído
+
+COMBINAÇÃO HH: PATOLÓGICA (40) × PUBLIC CHOICE (Lente 10)
+  Conceito: Capitalismo de Desastre e Rent-seeking Sanitário
+  Aplicação: investigar lobby parlamentar para aprovar leis que
+  obrigam Estado a comprar remédios sem licitação ou transferir
+  pacientes do SUS para rede privada
+
+COMBINAÇÃO II: EXCREMENTAL (41) × SOCIOLOGIA (Lente 19)
+  Conceito: Racismo Ambiental e Zonas de Sacrifício
+  Aplicação: provar estatisticamente que cor da pele e renda são
+  preditoras absolutas para viver próximo a rejeitos tóxicos
+
+
+================================================================================
+NOVAS SKILLS (52-56)
+================================================================================
+
+SKILL 52: geoprocessamento-conflitos-inteligencia-territorial
+  Dim 37 × Lente 17 — mapear necropolítica territorial
+
+SKILL 53: analise-politicas-publicas-economia-recursos-naturais
+  Dim 38 × Lente 9 — hidro-hegemonia e captura de outorgas
+
+SKILL 54: modelagem-socioecologicos-epidemiologia-urbana
+  Dim 39 × Lente 11 — loops de ruído → violência → encarceramento
+
+SKILL 55: economia-saude-analise-grupos-pressao-lobby
+  Dim 40 × Lente 10 — rent-seeking sanitário e capitalismo de desastre
+
+SKILL 56: sociologia-ambiental-analise-justica-espacial
+  Dim 41 × Lente 19 — racismo ambiental e zonas de sacrifício
+
+
+================================================================================
+O SISTEMA TOTAL ABSOLUTAMENTE DEFINITIVO: 41 DIMENSÕES
+================================================================================
+
+1. Econômica (Dinheiro)
+2. Institucional (Regras)
+3. Tecnológica (Algoritmos)
+4. Ambiental (Natureza)
+5. Social (Classe)
+6. Cultural (Valores)
+7. Midiática (Informação)
+8. Jurídica (Lei)
+9. Epistêmica (Verdade)
+10. Espacial (Território)
+11. Biopolítica (Vida)
+12. Temporal (Tempo)
+13. Afetiva (Emoções)
+14. Laboral (Trabalho)
+15. Infraestrutural (Energia)
+16. Religiosa (Fé)
+17. Alimentar (Comida)
+18. Datificacional (Dados)
+19. Estética (Sentidos)
+20. Geracional (Idade)
+21. Atencional (Foco)
+22. Linguística (Palavras)
+23. Burocrática (Processos)
+24. Mobilizadora (Fluxo)
+25. Reprodutiva (Cuidado)
+26. Mitológica (Inconsciente)
+27. Desejante (Desejo)
+28. Creditícia (Dívida)
+29. Lúdica (Prazer)
+30. Arquivística (Memória)
+31. Zoopolítica (Vida Não-Humana)
+32. Onírica (Sono)
+33. Tributária (Impostos)
+34. Molecular (Química)
+35. Pedagógica (Educação)
+36. Relacional (Favores)
+37. Militar (Violência)
+38. Hídrica (Água)
+39. Acústica (Som)
+40. Patológica (Doença)
+41. Excremental (Lixo)
+
+16 LENTES v3.0 (9 camadas cada: conceito, alvo, pergunta, anti-padrão,
+  técnica, inputs, outputs, interoperabilidade, estado da arte)
+
+MATRIZ: 41 × 16 = 656 PERSPECTIVAS DE INVESTIGAÇÃO POSSÍVEIS
+56 SKILLS METODOLÓGICAS
+8 NÍVEIS DE PROFUNDIDADE DO PODER
+PROTOCOLO DE QUALIDADE: 32 ITENS
+
+
+================================================================================
+FIM — TEIA Framework v10.0 (GRANULARIDADE ABSOLUTA)
+================================================================================
+Protocolo: TEIA-2026-057
+https://github.com/mouracleiton/TEIA
+
+A TEIA atingiu granularidade absoluta.
+41 dimensões. 656 perspectivas. 8 níveis de profundidade. 56 skills.
+
+O framework mapeia desde o MACRO (juros da dívida de R$ 950 bi)
+até o MICRO (cortisol elevado por ruído em periferia), passando
+pelo PSÍQUICO (desejo fabricado), BIOLÓGICO (química cerebral),
+MATERIAL (violência militar) e EXCREMENTAL (lixo despejado em
+território negro).
+
+Diante da pergunta "Por que a reforma administrativa não avança?",
+a matriz responde: não é apenas falta de votos (Institucional),
+é porque a elite usa lucro isento (Econômica) para financiar think
+tanks (Epistêmica) que convencem que impostos são ruins (Cultural),
+enquanto medica a juventude (Molecular) e exaure o trabalhador sem
+sono (Onírica) para impedi-lo de protestar — e se protestar, a PM
+mata (Militar), o que gera medo (Afetiva) que paralisa (Temporal).
+
+É o fim do reducionismo metodológico. É um instrumento DEFINITIVO
+de dissecação de poder.
+
+================================================================================

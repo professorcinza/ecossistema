@@ -1,0 +1,50 @@
+================================================================================
+TEIA v22.0 — CHEAT-SHEET DA SUITE DE PROMPTS
+================================================================================
+Matriz: 156 × 60 = 9.360 | 18 níveis | ~53 arquivos modulares
+
+PONTOS DE ENTRADA RÁPIDOS
+- SUITE_TEIA_v22.0_COMPOSER.txt          (PT completo)
+- SUITE_TEIA_v22.0_COMPOSER_INT_EN.txt   (EN completo)
+- 09_composicao/coordenador_suite.txt    (melhor para tarefas complexas)
+- 09_composicao/indice_modulos_suite.txt (lista de todos os módulos)
+
+MÓDULOS MAIS USADOS POR TIPO DE TAREFA
+- Dossiê completo → 10_especializados/gerador_dossie_teia.txt + checklist
+- 16 Problemas → 12_problemas/aplicador_16_problemas.txt + gerador_solucoes_lote
+- Debates eleitorais → 14_electoral/gerador_debates_eleitorais.txt
+- Swarm / Frentes → 14_electoral/gerador_frentes_swarm.txt + modo_swarm_coordenado
+- Peças jurídicas → 11_juridico/gerador_peticoes_representacoes.txt
+- Impacto fiscal → 13_simulacao/gerador_modelo_impacto_fiscal.txt
+- Validação → 10_especializados/validador_automatico_dossie.txt
+- Revisão de documentos antigos → 10_especializados/revisor_protocolo_teia.txt
+- Taxonomia / Níveis 16-18 → 15_taxonomia/integracao_taxonomia_academica.txt
+- Agentes IA / Hermes → 10_especializados/teia_para_agentes_ia.txt
+
+ESTRUTURA DE DIRETÓRIOS
+00_base/          → Core + teorema + EN
+01_matriz/        → Dimensões + Lentes
+02_pet/           → PET
+03_dialetico/     → Pipeline Dialético
+04_plano/         → Estratégia, Kingdon, Planos
+05_qualidade/     → Checklist 32
+06_formatos/      → Templates
+07_fontes/        → Fontes por nível
+08_regras/        → Regras epistemicas
+09_composicao/    → Coordenador + Swarm + Índice
+10_especializados/→ Geradores avançados
+11_juridico/      → Petições + Legal
+12_problemas/     → 16 problemas + soluções
+13_simulacao/     → Modelagem + Fiscal
+14_electoral/     → Debates + Swarm + Mitos
+15_taxonomia/     → Níveis 16-18 + Grafo
+legacy/           → Monolítico original
+
+REGRAS FIXAS
+- Sempre citar Dim XXX e Lente YY
+- Dims 1-108 e Lentes 1-44 congeladas
+- Terminar com "O dinheiro da reforma virá do trabalho."
+- Protocolo TEIA-2026-NNN
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

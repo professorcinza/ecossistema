@@ -1,0 +1,663 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-036
+VERSÃO: v1.0
+CATEGORIA: 12_AMBIENTAL
+TÍTULO: Captura do Poder Ambiental no Brasil
+STATUS: INTERNO — Análise técnica
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: 37,401 bytes (36.5 KB)
+HASH MD5: 647862ebcd7e4f7984288d3b54f3e1dc
+================================================================================
+
+================================================================================
+TEIA — DIMENSÃO AMBIENTAL
+DIAGNÓSTICO: CAPTURA DO PODER AMBIENTAL NO BRASIL (Julho/2026)
+================================================================================
+Quem controla recursos naturais, como capturam, e quais vetores de reforma existem.
+Fontes: INPE/PRODES, Congresso em Foco, Câmara dos Deputados, Senado Federal,
+STF, EPE/BEN, ANP, Petrobras, BNDES, IBGE, Imazon, CPT, CIMI, MPF, PF, IBAMA,
+ICMBio, Planalto, Mattos Filho, Estadão, O Globo, ((o))eco,Reporter Brasil,
+Mongabay, IPAM, Greenpeace, WWF-Brasil, INEEP.
+================================================================================
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 1. BANCADA RURALISTA — O NÚCLEO DURO DA CAPTURA                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+TAMANHO E ESTRUTURA
+- Frente Parlamentar da Agropecuária (FPA) — "bancada ruralista":
+  atualmente ~321 parlamentares (Radar Congresso em Foco, base
+  atualizada 15/07/2026). Composição aproximada: 303 deputados federais
+  + ~50 senadores (número varia conforme adesões; referência histórica
+  2023 fala em "303 deputados e 50 senadores"). É a maior bancada
+  setorial do Congresso Nacional.
+- A FPA entregou a Hugo Motta (Republicanos-PB) uma lista de pautas
+  em dezembro/2024 como condição de apoio à eleição da presidência da
+  Câmara. Motta é eleito presidente da Câmara em fevereiro/2025 e é
+  integrante histórico da FPA. Resultado: a Mesa Diretora da Câmara
+  2025/26 tem QUATRO integrantes da bancada do agro, inclusive Sérgio
+  Souza (MDB-PR), ex-presidente da FPA, como 4º secretário.
+- Capacidade de bloqueio/veto: a FPA controla ~60% dos votos da Câmara
+  e tem peso decisivo em comissões (Agricultura, CTAmazonia, Meio
+  Ambiente, CPIs).
+
+LIDERANÇA ATUAL
+- Presidente da FPA: deputado PEDRO LUPION (PP-PR, em migração para
+  Republicanos a partir de outubro/2025), presidente desde março/2023.
+  Reeleeito em dezembro/2024 após alteração estatutária (mandato agora
+  até 2027). Neto de Pedro Lupion — fundador da UDR (União Democrática
+  Ruralista) e ex-ministro da Agricultura. Lupion é uma das principais
+  vozes de oposição ao governo Lula e declarou publicamente que
+  "projeto do agro é tirar o PT do poder".
+- Vice-presidentes / diretoria: composição plural, com presença de
+  deputadas goianas e lideranças de MT, MS, RO, BA, MG. A diretoria é
+  renovada a cada legislatura com base em cotas partidárias.
+
+NOMES-CHAVE DO BLOCO (além de Lupion)
+- Senadores: Acir Gurgacz (PDT-RO), Tereza Cristina (PP-MS, ex-ministra
+  da Agricultura de Bolsonaro, relatora de pautas do agro), Carlos
+  Fávaro (PSD-MT, ex-ministro da Agricultura de Lula), Nelsinho Trad
+  (PSD-MS), Jayme Campos (União-MT), Soraya Thronicke (PL-MS),
+  Chico Rodrigues (União-RR), Telmário Mota (Pros-RR).
+- Deputados: Sérgio Souza (MDB-PR), Aluisio Mendes (Republicanos-RN),
+  Domingos Sávio (PL-MG), Cacau Leite (PP-BA), Aline Sleutjes
+  (Pros-PR), Idilvan Alencar (PSD-CE), Eduardo Costa (PT-BA),
+  Nikolas Ferreira (PL-MG, aliado em pautas anti-Macro Temporal),
+  Heitor Schmitt (Republicanos-PR), Professora Dorinha (DEM-TO),
+  Arnaldo Jardim (Cidadania-SP), Félix Mendonça Júnior (PDT-BA).
+- Bloco articulado a partidos-pivô: PP, PL, Republicanos, União,
+  PSD, MDB, Podemos, Cidadania, Pros, PDT — coalizão de centro-direita
+  e direita que cruza quase todos os partidos relevantes.
+
+FINANCIAMENTO ELEITORAL
+- O agronegócio é o maior setor privado financiador de campanha no
+  Brasil. Dados históricos consistentes mostram o seguinte padrão:
+  - Eleição 2018: mais de R$ 200 milhões de doações identificáveis do
+    agronegócio a candidatos (De Olho nos Ruralistas).
+  - Eleição 2022: apoios do agronegócio se concentraram no polo
+    Bolsonaro/PL e em candidaturas ao Senado e Câmara; estimativas de
+    agências especializadas falam em torno de R$ 230-280 milhões
+    a candidatos federais e estaduais, incluindo doações de pessoas
+    físicas ligadas a usinas, frigoríficos, produtores de grãos,
+    cooperativas, indústria de insumos (Raízen, JBS, Marfrig, BRF,
+    Amaggi, Algar, Cargill, Bunge, ADM).
+  - Eleição 2024 (municipais): Capilarização — o agronegócio financiou
+    vereadores e prefeitos em municípios da Amazônia e do Cerrado,
+    com pico em MT, PA, RO, MS, GO, BA. O "Pacote do Veneno" (Lei
+    14.785/2023) foi precedido por doações significativas a
+    relatores como Luiz Nishimori (PL-PR, relator do PL do veneno),
+    cuja família ampliou patrimônio declarado de R$ 58 mil (2006)
+    para R$ 981 mil (2018), conforme De Olho nos Ruralistas.
+- Mecanismos: doações via partidos (Fundo Eleitoral), doações de
+  pessoas físicas (limite elevado), doações de empresas banidas desde
+  2015 mas reequivalência via sócios e family offices, e Caixa 2
+  sistemático (Operação Última Milha, lodash, etc.).
+
+VOTAÇÕES-CHAVE (o que a FPA já aprovou / está aprovando)
+- LEI DO MARCO TEMPORAL (Lei 14.701/2023) — aprovada com ápice
+  em setembro/2023, sancionada com vetos por Lula; restabeleceu a tese
+  de que só tem direito à terra indígena quem ocupava em 5/10/1988.
+- PACOTE DO VENENO (Lei 14.785/2023) — nova lei de agrotóxicos
+  aprovada em dezembro/2023, sancionada com vetos, flexibiliza registro
+  e libera municípios a legislar supletivamente. Reduz participação
+  da ANVISA e IBAMA no registro.
+- PL 2903/2023 — "Lei do Marco Temporal 2": aprovado no Senado em
+  2025, sancionado por Lula com vetos parciais em outubro/2025;
+  abre terras indígenas a exploração comercial (estradas, telecom,
+  turismo), ratifica tese do marco temporal e limita demarcações.
+- PL 2.159/2021 (LEI GERAL DO LICENCIAMENTO AMBIENTAL) — aprovado
+  em 17/07/2025 na Câmara (267x116), sancionado como Lei 15.190/2025
+  em 08/08/2025 com 63 vetos. Cria licenças simplificadas, auto-
+  licenciamento, licenciamento por adesão, isenta atividades de
+  baixo impacto, institui a Câmara de Atividades e Empreendimentos
+  Estratégicos (acordo de Lula com Alcolumbre).
+- LEI DO LICENCIAMENTO DO DF (Lei 15.190/2025 — mesma numeração?):
+  estados e municípios ganham competência para legislar.
+- OUTRAS PAUTAS DA FPA PARA 2025/26: PL da Regularização Fundiária
+  (PL 2633/2023 — ruralista), PL 490 (regularização de ocupações na
+  Amazônia), reforma do Marco Legal do Saneamento, MP das Garagens
+  (MP 1.295/2025 sobre energia solar), flexibilização do Cadastro
+  Ambiental Rural (CAR), pauta anti-zoneamento ecológico-econômico.
+
+CONEXÃO COM DESMATAMENTO
+- Municípios com mais desmatamento (PRODES/Imazon — ver seção 2)
+  elegeem prefeitos e vereadores financiados pelo agronegócio e
+  pela cadeia do gado e da soja. Estudos do Imazon, ICV, IPAM e
+  MapBiomas mostram correlação direta entre expansão de pastagens
+  e votação ruralista.
+- A FPA atua sistematicamente para fragilizar IBAMA, ICMBio, Funai,
+  reduzir orçamento, sabotar nomeações técnicas e blindar
+  desmatadores "legalizados" via CAR fraudulento e regularização
+  retroativa de desmates.
+- Efeito dominó: o bloco empurra legislação que anistia desmates
+  pós-2008 (PL da Regularização Fundiária), enquanto bloqueia novas
+  unidades de conservação e demarcações de TIs.
+
+================================================================================
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 2. DESMATAMENTO E AMAZÔNIA                                                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+DADOS PRODES / INPE — SÉRIE HISTÓRICA RECENTE (AMAZÔNIA LEGAL)
+- PRODES 2022 (ago/2021-jul/2022): 11.594 km² — pico da era Bolsonaro.
+- PRODES 2023 (consolidado ago/2022-jul/2023): 9.064 km² — queda inicial.
+- PRODES 2024 (ago/2023-jul/2024): 6.288 km² — queda de 30,6%.
+- DETER 2024-25 (ago/2024-jul/2025): 4.495 km² — segunda menor da série
+  histórica. PRODES consolidado 2025 ainda em apuração.
+- PRODES 2025 (oficial): 5.796 km² (referência divulgada outubro/2025,
+  queda de 11% em 12 meses; terceira menor taxa desde 1988).
+- Conclusão: o desmatamento caiu substantivamente entre o pico Bolsonaro
+  (2022) e 2025, mas ainda está em patamar alarmante (~6 mil km²/ano,
+  muito acima da meta de 3.925 km² do PPCDAm).
+- Composição por estado (2024): Pará lidera (~33-36%), seguido por
+  Amazonas (~22%), Mato Grosso (~16%), Rondônia (~10-13%).
+
+CERRADO (PRODES)
+- Cerrado 2023 (ago/2022-jul/2023): 10.931 km² (pico histórico).
+- Cerrado 2024: 8.174 km² (queda de 25,7%).
+- Cerrado 2025 (estimativa INPE, nov/2025): 7.235 km² (queda 11,49%).
+- Cerrado desmata MAIS que Amazônia em proporção de vegetação nativa
+  remanescente e abriga a fronteira do agronegócio mais ativa (MA, PI,
+  BA, TO, GO, MG).
+
+TOP 10 MUNICÍPIOS DESMATADORES (Imazon SAD, ago/2024-jul/2025)
+Apenas 10 municípios dos 772 da Amazônia Legal = ~30% do desmatamento.
+Concentração em Pará, Amazonas e Mato Grosso. Lista típica:
+1. São Félix do Xingu (PA)
+2. Apuí (AM)
+3. Altamira (PA)
+4. Marcelândia (MT)
+5. Lábrea (AM)
+6. Colniza (MT)
+7. Peixoto de Azevedo (MT)
+8. Novo Repartimento (PA)
+9. Uruará (PA)
+10. Portel (PA) / Itaituba (PA) / Novo Aripuanã (AM) (varia conforme ano)
+Lista MMA dos Municípios Prioritários: 80 municípios (Portaria MMA
+1.717/2026), com 17 sob monitoramento intensivo.
+
+CRIME ORGANIZADO — A TRÍPLICE FRONTEIRA ECONÔMICA DA AMAZÔNIA
+A captura de recursos na Amazônia se dá por três cadeias criminais
+interconectadas:
+1. GARIMPO (ouro e cassiterita): principal vetor de invasão de TIs.
+   - Terra Indígena Yanomami: no pico (2022-2023), 20-30 mil garimpeiros
+     dentro da TI, com infraestrutura de pista, balsas, comércio,
+     mulheres, narcotráfico associado. Estimativa de movimentação de
+     2-4 toneladas de ouro/ano (~R$ 1 bilhão).
+   - Operação Catrimani II (mar/2024): PF/FAB/IBAMA destruíram 147
+     acampamentos. Operação Libertação (2024-25): PF mantém ação
+     permanente; em 2026 agência oficial diz "garimpo perdeu força".
+   - Operação Ouro Negro (08/09/2025): PF mira esquema de R$ 265 mi
+     que fraudava licenças ambientais para "esquentar" ouro ilegal.
+2. MADEIRA (mogno, ipê, cumarú): rota Madeira-Amazonas-Pará via
+   HIDROVIAS; lavagem via DOF (Documento de Origem Florestal) fraudado.
+3. NARCOTRÁFICO: Amazônia como rota de cocaína boliviana/peruana/colombiana
+   para Europa via África Ocidental e via portos de Belém/Santos.
+   Facções PCC e Família do Norte (FDN) disputam rotas fluviais.
+
+OPERAÇÕES DA PF — DESTAQUES 2024-2025
+- Operação Catrimani I e II (TI Yanomami, 2024): 147 acampamentos
+  destruídos, motores, balsas, pistas.
+- Operação Libertação (Yanomami, 2024-2025): ação permanente.
+- Operação Ouro Negro (set/2025): R$ 265 mi, 13 mandados.
+- Operação Carne Fria I/II/III (IBAMA): três fases (2017, 2024, 2025),
+  +170 autuações, +R$ 640 milhões em multas; em ago/2025, IBAMA multou
+  6 frigoríficos por comprar gado de áreas embargadas (rebanho
+  apreendido avaliado em R$ 30 mi — esquema de "lavagem de gado").
+- PF 2024 (balanço): R$ 5,6 bi de prejuízo imposto ao crime organizado
+  (alta de 70% vs 2023).
+- Maio/2026: governo anuncia pacote "Território Seguro" — R$ 209 mi
+  para combater crime organizado em Amazônia e fronteiras.
+
+PAPEL DO IBAMA
+- Orçamento 2024: ~R$ 1,5 bilhão. Lula anunciou R$ 825 milhões
+  adicionais (jun/2025) para o projeto FortFisc (fortalecimento da
+  fiscalização), com recursos do FIFA/ingressos de COP30.
+- EBRO: IBAMA perdeu ~55% dos fiscais em campo em 10 anos (2013-2023);
+  havia solicitação de recomposição de 2.311 servidores (970 para
+  campo). Concurso realizado parcialmente em 2024.
+- Autuações 1º semestre 2024: acima de R$ 2 bi em multas (todas as
+  regionais). Cobrança efetiva é ~5-10% do autuado.
+- Operação Carne Fria III (ago/2025): +R$ 640 milhões acumulados em
+  três fases; +170 autuações; frigoríficos multados.
+
+PAPEL DO ICMBio
+- Orçamento crônico: ~R$ 600-700 milhões/ano; underfunding severo.
+- Estrutura regimental reformulada em nov/2024 (Decreto 12.258).
+- CGU (set/2024) apontou "falhas e fragilidades" em fiscalização
+  após auditoria em 10 unidades de conservação (2 Flonas no RS).
+- Gerencia 336 UCs federais cobrindo ~75 milhões de ha — sem servidores
+  suficientes em ~40% delas.
+
+================================================================================
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 3. LICENCIAMENTO AMBIENTAL                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+LEI GERAL DO LICENCIAMENTO AMBIENTAL — STATUS
+- PL 2.159/2021 — aprovado na Câmara em 17/07/2025 (267x116),
+  com 29 emendas do Senado incorporadas. Sancionado pelo presidente
+  Lula em 08/08/2025 como LEI 15.190/2025, com 63 vetos.
+- É a primeira Lei Geral de Licenciamento Ambiental do Brasil —
+  desde 1981 (Lei 6.938, PNMA) o instrumento existia mas não tinha
+  lei específica. Viges desde agosto/2025.
+
+O QUE MUDA COM A LEI 15.190/2025
+- Padronização nacional de modalidades de licenciamento (LP, LI, LO,
+  LO simplificada, licenciamento por adesão, autorização ambiental).
+- AUTO-LICENCIAMENTO para atividades de "baixo impacto" (lista a ser
+  regulamentada por ato do CONAMA).
+- Licenciamento por ADESÃO: empreendedor adere a um rol pré-aprovado.
+- Elimina licenciamento em diversas modalidades para ampliação de
+  atividades pré-existentes.
+- Cria CÂMARA DE ATIVIDADES E EMPREENDIMENTOS ESTRATÉGICOS — fruto
+  de acordo de Lula com presidente do Senado Rodrigo Pacheco e o
+  senador David Alcolumbre (União-AP) para evitar derrubada dos vetos.
+  Estrutura colegiada que decide sobre licenciamento de projetos
+  estratégicos (infraestrutura, mineração, energia).
+- Substitui EIA-RIMA por Estudo Ambiental simplificado em muitos casos.
+- Limita poder de órgãos estaduais e municipais; concentra padrões
+  no CONAMA e no IBAMA.
+
+VETOS DE LULA (63 pontos — os principais)
+- Veto à auto-licenciamento irrestrito.
+- Veto a isenção de licenciamento para atividades em APPs (Áreas
+  de Preservação Permanente).
+- Veto a dispositivos que avocavam competência ao Conima por medida
+  provisória.
+- Veto a exclusão de comunidades tradicionais do processo consultivo.
+- Vetos derrubáveis — Congresso ameaçava derrubar em setembro/2025;
+  Lula articulou para preservar maioria.
+
+QUEM GANHA
+- AGRONEGÓCIO (ampliação de área, regularização de pastagens,
+  silvicultura).
+- MINERAÇÃO e PRÉ-SAL (empreendimentos "estratégicos").
+- INFRAESTRUTURA (ferrovias, hidrovias, linhas de transmissão,
+  portos).
+- SETOR IMOBILIÁRIO e LOTEADORA — ampliação sem licenciamento.
+- PREFEITURAS (competência municipal ampliada).
+
+QUEM PERDE
+- POVOS INDÍGENAS e COMUNIDADES TRADICIONAIS (menos consulta,
+  menos participação, terceiros podem licenciar dentro de TIs em
+  alguns casos).
+- BIOMAS FRÁGEIS — Cerrado, Caatinga, Pantanal, Amazônia.
+- MINISTÉRIO PÚBLICO (perde legitimidade para questionar).
+- ORÇAMENTO do IBAMA/ICMBio (perdem arrecadação de taxas).
+- SOCIEDADE CIVIL (perde instrumento de pressão via EIA-RIMA público).
+
+CONEXÃO COM PACTO ECOLÓGICO DA AMAZÔNIA / COP30
+- COP30 (Belém, nov/2025) foi o gatilho do acordo Lula-Alcolumbre:
+  o governo não queria chegar à conferência com a Lei derrubada.
+- O Pacto Ecológico da Amazônia ( articulação de governadores dos
+  nove estados amazônicos) defendia fortalecimento do licenciamento
+  e regulação de atividades em zonas sensíveis; acabou parcialmente
+  fragilizado pela Lei 15.190.
+- Crítica de ONGs (Instituto Ethos, Sumaúma, IPAM, WWF, Greenpeace):
+  texto aprovado é "maior retrocesso ambiental desde a redemocratização"
+  e abre "porta para a corrupção" (Instituto Ethos).
+
+================================================================================
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 4. ENERGIA E RECURSOS                                                       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+MATRIZ ENERGÉTICA BRASILEIRA — BEN 2025 (EPE, dados 2024)
+- OFERTA INTERNA DE ENERGIA (matriz energética total):
+  ~47,8% renováveis (recorde). Uma das mais limpas do mundo.
+  Composição: petróleo e derivados (~36-38%), cana-de-açúcar
+  (etanol/bagaço — ~11%), hidráulica (~12%), gás natural (~8-9%),
+  lenha/carvão vegetal (~5%), eólica (~2,5%), solar (~1,5%), nuclear
+  (~1,3%), outras (~10-15%).
+- MATRIZ ELÉTRICA: 88,2% renovável em 2024 (recorde). Detalhe:
+  - HIDRÁULICA: ~56% (queda de 1% vs 2023, por força de seca no NE).
+  - EÓLICA: ~14% (+12,4% em capacidade vs 2023).
+  - SOLAR FOTOVOLTAICA: ~10% centralizada (+39,6% vs 2023); ~5-7%
+    adicional de geração distribuída.
+  - TÉRMICA (gás, carvão, óleo): ~6-8%.
+  - NUCLEAR (Angra 1, 2 e futura 3): ~2%.
+  - IMPORTAÇÃO (Itaipu, importações): ~3-5%.
+- Capacidade instalada total (ONS/2024): ~195 GW, com expansão
+  acelerada de solar e eólica — setor privado responde por >70% da
+  expansão via leilões.
+
+PRÉ-SAL E ROYALTIES
+- Produção de petróleo (2024): ~3,8 milhões de barris/dia; Pré-sal
+  responde por ~80%.
+- Royalties + participações especiais distribuídos pela ANP (2023):
+  ~R$ 37,8 bilhões; em 2024 estima-se ~R$ 40-42 bilhões (alta do
+  Brent). Composição: 34,5% municípios, 29,5% União, 27,6% estados,
+  restante para Fundo Especial.
+- Concentração: Rio de Janeiro capta ~60-65% do total estadual;
+  municípios de Campos, Macaé, Rio das Ostras, Niterói concentram
+  ~70% do municipal. Causa captura política local (síndrome
+  holandesa subnacional, ciclos de boom-bust).
+- Lei 12.351/2010 + Lei 13.294/2016 (royalties da partilha) e
+  EC 99/2019 definem partilha: 75% para União, 25% para estados e
+  municípios confrontantes nos contratos de partilha.
+- Fundo Social do Pré-Sal: ~28,75% da União é destinada a educação
+  (50%), saúde (25%) e cultura (25%) — frequentemente contingenciado.
+
+TRANSIÇÃO ENERGÉTICA — POTENCIAL BRASILEIRO
+- HIDROGÊNIO VERDE (H2V):
+  - Polo de Pecém (Ceará): primeiro hidroeletrólise industrial do
+    Brasil, investimento de R$ 1,5-2 bilhão, parceria com Hydrogen
+    (Austrália) e Lincoln (EUA). Primeira fábrica mundial a partir
+    de etanol (beverage fuel) — em construção em São Paulo (RPBC).
+  - Polo do Ceará: energia eólica offshore (potencial 700 GW na
+    costa brasileira), geração para exportação de H2V à Europa.
+  - Polo de Bahia (CIMATEC, inaugurado 2024): planta piloto R$ 40 mi.
+  - Polo de Pernambuco (Suape): projetos em estudo.
+  - Marco Legal do H2V (Lei 14.993/2024 sancionada em agosto/2024):
+    PIH2V — Programa Nacional da Indústria do Hidrogênio.
+  - Demanda futura: SENAI estima necessidade de ~3 mil técnicos/ano.
+- SOLAR:
+  - Brasil ultrapassou 35 GW de potência solar operacional em 2024
+    (ABSOLAR); geração distribuída (>2,5 mi de sistemas) soma ~25 GW.
+  - Empregos: setor solar emprega ~950 mil pessoas (2024).
+- EÓLICA OFFSHORE: potencial estimado em 700 GW; primeiros projetos
+  licenciados em 2024-25 (Maranhão, Rio Grande do Norte, Ceará).
+- BIOCOMBUSTÍVEIS: RenovaBio, Combustível do Futuro (Lei 14.993/2024),
+  aumento de mistura de biodiesel (B15 em 2024, caminho a B20).
+
+PETROBRAS — ESTRATÉGIA DE TRANSIÇÃO
+- Plano de Negócios 2025-2029 (PN 2025-29), lançado 21/11/2024:
+  - Investimento total: US$ 111 bilhões (+9% vs PE 2024-28).
+  - E&P (Exploração e Produção): US$ 77 bi (~70% do total) — foco
+    no pré-sal; meta de 80% da produção a partir do pré-sal.
+  - Refino, Transporte e Comercialização: US$ 20 bi.
+  - Gás e Baixo Carbono: US$ 11 bi (~10%).
+  - Corporativo: US$ 3 bi.
+- Plano Estratégico 2050 (PE 2050): pela primeira vez assume
+  compromisso de "liderança na transição energética justa".
+- Crítica de ONGs e INEEP: Petrobras continua priorizando petróleo;
+  apenas 10% do orçamento para renováveis; não há meta de pico de
+  produção; exploração de novas fronteiras (Foz do Amazonas, margem
+  equatorial) em estudo.
+- Voltou a integrar índice de sustentabilidade B3 (ISE) em 2024.
+
+BNDES — QUEM FINANCIA O QUE
+- BNDES FINANCIAMENTO A COMBUSTÍVEIS FÓSSEIS (2023-2025):
+  - Petrobras: aprovado financiamento de ~R$ 5 bilhões para projetos
+    de E&P e refino (incl. TAG, gasodutos).
+  - Pré-sal (offshore): BNDES tem sido financiador recorrente de
+    FPSOs e plataformas.
+  - Setor de gás: financiamento a gasodutos do NOAR, Gás de Manaus.
+- BNDES EM RENOVÁVEIS:
+  - Financiou ~R$ 15 bi em solar e eólica entre 2020-2024.
+  - H2V: anúncios de linhas de R$ 5-10 bi para Pecém, Suape.
+  - Programa BNDES Verde (2024): R$ 1 bi para economia de baixo
+    carbono, mobilidade elétrica, biomas.
+  - Programa Floresta Sustentável da Amazônia (2024).
+- CRÍTICA (ONGs 350.org, Climainfo): BNDES ainda tem 60-70% da
+  carteira de energia em fósseis (Petrobras, gás, termelétricas).
+- BNDESPar: detém participação acionária em empresas fósseis.
+- Manifestação junho/2024 (COP30): protestos pedem fim do
+  financiamento a petróleo, gás e carvão.
+
+================================================================================
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 5. POVOS INDÍGENAS E TERRAS                                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+MARCO TEMPORAL — TIMELINE COMPLETO
+- Tese do Marco Temporal: só tem direito a terra indígena o povo que
+  comprovar ocupação em 5 de outubro de 1988 (promulgação da CF).
+- STF 2009 (Petição 3.708, RE 1.017.365, Tema 1.031): julgou em
+  16/02/2023 contrário ao marco temporal, reconhecendo a tese da
+  "ocupação tradicional imemorial".
+- Congresso respondeu com a LEI 14.701/2023 (sancionada em 14/09/2023
+  por Lula com vetos), restabelecendo o marco temporal por legislação.
+- STF retomou julgamento em 10/12/2025 — 4 ADIs sobre a Lei 14.701/2023.
+  Em 17/12/2025 formou-se MAIORIA pela INCONSTITITUCIONALIDADE do
+  trecho do marco temporal (votos de Luís Roberto Barroso, Cármen
+  Lúcia, Edson Fachin, Gilmar Mendes; Cristina Lewandowski e Toffoli
+  divergiram parcialmente).
+- Publicado íntegra do julgamento em abril/2026.
+- IMPASSE PERMANECE: STF diz inconstitucional; Lei 14.701/2023 segue
+  vigendo enquanto Congresso não revê. Ação dos ruralistas é manter a
+  lei e escalonar novas ADIs.
+- PL 2903/2023 ("Lei do Marco Temporal 2"): aprovado no Senado em
+  2025, sancionado por Lula com vetos parciais em outubro/2025; abre
+  TIs a exploração comercial de estradas, telecomunicações, turismo,
+  agropecuária em terras já "homologadas".
+
+DEMARCAÇÃO DE TERRAS INDÍGENAS
+- Brasil tem 734 terras indígenas reconhecidas (FUNAI/2025).
+- Distribuição por estágio:
+  - Homologadas/regulamentadas: ~487
+  - Declaradas (portaria MJ): ~120
+  - Em identificação/delimitação: ~70-80
+  - Paradas em razão do Marco Temporal (Lei 14.701/23): 304 TIs em
+    "fase anterior à regularização" — reconhecido oficialmente pela
+    Funai (Brasil de Fato, 28/07/2025).
+- Governo Lula (2023-2026): homologou 10 novas TIs até abril/2026
+  (Anaconda do Rio Formoso, Kariri-Xocó, Itãnuri Pupykary em AM,
+  Maraóas em AM, etc.); ritmo lento — meta era 30+ no quadriênio.
+- Maioria dos processos está parada no Ministério da Justiça
+  (Prensa Mercosur, abr/2026).
+
+FUNAI — ORÇAMENTO E CAPTURA
+- Orçamento Funai 2024: ~R$ 550 milhões. Crônico underfunding.
+- Reestruturação 2025: criada Diretoria de Demarcação de Terras
+  Indígenas (DIDEM) para acelerar processos.
+- Concurso público 2024-2025: nomeação de servidores, mas deficit
+  estrutural permanece (~1.800 servidores ativos para 734 TIs).
+- CAPTURA: Funai historicamente pressionada por nomeações
+  políticas de presidente (atual: Joênia Wapichana, primeira
+  indígena a comandar o órgão, desde janeiro/2023).
+
+CONFLITOS NO CAMPO — CPT (Relatório Conflitos no Campo Brasil)
+- 2024 (relatório de 39ª edição, lançado 23/04/2025):
+  - 2.207 conflitos no campo (4ª vez em 5 anos acima de 2 mil).
+  - Maior patamar da série histórica (desde 1985).
+  - Assassinatos: 25 em 2024 (queda vs 2023 que teve 27).
+  - Ameaças de morte e tentativas de homicídio subiram.
+  - 1.424 famílias despejadas / desalojadas.
+- 2025 (preliminar CEDOC/CPT): 1.593 ocorrências (-28% vs 2024).
+- Causa principal: disputa territorial em zonas de expansão
+  agrícola, garimpo, hidrelétricas e madeireiras.
+- Estados críticos: PA, MT, MS, MA, BA.
+- Casos emblemáticos recentes:_TI Yanomami (garimpo e malária),
+  Guaraní-Kaiowá (MS), Pataxó (BA, conflito em 2022), Maxakali (MG).
+
+================================================================================
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 6. VETORES DE REFORMA — O QUE EXISTE PARA DESCAPTURAR                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+A) ECONOMIA VERDE COMO FONTE DE EMPREGO
+- Setor de energias renováveis no Brasil emprega ~2,5 milhões de
+  pessoas (Observatório Ocupações Renováveis, 2024):
+  - Etanol e cana: ~1 mi de empregos diretos e indiretos.
+  - Solar fotovoltaica: ~950 mil empregos (maior empregador do setor
+    renovável, crescimento de 100% em 4 anos).
+  - Eólica: ~200 mil.
+  - Florestas plantadas (eucalipto/pinus): ~500 mil.
+- Bioeconomia da Amazônia: potencial de geração de 1 milhão de
+  empregos em 10 anos em manejo florestal, castanha, açaí, óleos
+  essenciais, cosméticos, pescados — atualmente ~150 mil empregos
+  formais. Estudo IPAM/WRI estima PIB florestal amazônico em
+  R$ 300-500 bi/ano se desenvolvido (vs R$ 50 bi atual).
+- Mercado de carbono: Brasil tem potencial de captação de
+  US$ 100 bilhões/ano em créditos de carbono se SBFV (Sistema
+  Brasileiro de Mercado de Carbono, Lei 14.994/2024) for regulado.
+- Empregos verdes definidos pela OIT: agricultura regenerativa,
+  reciclagem, eficiência energética, transporte limpo, manejo
+  florestal, restauração de APPs/RLs.
+
+B) PAGAMENTO POR SERVIÇOS AMBIENTAIS (PSA)
+- Lei 14.119/2021 (PNPSA — Política Nacional de Pagamento por
+  Serviços Ambientais): institui o PSA como instrumento econômico.
+  Prioriza comunidades tradicionais, povos indígenas, agricultores
+  familiares.
+- Cadastro Nacional de PSA: artigo vetado por Bolsonaro, mantido
+  pelo Congresso (DOU 26/03/2021).
+- Programa Floresta+ (MMA): R$ 565 mi doado pelo GREEN (Reino Unido)
+  e parceiros para pagamento a famílias que conservam floresta
+  amazônica. 8 mil famílias atendidas até 2024 (~R$ 2.000 a R$ 4.000
+  cada, pagamento anual).
+- Plano Brasil Maior/ABC: PSA no Plano ABC (Agricultura de Baixo
+  Carbono), com Linhas de crédito do Pronampg (R$ 2 bi/ano).
+- PROÁGUA, Produse, Crédito Fundiário: linhas existentes.
+- Projeto DEGRAUDES (BNDES, IBIO): restauração de APPs e RLs em
+  escala, com PSA via mercado voluntário de carbono.
+- Mercado de carbono nacional regulado (Lei 14.994/2024): ainda em
+  fase regulatória pela CMSE (Comissão de Mercado de Carbono).
+
+C) FISCALIZAÇÃO COM TECNOLOGIA
+- PRODES (INPE): monitoramento anual por satélite desde 1988.
+- DETER (INPE): alertas diários desde 2004.
+- DETER-B: maior resolução desde 2016; capacita identificação
+  em sub-coberturas.
+- MAPBIOMAS: rede colaborativa de ONGs/universidades, mapeamento
+  anual de cobertura do solo (Landsat, Sentinel) com IA.
+- SIRAD / Geocate / PrevisIA (Imazon): IA que prevê desmatamento
+  futuro com base em padrões — identifica ~8.959 km² sob risco
+  em 2024.
+- SIRCOF / Operação Olho Vivo: IBAMA usa drones, câmeras
+  termais, aeronaves não tripuladas; 5 drones operacionais em
+  Rondônia, Pará e Amazonas.
+- COBAL (Centro de Operações da Amazônia, MMA): hub de inteligência
+  integrando INPE, IBAMA, ICMBio, PF, Forças Armadas.
+- DETEX ICMBio: monitoramento remoto de UCs federais.
+- IA para priorização: algoritmos da Microsoft AI for Earth e
+  Google Earth Engine em parceria com Imazon/WRI.
+- DESAFIO: tecnologia é abundante, mas a APLICAÇÃO depende de
+  fiscais em campo — sem concurso, sem embargo efetivo.
+
+D) TRANSPARÊNCIA E RASTREABILIDADE EM CADEIAS DE SUPRIMENTOS
+- Selo Verde / CAR (Cadastro Ambiental Rural): 6,2 milhões de
+  imóveis rurais cadastrados (2024); estimativa de 30-50% com
+  inconsistências.
+- TAC da Carne (MPF, desde 2009): frigoríficos na Amazônia assinam
+  termo para não comprar gado de áreas embargadas. Em 2016, apenas
+  35 dos 98 frigoríficos tinham aderido; hoje ~80%. Cumprimento
+  parcial — Operação Carne Fria (IBAMA, 2025) flagrou lavagem de
+  gado via "fazendas-laranja".
+- MORATÓRIA DA SOJA (2006): acordo setorial que impede
+  comercialização de soja de áreas desmatadas pós-2008 na Amazônia.
+  RESULTADO: desmatamento por soja caiu 80% na Amazônia. RISCO:
+  Cargill, ADM e Bunge ANUNCIARAM SAÍDA da moratória em
+  fevereiro/2026 — pode elevar desmatamento por soja em ~30%
+  (Mongabay, fev/2026).
+- EUDR (Regulamento de Desmatamento Zero da União Europeia):
+  exige rastreabilidade para produtos importados (gado, soja,
+  café, cacau, madeira, óleo de palma, borracha). Vigência
+  adiada para dezembro/2025. Brasil precisa de "RG do boi"
+  (rastreabilidade individual) para exportar à UE.
+- LEI 13.123/2015 (Marco Legal da Biodiversidade): gestão do
+  patrimônio genético e repartição de benefícios.
+- TAC do Cacau, TAC do Café, TAC da Madeira:协议 setoriais em
+  diferentes estágios.
+- DESAFIO: dados públicos existem (SICAR, DOF, SNIR, INPE), mas
+  não são interoperáveis e muitas vezes não são auditáveis.
+- Aliança Regenerativa (cooperativas e empresas): JBS, Marfrig,
+  Minerva sob pressão por metas de cadeia livre de desmatamento
+  até 2025-2030.
+
+E) PACTO ECOLÓGICO DA AMAZÔNIA / COP30
+- Pacto dos governadores dos 9 estados amazônicos (AM, PA, AP, RR,
+  RO, AC, MT, TO, MA) lançado em 2023: metas de desmatamento
+  zero até 2030, economia circular, bioeconomia.
+- COP30 em Belém (nov/2025): "COP da Amazônia" — busca transformar
+  ambição em ação, com foco em:
+  - Mecanismo de financiamento (Fundo Amazônia ampliado).
+  - Mercados de carbono pós-Artigo 6.
+  - REDD+ jurisdicional.
+  - Plano Nacional de Bioeconomia (lançado 2024).
+- Resultado COP30: Declaração de Belém — mais tímida que o
+  esperado, mas institui "Parceria de Belém" para florestas
+  tropicais (Brasil, Indonésia, RDC, Colômbia, etc.).
+- Desafio: o Brasil ambiciona receber US$ 20-30 bi/ano em
+  financiamento climático; entregue em COP30 foi ~US$ 5 bi
+  (contraditório com promessas).
+
+F) OUTROS VETORES
+- STF — decisões sistemáticas contra retrocessos (marco temporal,
+  pacote do veneno, lei do licenciamento):judicialização contínua.
+- MPF — Procuradorias da República em todos os estados com atuação
+  ativa (Ações Civis Públicas, TACs).
+- SOCIEDADE CIVIL — Observatório do Clima, Climate Observatory,
+  Rede Brasil, FBOMS, Coiab, Apib, CIMI, CPT, ISA, Imazon, IPAM,
+  WWF, Greenpeace, TNC.
+- MERCADO — consumidores europeus exigem rastreabilidade;
+  investidores institucionais (BlackRock, Norges Bank) pressionam
+  empresas brasileiras.
+- IGREJA — CNBB, CPT, REPAM (Rede Eclesial Pan-Amazônica).
+- ACADEMIA — INPA, INPA, Museu Paraense Emílio Goeldi, USP,
+  Unicamp, UFMG, UFAM.
+- COOPERATIVISMO — cooperativas de açaí, castanha, óleos essenciais
+  na Amazônia.
+- JORNALISMO INVESTIGATIVO — ((o))eco, Sumaúma, Mongabay,
+  Portal Amazônia, Amazonia Real, Repórter Brasil.
+
+================================================================================
+SÍNTESE — A ARQUITETURA DA CAPTURA AMBIENTAL
+================================================================================
+
+A captura do poder ambiental no Brasil se dá por 4 mecanismos principais:
+
+1. CAPTURA LEGISLATIVA — bancada ruralista (321 parlamentares, ~60%
+   da Câmara) converte interesse privado em lei. Em 18 meses
+   (2023-2025) aprovaram: Marco Temporal, Pacote do Veneno, PL 2903,
+   Lei Geral do Licenciamento (Lei 15.190/25). Cada lei é um retrocesso.
+
+2. CAPTURA ORÇAMENTÁRIA — orçamento crônico baixo para IBAMA,
+   ICMBio, Funai, INPE. IBAMA perdeu 55% dos fiscais em 10 anos.
+   ICMBio com déficit de servidores em 40% das UCs. Funai com
+   orçamento de R$ 550 mi/ano para 734 TIs.
+
+3. CAPTURA EXECUTIVA — indicação política de dirigentes em órgãos
+   ambientais e de regulação; retrocessos históricos (Ricardo Salles
+   em Bolsonaro) e rearticulação em gestões estaduais.
+
+4. CAPTURA ECONÔMICA — lavagem de gado, ouro e madeira; cadeias
+   globais de suprimento sem rastreabilidade; BNDES financiando
+   fósseis; Cargill/ADM/Bunge abandonando Moratória da Soja.
+
+VETORES DE RESISTÊNCIA EFICAZES (alto potencial de descaptura):
+- STF (marco temporal julgado inconstitucional em 12/2025).
+- Operações da PF/IBAMA com êxito localizado (Yanomami, Carne Fria).
+- Moratória da Soja (mesmo ameaçada) — modelo comprovado.
+- PSA (Lei 14.119/21) e Floresta+.
+- Mercado de carbono regulado (Lei 14.994/24).
+- EUDR europeu — força rastreabilidade por demanda externa.
+- Bioeconomia amazônica com potencial de 1 milhão de empregos.
+- Tecnologia de monitoramento (PRODES, MapBiomas, IA).
+
+VETORES FRÁGEIS:
+- Funai sob orientaçãeste ruralista.
+- Congresso blindando desmatadores via regularização fundiária.
+- BNDES ainda majoritariamente em fósseis.
+- Petrobras com apenas 10% do CAPEX em renováveis.
+
+================================================================================
+FONTES PRINCIPAIS CONSULTADAS
+================================================================================
+- Radar Congresso em Foco (base atualizada 15/07/2026)
+- Congresso em Foco, Veja, Globo Rural, Band Agro
+- INPE — PRODES Amazônia e Cerrado, DETER-B
+- Imazon — SAD e PrevisIA
+- EPE — Balanço Energético Nacional 2024 e 2025
+- ANP — Distribuição de royalties
+- Petrobras — Plano de Negócios 2025-2029 (21/11/2024)
+- INEEP — Análise do PN Petrobras 2025-2029
+- Senado Federal e Câmara dos Deputados (tramitação PL 2159/21,
+  PL 2903/23, PL 3729/04)
+- STF — ADIs 7607, 7582, 7544, 7354 (Lei 14.701/2023)
+- Planalto — Lei 14.701/2023, Lei 14.785/2023, Lei 15.190/2025,
+  Lei 14.119/2021, Lei 14.994/2024
+- CPT — Conflitos no Campo Brasil 2024 (39ª edição)
+- CIMI, FUNAI
+- Mattos Filho, Instituto Ethos, IPAM, WWF, Greenpeace, Sumaúma
+- Reporter Brasil, Mongabay, ((o))eco, Portal Amazônia, Estadão
+- PF — Balanço 2024 e operações Yanomami
+- IBAMA — Operações Carne Fria e FortFisc
+- Ministério do Meio Ambiente (MMA)
+- 350.org, Climainfo, INEEP
+================================================================================
+FIM DO DIAGNÓSTICO — TEIA DIMENSÃO AMBIENTAL — JULHO/2026
+================================================================================

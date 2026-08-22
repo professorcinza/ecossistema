@@ -1,0 +1,42 @@
+================================================================================
+PRIORIZAÇÃO DE FRENTES E SEQUÊNCIA DE ATAQUE — TEIA v22.0
+================================================================================
+
+Frentes sugeridas (agrupamentos estratégicos):
+
+FRENTE ECONÔMICA (P1-P5 + P7)
+- P1 Juros da Dívida (nó central)
+- P2 Spread Bancário
+- P3 Custo Brasil
+- P4 Conformidade Tributária
+- P5 Concentração Bancária
+- P7 Captura do Congresso
+
+FRENTE SOCIAL (P8, P12, P13, P14, P15)
+- P8 SUS
+- P12 Encarceramento/Polícia
+- P13 Fome
+- P14 Saneamento
+- P15 Negativados
+
+FRENTE TERRITORIAL / AMBIENTAL (P6, P9)
+- P6 Orçamento secreto / emendas
+- P9 Desmatamento
+
+FRENTE DIGITAL / COGNITIVA (P10, P11)
+- P10 Big Tech
+- P11 Desinformação
+
+FRENTE INSTITUCIONAL (P16 + sistema eleitoral)
+- P16 PEC Blindagem
+- Captura do Congresso / sistema eleitoral
+
+Quando o usuário pedir "priorização" ou "plano de frentes":
+1. Analise as interdependências (P1 afeta quase tudo).
+2. Recomende ordem de ataque (normalmente P1 primeiro por efeito cascata).
+3. Para cada frente, sugira 1-3 reformas de alto impacto e baixo custo político relativo.
+4. Estime janela de tempo (D+30, D+90, D+180...).
+5. Identifique atores-alvo prioritários por frente (usar SOPBRA).
+
+Saída: tabela ou mapa de frentes com sequenciamento recomendado + instrumentos executivos.
+================================================================================

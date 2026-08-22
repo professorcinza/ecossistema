@@ -1,0 +1,707 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-002
+VERSÃO: v1.0
+CATEGORIA: 01_ANALISE
+TÍTULO: Refutação Técnico-Econômica do V2.0
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 40,556 bytes (39.6 KB)
+HASH MD5: fe49dbab76c4b09a20a9bbae02344597
+HASH SHA-256: 9bc55e3c37108469b6b771a2c82e02ef8f111c94fd8857d872287789537cc59b
+================================================================================
+
+================================================================================
+REFUTAÇÃO TÉCNICO-ECONÔMICA AO DOCUMENTO
+"BRASIL: DIAGNÓSTICO, ESTRATÉGIA E PLANO DE EXECUÇÃO V2.0"
+================================================================================
+Autor da refutação: economista crítico, posição hostil ao framework.
+Data: julho/2026.
+Caráter: peça de oposição técnica. Sem elogios de cortesia.
+================================================================================
+
+SUMÁRIO EXECUTIVO DA REFUTAÇÃO
+----------------------------------------------------------------------------------------------------------------
+O documento V2.0 combina três vícios que o tornam, enquanto proposta de
+política econômica, um artefato internamente incoerente e politicamente
+ingênuo:
+
+ (i)  Contradição de primeiro princípio: defende "independência ferrenha do BC"
+      e, no mesmo fôlego, institui um "Parecer de Impacto Orçamentário" do
+      Copom que quantifica o custo fiscal de cada decisão de taxa. Isso é,
+      literalmente, a definição operacional de dominância fiscal disfarçada
+      de transparência. Sargent-Wallace (1981) prevê exatamente este caso.
+
+ (ii) Erro de decomposição: trata o spread bancário brasileiro como markup
+      oligopolístico puro, redutível por competição. A decomposição oficial
+      do BCB mostra que ~60% do spread é custo estrutural (inadimplência +
+      tributação + despesas administrativas + custo de capital regulatório),
+      não margem de mercado. Competição perfeita não produz spread de um
+      dígito no Brasil — produz, no teto teórico, algo em torno de 10-12 p.p.
+
+ (iii) Falha de teoria de mudança: salta de diagnóstico para "Think Tank +
+       100 deputados + R$ 17,5 milhões em 3 anos" sem especificar o mecanismo
+       causal que converteria opinião técnica em lei aprovada contra o
+       interesse do sistema financeiro organizado. É institucionalismo
+       voluntarista, não estratégia política.
+
+Esta refutação ataca os seis pontos fracos do documento, em ordem crescente
+de gravidade.
+
+================================================================================
+PONTO 1 — A CONTRADIÇÃO DA INDEPENDÊNCIA DO BC:
+        O "PARECER DE IMPACTO ORÇAMENTÁRIO" DO COPOM É DOMINÂNCIA FISCAL
+        DISFARÇADA
+================================================================================
+
+1.1. O que o documento propõe literalmente
+----------------------------------------------------------------------------------------------------------------
+O Vetor 1 pede simultaneamente:
+
+ (a) "defesa ferrenha da independência formal do BC" — ou seja, o Copom decide
+     a Selic exclusivamente com base no mandato de estabilidade de preços;
+ (b) que o Copom emita um "Parecer de Impacto Orçamentário (PIO)" quantificando,
+     a cada reunião, quanto cada 25 bps de Selic custam ao Tesouro em juros da
+     Dívida Pública Federal (DPF), hoje majoritariamente pós-fixada.
+
+Estas duas propostas são logicamente incompatíveis. Não se trata de uma
+tensão secundária; trata-se de uma contradição de regime.
+
+1.2. Teoria: Sargent-Wallace (1981) e os dois regimes
+----------------------------------------------------------------------------------------------------------------
+Sargent e Wallace, em "Some Unpleasant Monetarist Arithmetic" (FRB Minneapolis
+Quarterly Review, 1981), formalizam a distinção entre:
+
+ - Regime de dominância monetária (MD): a autoridade monetária é livre para
+   fixar a taxa de juros de curto prazo sem constraint fiscal. A autoridade
+   fiscal ajusta seu primário para honrar a dívida ao juro dado. A inflação
+   de longo prazo é determinada pelo BC. Este é o regime que torna a
+   "independência do BC" operacionalmente significativa.
+
+ - Regime de dominância fiscal (FD): a autoridade fiscal fixa seu superávit
+   primário independentemente do estoque de dívida. Cabendo ao BC rolar a
+   dívida ao custo que o mercado aceitar. Neste regime, políticas monetárias
+   "contracionistas" hoje — subir Selic — aumentam o custo de rolagem da DPF,
+   elevam o estoque nominal de dívida e, via equivalência ricardiana
+   intertemporal, geram expectativa de inflação futura MAIOR, não menor.
+   Daí o título: "tighter money now can mean higher inflation eventually".
+
+A LIÇÃO CENTRAL de Sargent-Wallace é que independência do BC só existe
+onde o Tesouro tem disciplina fiscal prévia e credenciada. Onde o BC precisa
+"atender" à dinâmica da dívida, ele não é independente, ainda que a lei
+diga o contrário. A independência formal sem independência substantiva é
+decoração.
+
+1.3. Por que o PIO institucionaliza a dominância fiscal
+----------------------------------------------------------------------------------------------------------------
+O Parecer de Impacto Orçamentário, ao publicar sistematicamente o custo
+fiscal de cada decisão de Copom, cria três efeitos perversos, todos
+documentados na literatura sobre imposição constitucional de metas fiscais
+e regras de ouro (Blanchard, 1984; Woodford, 2001; Leeper, 1991):
+
+ (1) ESTABELECE UM HOOK POLÍTICO para pressão fiscal sobre o Copom. Uma vez
+     que o PIO é público, qualquer deputado, ministro ou banco pode alegar
+     que "a decisão técnica do Copom custou X bilhões ao Orçamento da União
+     neste mês". Isso transforma o debate de política monetária em debate de
+     orçamento — exatamente a fronteira que a Lei Complementar 173/2020 e a
+     Lei 14.973/2024 (independência formal do BC) buscaram isolar.
+
+ (2) INSTITUCIONALIZA UM PRÊMIO DE RISCO SOBERANO MAIOR. Investidores em
+     LFT e NTN-B passam a precificar explicitamente a hipótese de que o
+     Copom possa ser induzido a cortar Selic abaixo do nível consistente
+     com a meta de inflação por pressão orçamentária. O prêmio de risco
+     embutido na curva sobe. O efeito líquido é o oposto do pretendido:
+     custo de rolagem MAIOR, não menor.
+
+ (3) MINA A CREDIBILIDADE DA META DE INFLAÇÃO. A literatura sobre regime
+     fiscal dominante (Leeper, 1991; Cochrane, 2022, "The Fiscal Theory of
+     the Price Level") mostra que o regime cambial/inflacionário de longo
+     prazo é determinado pela consistência intertemporal do orçamento
+     governamental, não pelo discurso do BC. Ao tornar o Copom corresponsável
+     pela narrativa orçamentária, o PIO dissipa a assimetria de
+     responsabilidades que sustenta o regime de metas de inflação. O mercado
+     passa a ler cada ata do Copom como meio comunicado fiscal.
+
+1.4. O exemplo empírico brasileiro
+----------------------------------------------------------------------------------------------------------------
+A própria história recente do Brasil comprova o mecanismo. Entre 2014 e 2016,
+sob dominância fiscal manifesta, o Copom elevou a Selic a 14,25% e ainda assim
+a inflação subiu, a curva de juros inverteu persistentemente e o prêmio de
+risco soberano (CDS 5y) ultrapassou 500 bps. A política monetária contracionista
+NÃO baixou a inflação porque o Tesouro não gerava primário suficiente — exatamente
+o cenário previsto por Sargent-Wallace.
+
+Instituir o PIO é reabrir, por via administrativa, o canal que a LC 173/2020
+fechou. É o erro oposto ao da "carta ao ministro" (2017): em vez de o BC
+implorar ao Tesouro por primário, agora o BC acusa o próprio impacto fiscal
+de sua política e convida o Tesouro a intervir. Solução pior que o problema.
+
+1.5. Síntese do ataque
+----------------------------------------------------------------------------------------------------------------
+O Vetor 1 é internamente contraditório. Ou o Copom é independente — e então
+o impacto fiscal de sua política é problema do Tesouro, a ser tratado via
+política fiscal, não via "parecer" do próprio BC — ou o Copom internaliza o
+impacto fiscal — e então ele NÃO é independente. Não há meio-termo operacional.
+A "transparência" proposta é, na prática, a devolução da política monetária
+ao debate orçamentário. É o oposto da independência.
+
+================================================================================
+PONTO 2 — ECONOMIA DO SPREAD BANCÁRIO:
+        COMPETIÇÃO NÃO RESOLVE UM PROBLEMA ESTRUTURAL
+================================================================================
+
+2.1. A premissa do documento
+----------------------------------------------------------------------------------------------------------------
+O Vetor 2 parte da hipótese de que o spread bancário brasileiro (~22 p.p.
+ao consumidor, ~30+ p.p. no crédito pessoal) é majoritariamente markup
+oligopolístico, redutível por entrada de fintechs, cooperativas e Drex. Esta
+hipótese é empiricamente falsa.
+
+2.2. Decomposição oficial do BCB
+----------------------------------------------------------------------------------------------------------------
+O Relatório de Economia Bancária (REB) do BCB decompõe o spread ex-post em
+quatro componentes:
+
+  (i)   Inadimplência (PDD — provisão para devedores duvidosos);
+  (ii)  Despesas administrativas (incl. custo de pessoal, TI, compliance,
+        BACENjud, redes de agências);
+  (iii) Tributos e FGC (IOF, CSLL adicional sobre instituições financeiras —
+        20% vs. 9% das demais empresas —, PIS/COFINS sobre operações
+        financeiras, contribuição ao Fundo Garantidor de Crédito);
+  (iv)  Margem líquida (lucro do banco, componente "markup").
+
+Dados públicos do BCB:
+
+  - Média 2016-2018: inadimplência = 37% do spread; despesas administrativas
+    = 27%; tributos+FGC = 21%; margem líquida = 15%.
+  - 2022: inadimplência = 30,5% do spread.
+  - 2023: inadimplência = 35,7% do spread (aumento de 5,2 p.p. em um ano,
+    contrariando a tese de melhora estrutural).
+
+Ou seja, em 2023, aproximadamente 84% do spread é CUSTO, e apenas ~16%
+é margem. Atacar "competição" como instrumento de compressão de spread
+significa supor que o mercado pode comprimir os 16% de margem sem
+recompor as outras parcelas. Isso só funciona até o ponto em que a margem
+se iguala ao custo de capital exigido pelos acionistas — abaixo disso,
+bancos captam menos capital e reduzem oferta de crédito.
+
+2.3. Por que mesmo competição perfeita não leva o spread a um dígito
+----------------------------------------------------------------------------------------------------------------
+Mesmo num cenário hipotético de competição perfeitamente walrasiana entre
+bancos, fintechs e cooperativas, quatro componentes do spread NÃO SÃO
+sensíveis à estrutura de mercado:
+
+ (a) CUSTO DE CAPITAL REGULATÓRIO (Basileia III): bancos devem manter
+     capital principal (CET1) de no mínimo 8% dos ativos ponderados pelo
+     risco (RWA), mais os colchões conservação (2,5%), contracíclico e
+     sistêmico. No Brasil, Itaú e Bradesco operam com alavancagem
+     CET1/RWA próxima de 13-14%. Esse capital tem custo de oportunidade:
+     o investidor exige ROE de 15-20% sobre ele. Para o banco repassar
+     esse custo ao tomador, o spread precisa conter um floor de
+     aproximadamente 2,5-3,5 p.p. só de retorno de capital. Esse piso
+     não desaparece com competição; desaparece apenas com descapitalização
+     regulatória, que aumenta risco sistêmico.
+
+ (b) INADIMPLÊNCIA ESTRUTURAL BRASILEIRA: o Brasil tem PIB per capita
+     baixo, informalidade alta (~30-40% do emprego), baixa cobertura
+     de crédito a partir de garantias reais (o sistema de registro de
+     propriedade imóvel e mobiliária é ineficiente) e judicialização
+     pesada de execução de garantias. Mesmo com open banking, Drex e
+     PIX, a perda esperada (expected loss) sobre crédito livre de
+     longo prazo não cai abaixo de 4-6% ao ano em carteira varejista.
+     Esse componente sozinho adiciona 4-6 p.p. ao spread.
+
+ (c) CUSTO TRIBUTÁRIO ESPECÍFICO DO SETOR FINANCEIRO: IOF sobre operações
+     de crédito, CSLL de 20% (vs. 9% das demais empresas), PIS/COFINS
+     sobre receita financeira, adicional de IRPJ sobre instituições
+     financeiras. Soma estimada: 4-5 p.p. de contribuição ao spread.
+     É custo de Estado, não de banco. Competição não o reduz.
+
+ (d) CUSTO OPERACIONAL: compliance (PLD, BACENjud, KYC, LGPD),
+     fraude (no PIX, em 2023 o Brasil registrou mais de R$ 2,5 bilhões
+     em golpes), tecnologia de infraestrutura, agências físicas ainda
+     requeridas por regulamentação trabalhista e de inclusão. Floor de
+     aproximadamente 2-3 p.p.
+
+Somando os pisos: 3 + 5 + 4 + 2 = 14 p.p. de spread estrutural mínimo,
+mesmo em competição perfeitíssima. Margem de mercado (markup) pode ser
+comprimida para 1-2 p.p. (estilo banco digital), mas o spread total ainda
+fica em 12-16 p.p. O número mágico de "7-9 p.p." implícito no Vetor 2
+não tem sustentação técnica.
+
+2.4. O caso dos bancos digitais refuta a tese do documento
+----------------------------------------------------------------------------------------------------------------
+A entrada do Nubank (desde 2013, com mais de 100 milhões de clientes) e de
+outros bancos digitais já pressionou margem há uma década. O que ocorreu?
+Os grandes bancos (Itaú, Bradesco, Santander) ajustaram preços em segmentos
+concorrenciais (cartão, CDC) e mantiveram spread elevado em segmentos cativos
+(crédito consignado, cheque especial). O spread médio ex-ante ao consumidor
+continuou acima de 20 p.p. A experiência brasileira de 2013-2023 é, ela
+própria, o contra-exemplo empírico da premissa do Vetor 2: competição
+reduziu markup, não reduziu custo estrutural.
+
+2.5. Síntese do ataque
+----------------------------------------------------------------------------------------------------------------
+O Vetor 2 diagnostica o spread como problema de mercado onde ele é problema
+de custo. A política correspondente (fintechs, cooperativas, Drex) já está
+em curso há mais de dez anos e produz efeitos marginais, não estruturais.
+Reduzir o spread brasileiro para níveis internacionais (3-5 p.p.) exigiria
+reforma tributária sobre setor financeiro, reforma do sistema de garantias
+e execuções, baixa estrutural da inadimplência via formalização. Nada disso
+é mencionado no documento. O Vetor 2 é, portanto, um placebo analítico.
+
+================================================================================
+PONTO 3 — O PARADOXO DA PREFIXAÇÃO:
+        SEM CREDIBILIDADE FISCAL PRÉVIA, PREFIXAR É MAIS CARO, NÃO MAIS BARATO
+================================================================================
+
+3.1. O diagnóstico correto e a terapia errada
+----------------------------------------------------------------------------------------------------------------
+O documento acerta ao apontar que ~75% da Dívida Pública Federal interna
+é pós-fixada (LFT) ou atrelada à inflação (NTN-B). Apenas ~25% é prefixada
+(NTN-F/LFT-prefix). Esta é uma característica que torna a política monetária
+fiscalmente cara — subir Selic eleva despesa de juros automaticamente — e
+transmite choques de taxa para o Tesouro em tempo real.
+
+O erro está na terapia: o documento propõe "migrar ativamente" a dívida
+para prefixados como se fosse uma decisão unilateral do Tesouro. Não é.
+A composição da dívida é resultado de uma subasta em que investidores
+demandam cada instrumento. Eles só aceitam prefixados a um preço —
+i.e., a uma taxa — que compense o risco que enxergam.
+
+3.2. Quatro razões técnicas pelas quais a migração falha ou sai cara
+----------------------------------------------------------------------------------------------------------------
+
+ (a) PRÊMIO DE RISCO EM PREFIXADOS SOB INCERTEZA FISCAL.
+     Em ambientes com alta variância de inflação esperada e duvida sobre
+     solvência fiscal intertemporal, o investidor exige "term premium"
+     elevado para travar taxa nominal por 3, 5 ou 10 anos. A literatura
+     empírica para o Brasil (Bevilaqua, Mesquita e Tombini, 2007;
+     Garcia & Didier, 2013) mostra que o prêmio de prazo da curva de NTN-F
+     brasileira é estruturalmente alto — entre 200 e 400 bps acima do
+     que justificaria a pura expectativa de Selic futura. Esse prêmio
+     NÃO é "ganância de mercado": é precificação de risco de tail fiscal.
+     Migração forçada = Tesouro paga mais por duração que paga por Selic.
+
+ (b) O GOVERNO JÁ TENTOU ISTO, VÁRIAS VEZES, E RECUOU.
+     Em 2017, sob o Ministério da Fazenda de Henrique Meirelles, a então
+     secretária do Tesouro Ana Paula Vescovi anunciou publicamente a
+     intenção de trocar gradualmente LFT por prefixados (vide Infomoney,
+     "Tesouro busca trocar gradualmente títulos remunerados pela Selic",
+     2017). O experimento durou poucos meses: o custo de emissão prefixada
+     subiu, a demanda minguou, e o Tesouro recuou para LFT. O mesmo
+     padrão ocorreu em 2003-2004 (Palocci), 2010 (Mantega), e em menor
+     escala em 2022-2023. Em todos os casos, o limite operacional da
+     migração foi o "preço" que o mercado cobrou. Não há razão para
+     supor que 2026-2028 será diferente sem mudar o que determina
+     esse preço — a credibilidade fiscal.
+
+ (c) A EXPERIÊNCIA MEXICANA PROVA O OPOSTO DA TESE DO DOCUMENTO.
+     O México é frequentemente citado como exemplo de migração bem-sucedida
+     de Cetes (pós-fixados de curto prazo) para M-Bonos (prefixados de longo
+     prazo). O que essa analogia omite:
+       * A transição levou mais de 15 anos (início sério em meados dos anos
+         2000, com avanço significativo apenas a partir de 2010-2015).
+       * Foi PRECEDIDA pela Lei Fiscal de 2006, pelo Fragor Fiscal de 2009-2010
+         e pela consolidação do regime de inflação-alvo do Banxico — ou seja,
+         por disciplina fiscal prévia, não simultânea.
+       * Em 2024-2026, o próprio México vem REVERTENDO parcialmente a
+         composição, com maior peso de instrumentos de curto prazo e
+         flutuante, diante de pressão fiscal (ver "Hacienda adquiere
+         Cetes", El CEO, 2024-2025). O caso de sucesso NÃO está consolidado.
+       * O México, ao contrário do Brasil, opera com superávit primário
+         recorrente em vários anos da amostra e com ratio dívida/PIB
+         abaixo de 55%. O Brasil opera com déficit primário e ratio acima
+         de 75%. O Brasil está, hoje, onde o México estava ANTES de
+         começar a transição. Saltar a fase de disciplina fiscal e tentar
+         a migração direta é engenharia financeira sem lastro.
+
+ (d) FORÇAR PREFIXAÇÃO SEM CREDIBILIDADE GERA ROLAGEM MAIS CARA.
+     O resultado líqüido de "forçar" prefixação via aceite de taxas elevadas
+     na subasta é o oposto do pretendido: a despesa de juros SOBE no curto
+     prazo (porque a taxa nova é mais alta que a Selic-pós esperada),
+     melhora o perfil apenas no longo prazo SE a Selic efetivamente subir
+     depois, e deteriora primário no caminho. Em termos de Sargent-Wallace,
+     é exatamente o movimento que sinaliza ao mercado que o governo
+     duvida da própria capacidade de manter Selic baixa no futuro — i.e.,
+     sinaliza dominância fiscal. A reação racional do mercado é COBRAR MAIS,
+     não menos.
+
+3.3. O ponto crítico
+----------------------------------------------------------------------------------------------------------------
+A prefixação é consequência, não causa. Prefixar resulta de credibilidade
+fiscal acumulada — primário consistente, âncora fiscal crível, regra de
+gasto crível. Sem isso, qualquer tentativa de prefixar por decreto de
+gestão de dívida é um exercício cosmético que termina em custo maior.
+O Vetor 1 inverte causalidade.
+
+3.4. Síntese do ataque
+----------------------------------------------------------------------------------------------------------------
+O Vetor 1 propõe o efeito (dívida prefixada) como se fosse instrumento.
+O instrumento é a política fiscal. Sem disciplina fiscal prévia — que o
+documento NÃO propõe em magnitude relevante — qualquer rota de prefixação
+será interrompida pelo mercado, como já ocorreu em 2003, 2010, 2017 e
+2022. Repetir o mesmo experimento esperando resultado diferente não é
+estratégia: é insanidade analítica.
+
+================================================================================
+PONTO 4 — "SAIA DA POUPANÇA" É ILUSÃO DE MICROATIVISMO
+================================================================================
+
+4.1. A proposta
+----------------------------------------------------------------------------------------------------------------
+A Fase 3 da execução prevê uma campanha de comunicação para "migrar R$ 4
+bilhões de poupança" para aplicações "mais eficientes". A proposta é
+apresentada como conquista estrutural.
+
+4.2. Por que é quantitativamente irrelevante
+----------------------------------------------------------------------------------------------------------------
+O saldo total da caderneta de poupança no Brasil supera R$ 1 trilhão (BCB,
+2024). R$ 4 bilhões correspondem a 0,4% do estoque. Mesmo que a campanha
+atingisse 100% da meta, o efeito sobre a composição da dívida pública,
+sobre o mercado de capitais ou sobre o sistema financeiro seria
+ESTATISTICAMENTE NULO. É um arredondamento de balancete, não política
+econômica.
+
+4.3. Por que é qualitativamente falha — não há destino estrutural
+----------------------------------------------------------------------------------------------------------------
+A proposta não especifica para ONDE a poupança migraria. As três opções
+possíveis são todas problemáticas:
+
+ (a) TESOURO DIRETO. Se o destino é Tesouro Selic, NTN-B ou NTN-F, a
+     operação migra o saldo de um passivo do mesmo emissor (depósito em
+     poupança, que o banco usa para comprar títulos públicos e/ou emprestar
+     contra crédito público) para outro passivo do mesmo emissor (título
+     público direto). A DPF NÃO MUDA de tamanho. Apenas muda a linha
+     contábil no lado do passivo do Tesouro e, marginalmente, o custo
+     (poupança remunera 0,5% a.m. + TR; Tesouro Selic remunera 100% CDI).
+     Em geral, a migração aumenta o custo do Tesouro, não reduz. É
+     masturbação financeira.
+
+ (b) RENDA VARIÁVEL (BOLSA). O mercado de capitais brasileiro não tem
+     profundidade para absorver R$ 4 bilhões de fluxo de varejo sem
+     impacto de preço relevante. O free-float negociável da B3 é
+     concentrado em Petrobras, Vale, Itaú, Ambev e meia dúzia de bancos
+     e commodities. O investidor pessoa física brasileiro já é minoritário
+     no mercado (participação direta ~10-15% do volume negociado, o resto
+     é institucional e estrangeiro). Empurrar R$ 4 bi de varejo para bolsa
+     num ambiente de juros altos e prêmio de risco país elevado é receitar
+     perda patrimonial ao poupador de classe média — politicamente
+     explosivo e economicamente ineficiente.
+
+ (c) FUNDOS DE INVESTIMENTO. Se o destino é fundo DI, fundo multimercado,
+     fundo imobiliário ou fundo de renda fixa, o dinheiro volta ao sistema
+     financeiro — agora com uma camada adicional de taxa de administração
+     (1-2% a.a.) e performance (20% acima do benchmark). Líquido líquido,
+     o poupador paga mais por exposição essencialmente equivalente. O
+     sistema bancário capta o recurso via fundo em vez de via poupança,
+     sem alterar o volume de crédito ofertado à economia.
+
+4.4. O que realmente "migrar a poupança" exigiria
+----------------------------------------------------------------------------------------------------------------
+Para que a migração da poupança tivesse efeito macroeconômico relevante,
+seria necessário:
+  - Substituir a poupança como fonte de funding habitacional (SBPE), hoje
+    ancorada em 70% da caderneta — o que implica reescrever o Sistema
+    Brasileiro de Poupança e Empréstimos;
+  - Reduzir a garantia implícita do governo à caderneta (hoje equivalente
+    a depósito à vista do Tesouro, com risco soberano);
+  - Criar instrumentos privados de baixo risco com liquidez equivalente
+    (o que demandaria reforma do mercado de capitais de anos e regulamentação
+    da CVM, Anbima e BCB).
+Nenhuma dessas condições consta do documento.
+
+4.5. Síntese do ataque
+----------------------------------------------------------------------------------------------------------------
+A campanha "Saia da Poupança" é ativismo de comunicação. Gera consciência,
+manchetes e engajamento nas redes sociais. Não gera efeito real sobre
+poupança agregada, investimento ou custo de capital. É, no melhor dos
+casos, window-dressing; no pior, induz perda a poupadores de baixa
+instrução financeira. Qualquer economista que subscreva esta proposta
+como política estrutural deveria revisar sua definição de "estrutural".
+
+================================================================================
+PONTO 5 — INGENUIDADE INSTITUCIONALISTA:
+        THINK TANK, 100 DEPUTADOS E R$ 17,5 MILHÕES EM 3 ANOS
+================================================================================
+
+5.1. A proposta de execução
+----------------------------------------------------------------------------------------------------------------
+O documento prevê: (i) criar um think tank econômico dedicado à agenda dos
+quatro vetores; (ii) apresentar o modelo a "100 deputados alinhados"; (iii)
+exercer "pressão política" informada; (iv) captar R$ 17,5 milhões em três
+anos para custear a operação.
+
+5.2. Brasil já tem dezenas de think tanks — e não moveram a agulha
+----------------------------------------------------------------------------------------------------------------
+O Brasil possui um ecossistema denso de think tanks econômicos de alta
+qualidade técnica: FGV IBRE (com indicadores referência como IGP-M, IPC,
+boletim macro mensal), Fipe (USP, indicadores oficiais de inflação,
+pesquisa de orçamentos familiares), Insper (núcleos de macro, microcrédito,
+política pública), FGV EPGE, FGV EBAPE, IPEA (apesar de capturado pelo
+governo), Instituto de Estudos Socioeconômicos (Inesc), Instituto Mercado
+de Capitais Analistas (Ancord), Instituto Brasileiro de Economia da
+Competição (Brasilcon), CNI (departamento econômico), CNI Confederação,
+Fiesp, entre dezenas de outros.
+
+O QUE ESTES THINK TANKS JÁ PRODUZIRAM DE PROPOSTAS TÉCNICAS para os mesmos
+problemas atacados pelo documento V2.0:
+  - FGV IBRE publica há 30 anos propostas de reforma tributária, fiscal e
+    previdenciária com modelagem quantitativa. A reforma tributária só foi
+    aprovada (EC 132/2023) depois de 30 anos e em formato híbrido.
+  - Fipe e Insper publicaram dezenas de estudos sobre spread bancário e
+    concentração bancária. Não houve legislação substantiva.
+  - IPEA publicou propostas de alongamento da dívida pública desde os anos
+    1990. A composição da DPF está praticamente igual.
+
+A evidência empírica é que pensar bem não é condição suficiente para legislar
+bem. O gargalo não é "falta de think tank". É configuração política.
+
+5.3. "100 deputados alinhados" ignora como o Congresso brasileiro funciona
+----------------------------------------------------------------------------------------------------------------
+A Câmara dos Deputados brasileira NÃO é uma assembleia deliberativa de tipo
+parlamentar-britânico, onde vencer um argumento técnico entre 100 membros
+pode mover a maioria. É um sistema de coalizão informal controlado por:
+
+  - CENTRÃO (blocos PP, PL, Republicanos, PSD, União, PROS e satélites):
+    controla a Mesa, a pauta, as comissões e o orçamento assinado no
+    "orçamento secreto" (emendas de relator, RP9 e similares, orçamento
+    de mais de R$ 30 bilhões/ano). O Centrão decide o que vota e quando,
+    em troca de ministérios, cargos e emendas.
+
+  - BANCADAS SETORIAIS: bancada ruralista (~250 deputados), bancada
+    evangélica (~200 deputados), bancada da segurança (160+), bancada
+    da bola, da saúde, dos prefeitos. Estas bancadas operam por pauta
+    mínima comum e bloqueiam qualquer reforma que toque interesse
+    setorial.
+
+  - BANCADA FINANCEIRA INDIRETA: embora não exista "bancada dos bancos"
+    formal, deputados com financiamento de campanha do setor financeiro
+    (Itaú, Bradesco, Santander, BB, Caixa e seguradoras) somam mais de
+    150 cadeiras em legislaturas recentes, conforme dados do TSE. Estes
+    deputados bloqueiam silenciosamente qualquer projeto que afete spread,
+    IOF, consignado ou tributação de operações financeiras.
+
+"Apresentar o modelo a 100 deputados alinhados" supõe que esses 100 existam
+como bloco coeso votante. Não existem. Mesmo que existissem, 100 votos
+numa Câmara de 513 são 19,5% — não chegam a bloquear quórum de maioria
+absoluta (257). E não há mecanismo de partido disciplinado que garanta
+votação.
+
+5.4. R$ 17,5 milhões em 3 anos é RIDÍCULO frente ao lobby de UM banco
+----------------------------------------------------------------------------------------------------------------
+Para escala comparativa:
+  - Um grande banco brasileiro (Itaú, Bradesco, BB) gasta anualmente, em
+    conjunto com a Febraban, estimadamente entre R$ 80 e R$ 150 milhões
+    em representação institucional, consultorias, advisores externos,
+    publicidade institucional, eventos e contribuições. Estes números não
+    são públicos por lei (o PL do Lobby tramita há 18 anos parado), mas
+    são ordem de grandeza reconhecida no mercado.
+  - R$ 17,5 milhões em 3 anos = R$ 5,8 milhões/ano. É menos que o orçamento
+    de marketing institucional de UMA regional de UM banco médio.
+  - Para efeito de lobby efetivo sobre Congresso, o custo de "colocar"
+    uma única emenda constitucional com impacto setorial relevante é
+    estimado entre R$ 10 e R$ 30 milhões (consultorias, advisores,
+    publicidade segmentada, custos de relacionamento). Um think tank com
+    R$ 5,8 mi/ano não consegue bancar UMA batalha legislativa, quanto
+    mais quatro (uma por vetor).
+
+5.5. Síntese do ataque
+----------------------------------------------------------------------------------------------------------------
+A estratégia de execução é inadequada à estrutura de poder que pretende
+mover. Think tank é commodity. Deputados não são persuadidos por
+modelos — são alinhados por interesse. R$ 17,5 milhões em 3 anos é
+budget de diretoria de marketing de startup, não de lobby sistêmico contra
+o sistema financeiro. A proposta confunde "existir como interlocutor
+técnico" com "mover legislação". São coisas diferentes.
+
+================================================================================
+PONTO 6 — AUSÊNCIA DE TEORIA DE MUDANÇA
+================================================================================
+
+6.1. O que é uma teoria de mudança
+----------------------------------------------------------------------------------------------------------------
+Teoria de mudança (theory of change), no jargão de política pública, é a
+cadeia causal explícita que conecta INPUTS (recursos, conhecimento) a
+OUTPUTS (produtos) a OUTCOMES (mudanças de comportamento de atores) a
+IMPACTS (mudança legislativa ou estrutural alvo). Uma teoria de mudança
+crível especifica:
+
+  - Quem é o agente cujo comportamento deve mudar (deputado X? ministro Y?
+    governador Z? opinião pública?);
+  - Qual o mecanismo causal que induz essa mudança (constrangimento
+    eleitoral? sanção reputacional? incentivo material? captura técnica
+    de agenda?);
+  - Qual a coalizão mínima vencedora necessária (votes, veto players,
+    filler points);
+  - Onde estão os pontos de alavancagem (pivot points) que tornam a
+    cadeia realizável;
+  - Quais as premissas que, se falsas, quebram a cadeia.
+
+O documento V2.0 NÃO TEM teoria de mudança. Salta de "diagnóstico técnico
+correto" para "plano de execução institucional" sem nunca responder às
+cinco perguntas acima.
+
+6.2. Perguntas que o documento não responde
+----------------------------------------------------------------------------------------------------------------
+
+ (1) COMO exatamente um think tank convence o Congresso a aprovar leis
+     contrárias ao interesse do sistema financeiro? Mecanismo causal?
+     Não há. "Apresentar modelo" não é mecanismo — é output, não outcome.
+
+ (2) QUAL a coalizão política vencedora mínima? Quem são os 257 votos
+     na Câmara e 41 no Senado que aprovariam reforma de spread, prefixação
+     e tributação bancária? Quem os lidera? Qual o quid pro quo? O
+     documento não menciona nenhum nome, nenhum partido, nenhuma bancada.
+
+ (3) QUAL o custo político para o governo federal de apoiar esta agenda?
+     Toda reforma estrutural tem perdedores criados (Stigler, 1971; Olson,
+     1965). Os perdedores aqui (bancos, banqueiros, rentistas de juros
+     altos, fundos imobiliários, seguradoras) são concentrados e
+     organizados. Os ganhadores (tomadores de crédito de baixa renda)
+     são difusos e desorganizados. Pelo teorema de Olson, a reforma NÃO
+     se aprova espontaneamente — exige compensação lateral (side payments)
+     que o documento não provisiona.
+
+ (4) QUAL o ponto de inflexão (tipping point) que faz o equilíbrio mover?
+     Sem crise fiscal aguda (que tornaria a reforma inevitável mas não
+     necessariamente na direção proposta) ou choque externo (cesso de
+     crédito externo, rebaixamento de rating), não há janela política.
+     O documento não especifica qual evento catalisador dispara a janela.
+
+ (5) QUAL a teoria do Estado implícita? O documento parece pressupor
+     Estado weberiano racional-legal em que argumento técnico vence por
+     mérito. O Brasil opera com Estado neo-patrimonial (Fábio Wanderley
+     Reis, Bolívar Lamounier, Sergio Auerbach), em que interesses
+     setoriais e relações pessoais pesam mais que mérito técnico nas
+     decisões legislativas. Ignorar essa característica é falha
+     metodológica fatal.
+
+6.3. Comparação com casos onde reforma estrutural ocorreu
+----------------------------------------------------------------------------------------------------------------
+Reformas econômicas estruturais que efetivamente ocorreram no Brasil
+ recente exigiram:
+  - Reforma constitucional da Previdência (EC 103/2019): crise fiscal
+    manifesta, líder executivo com capital político altíssimo (Bolsonaro
+    em 2019, antes do desgaste), apoio do Judiciário via STF, custo
+    político individual internalizado via emendas. Ainda assim, levou 8
+    meses de tramitação e foi aprovada em formato mais brando que o
+    original.
+  - Reforma Tributária (EC 132/2023): 33 anos de debate técnico,
+    janela pós-pandemia com pressão fiscal, alinhamento raro entre
+    FIESP, CNI, IEDI, Confederações e Bancada Empresarial, liderança
+    do Ministério da Fazenda (Haddad) com mandato político forte.
+    Ainda assim, em formato híbrido com transição de 8 anos.
+  - Lei das S/A (2001), PLC das FT (2021), Lei das Falências (2005):
+    todas com coalizão empresarial clara, janela política identificável,
+    custo de oposição compensado.
+
+O documento V2.0 não contém NENHUM dos ingredientes presentes nesses casos.
+Nenhuma coalizão empresarial. Nenhuma janela política identificada.
+Nenhum líder executivo comprometido. Nenhum custo de oposição mapeado.
+
+6.4. Síntese do ataque
+----------------------------------------------------------------------------------------------------------------
+A execução do documento é institucionalismo voluntarista: "se eu pensar bem
+e apresentar bem, o sistema político responderá bem". Isto não é estratégia;
+é esperança. Sem teoria de mudança explícita, sem coalizão mínima
+especificada, sem custo político provisionado, sem catalisador identificado,
+o documento é uma peça de advocacy que se apresenta como plano de governo.
+A diferença entre os dois é a diferença entre um paper acadêmico e uma
+reforma aprovada.
+
+================================================================================
+CONCLUSÃO GERAL DA REFUTAÇÃO
+================================================================================
+
+O documento "Brasil: Diagnóstico, Estratégia e Plano de Execução V2.0"
+combina um diagnóstico parcialmente correto com uma terapia em três
+camadas, todas problemáticas:
+
+  1. CONTRADIÇÃO DE REGIME (Ponto 1): defender independência do BC e
+     exigir PIO do Copom é incompatível. É dominância fiscal disfarçada,
+     prevista por Sargent-Wallace (1981).
+
+  2. ERRO DE DECOMPOSIÇÃO (Ponto 2): tratar spread como markup puro ignora
+     a decomposição do BCB, que mostra ~84% do spread como custo estrutural.
+     Competição é política marginal, não estrutural.
+
+  3. INVERSÃO DE CAUSALIDADE (Ponto 3): prefixar dívida é consequência de
+     credibilidade fiscal, não instrumento. Sem primário consistente,
+     forçar prefixação gera custo maior — o México só o fez após 15 anos
+     de disciplina fiscal prévia, e ainda assim parcialmente.
+
+  4. ILUSÃO DE MICROATIVISMO (Ponto 4): migrar R$ 4 bi de poupança é
+     estatisticamente nulo e qualitativamente falho. Não há destino
+     estrutural para o dinheiro migrar.
+
+  5. INGENUIDADE INSTITUCIONAL (Ponto 5): Think Tank, 100 deputados e
+     R$ 17,5 mi/3 anos são ordens de grandeza abaixo do necessário para
+     mover legislação relevante no Congresso brasileiro.
+
+  6. AUSÊNCIA DE TEORIA DE MUDANÇA (Ponto 6): o documento salta de
+     diagnóstico para execução sem especificar mecanismo causal, coalizão
+     vencedora, custo político ou catalisador. É advocacy, não estratégia.
+
+RECOMENDAÇÃO TÉCNICA: o documento deve ser reclassificado de "Plano de
+Execução" para "Manifesto de Advocacy". Enquanto peça de advocacy, cumpre
+papel legítimo. Enquanto plano executável de política econômica, é
+defeituoso em todos os pontos críticos examinados. A persistência da
+execução conforme proposta levará a três resultados previsíveis: (i)
+fracasso operacional das metas quantitativas (spread, prefixação, migração
+de poupança); (ii) captura do think tank por agenda de comunicação
+política em vez de política pública; (iii) erosão reputacional dos
+subscritores junto à comunidade técnica econômica séria, por associação
+com um metodologia analiticamente frágil.
+
+================================================================================
+REFERÊNCIAS TÉCNICAS CITADAS
+================================================================================
+
+- Sargent, T. & Wallace, N. (1981). "Some Unpleasant Monetarist Arithmetic".
+  Federal Reserve Bank of Minneapolis Quarterly Review.
+
+- Blanchard, O. (1984). "The Fisher Effect and the Term Structure of
+  Interest Rates". NBER WP.
+
+- Leeper, E. (1991). "Equilibria under 'Active' and 'Passive' Monetary and
+  Fiscal Policies". Journal of Monetary Economics.
+
+- Woodford, M. (2001). "Fiscal Requirements for Price Stability". Journal
+  of Money, Credit and Banking.
+
+- Cochrane, J. (2022). "The Fiscal Theory of the Price Level". Princeton
+  University Press.
+
+- Olson, M. (1965). "The Logic of Collective Action". Harvard University
+  Press.
+
+- Stigler, G. (1971). "The Theory of Economic Regulation". Bell Journal.
+
+- Banco Central do Brasil. Relatório de Economia Bancária, edições 2022
+  e 2023 (decomposição do spread ex-post).
+
+- Banco Central do Brasil. Dívida Pública Federal — composição por
+  indexador (série mensal).
+
+- Bevilaqua, A., Mesquita, M. & Tombini, A. (2007). "Determinants of
+  the Term Premium in Brazilian Interest Rates". BCB WP.
+
+- Garcia, M. & Didier, T. (2013). "Inflation Expectations and the Term
+  Structure of Interest Rates in Brazil". Texto para Discussão PUC-Rio.
+
+- Tesouro Nacional. "Plano Anual de Financiamento" (PAF), vários anos
+  (documentação das tentativas históricas de alongamento/prefixação
+  2003, 2010, 2017, 2022).
+
+- Anbima, CVM, B3. Dados de profundidade do mercado de capitais
+  brasileiro (free-float, participação do investidor pessoa física).
+
+- Tribunal Superior Eleitoral (TSE). Prestação de contas de campanha
+  (2018, 2020, 2022) — financiamento setorial bancário.
+
+================================================================================
+FIM DA REFUTAÇÃO.
+================================================================================

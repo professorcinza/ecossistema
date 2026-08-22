@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="100%" height="100%" fill="#020617"/>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e293b" stroke-width="0.5"/></pattern></defs>
+<rect width="100%" height="100%" fill="url(#g)"/>
+<text x="40" y="48" fill="#22d3ee" font-family="monospace" font-size="20">TEIA · Taxonomia do Saber — visão radial (classes)</text>
+<text x="40" y="72" fill="#94a3b8" font-family="monospace" font-size="12">10 classes · 1237 campos · 5547 folhas atômicas · abra o HTML interativo para expandir até o átomo</text>
+<circle cx="700" cy="450" r="54" fill="#083344" stroke="#22d3ee" stroke-width="2"/>
+<text x="700" y="446" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12">RAIZ</text>
+<text x="700" y="464" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10">SABER</text>
+<line x1="700" y1="450" x2="700.0" y2="130.0" stroke="#334155" stroke-width="1.5"/>
+<circle cx="700.0" cy="130.0" r="34" fill="#0f172a" stroke="#34d399" stroke-width="2"/>
+<circle cx="700.0" cy="130.0" r="34" fill="#34d399" fill-opacity="0.15"/>
+<text x="700.0" y="126.0" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">000</text>
+<text x="700.0" y="142.0" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">100c/480f</text>
+<text x="700.0" y="52.0" text-anchor="middle" fill="#34d399" font-family="monospace" font-size="11">Computação, Informação e Ci…</text>
+<line x1="700" y1="450" x2="888.1" y2="191.1" stroke="#334155" stroke-width="1.5"/>
+<circle cx="888.1" cy="191.1" r="34" fill="#0f172a" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="888.1" cy="191.1" r="34" fill="#a78bfa" fill-opacity="0.15"/>
+<text x="888.1" y="187.1" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">100</text>
+<text x="888.1" y="203.1" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">100c/480f</text>
+<text x="933.9" y="128.0" text-anchor="middle" fill="#a78bfa" font-family="monospace" font-size="11">Filosofia e Psicologia</text>
+<line x1="700" y1="450" x2="1004.3" y2="351.1" stroke="#334155" stroke-width="1.5"/>
+<circle cx="1004.3" cy="351.1" r="34" fill="#0f172a" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="1004.3" cy="351.1" r="34" fill="#fbbf24" fill-opacity="0.15"/>
+<text x="1004.3" y="347.1" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">200</text>
+<text x="1004.3" y="363.1" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">100c/394f</text>
+<text x="1078.5" y="327.0" text-anchor="middle" fill="#fbbf24" font-family="monospace" font-size="11">Religião e Teologia</text>
+<line x1="700" y1="450" x2="1004.3" y2="548.9" stroke="#334155" stroke-width="1.5"/>
+<circle cx="1004.3" cy="548.9" r="34" fill="#0f172a" stroke="#fb7185" stroke-width="2"/>
+<circle cx="1004.3" cy="548.9" r="34" fill="#fb7185" fill-opacity="0.15"/>
+<text x="1004.3" y="544.9" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">300</text>
+<text x="1004.3" y="560.9" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">251c/1205f</text>
+<text x="1078.5" y="573.0" text-anchor="middle" fill="#fb7185" font-family="monospace" font-size="11">Ciências Sociais</text>
+<line x1="700" y1="450" x2="888.1" y2="708.9" stroke="#334155" stroke-width="1.5"/>
+<circle cx="888.1" cy="708.9" r="34" fill="#0f172a" stroke="#22d3ee" stroke-width="2"/>
+<circle cx="888.1" cy="708.9" r="34" fill="#22d3ee" fill-opacity="0.15"/>
+<text x="888.1" y="704.9" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">400</text>
+<text x="888.1" y="720.9" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">51c/201f</text>
+<text x="933.9" y="772.0" text-anchor="middle" fill="#22d3ee" font-family="monospace" font-size="11">Linguística e Línguas</text>
+<line x1="700" y1="450" x2="700.0" y2="770.0" stroke="#334155" stroke-width="1.5"/>
+<circle cx="700.0" cy="770.0" r="34" fill="#0f172a" stroke="#fb923c" stroke-width="2"/>
+<circle cx="700.0" cy="770.0" r="34" fill="#fb923c" fill-opacity="0.15"/>
+<text x="700.0" y="766.0" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">500</text>
+<text x="700.0" y="782.0" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">131c/629f</text>
+<text x="700.0" y="848.0" text-anchor="middle" fill="#fb923c" font-family="monospace" font-size="11">Ciências Naturais e Matemát…</text>
+<line x1="700" y1="450" x2="511.9" y2="708.9" stroke="#334155" stroke-width="1.5"/>
+<circle cx="511.9" cy="708.9" r="34" fill="#0f172a" stroke="#4ade80" stroke-width="2"/>
+<circle cx="511.9" cy="708.9" r="34" fill="#4ade80" fill-opacity="0.15"/>
+<text x="511.9" y="704.9" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">600</text>
+<text x="511.9" y="720.9" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">201c/965f</text>
+<text x="466.1" y="772.0" text-anchor="middle" fill="#4ade80" font-family="monospace" font-size="11">Tecnologia e Ciências Aplic…</text>
+<line x1="700" y1="450" x2="395.7" y2="548.9" stroke="#334155" stroke-width="1.5"/>
+<circle cx="395.7" cy="548.9" r="34" fill="#0f172a" stroke="#c084fc" stroke-width="2"/>
+<circle cx="395.7" cy="548.9" r="34" fill="#c084fc" fill-opacity="0.15"/>
+<text x="395.7" y="544.9" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">700</text>
+<text x="395.7" y="560.9" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">101c/398f</text>
+<text x="321.5" y="573.0" text-anchor="middle" fill="#c084fc" font-family="monospace" font-size="11">Artes e Recreação</text>
+<line x1="700" y1="450" x2="395.7" y2="351.1" stroke="#334155" stroke-width="1.5"/>
+<circle cx="395.7" cy="351.1" r="34" fill="#0f172a" stroke="#f472b6" stroke-width="2"/>
+<circle cx="395.7" cy="351.1" r="34" fill="#f472b6" fill-opacity="0.15"/>
+<text x="395.7" y="347.1" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">800</text>
+<text x="395.7" y="363.1" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">61c/240f</text>
+<text x="321.5" y="327.0" text-anchor="middle" fill="#f472b6" font-family="monospace" font-size="11">Literatura e Retórica</text>
+<line x1="700" y1="450" x2="511.9" y2="191.1" stroke="#334155" stroke-width="1.5"/>
+<circle cx="511.9" cy="191.1" r="34" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+<circle cx="511.9" cy="191.1" r="34" fill="#38bdf8" fill-opacity="0.15"/>
+<text x="511.9" y="187.1" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="700">900</text>
+<text x="511.9" y="203.1" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">141c/555f</text>
+<text x="466.1" y="128.0" text-anchor="middle" fill="#38bdf8" font-family="monospace" font-size="11">História e Geografia</text>
+<text x="40" y="872" fill="#64748b" font-family="monospace" font-size="11">Arquivo interativo: docs/TAXONOMIA_GRAFO_INTERATIVO.html · JSON: docs/taxonomia_grafo.json</text>
+</svg>

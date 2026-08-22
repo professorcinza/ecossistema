@@ -1,0 +1,296 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-010
+VERSÃO: v1.0
+CATEGORIA: 03_SIMULACAO
+TÍTULO: Simulação Monte Carlo Inicial (840.000 cálculos)
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 19,118 bytes (18.7 KB)
+HASH MD5: 4b6236543e24b43cf99b654ae6697c00
+HASH SHA-256: a8a7aa77b2cc172df16d4fed1d377c7191cddd51740dd7cbd85473336a08791f
+================================================================================
+
+================================================================================
+SIMULAÇÃO MONTE CARLO — PROBABILIDADE DE COOPTAÇÃO/NEUTRALIZAÇÃO
+================================================================================
+840.000 cálculos probabilísticos
+14 atores × 6 estratégias × 10.000 iterações com ruído gaussiano (σ=0,2)
+Data: Julho/2026
+Base: scores derivados de evidência documental do pipeline dialético completo
+================================================================================
+
+METODOLOGIA
+
+Cada ator recebe 8 scores (0-10) baseados em EVIDÊNCIA DOCUMENTAL:
+
+PRG = Pragmatismo (histórico de traições de pauta, flexibilidade ideológica)
+VJU = Vulnerabilidade Jurídica (PF, PGR, STF, processos ativos)
+VEL = Vulnerabilidade Eleitoral (força da oposição, margem)
+VFI = Vulnerabilidade Financeira/Pessoal (conexões expostas)
+POD = Poder institucional atual
+IDE = Ideologia/Crença genuína na posição que defende
+MUD = Histórico de mudança de posição sob pressão
+ALI = Aliados institucionais mobilizáveis
+
+FÓRMULAS:
+P_cooptação = f(PRG, MUD, IDE, ALI, + ajuste por estratégia)
+P_neutralização = f(VJU, VEL, VFI, POD, ALI, IDE, + ajuste por estratégia)
+P_combinada = 1 - P(não cooptar E não neutralizar) = P(remover o veto)
+
+
+================================================================================
+TABELA PRINCIPAL: PROBABILIDADE POR ATOR (melhor estratégia)
+================================================================================
+
+ATOR                   | MELHOR ESTRATÉGIA    | P_COMB  | P_Coop  | P_Neut  | I.C. 80%   | AVALIAÇÃO
+-----------------------|----------------------|---------|---------|---------|------------|----------
+Hugo Motta             | CPI + STF Combinado  |  98,7%  |  87,0%  |  90,0%  | 98,5-98,9% | *** ALTA ***
+Arthur Lira            | CPI + STF Combinado  |  97,4%  |  73,5%  |  90,0%  | 97,1-97,6% | *** ALTA ***
+Ângelo Coronel         | CPI + STF Combinado  |  96,5%  |  69,1%  |  88,8%  | 95,8-97,1% | *** ALTA ***
+Davi Alcolumbre        | CPI + STF Combinado  |  95,9%  |  88,2%  |  65,3%  | 94,9-96,8% | *** ALTA ***
+Ricardo Barros         | CPI + STF Combinado  |  91,9%  |  79,1%  |  61,6%  | 90,7-93,1% | *** ALTA ***
+Renan Calheiros        | CPI + STF Combinado  |  91,0%  |  69,9%  |  70,1%  | 89,7-92,2% | *** ALTA ***
+Valdemar Costa Neto    | CPI + STF Combinado  |  90,1%  |  47,8%  |  81,1%  | 88,5-91,6% | *** ALTA ***
+Ciro Nogueira          | CPI + STF Combinado  |  88,7%  |  54,3%  |  75,4%  | 87,2-90,2% | *** ALTA ***
+Luiz Carlos Motta      | CPI + STF Combinado  |  69,1%  |  47,1%  |  41,6%  | 66,8-71,4% | *** ALTA ***
+Baleia Rossi           | CPI + STF Combinado  |  67,5%  |  54,1%  |  29,1%  | 65,0-69,8% | *** ALTA ***
+Júlio César            | Narrativa Pública    |  62,1%  |  43,5%  |  33,0%  | 60,2-64,1% | *** ALTA ***
+Eduardo Braga          | CPI + STF Combinado  |  62,6%  |  48,6%  |  27,3%  | 60,1-65,2% | *** ALTA ***
+Zé Neto                | Narrativa Pública    |  45,7%  |  32,5%  |  19,5%  | 43,3-48,0% | ** MÉDIA **
+André Figueiredo       | Narrativa Pública    |   8,4%  |   1,0%  |   7,5%  |  6,5-10,4% | MUITO BAIXA
+
+
+================================================================================
+EFICÁCIA DAS ESTRATÉGIAS NO AGREGADO (média nos 14 atores)
+================================================================================
+
+ESTRATÉGIA              | P_MÉDIA  | DESVIO   | VISUAL
+------------------------|----------|----------|-----------------------------------
+CPI + STF Combinado     |  75,0%   | ± 27,6%  | █████████████████████████████████████
+CPI Master isolada      |  70,7%   | ± 26,6%  | ███████████████████████████████████
+Narrativa Pública       |  63,7%   | ± 19,8%  | ███████████████████████████████
+Aliança Judiciário      |  61,0%   | ± 20,8%  | ██████████████████████████████
+Pressão OCDE            |  57,3%   | ± 19,6%  | ████████████████████████████
+Coalizão Ganhadores     |  55,8%   | ± 21,6%  | ███████████████████████████
+
+
+================================================================================
+RESILIÊNCIA DOS ATORES (ranking: mais difícil → mais fácil de mover)
+================================================================================
+
+ATOR                   | P_MÁX   | VISUAL
+-----------------------|---------|--------------------------------------------------
+André Figueiredo       |   8,4%  | ▓▓▓▓                                          ← IRREMOVÍVEL
+Zé Neto                |  45,7%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Júlio César            |  62,1%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Eduardo Braga          |  62,6%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Baleia Rossi           |  67,5%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Luiz Carlos Motta      |  69,1%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Ciro Nogueira          |  88,7%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Valdemar Costa Neto    |  90,1%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Renan Calheiros        |  91,0%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Ricardo Barros         |  91,9%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Davi Alcolumbre        |  95,9%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Ângelo Coronel         |  96,5%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Arthur Lira            |  97,4%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Hugo Motta             |  98,7%  | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+
+================================================================================
+PROBABILIDADE DE APROVAÇÃO POR VETOR EM CADA CENÁRIO
+================================================================================
+
+------------------------------------------------------------------------
+VETOR 1 (Gestão Dívida) — bloqueantes: Motta, Alcolumbre, Renan
+70% via portaria do Tesouro (sem precisar de Congresso)
+------------------------------------------------------------------------
+
+CENÁRIO                 | P(APROVAÇÃO) | VISUAL
+------------------------|--------------|------------------------------------------
+Status Quo              |       82,6%  | █████████████████████████████████████████
+Só Narrativa            |       85,4%  | ██████████████████████████████████████████
+CPI Master              |       92,4%  | ██████████████████████████████████████████████
+Judiciário              |       84,8%  | ██████████████████████████████████████████
+CPI + STF               |       95,8%  | ███████████████████████████████████████████████
+TODAS combinadas        |       95,8%  | ███████████████████████████████████████████████
+
+→ INTERPRETAÇÃO: Vetor 1 tem ALTA probabilidade mesmo no status quo
+  porque 70% das ações saem por portaria. CPI + STF empurra para 96%.
+  É o vetor MAIS FACTÍVEL de todos.
+
+------------------------------------------------------------------------
+VETOR 2 (Spread 4 Frentes) — bloqueantes: Motta, Alcolumbre, Renan, R. Barros, L.C. Motta
+40% via BCB (Frentes B e D não precisam de Congresso)
+------------------------------------------------------------------------
+
+CENÁRIO                 | P(APROVAÇÃO) | VISUAL
+------------------------|--------------|------------------------------------------
+Status Quo              |       48,9%  | ████████████████████████
+Só Narrativa            |       53,9%  | ██████████████████████████
+CPI Master              |       64,4%  | ████████████████████████████████
+Judiciário              |       52,7%  | ██████████████████████████
+CPI + STF               |       72,8%  | ████████████████████████████████████
+TODAS combinadas        |       72,8%  | ████████████████████████████████████
+
+→ INTERPRETAÇÃO: Vetor 2 é MÉDIO no status quo mas CPI + STF empurra
+  para 73%. Como 40% das ações saem via BCB, o piso é relativamente alto.
+
+------------------------------------------------------------------------
+VETOR 3 (Desburocratização) — bloqueantes: A. Figueiredo, Zé Neto, L.C. Motta, Júlio César, Motta
+Janela: regulamentação EC 132 em curso
+------------------------------------------------------------------------
+
+CENÁRIO                 | P(APROVAÇÃO) | VISUAL
+------------------------|--------------|------------------------------------------
+Status Quo              |       10,1%  | █████
+Só Narrativa            |       11,0%  | █████
+CPI Master              |       10,3%  | █████
+Judiciário              |       10,2%  | █████
+CPI + STF               |       10,3%  | █████
+TODAS combinadas        |       11,5%  | █████
+
+→ INTERPRETAÇÃO: Vetor 3 é o GARGALO. A probabilidade é BAIXÍSSIMA
+  em todos os cenários porque André Figueiredo (P_max = 8,4%) é
+  IRREMOVÍVEL por qualquer estratégia de pressão. Ele é movido por
+  IDEOLOGIA (IDE=9), não tem processos (VJU=2), não tem interesse
+  financeiro (VFI=1). CPI, narrativa, STF — NADA o afeta.
+  A ÚNICA via é ENQUADRAMENTO TÉCNICO: mostrar que simplificação
+  PROTEGE servidor honesto. Mas isso não foi modelado como estratégia
+  porque depende de ARGUMENTO, não de pressão.
+
+------------------------------------------------------------------------
+VETOR 4 (Transparência Punitiva) — bloqueantes: Motta, Lira, Coronel, Valdemar, Ciro, R. Barros
+Limitado a via Judiciário (Congresso se blindou com PEC)
+------------------------------------------------------------------------
+
+CENÁRIO                 | P(APROVAÇÃO) | VISUAL
+------------------------|--------------|------------------------------------------
+Status Quo              |        3,8%  | █
+Só Narrativa            |        7,5%  | ███
+CPI Master              |       25,7%  | ████████████
+Judiciário              |        6,3%  | ███
+CPI + STF               |       34,1%  | █████████████████
+TODAS combinadas        |       34,1%  | █████████████████
+
+→ INTERPRETAÇÃO: Vetor 4 é o MAIS DIFÍCIL. Mesmo CPI + STF só chega
+  a 34%. O problema é que 6 veto players precisam ser removidos
+  simultaneamente, e o ajuste -50% reflete que o Congresso JÁ SE
+  BLINDOU (PEC da Blindagem, set/2025: 353x134). A via realista
+  é NÃO por Congresso — é por Judiciário (STF/MPF/TCU).
+
+
+================================================================================
+CUSTO-BENEFÍCIO POR ESTRATÉGIA
+================================================================================
+
+ESTRATÉGIA              | CUSTO R$       | CUSTO POL. | PRAZO       | P_MÉDIA | CUSTO/PONTO %
+------------------------|----------------|------------|-------------|---------|--------------
+Aliança Judiciário      | R$ 0,5-1 mi    | Baixo      | 12-24 meses |  61,0%  | R$ 0,01 mi/% ← MAIS BARATO
+Pressão OCDE            | R$ 0,3-0,5 mi  | Baixo      | Contínuo    |  57,3%  | R$ 0,01 mi/% ← MAIS BARATO
+CPI Master              | R$ 2-5 mi      | Médio      | 6-12 meses  |  70,7%  | R$ 0,05 mi/%
+Narrativa Pública       | R$ 3-5 mi/ano  | Baixo      | Contínuo    |  63,7%  | R$ 0,06 mi/%
+CPI + STF Combinado     | R$ 3-6 mi      | Alto       | 6-12 meses  |  75,0%  | R$ 0,06 mi/%
+Coalizão Ganhadores     | R$ 10-15 mi/ano| Médio      | Contínuo    |  55,8%  | R$ 0,22 mi/% ← MAIS CARO
+
+
+================================================================================
+DETALHAMENTO: HUGO MOTTA (Presidente da Câmara)
+================================================================================
+
+ESTRATÉGIA              | P_COOPTAÇÃO | P_NEUTRAL. | P_COMBINADA | I.C. 80%
+------------------------|-------------|------------|-------------|----------
+CPI Master              |      76,0%  |     84,1%  |      96,2%  | 95,4-96,9%
+Narrativa Pública       |      65,0%  |     50,7%  |      82,7%  | 81,4-84,1%
+Aliança Judiciário      |      66,0%  |     48,0%  |      82,3%  | 81,2-83,4%
+Coalizão Ganhadores     |      67,5%  |     38,6%  |      80,1%  | 78,4-81,7%
+Pressão OCDE            |      60,0%  |     45,6%  |      78,3%  | 77,0-79,5%
+CPI + STF Combinado     |      87,0%  |     90,0%  |      98,7%  | 98,5-98,9%
+
+→ INTERPRETAÇÃO: Motta é o ator com MAIOR P_COMB da legislatura.
+  Mesmo a estratégia MAIS FRACA (OCDE) atinge 78%. Ele tem vulnerabilidade
+  documentada em todos os eixos: jurídica (PF), financeira (R$ 22mi),
+  eleitoral (Tarcísio pode virar) e institucional (não é dono do partido).
+  A CPI do Master sozinha atinge 96% — o medo de depor com diálogos
+  periciados é quase paralisante.
+
+
+================================================================================
+DETALHAMENTO: ANDRÉ FIGUEIREDO (Frente Servir Brasil)
+================================================================================
+
+ESTRATÉGIA              | P_COOPTAÇÃO | P_NEUTRAL. | P_COMBINADA | I.C. 80%
+------------------------|-------------|------------|-------------|----------
+CPI Master              |       1,0%  |      1,7%  |       2,7%  |  2,0-4,3%
+Narrativa Pública       |       1,0%  |      7,5%  |       8,4%  |  6,5-10,4%
+Aliança Judiciário      |       1,0%  |      1,6%  |       2,5%  |  2,0-3,5%
+Coalizão Ganhadores     |       1,0%  |      1,0%  |       2,0%  |  2,0-2,0%
+Pressão OCDE            |       1,0%  |      4,5%  |       5,4%  |  4,1-6,8%
+CPI + STF Combinado     |       1,0%  |      1,0%  |       2,0%  |  2,0-2,0%
+
+→ INTERPRETAÇÃO: André Figueiredo é o ATOR IRREMOVÍVEL do sistema.
+  Movido por IDEOLOGIA genuína (IDE=9), sem processos (VJU=2), sem
+  interesse financeiro (VFI=1), sem escândalos (VFI=1). Nenhuma das
+  6 estratégias de pressão atinge mais de 8,4%. A modelagem prova
+  que ele NÃO pode ser cooptado nem neutralizado por pressão.
+  A ÚNICA via é ENQUADRAMENTO TÉCNICO (não modelado por ser argumentativo):
+  mostrar que a reforma PROTEGE o servidor honesto e elimina a
+  burocracia INÚTIL que sobrecarrega o funcionalismo.
+
+
+================================================================================
+CONCLUSÕES DA SIMULAÇÃO
+================================================================================
+
+1. ESTRATÉGIA MAIS EFICAZ NO AGREGADO: CPI + STF Combinado (75,0%)
+   Combinação de CPI do Banco Master + STF determinando transparência
+   de emendas atinge veto players na dupla vulnerabilidade.
+
+2. MELHOR CUSTO-BENEFÍCIO: Aliança Judiciário e Pressão OCDE
+   (R$ 0,01 mi por ponto percentual — ambos custam < R$ 1 mi)
+
+3. ATORES MAIS VULNERÁVEIS (P_COMB > 90% sob CPI+STF):
+   Hugo Motta (98,7%) — empréstimo R$ 22mi Master + bloqueou tributação
+   Arthur Lira (97,4%) — Overclean/Allpha, relatório sigiloso PF
+   Ângelo Coronel (96,5%) — admitiu ser citado na Overclean
+   Davi Alcolumbre (95,9%) — R$ 474mi em 1 dia
+   Ricardo Barros (91,9%) — caso Covaxin, obedece ao Planalto
+   → TODOS têm vulnerabilidade jurídica ALTA documentada
+
+4. ATOR IRREMOVÍVEL: André Figueiredo (P_max = 8,4%)
+   Nenhuma estratégia de pressão funciona. Só ENQUADRAMENTO TÉCNICO.
+   Ele é o GARGALO do Vetor 3 (Desburocratização).
+
+5. CENÁRIO ÓTIMO POR VETOR (CPI + STF Combinado):
+   Vetor 1 (Dívida):        95,8%  ← ALTÍSSIMA (70% via portaria)
+   Vetor 2 (Spread):        72,8%  ← ALTA (40% via BCB)
+   Vetor 3 (Desburocr.):    10,3%  ← BAIXÍSSIMA (André Figueiredo)
+   Vetor 4 (Transparência): 34,1%  ← MÉDIA-BAIXA (Congresso blindou)
+
+6. O CONTRA-INTUITIVO DA SIMULAÇÃO:
+   Os atores com MAIS processo e escândalo (Motta, Lira, Coronel) são
+   os MAIS FÁCEIS de mover — porque têm mais a perder.
+   O ator MAIS LIMPO (André Figueiredo) é o MAIS DIFÍCIL de mover —
+   porque não tem nada a temer.
+   A corrupção é uma VULNERABILIDADE, não uma força. Quem é corrupto
+   é MANIPULÁVEL por medo. Quem é honesto só é movível por argumento.
+
+7. RETORNO MARGINAL DECRESCENTE:
+   S1 (CPI) + S3 (STF) juntas custam R$ 5-11 mi e entregam P = 75%.
+   S2 (Narrativa) custa R$ 3-5 mi/ano e adiciona +5-8 p.p.
+   S4 (Coalizão) custa R$ 10-15 mi/ano e adiciona +3-5 p.p.
+   As primeiras duas estratégias têm retorno 3-4x maior.
+
+8. SEQUÊNCIA ÓTIMA DE EXECUÇÃO (por custo-benefício):
+   1º: Aliança Judiciário (R$ 0,5-1 mi, P = 61%) — quase de graça
+   2º: Pressão OCDE (R$ 0,3-0,5 mi, P = 57%) — quase de graça
+   3º: CPI Master (R$ 2-5 mi, P = 71%) — alto impacto
+   4º: Narrativa Pública (R$ 3-5 mi/ano, P = 64%) — complementar
+   5º: CPI + STF Combinado (R$ 3-6 mi, P = 75%) — sinergia
+   6º: Coalizão Ganhadores (R$ 10-15 mi/ano, P = 56%) — só com recurso sobrando
+
+================================================================================
+FIM DA SIMULAÇÃO
+================================================================================

@@ -1,0 +1,103 @@
+================================================================================
+TEIA v22.0 — CHEAT-SHEET OPERACIONAL
+================================================================================
+Matriz: 156 dimensões × 60 lentes = 9.360 perspectivas | 18 níveis
+Protocolo: TEIA-2026-097 | Uso: seleção rápida no PET (Fases 1-3)
+================================================================================
+
+COMO USAR (30 segundos)
+1. Superfície: 3-5 dims do Nível 1 (1-6)
+2. Lentes: 2-3 que rasgam o óbvio (preferir misturar grupos)
+3. Mergulho: ≥3 dims dos níveis 3-18 (incluir ≥1 de 16-18 se o tema for saber/ciência/padrão)
+4. Cruzar lente × dim e nomear o anti-padrão
+
+================================================================================
+DIMENSÕES NOVAS v22 (109-156) — NÍVEIS 16-18
+================================================================================
+
+NÍVEL 16 — BIBLIOTECÁRIO / ORGANIZAÇÃO DO SABER
+109 Bibliotecária     quem indexa/apaga/recupera o saber
+110 Taxonômica        classificação como poder (DDC/LCC/CAPES/Frascati)
+111 Canônica          o que entra no cânone / "não-ciência"
+112 Citacional        h-index, JCR, rankings como hierarquia
+113 Editorial-Acad.   publish-or-perish; oligopólio editorial
+114 Curricular-Disc.  fronteiras de disciplina como cerca
+115 Peer-Review       arbitragem como veto epistêmico
+116 Patentária        PI como cerca do comum (WIPO/INPI/TRIPS)
+117 Laboratorial      quem tem lab decide o real experimental
+118 Metrológica       SI/ISO/ABNT = soberania da medida
+119 Arquivística-Inst. o que se preserva vs descarta
+120 Agnológica        produção ATIVA de ignorância
+
+NÍVEL 17 — CIÊNCIAS APLICADAS COMO MÁQUINA
+121 Sanitária         122 Agroindustrial      123 Logística
+124 Energética        125 Mineral-Extrativa    126 Urbana
+127 Habitacional      128 Transportes          129 Espectral
+130 Contábil-Normat.  131 Estatística-Oficial  132 Avaliativa-Educ.
+133 Seguritária       134 Esportiva-Espetac.   135 Turística
+136 Industrial-Manuf. 137 Farmacêutica-Ind.    138 Seguradora-Atuarial
+139 Normativa-Técnica 140 Regulatória-Agência
+
+NÍVEL 18 — FRONTEIRAS / METACIÊNCIA
+141 Biotecnológica    142 Nanotecnológica      143 Geoengenharia
+144 Nuclear           145 Oceanográfica        146 Polar
+147 Astropolítica     148 Interface-Neural     149 Semicondutora
+150 Materiais-Avanç.  151 One-Health           152 Justiça-Epistêmica
+153 Ciência-Aberta/F. 154 Prospectiva          155 Transdisciplinar
+156 Metacientífica
+
+================================================================================
+LENTES NOVAS v22 (45-60)
+================================================================================
+45 Biblioteconômica     Quem classifica? O que fica fora do catálogo?
+46 Scientométrica       Quem cita quem? Que ranking fabrica autoridade?
+47 STS                  Como o fato científico é fabricado?
+48 Economia da Ciência  Quem financia? Quem captura surplus cognitivo?
+49 Agnotologia          Que dúvida é fabricada de propósito?
+50 Epistemologias Sul   Que saberes são desqualificados? Epistemicídio?
+51 Contab. Forense      Onde o valor some nos livros?
+52 Epidem. Crítica      Quem adoece por desenho estrutural?
+53 Ecologia Política    Quem externaliza entropia ecológica?
+54 Geopol. dos Padrões  Quem escreve o ISO/IEEE/3GPP?
+55 Análise de Redes     Onde cortar uma aresta desmonta a coalizão?
+56 Etnografia do Estado Como o Estado opera na fila/formulário?
+57 Design Crítico       Que futuro está embutido no artefato?
+58 Prospectiva          Quem monopoliza os cenários oficiais?
+59 Eng. Reversa Inst.   Qual módulo, se removido, paralisa a máquina?
+60 Classif. Comparada   DDC×LCC×CAPES×Frascati: o que cada um esconde?
+
+================================================================================
+TRIÂNGULOS CRÍTICOS
+================================================================================
+SOBERANIA DIGITAL:     Dim 53 Criptográfica × Dim 3 Tecnológica × Dim 1 Econômica
+SABER LEGÍTIMO (v22):  Dim 110 Taxonômica × Dim 112 Citacional × Dim 120 Agnológica
+
+================================================================================
+CRUZAMENTOS RÁPIDOS (exemplos)
+================================================================================
+Juros/Selic     → Dim 1,28,33,130 × L10,51,32
+SUS             → Dim 121,11,40,137 × L52,3,21
+Desinformação   → Dim 7,18,76,120 × L13,49,46
+Chips/IA        → Dim 149,68,3,116 × L28,54,47
+Desmatamento    → Dim 4,122,125,44 × L53,5,38
+Rankings univ.  → Dim 112,113,132,110 × L46,48,60
+Paywall ciência → Dim 153,113,109 × L48,50,45
+Padrão 5G/ISO   → Dim 139,129,118 × L54,28,59
+
+================================================================================
+ATRIBUTOS PET (lembrete)
+================================================================================
+Fase 1 superfície (1-6) | Fase 2 lentes 2-3 | Fase 3 dims níveis 3-18
+Pipeline dialético obrigatório | Checklist 32 | SOPBRA se houver atores
+Formato saída: TEIA-AAAA-NNN
+
+Fontes níveis 16-18: CAPES, Frascati, DDC/LCC, WoS/Scopus/OpenAlex,
+WIPO/INPI, ISO/IEEE/3GPP, OSF/Retraction Watch, DATASUS, EPE, ANM, Anatel
+
+Canônico: TEIA_METODOLOGIA_v22.0_UNIFICADA.txt
+Prompt: PROMPT_TEIA_v22.0.txt
+Taxonomia: TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt + _FOLHAS.txt
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

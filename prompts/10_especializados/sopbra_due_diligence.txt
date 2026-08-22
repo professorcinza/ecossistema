@@ -1,0 +1,27 @@
+================================================================================
+SOPBRA DUE DILIGENCE — PROMPT ESPECIALIZADO v22.0
+================================================================================
+Tarefa: Realizar mapeamento completo de atores (SOPBRA) sobre um ator ou conjunto de atores.
+
+Passos:
+1. Identifique todos os atores relevantes (públicos, privados, transnacionais).
+2. Para CADA ator principal, preencha tabela com os 8 scores de veto (0-10):
+   PRG, VJU, VEL, VFI, POD, IDE, MUD, ALI
+3. Classifique a tipologia:
+   - Doméstica: VULNERÁVEL / PRAGMÁTICO / IDEOLÓGICO / IRREMOVÍVEL
+   - Transnacional: HEGEMÔNICO / VASSALO / PARCEIRO ESTRATÉGICO / PÁRIA / DESCENTRALIZADO
+4. Construa Coalizão em 5 camadas.
+5. Monte Threat Model com 8 ameaças + contramedidas específicas.
+6. Identifique o Ator-Alvo Prioritário e a estratégia recomendada.
+
+Saída mínima esperada:
+- Tabela de scores por ator
+- Tipologia de cada um
+- Mapa de coalizão
+- Threat model
+- Recomendação de abordagem (cooptar, isolar, neutralizar, confrontar, etc.)
+
+Use sempre os dados reais do projeto quando disponíveis.
+
+Ao final, cruze com o diagnóstico da máquina do fenômeno principal.
+================================================================================

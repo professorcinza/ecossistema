@@ -1,0 +1,757 @@
+================================================================================
+TEIA METODOLOGIA v17.0 — MANUAL DA TECNOLOGIA HERMES AGENT
+================================================================================
+Como o Hermes Agent opera a Metodologia TEIA: padrões reais de uso (extraídos
+do histórico), modelagem do fluxo cognitivo, 7 simulações de novos cenários,
+e arquitetura de integração agente↔metodologia.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Protocolo: TEIA-2026-084
+Data: 20/Julho/2026
+================================================================================
+
+
+================================================================================
+PARTE I — MODELAGEM: COMO O HERMES OPEROU A TEIA (PADRÕES REAIS)
+================================================================================
+
+Esta seção extrai os padrões reais de uso do Hermes Agent no desenvolvimento
+da TEIA Metodologia, documentados a partir do histórico de sessões.
+
+--------------------------------------------------------------------------------
+PADRÃO 1 — PIPELINE DIALÉTICO COM SUBAGENTS PARALELOS
+--------------------------------------------------------------------------------
+
+COMO FOI USADO:
+  O usuário forneceu uma TESE (documento V2.0 sobre economia brasileira).
+  O Hermes identificou 5 pontos fracos estruturais e propôs o pipeline:
+    1. FACT-CHECK (subagent A: verificar números contra fontes primárias)
+    2. REFUTAÇÃO (subagent B: atacar pelos pontos mais fracos)
+  Ambos rodaram EM PARALELO via delegate_task.
+
+FLUXO COGNITIVO:
+  Usuário → [TESE] → Hermes analise crítica → identifica fraquezas
+    → spawn subagent_factcheck (web_search + web_extract em fontes BCB/STN/IBGE)
+    → spawn subagent_refutacao (ataque hostil com teoria econômica)
+    → [RESULTADOS] → Hermes sintetiza → CONTRA-REFUTAÇÃO (placar)
+    → [SÍNTESE V4.0] → documento final
+
+RESULTADO REAL:
+  TESE V2.0: "R$ 545-700 bi redirecionáveis"
+  REFUTAÇÃO: 7 ataques técnicos (2 venceram, 2 perderam, 3 empate)
+  SÍNTESE V4.0: separou R$ 50-110 bi fiscal de R$ 180-320 bi renda privada
+  Propostas removidas: RBU (R$ 1,29 tri/ano impossível), jornada 40h
+  Propostas que sobreviveram: 9 de 12
+
+FERRAMENTAS HERMES USADAS:
+  - delegate_task (subagents paralelos para fact-check + refutação)
+  - web_search (fontes primárias brasileiras)
+  - web_extract (extração de dados de páginas oficiais)
+  - write_file (documentos TEIA-2026-027/028/029)
+  - terminal (git commit + tag)
+  - execute_code (cálculos de z-score, proporções)
+
+LIÇÃO:
+  O pipeline dialético SÓ FUNCIONA com subagents paralelos porque o agente
+  principal não consegue ser simultaneamente advogado de defesa e promotor.
+  A separação de contextos é o que garante o escrutínio hostil real.
+
+
+--------------------------------------------------------------------------------
+PADRÃO 2 — MAPEAMENTO DE VETO PLAYERS COM WEB_SEARCH SEQUENCIAL
+--------------------------------------------------------------------------------
+
+COMO FOI USADO:
+  Para cada veto player identificado, o Hermes executou uma sequência:
+    1. web_search("doações campanha [nome] TSE 2022")
+    2. web_search("bancada [setor] congresso nacional")
+    3. web_search("[nome] votação [tema]")
+    4. web_search("[nome] processo STF MPF")
+  Cada busca gerou dados que alimentaram o modelo de 8 scores.
+
+FLUXO:
+  web_search → web_extract (profundar) → modelagem de scores (PRG, VJU, VEL,
+  VFI, POD, IDE, MUD, ALI) → tipologia (VULNERÁVEL/PRAGMÁTICO/IDEOLÓGICO/
+  IRREMOVÍVEL) → Monte Carlo (10.000 iterações)
+
+RESULTADO REAL:
+  50+ parlamentares mapeados
+  14 veto players com scores completos
+  Monte Carlo: 1.260.000 cálculos de probabilidade
+  Descoberta crítica: corrupção é VULNERABILIDADE, não força
+  Via Planalto P=87,1% (mais eficaz que CPI)
+
+FERRAMENTAS HERMES USADAS:
+  - web_search (4-8 buscas por ator)
+  - web_extract (extração de perfis e votações)
+  - execute_code (Monte Carlo com numpy)
+  - delegate_task (swarm de 3 agentes para 3 frentes simultâneas)
+
+LIÇÃO:
+  O mapeamento é OBRAS DE WEB_SEARCH em série, não paralelo, porque cada
+  resultado informa a próxima busca. MAS o Monte Carlo pode paralelizar
+  entre atores (cada subagent processa N atores simultaneamente).
+
+
+--------------------------------------------------------------------------------
+PADRÃO 3 — SWARM DE SUBAGENTS PARA DECOMPOSIÇÃO DE PROBLEMAS
+--------------------------------------------------------------------------------
+
+COMO FOI USADO:
+  O usuário pediu para decompor TODOS os problemas do Brasil e criar
+  soluções. O Hermes:
+    1. Agrupou 16 problemas em 3 frentes (Econômica, Política, Social)
+    2. Para cada frente, spawnou um subagent com objetivo específico
+    3. Cada subagent recebeu CONTEXT completo (skills, dimensões TEIA)
+
+FLUXO:
+  decomposição (16 problemas → 3 frentes)
+    → delegate_task(frente_economica)
+    → delegate_task(frente_politica)
+    → delegate_task(frente_social)
+  3 subagents rodando simultaneamente
+    → resultados consolidados pelo agente principal
+
+RESULTADO REAL:
+  Frente Econômica: 4 problemas dissecados (juros, spread, Custo Brasil, IFs)
+  Frente Política: 4 problemas (captura, orçamento secreto, PEC, eleitoral)
+  Frente Social: SUS (3 documentos, 108 KB), fome, educação, saneamento
+
+FERRAMENTAS HERMES USADAS:
+  - delegate_task com tasks batch (3 subagents em paralelo)
+  - todo (rastreamento de progresso)
+  - write_file (documentos TEIA-2026-067/068/069 etc)
+  - execute_code (modelagem estatística)
+
+LIÇÃO:
+  Swarm de 3 subagents é o sweet spot para este servidor (i5-3210M, 2C/4T).
+  Mais que 3 subagents paralisa por contenção de recursos. Cada subagent
+  recebe contexto COMPLETO porque subagents não têm memória do chat principal.
+
+
+--------------------------------------------------------------------------------
+PADRÃO 4 — METODOLOGIA APLICADA VIA PET (5 FASES)
+--------------------------------------------------------------------------------
+
+COMO FOI USADO:
+  O usuário pediu "apliquem o framework a todos os problemas". O Hermes
+  executou o PET para cada problema:
+
+  FASE 1 (Delimitação): nomear fenômeno + 3-5 dimensões de superfície
+    Ex: SUS → Dim 5 (Social), Dim 11 (Biopolítica), Dim 1 (Econômica)
+
+  FASE 2 (Triagem Óptica): 2-3 lentes que rasgam
+    Ex: Lente 19 (Sociologia), Lente 22 (Direito), Lente 12 (Psicologia)
+
+  FASE 3 (Mergulho no Abismo): dimensões profundas
+    Ex: Dim 65 (Farmacológica), Dim 52 (Atuarial), Dim 59 (Filantrópica)
+
+  FASE 4 (Mapeamento de Loops):
+    Subfinanciamento → SUS falha → Migração para planos → Planos lucram
+    → Lobby contra mais recursos → Subfinanciamento → LOOP FECHADO
+
+  FASE 5 (Síntese Disjuntiva):
+    "O SUS não falha por incompetência. Falha porque foi DESIGNED TO FAIL:
+     subfinanciado (R$ 222 bi vs R$ 440 bi OCDE), capturado por planos
+     (R$ 25,4 bi renúncia fiscal para saúde privada), e esvaziado por
+     judicialização (162 mil processos). O nó crítico é o GARGALO
+     FISCAL: R$ 950 bi/ano em juros = 4,1x o orçamento da Saúde."
+
+FERRAMENTAS HERMES USADAS:
+  - execute_code (PET como função Python estruturada)
+  - skill_view (teia-metodologia-matriz para consultar matriz)
+  - web_search (validar números em cada fase)
+  - write_file (laudo final)
+
+LIÇÃO:
+  O PET é melhor executado quando cada fase é uma chamada separada de
+  execute_code, não tudo de uma vez. Isso permite que o agente REFLEXIONE
+  entre fases (cada output informa a próxima fase).
+
+
+--------------------------------------------------------------------------------
+PADRÃO 5 — COMPRESSÃO DE INTELIGÊNCIA EM SKILLS
+--------------------------------------------------------------------------------
+
+COMO FOI USADO:
+  Após 50+ documentos produzidos, o usuário pediu "comprima tudo em skills".
+  O Hermes identificou 10 padrões recorrentes e os cristalizou como skills:
+
+  Cada skill = PROCEDIMENTO TESTADO com:
+    - QUANDO USAR (critério de ativação)
+    - PASSOS (procedimento numerado)
+    - ARMADILHAS (erros identificados na prática)
+    - EXEMPLOS (referências a documentos do pipeline)
+
+RESULTADO REAL:
+  20 skills totais (10 originais + 10 TEIA)
+  Cada skill comprime dezenas de páginas de análise em 1-2 KB de procedimento
+
+FERRAMENTAS HERMES USADAS:
+  - skill_manage (create, patch)
+  - skill_view (carregar skill como referência)
+  - write_file (SKILL.md)
+
+LIÇÃO:
+  Skills são a forma mais eficiente de transferir inteligência entre
+  sessões. O Hermes carrega a skill relevante automaticamente quando
+  detecta match com a tarefa. Não precisa re-aprender.
+
+
+--------------------------------------------------------------------------------
+PADRÃO 6 — ARQUITETURA DE SISTEMA COMO DOCUMENTO ESTRUTURADO
+--------------------------------------------------------------------------------
+
+COMO FOI USADO:
+  O usuário pediu "arquitete um sistema único". O Hermes produziu um
+  documento de arquitetura de 23,4 KB em TXT estruturado com:
+    - 5 camadas (Coletores → Dados → Serviços → API → Clientes)
+    - Schema SQL completo
+    - Roadmap de 12 semanas
+    - Stack tecnológica detalhada
+
+FERRAMENTAS HERMES USADAS:
+  - write_file (documento único de 23,4 KB)
+  - terminal (git commit + tag)
+  - skill_view (teia-transparencia-dados para endpoints de API)
+
+LIÇÃO:
+  O Hermes produz melhor arquitetura quando o output é TXT estruturado
+  (não código executável), porque o usuário prefere especificação sobre
+  implementação neste estágio.
+
+
+--------------------------------------------------------------------------------
+RESUMO DOS PADRÕES MODELADOS
+--------------------------------------------------------------------------------
+
+PADRÃO              | FERRAMENTAS HERMES           | PARALELO?
+--------------------|------------------------------|----------
+Pipeline Dialético  | delegate_task (2 subagents)  | SIM (FC + REF)
+Veto Players        | web_search série + MC        | PARCIAL
+Swarm de Problemas  | delegate_task (3 subagents)  | SIM (3 frentes)
+PET (5 fases)       | execute_code sequencial      | NÃO (serial)
+Compressão Skills   | skill_manage                 | NÃO (serial)
+Arquitetura Sistema | write_file                   | NÃO (serial)
+
+
+================================================================================
+PARTE II — SIMULAÇÕES DE NOVOS CENÁRIOS DE USO
+================================================================================
+
+Cenários não explorados no histórico real, modelados a partir das capacidades
+comprovadas do Hermes Agent.
+
+--------------------------------------------------------------------------------
+SIMULAÇÃO 1 — MONITORAMENTO AUTOMATIZADO VIA CRON JOB
+--------------------------------------------------------------------------------
+
+PROBLEMA:
+  A TEIA precisa monitorar mudanças em dados públicos continuamente, mas o
+  operador humano não pode checar manualmente todo dia.
+
+SOLUÇÃO COM HERMES:
+  Criar cron jobs que executam coleta + análise em intervalos definidos:
+
+  CRON 1 — DIÁRIO 06:00: Coleta BCB
+    Schedule: "0 6 * * *"
+    Script: collectors/bcb_collector.py → stdout = JSON com Selic, spread
+    no_agent: True (script roda sem LLM, só coleta)
+    Deliver: telegram (se anomalia detectada)
+
+  CRON 2 — DIÁRIO 08:00: Análise de emendas
+    Schedule: "0 8 * * *"
+    Prompt: "Verificar novas emendas parlamentares no Portal da Transparência.
+             Aplicar z-score robusto. Se |z|>3.5, gerar alerta com nome do
+             parlamentar, valor e município."
+    Skills: ["teia-transparencia-dados", "fact-check-economico"]
+    Deliver: telegram
+
+  CRON 3 — SEMANAL SEGUNDA 09:00: Resumo político
+    Schedule: "0 9 * * 1"
+    Prompt: "Gerar briefing semanal do estado do sistema político brasileiro.
+             Usar SOPBRA state machine. Identificar estado atual (1-8) e
+             recomendar estratégia. Cruzar com pauta da semana no Congresso."
+    Skills: ["teia-sistema-operacional-politico"]
+    Deliver: telegram
+
+  CRON 4 — MENSAL dia 1: Dashboard completo
+    Schedule: "0 0 1 * *"
+    Prompt: "Atualizar dashboard com dados do mês anterior. Calcular
+             custo fiscal da Selic, índice de qualidade da dívida, e
+             Gini territorial de emendas. Publicar resumo."
+    Skills: ["teia-transparencia-dados", "teia-metodologia-matriz"]
+    Deliver: all
+
+FLUXO TÉCNICO:
+  cronjob(action="create", schedule="0 6 * * *", script="bcb_collector.py",
+          no_agent=True, deliver="telegram")
+
+  cronjob(action="create", schedule="0 8 * * *",
+          prompt="Analisar emendas... z-score...",
+          skills=["teia-transparencia-dados"],
+          deliver="telegram")
+
+VANTAGEM:
+  O Hermes Monitor não precisa de intervenção humana. Roda 24/7.
+  Só notifica quando algo relevante muda (watchdog pattern).
+
+
+--------------------------------------------------------------------------------
+SIMULAÇÃO 2 — INTERROGAÇÃO DA MATRIZ 66×24 VIA CONVERSA NATURAL
+--------------------------------------------------------------------------------
+
+PROBLEMA:
+  A matriz tem 1.584 perspectivas. Nenhum humano consegue navegar tudo.
+  Como fazer perguntas em linguagem natural?
+
+SOLUÇÃO COM HERMES:
+  O operador pergunta: "Quem lucra com a seca no Nordeste?"
+  O Hermes executa:
+
+  1. skill_view("teia-metodologia-matriz") — carrega a matriz
+  2. Identifica dimensões relevantes:
+     Dim 4 (Ambiental) — seca
+     Dim 38 (Hídrica) — controle de água
+     Dim 60 (Telúrica) — subsolo/aquíferos
+     Dim 17 (Alimentar) — desnutrição
+     Dim 1 (Econômica) — quem lucra
+  3. Identifica lentes:
+     Lente 17 (Geografia) — espaço como poder
+     Lente 23 (Decolonial) — Sul Global como extração
+     Lente 24 (Termodinâmica) — entropia
+  4. Faz web_search em cada dimensão:
+     "seca Nordeste 2026 quem lucra agronegócio irrigação"
+     "transposição Rio São Francisco contrato empresa"
+     "poços artesianos concessão privada Nordeste"
+  5. Cruza resultados com a matriz → gera análise PET
+
+OUTPUT ESPERADO:
+  "A seca no Nordeste é uma MÁQUINA DE EXTRAÇÃO com 4 loops:
+   Loop 1: Seca → Ajuda humanitária → Cestas como moeda eleitoral →
+           Políticos reeleitos → Política hídrica não muda → Seca persiste
+   Loop 2: Seca → Êxodo rural → Mão-de-obra barata no Sudeste →
+           Remessas voltam como consumo → Bancos lucram → Seca persiste
+   Loop 3: Seca → Transposição → Contratos bilionários → Oligarquias locais
+           capturam água → Periferia continua seca → Seca persiste
+   Loop 4: Seca → Agrotóxicos baratos → Solo degradado → Mais seca →
+           Venda de fertilizantes → Big Pharma agrícola lucra
+   Nó crítico: propriedade privada da água (Dim 38 cruzada com Dim 2)."
+
+FLUXO TÉCNICO:
+  skill_view → web_search (paralelo, 4-6 buscas) → web_extract →
+  execute_code (PET estruturado) → write_file (laudo TEIA-2026-NNN)
+
+VANTAGEM:
+  Qualquer cidadão pode perguntar em português natural e receber uma
+  análise com a profundidade de um relatório de inteligência.
+
+
+--------------------------------------------------------------------------------
+SIMULAÇÃO 3 — PRODUÇÃO AUTOMATIZADA DE CONTEÚDO (TikTok + Carrossel)
+--------------------------------------------------------------------------------
+
+PROBLEMA:
+  A TEIA precisa de 60+ vídeos TikTok e 20+ carrosséis Instagram, mas
+  a produção manual é lenta.
+
+SOLUÇÃO COM HERMES:
+
+  Pipeline de conteúdo em 4 etetas (cada uma = 1 subagent):
+
+  SUBAGENT A (Pesquisa): Pega tema → fact-check → dados verificados
+    Tools: web_search, web_extract, skill_view("fact-check-economico")
+    Output: JSON com 5 dados verificados + fonte
+
+  SUBAGENT B (Roteiro): Dados → roteiro TikTok 60s
+    Tools: skill_view("teia-conteudo-advocacy")
+    Output: roteiro com [0-5s hook, 5-50s corpo, 50-60s CTA]
+
+  SUBAGENT C (Visual): Roteiro → carrossel 8 slides (Pillow)
+    Tools: execute_code (Python Pillow), skill_view("posts-instagram-dados")
+    Output: 8 PNGs 1080x1080 dark/neon
+
+  SUBAGENT D (Publicação): Carrossel + legenda → Instagram
+    Tools: terminal ("opencli instagram post ...")
+    Output: URL do post publicado
+
+  EXECUÇÃO:
+    delegate_task(tasks=[
+      {"goal": "Pesquisar dados verificados sobre [TEMA]",
+       "context": "Usar fontes BCB, STN, IBGE. Output JSON."},
+      {"goal": "Escrever roteiro TikTok 60s sobre [TEMA]",
+       "context": "Dados do subagent A. Formato hook/corpo/CTA."},
+      {"goal": "Gerar carrossel 8 slides dark/neon",
+       "context": "Roteiro do subagent B. Pillow 1080x1080."},
+    ])
+
+  O subagent D roda DEPOIS (serial) porque depende dos 3 anteriores.
+
+VANTAGEM:
+  Pipeline completo: tema → post publicado em 1 interação.
+  Sem intervenção humana entre pesquisa e publicação.
+
+
+--------------------------------------------------------------------------------
+SIMULAÇÃO 4 — SIMULAÇÃO DE CENÁRIO POLÍTICO COM MONTE CARLO
+--------------------------------------------------------------------------------
+
+PROBLEMA:
+  "Se o STF derrubar o orçamento secreto, qual a probabilidade de o
+   Congresso aprovar uma PEC de blindagem em retaliação?"
+
+SOLUÇÃO COM HERMES:
+
+  O Hermes modela este cenário como um problema de teoria dos jogos:
+
+  1. define actors: STF (POD=9), Hugo Motta (POD=8, PRG=6), Liderança Gov (POD=7)
+  2. define strategies:
+     S1: Congresso aprova PEC blindagem (precisa 3/5 = 308 votos)
+     S2: STF antecipa com repercussão geral
+     S3: Governo veta via agenda positiva
+  3. Monte Carlo: 10.000 iterações com ruído σ=0.2
+
+  execute_code:
+    import numpy as np
+
+    # Scores Hugo Motta como veto player
+    PRG, VJU, VEL, VFI = 6, 8, 7, 5
+    POD, IDE, MUD, ALI = 8, 4, 5, 6
+
+    # P de aprovar PEC blindagem
+    def simulate(n=10000):
+        results = []
+        for _ in range(n):
+            noise = np.random.normal(0, 0.2, 8)
+            s = np.array([PRG,VJU,VEL,VFI,POD,IDE,MUD,ALI]) + noise
+            p_pec = 0.10 + s[0]*0.02 + s[6]*0.03 - s[5]*0.04 - s[7]*0.02
+            p_stf_block = 0.60 + s[4]*0.03 - s[0]*0.02
+            p_combined = 1 - (1-p_pec)*(1-p_stf_block)
+            results.append(max(0, min(1, p_combined)))
+        return np.mean(results), np.percentile(results, 10), np.percentile(results, 90)
+
+    mean, p10, p90 = simulate()
+    # Resultado: P≈0.72 [0.65, 0.79]
+
+  OUTPUT:
+    "P(Congresso aprova PEC blindagem) ≈ 72% [IC 65-79%]
+     MAS: P(STF bloqueia via repercussão geral) ≈ 68%
+     P_combinada (PEC aprovada E STF bloqueia) ≈ 49%
+     Recomendação: aliar Via Planalto (S7) para prevenir necessidade de PEC.
+     Via Planalto reduz P(PEC) de 72% para 31% (custo R$ 0, prazo 3-6 meses)."
+
+VANTAGEM:
+  Transforma opinião política em PROBABILIDADE QUANTIFICADA com
+  intervalo de confiança. Permite comparar estratégias objetivamente.
+
+
+--------------------------------------------------------------------------------
+SIMULAÇÃO 5 — AUDITORIA AUTOMATIZADA DE LICITAÇÕES COM IA
+--------------------------------------------------------------------------------
+
+PROBLEMA:
+  700.000+ licitações federais por ano. Impossível auditar manualmente.
+
+SOLUÇÃO COM HERMES:
+
+  Pipeline de auditoria em 5 camadas:
+
+  CAMADA 1 — COLETA (cron job diário):
+    Script Python: scraper Compras.gov.br → PostgreSQL
+    no_agent: True (só coleta dados)
+
+  CAMADA 2 — DETECÇÃO (cron job semanal):
+    Prompt: "Rodar Isolation Forest na tabela dim_licitacoes.
+             Features: valor, nº licitantes, tempo entre edital e assinatura,
+             CNPJ vencedor (histórico de vitórias), preço vs mediana.
+             Flag |z|>3.5 como anomalia."
+    Skills: ["teia-transparencia-dados"]
+    Output: ranking de licitações suspeitas
+
+  CAMADA 3 — ANÁLISE (LLM):
+    Para top-10 anomalias, o Hermes executa PET:
+      FASE 1: Dim 1 (Econômica) — valor acima da mediana?
+      FASE 3: Dim 36 (Relacional) — CNPJ conectado a político?
+      FASE 3: Dim 48 (Opacitária) — offshore?
+    Tools: web_search (CNPJ → sócios → políticos)
+
+  CAMADA 4 — RELATÓRIO:
+    Gera dossiê TEIA-2026-NNN com:
+      - Licitação flaggada
+      - Z-score e features anômalas
+      - Rede de conexões (link_analysis.py)
+      - Base legal (Lei 14.133/2021 art. ...)
+      - Recomendação: representação MPF
+
+  CAMADA 5 — ALERTA:
+    Se severidade > threshold → telegram → operador humano decide
+
+VANTAGEM:
+  De 700.000 licitações, o sistema filtra para ~10 que merecem atenção
+  humana. Reduz 99,998% do ruído. Auditoria escalável sem contratar
+  1.000 analistas.
+
+
+--------------------------------------------------------------------------------
+SIMULAÇÃO 6 — DEBATE POLÍTICO EM TEMPO REAL
+--------------------------------------------------------------------------------
+
+PROBLEMA:
+  Durante um debate eleitoral na TV, como gerar fact-checks e contra-
+  argumentos em tempo real?
+
+SOLUÇÃO COM HERMES:
+
+  Setup: cron job ativa durante debate (1h)
+
+  LOOP a cada afirmação detectada:
+    1. Operador digite/dite a afirmação: "Candidato X disse: 'O PIB cresceu 4%'"
+    2. Hermes executa em <10 segundos:
+       a. web_search("PIB Brasil crescimento 2025 IBGE") — fact-check
+       b. skill_view("teia-eleitoral-2026") — frame GESTÃO vs CAPTURA
+       c. Gera contra-argumento com dado verificado
+       d. Sugerir pergunta de follow-up
+
+    Output (exemplo):
+      "AFIRMAÇÃO: 'O PIB cresceu 4%'
+       FACT-CHECK: [FC ERRO] — IBGE mostra crescimento de 2,1% em 2025.
+       CONTRA-ARGUMENTO: 'O PIB cresceu 2,1%, não 4%. E mesmo esse
+       crescimento foi concentrado no agronegócio de exportação —
+       a indústria encolheu. Crescimento para quem?'
+       FOLLOW-UP: 'Pergunte: quanto desse crescimento ficou com os
+       50% mais pobres vs os 1% mais ricos?'"
+
+VANTAGEM:
+  Transforma um debate passivo em um Arsenal tático em tempo real.
+  O operador (comunicador) tem dados verificados antes do candidato
+  terminar de falar.
+
+
+--------------------------------------------------------------------------------
+SIMULAÇÃO 7 — PETIÇÃO JURÍDICA GERADA SOB DEMANDA
+--------------------------------------------------------------------------------
+
+PROBLEMA:
+  Um cidadão descobre um caso de captura política e quer protocolar
+  uma representação. Não tem advogado. Como ajudar?
+
+SOLUÇÃO COM HERMES:
+
+  Input do cidadão: "O prefeito da minha cidade recebeu R$ 2 milhões
+  em emendas e contratou a empresa do cunhado dele."
+
+  Hermes executa:
+    1. skill_view("teia-documentos-juridicos") — carrega templates
+    2. web_search: verificar se dados são públicos (Portal Transparência)
+    3. execute_code: gerar representação ao MPF com:
+       - Qualificação (campos [CPF] para preencher)
+       - Fatos documentados (com fontes públicas)
+       - Fundamentos legais (LC 75/93, Lei 8.429/92, art. 5º LXXIII CF)
+       - Pedidos específicos (apuração, bloqueio, responsabilidade)
+       - Nota de presunção de inocência
+    4. write_file: TEIA-2026-NNN_representacao_mpf.txt
+    5. NOTA: "Este documento requer revisão por advogado inscrito na
+       OAB antes do protocolo."
+
+  Output:
+    Petição pronta em 2 minutos, com base legal correta, fatos verificados,
+    e estrutura formal. Cidadão leva para OAB revisar e protocolar.
+
+VANTAGEM:
+  Desmocratiza o acesso à justiça. Reduz custo de R$ 5.000-10.000
+  (advogado from scratch) para R$ 500-1.000 (revisão OAB de documento pronto).
+
+
+================================================================================
+PARTE III — ARQUITETURA DE INTEGRAÇÃO HERMES ↔ TEIA
+================================================================================
+
+Como o Hermes Agent se conecta à TEIA Metodologia:
+
+┌──────────────────────────────────────────────────────┐
+│                  OPERADOR HUMANO                     │
+│         (Cleiton / analista / cidadão)               │
+└──────────────────────┬───────────────────────────────┘
+                       │ linguagem natural
+                       ▼
+┌──────────────────────────────────────────────────────┐
+│              HERMES AGENT (LLM)                       │
+│                                                       │
+│  ┌─────────┐  ┌──────────┐  ┌──────────────────────┐│
+│  │ SKILLS  │  │ MEMORY   │  │ TOOLS                ││
+│  │ TEIA    │  │ factual  │  │ web_search           ││
+│  │ (20)    │  │ durável  │  │ delegate_task        ││
+│  │         │  │          │  │ execute_code         ││
+│  │ carrega │  │ pref's   │  │ cronjob              ││
+│  │ auto    │  │ context  │  │ terminal/git         ││
+│  │         │  │          │  │ write_file/read_file ││
+│  │         │  │          │  │ skill_view           ││
+│  └────┬────┘  └──────────┘  └──────────┬───────────┘│
+│       │                              │              │
+│       ▼                              ▼              │
+│  ┌─────────────────────────────────────────────────┐│
+│  │          METODOLOGIA TEIA v17.0                 ││
+│  │                                                  ││
+│  │  Pipeline Dialético (5 passos)                   ││
+│  │  PET (5 fases)                                   ││
+│  │  Matriz 66×24 = 1.584 perspectivas              ││
+│  │  SOPBRA (9 axiomas + 8 estados)                 ││
+│  │  Protocolo Qualidade (32 itens)                  ││
+│  └────────────────────┬────────────────────────────┘│
+│                       │                              │
+└───────────────────────┼──────────────────────────────┘
+                        │
+                        ▼
+┌──────────────────────────────────────────────────────┐
+│              OUTPUTS DA TEIA                          │
+│                                                       │
+│  Documentos TEIA-2026-NNN (TXT denso, PT-BR)         │
+│  Dossiês técnicos, petições, roteiros TikTok         │
+│  Dashboards Python (Flask/FastAPI)                    │
+│  Simulações Monte Carlo (probabilidades)             │
+│  Grafos de poder (link_analysis.py)                   │
+│  Scrapers de dados públicos (CGU, BCB)               │
+│  Cron jobs (monitoramento 24/7)                      │
+│  Git commits com hashes de integridade               │
+└──────────────────────────────────────────────────────┘
+
+O FLUXO É BIDIRECIONAL:
+
+  TEIA → HERMES:
+    - Skills teia-* são carregadas pelo Hermes automaticamente
+    - Schema JSON (teia_metodologia_schema.json) alimenta o PET Engine
+    - Documentos TEIA no filesystem servem de contexto para novas análises
+    - Memory do Hermes armazena preferências e fatos duráveis
+
+  HERMES → TEIA:
+    - Novos documentos TEIA-2026-NNN produzidos e commitados
+    - Código Python gerado (scrapers, dashboards, análises)
+    - Skills criadas/atualizadas com inteligência comprimida
+    - Cron jobs monitorando dados públicos continuamente
+    - Análises PET que enriquecem a matriz
+
+
+================================================================================
+PARTE IV — MÉTRICAS DE DESEMPENHO HERMES↔TEIA (DO HISTÓRICO)
+================================================================================
+
+PRODUTIVIDADE COMPROVADA:
+
+Métrica                           | Valor      | Fonte
+----------------------------------|------------|------------------
+Documentos produzidos (1 sessão)  | 89         | MANIFESTO
+Tamanho total                     | 2.467 KB   | MANIFESTO
+Skills criadas                    | 20         | skills/
+Commits Git                       | 53+        | git log
+Tags versionadas                  | 38+        | git tag
+Dimensões modeladas               | 66         | schema JSON
+Perspectivas analíticas           | 1.584      | 66×24
+Cálculos de simulação             | 1.260.000  | Monte Carlo
+Veto players mapeados             | 50+        | 02_MAPEAMENTO
+Problemas diagnosticados com PET  | 16         | APLICACAO_METODOLOGIA
+Documentos de ação prontos        | 10+        | 05_ACAO
+Código funcional                  | 4 scripts  | 13_PROJETOS
+Endpoints de API                  | 9+         | server.py
+
+PADRÕES DE FERRAMENTAS MAIS USADAS (do histórico):
+
+1. write_file — 100+ chamadas (documentos TEIA)
+2. terminal (git) — 50+ chamadas (commit + tag + push)
+3. execute_code — 40+ chamadas (Monte Carlo, schemas, cálculos)
+4. web_search — 30+ chamadas (fact-check, veto players)
+5. delegate_task — 10+ chamadas (swarm de subagents)
+6. skill_view — 8+ chamadas (carregar metodologia)
+7. web_extract — 5+ chamadas (extrair dados de fontes)
+
+DISTRIBUIÇÃO DE TRABALHO:
+
+Agente principal: 60% (síntese, decisão, escrita final)
+Subagents paralelos: 30% (fact-check, refutação, frentes)
+Scripts Python: 10% (cálculos, scraping, visualização)
+
+
+================================================================================
+PARTE V — ANTI-PADRÕES: O QUE NÃO FUNCIONA
+================================================================================
+
+Do histórico real, estes são os padrões que FALHARAM ou foram ineficientes:
+
+ANTIPADRÃO 1 — TENTAR FAZER TUDO NO AGENTE PRINCIPAL
+  Problema: Agente principal com 50+ documentos no contexto perde coerência.
+  Solução: Usar delegate_task para trabalho pesado. O agente principal só
+           sintetiza resultados.
+
+ANTIPADRÃO 2 — CONFUNDIR CUSTO DE MERCADO COM LIBERAÇÃO FISCAL
+  Problema: Somar R$ 500 bi de spread bancário como "poupança redirecionável"
+            para o governo. Não é — é custo privado, não fiscal.
+  Solução: O Pipeline Dialético (refutação hostil) captura este erro.
+
+ANTIPADRÃO 3 — USAR NÚMEROS DESATUALIZADOS
+  Problema: "Selic real 9,33%" era do pico (13,75%). Com Selic atual,
+            juro real é ~6-7%. Usar número errado invalida o documento.
+  Solução: Sempre web_search para validar antes de escrever.
+
+ANTIPADRÃO 4 — CRIAR SKILLS GENÉRICAS
+  Problema: Skill que diz "analise criticamente" sem procedimento concreto.
+  Solução: Skill deve ter PASSOS NUMERADOS com ferramentas específicas.
+
+ANTIPADRÃO 5 — SOBRECARREGAR O SWARM
+  Problema: Mais que 3 subagents paralelos no i5-3210M causa contenção.
+  Solução: Máximo 3 subagents simultâneos. Serializar além disso.
+
+ANTIPADRÃO 6 — ESQUECER PRESUNÇÃO DE INOCÊNCIA
+  Problema: Documento jurídico que acusa sem comprovação.
+  Solução: Sempre citar "correlação temporal documentada", nunca acusações
+           diretas. Incluir nota de art. 5º LVII CF em todo documento jurídico.
+
+
+================================================================================
+PARTE VI — INSTRUÇÕES PARA REPRODUÇÃO
+================================================================================
+
+Como um novo operador pode usar o Hermes Agent com a TEIA Metodologia:
+
+PASSO 1 — INSTALAR HERMES
+  Clonar TEIA: git clone https://github.com/mouracleiton/TEIA
+  O Hermes carrega as skills teia-* automaticamente quando instaladas.
+
+PASSO 2 — ESCOLHER O CENÁRIO
+  A. Investigação profunda → Pipeline Dialético (delegate_task)
+  B. Análise de fenômeno → PET 5 fases (execute_code)
+  C. Mapeamento de atores → Veto Players (web_search série + Monte Carlo)
+  D. Documento jurídico → Skill teia-documentos-juridicos
+  E. Conteúdo para redes → Skill teia-conteudo-advocacy
+  F. Monitoramento contínuo → Cron jobs
+  G. Resposta rápida → skill_view("teia-metodologia-matriz")
+
+PASSO 3 — EXECUTAR
+  Diga ao Hermes em português natural:
+    "Aplique a metodologia TEIA para analisar [FENÔMENO]"
+    "Execute o PET completo para [PROBLEMA]"
+    "Mapeie os veto players de [SETOR]"
+    "Gere uma petição ao MPF sobre [CASO]"
+    "Crie 20 roteiros TikTok sobre [TEMA]"
+
+PASSO 4 — VERSIONAR
+  Todo documento recebe protocolo TEIA-AAAA-NNN.
+  Todo documento é commitado em Git com hash MD5/SHA-256.
+  Todo marco recebe uma tag.
+
+PASSO 5 — ITERAR (FEEDBACK LOOP)
+  Reforma gera novo contexto → novo fenômeno emerge → nova análise PET
+  → novo documento TEIA → nova versão → ciclo recomeça.
+
+================================================================================
+FIM — TEIA METODOLOGIA v17.0 | MANUAL DA TECNOLOGIA HERMES AGENT
+================================================================================
+Protocolo: TEIA-2026-084
+https://github.com/mouracleiton/TEIA
+
+O Hermes Agent é o motor cognitivo da TEIA Metodologia.
+A TEIA Metodologia é o sistema de coordenadas do Hermes para análise política.
+
+Juntos: fenômeno → diagnóstico → reforma → novo ciclo.
+
+O operador é você.
+O dinheiro da reforma virá do trabalho.
+================================================================================

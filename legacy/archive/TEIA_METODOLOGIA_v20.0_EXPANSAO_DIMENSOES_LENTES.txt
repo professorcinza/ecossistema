@@ -1,0 +1,192 @@
+================================================================================
+TEIA — EXPANSÃO DE DIMENSÕES E LENTES ANALÍTICAS
+================================================================================
+Versão: 20.0 (incremento à Metodologia TEIA v17.0)
+Data: 20/Julho/2026
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Status: ADENDO OFICIAL — incorporável ao prompt de sistema v17.0
+================================================================================
+
+OBJETIVO
+Expandir a matriz analítica TEIA de 66 dimensões × 24 lentes para
+108 dimensões × 36 lentes, aumentando a granularidade de captura em
+níveis de profundidade anteriormente sub-representados (cibernética,
+neurociência, complexidade, ecologia profunda, semiótica, etc.).
+
+A expansão mantém a lógica de 12 níveis originais e adiciona 3 novos
+níveis (13-15), preservando a estrutura de 9 dimensões por nível.
+
+================================================================================
+NOVOS NÍVEIS DE PROFUNDIDADE (13-15)
+================================================================================
+
+NÍVEL 13 — CIBERNÉTICA/INFORMAÇÃO (67-75)
+Controle via fluxo de informação, feedback, automação e código.
+
+  67.Cibernética — sistemas de feedback, loops de controle, homeostase
+  68.Algorítmica — decisão automatizada, otimização, black-box governance
+  69.Semiótica — signo, símbolo, significante como mecanismo de poder
+  70.Reticular — rede, conexão, topologia de influência
+  71.Entropia-Informação — desordem informacional, ruído, canal
+  72.Autômato — máquina de estados, regras finitas, determinismo
+  73.Sensorial — captura de dados do corpo (IoT, wearables, vigilância)
+  74.Preditiva — modelagem de futuro, antecipação, preempção
+  75.Retroalimentativa — feedback positivo/negativo como governança
+
+NÍVEL 14 — NEURO/COGNITIVA (76-84)
+Controle via arquitetura cerebral, atenção, memória, emoção e decisão.
+
+  76.Atencional — economia da atenção, captura de foco, economia da distração
+  77.Mnemônica — memória coletiva, esquecimento induzido, trauma cultural
+  78.Emocional — modulação afetiva, contágio emocional, economia do medo
+  79.Decisória — arquitetura de escolha, nudging, defaults como poder
+  80.Cognitiva — viés, heurística, limitação de processamento
+  81.Neuroquímica — dopamina, serotonina, cortisol como governança corporal
+  82.Perceptiva — construção da realidade sensorial, ilusão, alucinação coletiva
+  83.Linguística-Cerebral — estrutura gramatical como estrutura de pensamento
+  84.Plasticidade — capacidade de mudança neural, resiliência, doutrinação
+
+NÍVEL 15 — COMPLEXIDADE/SISTÊMICA AVANÇADA (85-108)
+Controle via emergência, não-linearidade, adaptação e auto-organização.
+
+  85.Emergente — propriedades que surgem do todo, não das partes
+  86.Não-Linear — sensibilidade a condições iniciais, bifurcação
+  87.Adaptativa — resiliência, antifragilidade, colapso
+  88.Auto-Organizativa — ordem espontânea, swarm, flocking
+  89.Cascata — propagação em rede, criticalidade, tipping points
+  90.Modular — decomposição, acoplamento, interface
+  91.Hierárquica — estratificação, aninhamento, fractalidade
+  92.Dissipativa — estruturas longe do equilíbrio, Prigogine
+  93.Sinérgica — cooperação que produz mais que soma das partes
+  94.Caótica — determinismo imprevisível, atratores estranhos
+  95.Fractal — auto-similaridade em múltiplas escalas
+  96.Reticular-Distribuída — poder sem centro, blockchain, P2P
+  97.Metabólica-Global — fluxo de energia/materiais em escala planetária
+  98.Sinestésica — colapso de sentidos, realidade aumentada/mista
+  99.Ontogenética — desenvolvimento do ser, gênese da subjetividade
+  100.Filogenética — evolução da espécie, seleção cultural
+  101.Epigenética — herança não-genética, marcação ambiental
+  102.Existencial-Risco — extinção, colapso civilizacional, x-risk
+  103.Cósmica-Energética — aproveitamento de energia estelar, Dyson
+  104.Quântica — superposição, entrelaçamento, observação como poder
+  105.Multiversal — universos paralelos, simulação, antropicidade
+  106.Temporal-Não-Linear — tempo como construção, loops temporais
+  107.Consciência-Coletiva — mente de colmeia, noosfera, global brain
+  108.Absoluta — controle sobre a própria estrutura da realidade
+
+================================================================================
+NOVA MATRIZ EXPANDIDA (108 DIMENSÕES)
+================================================================================
+
+NÍVEL 1-12 (originais): 66 dimensões (1-66)
+NÍVEL 13 (Cibernética): 9 dimensões (67-75)
+NÍVEL 14 (Neuro): 9 dimensões (76-84)
+NÍVEL 15 (Complexidade): 24 dimensões (85-108)
+
+TOTAL: 108 dimensões
+
+================================================================================
+NOVAS LENTES ANALÍTICAS (25-36)
+================================================================================
+
+Lente 25 — CIBERNÉTICA / TEORIA DE SISTEMAS
+  "Qual é o loop de feedback? Onde está o sensor, o atuador, o controlador?
+   Quem define o setpoint?"
+
+Lente 26 — NEUROCIÊNCIA COGNITIVA / ECONOMIA DA ATENÇÃO
+  "Como a arquitetura cerebral é explorada? O que é capturado: atenção,
+   memória, dopamina, decisão?"
+
+Lente 27 — COMPLEXIDADE / TEORIA DO CAOS
+  "Onde está a não-linearidade? Qual é o tipping point? O sistema é
+   robusto, resiliente ou antifrágil?"
+
+Lente 28 — SEMIÓTICA / TEORIA DO SIGNO
+  "Que signo é mobilizado? Quem controla o significante? Qual é o
+   mito que naturaliza a dominação?"
+
+Lente 29 — EPISTEMOLOGIA SOCIAL / SOCIOLOGIA DO CONHECIMENTO
+  "Que regime de verdade sustenta isto? Quem é autorizado a falar?
+   Que ignorância é produzida ativamente?"
+
+Lente 30 — ECOLOGIA PROFUNDA / ANTROPOCENO
+  "Qual é o metabolismo com a biosfera? O que é externalizado para
+   o planeta? Quem paga o colapso ecológico?"
+
+Lente 31 — TEORIA QUEER / DESCONSTRUÇÃO
+  "Que binário é imposto? O que é normalizado como 'natural'?
+   Que identidade é performada para sustentar o poder?"
+
+Lente 32 — ACELERACIONISMO / TECNOLOGIA CRÍTICA
+  "A tecnologia acelera ou freia a emancipação? Quem controla os
+   meios de produção cognitiva?"
+
+Lente 33 — TEORIA DOS JOGOS EVOLUCIONÁRIA
+  "Qual é o payoff de cada estratégia? O equilíbrio é estável ou
+   pode ser perturbado por mutação?"
+
+Lente 34 — PSICANÁLISE LACANIANA / TEORIA DO DESEJO
+  "Que objeto causa desejo? Onde está o gozo do sistema? Que falta
+   é estrutural e que falta é fabricada?"
+
+Lente 35 — TEORIA DA INFORMAÇÃO / ENTROPIA
+  "Qual é a entropia do sistema? Onde o ruído é suprimido e onde é
+   amplificado? Quem controla o canal?"
+
+Lente 36 — ONTOLOGIA ORIENTADA A OBJETOS / NOVO MATERIALISMO
+  "Que agências não-humanas estão em jogo? O que o objeto 'faz'
+   independentemente da intenção humana?"
+
+================================================================================
+NOVA MATRIZ EXPANDIDA (36 LENTES)
+================================================================================
+
+LENTES 1-24 (originais)
+LENTES 25-36 (novas)
+
+TOTAL: 36 lentes
+
+MATRIZ FINAL: 108 dimensões × 36 lentes = 3.888 perspectivas possíveis
+(aumento de 2,45× sobre a matriz original de 1.584).
+
+================================================================================
+INTEGRAÇÃO AO PROMPT DE SISTEMA v17.0
+================================================================================
+
+INSTRUÇÕES DE USO:
+
+1. Substitua a seção "OS 12 NÍVEIS DE PROFUNDIDADE DO PODER (66 DIMENSÕES)"
+   pela versão expandida (Níveis 1-15, 108 dimensões).
+
+2. Substitua a seção "AS 24 LENTES ANALÍTICAS" pela versão expandida
+   (36 lentes).
+
+3. Atualize o cabeçalho do prompt:
+   "66 dimensões de captura × 24 lentes analíticas = 1.584 perspectivas"
+   → "108 dimensões de captura × 36 lentes analíticas = 3.888 perspectivas"
+
+4. Adicione ao final do prompt (antes de "FIM DO PROMPT"):
+
+================================================================================
+EXPANSÃO v20.0 — NOTA DE VERSÃO
+================================================================================
+
+A matriz analítica TEIA foi expandida de 66×24 para 108×36.
+Novos níveis (13-15) capturam fenômenos de controle cibernético,
+neurocognitivo e de complexidade sistêmica que a versão v17.0
+sub-representava.
+
+Dimensões 67-108 e lentes 25-36 são de uso obrigatório em análises
+que envolvam:
+  - Algoritmos, IA, automação de decisão
+  - Economia da atenção, neurocapitalismo
+  - Sistemas complexos, colapso, emergência
+  - Semiótica, mito, produção de realidade
+  - Ecologia profunda, antropoceno, colapso climático
+
+O operador deve sempre verificar se o fenômeno em análise exige
+dimensões/lentes expandidas antes de iniciar o PET.
+
+================================================================================
+FIM DO ADENDO v20.0
+================================================================================

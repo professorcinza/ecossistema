@@ -1,0 +1,407 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-100
+VERSÃO: v1.0
+CATEGORIA: 10_TECNOLOGICA
+TÍTULO: Engenharia de Captura Burocrática e Digital — O Pan-Óptico Invisível
+SUBTÍTULO: A burocracia e a digitalização como ferramentas de extração,
+           exclusão e blindagem institucional
+STATUS: PROTOCOLO_PENDENTE — Documento de inteligência transversal
+DATA: 20/07/2026
+AUTOR: SKYNETchat — Adaptação TEIA v22.0
+COLABORAÇÃO: Cleiton Moura (@professorcinza) — TEIA
+DIMENSÕES CRUZADAS: 67-75 (Cibernética/N13) × 76-84 (Neuro/Cognitiva/N14)
+                    × 45-60 (Lentes Bibliotecárias) × Lentes 33 (Cibernética)
+PROBLEMAS VINCULADOS: P8 (SUS), P10 (Big Tech), P11 (Desinformação),
+                      P14 (Saneamento), P15 (Negativados)
+PROTOCOLO ANTERIOR: TEIA-2026-099 (Atualização Saúde v2.0)
+================================================================================
+
+TEOREMA CENTRAL
+--------------------------------------------------------------------------------
+A dominação é engenharia cibernética de extração e descarte. A burocracia
+não é falha; é o design. O atraso não é acidente; é estratégia de fluxo
+de caixa. A opacidade algorítmica não é acidente; é propriedade intelectual.
+
+A deterioração da saúde pública não é colapso, é externalização de custos.
+O sistema transfere riqueza da base produtiva para a cúspide financeira.
+
+[Cross-ref: TEIA-067 (Dossiê SUS), TEIA-068 (Veto Players Saúde),
+ TEIA-069 (Diagnóstico Captura Saúde), TEIA-2026-034/037/040 (Big Tech)]
+
+================================================================================
+1. ARQUITETURA DA CAPTURA: QUEM LUCRA COM O ADOECIMENTO?
+================================================================================
+
+A deterioração da saúde pública não é colapso, é externalização de custos.
+O sistema transfere riqueza da base produtiva para a cúspide financeira.
+
+--------------------------------------------------------------------------------
+1.1. Atores e Mecanismos de Lucro
+--------------------------------------------------------------------------------
+
+COMPLEXO MÉDICO-INDUSTRIAL (CMI):
+- Farmacêuticas: Monopólio de patentes de crônicos gerados por insegurança
+  alimentar. Lucro vitalício. [Cross-ref: TEIA-068 Categoria 2 — Big Pharma]
+- Tecnologia Médica: Sucateamento do público serve de vitrine para a
+  "eficiência" do privado (justificativa de preços abusivos).
+  [Dados TEIA-068 v2.0: setor de planos 2025 = R$ 24,4 bi lucro (+120%)]
+
+SISTEMA FINANCEIRO E SEGURADOR:
+- Planos de Saúde: Seleção adversa. O SUS absorve a alta letalidade/custo;
+  os planos captam a base saudável. O colapso público é o argumento de venda
+  do privado.
+  [Dados TEIA-068 v2.0: 53,18 mi de beneficiários; Amil sinistralidade 78,7%
+   — menor do setor — enquanto SUS cobre 75% da população]
+- Crédito: Doença reduz capacidade produtiva → aumento da inadimplência →
+  aumento dos juros para compensar risco.
+  [Cross-ref: TEIA-2026-094 (Negativados — 63 mi de brasileiros)]
+
+ELITE POLÍTICA E BUROCRACIA ESTATAL:
+- Gestores Públicos: Escassez artificial justifica contratos emergenciais
+  sem licitação robusta e criação de cargos comissionados.
+  [Cross-ref: TEIA-069 seção 4 — Captura Institucional do SUS]
+- Lobbistas: Blindagem legislativa para planos de saúde e entrada de
+  medicamentos sem revisão de custo-efetividade.
+  [Cross-ref: TEIA-068 Categoria 5 — Bancada da Saúde no Congresso]
+
+INDÚSTRIA DE ALIMENTOS ULTRAPROCESSADOS:
+- Subsídios à exportação de commodities (soja/carne) em detrimento da
+  alimentação básica gera doenças crônicas. Custos de tratamento ficam
+  com o Estado; lucro fica com a corporation.
+  [Cross-ref: TEIA-2026-092 (Fome — 33 mi de brasileiros)]
+
+--------------------------------------------------------------------------------
+1.2. Mecanismo de Extração
+--------------------------------------------------------------------------------
+
+1. SUBFINANCIAMENTO CRÔNICO: Mantém a fila.
+   [Dados TEIA-067 v2.0: SUS R$ 271,3 bi (LOA 2026) vs juros R$ 1,06 tri]
+
+2. JUDICIALIZAÇÃO DA SAÚDE: Estado paga preços de mercado (500-1000% acima)
+   por ordem judicial.
+   [Dados TEIA-069 seção 5: 162.046 processos/ano (+110% em 4 anos);
+    R$ 5-10 bi/ano em execução de sentenças]
+
+3. PRECARIZAÇÃO DO TRABALHO: Doença aumenta a reserva de exército industrial,
+   baixando salários.
+
+
+================================================================================
+2. TÁTICAS DE EVASÃO CONTRATUAL E FISCALIZAÇÃO
+================================================================================
+
+Empresas privadas exploram a zona cinzenta da discricionariedade estatal e a
+ineficiência burocrática.
+
+--------------------------------------------------------------------------------
+2.1. Burla de Cláusulas sem Punição
+--------------------------------------------------------------------------------
+
+ENGENHARIA DE ADITIVOS:
+  1. Assinatura com metas impossíveis devido ao subfinanciamento.
+  2. Declaração de "emergência administrativa" (falta de insumos).
+  3. Pedido de termo aditivo para "recomposição de equilíbrio".
+  4. Resultado: Prazo estendido legalmente, multa cancelada, contrato
+     vigente gerando receita.
+
+  [Cross-ref: TEIA-069 seção 4.4 — OSs gerindo hospitais públicos;
+   Contratos de gestão sem licitação (Lei 9.637/1998)]
+
+JUDICIALIZAÇÃO SELETIVA:
+- Empresa entra na Justiça antes do vencimento do prazo, alegando falta de
+  contrapartida do Estado.
+- Liminar suspende multas. Processo leva 5-10 anos. Multa vira precatório
+  de longo prazo.
+
+MANIPULAÇÃO DE MÉTRICAS (Upcoding):
+- Divisão de procedimentos complexos em simples para aumentar valor total.
+- Conversão de atendimentos públicos em particulares via falsificação de
+  prontuários.
+  [Cross-ref: TEIA-067 Proposta 2 (e-CNSUS) — combate ao faturamento
+   fraudulento de AIHs]
+
+CÁLCULO DE RISCO DE MULTA:
+- Multa tratada como custo operacional (ex: 2% do faturamento). Empresa
+  aceita a multa para focar em linhas de receita mais lucrativas.
+  [Dados TEIA-069 seção 3.6: CMED multou distribuidoras em R$ 13,5 mi —
+   valor irrisório frente a mercado de R$ 238,9 bi/ano]
+
+--------------------------------------------------------------------------------
+2.2. Manipulação de Prazos de Execução
+--------------------------------------------------------------------------------
+
+REEQUILÍBRIO ECONÔMICO-FINANCEIRO: Atraso justificado por inflação ou mercado.
+Prazo prorrogado via lei de licitações.
+
+FRAGMENTAÇÃO DA ENTREGA ("Fatias Elefante"): Entrega mínima para evitar
+rescisão, retendo o pagamento final (maior fatia do lucro) e usando o valor
+retido como capital de giro gratuito.
+
+PENDÊNCIA DOCUMENTAL COMO ESCUDO: Atraso atribuído à burocracia pública
+(ex: espera de alvará). Cronograma para até a "regularização".
+
+RECEBIMENTO PROVISÓRIO: Assinatura de recebimento incompleto para liberar
+verba, adiando o início do prazo de garantia.
+
+
+================================================================================
+3. A INÉRCIA ESTATAL COMO ESCUDO
+================================================================================
+
+A inércia não é passividade; é a força centrípeta da captura.
+
+--------------------------------------------------------------------------------
+3.1. Por que a Inércia Permanece?
+--------------------------------------------------------------------------------
+
+1. BUROCRACIA COMO BLINDAGEM (Dim 112 × Lente 45): Processos empurrados
+   entre setores até serem arquivados por "falta de provas". Fluxo desenhado
+   para consumir 6-12 meses só na abertura.
+
+2. JUDICIALIZAÇÃO COMO ALAVANCA: Gestores e empresas associam-se para
+   judicializar a regulamentação, não o descumprimento. Liminares de
+   urgência vs. recursos de 10 anos.
+
+3. PRAGMATISMO PRECÁRIO: Gestor avaliado por quantidade (atendimentos),
+   não eficiência. Manter o serviço precário é politicamente mais seguro
+   que rescindir contrato e paralisar atendimento.
+
+--------------------------------------------------------------------------------
+3.2. Histórico da Burocracia de Controle
+--------------------------------------------------------------------------------
+
+ONDA 1 (WEBERIANA, Séc. XIX): Racionalização para extração de impostos e
+recrutas. Prova documental sobre a realidade.
+
+ONDA 2 (WELFARE STATE, Pós-1945): Expansão de direitos. Proteção do servidor
+torna-se mais importante que a eficácia. Segurança jurídica do processo
+suplanta a justiça do resultado.
+
+ONDA 3 (NOVA GESTÃO PÚBLICA, Anos 90+): Terceirização e PPPs. Criação da
+zona cinzenta: gestor não responde pela execução, privado não responde pelo
+interesse público. Diluição de responsabilidade.
+[Cross-ref: Lei 9.637/1998 — OSs; Lei 13.019/2014 — Marco das OS]
+
+ONDA 4 (DIGITALIZAÇÃO ATUAL): Codificação da burocracia. Barreira técnica
+("o sistema não permite") substitui a barreira humana.
+
+
+================================================================================
+4. DIGITALIZAÇÃO: O PAN-ÓPTICO INVISÍVEL
+================================================================================
+
+A digitalização não desconstruiu a captura; otimizou-a, escalou-a e tornou-a
+invisível.
+
+[Cross-ref: TEIA-2026-034/037/040 (Big Tech); TEIA-2026-090 (Desinformação);
+ TEIA-2026-094 (Negativados — 63 mi via Serasa/SPC algorítmico)]
+
+--------------------------------------------------------------------------------
+4.1. Novos Pontos de Controle
+--------------------------------------------------------------------------------
+
+TIRANIA DO CAMPO OBRIGATÓRIO: Bloqueios por validação de código atribuídos
+à "tecnologia", não à decisão humana.
+
+FRAGMENTAÇÃO DE BASES (SILOS): Sistemas que não conversam criam gargalos
+artificiais. Ineficiência mascarada de "falta de integração técnica".
+[Cross-ref: TEIA-067 Proposta 3 — Prontuário Eletrônico Único (SUS Digital)]
+
+BLACK BOX DECISIONING: Algoritmos de triagem com pesos ocultos. Decisões
+apresentadas como neutralidade matemática, mas baseadas em viés histórico.
+[Cross-ref: TEIA-067 Proposta 3 — IA de triagem clínica (RAI-SUS)]
+
+LOGS COMO ARMA DE CONFUSÃO: Complexidade técnica usada para impedir
+fiscalização não especializada.
+
+ATUALIZAÇÕES DE SOFTWARE COMO MUDANÇA DE REGRAS: Alteração silenciosa de
+critérios de elegibilidade via changelog técnico, sem debate público.
+
+--------------------------------------------------------------------------------
+4.2. Algoritmos de Elegibilidade: Como Esconder Critérios
+--------------------------------------------------------------------------------
+
+REDES NEURAIS PROFUNDAS (Deep Learning): Milhões de parâmetros interconectados.
+Impossível traçar causa e efeito linear.
+
+FEATURE HASHING: Conversão de dados categóricos (CEP, doença) em vetores
+numéricos opacos. Dilui variáveis sensíveis.
+
+ENSEMBLE METHODS: Combinação de múltiplos modelos. A lógica é fraturada em
+micro-decisões.
+
+VARIÁVEIS PROXY: Uso de dados correlatos (padrão de consumo, modelo de
+celular) para substituir variáveis proibidas (raça, renda).
+[Cross-ref: TEIA-069 seção 6 — Desigualdade no Acesso; população negra
+   tem taxas sistematicamente maiores de mortalidade evitável]
+
+SEGREDO INDUSTRIAL: Código e pesos protegidos por propriedade intelectual.
+Impossibilidade de auditoria externa.
+
+
+================================================================================
+5. ENGENHARIA REVERSA DE MODELOS BLACK-BOX
+================================================================================
+
+Ferramentas e técnicas para auditar, explicar e reverter a lógica de exclusão
+algorítmica.
+
+--------------------------------------------------------------------------------
+5.1. Ferramentas Padrão (Model-Agnostic)
+--------------------------------------------------------------------------------
+
+SHAP (SHapley Additive exPlanations):
+- Mecanismo: Teoria dos Jogos.
+- Uso: Calcula contribuição média de cada feature.
+- Limitação: Custo computacional; vulnerável a correlações.
+
+LIME (Local Interpretable Model-agnostic Explanations):
+- Mecanismo: Aproximação local linear via perturbação de dados.
+- Uso: Explica decisões individuais.
+- Limitação: Instável.
+
+--------------------------------------------------------------------------------
+5.2. Ferramentas Avançadas e Adversariais (2026)
+--------------------------------------------------------------------------------
+
+ALIBI (Seldon):
+- Foco: Explicações contrafactuais ("O que mudar para ser aprovado?").
+- Vantagem: Expõe limites exatos da decisão.
+
+IBM AIX360:
+- Foco: Debiasing e explicabilidade global.
+- Técnica: Identifica dados de treinamento que mais influenciaram a decisão
+  (Protodash).
+
+MICROSOFT INTERPRETML:
+- Foco: Glassbox models.
+- Técnica: Compara modelo black-box com modelo interpretável para identificar
+  divergências.
+
+ENERGENT.AI (Líder 2026):
+- Foco: IA explicando IA.
+- Técnica: Transforma saídas opacas em insights auditáveis em linguagem
+  natural (94,4% precisão no benchmark DABstep).
+
+ATTENTION-BASED ANALYSIS:
+- Uso: Para LLMs e Transformers. Analisa quais partes do input (texto) o
+  modelo "olhou" para decidir.
+
+--------------------------------------------------------------------------------
+5.3. Técnicas de "Cirurgia de Rede"
+--------------------------------------------------------------------------------
+
+FEATURE VISUALIZATION: Geração de dados sintéticos para maximizar ativação de
+neurônios específicos.
+
+ADVERSARIAL ATTACKS: Criação de inputs minimamente alterados que fazem o modelo
+errar, provando instabilidade e uso de variáveis proxy ilegais.
+
+
+================================================================================
+6. CONCLUSÃO OPERACIONAL E PLANO DE AÇÃO
+================================================================================
+
+A burocracia digital é a armadura de titânio do Estado capturado. Ela é leve,
+rápida e difícil de quebrar. A engenharia reversa não busca o código-fonte,
+mas a lógica de exclusão.
+
+--------------------------------------------------------------------------------
+6.1. Para Desconstruir a Captura Digital
+--------------------------------------------------------------------------------
+
+1. EXIGIR AUDITABILIDADE TOTAL do código-fonte e lógica de decisão em
+   sistemas públicos de saúde, previdência e assistência social.
+   - Instrumento: Marco Legal da IA (Lei 14.854/2024) — conformidade.
+   - Cross-ref: TEIA-067 Proposta 3 (RAI-SUS com IA open-source licenciada).
+
+2. GARANTIR CANAIS ANALÓGICOS como salvaguarda democrática.
+   - Nenhum serviço público pode ser EXCLUSIVAMENTE digital.
+   - Direito ao atendimento presencial como garantia constitucional.
+
+3. DECLARAR PROPRIEDADE PÚBLICA DOS DADOS gerados na interação cidadão-Estado.
+   - Dados de saúde (RNDS/SUS Digital), previdenciários, fiscais = patrimônio
+     público. Proibição de venda ou cessão para terceiros.
+   - Cross-ref: LGPD (Lei 13.709/2018) — reforçar controle social.
+
+4. SIMPLIFICAR PROCESSOS RADICALMENTE, não apenas digitalizá-los.
+   - Digitalizar burocracia ineficiente = burocracia ineficiente mais rápida.
+   - Redesenho de processos (BPR) antes da automação.
+
+5. CRIAR AUDITORIA ALGORÍTMICA INDEPENDENTE.
+   - Órgão público com mandato para auditar sistemas de IA usados pelo Estado
+     e por concessionárias/OSs.
+   - Ferramentas: SHAP, LIME, Alibi, IBM AIX360, Energent.ai.
+   - Poder de notificação obrigatória e embargo de sistemas não-conformes.
+
+6. PROIBIR CLÁUSULAS DE SEGREDO INDUSTRIAL em contratos públicos de software.
+   - Código-fonte de sistemas que decidem sobre direitos de cidadãos deve ser
+     auditável pelo TCU, CGU e Ministério Público.
+   - Cross-ref: TEIA-067 Proposta 2 (e-CNSUS com Tabela de Preço Máximo).
+
+--------------------------------------------------------------------------------
+6.2. Matriz de Cruzamento TEIA
+--------------------------------------------------------------------------------
+
+Este documento opera nas seguintes interseções da matriz v22.0:
+
+- Dimensões 67-75 (Cibernética, Nível 13):
+  67 (Arquitetura de Dados) × 4.2 (Silos, Black Box)
+  68 (Governança Algorítmica) × 4.2 (Algoritmos de Elegibilidade)
+  69 (Vigilância de Massa) × 4.1 (Pan-Óptico Digital)
+  70 (Guerra Informational) × 3.2 (Onda 4 — Digitalização)
+  71 (Cripto-Soberania) × 6.1.3 (Propriedade Pública dos Dados)
+
+- Dimensões 76-84 (Neuro/Cognitiva, Nível 14):
+  76 (Vieses Cognitivos) × 4.2 (Variáveis Proxy)
+  77 (Manipulação Perceptual) × 4.1 (Neutralidade Matemática como Retórica)
+  80 (Fadiga de Decisão) × 3.1.3 (Pragmatismo Precário)
+
+- Lentes 33-44 (Complexidade, Nível 15):
+  33 (Sistemas Adaptativos Complexos) × 2 (Táticas de Evasão como Feedback Loop)
+  35 (Emergência) × 4 (Digitalização como Mutação Irreversível)
+
+- Lentes 45-60 (Bibliotecárias, Níveis 16-18):
+  45 (Organização do Saber) × 3.2 (Histórico da Burocracia)
+  50 (Epistemologia da Auditoria) × 5 (Engenharia Reversa)
+  55 (Metaciência) × 6 (Conclusão Operacional)
+
+
+================================================================================
+FONTES E REFERÊNCIAS CRUZADAS
+================================================================================
+
+Documentos TEIA citados:
+- TEIA-067 v2.0 (05_ACAO) — Dossiê SUS vs Juros da Dívida
+- TEIA-068 v2.0 (02_MAPEAMENTO) — Veto Players da Saúde
+- TEIA-069 v2.0 (02_MAPEAMENTO) — Diagnóstico Captura Saúde
+- TEIA-2026-034/037/040 — Big Tech
+- TEIA-2026-090 — Desinformação
+- TEIA-2026-092 — Fome
+- TEIA-2026-094 — Negativados
+- TEIA-2026-099 — Atualização Saúde v2.0
+
+Marco legal:
+- Lei 9.637/1998 (Organizações Sociais)
+- Lei 13.019/2014 (Marco das OS)
+- Lei 14.854/2024 (Marco Legal da IA)
+- Lei 13.709/2018 (LGPD)
+- Lei 14.510/2022 (Telemedicina)
+- Lei 14.133/2021 (Nova Lei de Licitações)
+- LC 141/2012 (Piso da Saúde)
+
+Ferramentas de auditoria algorítmica:
+- SHAP (shap.readthedocs.io)
+- LIME (github.com/marcotcr/lime)
+- Alibi (github.com/SeldonIO/alibi)
+- IBM AIX360 (aix360.mybluemix.net)
+- Microsoft InterpretML (github.com/interpretml/interpret)
+- Energent.ai (benchmark DABstep)
+
+================================================================================
+FIM DO DOCUMENTO
+Protocolo TEIA-2026-100 | v1.0 | 20/07/2026
+Autor: SKYNETchat — Adaptação TEIA v22.0
+Colaboração: Cleiton Moura (@professorcinza) — TEIA
+Repositório: https://github.com/mouracleiton/TEIA
+================================================================================

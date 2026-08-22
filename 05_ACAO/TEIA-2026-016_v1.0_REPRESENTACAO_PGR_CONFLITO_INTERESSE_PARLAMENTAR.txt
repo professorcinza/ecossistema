@@ -1,0 +1,731 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-016
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Representação à PGR/MPF — Conflito de Interesse
+STATUS: PROTOCOLO_PENDENTE
+DESTINATÁRIO: Procurador-Geral da República
+AÇÃO: Protocolar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 40,415 bytes (39.5 KB)
+HASH MD5: 9f7dc63d0082885d6b82a770a4a2ba86
+HASH SHA-256: 47359de2736a219630a7caa4396667b94af4a6259391a4d6526113910dcbfe1a
+================================================================================
+
+================================================================================
+REPRESENTAÇÃO FORMAL AO MINISTÉRIO PÚBLICO FEDERAL
+CONFLITO DE INTERESSE INSTITUCIONAL NO CONGRESSO NACIONAL
+ACÚMULO DE CARGOS DE LIDERANÇA GOVERNAMENTAL E PRESIDÊNCIA DE
+BANCADAS SETORIAIS — PEDIDO DE MANIFESTAÇÃO/PARECER DA PGR
+================================================================================
+
+EXCELENTÍSSIMO SENHOR PROCURADOR-GERAL DA REPÚBLICA
+Senhor Procurador-Geral da República
+Ministério Público Federal — PGR/MPF
+Edifício Sede da PGR — SAF Sul, Quadra 4, Conjunto C — Brasília/DF, CEP 70050-900
+
+————————————————————————————————————————————————————————————————————————————————
+
+I. QUALIFICAÇÃO DO REPRESENTANTE
+————————————————————————————————————————————————————————————————————————————————
+
+CLEITON MOURA, brasileiro, analista geopolítico e econômico, com endereço
+profissional na cidade de [inserir município/UF], vem, respeitosamente, à
+presença de Vossa Excelência, por intermédio desta REPRESENTAÇÃO FORMAL,
+fundamentada no art. 5º, inciso XXXIV, alínea “a”, da Constituição da
+República, no art. 6º, inciso VII, da Lei Complementar nº 75/1993 (Lei
+Orgânica do Ministério Público da União), no art. 26 da Lei nº 8.625/1993
+(Lei Orgânica Nacional do Ministério Público) e no art. 8º da Resolução CNMP
+nº 15/2007, expor e requerer o que se segue.
+
+A presente representação NÃO postula a instauração de procedimento
+criminal, NÃO imputa a prática de infração penal a qualquer dos
+parlamentares nominados e NÃO pretende substituir a competência privativa
+do Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados ou do
+Senado Federal. O objeto é estritamente INSTITUCIONAL: documentar padrão
+reiterado de acúmulo de cargos parlamentares, de liderança do Poder
+Executivo e de presidência de Frentes Parlamentares setoriais que, em
+conjunto, configura CONFLITO DE INTERESSE INSTITUCIONAL ainda não
+disciplinado no ordenamento jurídico brasileiro, e solicitar à PGR/MPF a
+emissão de MANIFESTAÇÃO TÉCNICA OU PARECER sobre a conveniência e os
+contornos de sua regulamentação.
+
+————————————————————————————————————————————————————————————————————————————————
+
+II. OBJETO DA REPRESENTAÇÃO
+————————————————————————————————————————————————————————————————————————————————
+
+Documento-se, nos termos desta representação, a ocorrência sistemática, no
+quadriênio 2023–2027 da 57ª Legislatura, de acúmulo — pelo mesmo
+parlamentar — de três vetores de atuação com potenciais obrigações
+funcionais divergentes entre si:
+
+   (a) CARGO DE LIDERANÇA DO GOVERNO FEDERAL NA CÂMARA DOS DEPUTADOS
+       ou cargo equivalente de articulação da agenda do Poder Executivo
+       (cargo de confiança, com prerrogativas regimentais e recursos
+       institucionais, sem vinculação eleitoral direta ao mandato);
+
+   (b) PRESIDÊNCIA, SECRETARIA-GERAL OU COORDENAÇÃO DE FRENTE
+       PARLAMENTAR DE INTERESSE SETORIAL — entidade suprapartidária
+       instituída na forma da Resolução da Câmara dos Deputados nº 21,
+       de 2006 (que dispõe sobre as Frentes Parlamentares), com a
+       redação dada pelas Resoluções posteriores;
+
+   (c) RELATORIA DE MATÉRIA LEGISLATIVA QUE AFETA DIRETAMENTE O SETOR
+       representado pela Frente Parlamentar presidida pelo mesmo
+       parlamentar (matéria tributária, orçamentária, previdenciária,
+       regulatória ou administrativa).
+
+O acúmulo simultâneo dessas três funções pelo mesmo agente público cria
+estado potencial permanente de tensão entre deveres funcionais
+inconciliáveis, em prejuízo aos princípios constitucionais da
+IMPESSOALIDADE (art. 37, caput, da CF), da MORALIDADE ADMINISTRATIVA
+(art. 37, caput, da CF), da TRANSPARÊNCIA (art. 37, § 1º, da CF) e da
+PROIBIÇÃO DO CONFLITO DE INTERESSES, que, embora não autonomamente
+tipificada como crime para parlamentares, conforma dever expresso do
+Código de Ética e Decoro Parlamentar da Câmara dos Deputados (Resolução
+da Câmara nº 25/2001, com alterações posteriores) e da Resolução da
+Câmara dos Deputados nº 20/2021 (Código de Conduta da Câmara dos
+Deputados) e correlatas.
+
+————————————————————————————————————————————————————————————————————————————————
+
+III. FUNDAMENTOS JURÍDICOS
+————————————————————————————————————————————————————————————————————————————————
+
+III.1. Princípios constitucionais
+
+   — Art. 37, caput, da Constituição da República: a administração
+     pública direta e indireta de qualquer dos Poderes da União
+     obedecerá aos princípios de LEGALIDADE, IMPESSOALIDADE,
+     MORALIDADE, PUBLICIDADE e EFICIÊNCIA.
+
+   — Art. 37, § 1º, da CF: a publicidade dos atos, programas e obras
+     dos órgãos públicos terá caráter educativo, informativo e de
+     orientação social; dela não poderá constar nome, símbolo ou
+     imagens que caracterizem promoção pessoal.
+
+   — Art. 5º, inciso LXXIII, da CF (ação popular): qualquer cidadão é
+     parte legítima para pleitear a anulação de ato lesivo à
+     moralidade administrativa.
+
+   — Art. 55, § 1º, da CF: sofrerá a perda do mandato o Deputado ou
+     Senador que proceder de modo incompatível com o decoro
+     parlamentar.
+
+   — Art. 127, caput, da CF: o Ministério Público é instituição
+     permanente, essencial à função jurisdicional do Estado,
+     incumbindo-lhe a defesa da ordem jurídica, do regime democrático
+     e dos interesses sociais e individuais indisponíveis.
+
+III.2. Código de Ética e Decoro Parlamentar da Câmara dos Deputados
+
+   — Resolução da Câmara dos Deputados nº 25, de 10 de outubro de 2001
+     (Código de Ética e Decoro Parlamentar), em especial:
+
+        Art. 4º  São deveres fundamentais do Deputado, entre outros:
+        [...]
+        IV — exercer o mandato com responsabilidade, com o escopo de
+             servir ao povo brasileiro e ao bem comum;
+
+        V — agir com lisura, decoro, polidez e respeito em suas
+            manifestações públicas e em suas relações com outros
+            Deputados, com os órgãos da Câmara dos Deputados e com
+            as demais autoridades e servidores;
+
+        VI — observar o princípio da publicidade dos atos da
+             administração pública direta e indireta de qualquer dos
+             Poderes da União, dos Estados, do Distrito Federal e dos
+             Municípios, na forma do art. 37 da Constituição Federal.
+
+   — Art. 5º, parágrafo único, alínea “f”, do mesmo Diploma (inserida
+     por alterações posteriores): configura ato atentatório ao decoro
+     parlamentar “relatar matéria submetida à apreciação da Câmara dos
+     Deputados de interesse específico de pessoa física de que o
+     parlamentar participe, na condição de sócio, dirigente, mandatário
+     ou prestador de serviço, ainda que remunerado, ou de pessoa jurídica
+     a que esteja vinculado por qualquer relação de interesse pessoal,
+     financeiro ou patrimonial.”
+
+   — Art. 8º, parágrafo único, do mesmo Diploma: o Código aplica-se
+     também às condutas omissivas e às hipóteses de conflito de
+     interesses não tipificadas expressamente, cabendo ao Conselho de
+     Ética e Decoro Parlamentar a interpretação sistemática.
+
+III.3. Resolução da Câmara nº 21/2006 — Frentes Parlamentares
+
+   A Resolução da Câmara dos Deputados nº 21, de 15 de março de 2006
+   (“Dispõe sobre as Frentes Parlamentares”), regulamenta a criação e o
+   funcionamento de tais entidades no âmbito da Casa. Sua leitura
+   conjugada com o Ato da Mesa nº 4/2023 (que dispõe sobre o registro de
+   Frentes Parlamentares Permanentes) demonstra que o ordenamento
+   interno carece de norma expressa de PREVENÇÃO DE CONFLITO DE
+   INTERESSES quando o presidente de uma Frente Parlamentar acumula
+   simultaneamente:
+
+        (i)  cargo de liderança governamental (cargo de confiança do
+             Executivo, com dever regimental de articulação da agenda
+             presidencial); e
+
+        (ii) relatoria de matéria que disciplina diretamente o setor
+             econômico ou funcional representado pela Frente.
+
+   A LACUNA NORMATIVA aqui identificada é o núcleo fático-jurídico da
+   presente representação: NÃO HÁ, no Código de Ética e Decoro
+   Parlamentar, na Resolução nº 21/2006, no Regimento Interno da
+   Câmara dos Deputados (RICD/2012) nem na Lei dos Parlamentares (Lei
+   nº 1.071/1990 e Resolução nº 20.854/2006 do TSE), norma expressa
+   que VEDE ou restrinja o acúmulo acima descrito. A omissão
+   regulamentar NÃO legitima a conduta do ponto de vista
+   ético-institucional; APENAS desnuda a urgência de manifestação
+   técnica do Ministério Público Federal sobre o tema.
+
+III.4. Resolução CNMP nº 33/2020 e Lei nº 12.813/2013 (Conflito de Interesses
+       no Executivo)
+
+   A Lei nº 12.813, de 16 de maio de 2013, dispõe sobre o conflito de
+   interesses no exercício de cargo ou emprego do Poder Executivo
+   federal e institui a Comissão de Ética Pública. Embora seu âmbito
+   material NÃO ALCANCE parlamentares, o regime jurídico nela
+   consagrado oferece PARÂMETRO NORMATIVO RELEVANTE para a análise
+   do caso, especialmente:
+
+        Art. 3º  Configura conflito de interesses a situação gerada
+        pela constatação de incompatibilidade entre os interesses
+        públicos e privados do agente público, em razão de vínculo
+        pessoal, profissional, patrimonial ou financeiro.
+
+   Aplicação-analógica dessa definição ao caso parlamentar é
+   juridicamente sustentável diante:
+
+        (a) da identidade de ratio (tutela da impessoalidade); e
+        (b) da inexistência de regime próprio equivalente para o
+            Parlamento brasileiro, ao contrário do que ocorre em
+            ordenados comparados (p. ex., Regimento do Parlamento
+            Europeu art. 9; Code of Conduct da House of Commons do
+            Reino Unido; Congressional Accountability Act, EUA).
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV. DOS FATOS DOCUMENTADOS — QUATRO CASOS PARADIGMÁTICOS
+————————————————————————————————————————————————————————————————————————————————
+
+Na presente representação se documentam quatro situações concretas,
+ocorrentes na 57ª Legislatura (2023–2027), nas quais o acúmulo de cargos
+configura, em graus distintos, o conflito de interesse institucional
+objeto desta peça. ESCLARECE-SE expressamente que a mera
+nomenclatura dos parlamentares NÃO configura denúncia de ilícito penal,
+NÃO imputa enriquecimento ilícito e NÃO substitui eventual ação de
+improbidade administrativa que, se cabível, será de competência do
+Ministério Público Federal e do Poder Judiciário. A documentação
+abaixo tem finalidade INSTITUCIONAL: demonstrar o padrão fático e
+subsidiar a manifestação técnica requerida da PGR/MPF.
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.1. CASO Nº 1 — DEPUTADO ZÉ NETO (PT-BA)
+   Nome civil: JOSÉ CERQUEIRA DE SANTANA NETO
+   Partido: Partido dos Trabalhadores — Bahia (PT-BA)
+   Mandato: 57ª Legislatura (2023–2027), segundo mandato consecutivo
+   Gabinete: 986 — Anexo III — Câmara dos Deputados
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.1.1. CARGOS E FUNÇÕES SIMULTANEAMENTE DETIDOS
+
+   (a) CARGO 1 — VICE-LÍDER (posteriormente LÍDER) DO GOVERNO FEDERAL
+       NA CÂMARA DOS DEPUTADOS:
+
+       O Representado assumiu, em 8 de abril de 2025, a vice-liderança
+       do Governo Lula na Câmara dos Deputados, com atuação na
+       articulação política entre o Poder Executivo, o Congresso e
+       diversos setores da sociedade (fonte: atarde.com, 9/4/2025;
+       zeneto.com.br; portal da Câmara dos Deputados). Trata-se de
+       cargo de confiança do Executivo, com dever funcional regimental
+       de articulação e defesa da agenda governamental, sob
+       disciplina interna do bloco governista.
+
+   (b) CARGO 2 — PRESIDENTE DA FRENTE PARLAMENTAR DA JUSTIÇA NOTARIAL
+       E REGISTRAL DO BRASIL:
+
+       A Frente Parlamentar da Justiça Notarial e Registral, lançada
+       oficialmente em fevereiro de 2023 no Congresso Nacional, é
+       composta por 325 (trezentos e vinte e cinco) parlamentares
+       — deputados e senadores —, sendo A MAIOR BANCADA SETORIAL já
+       criada no Parlamento brasileiro (fonte: Sindiregis, 26/2/2023;
+       RIB-MG; Protesto Paraíba). O setor representado reúne 13.233
+       (treze mil, duzentos e trinta e três) serventias notariais e
+       de registro, com movimento financeiro estimado entre
+       R$ 15,7 bilhões (estimativa conservadora) e R$ 31,4 bilhões
+       anuais (estimativa ampla), conforme dados setoriais públicos.
+
+   (c) CARGO 3 — RELATOR DE PROJETOS DE LEI SOBRE REFORMA TRIBUTÁRIA
+       E SIMPLES NACIONAL / MEI:
+
+       O Representado atua como relator de proposições legislativas
+       afetas à Reforma Tributária (PLC nº 68/2024 e correlatas) e
+       à legislação do Simples Nacional e do Microempreendedor
+       Individual (MEI), matérias que afetam diretamente custos de
+       conformidade, emolumentos e tributação sobre atividades
+       notariais e de registro, conforme registro público da
+       atuação do parlamentar.
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.1.2. IDENTIFICAÇÃO DO CONFLITO DE INTERESSE
+
+   Configura-se aqui, em tese, CONFLITO DE INTERESSE INSTITUCIONAL
+   TRIPARTIDO, pois o mesmo parlamentar reúne, simultaneamente:
+
+        (i)  o DEVER de articular e defender a AGENDA DO GOVERNO
+             FEDERAL (inclusive em matéria tributária), como
+             vice-líder/líder do Governo;
+
+        (ii) o DEVER de DEFENDER OS INTERESSES DA CATEGORIA
+             NOTARIAL E REGISTRAL (13.233 serventias; mercado de
+             R$ 15,7 bilhões a R$ 31,4 bilhões anuais), como
+             presidente da maior Frente Parlamentar setorial do
+             Congresso; e
+
+        (iii) o PODER DECISÓRIO sobre EMENDAS e PARECERES em matéria
+             tributária que afeta diretamente a conformidade de
+             custos e a estrutura de emolumentos da mesma categoria,
+             como relator.
+
+   Os três deveres são potencialmente INCONCILIÁVEIS: a agenda do
+   Executivo pode demandar, por exemplo, redução de gastos
+   tributários ou ampliação da base do MEI em modalidade que
+   concorra com serviços notariais; a defesa da categoria exige
+   preservação de emolumentos e monopólio de atividade delegada;
+   a relatoria tributária impõe decisão técnica sobre temas que
+   afetam ambos os polos. A mera possibilidade de que o mesmo
+   agente decida em causa na qual a categoria presidida é parte
+   interessada configura HIPÓTESE TÍPICA de conflito de interesses,
+   segundo os parâmetros do art. 3º da Lei nº 12.813/2013
+   (aplicável analogicamente).
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.2. CASO Nº 2 — DEPUTADO LUIZ CARLOS MOTTA (PL-SP)
+   Nome civil: LUIZ CARLOS MOTTA
+   Partido: Partido Liberal — São Paulo (PL-SP)
+   Mandato: 57ª Legislatura (2023–2027)
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.2.1. CARGOS E FUNÇÕES SIMULTANEAMENTE DETIDOS
+
+   (a) CARGO 1 — RELATOR-GERAL DA LEI ORÇAMENTÁRIA ANUAL (LOA) DE 2024:
+
+       O Representado atuou como RELATOR-GERAL do Projeto de Lei
+       Orçamentária Anual nº 29/2023-CN (LOA 2024), apresentando o
+       Relatório Final à Comissão Mista de Planos, Orçamentos
+       Públicos e Fiscalização (CMO) do Congresso Nacional, com
+       parecer volumes I a IV (fonte: Portal da Câmara dos Deputados,
+       dezembro de 2023; sanção presidencial de 22 de janeiro de
+       2024). A LOA 2024 previu despesas totais da ordem de
+       R$ 5,5 trilhões. O parecer final do Representado, segundo
+       levantamento público, promoveu ampliação de aproximadamente
+       R$ 25 bilhões em emendas ao orçamento, com significativa
+       discricionariedade relatorial e limitada transparência
+       quanto à origem e ao destino setorial dessas ampliações.
+
+   (b) CARGO 2 — SECRETÁRIO-GERAL DA FRENTE PARLAMENTAR SERVIR
+       BRASIL (EM DEFESA DO SERVIÇO PÚBLICO):
+
+       A Frente Parlamentar Mista Servir Brasil, instalada em
+       6 de fevereiro de 2023, congrega 129 (cento e vinte e nove)
+       ou mais parlamentares em defesa do serviço público federal,
+       com forte articulação junto a entidades representativas do
+       funcionalismo (Fenafisco, Fonacate, Sindmpu, ANESP, entre
+       outras). O Representado figura como secretário-geral da
+       Frente.
+
+   (c) CARGO 3 — PRESIDENTE DA FECOMERCIÁRIOS-SP (ENTIDADE DO
+       SISTEMA S):
+
+       O Representado acumula, ainda, a presidência da Federação
+       dos Empregados no Comércio do Estado de São Paulo
+       (Fecomerciários-SP), entidade integrante do Sistema S,
+       cujo conjunto de entidades (Sesc, Senac, Sesi, Senai etc.)
+       movimenta, segundo dados públicos, aproximadamente
+       R$ 30 bilhões anuais em tributação parafiscal (contribuições
+       incidentes sobre a folha de pagamento de empresas).
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.2.2. IDENTIFICAÇÃO DO CONFLITO DE INTERESSE
+
+   O Representado, na condição de relator-geral da LOA 2024,
+   concentrou PODER ORÇAMENTÁRIO sem precedentes — inclusive sobre
+   os R$ 25 bilhões em emendas ampliadas —, ao mesmo tempo em que:
+
+        (i)  ocupava função de direção (secretário-geral) em Frente
+             Parlamentar que articula demandas orçamentárias e
+             salariais do funcionalismo público federal; e
+
+        (ii) presidia entidade do Sistema S (Fecomerciários-SP),
+             cujo regime financeiro depende diretamente de decisões
+             sobre tributação parafiscal, contribuições sobre a
+             folha de pagamento e destino de recursos do orçamento
+             da União a programas do Sistema S.
+
+   A convergência de PODER ORÇAMENTÁRIO RELATORIAL com VÍNCULO
+   PESSOAL-INSTITUCIONAL a setor beneficiário direto de alocações
+   orçamentárias e de regimes tributários parafiscais configura
+   HIPÓTESE PARADIGMÁTICA de conflito de interesses segundo os
+   parâmetros do art. 3º da Lei nº 12.813/2013. Não se postula,
+   aqui, a ocorrência de crime; documenta-se o PADRÃO INSTITUCIONAL
+   que evidencia a urgência de disciplina normativa.
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.3. CASO Nº 3 — DEPUTADO JÚLIO CÉSAR (PSD-PI)
+   Nome civil: JÚLIO CÉSAR DE CARVALHO LIMA
+   Partido: Partido Social Democrático — Piauí (PSD-PI)
+   Mandato: 57ª Legislatura (2023–2027), reeleito sucessivamente
+   Profissão declarada ao TSE: AUDITOR FISCAL
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.3.1. CARGOS E FUNÇÕES SIMULTANEAMENTE DETIDOS
+
+   (a) CARGO 1 — PROPONENTE E PRESIDENTE DA FRENTE PARLAMENTAR
+       MISTA DA CONTABILIDADE:
+
+       O Representado é proponente e presidente da Frente
+       Parlamentar Mista da Contabilidade, entidade de articulação
+       entre o Parlamento e as entidades representativas da
+       categoria contábil e de auditoria (Conselho Federal de
+       Contabilidade — CFC, Federação Nacional das Empresas de
+       Serviços Contábeis e das Empresas de Assessoramento,
+       Perícias, Informações e Pesquisas — Fenacon, entre outras).
+       O setor representado é diretamente afetado por decisões
+       tributárias e fiscais em tramitação no Congresso Nacional.
+
+   (b) CARGO 2 — AUDITOR FISCAL (PROFISSÃO DECLARADA AO TSE):
+
+       Conforme registro público, o Representado é AUDITOR FISCAL
+       de carreira, profissão essa declarada à Justiça Eleitoral
+       por ocasião do registro de candidatura. A condição de
+       servidor de carreira fiscal, ainda que eventualmente
+       afastado para o exercício do mandato eletivo, preserva
+       VÍNCULO FUNCIONAL com a categoria e com a estrutura de
+       carreira cuja regulamentação tributária e previdenciária
+       é objeto de proposições legislativas.
+
+   (c) CARGO 3 — RELATOR DE PROPOSTAS DE EMENDA CONSTITUCIONAL
+       (PECs) FISCAIS:
+
+       O Representado atua como RELATOR de proposições fiscais em
+       tramitação no Congresso Nacional, com destaque para a
+       PEC nº 66/2023 (que dispõe sobre renegociação de dívidas
+       municipais, tributos municipais e disciplinamento fiscal de
+       entes subnacionais), matéria cuja decisão técnica afeta
+       diretamente a atuação profissional de auditores fiscais,
+       contadores e do mercado de serviços contábeis.
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.3.2. IDENTIFICAÇÃO DO CONFLITO DE INTERESSE
+
+   O Representado reúne, simultaneamente:
+
+        (i)  VÍNCULO PESSOAL-FUNCIONAL com a carreira de auditor
+             fiscal (profissão declarada ao TSE);
+
+        (ii) VÍNCULO INSTITUCIONAL de PRESIDÊNCIA da Frente
+             Parlamentar da Contabilidade, entidade de defesa de
+             interesses setoriais da categoria contábil/auditiva;
+             e
+
+        (iii) PODER DECISÓRIO TÉCNICO sobre matéria fiscal
+             (PEC 66/2023 e correlatas) que disciplina diretamente
+             o regime de atuação da categoria.
+
+   A convergência configura, em tese, conflito de interesses
+   institucional nos exatos termos do art. 5º, parágrafo único,
+   do Código de Ética e Decoro Parlamentar (vedação ao
+   parlamentar de “relatar matéria submetida à apreciação da
+   Câmara dos Deputados de interesse específico” de categoria à
+   qual esteja vinculado por relação de interesse pessoal,
+   financeiro ou patrimonial).
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.4. CASO Nº 4 — DEPUTADO ANDRÉ FIGUEIREDO (PDT-CE) — NOTA CAUTELAR
+   Nome civil: ANDRÉ DE PAULA FIGUEIREDO
+   Partido: Partido Democrático Trabalhista — Ceará (PDT-CE)
+   Mandato: 57ª Legislatura (2023–2027)
+
+   ADVERTÊNCIA PRÉVIA: Este item é incluído com TOM CAUTELOSO e
+   finalidade puramente INSTITUCIONAL. O Representado NÃO consta
+   em processos judiciais ou administrativos relevantes, NÃO possui
+   condenações, NÃO há indícios de enriquecimento ilícito ou de
+   interesse financeiro pessoal na matéria. O objeto desta seção é
+   EXCLUSIVAMENTE demonstrar que o CONFLITO DE INTERESSE aqui
+   discutido é INSTITUCIONAL (derivado do ACÚMULO DE CARGOS) e NÃO
+   pressupõe, por si só, qualquer ilicitude ou desvio ético
+   individual do parlamentar.
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.4.1. CARGOS E FUNÇÕES SIMULTANEAMENTE DETIDOS
+
+   (a) CARGO 1 — PRESIDENTE DA FRENTE PARLAMENTAR SERVIR BRASIL
+       (EM DEFESA DO SERVIÇO PÚBLICO):
+
+       O Representado assumiu a presidência da Frente Parlamentar
+       Mista Servir Brasil em 6 de fevereiro de 2023 (fontes:
+       ANESP; Fenafisco, 16/4/2026; Sindmpu/Fonacate, 13/6/2026).
+       A Frente congrega parlamentares de diversos partidos e atua
+       como mecanismo de interlocução entre o Parlamento e as
+       entidades representativas do serviço público federal.
+
+   (b) CARGO 2 — LÍDER DO PARTIDO DEMOCRÁTICO TRABALHISTA (PDT)
+       NA CÂMARA DOS DEPUTADOS:
+
+       O Representado exerce a liderança partidária, função
+       regimental com poder de articulação da bancada e de negociação
+       de votos em matérias de relevância.
+
+————————————————————————————————————————————————————————————————————————————————
+
+IV.4.2. NATUREZA PURAMENTE INSTITUCIONAL DA OBSERVAÇÃO
+
+   Diferentemente dos Casos nº 1, 2 e 3, no presente caso NÃO SE
+   VERIFICA, nas fontes públicas consultadas, acúmulo de função
+   relatorial setorialmente convergente com a presidência da Frente
+   Parlamentar, tampouco indícios de vínculo financeiro pessoal do
+   Representado com o setor representado.
+
+   A inclusão do presente caso na representação destina-se,
+   EXCLUSIVAMENTE, a ilustrar que o PADRÃO INSTITUCIONAL aqui
+   identificado — presidência de Frente Parlamentar setorial
+   conjugada com cargo de liderança política (líder partidário) —
+   ocorre mesmo na atuação de parlamentar com FOLHA CORRIDA LIMPA
+   e sem qualquer imputação de ilicitude. Tal fato reforça a tese
+   central desta representação: o conflito de interesses
+   parlamentares por acúmulo de cargos é problema de NATUREZA
+   INSTITUCIONAL-REGULAMENTAR, NÃO de persecução penal ou de
+   improbidade administrativa.
+
+   A subsunção de eventual conduta do Representado a qualquer
+   hipótese de transgressão ética ou legal depende de análise
+   circunstanciada pelo Conselho de Ética e Decoro Parlamentar,
+   instância competente, e NÃO é objeto de postulação nesta sede.
+
+————————————————————————————————————————————————————————————————————————————————
+
+V. SÍNTESE DO PADRÃO FÁTICO-JURÍDICO
+————————————————————————————————————————————————————————————————————————————————
+
+Os quatro casos acima documentam um mesmo PADRÃO ESTRUTURAL:
+
+   — parlamentar eleito para representar o povo (art. 45 da CF)
+     acumula, simultaneamente, (i) cargo de liderança do Governo
+     Federal ou de partido, (ii) presidência/direção de Frente
+     Parlamentar setorial e, em três dos quatro casos, (iii)
+     relatoria de matéria que disciplina diretamente o setor
+     representado;
+
+   — o acúmulo, ainda que não tipificado como crime ou como ato de
+     improbidade, cria estado de TENSÃO PERMANENTE entre deveres
+     funcionais concorrentes, em detrimento da IMPESSOALIDADE
+     (art. 37, caput, CF) e da MORALIDADE ADMINISTRATIVA
+     (art. 37, caput, CF);
+
+   — o ordenamento jurídico brasileiro, à diferença do que ocorre
+     em parlamentos comparados (União Europeia, Reino Unido,
+     Canadá, Alemanha, Estados Unidos), NÃO dispõe de norma
+     autônoma de conflito de interesses aplicável ao Parlamento,
+     configurando LACUNA REGULAMENTAR que demanda pronunciamento
+     técnico do Ministério Público Federal.
+
+————————————————————————————————————————————————————————————————————————————————
+
+VI. DO PEDIDO
+————————————————————————————————————————————————————————————————————————————————
+
+Diante do exposto, REQUER-SE a Vossa Excelência:
+
+   1. O RECEBIMENTO da presente representação, com a finalidade
+      exclusiva de SUBSIDIAR MANIFESTAÇÃO TÉCNICA da PGR/MPF
+      sobre a matéria aqui versada, sem instauração automática
+      de procedimento investigatório criminal contra os
+      parlamentares nominados, ressalvada a competência privativa
+      do Conselho de Ética e Decoro Parlamentar da Câmara dos
+      Deputados para apreciar eventuais transgressões éticas.
+
+   2. A EMISSÃO DE PARECER OU MANIFESTAÇÃO TÉCNICA da PGR/MPF —
+      no prazo regulamentar e na forma do art. 6º, inciso VII,
+      da LC nº 75/1993 e do art. 26 da Lei nº 8.625/1993 — sobre
+      os seguintes pontos:
+
+        (a)  a configuração, ou não, do acúmulo de cargos acima
+             descrito como HIPÓTESE DE CONFLITO DE INTERESSES
+             INSTITUCIONAL à luz do art. 3º da Lei nº 12.813/2013
+             (aplicado analogicamente), do Código de Ética e
+             Decoro Parlamentar da Câmara dos Deputados
+             (Resolução CD nº 25/2001) e do art. 5º, parágrafo
+             único, do mesmo Diploma;
+
+        (b)  a CONVENIÊNCIA de proponença, pelo Ministério Público
+             Federal, de projeto de lei ou de ato normativo que
+             discipline a matéria, vedando ou restringindo, em
+             caráter preventivo, o acúmulo simultâneo de cargo de
+             liderança governamental com a presidência de Frente
+             Parlamentar setorial cujo objeto seja afeto a matéria
+             sob relatoria do mesmo parlamentar;
+
+        (c)  a OPORTUNIDADE de provocação, pela PGR, dos órgãos
+             competentes do Congresso Nacional (Mesa da Câmara dos
+             Deputados, Conselho de Ética e Decoro Parlamentar,
+             Comissão de Constituição e Justiça) para apreciação
+             da conveniência de emenda à Resolução da Câmara nº
+             21/2006 e ao Código de Ética e Decoro Parlamentar,
+             introduzindo hipótese expressa de PREVENÇÃO de
+             conflito de interesses;
+
+        (d)  a ADEQUAÇÃO, à luz do princípio da moralidade
+             administrativa (art. 37, caput, CF) e da
+             transparência (art. 37, § 1º, CF), de mecanismos
+             preventivos de PUBLICIDADE OBRIGATÓRIA — tal como
+             declaração prévia de interesses (Disclosure Form),
+             registro público das presidências de Frentes
+             Parlamentares detidas por líderes governamentais e
+             afastamento temporário da relatoria em matéria
+             setorialmente convergente.
+
+   3. A REMESSA, se Vossa Excelência julgar cabível, de CÓPIA da
+      presente representação e do parecer que vier a ser emitido
+      ao Conselho de Ética e Decoro Parlamentar da Câmara dos
+      Deputados, à Mesa da Câmara dos Deputados e à Comissão de
+      Constituição e Justiça e de Cidadania, para as providências
+      regimentais e legislativas cabíveis, SEM prejuízo da
+      atribuição privativa daqueles órgãos.
+
+   4. A CIÊNCIA, ao final, do representante aqui qualificado, do
+      resultado da análise, na forma da legislação de acesso à
+      informação (Lei nº 12.527/2011) e da Resolução CNMP nº
+      15/2007.
+
+————————————————————————————————————————————————————————————————————————————————
+
+VII. DECLARAÇÃO DE BOA-FÉ E ISENÇÃO DE ÂNIMO PERSECUTÓRIO
+————————————————————————————————————————————————————————————————————————————————
+
+Declara o representante, sob os penhores da boa-fé objetiva (art. 4º,
+inciso III, da Lei de Introdução às Normas do Direito Brasileiro —
+Decreto-Lei nº 4.657/1942) e do princípio constitucional da
+razoabilidade, que:
+
+   (a) a presente representação NÃO tem finalidade persequitória,
+       político-partidária ou eleitoral;
+
+   (b) NÃO se imputa, a qualquer dos parlamentares nominados, a
+       prática de ilícito penal, civil ou administrativo; as
+       informações utilizadas são de FONTE PÚBLICA e foram
+       coligidas com o cuidado devido;
+
+   (c) no Caso nº 4 (Deputado André Figueiredo), reitera-se a
+       AUSÊNCIA de qualquer imputação pessoal e a finalidade
+       puramente INSTITUCIONAL da inclusão;
+
+   (d) o objetivo é exclusivamente contribuir, pela via técnica e
+       institucional, para o aprimoramento normativo do regime
+       jurídico do conflito de interesses no Parlamento brasileiro.
+
+————————————————————————————————————————————————————————————————————————————————
+
+VIII. DOCUMENTOS ANEXOS E FONTES DE REFERÊNCIA
+————————————————————————————————————————————————————————————————————————————————
+
+   1. Constituição da República Federativa do Brasil de 1988
+      (arts. 5º, XXXIV, “a”; 37, caput e § 1º; 45; 55, § 1º;
+      127).
+
+   2. Lei Complementar nº 75, de 20 de maio de 1993 (Lei Orgânica
+      do Ministério Público da União) — art. 6º, VII.
+
+   3. Lei nº 8.625, de 12 de fevereiro de 1993 (Lei Orgânica
+      Nacional do Ministério Público) — art. 26.
+
+   4. Lei nº 12.813, de 16 de maio de 2013 (dispõe sobre o
+      conflito de interesses no exercício de cargo ou emprego do
+      Poder Executivo federal) — art. 3º (conceito).
+
+   5. Lei nº 1.071, de 8 de abril de 1990 (Lei dos
+      Parlamentares).
+
+   6. Resolução da Câmara dos Deputados nº 25, de 10 de outubro
+      de 2001 (Código de Ética e Decoro Parlamentar).
+
+   7. Resolução da Câmara dos Deputados nº 21, de 15 de março de
+      2006 (dispõe sobre as Frentes Parlamentares).
+
+   8. Resolução da Câmara dos Deputados nº 20, de 7 de abril de
+      2021 (Código de Conduta da Câmara dos Deputados).
+
+   9. Resolução CNMP nº 15, de 11 de setembro de 2007.
+
+  10. Resolução CNMP nº 33, de 16 de dezembro de 2020.
+
+  11. Ato da Mesa da Câmara dos Deputados nº 4, de 2023 (dispõe
+      sobre o registro de Frentes Parlamentares Permanentes).
+
+  12. Fontes públicas consultadas: Portal da Câmara dos Deputados
+      (camara.leg.br); Portal do Senado Federal; site institucional
+      do Deputado Zé Neto (zeneto.com.br); atarde.com (9/4/2025);
+      Sindiregis (26/2/2023); RIB-MG; Protesto Paraíba; Partido
+      Liberal (partidoliberal.org.br, 22 e 23/1/2024); Fenafisco
+      (16/4/2026); ANESP (6/2/2023); Sindmpu/Fonacate (13/6/2026);
+      bri.net.br; Wikipédia (verbete “Júlio César de Carvalho
+      Lima”); Biblioteca Digital da Câmara dos Deputados
+      (bd.camara.leg.br).
+
+————————————————————————————————————————————————————————————————————————————————
+
+IX. CONCLUSÃO
+————————————————————————————————————————————————————————————————————————————————
+
+A omissão regulamentar identificada na presente representação não
+ofende apenas o princípio da moralidade administrativa; compromete,
+em última análise, a CONFIANÇA PÚBLICA nas instituições
+representativas, pilar da legitimidade democrática (art. 1º, parágrafo
+único, da CF). A manifestação técnica da Procuradoria-Geral da
+República, instância constitucional de defesa da ordem jurídica e do
+regime democrático (art. 127, caput, da CF), é instrumento idôneo e
+proporcional para iniciar o debate institucional que a matéria requer,
+sem usurpação da competência do Parlamento, do Conselho de Ética e
+Decoro Parlamentar ou do Poder Judiciário.
+
+Termos em que,
+Pede deferimento.
+
+[Local], [UF], [data por extenso].
+
+________________________________________________
+CLEITON MOURA
+Analista geopolítico e econômico
+CPF: [inserir] | RG: [inserir]
+E-mail: [inserir]
+Telefone: [inserir]
+
+————————————————————————————————————————————————————————————————————————————————
+                               FIM DO DOCUMENTO
+————————————————————————————————————————————————————————————————————————————————
+
+NOTA DE REDAÇÃO (não integra o documento protocolizável):
+   — Campos entre colchetes [ ] devem ser preenchidos pelo
+     representante antes da protocolização.
+   — Recomenda-se protocolização eletrônica via Sistema de Peticitação
+     do MPF (peticitarpf.mpf.mp.br) ou encaminhamento físico ao
+     Protocolo Geral da PGR (SAF Sul, Quadra 4, Conjunto C,
+     Brasília/DF, CEP 70050-900).
+   — Recomenda-se, ainda, encaminhamento paralelo de cópia ao
+     Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados
+     (Anexo IV, Pavimento Superior, Câmara dos Deputados, Brasília/DF).
+
+================================================================================

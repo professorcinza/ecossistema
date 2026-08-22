@@ -1,0 +1,327 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-104
+VERSÃO: v1.0
+CATEGORIA: 04_PLANO
+TÍTULO: Os 5 Métodos Éticos — Framework de Ação Executável
+SUBTÍTULO: Sistematização dos caminhos institucionais para transformação estrutural
+STATUS: CANÔNICO
+DATA: 20/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+BASE: TEIA-2026-070 (Mapa de Soluções) + TEIA-102 (Amplificação)
+================================================================================
+
+NOTA DE SISTEMATIZAÇÃO
+---------------------------------------------------------------------------------
+O TEIA-070 mapeou 24 soluções para 16 problemas endêmicos. Este protocolo
+sistematiza os MÉTODOS — os caminhos institucionais — através dos quais essas
+soluções são executadas. Não é uma lista nova de soluções. É a camada
+metodológica que organiza COMO executar, não apenas O QUÊ executar.
+
+================================================================================
+TEOREMA CENTRAL
+================================================================================
+
+Não existe solução única. Existe COMBINAÇÃO de métodos.
+
+Cada método isolado produz reforma temporária. Os 5 métodos rodando
+SIMULTANEAMENTE produzem transformação estrutural.
+
+A força do TEIA não está em nenhum método isolado. Está na interoperabilidade:
+cada método amplifica os outros 4.
+
+================================================================================
+OS 5 MÉTODOS — VISÃO PANORÂMICA
+================================================================================
+
+  M1  VIA EXECUTIVO       R$ 0, sem Congresso, 3-6 meses
+  M2  VIA JUDICIÁRIO      STF/TSE/CNJ, 6-36 meses
+  M3  VIA LEGISLATIVO     Congresso capturado, mas CPI + fiscalização
+  M4  VIA TECNOLOGIA      Ferramentas cívicas que mudam o jogo
+  M5  VIA NARRATIVA       Consciência pública → demanda por reforma
+
+================================================================================
+MÉTODO 1 — VIA EXECUTIVO (R$ 0, sem Congresso)
+================================================================================
+
+PRINCÍPIO: 70% das soluções estruturais saem via portaria, resolução ou
+decreto. Não precisam de Congresso. Precisam de decisão política + pressão.
+
+INSTRUMENTOS:
+  - Portaria ministerial (MF, MS, MMA, MJ)
+  - Resolução CMN/BCB (sistema financeiro)
+  - Resolução ANPD/ANS/ANATEL (agências reguladoras)
+  - Decreto executivo
+
+SOLUÇÕES QUE USAM ESTE MÉTODO:
+  S1  Nota de Impacto Fiscal da Selic (MF/Tesouro, 90 dias)
+  S2  Índice de Qualidade da Dívida — IQD (Tesouro, 90 dias)
+  S3  Open Finance expandido (BCB/CMN, 180 dias)
+  S13 5 propostas de saúde R$ 0 (MS+MF+ANS+ANVISA, 12 meses)
+  S22  Regulação de score de crédito (ANPD, 12 meses)
+  S23  Teto de juros do cartão rotativo — 100% a.a. (CMN, 12 meses)
+
+COMO EXECUTAR:
+  1. Produzir dossiê técnico irrefutável (TEIA-067, TEIA-013 já existem)
+  2. Entregar formalmente ao ministro/autoridade competente
+  3. Pressão pública simultânea via conteúdo (Método 5)
+  4. Acompanhamento via KPI público (dashboard — Método 4)
+
+IMPACTO POTENCIAL: R$ 60-89 bi/ano redirecionados de rentismo/oligopólio
+para investimento público e bolso do cidadão.
+
+VANTAGEM: Mais rápido. Mais barato. Sem dependência de Congresso.
+RISCO: Reversível por novo governo. Por isso deve ser combinado com M2 e M5.
+
+================================================================================
+MÉTODO 2 — VIA JUDICIÁRIO (STF/TSE/CNJ/MPF)
+================================================================================
+
+PRINCÍPIO: O Judiciário é a via mais duradoura. Uma decisão do STF cria
+precedente vinculante que sobrevive a governos. Mas é lenta (6-36 meses).
+
+INSTRUMENTOS:
+  - ADPF (Arguição de Descumprimento de Preceito Fundamental)
+  - ADI (Ação Direta de Inconstitucionalidade)
+  - Amicus curiae
+  - Representação ao MPF/PGR
+  - Petição ao CNJ
+  - Resolução TSE
+
+SOLUÇÕES QUE USAM ESTE MÉTODO:
+  S6  ADPF 854 — transparência de emendas (STF, Min. Flávio Dino)
+      → Documento pronto: TEIA-2026-015
+  S7  Cartão de Emendas no TSE (resolução, 6 meses)
+  S9  ADI contra PEC da Blindagem (STF, 12-36 meses)
+      → Documento pronto: TEIA-2026-015
+  S10 Representação MPF — conflito de interesse parlamentar
+      → Documento pronto: TEIA-2026-016
+  S11 Petição CNJ — SERP/cartórios (Lei 14.382/2022)
+      → Documento pronto: TEIA-2026-014
+
+COMO EXECUTAR:
+  1. Protocolar a peça jurídica (4 já redigidas)
+  2. Amicus curiae para acelerar julgamento
+  3. Pressão de opinião pública via imprensa (Método 5)
+  4. Acompanhar tramitação e reportar publicamente
+
+IMPACTO POTENCIAL: Fim do orçamento secreto + accountability restaurada +
+13.233 cartórios digitalizados + voto secreto derrubado.
+
+VANTAGEM: Duradouro. Precedente vinculante. Sobrevive a governos.
+RISCO: Lento (12-36 meses). Depende de composição do STF.
+
+================================================================================
+MÉTODO 3 — VIA LEGISLATIVO (Congresso)
+================================================================================
+
+PRINCÍPIO: O Congresso está capturado (P7). Mas nem tudo está bloqueado.
+CPIs, fiscalização de leis já aprovadas e pressão eleitoral funcionam.
+
+INSTRUMENTOS:
+  - CPI (Comissão Parlamentar de Inquérito) — 27 assinaturas Senado
+  - Fiscalização de execução de leis aprovadas
+  - PL (Projeto de Lei) com pressão popular
+  - Emenda constitucional já aprovada (monitorar implementação)
+
+SOLUÇÕES QUE USAM ESTE MÉTODO:
+  S4  Fiscalizar EC 132 (reforma tributária — já aprovada, falta executar)
+  S8  CPI do Banco Master (27 assinaturas Senado, 90 dias)
+  S18 PL 2338 / Lei 14.854/2024 (Marco da IA — aprovado, fiscalizar)
+
+COMO EXECUTAR:
+  1. Para CPI: articular 27 senadores + pressão pública
+  2. Para fiscalização: dashboard de implementação (Método 4)
+  3. Para PL: mobilização popular + cartão de emendas TSE (M2)
+
+IMPACTO POTENCIAL: R$ 340-850 bi liberados pela EC 132 + captura exposta
+via CPI + algoritmos auditáveis.
+
+VANTAGEM: Legitimidade democrática máxima. Leis duradouras.
+RISCO: Congresso capturado. É o método mais lento e incerto. Por isso
+é o último na priorização — M1, M2 e M5 devem rodar primeiro para criar
+as condições políticas que destravam M3.
+
+================================================================================
+MÉTODO 4 — VIA TECNOLOGIA CÍVICA
+================================================================================
+
+PRINCÍPIO: 215 milhões de brasileiros com smartphone são 215 milhões de
+fiscais potenciais. A tecnologia transforma dados opacos em ferramentas
+de poder para o cidadão.
+
+INSTRUMENTOS:
+  - Dashboard de transparência com IA (cruzamento em tempo real)
+  - App cívico ("Minha Cidade, Meu Dinheiro")
+  - OSINT toolkit (coleta e análise de dados públicos)
+  - API pública de dados governamentais
+  - Score de transparência municipal/estadual
+
+SOLUÇÕES QUE USAM ESTE MÉTODO:
+  S19 Dashboard de transparência com IA (TEIA + CGU, 12 meses)
+  S20 App "Minha Cidade, Meu Dinheiro" (TEIA + startup cívica, 12 meses)
+  + OSINT toolkit TEIA (TEIA-2026-098 — já desenvolvido)
+
+COMO EXECUTAR:
+  1. Construir MVP com dados públicos existentes (SICONV, Portal Transparência)
+  2. IA cruza gastos × emendas × empresas × políticos em tempo real
+  3. App mostra ao cidadão: "O que o deputado X fez com R$ Y do SEU dinheiro"
+  4. Open-source + API para replicação por jornalistas e sociedade civil
+
+IMPACTO POTENCIAL: P(ser pego) sobe de 15% para 30%+ → mudança de cálculo
+de corrupção. Controle social ativo e permanente.
+
+VANTAGEM: Escala infinita. Custo marginal zero. Não precisa de Congresso.
+RISCO: Precisa de dados de qualidade. Adversarial contra governos opacos.
+
+================================================================================
+MÉTODO 5 — VIA NARRATIVA (consciência pública)
+================================================================================
+
+PRINCÍPIO: Nenhuma reforma sobrevive sem apoio popular. A narrativa
+transforma dossiê técnico em movimento cívico. Sem narrativa, dossiê é
+papel. Com narrativa, é poder.
+
+INSTRUMENTOS:
+  - Carrosséis Instagram (visual hacker-terminal, alto impacto)
+  - Vídeos TikTok/Reels (narrativa viral do Professor Cinza)
+  - Documentários e podcasts (aprofundamento)
+  - M4A audiobooks (educação continuada)
+  - Petições públicas e campanhas de pressão
+
+JÁ EXECUTADO:
+  TEIA-101: 8 roteiros TikTok Frente Saúde (PRONTO PARA GRAVAÇÃO)
+  TEIA-102: 18 carrosséis Instagram, 162 slides (8 PUBLICADOS, 10 AGENDADOS)
+
+COMO EXECUTAR:
+  1. Traduzir cada dossiê TEIA em narrativa visual (carrossel + TikTok)
+  2. Um dado chocante por episódio (R$ 1 SUS = R$ 3,91 juros)
+  3. CTA claro: "Salva. Mostra pra alguém. Cobra."
+  4. Hashtags temáticas por frente (saúde, juros, spread, Congresso)
+  5. Cronograma de publicação espaçado (3/dia, evitar shadowban)
+
+IMPACTO POTENCIAL: Mudança de percepção pública → demanda por reforma →
+pressão sobre M1 (executivo), M2 (judiciário) e M3 (legislativo).
+
+VANTAGEM: Mais rápido de executar. Mais barato. Alcance massivo.
+RISCO: Shadowban. Fadiga de público. Precisa de consistência (diária).
+
+================================================================================
+A INTEROPERABILIDADE DOS MÉTODOS
+================================================================================
+
+Os 5 métodos não são sequenciais. São SIMULTÂNEOS e se AMPLIFICAM:
+
+  M5 (NARRATIVA) cria consciência pública
+    → pressão para M1 (EXECUTIVO) agir
+    → pressão para M2 (JUDICIÁRIO) decidir
+    → pressão para M3 (LEGISLATIVO) destravar
+
+  M4 (TECNOLOGIA) dá ferramenta de cobrança permanente
+    → alimenta M5 (NARRATIVA) com dados em tempo real
+    → fundamenta M1 (EXECUTIVO) com evidência
+    → prova para M2 (JUDICIÁRIO) e M3 (LEGISLATIVO)
+
+  M1 (EXECUTIVO) liberta o DINHEIRO
+    → M2 (JUDICIÁRIO) torna a mudança DURADOURA
+    → M3 (LEGISLATIVO) dá LEGITIMIDADE democrática
+    → M4 + M5 garantem que nada é REVERTIDO
+
+CICLO VIRTUOSO:
+  Menos juros → mais investimento → menos pobreza → menos crime
+  → mais produtividade → menos juros → (repeat)
+
+================================================================================
+PRIORIZAÇÃO EXECUTIVA
+================================================================================
+
+NÍVEL 1 — IMEDIATO (mês 1-3):
+  M1: Entregar dossiês ao executivo (Haddad TEIA-013, Saúde TEIA-067)
+  M2: Protocolar 4 petições jurídicas (TEIA-014/015/016/017)
+  M5: Publicar carrosséis + gravar TikToks (TEIA-101/102 EM EXECUÇÃO)
+
+NÍVEL 2 — CURTO PRAZO (mês 4-12):
+  M1: Nota Impacto Fiscal publicada + Open Finance expandido
+  M2: ADPF 854 julgada + Cartão Emendas TSE
+  M3: CPI Master instalada (27 assinaturas)
+  M4: MVP Dashboard IA + App Cidadão
+
+NÍVEL 3 — MÉDIO PRAZO (ano 2):
+  M1: Selic estrutural caindo + spread caindo + teto cartão rotativo
+  M2: ADI PEC Blindagem julgada + fim orçamento secreto
+  M3: EC 132 implementada (IBS+CBS) + Marco IA fiscalizado
+
+NÍVEL 4 — LONGO PRAZO (ano 3+):
+  Ciclo virtuoso em operação: menos juros → mais investimento
+  → menos pobreza → menos crime → mais produtividade → menos juros
+
+================================================================================
+MATRIZ: SOLUÇÃO × MÉTODO × AGENTE EXECUTOR
+================================================================================
+
+SOLUÇÃO | MÉTODO | EXECUTOR | CUSTO | PRAZO
+--------|--------|----------|-------|------
+S1  Nota Fiscal Saúde  | M1 | MF/Tesouro | R$ 0 | 90d
+S2  IQD                | M1 | Tesouro    | R$ 0 | 90d
+S3  Open Finance       | M1 | BCB/CMN    | R$ 0 | 180d
+S4  Reforma Tributária | M3 | Congresso  | R$ 0 | 2026-33
+S5  Fórum Fintech      | M1 | TEIA+Fintech| R$300k| 120d
+S6  ADPF 854           | M2 | STF        | R$150k| 6-24m
+S7  Cartão Emendas     | M2 | TSE        | R$ 0  | 6m
+S8  CPI Master         | M3 | Senado     | R$500k| 90d
+S9  ADI Blindagem      | M2 | STF        | R$100k| 12-36m
+S10 Repr. MPF          | M2 | MPF/PGR    | R$ 50k| 12-24m
+S11 Petição CNJ        | M2 | CNJ        | R$100k| 12m
+S12 Via Planalto       | M1 | TEIA→Exec  | R$ 0  | 3-6m
+S13 Dossiê SUS         | M1 | MS+MF      | R$ 0  | 12m
+S14 PAA+PNAE           | M1 | MDS+CONAB  | R$2bi | 6m
+S15 Cashback           | M1 | RFB+MF     | R$ 0  | 24m
+S16 Reverter 15.190    | M2 | STF+Congr  | R$ 0  | 12-24m
+S17 IBAMA orçamento    | M3 | Congresso  | R$3bi | ciclo
+S18 Marco IA           | M3 | Câmara     | R$ 0  | aprovado
+S19 Dashboard IA       | M4 | TEIA+CGU   | R$2mi | 12m
+S20 App Cidadão        | M4 | TEIA+CGU   | R$3mi | 12m
+S21 Saneamento         | M3 | Sociedade  | R$700bi| 2033
+S22 Regulação Score    | M1 | ANPD+MJ    | R$ 0  | 12m
+S23 Teto Cartão        | M1 | BCB/CMN    | R$ 0  | 12m
+S24 Prevenção          | M1 | MJ+STF     | R$Xbi | longo
+
+DISTRIBUIÇÃO POR MÉTODO:
+  M1 (Executivo):  11 soluções — R$ 0 na maioria
+  M2 (Judiciário):  5 soluções — 4 peças já redigidas
+  M3 (Legislativo): 4 soluções — depende de Congresso
+  M4 (Tecnologia):  2 soluções — a desenvolver
+  M5 (Narrativa):   contínuo — já em execução (TEIA-101/102)
+
+================================================================================
+A REGRA ÉTICA FUNDAMENTAL
+================================================================================
+
+TODO método neste framework usa instrumentos LEGAIS e INSTITUCIONAIS:
+
+  M1: Portaria, resolução, decreto — previstos em lei
+  M2: ADPF, ADI, petição — previstos na Constituição
+  M3: CPI, PL, emenda — previstos no regimento
+  M4: Dados públicos, LGPD, LAI — previstos em lei
+  M5: Liberdade de expressão — artigo 5º, IV, CF/88
+
+Nenhuma solução no TEIA depende de:
+  - Ilegalidade
+  - Violência
+  - Quebra institucional
+  - Suborno ou corrupção
+  - Manipulação fraudulenta
+
+O TEIA é um sistema de inteligência que usa as instituições existentes
+para reformá-las por dentro. A mudança vem da evidência, da pressão
+legal e da consciência pública — não da força.
+
+"O dinheiro da reforma virá do trabalho.
+A democracia virá da organização.
+A saúde virá da gestão."
+
+================================================================================
+PROTOCOLO TEIA-2026-104 | v1.0 | 20/07/2026
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Base: TEIA-070 (24 soluções) + TEIA-102 (amplificação narrativa)
+Repositório: https://github.com/mouracleiton/TEIA
+================================================================================

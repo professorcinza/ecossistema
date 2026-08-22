@@ -1,0 +1,186 @@
+================================================================================
+TEIA — DOSSIÊ TÉCNICO DE AÇÃO EXECUTIVA
+Protocolo: TEIA-2026-093
+Versão: 1.0
+Data: Julho/2026
+Entrega: MMA / ANA / MCIDADES
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Score TEIA: 4/5
+Problema: P14 — SEM ÁGUA TRATADA + SEM ESGOTO (35 mi + 100 mi)
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) Diagnóstico
+35 milhões de brasileiros (17% da população) não têm acesso a água tratada.
+100 milhões (48%) não têm coleta de esgoto.
+Apenas 50% do esgoto gerado é tratado.
+Déficit concentrado em municípios com menos de 50 mil habitantes (78% sem esgoto).
+
+(b) Aportes
+Investimento necessário: R$ 700 bilhões até 2033 (R$ 70 bi/ano).
+Investimento atual: ~R$ 15 bi/ano (SNIS).
+Déficit anual: R$ 55 bilhões.
+
+(c) Eficiência
+Cada R$ 1 investido em saneamento gera R$ 4 de economia em saúde (Opas/OMS).
+Doenças de veiculação hídrica respondem por 30% das internações SUS em municípios sem saneamento.
+
+(d) Custo
+R$ 70 bilhões/ano via FGTS + fundos constitucionais + orçamento federal.
+
+(e) Resultado esperado
+Universalização até 2033: 99% água tratada + 90% esgoto tratado.
+Retorno estimado: R$ 2,8 trilhões em economia de saúde em 30 anos.
+Redução de 35 milhões para 0 sem água tratada.
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 Situação atual (SNIS 2023 / Trata Brasil 2024)
+- População sem água tratada: 35 milhões (17%)
+- População sem coleta de esgoto: 100 milhões (48%)
+- Esgoto tratado: 50% do gerado
+- Municípios < 50 mil habitantes: 78% sem esgoto
+
+1.2 Marco Legal
+Lei 14.026/2020 (Novo Marco Legal do Saneamento)
+Meta legal: 99% água + 90% esgoto até 2033
+Prestadores regionais obrigatórios para municípios < 50 mil habitantes
+
+1.3 Investimento
+Necessário: R$ 700 bi até 2033
+Atual: R$ 15 bi/ano
+Déficit: R$ 55 bi/ano
+
+1.4 Impacto em saúde
+Opas/OMS: R$ 1 em saneamento = R$ 4 em economia de saúde
+30% das internações SUS em municípios sem saneamento são doenças hídricas
+
+1.5 Captura por milícias
+Caminhão-pipa controlado por milícias no Rio de Janeiro e Baixada Fluminense
+População paga até 10x mais caro por água de qualidade inferior
+
+1.6 Fontes
+SNIS (Sistema Nacional de Informações sobre Saneamento)
+ANA (Agência Nacional de Águas)
+Trata Brasil
+Opas/OMS
+IBGE (População 2022)
+
+================================================================================
+
+SEÇÃO 2 — PROPOSTA 1: ACELERAÇÃO DO NOVO MARCO LEGAL
+
+Instrumento: Medida Provisória + Projeto de Lei
+Conteúdo: Inserir meta vinculante com multa automática por descumprimento (R$ 10 mi/mês por município)
+Estimativa: R$ 0 (regulatório)
+Justificativa: Lei 14.026/2020 já existe; falta enforcement. Multa vinculante força execução.
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTA 2: FUNDO NACIONAL DE SANEAMENTO
+
+Instrumento: Lei Ordinária + Resolução CMN
+Conteúdo: Criação de Fundo com R$ 70 bi/ano (FGTS 40% + Fundos Constitucionais 35% + Orçamento 25%)
+Estimativa: R$ 70 bi/ano
+Justificativa: Déficit identificado de R$ 55 bi/ano. Fonte estável e constitucional.
+
+================================================================================
+
+SEÇÃO 4 — PROPOSTA 3: REGIONALIZAÇÃO COMPULSÓRIA
+
+Instrumento: Decreto + Portaria MCIDADES
+Conteúdo: Consórcio obrigatório para municípios < 50 mil habitantes sem escala própria
+Estimativa: R$ 2 bi/ano (estruturação de consórcios)
+Justificativa: 78% do déficit está em municípios pequenos sem capacidade técnica/financeira.
+
+================================================================================
+
+SEÇÃO 5 — PROPOSTA 4: TRANSPARÊNCIA ATIVA SNIS
+
+Instrumento: Portaria ANA + Decreto
+Conteúdo: Painel público em tempo real com % cobertura por município (água/esgoto)
+Estimativa: R$ 50 milhões (desenvolvimento + manutenção)
+Justificativa: Accountability pública. Cidadão fiscaliza. Prefeito responde.
+
+================================================================================
+
+SEÇÃO 6 — PROPOSTA 5: COMBATE ÀS MILÍCIAS DA ÁGUA
+
+Instrumento: Operação Federal + MP
+Conteúdo: Federalização do serviço de caminhão-pipa em áreas dominadas por milícias (RJ, BA, PE)
+Estimativa: R$ 1,5 bi/ano (operação + substituição por rede)
+Justificativa: Violação de direitos humanos + exploração econômica da pobreza.
+
+================================================================================
+
+SEÇÃO 7 — MODELO DE IMPACTO FISCAL PROJETADO
+
++------------------------------------------------------------------+
+| ANO     | INVESTIMENTO (R$ bi) | RETORNO SAÚDE (R$ bi) | SALDO   |
++------------------------------------------------------------------+
+| 2025    | 25                   | 100                   | +75     |
+| 2026    | 40                   | 160                   | +120    |
+| 2027    | 55                   | 220                   | +165    |
+| 2028    | 70                   | 280                   | +210    |
+| 2029    | 70                   | 280                   | +210    |
+| 2030    | 70                   | 280                   | +210    |
+| 2031    | 70                   | 280                   | +210    |
+| 2032    | 70                   | 280                   | +210    |
+| 2033    | 70                   | 280                   | +210    |
++------------------------------------------------------------------+
+| TOTAL   | 540                  | 2.160                 | +1.620  |
++------------------------------------------------------------------+
+
+Retorno acumulado em 30 anos (2033-2063): R$ 2,8 trilhões (Opas/OMS)
+
+================================================================================
+
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+
+- Lei 14.026/2020 (Novo Marco do Saneamento) — já vigente
+- Lei 9.984/2000 (Criação da ANA)
+- Constituição Federal, art. 196 (direito à saúde)
+- Constituição Federal, art. 200 (competência do SUS)
+- Decreto 10.588/2021 (Plano Nacional de Saneamento)
+- Resolução ANA 1.080/2022 (regulação regionalizada)
+
+Instrumentos:
+- Medida Provisória (art. 62 CF)
+- Decreto Presidencial (art. 84 CF)
+- Portaria Ministerial
+- Resolução de Agência Reguladora
+
+================================================================================
+
+SEÇÃO 9 — RISCOS E MITIGAÇÕES
+
+Risco 1: Resistência de prefeituras pequenas
+Mitigação: Consórcio obrigatório + transferência de recursos federais condicionada
+
+Risco 2: Captura de recursos por grandes grupos
+Mitigação: Auditoria do TCU + painel público SNIS em tempo real
+
+Risco 3: Falta de mão de obra especializada
+Mitigação: Programa nacional de capacitação via SENAI + universidades federais
+
+Risco 4: Mudança de governo
+Mitigação: Meta vinculante com multa + lei de responsabilidade fiscal
+
+================================================================================
+
+SEÇÃO 10 — RECOMENDAÇÃO E TIMELINE
+
+D+0   : Publicação de MP com meta vinculante + multa
+D+15  : Decreto de criação do Fundo Nacional de Saneamento
+D+30  : Portaria ANA com painel público SNIS
+D+45  : Operação federal contra milícias da água (RJ)
+D+60  : Consórcios regionais obrigatórios (municípios < 50k)
+D+90  : Primeira auditoria TCU sobre execução
+D+120 : Relatório parcial de cobertura SNIS
+D+180 : Meta de 20% de redução do déficit (7 milhões com água)
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

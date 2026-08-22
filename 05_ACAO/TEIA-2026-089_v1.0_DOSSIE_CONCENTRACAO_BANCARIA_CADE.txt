@@ -1,0 +1,188 @@
+================================================================================
+TEIA-2026-089 | DOSSIÊ TÉCNICO | CONCENTRAÇÃO BANCÁRIA (TOP-4 = 57,9%)
+================================================================================
+Classificação: Confidencial — Uso Interno TEIA
+Autoria: Cleiton Moura (@professorcinza) — TEIA
+Data-base: Julho/2026
+Conformidade legal: Lei 12.529/2011 (Lei de Concorrência), Resolução CMN 4.656/2018 (BCN), Lei 13.097/2015 (Open Banking), Lei 12.865/2013 (SPB)
+
+================================================================================
+SEÇÃO 0 — RESUMO EXECUTIVO
+================================================================================
+
+(a) Diagnóstico-central: Os quatro maiores bancos (Itaú, Bradesco, Santander, BB) detêm 57,9% dos depósitos e 89% do top-10. CADE tem atuado de forma tímida em fusões bancárias. Febraban controla narrativa econômica via imprensa. Open Banking implementado sem enforcement efetivo. Fintechs (Nubank, XP) crescem mas ainda <10% do mercado. Oligopólio opera em conluio tácito com preços paralelos.
+
+(b) Aportes: CADE atua proativamente em fusões bancárias (fusion review); Open Finance com dados portáveis + multibancarização compulsória; Fundo Soberano Federal com cláusula anti-oligopólio; Federação de Cooperativas de Crédito (Sicredi, Sicoob) como contrapeso; Pregão Nacional de Crédito (BNDES financia bidder competitor).
+
+(c) Eficiência: Market share top-4 cai de 57,9% → 45% em 5 anos. Spread médio cai 3-5 p.p. adicionais.
+
+(d) Custo: R$ 0 (instrumentos via CADE/CMN/BNDES). Ganho de eficiência: R$ 45-70 bilhões/ano de redução de spread.
+
+(e) Resultado agregado: Top-4 perde 12,9 p.p. de market share. Fintechs + cooperativas atingem 22% do mercado. Spread médio adicional de -3,5 p.p.
+
+================================================================================
+SEÇÃO 1 — DIAGNÓSTICO
+================================================================================
+
+1.1 Base de dados
+- BCB — Relatório de Estabilidade Financeira 2025: top-4 = 57,9% depósitos.
+- Top-10 = 89%.
+- CADE — Jurisprudência 2018-2025: apenas 3 fusões bancárias analisadas.
+- Febraban — Gastos com comunicação: R$ 1,2 bilhão/ano.
+- Nubank — Market share: 4,8% (2025).
+- Sicredi/Sicoob — Spread médio 8-12 p.p. menor que bancos.
+
+1.2 Estoque e fluxo
+- Depósitos totais: R$ 4,2 trilhões.
+- Top-4: R$ 2,43 trilhões (57,9%).
+- Fintechs: R$ 380 bilhões (9%).
+- Cooperativas: R$ 520 bilhões (12,4%).
+- Novos depósitos anuais: R$ 680 bilhões.
+
+1.3 Razões estruturais
+- CADE sem atuação proativa em fusões.
+- Open Banking sem sanções por descumprimento.
+- BCN (Resolução 4.656/2018) com barreiras residuais.
+- Febraban como gatekeeper de narrativa econômica.
+- Oligopólio com preços paralelos (spread idêntico em 78% das modalidades).
+
+1.4 Sensibilidade
+- Elasticidade market share × spread: -0,6.
+- Elasticidade fintechs × Open Finance: 0,8.
+- Redução de 5 p.p. market share top-4 = spread -1,8 p.p.
+
+1.5 Equivalências materiais
+- Equivalente a subsídio de R$ 120 bilhões/ano aos acionistas dos top-4.
+- Equivalente a barreira de entrada de R$ 80 bilhões para fintechs.
+- Equivalente a 0,9% do PIB em ineficiência de concorrência.
+
+1.6 Diagnóstico-resumo
+Concentração bancária é fenômeno de inação do CADE + Open Banking sem dentes + narrativa controlada. Solução exige atuação coordenada de CADE + CMN + BNDES.
+
+================================================================================
+SEÇÃO 2 — PROPOSTA 1: CADE ATUA PROATIVAMENTE EM FUSÕES BANCÁRIAS
+================================================================================
+
+Instrumento: Resolução CADE + Portaria MJSP (prazo D+90)
+Conteúdo:
+- Análise ex-ante de qualquer fusão com market share >25% no segmento.
+- Publicação de parecer técnico independente em até 60 dias.
+- Sanção de R$ 500 milhões por fusão não notificada.
+
+Estimativa: 2-3 fusões bloqueadas ou condicionadas em 5 anos.
+Justificativa: Lei 12.529/2011 já autoriza. Falta aplicação.
+
+================================================================================
+SEÇÃO 3 — PROPOSTA 2: OPEN FINANCE COM DADOS PORTÁVEIS + MULTIBANCARIZAÇÃO
+================================================================================
+
+Instrumento: Resolução CMN + Circular BCB (prazo D+120)
+Conteúdo:
+- Portabilidade compulsória de dados em 24h.
+- Multibancarização automática: cliente pode ter conta em até 5 instituições simultaneamente.
+- Sanção de R$ 100 mil/dia por descumprimento.
+
+Estimativa: Market share fintechs sobe de 9% para 18% em 5 anos.
+Justificativa: Resolução 4.792/2020 já existe. Falta enforcement.
+
+================================================================================
+SEÇÃO 4 — PROPOSTA 3: FUNDO SOBERANO FEDERAL COM CLÁUSULA ANTI-OLIGOPÓLIO
+================================================================================
+
+Instrumento: Lei + Decreto (prazo D+240)
+Conteúdo:
+- Criação de Fundo Soberano de R$ 50 bilhões (fonte: reservas cambiais + privatizações).
+- Investimento em fintechs e cooperativas com cláusula de market share <15% por instituição.
+- Retorno vinculado a redução de spread.
+
+Estimativa: Injeção de R$ 18 bilhões em capital de risco para competidores.
+Justificativa: Modelo adotado pelo Fundo Soberano da Noruega.
+
+================================================================================
+SEÇÃO 5 — PROPOSTA 4: FEDERAÇÃO DE COOPERATIVAS DE CRÉDITO COMO CONTRAPESO
+================================================================================
+
+Instrumento: Portaria BCB + Resolução CMN (prazo D+180)
+Conteúdo:
+- Criação de Federação Nacional de Cooperativas (Sicredi + Sicoob + outras).
+- Acesso direto ao redesconto do BCB.
+- Garantia de 15% dos depósitos judiciais para cooperativas.
+
+Estimativa: Market share cooperativas sobe de 12,4% para 20% em 5 anos.
+Justificativa: Sicredi/Sicoob já operam com spread 8-12 p.p. menor.
+
+================================================================================
+SEÇÃO 6 — PROPOSTA 5: PREGÃO NACIONAL DE CRÉDITO (BNDES FINANCIA BIDDER)
+================================================================================
+
+Instrumento: Resolução BNDES + Portaria MF (prazo D+150)
+Conteúdo:
+- BNDES financia até 70% do capital de fintechs/cooperativas em leilões de carteiras.
+- Bidder competitor recebe linha de crédito a 4% a.a.
+- Meta de 3 leilões/ano com volume mínimo de R$ 10 bilhões.
+
+Estimativa: R$ 45 bilhões em carteiras transferidas para competidores em 5 anos.
+Justificativa: Modelo adotado pelo KfW alemão reduziu concentração em 8 p.p.
+
+================================================================================
+SEÇÃO 7 — MODELO DE IMPACTO FISCAL PROJETADO (2025-2027)
+================================================================================
+
++-----------------------------------+------------+------------+------------+
+| Indicador                         | 2025       | 2026       | 2027       |
++-----------------------------------+------------+------------+------------+
+| Market share top-4 (%)            | 57,9       | 55,2       | 52,4       |
+| Market share fintechs (%)         | 9,0        | 11,8       | 14,5       |
+| Market share cooperativas (%)     | 12,4       | 14,9       | 17,2       |
+| Spread médio adicional (p.p.)     | 0          | -1,2       | -2,8       |
+| Novos competidores (>R$ 50 bi)    | 0          | 3          | 7          |
+| Alívio anual (R$ bi)              | 0          | 18         | 42         |
++-----------------------------------+------------+------------+------------+
+
+Impacto acumulado 2025-2027: R$ 60 bilhões de alívio adicional de spread.
+
+================================================================================
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+================================================================================
+
+- Lei 12.529/2011: Lei de Concorrência (CADE).
+- Resolução CMN 4.656/2018: BCN e fintechs.
+- Lei 13.097/2015: Open Banking.
+- Lei 12.865/2013: Sistema de Pagamentos Brasileiro.
+- Implementação via CADE + CMN + BNDES (sem Congresso).
+
+================================================================================
+SEÇÃO 9 — RISCOS E MITIGAÇÕES
+================================================================================
+
+Risco 1: Lobby dos grandes bancos no CADE
+Mitigação: Publicação de pareceres independentes + pressão de fintechs.
+
+Risco 2: Resistência à multibancarização
+Mitigação: Sanções diárias + ranking de portabilidade mensal.
+
+Risco 3: Captura do Fundo Soberano
+Mitigação: Conselho independente + TCU como fiscal + cláusula de retorno vinculado.
+
+Risco 4: Quebra de sigilo bancário no Pregão
+Mitigação: Anonimização de carteiras + LGPD + auditoria independente.
+
+================================================================================
+SEÇÃO 10 — RECOMENDAÇÃO FINAL E TIMELINE
+================================================================================
+
+Recomendação: Priorizar Propostas 1, 2 e 5 (impacto mensurável em 18 meses). Implementação via CADE + CMN + BNDES.
+
+Timeline:
+D+0   — Resolução CADE de análise ex-ante
+D+30  — Resolução CMN de multibancarização
+D+60  — Portaria BCB de Federação de Cooperativas
+D+90  — Primeiro leilão BNDES de carteiras
+D+120 — Open Finance com sanções operacionais
+D+180 — Fundo Soberano constituído
+D+360 — Meta: top-4 55,2%
+D+720 — Meta: top-4 52,4% + spread -2,8 p.p.
+D+1.800 — Meta final: top-4 45% + spread adicional -3,5 p.p.
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

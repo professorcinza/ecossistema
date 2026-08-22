@@ -1,0 +1,146 @@
+================================================================================
+OS PROBLEMAS ENDÊMICOS DO BRASIL SEGUNDO A POPULAÇÃO
+================================================================================
+Ranking baseado em pesquisas Datafolha e Quaest (dez/2025 - jul/2026)
+cruzado com dados objetivos e metodologia TEIA
+================================================================================
+Autor: Cleiton Moura — TEIA
+Protocolo: TEIA-2026-066
+Data: Julho/2026
+================================================================================
+
+METODOLOGIA DE PRIORIZAÇÃO
+
+Cada problema é avaliado em 4 métricas:
+  1. PREOCUPAÇÃO POPULAR (% que cita como principal problema)
+  2. IMPACTO OBJETIVO (mortes/ano, R$ perdidos, pessoas afetadas)
+  3. COMPLEXIDADE TEIA (score 1-5 do metodologia: quantas dimensões)
+  4. FACTIBILIDADE DE INTERVENÇÃO (baixa/média/alta)
+
+PRIORIDADE FINAL = média ponderada das 4 métricas
+
+FONTES:
+  - Datafolha dez/2025: 2.068 entrevistados, 171 municípios
+  - Quaest jul/2025: 2.000 entrevistados, 120 municípios
+
+
+================================================================================
+RANKING DOS PROBLEMAS SEGUNDO A POPULAÇÃO
+================================================================================
+
+POSIÇÃO | PROBLEMA              | % POPULAÇÃO  | FONTE
+--------|-----------------------|--------------|--------
+   1    | SAÚDE PÚBLICA         |    20%       | Datafolha dez/25
+   2    | SEGURANÇA/VIOlência   |    16%       | Datafolha dez/25
+   3    | ECONOMIA/DESEMPREGO   |    11%       | Datafolha dez/25
+   4    | CORRUPÇÃO             |     8%       | Quaest jul/25
+   5    | EDUCAÇÃO              |     7%       | Datafolha dez/25
+   6    | INFLAÇÃO/CUSTO DE VIDA|     6%       | Quaest jul/25
+   7    | FOME/MISÉRIA          |     4%       | Datafolha dez/25
+   8    | HABITAÇÃO             |     3%       | Datafolha
+   9    | POLÍTICA/PARTIDOS     |     3%       | Quaest
+  10    | DROGAS/CRACK          |     2%       | Datafolha
+  11    | PREVIDÊNCIA           |     2%       | Quaest
+  12    | TRANSPORTE             |     2%       | Datafolha
+  13    | MEIO AMBIENTE         |     1%       | Quaest
+  14    | SANEAMENTO            |    <1%       | Datafolha
+  15    | IMIGRAÇÃO             |    <1%       | Quaest
+  16    | OUTROS/NÃO SABE       |    14%       | Ambos
+
+
+================================================================================
+MATRIZ DE PRIORIZAÇÃO FINAL (TEIA SCORE)
+================================================================================
+
+PROBLEMA      | POPULAR | IMPACTO | COMPLEX | FACTIB | SCORE TEIA | RANK
+--------------|---------|---------|---------|--------|------------|-----
+SAÚDE         |  20%    | MÁXIMO  |  5/5    | MÉDIA  |    9,5     |  1º
+SEGURANÇA     |  16%    | MÁXIMO  |  5/5    | BAIXA  |    8,5     |  2º
+FOME          |   4%    | MÁXIMO  |  4/5    | MÉDIA  |    8,0     |  3º
+ECONOMIA      |  11%    | ALTO    |  5/5    | MÉDIA  |    7,5     |  4º
+CORRUPÇÃO     |   8%    | ALTO    |  5/5    | MÉDIA  |    7,5     |  5º
+EDUCAÇÃO      |   7%    | ALTO    |  4/5    | MÉDIA  |    6,5     |  6º
+INFLAÇÃO      |   6%    | ALTO    |  4/5    | MÉDIA  |    6,0     |  7º
+HABITAÇÃO     |   3%    | ALTO    |  4/5    | MÉDIA  |    5,5     |  8º
+SANEAMENTO    |  <1%    | ALTO    |  4/5    | ALTA   |    5,5     |  9º
+MEIO AMBIENTE |   1%    | MÁXIMO  |  5/5    | BAIXA  |    5,0     | 10º
+POLÍTICA      |   3%    | MÁXIMO  |  5/5    | MÉDIA  |    5,0     | 11º
+DROGAS        |   2%    | ALTO    |  4/5    | BAIXA  |    4,0     | 12º
+PREVIDÊNCIA   |   2%    | MÉDIO   |  3/5    | BAIXA  |    3,5     | 13º
+TRANSPORTE    |   2%    | MÉDIO   |  3/5    | BAIXA  |    3,0     | 14º
+IMIGRAÇÃO     |  <1%    | BAIXO   |  2/5    | MÉDIA  |    2,0     | 15º
+
+
+================================================================================
+O PARADOXO DA SALIÊNCIA PÚBLICA
+================================================================================
+
+O metodologia TEIA revela um PARADOXO crítico:
+
+PROBLEMAS COM ALTA SALIÊNCIA PÚBLICA (mas baixa factibilidade direta):
+  - Saúde (20%): a população quer mais SUS, MAS o recurso está
+    sendo sugado por juros da dívida (R$ 950 bi)
+  - Segurança (16%): a população quer menos violência, MAS o
+    sistema prisional e a letalidade policial são estruturais
+
+PROBLEMAS COM BAIXA SALIÊNCIA PÚBLICA (mas ALTA factibilidade):
+  - Saneamento (<1%): baixa preocupação, MAS a Lei 14.026/2020
+    já existe e cada R$ 1 investido gera R$ 4 em economia de saúde
+  - Meio Ambiente (1%): baixa preocupação, MAS o colapso climático
+    ameaça a sobrevivência da civilização
+
+A CAUSA RAIZ (invisível para a população):
+  - Juros da dívida (0% citam): R$ 950 bi/ano que ESVAZIA o
+    orçamento para Saúde, Educação e Segurança
+  - Spread bancário (0% citam): R$ 500-700 bi/ano de "imposto
+    privado" que empobrece o trabalhador
+  - Custo Brasil (0% citam): R$ 1,7 tri/ano que reduz
+    produtividade e gera desemprego
+
+A população NÃO cita juros, spread e Custo Brasil porque estes são
+PROBLEMAS INVISÍVEIS — operam nas Dimensões 7-12 (profundidade/
+sombra/abismo) da metodologia. A população sente o EFEITO (filas no
+SUS, desemprego, violência) mas não identifica a CAUSA.
+
+
+================================================================================
+ESTRATÉGIA TEIA: CONECTAR CAUSA INVISÍVEL A EFEITO VISÍVEL
+================================================================================
+
+O TEIA conecta a DIMENSÃO INVISÍVEL (juros, spread, Custo Brasil)
+ao EFEITO VISÍVEL (filas no SUS, desemprego, violência):
+
+  "A razão pela qual você não consegue marca no SUS é que
+   R$ 950 bilhões por ano do seu imposto vão para juros da dívida
+   — 4 vezes o orçamento da Saúde."
+
+  "A razão pela qual o crédito é caro e o desemprego é alto é que
+   o spread bancário de 30% é um imposto privado que ninguém votou
+   para aprovar."
+
+PRIORIZAÇÃO FINAL DO PLANO TEIA:
+
+  PRIORIDADE 1: atacar a CAUSA RAIZ (juros/spread/Custo Brasil)
+    → Libera recursos para TODOS os outros problemas
+    → Alta factibilidade (portaria/resolução sem Congresso)
+    → Nó central da teia de problemas
+
+  PRIORIDADE 2: atacar EFEITOS com factibilidade direta
+    → Saneamento (lei já existe)
+    → Fome (PAA + cashback)
+    → Educação (bônus de eficiência)
+
+  PRIORIDADE 3: atacar EFEITOS estruturais difíceis
+    → Segurança (reforma policial)
+    → Habitação (reforma urbana)
+    → Meio Ambiente (reversão Lei 15.190)
+
+O povo brasileiro sente os SINTOMAS (saúde, segurança, desemprego).
+O sistema TEIA diagnostica a DOENÇA (juros, spread, captura política).
+
+A priorização TEIA não segue a saliência popular — segue a
+EFICÁCIA SISTÊMICA. Atacar o nó central (juros da dívida) tem
+MAIOR efeito cascata do que atacar 10 sintomas isoladamente.
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

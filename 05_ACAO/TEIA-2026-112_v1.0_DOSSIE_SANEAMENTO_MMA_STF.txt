@@ -1,0 +1,469 @@
+================================================================================
+TEIA — DOSSIÊ EXECUTIVO DE AÇÃO ESTRATÉGICA
+Protocolo: TEIA-2026-112
+Versão: 1.0
+Data: Julho/2026
+Entrega: MMA / MS / STF / CONGRESSO NACIONAL
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Score TEIA: 5/5
+Problema: P14 (complementar) — PRIVATIZAÇÃO SELETIVA DO SANEAMENTO SEM
+          UNIVERSALIZAÇÃO + OMISSÃO INCONSTITUCIONAL FEDERAL
+Documento complementar ao TEIA-2026-093 (déficit estrutural P14 base).
+Este dossiê aprofunda o PADRÃO de captura por privatização seletiva,
+desigualdade regional (Norte) e abre a via judicial (ADPF/STF) como
+instrumento de enforcement da meta de universalização 2033.
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) Diagnóstico
+- 84,9% da população com água tratada → 15,1% SEM acesso = ~32 milhões de
+  brasileiros sem água potável na torneira (SNIS 2023 / Censo IBGE 2022).
+- Aproximadamente 50% da população sem coleta ou tratamento de esgoto =
+  ~105 milhões de pessoas (SNIS 2023).
+- Perda de água na distribuição: 37,78% (média nacional SNIS) — quase
+  4 em cada 10 litros tratados se perdem antes de chegar ao consumidor.
+- Investimento necessário à universalização: R$ 551 bilhões até 2033.
+- Região Norte recebeu apenas 4,7% dos investimentos em saneamento no
+  período 2020–2024 (SNIS / ANA) — a menor parcela entre as 5 regiões.
+- Marco Legal do Saneamento (Lei 14.026/2020) fixa meta de universalização
+  (99% água + 90% esgoto) até 2033. Passada metade do prazo, déficit segue
+  em ~32M (água) e ~105M (esgoto). Sem enforcement, a meta legal vira letra
+  morta.
+
+(b) Aportes
+- Investimento necessário: R$ 551 bi até 2033 (≈ R$ 50 bi/ano).
+- Investimento atual observado: ≈ R$ 15 bi/ano (SNIS).
+- Déficit de financiamento: ≈ R$ 35 bi/ano.
+
+(c) Eficiência
+- Cada R$ 1 investido em saneamento gera R$ 4 em economia em saúde
+  (Opas/OMS).
+- Doenças de veiculação hídrica respondem por parcela desproporcional das
+  internações no SUS em municípios sem saneamento.
+- Perda de 37,78% significa que mais de 1/3 do investimento em tratamento
+  é desperdiçado na rede — ganho de eficiência logística equivaleria a
+  novo aporte bilionário sem novo gasto.
+
+(d) Custo
+- Programa Nacional de Saneamento: R$ 50 bilhões/ano, financiado por FGTS,
+  fundos constitucionais, orçamento federal e taxação de lucro extraordinário
+  das concessioniárias rentáveis.
+- Saneamento comunitário descentralizado: R$ 3 bi/ano (favelas/periferias).
+- Total: R$ 53 bi/ano (vs. R$ 551 bi necessários até 2033 — compatível).
+
+(e) Resultado esperado
+- Universalização até 2033: 99% água tratada + 90% esgoto tratado.
+- Redução de 32 milhões → 0 sem água tratada.
+- Redução de 105 milhões → ~21 milhões sem esgoto (meta 90%).
+- ADPF no STF transforma meta legal em obrigação constitucional exigível.
+- Encerra o padrão de "cream-skimming" (privatização das áreas rentáveis
+  com abandono das periferias).
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO QUANTITATIVO (DADOS FACT-CHECKED)
+
+1.1 Cobertura de água (SNIS 2023 / IBGE 2022)
+- População total do Brasil: ~212 milhões.
+- Com acesso a água tratada: 84,9%.
+- Sem acesso a água tratada: 15,1% ≈ 32 milhões.
+- Concentração: Norte e Nordeste, periferias urbanas, zona rural, comunidades
+  tradicionais (quilombolas, indígenas, ribeirinhos).
+
+1.2 Cobertura de esgoto (SNIS 2023)
+- Sem coleta ou tratamento de esgoto: ~50% da população ≈ 105 milhões.
+- Esgoto efetivamente tratado: ~50% do gerado (o restante é despejado in natura
+  em corpos hídricos).
+- Municípios < 50 mil habitantes: 78% sem coleta de esgoto.
+
+1.3 Perda de água (SNIS 2023)
+- Índice de perda na distribuição: 37,78% (média nacional).
+- Em valor: bilhões de m³/ano tratados e perdidos (vazamentos, ligações
+  irregulares, medição).
+- Topo do ranking mundial de ineficiência — sinal de subinvestimento crônico
+  em manutenção e de captura tarifária sem contrapartida de serviço.
+
+1.4 Investimento (SNIS / ANA)
+- Necessário à universalização até 2033: R$ 551 bilhões.
+- Investimento atual: ~R$ 15 bi/ano.
+- Investimento total 2020–2024 (pós-Marco Legal): concentração regional
+  acentuada.
+- Norte: 4,7% do total investido — a menor participação entre as regiões,
+  em flagrante descompasso com o maior déficit relativo per capita.
+- Sudeste: concentra a maior fatia (áreas rentáveis, alto retorno por usuário).
+
+1.5 Marco normativo
+- Lei 14.026/2020 (Novo Marco Legal do Saneamento): meta de universalização
+  99% água + 90% esgoto até 2033; prestadores regionais obrigatórios para
+  municípios pequenos; abertura à privatização/regionalização.
+- Lei 9.984/2000 (criação da ANA) — competência regulatória federal.
+- Decreto 10.588/2021 (Plano Nacional de Saneamento Básico — PLANSAB).
+- Resolução ANA pertinentes à regulação regionalizada.
+
+1.6 Fontes primárias
+- SNIS — Sistema Nacional de Informações sobre Saneamento (MMA/ANA).
+- ANA — Agência Nacional de Águas e Saneamento Básico.
+- Trata Brasil (Instituto Trata Brasil / GO Associados).
+- IBGE — Censo Demográfico 2022.
+- Opas/OMS — relação custo-benefício do saneamento.
+
+================================================================================
+
+SEÇÃO 2 — PADRÃO ESTRUTURAL: A MÁQUINA DA PRIVATIZAÇÃO SELETIVA
+
+2.1 Tese central
+O Novo Marco Legal do Saneamento (Lei 14.026/2020), ao condicionar novos
+contratos à comprovação de capacidade de universalização, acelerou a
+transferência de serviços para o setor privado. O PADRÃO observado pós-2020,
+contudo, é de privatização SELETIVA:
+
+  - Concessõesprivadas concentram-se em áreas RENTÁVEIS (centros urbanos
+    adensados, classe média/alta, baixo custo de infraestrutura por usuário,
+    alto retorno tarifário);
+  - As PERIFERIAS, favelas, zona rural e regiões Norte/Nordeste são
+    NEGLEGIADAS ou excluídas do escopo do contrato (áreas "não rentáveis");
+  - O resultado é um sistema DUAL: cobertura de qualidade nos bairros
+    rentáveis e ausência total ou precária nas periferias.
+
+2.2 Mecanismo do "cream-skimming" (desnatamento)
+(1) Editais de concessão desenham blocos regionais que agregam municípios
+    rentáveis a municípios deficitários — mas sem cláusula vinculante de
+    universalização dentro do bloco;
+(2) A concessionária prioriza investimento onde o retorno marginal é maior
+    (legalmente defensável: o contrato permite "priorização técnica");
+(3) A meta de universalização 2033 existe na lei, mas NÃO tem mecanismo
+    de fiscalização sancionatória automático por município — ANA fiscaliza
+    o prestador, raramente o contratante;
+(4) Transcorrido o prazo intermediário (2020–2026 = metade do horizonte
+    2020–2033), o déficit permanece em ~32M (água) e ~105M (esgoto).
+
+2.3 Indicadores do padrão
+- Norte: 4,7% dos investimentos 2020–2024 — evidência empírica direta da
+  seletividade regional.
+- Perda de água 37,78%: sinal de que concessionárias capturam tarifa sem
+  investir em manutenção da rede (perda = custo repassado ao usuário).
+- Favelas e comunidades urbanas: alta proporção sem rede formal, servidas
+  por soluções paralelas (caminhão-pipa, poço, água de qualidade duvidosa),
+  às vezes controladas por milícias (ver TEIA-093, Seção 1.5).
+
+2.4 Atores do padrão
+- Concessionárias privadas regionais (grupos econômicos do setor).
+- Municípios (interesse em receber outorga sem contrapartida de cobertura).
+- Estados (bloco regional de concessão).
+- ANA (regulador com capacidade limitada de enforcement municipal).
+- Congresso (pressão de lobby do setor nas condições dos editais).
+
+2.5 Conclusão do padrão
+A universalização NÃO ACONTECE por mercado. O modelo de privatização
+seletiva, deixado à lógica do lucro por área rentável, perpetua o déficit
+nas periferias. A meta de 2033 será descumprida se depender apenas da
+lógica privada — exige-se enforcement federal + judicial + solução
+descentralizada para áreas não-atraentes ao capital.
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTA 1: PROGRAMA NACIONAL DE SANEAMENTO (R$ 50 BI/ANO)
+
+Instrumento: Medida Provisória + Projeto de Lei + Resolução CMN.
+Conteúdo:
+- Programa federal de investimento em saneamento com dotação de R$ 50 bilhões
+  por ano, durante 11 anos (2025–2033, total ≈ R$ 550 bi ≈ meta R$ 551 bi).
+- Fontes (composição estável e constitucional):
+    * FGTS (aplicação saneamento): 40% = R$ 20 bi/ano.
+    * Fundos constitucionais (Norte, Nordeste, Centro-Oeste): 25% = R$ 12,5 bi.
+    * Orçamento federal (LOA): 20% = R$ 10 bi/ano.
+    * Taxação de lucro extraordinário de concessionárias rentáveis: 15%
+      = R$ 7,5 bi/ano.
+- Critério de alocação regional: vinculação de no mínimo 40% do total às
+  regiões Norte, Nordeste e municípios < 50 mil habitantes — corrigindo a
+  distorção histórica (Norte com 4,7% dos investimentos).
+Estimativa: R$ 50 bi/ano.
+Justificativa: fecha o déficit de financiamento (~R$ 35 bi/ano) e cria folga
+para saneamento comunitário + redução de perdas. Composição constitucional,
+não depende de novo tributo.
+
+================================================================================
+
+SEÇÃO 4 — PROPOSTA 2: REGULAÇÃO ANA RIGOROSA COM MULTAS AUTOMÁTICAS
+
+Instrumento: Resolução ANA + Decreto Presidencial + Portaria MMA.
+Conteúdo:
+- ANA edita regulamento de enforcement municipal: cada concessionária deve
+  reportar cobertura trimestral por município (água/esgoto) no SNIS público.
+- Metas intermediárias vinculantes (milestones anuais até 2033), não apenas
+  a meta final — descumprimento gera multa AUTOMÁTICA escalonada:
+    * 1º ano de descumprimento: R$ 10 milhões/mês.
+    * 2º ano consecutivo: R$ 25 milhões/mês + advertência pública.
+    * 3º ano consecutivo: intervenção/regulação do contrato (renegociação
+      compulsória ou reversão do serviço ao poder público).
+- Cláusula contratual padrão (inserta em editais): vedação ao
+  "cream-skimming" — obrigação de cobertura proporcional entre as áreas
+  rentáveis e não-rentáveis dentro de cada bloco regional.
+- Painel SNIS em tempo real com ranking público de concessionárias.
+Estimativa: R$ 200 milhões/ano (estruturação regulatória + auditoria).
+Justificativa: Lei 14.026/2020 tem meta, mas sem enforcement. O instrumento
+do enforcement é regulatório e de baixo custo — o que falta é decisão
+política e regulatória.
+
+================================================================================
+
+SEÇÃO 5 — PROPOSTA 3: SANEAMENTO COMUNITÁRIO EM FAVELAS (SOLUÇÃO
+DESCENTRALIZADA)
+
+Instrumento: Decreto + Portaria MCIDADES/MMA + Convênios com municípios.
+Conteúdo:
+- Programa federal de saneamento descentralizado para favelas, periferias
+  e comunidades urbanas de baixa renda onde a rede centralizada é inviável
+  ou foi historicamente negligenciada.
+- Soluções técnicas:
+    * Estações descentralizadas de tratamento de esgoto (ETE compactas,
+      condominiais);
+    * Sistemas de aproveitamento de água pluvial;
+    * Rede de distribuição local (micro-sistemas) geridos por cooperativas
+      comunitárias;
+    * Solução de drenagem urbana combinada.
+- Modelo de gestão: cooperativa ou associação comunitária, com assistência
+  técnica federal (EMBRAPA/ universidades federais / SENAI) e financiamento
+  do Programa Nacional.
+- Dotação: R$ 3 bilhões/ano (integrados ao Programa Nacional da Seção 3).
+- Prioridade: favelas das capitais e regiões metropolitanas (RJ, SP, BA, PE,
+  CE, PA, AM, MA) + comunidades ribeirinhas e quilombolas.
+Justificativa: o modelo de concessão regional não atinge favelas porque
+são áreas de baixa rentabilidade privada. Solução descentralizada quebra o
+ciclo de exclusão — gera emprego local (cooperativas) e soluciona o déficit
+onde o mercado não vai.
+
+================================================================================
+
+SEÇÃO 6 — PROPOSTA 4: META DE UNIVERSALIZAÇÃO 2033 FISCALIZADA PELO STF
+
+Instrumento: ADPF (Arguição de Descumprimento de Preceito Fundamental) no
+STF — ver Seção 7, Petição.
+Conteúdo:
+- Reconhecimento judicial de que a meta de universalização do saneamento
+  (Lei 14.026/2020) constitui obrigação constitucional derivada dos
+  arts. 6º e 196 da CF/88 (direito social à saúde).
+- STF fixa cronograma vinculante de cumprimento, com relatórios anuais
+  da União (MMA/ANA) ao Tribunal.
+- Sanção institucional: intervenção federal nos termos do art. 34 da CF
+  (não adimplência de obrigação constitucional) caso a União descumpra
+  o cronograma fixado.
+Estimativa: R$ 0 (judicial).
+Justificativa: o Judiciário é o único poder capaz de compelir o Executivo
+e o Legislativo a cumprir uma meta cujo prazo intermediário já foi
+descumprido.
+
+================================================================================
+
+SEÇÃO 7 — PETIÇÃO FORMAL: ADPF NO STF (OMISSÃO INCONSTITUCIONAL)
+
+7.1 Endereçamento
+Excelentíssimo Senhor Ministro Presidente do Supremo Tribunal Federal,
+para arguição de descumprimento de preceito fundamental, nos termos da
+Lei 9.882/1999.
+
+7.2 Requerentes
+- Partido político com representação no Congresso Nacional (art. 103, CF).
+- Ou Confederação Sindical / Entidade de Classe de âmbito nacional.
+- Ou Advocacia-Geral da União, por iniciativa do Executivo (hipótese
+  alternativa).
+
+7.3 Objeto
+Arguição de Descumprimento de Preceito Fundamental por OMISSÃO, em face de
+descumprimento, pela União Federal, dos preceitos constitucionais
+fundamentais consubstanciados nos arts. 6º e 196 da Constituição Federal
+de 1988, na medida em que NÃO ADOTOU as medidas executivas e legislativas
+necessárias ao cumprimento da meta de universalização do saneamento básico
+prevista na Lei 14.026/2020, mantendo ~32 milhões de brasileiros sem água
+tratada e ~105 milhões sem coleta/tratamento de esgoto.
+
+7.4 Fundamentos jurídicos
+
+(I) O direito à saúde é direito social fundamental.
+    Art. 6º CF — "São direitos sociais a educação, a saúde, a alimentação,
+    o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência
+    social, a proteção à maternidade e à infância, a assistência aos
+    desamparados (...)".
+    Art. 196 CF — "A saúde é direito de todos e dever do Estado, garantido
+    mediante políticas sociais e econômicas que visem à redução do risco de
+    doença e de outros agravos e ao acesso universal e igualitário às ações
+    e serviços para sua promoção, proteção e recuperação."
+
+(II) Saneamento básico é condição material do direito à saúde.
+    A jurisprudência consolidada do STF (ADI 3.488, ADI 4.810, RE 652.970,
+    dentre outros) reconhece que o acesso à água potável e à coleta/tratamento
+    de esgoto é elemento constitutivo do mínimo existencial e da dignidade
+    da pessoa humana (art. 1º, III, CF). Doenças de veiculação hídrica são
+    causa direta de morbimortalidade evitável.
+
+(III) A omissão é inconstitucional.
+    A Lei 14.026/2020 estabeleceu meta de universalização até 2033. Passada
+    metade do prazo (2020–2026), o déficit permanece em ~32M (água) e ~105M
+    (esgoto), e a União não implementou:
+      - Programa federal de investimento compatível com a necessidade
+        (R$ 551 bi / 11 anos = R$ 50 bi/ano mínimo); o executado é ~R$ 15
+        bi/ano.
+      - Enforcement regulatório efetivo pela ANA, com multas vinculantes.
+      - Correção da desigualdade regional (Norte com 4,7% dos investimentos).
+    Trata-se de OMISSÃO INCONSTITUCIONAL qualificada, na linha da doutrina
+    da omissão inconstitucional absoluta (José Joaquim Gomes Canotilho;
+    Ingo Wolfgang Sarlet) — a omissão viola preceito fundamental.
+
+(IV) Cabimento da ADPF por omissão.
+    A Lei 9.882/1999 (art. 1º, parágrafo único) e a jurisprudência do STF
+    (ADPF 348, ADPF 382, ADPF 510) admitem ADPF por omissão quando há
+    descumprimento de preceito fundamental derivado de inação do poder
+    público. O saneamento enquadra-se por sua magnitude (137 milhões de
+    afetados somando água + esgoto) e por sua correlação direta com o
+    direito à saúde.
+
+7.5 Pedidos
+(I)   A concessão de MEDIDA LIMINAR para determinar à União Federal a
+      apresentação, em prazo razoável (180 dias), de plano executivo de
+      cumprimento da meta de universalização, com cronograma anual
+      vinculante de cobertura e dotação orçamentária.
+(II)  A procedência da ADPF para:
+      (a) declarar o estado de OMISSÃO INCONSTITUCIONAL em matéria de
+          saneamento básico, por violação dos arts. 6º e 196 da CF;
+      (b) fixar cronograma vinculante de universalização até 2033, com
+          relatórios anuais da ANA ao STF;
+      (c) determinar à União que preveja, no orçamento federal, dotação
+          compatível com o cronograma (mínimo de R$ 50 bi/ano);
+      (d) determinar à ANA a edição de regulamento de enforcement com
+          multas automáticas por descumprimento de metas intermediárias.
+(III) A condenação da União ao pagamento de honorários e custas na forma
+      da lei.
+
+7.6 Anexos probatórios (lista)
+- Relatório SNIS 2023 (cobertura nacional).
+- Relatório ANA sobre investimentos por região (Norte 4,7%).
+- Lei 14.026/2020 (Marco Legal do Saneamento).
+- Dados IBGE Censo 2022 (população sem acesso).
+- Parecer técnico Opas/OMS sobre custo-benefício do saneamento.
+
+================================================================================
+
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+
+- Constituição Federal:
+    * Art. 1º, III (dignidade da pessoa humana).
+    * Art. 6º (direito social à saúde).
+    * Art. 196 (saúde = direito de todos, dever do Estado).
+    * Art. 200, II (SUS — executar ações de saneamento básico).
+    * Art. 21, XX (competência da União para instituir diretrizes).
+    * Art. 23, VI (competência comum para cuidar da saúde e saneamento).
+    * Art. 34, VII, "b" (intervenção federal por não cumprimento de ordem
+      judicial relativa a preceito fundamental).
+- Lei 14.026/2020 (Novo Marco Legal do Saneamento).
+- Lei 9.984/2000 (criação da ANA).
+- Lei 9.882/1999 (ADPF).
+- Decreto 10.588/2021 (Plano Nacional de Saneamento Básico).
+- Resoluções ANA pertinentes (regulação regionalizada, padrões de potabilidade).
+
+Instrumentos:
+- ADPF no STF (via judicial principal).
+- Medida Provisória (art. 62 CF) para o Programa Nacional.
+- Projeto de Lei para o Fundo de financiamento.
+- Decreto Presidencial (art. 84 CF) para saneamento comunitário.
+- Resolução ANA para enforcement regulatório.
+- Portaria Ministerial MMA/MCIDADES.
+
+================================================================================
+
+SEÇÃO 9 — MODELO DE IMPACTO FISCAL PROJETADO
+
++------------------------------------------------------------------+
+| ANO     | INVEST. (R$ bi) | COBERTURA ÁGUA | COBERTURA ESGOTO   |
++------------------------------------------------------------------+
+| 2025    | 25              | 86,0%          | 52%                |
+| 2026    | 40              | 88,0%          | 55%                |
+| 2027    | 50              | 90,5%          | 60%                |
+| 2028    | 53              | 92,5%          | 65%                |
+| 2029    | 53              | 94,5%          | 72%                |
+| 2030    | 53              | 96,0%          | 78%                |
+| 2031    | 53              | 97,5%          | 84%                |
+| 2032    | 53              | 98,5%          | 88%                |
+| 2033    | 53              | 99,0%          | 90%                |
++------------------------------------------------------------------+
+| TOTAL   | ≈ 533           | UNIVERSALIZAÇÃO (Lei 14.026/2020)     |
++------------------------------------------------------------------+
+
+Observação: perda de água reduzida de 37,78% para meta de 25% até 2033
+libera ~R$ 8 bi/ano equivalentes — capital de reinvestimento no próprio
+sistema, sem novo gasto público.
+
+Retorno econômico acumulado (2033–2063): ≈ R$ 2,8 trilhões em economia de
+saúde (Opas/OMS, razão 1:4) — valida o investimento como autofinanciável
+no longo prazo.
+
+================================================================================
+
+SEÇÃO 10 — RISCOS E MITIGAÇÕES
+
+Risco 1: Resistência do setor privado concessionário ao enforcement
+         (lobby no Congresso contra multas).
+Mitigação: ADPF no STF transfere a exigibilidade para o Judiciário —
+         insensível ao lobby. Multa escalonada dá previsibilidade.
+
+Risco 2: Inviabilidade técnica em áreas isoladas (Norte, comunidades
+         tradicionais).
+Mitigação: saneamento comunitário descentralizado (Proposta 3) — soluções
+         técnicas adaptadas; alocação mínima de 40% às regiões Norte/
+         Nordeste/pequenos municípios.
+
+Risco 3: Captura de recursos do Programa Nacional por grupos econômicos.
+Mitigação: painel SNIS em tempo real + auditoria TCU anual + cláusula de
+         proibição do "cream-skimming" nos editais.
+
+Risco 4: Mudança de governo com descontinuidade.
+Mitigação: cronograma fixado por decisão do STF (vinculante para qualquer
+         governo); cláusula constitucional de continuidade das políticas
+         públicas (jurisprudência STF sobre direito adquirido social).
+
+Risco 5: STF nega a ADPF por reserva de parlamento.
+Mitigação: pedido subsidiário de fixação de cronograma mínimo sem invadir
+         discricionariedade legislativa; jurisprudência de ADPF por omissão
+         (ADPF 348/382/510) dá suporte.
+
+================================================================================
+
+SEÇÃO 11 — RECOMENDAÇÃO E TIMELINE
+
+D+0    : Protocolo da ADPF no STF (Pedido de medida liminar).
+D+30   : Medida Provisória criando o Programa Nacional (R$ 50 bi/ano).
+D+60   : Decreto do saneamento comunitário (favelas/periferias).
+D+90   : Resolução ANA com enforcement + multas automáticas.
+D+120  : Portaria MMA/MCIDADES — painel SNIS em tempo real.
+D+180  : Primeiro relatório de cobertura ao STF (cumprindo cronograma).
+D+365  : Primeira auditoria TCU sobre execução e alocação regional.
+
+================================================================================
+
+SEÇÃO 12 — CONCLUSÃO ESTRATÉGICA
+
+O saneamento básico no Brasil opera sob um PADRÃO ESTRUTURAL de
+privatização seletiva: o capital captura as áreas rentáveis, abandona as
+periferias, e a meta legal de universalização 2033 descumpra-se pela
+ausência de enforcement. A omissão federal configura violação
+constitucional do direito à saúde (arts. 6º e 196, CF/88).
+
+A solução TEIA combina quatro frentes simultâneas:
+  (1) Programa Nacional de R$ 50 bi/ano com alocação regional corrigida;
+  (2) Regulação ANA rigorosa com multas automáticas escalonadas;
+  (3) Saneamento comunitário descentralizado onde o mercado não vai;
+  (4) ADPF no STF transformando meta legal em obrigação constitucional
+      exigível, fiscalizada pelo próprio Supremo.
+
+Estas quatro frentes rodam em paralelo, usam instrumentos previstos na
+CF/88 e nas leis vigentes, e não dependem de nenhuma ilegalidade. O
+dinheiro existe (FGTS, fundos constitucionais, taxação de lucro
+extraordinário). O que falta é decisão política — e a ADPF no STF é o
+instrumento para produzi-la.
+
+O dinheiro da reforma virá do trabalho.
+================================================================================
+FIM DO DOSSIÊ — TEIA-2026-112 v1.0
+Repositório: github.com/mouracleiton/TEIA
+Complementar a: TEIA-2026-093 (P14 — déficit estrutural base)
+================================================================================

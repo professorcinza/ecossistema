@@ -1,0 +1,521 @@
+================================================================================
+TEIA FRAMEWORK v7.0 — A MICROFÍSICA DA DOMINAÇÃO (26×16 = 416 PERSPECTIVAS)
+================================================================================
+Integração das 5 últimas dimensões de captura, mapeando as
+microfísicas da dominação que determinam o cotidiano.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-052
+Versão: v7.0 (MICROFÍSICA — RELEASE DEFINITIVA ABSOLUTA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v6.0 → v7.0)
+
+A v6.0 atingiu o ápice analítico com 21 dimensões nas fronteiras
+extremas da captura. A v7.0 desce à MICROFÍSICA: as dimensões que
+raramente aparecem em debates macroeconômicos, mas que determinam
+o COTIDIANO de cada brasileiro — a linguagem permitida, a burocracia
+sentida, o fluxo do movimento, o cuidado invisibilizado e o mito
+que ancora tudo.
+
+Com 26 dimensões de captura × 16 lentes analíticas, o framework
+gera 416 perspectivas de investigação.
+
+Este é o ESTADO FINAL do TEIA Framework. A teia está absolutamente
+completa. Não há zona de sombra do poder que escape à matriz 26×16.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (MICROFÍSICA DA DOMINAÇÃO)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 22 — LINGUÍSTICA / SEMÂNTICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 40%
+
+O QUE É: o controle do vocabulário permitido, a significação das
+  palavras e a estrutura do debate público. Quem nomeia o mundo,
+  controla-o.
+
+DIFERENÇA DA LENTE 14 (ANÁLISE DO DISCURSO):
+  A Lente 14 é o INSTRUMENTO de análise.
+  A Dimensão 22 é o CAMPO DE BATALHA. É ONDE o poder atua para
+  esvaziar palavras, criar eufemismos e banir vocabulário de crítica.
+
+QUEM DOMINA: mídia econômica (Valor, Estadão, Exame), think tanks
+  (Atlas Network, FGV IBRE), Big Tech (algoritmos que amplificam ou
+  silenciam termos), Ministério da Economia/Fazenda (define a
+  nomenclatura fiscal), departamentos jurídicos de grandes empresas.
+
+COMO CAPTURA:
+  - Eufemismos estratégicos: "modernização trabalhista" (cortar
+    direitos), "reforma administrativa" (precarizar Estado),
+    "responsabilidade fiscal" (cortar gasto social), "flexibilização"
+    (precarização), "parceria público-privada" (transferência de
+    patrimônio público)
+  - Apropriação de termos da esquerda: "povo", "democracia",
+    "liberdade", "patriota" — esvaziados de conteúdo original e
+    repostos como marca de extremo
+  - Criminalização de termos acadêmicos: "marxismo", "gênero",
+    "interseccionalidade" tratados como ameaça (em vez de ferramenta
+    analítica)
+  - "Newspeak" (Orwell): encolhimento do vocabulário disponível para
+    crítica → encolhimento do pensável → crítica torna-se
+    semanticamente impossível
+
+MÉTRICAS-CHAVE:
+  - Eufemismos no discurso governamental: crescente (análise qualitativa)
+  - Termos banidos da cobertura midiática: "exploração" raramente
+    usado; "luta de classes" quase extinto da mídia hegemônica
+  - Captura de "empreendedorismo" como virtude moral que esconde
+    precarização (MEI = 14 milhões)
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar a CAPTURA LINGUÍSTICA:
+  (a) Qual palavra está sendo USADA vs qual está sendo ESCONDIDA?
+  (b) O eufemismo serve para MINIMIZAR dano? ("flexibilização" = corte)
+  (c) O termo crítico foi BANIDO ou CRIMINALIZADO?
+  (d) A linguagem técnica (jurídica/econômica) exclui o cidadão comum?
+
+------------------------------------------------------------------------
+DIMENSÃO 23 — BUROCRÁTICA / ADMINISTRATIVA
+------------------------------------------------------------------------
+COBERTURA TEIA: 55%
+
+O QUE É: o labirinto de normas, processos e papeladas que funcionam
+  como um muro invisível entre o cidadão e seus direitos.
+
+DIFERENÇA DA DIMENSÃO 2 (INSTITUCIONAL):
+  A Institucional foca nas LEIS e no CONGRESSO (macro).
+  A Burocrática foca na EXECUÇÃO: o que acontece quando o cidadão
+  tenta USAR o direito (micro). O abismo entre lei e realidade.
+
+QUEM DOMINA: burocracia de carreira (carreiras fiscais, auditores,
+  analistas), despachantes, cartórios (Dim 3 de complexidade),
+  OAB, CFC (conselhos profissionais), Sistema S, big four de auditoria
+  (PwC, KPMG, Deloitte, EY).
+
+COMO CAPTURA:
+  - Complexidade tributária: 1.501 horas/ano de conformidade
+    (pior do mundo). Não é "ineficiência" — é DESENHO INTENCIONAL.
+    Grandes corporações têm exército de advogados para navegar;
+    pequeno empresário é asfixiado
+  - Barreira de entrada: o custo de conformidade funciona como filtro
+    que mata concorrentes pequenos e protege oligopólios
+  - Despachante como intermediário obrigatório: o Estado cria um
+    procedimento tão complexo que um PROFISSIONAL INTERMEDIÁRIO é
+    necessário para acessar o próprio governo
+  - Licenciamento ambiental seletivo: pequeno agricultor espera
+    meses; grande monocultura tem aprovação expressa
+  - "Silêncio administrativo" negativo: se o Estado não responde,
+    o pedido é NEGADO (o silêncio de 30 dias deveria ser aprovação)
+
+MÉTRICAS-CHAVE:
+  - Conformidade tributária: 1.501h/ano (World Bank)
+  - Custo de conformidade: R$ 150-430 bi/ano (IBPT/ETCO)
+  - Tempo médio para abrir empresa (complexa): ~80 dias (vs OCDE ~10)
+  - Despachantes registrados: ~500 mil (categoria que só existe por
+    causa da complexidade estatal)
+
+PROTOCOLO TEIA:
+  Para cada proposta/análise, verificar:
+  (a) A burocracia protege QUEM (oligopólio) e asfixia QUEM (pequeno)?
+  (b) Há "despachante obrigatório" intermediando cidadão-Estado?
+  (c) O custo de conformidade é barreira de entrada intencional?
+  (d) O "silêncio administrativo" é negativo (rejeita) ou positivo (aprova)?
+
+------------------------------------------------------------------------
+DIMENSÃO 24 — MOBILIZADORA / CIRCULATÓRIA
+------------------------------------------------------------------------
+COBERTURA TEIA: 50%
+
+O QUE É: o direito ao fluxo, à circulação física e à mobilidade. O
+  poder de decidir quem se move e quem é confinado.
+
+DIFERENÇA DA DIMENSÃO 10 (ESPACIAL):
+  A Espacial é o TERRITÓRIO (estático: onde você está).
+  A Mobilizadora é o FLUXO (dinâmico: como e se você se move).
+
+QUEM DOMINA: concessionárias de rodovias (CCR, EcoRoldovias),
+  empresas de transporte público (viações municipais), milícias
+  (controle de transporte alternativo), Polícia Rodoviária Federal,
+  Departamento Nacional de Infraestrutura de Transportes (DNIT),
+  ANTT.
+
+COMO CAPTURA:
+  - Rodovias pedagiadas para commodities: investimento maciço em
+    escoamento de soja/minério (Régis Bittencourt, BR-163) em
+    detrimento de transporte público urbano
+  - Blitz seletivas: "blitz da prefeitura" para retirar camelôs de
+    áreas nobres; abordagem seletiva por perfil racial em
+    transportes
+  - Check-points de milícias: controle de entrada e saída de
+    periferias por grupos armados (RJ)
+  - Transporte público sucateado: trabalhador perde 3h/dia no
+    deslocamento = exaustão = menos tempo de organização política
+  - Vistos e passaportes: segregação global (quem tem passaporte
+    europeu se move livremente; quem tem passaporte brasileiro é
+    fichado)
+
+MÉTRICAS-CHAVE:
+  - Tempo médio deslocamento: 1h30/dia (capitais), até 4h (periferias)
+  - Rodovias concessionadas: ~12 mil km
+  - Estradas não pavimentadas: 69%
+  - Investimento em transporte público: queda de 40% desde 2014
+  - Tarifa de ônibus: consome 15-25% da renda familiar de baixa renda
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar:
+  (a) Quem se MOVE livremente? Quem é CONFINADO?
+  (b) O investimento prioriza FLUXO DE COMMODITY ou FLUXO HUMANO?
+  (c) Há barreira física/militar/miliciana controlando circulação?
+  (d) O tempo de deslocamento IMPEDE organização política?
+
+------------------------------------------------------------------------
+DIMENSÃO 25 — REPRODUTIVA / DO CUIDADO
+------------------------------------------------------------------------
+COBERTURA TEIA: 60%
+
+O QUE É: o trabalho invisível e não remunerado (majoritariamente
+  feminino) que mantém a força de trabalho viva, e o controle sobre
+  os corpos que geram vida.
+
+QUEM DOMINA: patriarcado estrutural (divisão sexual do trabalho),
+  Estado (ausência de creches), sistema judicial (controle da
+  autonomia reprodutiva), indústria de beleza (padrões de corpo),
+  mercado de trabalho (desigualdade salarial).
+
+COMO CAPTURA:
+  - Ausência de creches públicas: mata a carreira política/econômica
+    de mulheres pobres. 70% das mulheres que não trabalham gostariam
+    de trabalhar mas não têm com quem deixar os filhos
+  - Transferência de pacientes crônicos e idosos: cuidar de idoso
+    e doente recai sobre mulheres da família sem apoio estatal
+  - Judicialização do aborto: controle da autonomia reprodutiva
+    (ADPF 442/2017 parada no STF há 8+ anos)
+  - Desigualdade salarial: mulheres ganham ~77% do que homens ganham
+    para o mesmo trabalho
+  - Feminicídio: ~1.800 assassinatos/ano de mulheres por gênero
+  - Trabalho de cuidado não remunerado: mulheres fazem ~21h/semana
+    de trabalho doméstico não pago vs 10h dos homens
+
+MÉTRICAS-CHAVE:
+  - Trabalho doméstico não remunerado (mulheres): ~21h/semana
+  - Desigualdade salarial: ~23% (mesma função)
+  - Creches: déficit de ~2 milhões de vagas
+  - Feminicídio: ~1.800/ano
+  - Representação política: 17,7% da Câmara (vs 52% da população)
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar:
+  (a) Quem CUIDA invisibilizadamente? (geralmente mulher, preta, pobre)
+  (b) O sistema externaliza o custo de cuidado para quem?
+  (c) A política analisada AFETA desproporcionalmente mulheres?
+  (d) Há controle de autonomia reprodutiva embutido?
+
+------------------------------------------------------------------------
+DIMENSÃO 26 — MITOLÓGICA / IMAGINÁRIA
+------------------------------------------------------------------------
+COBERTURA TEIA: 30%
+
+O QUE É: o inconsciente coletivo, os arquétipos fundadores da nação
+  e a fabricação do fatalismo. O "software profundo" da psique
+  nacional.
+
+DIFERENÇA DA DIMENSÃO 6 (CULTURAL):
+  A Cultural atua no FRAME imediato da notícia (camada superficial).
+  A Mitológica atua nos ARQUÉTIPOS fundadores (camada profunda).
+  A Cultural muda a interpretação de um fato; a Mitológica determina
+  o que é sequer PENSÁVEL.
+
+QUEM DOMINA: academia (Gilberto Freyre, Sérgio Buarque de Holanda
+  — interpretações clássicas que naturalizam desigualdade), mídia
+  (telenovelas que romantizam relações de poder), educação (currículo
+  escolar que reproduz mito fundacional), igrejas (narrativas de
+  destino/eleição), indústria cultural (música, cinema que celebram
+  o "jeitinho").
+
+COMO CAPTURA:
+  - Mito da cordialidade: "homem cordial" mascara violência extrema
+    como "personalidade national"
+  - Fatalismo: "o Brasil não tem jeito" — paralisa ação coletiva
+    antes mesmo de começar
+  - Romantização do banditismo: cangaço, milícias, justiceiros como
+    heróis populares (Lampião, Liga da Justiça)
+  - Mito da democracia racial: "somos um povo miscigenado e pacífico"
+    (Gilberto Freyre) — nega racismo estrutural
+  - Mito da meritocracia: "quem é pobre é porque não se esforçou"
+  - Naturalização da corrupção: "todo político rouba" — impede
+    distinção entre sistemas de captura e gestões honestas
+  - Mito do "gigante adormecido": "o Brasil é o país do futuro"
+    (e sempre será) — paralisa com falsa esperança
+
+MÉTRICAS-CHAVE:
+  - Crença "todo político rouba": ~70% (Datafolha)
+  - Crença "Brasil não tem jeito": ~55%
+  - Crença "meritocracia é justa": ~60%
+  - Crença "negro é pobre porque não se esforça": ~35%
+  - Fatalismo eleitoral: abstenção/branco/nulo = ~25%
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar:
+  (a) Qual MITO fundacional está sendo ativado?
+  (b) O fatalismo impede ação?
+  (c) A narrativa NATURALIZA desigualdade (como "jeito de ser")?
+  (d) O mito funciona como CAMADA DE PROTEÇÃO PSICOLÓGICA que impede
+      a sociedade de encarar a captura como engenharia (não traço)?
+
+
+================================================================================
+A MATRIZ ABSOLUTAMENTE DEFINITIVA v7.0
+================================================================================
+
+              |1 Econ |2 Inst |3 Tecn |4 Amb |5 Soc |6 Cult |7 Mid |8 Jur |9 Epis |10 Esp |11 Bio |12 Temp|13 Afet|14 Lab |15 Infra|16 Rel |17 Alim|18 Dat |19 Est |20 Ger |21 Aten|22 Ling|23 Buro|24 Mob |25 Repr |26 Mito |
+--------------|-------|-------|-------|------|------|-------|------|------|-------|-------|-------|-------|-------|-------|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|
+1 Econômica   |   X   |   X   |   X   |   X  |   X  |   X   |   X  |   X  |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X   |   X   |   X   |       |       |   X   |   X   |   X   |       |        |   X   |
+2 Institucional|  X   |   X   |       |   X  |      |   X   |   X  |   X  |   X   |       |       |   X   |   X   |       |        |   X   |       |       |       |   X   |       |   X   |   X   |       |        |        |
+3 Tecnológica |   X   |       |   X   |      |   X  |   X   |   X  |   X  |   X   |       |       |       |   X   |   X   |   X    |   X   |       |   X   |       |   X   |   X   |   X   |   X   |       |        |        |
+4 Ambiental   |   X   |   X   |       |   X  |   X  |       |      |   X  |   X   |   X   |   X   |       |       |   X   |   X    |   X   |   X   |       |       |   X   |       |       |   X   |       |        |        |
+5 Social      |   X   |       |   X   |   X  |   X  |   X   |   X  |   X  |       |   X   |   X   |   X   |   X   |   X   |        |   X   |   X   |       |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X   |
+6 Cultural    |   X   |   X   |   X   |      |   X  |   X   |   X  |      |   X   |       |   X   |   X   |   X   |       |        |   X   |       |   X   |   X   |       |   X   |   X   |       |       |        |   X   |
+7 Midiática   |   X   |   X   |   X   |      |   X  |   X   |   X  |   X  |   X   |       |       |   X   |   X   |       |        |   X   |       |   X   |       |       |   X   |   X   |       |       |        |   X   |
+8 Jurídica    |   X   |   X   |   X   |   X  |   X  |       |   X  |   X  |       |   X   |   X   |   X   |       |       |   X    |   X   |       |   X   |       |       |       |   X   |   X   |   X   |        |   X   |
+9 Epistêmica  |   X   |   X   |   X   |   X  |      |   X   |   X  |      |   X   |       |       |   X   |   X   |       |        |   X   |       |   X   |       |       |   X   |   X   |       |       |        |        |
+10 Espacial   |   X   |       |       |   X  |   X  |       |      |   X  |       |   X   |   X   |   X   |   X   |   X   |   X    |       |       |   X   |   X   |       |       |       |       |   X   |        |        |
+11 Biopolítica|   X   |   X   |   X   |   X  |   X  |   X   |      |   X  |       |   X   |   X   |   X   |   X   |   X   |        |   X   |   X   |   X   |   X   |       |       |       |       |       |   X    |        |
+12 Temporal   |   X   |   X   |       |      |   X  |   X   |   X  |   X  |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X   |       |   X   |       |   X   |   X   |   X   |   X   |   X   |        |   X   |
+13 Afetiva    |   X   |   X   |   X   |      |   X  |   X   |   X  |      |   X   |   X   |   X   |   X   |   X   |   X   |        |   X   |       |   X   |   X   |       |   X   |   X   |       |       |   X    |   X   |
+14 Laboral    |   X   |       |   X   |   X  |   X  |       |      |   X  |       |   X   |   X   |   X   |   X   |   X   |   X    |       |       |       |       |   X   |   X   |   X   |   X   |   X   |        |        |
+15 Infraestrut|   X   |   X   |   X   |   X  |      |       |      |   X  |       |   X   |   X   |   X   |       |   X   |   X    |       |       |       |       |   X   |       |       |       |   X   |        |        |
+16 Religiosa  |   X   |   X   |   X   |   X  |   X  |   X   |   X  |   X  |   X   |       |   X   |   X   |   X   |       |        |   X   |       |       |       |   X   |       |   X   |       |       |        |   X   |
+17 Alimentar  |   X   |       |       |   X  |   X  |       |      |   X  |       |       |   X   |       |       |   X   |   X    |       |   X   |       |       |   X   |       |       |       |       |        |        |
+18 Datificac. |   X   |       |   X   |      |   X  |   X   |   X  |   X  |   X   |   X   |   X   |   X   |   X   |       |   X    |       |       |   X   |   X   |       |   X   |   X   |       |       |        |        |
+19 Estética   |       |       |       |      |   X  |   X   |      |      |       |   X   |   X   |       |   X   |       |        |       |       |       |   X   |       |       |   X   |       |   X   |        |   X   |
+20 Geracional |   X   |   X   |   X   |   X  |   X  |       |      |   X  |       |       |   X   |   X   |   X   |   X   |        |   X   |       |       |       |   X   |   X   |       |       |   X   |        |        |
+21 Atencional |   X   |   X   |   X   |      |   X  |   X   |   X  |      |   X   |   X   |   X   |   X   |   X   |       |        |   X   |       |   X   |   X   |   X   |   X   |   X   |       |       |        |   X   |
+22 Linguístic.|   X   |   X   |   X   |      |   X  |   X   |   X  |      |   X   |       |       |   X   |   X   |   X   |        |   X   |       |   X   |       |       |   X   |   X   |   X   |       |        |   X   |
+23 Burocrática|   X   |   X   |       |   X  |   X  |       |      |   X  |       |   X   |       |   X   |       |   X   |   X    |       |       |       |       |   X   |       |   X   |   X   |       |        |        |
+24 Mobilizad. |   X   |       |       |   X  |   X  |       |      |      |       |   X   |       |   X   |   X   |   X   |   X    |       |       |       |       |   X   |       |       |       |   X   |        |        |
+25 Reprodutiv.|   X   |       |   X   |      |   X  |       |      |   X  |       |   X   |   X   |   X   |   X   |   X   |        |   X   |       |       |   X   |       |       |       |       |       |   X    |        |
+26 Mitológica |   X   |   X   |       |      |   X  |   X   |   X  |   X  |   X   |       |   X   |   X   |   X   |       |        |   X   |       |       |   X   |   X   |   X   |   X   |       |       |        |   X   |
+
+(X = combinação com aplicação direta mapeada)
+(Matriz completa com 416 perspectivas)
+
+
+================================================================================
+OS 5 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (O QUE SE VÊ)
+  1. Econômica — dinheiro, juros, spread
+  2. Institucional — leis, votos, comissões
+  3. Tecnológica — dados, algoritmos, IA
+  4. Ambiental — florestas, clima, território
+  5. Social — saúde, educación, direitos
+  6. Cultural — narrativas, valores, identidade
+
+NÍVEL 2 — PROFUNDIDADE (O QUE SE OCULTA)
+  7. Midiática — fabricação do consentimento
+  8. Jurídica — seletividade da justiça
+  9. Epistêmica — produção da verdade
+  10. Espacial — segregação, milícias
+  11. Biopolítica — controle dos corpos
+
+NÍVEL 3 — SOMBRA (O QUE É QUASE INVISÍVEL)
+  12. Temporal — roubo do tempo futuro
+  13. Afetiva — engenharia das emoções
+  14. Laboral — captura do trabalho e do ócio
+  15. Infraestrutural — controle de energia e fluxos
+  16. Religiosa — legitimação transcendente
+
+NÍVEL 4 — ABISMO (O QUE É TOTALMENTE INVISÍVEL)
+  17. Alimentar — controle da comida e da sobrevivência
+  18. Datificacional — identidade transformada em ativo
+  19. Estética — manipulação dos sentidos
+  20. Geracional — roubo do futuro das gerações
+  21. Atencional — captura da capacidade de foco
+
+NÍVEL 5 — MICROFÍSICA (O QUE DETERMINA O COTIDIANO)
+  22. Linguística — controle das palavras permitidas
+  23. Burocrática — labirinto entre cidadão e direitos
+  24. Mobilizadora — controle de quem se move e quem é confinado
+  25. Reprodutiva — captura do cuidado invisibilizado
+  26. Mitológica — inconsciente coletivo e fatalismo
+
+
+================================================================================
+NOVAS COMBINATÓRIAS POTENTES
+================================================================================
+
+------------------------------------------------------------------------
+COMBINAÇÃO P: LINGUÍSTICA (22) × DISCURSO (Lente 14)
+------------------------------------------------------------------------
+CONCEITO: Newspeak (Novilíngua) e Eufemismo Político
+
+APLICAÇÃO TEIA:
+  Desconstruir narratologicamente como a "Reforma Administrativa"
+  é empacotada linguisticamente. Investigar como think tanks de
+  elite substituem termos como "corte de direitos trabalhistas"
+  por "flexibilização" e "modernização", anulando a resistência
+  cognitiva da população através da pura maquiagem semântica.
+
+NOVA SKILL: analise-discurso-critica-semantica-cognitiva
+
+------------------------------------------------------------------------
+COMBINAÇÃO Q: BUROCRÁTICA (23) × PUBLIC CHOICE (Lente 10)
+------------------------------------------------------------------------
+CONCEITO: Barriers to Entry e Rent-seeking Regulatório
+
+APLICAÇÃO TEIA:
+  Investigar como o complexo código tributário e burocrático
+  brasileiro não é uma "ineficiência", mas um DESENHO INTENCIONAL
+  de rent-seeking. Grandes corporações sustentam a complexidade
+  burocrática precisamente porque ela funciona como uma barreira de
+  entrada que mata pequenos e médios concorrentes, garantindo o
+  monopólio de oligopólios.
+
+NOVA SKILL: analise-custo-conformidade-economia-institucional
+
+------------------------------------------------------------------------
+COMBINAÇÃO R: MOBILIZADORA (24) × GEOGRAFIA (Lente 17)
+------------------------------------------------------------------------
+CONCEITO: Controle de Fluxo e Apartheid Circulatório
+
+APLICAÇÃO TEIA:
+  Mapear via GIS a correlação entre a expansão de rodovias pedagiadas
+  (para o agronegócio) e o colapso do transporte metropolitano
+  público. Demonstrar geograficamente como o sistema prioriza o
+  fluxo de commodities (lucro) em detrimento do fluxo humano
+  (trabalhador), gerando segregação baseada na velocidade de
+  deslocamento.
+
+NOVA SKILL: geografia-transportes-analise-redes-fluxo
+
+------------------------------------------------------------------------
+COMBINAÇÃO S: REPRODUTIVA (25) × SISTEMAS COMPLEXOS (Lente 11)
+------------------------------------------------------------------------
+CONCEITO: Externalização de Custos Vitais e Feedback Loops de Gênero
+
+APLICAÇÃO TEIA:
+  Modelar como a ausência de creches gera um loop vicioso:
+  
+    Mulher não consegue trabalhar → renda familiar cai → filho fica
+    na rua → probabilidade de criminalidade aumenta → Estado gasta
+    mais com encarceramento → menos dinheiro para creches →
+    mulher não consegue trabalhar (loop positivo de pobreça)
+
+  Provar que a captura do cuidado feminino é o que SUSTENTA o
+  sistema prisional e a miséria futura.
+
+NOVA SKILL: modelagem-abm-economia-cuidado
+
+------------------------------------------------------------------------
+COMBINAÇÃO T: MITOLÓGICA (26) × HISTÓRIA (Lente 18)
+------------------------------------------------------------------------
+CONCEITO: Longue Durée e História Cultural
+
+APLICAÇÃO TEIA:
+  Usar a história de longa duração (Braudel) para rastrear a gênese
+  do mito do "homem cordial" (Buarque de Holanda) e da "casa grande
+  e senzala" (Gilberto Freyre). Mostrar como este mito fundacional
+  atua hoje como CAMADA DE PROTEÇÃO PSICOLÓGICA que impede a
+  sociedade de encarar a Dimensão Jurídica (8) e Social (5) como
+  um sistema de segregação estrutural.
+  
+  O mito trata violência policial e captura econômica como "falhas
+  de caráter individuais", não como ENGENHARIA DE DOMINAÇÃO.
+
+NOVA SKILL: historiografia-critica-genealogia-conceitos
+
+
+================================================================================
+NOVAS SKILLS (37-41)
+================================================================================
+
+SKILL 37: analise-discurso-critica-semantica-cognitiva
+  Dim 22 × Lente 14 — desconstruir eufemismos e newspeak
+
+SKILL 38: analise-custo-conformidade-economia-institucional
+  Dim 23 × Lente 10 — complexidade burocrática como barreira de entrada
+
+SKILL 39: geografia-transportes-analise-redes-fluxo
+  Dim 24 × Lente 17 — apartheid circulatório e priorização de commodity
+
+SKILL 40: modelagem-abm-economia-cuidado
+  Dim 25 × Lente 11 — feedback loops de gênero e externalização de cuidado
+
+SKILL 41: historiografia-critica-genealogia-conceitos
+  Dim 26 × Lente 18 — genealogia de mitos fundacionais brasileiros
+
+
+================================================================================
+O SISTEMA TOTAL DEFINITIVO: 26 DIMENSÕES
+================================================================================
+
+1. Econômica (Dinheiro)
+2. Institucional (Regras)
+3. Tecnológica (Algoritmos)
+4. Ambiental (Natureza)
+5. Social (Classe)
+6. Cultural (Valores)
+7. Midiática (Informação)
+8. Jurídica (Força)
+9. Epistêmica (Verdade)
+10. Espacial (Território)
+11. Biopolítica (Vida)
+12. Temporal (Tempo)
+13. Afetiva (Emoções)
+14. Laboral (Trabalho)
+15. Infraestrutural (Energia)
+16. Religiosa (Fé)
+17. Alimentar (Comida)
+18. Datificacional (Dados/Identidade)
+19. Estética (Sentidos)
+20. Geracional (Idade/Futuro)
+21. Atencional (Foco)
+22. Linguística (Palavras)
+23. Burocrática (Processos)
+24. Mobilizadora (Fluxo)
+25. Reprodutiva (Cuidado)
+26. Mitológica (Inconsciente)
+
+16 LENTES ANALÍTICAS:
+  Estatística, Simulação, Ciência Política, Public Choice,
+  Sistemas Complexos, Psicologia Cognitiva, Psicologia Social,
+  Discurso/Linguagem, Ciência da Informação, Filosofia Política,
+  Geografia, História, Sociologia, Antropologia, EPI, Direito
+
+MATRIZ: 26 × 16 = 416 PERSPECTIVAS DE INVESTIGAÇÃO POSSÍVEIS
+41 SKILLS METODOLÓGICAS
+5 NÍVEIS DE PROFUNDIDADE DO PODER
+PROTOCOLO DE QUALIDADE: 25 ITENS
+
+O framework agora mapeia a MICROFÍSICA COMPLETA da dominação
+brasileira. Não há zona de sombra que escape.
+
+A pergunta de investigação EVOLUIU:
+  ANTES: "O que aconteceu?"
+  AGORA: "Como este evento toca simultaneamente no tempo, no cuidado,
+         no dado, no mito, na linguagem, no fluxo e na fé do
+         brasileiro?"
+
+É a transformação do jornalismo/investigação em CIÊNCIA CRÍTICA
+DE SISTEMAS COMPLEXOS.
+
+================================================================================
+FIM — TEIA Framework v7.0 (MICROFÍSICA — RELEASE DEFINITIVA ABSOLUTA)
+================================================================================
+Protocolo: TEIA-2026-052
+https://github.com/mouracleiton/TEIA
+
+A TEIA está absolutamente completa.
+26 dimensões. 416 perspectivas. 5 níveis de profundidade. 41 skills.
+Nenhuma zona de sombra do poder escapa.
+
+O operador é você.
+
+================================================================================

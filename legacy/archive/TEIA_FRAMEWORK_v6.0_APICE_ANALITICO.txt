@@ -1,0 +1,466 @@
+================================================================================
+TEIA FRAMEWORK v6.0 — O ÁPICE ANALÍTICO (21×16 = 336 PERSPECTIVAS)
+================================================================================
+Integração das 5 últimas dimensões de captura, completando o mapeamento
+da totalidade da guerra de subjugação sistêmica.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-051
+Versão: v6.0 (ÁPICE — RELEASE FINAL)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v5.0 → v6.0)
+
+A v5.0 mapeou 16 dimensões do poder. A v6.0 adiciona as 5 ÚLTIMAS
+fronteiras da captura — onde o poder atua nas ZONAS MAIS EXTREMAS
+da existência humana: o controle da comida, da identidade digital,
+dos sentidos, das gerações e da própria atenção.
+
+Com 21 dimensões de captura × 16 lentes analíticas, o framework
+gera 336 perspectivas de investigação possíveis.
+
+Esta é a RELEASE FINAL. O mapeamento atingiu o ápice analítico.
+Qualquer tentativa de simplificar um problema sistêmico torna-se
+metodologicamente insustentável frente a esta matriz.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (FRONTEIRAS EXTREMAS)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 17 — ALIMENTAR / AGROECOLÓGICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 60%
+
+O QUE É: o controle da produção de alimentos, das sementes e da base
+  da sobrevivência biológica. A fome e a má nutrição como ferramentas
+  de submissão.
+
+QUEM DOMINA: Big Agro (Bayer/Monsanto, Syngenta, BASF, Cargill, Bunge,
+  ADM), oligopólios de alimentos ultraprocessados (Nestlé, Coca-Cola,
+  Ambev, BRF, JBS), ABAG (Associação Brasileira do Agronegócio),
+  bancada ruralista (321 parlamentares).
+
+COMO CAPTURA:
+  - Monopólio de sementes transgênicas: patentes de Big Agro impedem
+    agricultores de guardar sementes (dependência perpétua)
+  - Dependência de agrotóxicos: Brasil é o MAIOR consumidor mundial
+    (liberação record de pesticidas banidos na UE)
+  - Insegurança alimentar grave: +15% dos lares (33 milhões)
+  - Latifúndios de exportação: soja/cana/minério para mercado externo
+    em detrimento da agricultura familiar
+  - Obesidade epidêmica: ultraprocessados baratos vs comida fresca
+    cara — o pobre engorda porque comida de verdade é proibitiva
+  - Fome como arma: 33 milhões retornaram à fome após erradicação
+    (2003-2014). Fome gera submissão — quem tem fome não organiza
+    greve, organiza busca por comida
+
+MÉTRICAS-CHAVE:
+  - Agrotóxicos consumidos: #1 mundial
+  - Insegurança alimentar: 33 milhões (2022)
+  - Sementes transgênicas: >90% da soja brasileira
+  - Terra concentrada: 1% dos imóveis = 47% da área (Censo 2017)
+  - Ultraprocessados: ~30% da caloria ingerida pelo brasileiro
+
+PROTOCOLO TEIA:
+  (a) Quem controla a CADEIA ALIMENTAR do alvo da investigação?
+  (b) Há monopólio de sementes/agrotóxicos beneficiando o investigado?
+  (c) A política analisada AFETA a soberania alimentar?
+  (d) Há fome/insegurança alimentar como instrumento de submissão?
+
+------------------------------------------------------------------------
+DIMENSÃO 18 — DATIFICACIONAL / IDENTITÁRIA DIGITAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 75%
+
+O QUE É: a transformação do comportamento humano em dado mercantilizável
+  e a criação de "gêmeos digitais" para controle preditivo.
+
+DIFERENÇA DA DIMENSÃO TECNOLÓGICA (3):
+  A Tecnológica foca no ALGORITMO e HARDWARE.
+  A Datificacional foca na IDENTIDADE: quem VOCÊ é para o sistema.
+
+QUEM DOMINA: Big Tech (Google, Meta, ByteDance), Big Data brokers
+  (Experian, Boa Vista, Serasa), plataformas financeiras (Nubank, XP,
+  Mercado Pago), gov.br (estado como coletor), Open Finance/BCB.
+
+COMO CAPTURA:
+  - Excedente comportamental (Zuboff, 2019): cada clique, cada
+    localização, cada compra é extraído e transformado em ativo
+    preditivo. Você não é cidadão — é PACOTE DE DADOS
+  - Redlining algorítmico: negação de crédito/serviços baseada em
+    padrões de navegação, CEP e comportamento digital (discriminação
+    invisível)
+  - Ranking social implícito: não há "score social" oficial como na
+    China, mas o mercado financeiro e plataformas já operam com
+    ranking social baseado em dados comportamentais
+  - Dependência digital para direitos básicos: sem app/gov.br, não
+    há acesso a serviços públicos (exclusão digital = exclusão cidadã)
+  - Open Finance: dados financeiros compartilhados "com consentimento"
+    — mas o consentimento é EXTRAÍDO (opt-out complexo)
+
+MÉTRICAS-CHAVE:
+  - Dados por brasileiro gerados/dia: estimados em GB
+  - Analfabetismo digital: 45% não conseguem tarefas básicas
+  - Redlining algorítmico: não quantificado (opaco)
+  - Serasa/SPC: 63 milhões de brasileiros negativados (gêmeos digitais
+    punitivos)
+
+PROTOCOLO TEIA:
+  (a) Quem COLIGE os dados do alvo da investigação?
+  (b) Há redlining algorítmico discriminando por classe/raça/região?
+  (c) O consentimento de dados é INFORMADO ou EXTRAÍDO?
+  (d) O "gêmeo digital" do alvo é usado para prever/manipular voto?
+
+------------------------------------------------------------------------
+DIMENSÃO 19 — ESTÉTICA / SENSORIAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 20%
+
+O QUE É: o ambiente físico-visual, a arquitetura e a manipulação direta
+  dos sentidos para induzir conformidade ou repulsa.
+
+QUEM DOMINA: mercado imobiliário comercial, incorporadoras, gestores
+  de espaços públicos, secretarias de urbanismo, empresas de "segurança
+  privada" (que removem populações indesejadas de centros comerciais).
+
+COMO CAPTURA:
+  - Hostile architecture: bancos com divisores para impedir moradores
+    de rua de deitar; grades em praças; ausência de bebedouros públicos
+  - Poluição visual caótica: periferias saturadas de outdoors e
+    comércio informal vs zonas ricas arborizadas e limpas
+  - Sons e cores de controle: música clássica em estações para afastar
+    jovens periféricos; "mosquito device" (som de alta frequência que
+    só jovens ouvem) para dispersar grupos
+  - Branqueamento visual: gentrificação substitui comércio popular por
+    cafés boutique e arte de rua institucionalizada (removendo a
+    população original do espaço visual)
+  - Cansaço sensorial: ambiente visual agressivo (trânsito, poluição,
+    superlotação) impede contemplação e organização política
+
+MÉTRICAS-CHAVE:
+  - Hostile architecture: não quantificado (qualitativo)
+  - Gentrificação: bairros centrais com +200% de valorização em 10 anos
+  - Áreas verdes por região: ~2m²/hab em periferias vs 15m² em bairros
+    ricos (OMS recomenda 12m²)
+
+PROTOCOLO TEIA:
+  (a) O espaço físico diz QUEM PERTENCE e quem é indesejável?
+  (b) Há arquitetura hostil impedindo uso público do espaço?
+  (c) O cansaço sensorial impede organização política?
+  (d) A gentrificação está removendo a população original?
+
+------------------------------------------------------------------------
+DIMENSÃO 20 — GERACIONAL / DEMOGRÁFICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 50%
+
+O QUE É: a estrutura etária e a transferência intergeracional de
+  recursos (dos jovens para os velhos, ou do futuro para o passado).
+
+QUEM DOMINA: elite política envelhecida (idade média no Senado: 61
+  anos; Câmara: 54 anos), sistema previdenciário (RPPS privilegia
+  servidores antigos), blocos partidários tradicionais.
+
+COMO CAPTURA:
+  - Aposentadorias privilegiam quem já acumulou patrimônio (servidor
+    público com RPPS: até R$ 39 mil/mês)
+  - Cortes em educação/primeiro emprego penalizam juventude
+  - Desemprego juvenil estrutural: >25% (vs ~8% geral)
+  - Dívida ecológica herdada: jovens herdam desmatamento e crise
+    climática que não causaram
+  - Captura de pautas jovens por plataformas políticas narcísicas
+    sem substância (políticos que usam TikTok mas não mudam política)
+  - Engessamento do Estado: elite idia no poder há 30-40 anos
+    (Renan: 30 anos no Senado; Lira: 24 anos na Câmara)
+
+MÉTRICAS-CHAVE:
+  - Desemprego juvenil (18-24): ~25%
+  - Idade média Congresso: 57 anos (Senado: 61)
+  - RPPS vs RGPS: gap de até 5x no benefício
+  - Dívida pública per capita jovem: ~R$ 35 mil ao nascer
+  - Reeleição de incumbents: 60% (sistema engessado)
+
+PROTOCOLO TEIA:
+  (a) A política analisada TRANSFERE recursos de qual geração para qual?
+  (b) Quem PAGA a conta (jovem trabalhador) e quem RECEBE (idoso elite)?
+  (c) A juventude tem representação política proporcional?
+  (d) Há dívida ecológica sendo transferida ao futuro?
+
+------------------------------------------------------------------------
+DIMENSÃO 21 — ATENCIONAL / COGNITIVA
+------------------------------------------------------------------------
+COBERTURA TEIA: 80%
+
+O QUE É: o recurso mais escasso do século XXI — a atenção humana.
+  A engenharia da distração em massa como arma de controle.
+
+DIFERENÇA DAS DIMENSÕES MIDIÁTICA (7) E TECNOLÓGICA (3):
+  A Midiática foca no CONTEÚDO da notícia.
+  A Tecnológica foca no ALGORITMO.
+  A Atencional foca na CAPACIDADE DE FOCO — o recurso cognitivo
+  que é EXTRAÍDO e DESTRUÍDO.
+
+QUEM DOMINA: Big Tech (Google, Meta, ByteDance, TikTok), mídia de
+  massa (Globo, Record), plataformas de entretenimento (Netflix,
+  games), indústria de publicidade digital.
+
+COMO CAPTURA:
+  - Tempo de atenção despencando: de ~2,5 minutos em 2004 para ~8
+    segundos em 2024 (abaixo do peixinho dourado: 9s)
+  - Dopamine loops: design de redes sociais baseado em roleta russa
+    do scroll (variável recompensa = vício)
+  - Outrage fatigue: ciclos de notícias de 24h esgotam a capacidade
+    de indignação (Overclean hoje, Master amanhã, Blindagem depois)
+  - Destruição da deliberação: democracia requer ATENÇÃO SUSTENTADA
+    para debater propostas. Se o eleitor não sustenta atenção por
+    mais de 1 minuto, torna-se imune à informação complexa e refém
+    de slogans
+  - Micro-ameaças constantes: bombardeio de pânicos morais (kit gay,
+    comunismo, câncer) ativa Sistema 1 (medo) e DESATIVA Sistema 2
+    (análise)
+
+MÉTRICAS-CHAVE:
+  - Tempo de atenção médio: ~8 segundos (2024)
+  - Tempo diário em redes sociais: ~3,5 horas
+  - Scroll diário médio: ~90 metros de tela
+  - Capacidade de sustentar leitura complexa: em queda (schools report)
+  - Espectros de TDAH induzido por tecnologia: crescente
+
+PROTOCOLO TEIA:
+  (a) A investigação consegue SUSTENTAR a atenção do público por
+      tempo suficiente para gerar ação?
+  (b) O sistema usa micro-ameaças para DESVIAR a atenção?
+  (c) Há fadiga de indignação impedindo resposta a escândalos?
+  (d) O conteúdo TEIA é produzido para Sistema 1 (rápido) E Sistema 2
+      (profundo)?
+
+
+================================================================================
+A MATRIZ DEFINITIVA v6.0 (21 × 16 = 336 PERSPECTIVAS)
+================================================================================
+
+A matriz 21×16 torna QUALQUER SIMPLIFICAÇÃO de problema sistêmico
+metodologicamente insustentável.
+
+EXEMPLO DE ENCADEAMENTO:
+
+Se alguém disser "o problema do Brasil é o gasto público" (Dimensão 6
+Cultural), a matriz TEIA consegue provar que:
+
+  O "gasto público" é, na verdade:
+  → Juros da dívida que transfere renda para bancos (Dim 1 Econômica)
+  → Que financiam campanhas de parlamentares (Dim 2 Institucional)
+  → Que aprovam agrotóxicos que adoecem a população (Dim 17 Alimentar
+     × Dim 11 Biopolítica)
+  → Gerando lucro para elites (Dim 1 Econômica)
+  → Que escondem isso capturando a atenção da juventude (Dim 21
+     Atencional × Dim 20 Geracional)
+  → Via algoritmos de Big Tech (Dim 3 Tecnológica × Dim 18 Datificacional)
+  → Que extraem dados comportamentais para manipular o próximo voto
+     (Dim 13 Afetiva)
+
+É um sistema de análise IMUNE AO REDUCIONISMO.
+
+
+================================================================================
+OS 4 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (O QUE SE VÊ)
+  1. Econômica — dinheiro, juros, spread
+  2. Institucional — leis, votos, comissões
+  3. Tecnológica — dados, algoritmos, IA
+  4. Ambiental — florestas, clima, território
+  5. Social — saúde, educação, direitos
+  6. Cultural — narrativas, valores, identidade
+
+NÍVEL 2 — PROFUNDIDADE (O QUE SE OCULTA)
+  7. Midiática — fabricação do consentimento
+  8. Jurídica — seletividade da justiça
+  9. Epistêmica — produção da verdade
+  10. Espacial — segregação, milícias
+  11. Biopolítica — controle dos corpos
+
+NÍVEL 3 — SOMBRA (O QUE É QUASE INVISÍVEL)
+  12. Temporal — roubo do tempo futuro
+  13. Afetiva — engenharia das emoções
+  14. Laboral — captura do trabalho e do ócio
+  15. Infraestrutural — controle de energia e fluxos
+  16. Religiosa — legitimação transcendente
+
+NÍVEL 4 — ABISMO (O QUE É TOTALMENTE INVISÍVEL)
+  17. Alimentar — controle da comida e da sobrevivência
+  18. Datificacional — identidade transformada em ativo
+  19. Estética — manipulação dos sentidos
+  20. Geracional — roubo do futuro das gerações
+  21. Atencional — captura da capacidade de foco
+
+
+================================================================================
+NOVAS COMBINATÓRIAS POTENTES
+================================================================================
+
+------------------------------------------------------------------------
+COMBINAÇÃO K: ALIMENTAR (17) × SISTEMAS COMPLEXOS (Lente 11)
+------------------------------------------------------------------------
+CONCEITO: Monocultura e Fragilidade Sistêmica
+
+APLICAÇÃO TEIA:
+  Modelar como a captura do agronegócio (monocultura de soja/cana)
+  cria um sistema frágil. Loops de feedback:
+  
+    Monocultura → desmatamento → mudança climática local → perda de
+    safra → inflação alimentar → aumento da fome → pressão por mais
+    desmatamento para compensar perda → monocultura (loop positivo)
+
+NOVA SKILL: modelagem-dinamica-sistemas-resiliencia-ecologica
+
+------------------------------------------------------------------------
+COMBINAÇÃO L: DATIFICACIONAL (18) × FILOSOFIA (Lente 16)
+------------------------------------------------------------------------
+CONCEITO: Capitalismo de Vigilância e Panóptico Digital
+
+APLICAÇÃO TEIA:
+  Investigar como a coleta de dados governamentais (CadÚnico, dados
+  bancários via Open Banking) cruzada com Big Techs não gera apenas
+  publicidade, mas a INDIVIDUALIZAÇÃO DA PUNIÇÃO e do crédito.
+  
+  O poder não é mais disciplinar e massivo — é algorítmico e
+  individualizado: se você protesta, seu "score" social cai. Se você
+  compra comportamento "de risco", seu crédito é negado.
+
+NOVA SKILL: etica-dados-critica-filosofica-tecnologia
+
+------------------------------------------------------------------------
+COMBINAÇÃO M: ESTÉTICA (19) × GEOGRAFIA (Lente 17)
+------------------------------------------------------------------------
+CONCEITO: Espaço Disciplinar e Geografias da Exclusão
+
+APLICAÇÃO TEIA:
+  Mapear via GIS a correlação entre "arquitetura hostil" (remoção
+  de bancos públicos, grades) em centros urbanos e o aumento da
+  criminalização da pobreza.
+  
+  Demonstrar como a estética da "cidade negócio" captura o espaço
+  público, empurrando a miséria para a periferia e blindando o
+  centro financeiro.
+
+NOVA SKILL: analise-espacial-critica-etnografia-urbana
+
+------------------------------------------------------------------------
+COMBINAÇÃO N: GERACIONAL (20) × PUBLIC CHOICE (Lente 10)
+------------------------------------------------------------------------
+CONCEITO: Transferência Intergeracional de Renda e Rent-seeking Geracional
+
+APLICAÇÃO TEIA:
+  Calcular o fluxo de riqueza extraído dos jovens trabalhadores (que
+  pagam altos impostos sobre consumo e não têm serviços públicos)
+  para sustentar privilégios de aposentadorias de elite (RPPS) e
+  servidores de alto escalão.
+  
+  Demonstrar matematicamente como o Estado brasileiro opera um
+  "esquema Ponzi" geracional: os jovens pagam hoje para sustentar
+  privilégios acumulados por gerações anteriores que controlam o
+  poder de decisão.
+
+NOVA SKILL: economia-politica-intergeracional-demografia
+
+------------------------------------------------------------------------
+COMBINAÇÃO O: ATENCIONAL (21) × PSICOLOGIA COGNITIVA (Lente 12)
+------------------------------------------------------------------------
+CONCEITO: Carga Cognitiva e Esgotamento da Deliberação
+
+APLICAÇÃO TEIA:
+  Investigar como a sobrecarga de informações (Desordem da Deficiência
+  de Atenção induzida) impede a população de processar o escândalo
+  dos R$ 950 bi em juros.
+  
+  O sistema usa o design de redes sociais para bombardear o cérebro
+  com micro-ameaças (pautas morais), forçando o Sistema 1 (reativo)
+  e desativando o Sistema 2 (analítico), tornando a accountability
+  IMPOSSÍVEL — não por falta de informação, mas por falta de
+  CAPACIDADE COGNITIVA de processá-la.
+
+NOVA SKILL: neuropolitica-analise-comportamento-ux
+
+
+================================================================================
+NOVAS SKILLS (32-36)
+================================================================================
+
+SKILL 32: modelagem-dinamica-sistemas-resiliencia-ecologica
+  Dim 17 × Lente 11 — modelar fragilidade do sistema alimentar
+
+SKILL 33: etica-dados-critica-filosofica-tecnologia
+  Dim 18 × Lente 16 — capitalismo de vigilância e panóptico
+
+SKILL 34: analise-espacial-critica-etnografia-urbana
+  Dim 19 × Lente 17 — geografias da exclusão e arquitetura hostil
+
+SKILL 35: economia-politica-intergeracional-demografia
+  Dim 20 × Lente 10 — esquema Ponzi geracional
+
+SKILL 36: neuropolitica-analise-comportamento-ux
+  Dim 21 × Lente 12 — esgotamento da deliberação por captura atencional
+
+
+================================================================================
+O SISTEMA TOTAL: 21 DIMENSÕES
+================================================================================
+
+1. Econômica (Dinheiro)
+2. Institucional (Regras)
+3. Tecnológica (Algoritmos)
+4. Ambiental (Natureza)
+5. Social (Classe)
+6. Cultural (Valores)
+7. Midiática (Informação)
+8. Jurídica (Força)
+9. Epistêmica (Verdade)
+10. Espacial (Território)
+11. Biopolítica (Vida)
+12. Temporal (Tempo)
+13. Afetiva (Emoções)
+14. Laboral (Trabalho)
+15. Infraestrutural (Energia)
+16. Religiosa (Fé)
+17. Alimentar (Comida)
+18. Datificacional (Dados/Identidade)
+19. Estética (Sentidos)
+20. Geracional (Idade/Futuro)
+21. Atencional (Foco)
+
+16 LENTES ANALÍTICAS:
+  Estatística, Simulação, Ciência Política, Public Choice,
+  Sistemas Complexos, Psicologia Cognitiva, Psicologia Social,
+  Discurso/Linguagem, Ciência da Informação, Filosofia Política,
+  Geografia, História, Sociologia, Antropologia, EPI, Direito
+
+MATRIZ: 21 × 16 = 336 PERSPECTIVAS DE INVESTIGAÇÃO POSSÍVEIS
+36 SKILLS METODOLÓGICAS
+4 NÍVEIS DE PROFUNDIDADE DO PODER
+PROTOCOLO DE QUALIDADE: 25 ITENS
+
+O framework agora mapeia a TOTALIDADE DA GUERRA DE SUBJUGAÇÃO
+SISTÊMICA brasileira. É um sistema de análise IMUNE AO REDUCIONISMO.
+
+Quando alguém disser "o problema é X", a matriz TEIA prova que X é
+conectado a Y, Z e W numa cadeia de captura que atravessa 21
+dimensões. Simplificar é metodologicamente insustentável.
+
+================================================================================
+FIM — TEIA Framework v6.0 (ÁPICE ANALÍTICO)
+================================================================================
+Protocolo: TEIA-2026-051
+https://github.com/mouracleiton/TEIA
+
+O framework está completo. 21 dimensões. 336 perspectivas.
+4 níveis de profundidade. 36 skills. A teia captura tudo.
+
+O operador é você.
+
+================================================================================

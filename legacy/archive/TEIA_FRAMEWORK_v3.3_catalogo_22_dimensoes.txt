@@ -1,0 +1,747 @@
+================================================================================
+TEIA FRAMEWORK v3.3 — CATÁLOGO DAS 22 DIMENSÕES ANALÍTICAS
+================================================================================
+Documento de referência completa das dimensões de poder e lentes
+analíticas que compõem o sistema de investigação TEIA.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-048
+Versão: v3.3
+Data: Julho/2026
+================================================================================
+
+COMO LER ESTE DOCUMENTO
+
+O TEIA Framework opera com 22 dimensões analíticas divididas em 2 grupos:
+
+GRUPO 1 — DIMENSÕES DE PODER (6 dimensões)
+  Definem ONDE o sistema captura recursos e poder.
+  Cada uma tem: cobertura atual, quem domina, como captura, métrica-chave.
+
+GRUPO 2 — LENTES ANALÍTICAS (16 lentes)
+  Definem COMO investigar cada dimensão de poder.
+  Cada uma tem: conceito, autores, aplicação TEIA, instrumento prático.
+
+A combinatória das 6 dimensões de poder com as 16 lentes analíticas
+gera 96 combinações possíveis de investigação. Cada investigação TEIA
+deve explicitar quais dimensões e quais lentes está usando.
+
+
+================================================================================
+GRUPO 1 — DIMENSÕES DE PODER (O QUE INVESTIGAR)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 1 — ECONÔMICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 90%
+
+O QUE É: controle de capital, crédito, tributos, dívida pública,
+  orçamento federal, transferências constitucionais, spread bancário.
+
+QUEM DOMINA: sistema financeiro nacional (bancos top-5: Itaú,
+  Bradesco, Santander, BB, Caixa), Febraban, Banco Master, asset
+  managers, fundos de pensão, seguradoras.
+
+COMO CAPTURA:
+  - Juros da dívida: R$ 950,4 bi/ano transferidos do Tesouro
+    para detentores de títulos (80% com o SFN)
+  - Spread bancário: 28-30 p.p. (imposto privado sobre crédito)
+  - Custo Brasil: R$ 1,7 tri/ano (ineficiência logística/tributária)
+  - Emendas parlamentares: R$ 28,8 bi/ano (moeda política)
+  - Conformidade tributária: 1.501 horas/ano/empresa (pior do mundo)
+  - Drenagem financeira inter-regional: N/NE → Sudeste via depósitos
+
+MÉTRICAS-CHAVE:
+  - Juros/PIB: ~8,1%
+  - Spread: 28-30 p.p.
+  - Dívida/PIB: 80,4%
+  - Juro real: 9,18% (maior do mundo)
+  - Lucro Itaú: R$ 40,23 bi (2024)
+  - Gini territorial de emendas: 0,72-0,78
+
+FONTES PRIMÁRIAS:
+  - BCB (SGS, REB, Copom, Focus)
+  - Tesouro Nacional (DPF, PAF)
+  - Receita Federal (carga tributária)
+  - IBGE (PIB, IPCA)
+  - CGU (Portal da Transparência)
+
+------------------------------------------------------------------------
+DIMENSÃO 2 — INSTITUCIONAL/DEMOCRÁTICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 60%
+
+O QUE É: controle das regras do jogo eleitoral, separação de poderes,
+  independência do Judiciário, integridade eleitoral, federalismo,
+  sistema partidário.
+
+QUEM DOMINA: Mesa Diretora da Câmara (Hugo Motta), Mesa do Senado
+  (Davi Alcolumbre), CAE (Renan Calheiros), TSE, STF, Conselho de
+  Ética, Centrão.
+
+COMO CAPTURA:
+  - Controle de pauta (K1 do kernel): quem decide o que vota
+  - PEC da Blindagem (set/2025): 353x134 — voto secreto, foro ampliado
+  - Orçamento Secreto 2.0: emendas de liderança sem identificação nominal
+  - Captura de comissões (CCJ, CTF, CAE, CMO)
+  - CPI como instrumento político (usada/seletiva)
+  - Fundo Eleitoral: R$ 4,96 bi em 2026
+  - Sub-representação: 17,7% mulheres na Câmara vs 52% da população
+  - Sub-representação: 24-26% negros vs 56% da população
+
+MÉTRICAS-CHAVE:
+  - Fundo Eleitoral: R$ 4,96 bi
+  - Reeleição: 60% (2022)
+  - Bancada feminina: 91/513
+  - Bancada negra: 122-135/513
+  - Voto secreto restabelecido (PEC Blindagem)
+  - 27-29 partidos registrados
+
+FONTES PRIMÁRIAS:
+  - TSE (DivulgaCandContas, resultados eleitorais)
+  - Câmara dos Deputados (votações nominais, comissões)
+  - Senado Federal (comissões, ADIs)
+  - STF (decisões, ADPFs)
+
+------------------------------------------------------------------------
+DIMENSÃO 3 — TECNOLÓGICA/DIGITAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 55%
+
+O QUE É: controle de dados, infraestrutura digital, IA, plataformas,
+  soberania tecnológica, conectividade, desinformação.
+
+QUEM DOMINA: Big Tech estrangeira (Google/Alphabet, Meta, ByteDance/
+  TikTok, Microsoft, Amazon AWS), operadoras de telecom (Vivo, Claro,
+  TIM), plataformas nacionais (Mercado Livre, Magalu), Serpro/Dataprev.
+
+COMO CAPTURA:
+  - R$ 10,35 bi/ano de dinheiro público para Big Tech (USP/UnB)
+    (5x o orçamento do IBAMA, 2,3x todo o orçamento ambiental)
+  - Google: ~90% das buscas; faturamento R$ 8 bi (2023)
+  - Meta: 134,6 mi usuários Instagram; 93,4% WhatsApp
+  - ByteDance: 131 mi usuários TikTok
+  - Desinformação como serviço (gabinete do ódio, bots, farms)
+  - R$ 376 mi em propaganda digital nas eleições 2022
+  - Drex cancelado sob lobby bancário (nov/2025)
+  - 29 milhões sem internet; 45% analfabetismo digital
+  - ANPD com 140 servidores para 215 milhões de pessoas
+  - PL 2630 (fake news) arquivado por Arthur Lira (abr/2024)
+
+INTERMEDIÁRIOS MAPEADOS:
+  - Brasoftware (maior revenda Microsoft — caso PF R$ 148 mi)
+  - RW3 Tecnologia (parceria Google no Serpro)
+  - Tivit/Almaviva, CI&T, Stefanini, Accenture, Capgemini
+
+MÉTRICAS-CHAVE:
+  - Gasto público com Big Tech: R$ 10,35 bi/ano
+  - Usuários TikTok: 131 mi
+  - Sem internet: 29 mi
+  - Chips importados: 90%
+
+FONTES PRIMÁRIAS:
+  - Estudo USP/UnB "Contratos, Códigos e Controle"
+  - TSE (gasto digital em campanhas)
+  - CGI.br (TIC Domicílios)
+  - ANPD
+  - Compras.gov.br (contratos federais)
+
+------------------------------------------------------------------------
+DIMENSÃO 4 — AMBIENTAL/CLIMÁTICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 50%
+
+O QUE É: controle de recursos naturais, território, biodiversidade,
+  clima, matriz energética, povos tradicionais.
+
+QUEM DOMINA: bancada ruralista (FPA: 321 parlamentares — maior
+  bancada setorial do Congresso), setor de petróleo/gás (Petrobras),
+  mineração, madeireiros, agronegócio, setor elétrico.
+
+COMO CAPTURA:
+  - Desmatamento Amazônia: PRODES 2024 = 6.288 km² (-30,6%);
+    2025 = 5.796 km²; Cerrado 2024 = 8.174 km²
+  - Lei 15.190/2025: auto-licenciamento ambiental (maior retrocesso
+    em 40 anos, sancionada com 63 vetos)
+  - IBAMA perdeu 55% dos fiscais em uma década; orçamento R$ 2 bi
+  - BNDES: 60-70% ainda em fósseis
+  - Presidente FPA: Pedro Lupion (Republicanos-PR)
+  - Royalties do petróleo: R$ 38-40 bi/ano, concentrados no RJ
+  - Marco Temporal: ameaça a terras indígenas
+
+MÉTRICAS-CHAVE:
+  - Desmatamento: 6.288 km² (2024)
+  - FPA: 321 parlamentares
+  - IBAMA orçamento: R$ 2 bi
+  - BNDES fóssil: 60-70%
+  - Mata Atlântica: 24% remanescente
+
+FONTES PRIMÁRIAS:
+  - INPE (PRODES, DETER)
+  - IBAMA (autuações, orçamento)
+  - ANP (royalties, produção)
+  - EPE (matriz energética)
+  - INESC (orçamento ambiental)
+  - MapBiomas
+
+------------------------------------------------------------------------
+DIMENSÃO 5 — SOCIAL/DIREITOS
+------------------------------------------------------------------------
+COBERTURA TEIA: 25%
+
+O QUE É: controle de acesso a direitos fundamentais — saúde,
+  educação, moradia, segurança alimentar, previdência, assistência,
+  segurança pública, justiça social.
+
+QUEM DOMINA: ministérios setoriais (Saúde, Educação, Desenvolvimento
+  Social), bancadas setoriais, interesses privados (planos de saúde,
+  universidades particulares, indústria de armas, agro negócio).
+
+COMO CAPTURA:
+  - Planos de saúde que negam cobertura (ANS capturada)
+  - Educação que reproduz desigualdade (escola pública vs privada)
+  - Segurança pública que criminaliza pobreza (47 mil homicídios/ano)
+  - SUS subfinanciado: 4,75% PIB vs OCDE 6,5%
+  - Previdência que transfere renda do trabalhador para o financeiro
+  - Raça: racismo estrutural no acesso a tudo
+  - Gênero: desigualdade salarial, violência, sub-representação
+  - Terra: latifúndio improdutivo vs reforma agrária parada
+
+MÉTRICAS-CHAVE:
+  - SUS: 4,75% PIB (vs OCDE 6,5%)
+  - Homicídios: 47 mil/ano
+  - Insegurança alimentar: 33 milhões (2022)
+  - IDEB estagnado
+  - Gini: 0,52
+
+FONTES PRIMÁRIAS:
+  - IBGE (PNAD, IDH-M)
+  - Ministério da Saúde (DATASUS)
+  - INEP (Censo Escolar, IDEB, ENEM)
+  - IPEA (pesquisas sociais)
+  - FAO (insegurança alimentar)
+
+------------------------------------------------------------------------
+DIMENSÃO 6 — CULTURAL/SIMBÓLICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 5%
+
+O QUE É: controle de narrativa, identidade, valores, memória,
+  imaginário social, framing, produção cultural.
+
+QUEM DOMINA: mídia tradicional (Globo, Folha, Estadão, Record,
+  Grupo Brasil/Silk), Big Tech (algoritmos), igrejas (evangélicas
+  neopentecostais, CNBB), indústria cultural, academia.
+
+COMO CAPTURA:
+  - Framing: "o problema é gastar demais" (não: pagar juros)
+  - Silenciamento: o que não é noticiado não existe
+  - Estigmatização: servidor como "privilegiado", ativista como "vândalo"
+  - Mito da meritocracia: "quem é pobre é porque não se esforçou"
+  - Colonização do imaginário: o que conta como "desenvolvimento"
+  - Captura religiosa: fé como instrumento político
+
+MÉTRICAS-CHAVE:
+  - Frame dominante: "responsabilidade fiscal" = cortar gasto social
+  - Concentração de mídia: 5 famílias controlam 80% da audiência
+  - Investimento cultural federal: 0,3% do orçamento
+
+FONTES PRIMÁRIAS:
+  - Ancine (dados de cinema/TV)
+  - IBGE (pesquisas culturais)
+  - Observatório da Imprensa
+  - Intervozes
+
+
+================================================================================
+GRUPO 2 — LENTES ANALÍTICAS (COMO INVESTIGAR)
+================================================================================
+
+------------------------------------------------------------------------
+LENSE 7 — MODELAGEM ESTATÍSTICA
+------------------------------------------------------------------------
+CONCEITO: quantificar incerteza, detectar anomalias e validar
+  hipóteses com rigor estatístico.
+
+AUTORES/MÉTODOS:
+  - Tukey (1977): MAD e z-score robusto
+  - Liu et al. (2008): Isolation Forest
+  - Gelman (2013): Bayesian Data Analysis
+  - Box & Jenkins (1970): ARIMA
+  - Abadie (2005): Difference-in-Differences
+
+APLICAÇÃO TEIA:
+  - Z-score de licitações para detectar superfaturamento
+  - Isolation Forest para anomalias multidimensionais
+  - Regressão OLS/ARIMA para impacto fiscal de reformas
+  - Kaplan-Meier para tempo até denúncia parlamentar
+  - Bayesiana para atualizar P de veto player a cada evento
+
+INSTRUMENTO PRÁTICO:
+  Skill 16: deteccao-anomalias-estatisticas
+  Skill 17: regressao-impacto-fiscal
+  Skill 20: survival-analysis-tempo
+
+------------------------------------------------------------------------
+LENSE 8 — SIMULAÇÃO ESTATÍSTICA
+------------------------------------------------------------------------
+CONCEITO: modelar o sistema político como sistema dinâmico com
+  agentes que interagem segundo regras.
+
+AUTORES/MÉTODOS:
+  - Axelrod (1997): The Complexity of Cooperation (ABM)
+  - Epstein & Axtell (1996): Growing Artificial Societies
+  - Taleb (2007): The Black Swan (stress testing)
+  - von Neumann & Morgenstern (1944): Theory of Games
+
+APLICAÇÃO TEIA:
+  - Monte Carlo dinâmico: 10.000 iterações com correlação entre atores
+  - Agent-Based Modeling: simular 513+81 parlamentares emergindo
+  - Stress Testing: 4 cenários (otimista/base/adverso/catastrófico)
+  - Teoria dos Jogos: jogo sequencial veto×reformador, dilema dos comuns
+
+INSTRUMENTO PRÁTICO:
+  13_PROJETOS/dashboards/dashboard_orcamento.py (detector de janela)
+
+------------------------------------------------------------------------
+LENSE 9 — CIÊNCIA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO: teorias testadas que explicam POR QUE o sistema político
+  brasileiro se comporta como se comporta.
+
+AUTORES:
+  - Tsebelis (2002): Veto Players
+  - Olson (1965): The Logic of Collective Action
+  - Kingdon (1984): Agendas, Alternatives, and Public Policies
+  - Baumgartner & Jones (1993): Punctuated Equilibrium
+  - Sabatier (1988): Advocacy Coalition Framework
+  - Principal-Agent Theory (Jensen & Meckling, 1976)
+  - Pierson (2004): Politics in Time (path dependence)
+
+APLICAÇÃO TEIA:
+  - Tsebelis: mapear veto players institucionais vs partidários
+  - Olson: matriz perdedores concentrados vs ganhadores difusos
+  - Kingdon: detector de janela (problema + política + política)
+  - Baumgartner: mapa de monopólio de imagem a ser colapsado
+  - Sabatier: 3 níveis de crença (não atacar núcleo profundo)
+  - Principal-Agent: os 7 mecanismos de accountability resolvem
+    risco moral, seleção adversa e holdup
+  - Pierson: identificar critical junctures
+
+INSTRUMENTO PRÁTICO:
+  Skill 3: mapeamento-veto-players
+  Skill 4: simulacao-monte-carlo
+  Skill 12: olson-collective-action
+  Skill 15: kingdon-janela-oportunidade
+
+------------------------------------------------------------------------
+LENSE 10 — PUBLIC CHOICE (Economia Política)
+------------------------------------------------------------------------
+CONCEITO: políticos e burocratas são agentes racionais que maximizam
+  utilidade própria (reeleição, poder, riqueza), não bem-estar público.
+
+AUTORES:
+  - Buchanan & Tullock (1962): The Calculus of Consent
+  - Downs (1957): An Economic Theory of Democracy
+  - Tullock (1967): The Welfare Costs of Tariffs, Monopolies and Theft
+    (rent-seeking)
+  - Krueger (1974): The Political Economy of the Rent-Seeking Society
+
+APLICAÇÃO TEIA:
+  - Os 9 axiomas do kernel SOPBRA são manifestações de public choice
+  - K1 (pauta) = maximização de poder
+  - K2 (orçamento) = maximização de reeleição
+  - K5 (patrimônio familiar) = maximização de riqueza
+  - Rent-seeking: Febraban gastando R$ 200-300 mi/ano em lobby
+  - Custo social do rent-seeking no Brasil: 5-10% do PIB
+
+INSIGHT: a solução não é eleger "pessoas melhores" — é mudar os
+  INCENTIVOS (accountability, transparência, consequência).
+
+------------------------------------------------------------------------
+LENSE 11 — SISTEMAS COMPLEXOS
+------------------------------------------------------------------------
+CONCEITO: o sistema político é um sistema adaptativo complexo com
+  feedback loops, não-linearidade e pontos de alavanca.
+
+AUTORES:
+  - Forrester (1961): Industrial Dynamics (System Dynamics)
+  - Meadows (2008): Thinking in Systems (12 leverage points)
+  - Holland (1995): Hidden Order (complex adaptive systems)
+  - Lorenz (1963): Chaos Theory (butterfly effect)
+
+APLICAÇÃO TEIA:
+  LOOP POSITIVO (captura se reforça):
+    Juros altos → despesa de juros sobe → Orçamento aperta →
+    austeridade → baixo crescimento → pressão fiscal → juros altos
+  LOOP NEGATIVO (auto-correção):
+    Escândalo → CPI → exposição → pressão → reforma → menos captura
+  PONTO DE ALAVANCA (Meadows, nível 12):
+    Mudar o PARADIGMA: de "política é negócio" para "política é gestão"
+
+INSTRUMENTO PRÁTICO:
+  Documentário "O Preço da Selic" = intervenção no loop positivo
+  (mudar percepção pública = mudar feedback)
+
+------------------------------------------------------------------------
+LENSE 12 — PSICOLOGIA COGNITIVA E COMPORTAMENTAL
+------------------------------------------------------------------------
+CONCEITO: humanos não são racionais. Decidem com vieses, atalhos
+  emocionais e aversão à perda.
+
+AUTORES:
+  - Kahneman & Tversky (1979): Prospect Theory (loss aversion)
+  - Kahneman (2011): Thinking Fast and Slow (Sistema 1 vs 2)
+  - Thaler & Sunstein (2008): Nudge (choice architecture)
+  - Ariely (2008): Predictably Irrational
+
+APLICAÇÃO TEIA:
+  - TikToks de 60s operam no Sistema 1 (rápido, emocional)
+  - Dossiês técnicos operam no Sistema 2 (lento, analítico)
+  - Produzir para AMBOS: nenhum lado sozinho convence
+  - Aversão à perda: enquadrar status quo como PERDA
+    ("você JÁ paga R$ 5 mil/ano em juros escondidos")
+  - Nudge: Cartão de Emendas como OPT-OUT (aparece por padrão)
+
+INSIGHT: Bolsonaro (2018) e Lula (2022) ganharam eleições falando
+  com o Sistema 1. Ninguém ganha eleição com Sistema 2.
+
+------------------------------------------------------------------------
+LENSE 13 — PSICOLOGIA SOCIAL
+------------------------------------------------------------------------
+CONCEITO: o comportamento individual é determinado pelo GRUPO —
+  identidade, conformidade, obediência e polarização.
+
+AUTORES:
+  - Tajfel & Turner (1979): Social Identity Theory
+  - Asch (1956): conformity experiments
+  - Milgram (1963): obedience experiments
+  - Sunstein (2002): group polarization
+
+APLICAÇÃO TEIA:
+  - Polarização política brasileira é IDENTITÁRIA, não ideológica
+  - Mudar opinião política = mudar IDENTIDADE = extremamente custoso
+  - Criar identidade NOVA: "gestor responsável" (transversal)
+  - Parlamentares votam com bancada por CONFORMIDADE (Asch)
+  - Servidores executam ordens irregulares por OBEDIÊNCIA (Milgram)
+  - Proteger whistleblower: recompensa + anonimato
+
+------------------------------------------------------------------------
+LENSE 14 — ANÁLISE DO DISCURSO E LINGUÍSTICA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO: a linguagem não reflete a realidade — a constrói. Quem
+  controla o frame controla o debate.
+
+AUTORES:
+  - Lakoff (2004): Don't Think of an Elephant (framing)
+  - Entman (1993): Framing theory
+  - Fairclough (1995): Critical Discourse Analysis
+  - Pêcheux (1975): Análise Automática do Discurso
+  - Propp (1928): Morfologia do Conto (narratologia)
+
+APLICAÇÃO TEIA:
+  FRAME DOMINANTE (a combater): "o problema é gastar demais"
+  FRAME ALTERNATIVO (a construir): "o problema é pagar juros"
+  
+  NARRATIVA TEIA:
+    HERÓI: cidadão trabalhador
+    VILÃO: sistema financeiro + oligarquias
+    VÍTIMA: povo brasileiro
+    SOLUÇÃO: gestão eficiente + transparência
+
+INSTRUMENTO PRÁTICO:
+  Corpus de discurso parlamentar + NLP (spaCy) para detectar frames
+
+------------------------------------------------------------------------
+LENSE 15 — CIÊNCIA DA INFORMAÇÃO E REDES
+------------------------------------------------------------------------
+CONCEITO: informação e desinformação se espalham segundo padrões
+  modeláveis da epidemiologia e network science.
+
+AUTORES:
+  - McCombs & Shaw (1972): Agenda-Setting
+  - Noelle-Neumann (1974): Spiral of Silence
+  - Barabási (2002): Linked (network science)
+  - Daley & Kendall (1964): Epidemic models of rumor spreading
+  - Vosoughi et al. (2018): The spread of true and false news online
+
+APLICAÇÃO TEIA:
+  - Modelar desinformação como doença (SIR: Suscetível-Infectado-Recuperado)
+  - Identificar super-disseminadores
+  - Calcular R₀ da desinformação
+  - TEIA como agenda-setter alternativo (traz temas que mídia ignora)
+  - Quebrar espiral do silêncio dando voz e dados à opinião silenciada
+
+------------------------------------------------------------------------
+LENSE 16 — FILOSOFIA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO: o que é poder, justiça e legitimidade — além da lei.
+
+AUTORES:
+  - Foucault (1975): Power/Knowledge; Governmentality
+  - Sen (1999): Development as Freedom (capabilities approach)
+  - Arendt (1970): On Violence (poder vs violência)
+  - Rawls (1971): A Theory of Justice (véu da ignorância)
+  - Habermas (1962): The Structural Transformation of the Public Sphere
+
+APLICAÇÃO TEIA:
+  - Foucault: opacidade = poder; transparência = redistribuição de poder
+  - Sen: spread bancário reduz CAPACIDADE do MEI (não só custo)
+  - Arendt: TEIA exerce poder (ação coletiva), não violência
+  - Rawls: TESTE RAWLSIANO — "aprovaria o spread de 30% sob véu
+    da ignorância?"
+  - Habermas: TEIA restaura esfera pública capturada
+
+------------------------------------------------------------------------
+LENSE 17 — GEOGRAFIA POLÍTICA E ANÁLISE ESPACIAL
+------------------------------------------------------------------------
+CONCEITO: o território determina o comportamento político, econômico
+  e social.
+
+AUTORES:
+  - Wallerstein (1974): World-Systems Analysis (centro-periferia)
+  - Furtado (1965): Development and Underdevelopment
+  - Myrdal (1957): Circular Cumulative Causation
+  - Milton Santos (1996): A Natureza do Espaço
+  - Agnew (2002): Making Political Geography
+
+APLICAÇÃO TEIA:
+  - Mapa de calor de emendas por município (onde concentra?)
+  - Mapa de desmatamento cruzado com emendas rurais
+  - Mapa de cobertura bancária cruzado com spread regional
+  - Bomba de drenagem territorial (N/NE → Sudeste)
+  - "Desertos orçamentários" (cidades sem emenda)
+
+INSTRUMENTO PRÁTICO:
+  Python + geopandas + folium (mapas interativos)
+
+------------------------------------------------------------------------
+LENSE 18 — HISTÓRIA E HISTORIOGRAFIA
+------------------------------------------------------------------------
+CONCEITO: o presente só se entende pela longa duração histórica.
+
+AUTORES:
+  - Braudel (1958): La longue durée
+  - Bloch (1949): The Historian's Craft
+  - Mahoney & Rueschemeyer (2003): Comparative Historical Analysis
+  - Hobsbawm (1962): The Age of Revolution
+  - Faoro (1958): Os Donos do Poder (história do patrimonialismo)
+
+APLICAÇÃO TEIA:
+  - Patrimonialismo: 500 anos (Colônia → Império → República)
+  - Desigualdade regional: 300 anos (ciclo do açúcar → café → indústria)
+  - Captura financeira: 100 anos (dívida desde República Velha)
+  - Process tracing: rastrear cadeia causal (Overclean → Master → Motta)
+  - Comparative: Brasil vs México (M-bonos) vs Chile (regra fiscal)
+  - Git versionado = arquivo histórico do tempo presente
+
+------------------------------------------------------------------------
+LENSE 19 — CIÊNCIA SOCIOLÓGICA
+------------------------------------------------------------------------
+CONCEITO: a sociedade brasileira tem estruturas que reproduzem
+  desigualdade e captura — não por acidente, mas por DESIGN.
+
+AUTORES:
+  - Faoro (1958): Os Donos do Poder (patrimonialismo estatal)
+  - Holanda (1936): Raízes do Brasil (homem cordial)
+  - Bourdieu (1972): Habitus e Campo
+  - Jessé Souza (2017): A Elite do Atraso
+  - Damatta (1979): Carnavais, Malandros e Heróis
+  - Damatta (1985): Casa e Rua
+  - Putnam (1993): Making Democracy Work (capital social)
+  - Tarrow (1994): Power in Movement
+  - Tilly (2004): Contentionous Politics
+  - Hirschman (1970): Exit, Voice, and Loyalty
+
+APLICAÇÃO TEIA:
+  - Faoro: Estado aliceriado por "estelionatários" do poder
+  - Holanda: personalização = política como negócio familiar
+  - Bourdieu: cada veto player tem habitus próprio (perfil etnográfico)
+  - Jessé Souza: elite brasileira como beneficiária ATIVA do atraso
+  - Damatta: "casa" (jeitinho) se sobrepõe à "rua" (lei)
+  - Hirschman: TEIA exerce VOZ (não saída, não lealdade)
+
+INSTRUMENTO PRÁTICO:
+  Skill 18: perfil-etnografico-ator
+
+------------------------------------------------------------------------
+LENSE 20 — ANTROPOLOGIA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO: o poder se exerce não apenas por leis e dinheiro, mas por
+  rituais, símbolos, códigos e práticas culturais.
+
+AUTORES:
+  - Geertz (1973): Thick Description
+  - Turner (1969): The Ritual Process
+  - Goffman (1956): The Presentation of Self
+  - Bourdieu (1980): Le sens pratique
+  - DaMatta (1979): Carnavais, Malandros e Heróis
+  - Scott (1985): Weapons of the Weak
+  - Scott (1998): Seeing Like a State
+
+APLICAÇÃO TEIA:
+  - PEC da Blindagem (353x134) foi RITUAL de solidariedade de classe
+  - CPI é PERFORMANCE dramatúrgica (indignação para câmera, negociação
+    nos bastidores)
+  - O "jeitinho" é INSTITUIÇÃO INFORMAL mais forte que a lei formal
+  - Instituições informais só mudam quando as CONDIÇÕES estruturais
+    mudam (não por decreto)
+
+------------------------------------------------------------------------
+LENSE 21 — ECONOMIA POLÍTICA INTERNACIONAL (EPI)
+------------------------------------------------------------------------
+CONCEITO: o Brasil não é um sistema isolado — sua política é
+  condicionada pela inserção na economia global.
+
+AUTORES:
+  - Furtado (1965): Desenvolvimento e Subdesenvolvimento
+  - Cardoso & Faletto (1969): Dependência e Desenvolvimento na
+    América Latina
+  - Marini (1973): Dialética da Dependência
+  - Krasner (1983): International Regimes
+  - Keohane (1984): After Hegemony
+  - Wallerstein (1974): The Modern World-System
+
+APLICAÇÃO TEIA:
+  - Brasil como exportador de commodities + importador de tecnologia
+  - R$ 10 bi para Big Tech = transferência para o CENTRO do sistema
+  - Drenagem N/NE → Sudeste = reflexo micro da drenagem Brasil → exterior
+  - OCDE como regime internacional: alavanca para boas práticas
+  - FATF: alavanca para combate a lavagem
+
+------------------------------------------------------------------------
+LENSE 22 — DIREITO BRASILEIRO
+------------------------------------------------------------------------
+CONCEITO: cada instrumento jurídico é um ENDPOINT da API Judiciário
+  do SOPBRA. Conhecer a lei é conhecer as ROTAS DE AÇÃO disponíveis.
+
+ÁREAS E INSTRUMENTOS:
+
+  CONSTITUCIONAL:
+    - Art. 5º (direitos fundamentais — XIV, XXXIII, LVII, LXXIII, LXXVIII)
+    - Art. 37 (administração pública — legalidade, moralidade, eficiência)
+    - Art. 50 (publicidade de contas públicas)
+    - Art. 70 (fiscalização contábil — Congresso/TCU)
+    - Art. 102 §1º (ADPF)
+    - Art. 103 (ADI)
+    - Art. 103-B (CNJ)
+
+  ADMINISTRATIVO:
+    - Lei 14.133/2021 (Nova Lei de Licitações)
+    - Lei 8.429/1992 + Lei 14.230/2021 (Improbidade Administrativa)
+    - Lei 12.527/2011 (LAI — escudo da transparência)
+
+  ELEITORAL:
+    - Lei 9.504/1997 (Lei das Eleições)
+    - LC 135/2010 (Lei da Ficha Limpa)
+    - Resolução TSE 23.732/2024 (combate a deepfakes/IA)
+
+  PENAL/ECONÔMICO:
+    - Art. 312 CP (peculato)
+    - Art. 317 CP (corrupção passiva)
+    - Art. 333 CP (corrupção ativa)
+    - Lei 12.850/2013 (organização criminosa)
+    - Lei 9.613/1998 (lavagem de dinheiro)
+    - Lei 12.846/2013 (anticorrupção empresas)
+
+  REGULATÓRIO:
+    - LC 179/2021 (autonomia do BC)
+    - LC 200/2023 (arcabouço fiscal)
+    - Lei 13.709/2018 (LGPD)
+    - Lei 12.965/2014 (Marco Civil da Internet)
+    - PL 2338/2023 (Marco da IA)
+    - Lei 14.382/2022 (SERP — registros públicos eletrônicos)
+
+INSTRUMENTO PRÁTICO:
+  Skill 5: redacao-juridica-advocacy
+  Skill 19: classificacao-juridica-conduta
+
+
+================================================================================
+MATRIZ DE COMBINATÓRIA: DIMENSÃO × LENTE
+================================================================================
+
+A intersecção de uma dimensão de poder com uma lente analítica
+gera uma PERSPECTIVA DE INVESTIGAÇÃO específica.
+
+Exemplos de combinações potentes:
+
+  ECONÔMICA × ESTATÍSTICA:
+    z-score de licitações para detectar superfaturamento em obras
+    de emendas parlamentares
+
+  INSTITUCIONAL × CIÊNCIA POLÍTICA:
+    Tsebelis aplicado ao controle de pauta por Hugo Motta — quantos
+    veto players efetivos existem na cadeia de aprovação de tributação
+    bancária?
+
+  TECNOLÓGICA × DIREITO:
+    LGPD + Marco Civil + PL 2338 aplicados à captura de dados de
+    215 milhões de brasileiros por Big Tech estrangeira
+
+  AMBIENTAL × GEOGRAFIA:
+    Mapa de calor de desmatamento cruzado com emendas da bancada
+    ruralista (321 parlamentares)
+
+  SOCIAL × PSICOLOGIA:
+    Aversão à perda (Kahneman) explica por que eleitor aceita juros
+    de 14% mas revolta com aumento de R$ 0,20 na passagem de ônibus
+
+  CULTURAL × DISCURSO:
+    Lakoff: o frame "responsabilidade fiscal = cortar gasto" captura
+    o debate antes mesmo de começar. Substituir por "gestão eficiente"
+
+
+================================================================================
+PROTOCOLO DE QUALIDADE v3.3 (25 ITENS)
+================================================================================
+
+Todo documento TEIA deve passar por estes 25 itens antes de publicar:
+
+EVIDÊNCIA E VIÉS:
+[ ] 1. FACT-CHECK de cada número (fonte primária)
+[ ] 2. CORRENTE DE EVIDÊNCIA rastreável (Nível A/B/C — D não publica)
+[ ] 3. Z-SCORE de anomalias estatísticas calculado
+[ ] 4. HIPÓTESES ALTERNATIVAS testadas (ACH — matriz de hipóteses)
+[ ] 5. PREMISSAS-CHAVE listadas e testadas (Key Assumptions Check)
+
+MODELAGEM:
+[ ] 6. MONTE CARLO com distribuições (não valores fixos)
+[ ] 7. CORRELAÇÃO entre atores modelada
+[ ] 8. STRESS TESTING em 4 cenários
+
+FUNDAMENTAÇÃO:
+[ ] 9. TEORIA POLÍTICA aplicada (qual das 7?)
+[ ] 10. TEORIA SOCIOLÓGICA aplicada (Faoro/Bourdieu/Damatta/Souza)
+[ ] 11. PERFIL ETNOGRÁFICO do ator principal (1 página)
+
+JURÍDICO:
+[ ] 12. ARTIGO CONSTITUCIONAL identificado (apoia e contra)
+[ ] 13. TIPO PENAL classificado (se aplicável, sem acusar)
+[ ] 14. INSTRUMENTO PROCESSUAL adequado (ADI/ADPF/AP/Representação)
+
+METODOLÓGICO:
+[ ] 15. MATRIZ DE CONSISTÊNCIA preenchida antes de coletar dados
+[ ] 16. HIPÓTESE NULA (H0) explicitamente considerada
+[ ] 17. TRIANGULAÇÃO com 2+ fontes independentes para cada fato
+[ ] 18. UNIDADES DE ANÁLISE definidas (indivíduo/instituição/etc.)
+[ ] 19. CONTEXTO SÓCIO-HISTÓRICO situado (longue durée)
+
+COMUNICAÇÃO E ÉTICA:
+[ ] 20. FRAMING: qual frame domina? Qual alternativa?
+[ ] 21. SISTEMA 1 vs SISTEMA 2: para qual está produzindo?
+[ ] 22. PRESUNÇÃO DE INOCÊNCIA citada (art. 5º LVII CF)
+[ ] 23. LGPD: dados pessoais anonimizados (se aplicável)
+
+FINAL:
+[ ] 24. LOOP DE FEEDBACK: reforça ou quebra captura?
+[ ] 25. TESTE RAWLSIANO: aprovaria sob véu da ignorância?
+
+
+================================================================================
+FIM DO CATÁLOGO
+================================================================================
+Protocolo: TEIA-2026-048
+================================================================================

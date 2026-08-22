@@ -1,0 +1,563 @@
+================================================================================
+TEIA FRAMEWORK v5.0 — A TEIA COMPLETA (16×16 = 256 PERSPECTIVAS)
+================================================================================
+Integração das 5 últimas dimensões de captura, completando o mapeamento
+da arquitetura profunda da dominação no Brasil.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-050
+Versão: v5.0 (RELEASE DEFINITIVA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v4.0 → v5.0)
+
+A v4.0 identificou as zonas de sombra do poder com 11 dimensões.
+A v5.0 completa a TEIA com as 5 últimas dimensões que faltavam:
+as zonas onde o poder atua de forma QUASE INVISÍVEL, controlando
+o tempo, as emoções, o trabalho, a energia e a fé.
+
+Com 16 dimensões de captura × 16 lentes analíticas, o framework
+gera 256 perspectivas de investigação possíveis. Nenhuma zona de
+sombra do poder escapa.
+
+Esta é a RELEASE DEFINITIVA do TEIA Framework. O mapeamento da
+arquitetura profunda da dominação está completo.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (CONTROLE INVISÍVEL)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 12 — TEMPORAL / CRONOPOLÍTICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 30%
+
+O QUE É: o controle do tempo futuro e a manipulação da memória.
+  O poder não é apenas sobre o espaço — é sobre o RITMO e a
+  DIREÇÃO da história.
+
+QUEM DOMINA: sistema financeiro (dona do tempo futuro via dívida),
+  Congresso (que aprova leis com prazos prescricionais que protegem
+  crimes de elite), executivo (que cria prazos de transição que
+  beneficiam incumbents), Judiciário (que usa delonga processual
+  como estratégia).
+
+COMO CAPTURA:
+  - Dívida pública como roubo do tempo futuro: R$ 950 bi/ano
+    destinados a pagar o passado, não a investir no futuro
+  - Prazos prescricionais: crimes de colarinho branco prescrevem
+    enquanto a justiça se arrasta (5-10 anos até trânsito em julgado)
+  - Tirania da Urgência: pautas bombardeadas de madrugada (arts. 204
+    e 205 do regimento da Câmara) para evitar escrutínio público
+  - Concessões eternas: prazos de 30-90 anos em contratos de
+    infraestrutura (pedágios, energia, saneamento) que eternizam
+    monopólios privados sobre bens públicos
+  - Sobrevivência imediata: trabalhador em modo de sobrevivência
+    (dia a dia, contracheque a contracheque) não tem tempo de
+    organizar-se estrategicamente
+
+MÉTRICAS-CHAVE:
+  - Despesa de juros como % da receita: ~25% (tempo futuro comprometido)
+  - Prazo médio concessões de infraestrutura: 30 anos (pedágios SP)
+  - Tempo médio processo judicial: 5-10 anos
+  - Prescrição crimes elite: frequentemente atingida antes de condenação
+  - Turnover trabalhador: alta rotatividade impede acumulação de
+    direitos trabalhistas (tempo de casa)
+
+PROTOCOLO TEIA:
+  Para cada proposta/análise, perguntar:
+  (a) Quem controla o TEMPO neste arranjo?
+  (b) Há prazo prescricional protegendo alguém?
+  (c) A dívida compromete gerações futuras?
+  (d) A população tem tempo para organizar-se ou está em sobrevivência?
+
+------------------------------------------------------------------------
+DIMENSÃO 13 — AFETIVA / EMOCIONAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 35%
+
+O QUE É: a engenharia das emoções de massas (medo, ódio,
+  ressentimento e exaustão emocional).
+
+DIFERENÇA DA DIMENSÃO PSICOLÓGICA (Lente 12):
+  A Lente 12 explica o FUNCIONAMENTO do cérebro (Sistema 1/2).
+  A Dimensão 13 diagnostica o ARMAZENAMENTO de instrumentos
+  de ativação emocional para fins políticos.
+
+QUEM DOMINA: algoritmos de Big Tech (otimizados para outrage =
+  engajamento), máquinas de propaganda política (gabinete do ódio,
+  digital militias), mídia sensacionalista (Record, Brasil Urgente),
+  igrejas neopentecostais (ativação de pânico moral), influenciadores
+  pagos.
+
+COMO CAPTURA:
+  - Pânicos morais seletivos: "kit gay", "comunismo nas escolas",
+    "ideologia de gênero" — desviam atenção de juros da dívida
+  - Algoritmos de ira: YouTube e Facebook otimizam para OUTRAGE
+    (conteúdo que gera raiva tem 6x mais engajamento que sereno)
+  - Polarização afetiva: aversão não ao debate de ideias, mas à
+    PRESENÇA FÍSICA do outro ("não quero nem sentar perto de
+    petista/bolsonarista")
+  - Exaustão emocional: bombardamento de crises diárias (Overclean,
+    Master, PEC da Blindagem, CPI) gera FATIGA — o cidadão desiste
+    de acompanhar
+  - Bode expiatório: angústia estrutural (falta de emprego, saúde)
+    redirecionada para minorias (LGBTQIA+, migrantes, beneficiários
+    do Bolsa Família)
+
+MÉTRICAS-CHAVE:
+  - Engajamento com raiva: 6x maior que conteúdo sereno (algoritmo)
+  - Polarização afetiva: ~70% dos brasileiros não teriam amigo
+    declarado do partido oposto (Datafolha 2022)
+  - Fadiga de notícias: crescente (Reuters Institute 2024)
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar:
+  (a) Há ativação emocional sendo usada para DESVIAR atenção?
+  (b) O algoritmo amplifica o EXTREMO ou o MODERADO?
+  (c) Há bode expiatório sendo construído?
+  (d) A exaustão está impedindo ação cidadã?
+
+------------------------------------------------------------------------
+DIMENSÃO 14 — LABORAL / PRODUTIVA
+------------------------------------------------------------------------
+COBERTURA TEIA: 70%
+
+O QUE É: os corpos trabalhadores, a extração de mais-valia e a
+  destruição do direito ao ócio.
+
+DIFERENÇA DA DIMENSÃO ECONÔMICA (1):
+  A Econômica foca na CIRCULAÇÃO financeira (juros, spread, dívida).
+  A Laboral foca na EXTRAÇÃO DO SUOR: como o trabalhador é capturado,
+  fragmentado e impedido de organizar-se.
+
+QUEM DOMINA: plataformas digitais (Uber, iFood, 99, Rappi),
+  terceirizadoras, agronegócio (trabalho escravo contemporâneo),
+  indústria de transformação, cooperativas fraudalentas.
+
+COMO CAPTURA:
+  - Uberização: 3 milhões de motoristas sem direitos trabalhistas
+  - Terceirização em cascata: trabalhador não sabe quem é o empregador
+  - Turnover estratégico: rotatividade para evitar encargos (férias,
+    13º, FGTS acumulado)
+  - Destruição sindical: sindicatos fracos ou capturados por
+    empregadores ("sindicato pelego")
+  - MEI como armadilha: 14 milhões de microempreendedores individuais
+    que internalizam CUSTOS e RISCOS do capital
+  - Hustle culture: "cultura do esforço" como virtude moral —
+    descansar é fracasso
+  - Trabalho escravo contemporâneo: resgatado em fazendas (MTE/MPT)
+    com forte presença em agro negócio
+
+MÉTRICAS-CHAVE:
+  - Uberizados: ~3 milhões
+  - MEIs: ~14 milhões
+  - Trabalhadores sem carteira assinada: ~40 milhões (informais)
+  - Sindicatos ativos: queda de 60% desde 1990
+  - Trabalho escravo resgatado: ~3 mil/ano ( dado visível — invisível
+    é muito maior)
+  - Produtividade do trabalho: estagnada em ~0,5% a.a. desde 2000
+
+PROTOCOLO TEIA:
+  Para cada análise econômica, perguntar:
+  (a) Quem PRODUZ a riqueza? Quem a CAPTA?
+  (b) O trabalhador tem direito ao ÓCIO (tempo livre para organização)?
+  (c) A estrutura laboral FRAGMENTA ou CONCENTRA trabalhadores?
+  (d) Há terceirização em cascata impedindo responsabilização?
+
+------------------------------------------------------------------------
+DIMENSÃO 15 — INFRAESTRUTURAL / ENERGÉTICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 65%
+
+O QUE É: a base física e os fluxos vitais que mantêm a sociedade
+  operando — matriz energética, telecomunicações, logística, água,
+  saneamento.
+
+DIFERENÇA DA DIMENSÃO AMBIENTAL (4):
+  A Ambiental foca nos RECURSOS NATURAIS (floresta, biodiversidade, clima).
+  A Infraestrutural foca nos FLUXOS CONTROLADOS (energia, dados,
+  transporte, água) — a "infraestrutura crítica" que pode ser
+  interrompida como arma.
+
+QUEM DOMINA: oligopólios de energia (Engie, Equador, Eletrobras,
+  CPFL), concessionárias de pedágio (CCR, EcoRoldovias), telecom
+  (Vivo, Claro, TIM), operadoras logísticas (RodoCargo, Simão
+  Transportes), distribuidoras de água (Sabesp, Sanasa, Embasa).
+
+COMO CAPTURA:
+  - Monopólio de transmissão de energia: poucas empresas controlam
+    o fluxo elétrico nacional
+  - Subsídios ocultos a combustíveis fósseis: isenções fiscais para
+    petróleo, carvão e gás (renúncia fiscal não divulgada)
+  - Captura de agências reguladoras: ANP, ANEEL, ANTT, ANATEL
+    capturadas por oligopólios
+  - Concessões perpétuas: contratos de 30-90 anos que blindam lucros
+    privados contra risco comercial, com cláusula de "risco regulatório"
+    que transfere o risco ao Estado
+  - Controle de cabos e data centers: quem controla a infraestrutura
+    de internet controla o fluxo de informação (e desinformação)
+  - Pedágio: usuário paga bilhões em tarifas para oligopólios enquanto
+    estradas alternativas são sucateadas
+
+MÉTRICAS-CHAVE:
+  - Concentração de transmissão de energia: ~70% em 10 empresas
+  - Pedágios: ~12 mil km concessionados (SP, RJ, MG, PR, SC)
+  - Subsídio a fósseis: estimado em R$ 30-50 bi/ano (renúncia)
+  - Captura regulatória: ANP/ANEEL/ANTT com dirigentes indicados
+    pelo setor regulado
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar:
+  (a) Quem controla o FLUXO vital (energia, água, dados)?
+  (b) Há cláusula de "risgo regulatório" que garante lucro privado?
+  (c) A agência reguladora é independente ou capturada?
+  (d) O contrato de concessão eterniza monopólio?
+
+------------------------------------------------------------------------
+DIMENSÃO 16 — RELIGIOSA / DOGMÁTICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 40%
+
+O QUE É: a legitimidade transcendente, a moralidade e a obediência
+  inquestionável. Quando a fé sobrepuja a racionalidade jurídica,
+  científica e econômica.
+
+QUEM DOMINA: igrejas evangélicas neopentecostais (Universal,
+  Renascer, Mundial, Batista Atitude), bancada evangélica (~200
+  parlamentares), Conferência Nacional dos Bispos do Brasil (CNBB),
+  Teologia da Prosperidade (pastores bilionários), Atlas Network
+  (libertarianismo cristão).
+
+COMO CAPTURA:
+  - Bancada religiosa institucionalizada: ~200 parlamentares
+    (Frente Parlamentar Evangélica) — votam em bloco em pautas morais
+  - Teologia da Prosperidade: pastores bilionários isentos de impostos
+    (imunidade tributária de templos) que pregam que riqueza é bênção
+    divina — alinhada com interesses econômicos de elite
+  - Lawfare religioso: uso do Judiciário para bloquear políticas de
+    direitos humanos (ADPF 442 sobre aborto, educação sexual nas
+    escolas, direitos LGBTQIA+)
+  - Uso de templos como centros de disseminação política: púlpito
+    como palanque eletrônico (violação da lei eleitoral mas
+    tolerada)
+  - Imunidade tributária abusada: templos como empresas imobiliárias
+    e de mídia (Rede Record/Universal) sem pagar imposto
+  - Obrigação de dízimo: transferência de renda do fiel (frequentemente
+    pobre) para o líder religioso (frequentemente rico)
+  - Voto como identidade: "vote em irmão" transcede análise racional
+    de programa de governo
+
+MÉTRICAS-CHAVE:
+  - Bancada evangélica: ~200 parlamentares (FPE)
+  - Evangélicos no Brasil: ~65 milhões (31% da população)
+  - Imunidade tributária de templos: estimada em R$ 3-5 bi/ano
+  - Pastores eleitos: crescente (Félix Mendonça, Marco Feliciano,
+    Magno Malta, etc.)
+  - Voto evangélico em bloco: decisivo em eleições presidenciais
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar:
+  (a) Há motivação religiosa sobrepondo-se a análise racional?
+  (b) O líder religioso tem interesse material na pauta?
+  (c) Há imunidade tributária sendo abusada?
+  (d) O templo está sendo usado como máquina política?
+
+
+================================================================================
+A MATRIZ COMPLETA v5.0 (16 × 16 = 256 PERSPECTIVAS)
+================================================================================
+
+              |1 Econ |2 Inst |3 Tecn |4 Amb |5 Soc |6 Cult |7 Mid |8 Jur |9 Epis |10 Esp |11 Bio |12 Temp|13 Afet|14 Lab |15 Infra|16 Rel |
+--------------|-------|-------|-------|------|------|-------|------|------|-------|-------|-------|-------|-------|-------|--------|-------|
+1 Econômica   |   X   |   X   |   X   |   X  |   X  |   X   |   X  |   X  |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X   |
+2 Institucional|  X   |   X   |       |   X  |      |   X   |   X  |   X  |   X   |       |       |   X   |   X   |       |        |   X   |
+3 Tecnológica |   X   |       |   X   |      |   X  |   X   |   X  |   X  |   X   |       |       |       |   X   |   X   |   X    |   X   |
+4 Ambiental   |   X   |   X   |       |   X  |   X  |       |      |   X  |   X   |   X   |   X   |       |       |   X   |   X    |   X   |
+5 Social      |   X   |       |   X   |   X  |   X  |   X   |   X  |   X  |       |   X   |   X   |   X   |   X   |   X   |        |   X   |
+6 Cultural    |   X   |   X   |   X   |      |   X  |   X   |   X  |      |   X   |       |   X   |   X   |   X   |       |        |   X   |
+--- NOVAS v4.0|-------|-------|-------|------|------|-------|------|------|-------|-------|-------|-------|-------|-------|--------|-------|
+7 Midiática   |   X   |   X   |   X   |      |   X  |   X   |   X  |   X  |   X   |       |       |   X   |   X   |       |        |   X   |
+8 Jurídica    |   X   |   X   |   X   |   X  |   X  |       |   X  |   X  |       |   X   |   X   |   X   |       |       |   X    |   X   |
+9 Epistêmica  |   X   |   X   |   X   |   X  |      |   X   |   X  |      |   X   |       |       |   X   |   X   |       |        |   X   |
+10 Espacial   |   X   |       |       |   X  |   X  |       |      |   X  |       |   X   |   X   |   X   |   X   |   X   |   X    |       |
+11 Biopolítica|   X   |   X   |   X   |   X  |   X  |   X   |      |   X  |       |   X   |   X   |   X   |   X   |   X   |        |   X   |
+--- NOVAS v5.0|-------|-------|-------|------|------|-------|------|------|-------|-------|-------|-------|-------|-------|--------|-------|
+12 Temporal   |   X   |   X   |       |      |   X  |   X   |   X  |   X  |   X   |   X   |   X   |   X   |   X   |   X   |   X    |   X   |
+13 Afetiva    |   X   |   X   |   X   |      |   X  |   X   |   X  |      |   X   |   X   |   X   |   X   |   X   |   X   |        |   X   |
+14 Laboral    |   X   |       |   X   |   X  |   X  |       |      |   X  |       |   X   |   X   |   X   |   X   |   X   |   X    |       |
+15 Infraestrut.|  X   |   X   |   X   |   X  |      |       |      |   X  |       |   X   |   X   |   X   |       |   X   |   X    |       |
+16 Religiosa  |   X   |   X   |   X   |   X  |   X  |   X   |   X  |   X  |   X   |       |   X   |   X   |   X   |       |        |   X   |
+
+LETRA:
+  X = combinação com aplicação direta no framework TEIA
+  (vazia = combinação possível mas ainda não aplicada)
+
+
+================================================================================
+PROPRIEDADES DA MATRIZ 16×16 COMPLETA
+================================================================================
+
+PROPRIEDADE 1 — INTERDEPENDÊNCIA TOTAL
+  Nenhuma dimensão opera sozinha. Toda captura atravessa múltiplas
+  dimensões simultaneamente.
+  
+  Exemplo: o spread bancário (1 Econômica) é mantido por:
+    - Lobby da Febraban (2 Institucional)
+    - Opacidade midiática (7 Midiática)
+    - Normalização cultural (6 Cultural)
+    - Fragmentação trabalhista (14 Laboral — MEI não tem tempo de
+      organizar contra o spread)
+    - Captura epistêmica (9 — FGV IBRE normaliza spread como
+      "necessário")
+
+PROPRIEDADE 2 — HIERARQUIA DE PROFUNDIDADE
+  Nível 1 — SUPERFÍCIE (visível): Econômica, Institucional,
+    Tecnológica, Ambiental, Social, Cultural (dims 1-6)
+  Nível 2 — PROFUNDIDADE (invisível): Midiática, Jurídica,
+    Epistêmica, Espacial, Biopolítica (dims 7-11)
+  Nível 3 — SOMBRA (quase invisível): Temporal, Afetiva,
+    Laboral, Infraestrutural, Religiosa (dims 12-16)
+  
+  Quanto mais fundo, mais difícil de detectar e mais poderoso.
+
+PROPRIEDADE 3 — PONTO DE ALAVANCA EM QUALQUER NÍVEL
+  Como Meadows (Sistemas Complexos, Lente 11) mostra, o ponto mais
+  poderoso de intervenção é mudar o PARADIGMA (nível mental).
+  Na matriz 16×16, o paradigma é atravessado por TODAS as dimensões.
+  Mudar o paradigma ("política é gestão, não negócio") afeta todas
+  as 16 dimensões simultaneamente.
+
+
+================================================================================
+EXEMPLOS DE COMBINATÓRIAS POTENTES DAS NOVAS DIMENSÕES
+================================================================================
+
+------------------------------------------------------------------------
+COMBINAÇÃO F: TEMPORAL (12) × ESTATÍSTICA (Lente 7)
+------------------------------------------------------------------------
+CONCEITO: Sustentabilidade Fiscal Intergeracional vs Canibalização
+  do Futuro
+
+APLICAÇÃO TEIA:
+  Usar stress tests (Monte Carlo) para provar que a atual política
+  de juros (R$ 950 bi/ano) não é apenas um problema presente, mas
+  um mecanismo que destina ~25% da receita federal ao pagamento de
+  dívidas passadas — provando matematicamente que o sistema CHUPA
+  O TEMPO das gerações futuras.
+  
+  Se a dívida cresce 7% a.a. e a economia cresce 2% a.a., a dívida/PIB
+  EXPLODE em 15 anos. O tempo futuro é canibalizado.
+
+NOVA SKILL: modelagem-estocastica-intergeracional
+  Simular trajetória da dívida em 30 anos sob diferentes cenários.
+
+------------------------------------------------------------------------
+COMBINAÇÃO G: AFETIVA (13) × PSICOLOGIA SOCIAL (Lente 13)
+------------------------------------------------------------------------
+CONCEITO: Polarização Afetiva e Teorias da Identidade Social
+
+APLICAÇÃO TEIA:
+  Mapear como algoritmos (Big Tech, Dim 3) e mídia (Dim 7) ativam
+  o "medo do outro" para destruir a solidariedade de classe.
+  
+  Investigar como a população de baixa renda é manipulada a ODIAR
+  beneficiários do Bolsa Família, desviando a atenção dos 28-30 p.p.
+  de spread bancário que EXTRAEM R$ 500-700 bi/ano do bolso deles.
+  
+  O bode expiatório (beneficiário do BF recebendo R$ 600/mês) absorve
+  a raiva que deveria ser dirigida ao banco que cobra 40% ao ano no
+  cartão.
+
+NOVA SKILL: psicologia-politica-analise-sentimento-redes
+  Usar NLP para mapear polarização afetiva e ativação emocional em
+  redes sociais brasileiras.
+
+------------------------------------------------------------------------
+COMBINAÇÃO H: LABORAL (14) × SISTEMAS COMPLEXOS (Lente 11)
+------------------------------------------------------------------------
+CONCEITO: Fragmentação Estrutural e Destruição de Pontos de Alavanca
+
+APLICAÇÃO TEIA:
+  Modelar como a Uberização não é apenas exploração econômica, mas
+  uma TÁTICA SISTÊMICA para destruir os "pontos de alavanca"
+  (Meadows) da organização trabalhista.
+  
+  Sem a FÁBRICA (ponto de concentração de trabalhadores), não há
+  GREVE. Sem greve, não há NEGOCIAÇÃO COLETIVA. Sem negociação, o
+  capital extrai mais-valia sem resistência.
+  
+  O trabalhador isolado no app não consegue coordenar ação coletiva
+  — e isto é BY DESIGN, não acidente.
+
+NOVA SKILL: modelagem-abm-fragmentacao-laboral
+  Simular como diferentes estruturas de trabalho (fábrica vs app)
+  afetam a capacidade de organização coletiva.
+
+------------------------------------------------------------------------
+COMBINAÇÃO I: INFRAESTRUTURAL (15) × DIREITO (Lente 22)
+------------------------------------------------------------------------
+CONCEITO: Regulatory Capture e Concessões Perpétuas
+
+APLAPAÇÃO TEIA:
+  Investigar contratos de concessão de rodovias e energia elétrica.
+  Mostrar como cláusulas de "risco regulatório" garantem lucros
+  mínimos absurdos a oligopólios, transformando o Estado em
+  GARANTIDOR DE LUCROS PRIVADOS, enquanto o usuário paga pedágios
+  bilionários.
+  
+  Exemplo: concessão de pedágio de SP — usuário paga R$ X bi/ano
+  em tarifas para oligopólios (CCR, EcoRoldovias) enquanto as
+  estradas não pavimentadas (69%) são sucateadas.
+
+NOVA SKILL: analise-contratos-concessao-jurimetria-regulatoria
+  Mapear contratos de concessão e cláusulas de risco regulatório.
+
+------------------------------------------------------------------------
+COMBINAÇÃO J: RELIGIOSA (16) × DISCURSO (Lente 14)
+------------------------------------------------------------------------
+CONCEITO: Moral Framing e Teologia da Prosperidade
+
+APLICAÇÃO TEIA:
+  Desconstruir narratologicamente como líderes religiosos capturam
+  a Dimensão Cultural ("o problema é o gasto") e a revestem com
+  linguagem divina.
+  
+  Exemplo: cortar direitos sociais é "purificar a nação dos
+  privilégios"; enquanto juros bancários escorchantes são ignorados
+  teologicamente. A Teologia da Prosperidade alinha-se com a elite
+  econômica: riqueza = bênção, pobreza = pecado.
+  
+  O líder religioso (magisterium) sobrepuja a racionalidade jurídica
+  (leis) e científica (dados) com "verdade revelada" — imune a
+  fact-check.
+
+NOVA SKILL: analise-critica-discurso-religioso-hermeneutica
+  Desconstruir enquadramentos morais e teológicos no discurso político.
+
+
+================================================================================
+NOVAS SKILLS (27-31)
+================================================================================
+
+SKILL 27: modelagem-estocastica-intergeracional
+  Dim 12 (Temporal) × Lente 7 (Estatística)
+  Simular trajetória da dívida/futuro em 30 anos.
+
+SKILL 28: psicologia-politica-analise-sentimento-redes
+  Dim 13 (Afetiva) × Lente 13 (Psicologia Social)
+  Mapear polarização afetiva e bodes expiatórios via NLP.
+
+SKILL 29: modelagem-abm-fragmentacao-laboral
+  Dim 14 (Laboral) × Lente 11 (Sistemas Complexos)
+  Simular como uberização destrói organização coletiva.
+
+SKILL 30: analise-contratos-concessao-jurimetria-regulatoria
+  Dim 15 (Infraestrutural) × Lente 22 (Direito)
+  Mapear concessões perpétuas e captura de agências.
+
+SKILL 31: analise-critica-discurso-religioso-hermeneutica
+  Dim 16 (Religiosa) × Lente 14 (Discurso)
+  Desconstruir teologia da prosperidade e moral framing.
+
+
+================================================================================
+OS 3 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (O QUE SE VÊ)
+  1. Econômica — dinheiro, juros, spread
+  2. Institucional — leis, votos, comissões
+  3. Tecnológica — dados, algoritmos, IA
+  4. Ambiental — florestas, clima, território
+  5. Social — saúde, educação, direitos
+  6. Cultural — narrativas, valores, identidade
+
+NÍVEL 2 — PROFUNDIDADE (O QUE SE OCULTA)
+  7. Midiática — fabricação do consentimento
+  8. Jurídica — seletividade da justiça
+  9. Epistêmica — produção da verdade
+  10. Espacial — segregação, milícias
+  11. Biopolítica — controle dos corpos
+
+NÍVEL 3 — SOMBRA (O QUE É QUASE INVISÍVEL)
+  12. Temporal — roubo do tempo futuro
+  13. Afetiva — engenharia das emoções
+  14. Laboral — captura do trabalho e do ócio
+  15. Infraestrutural — controle de energia e fluxos
+  16. Religiosa — legitimação transcendente
+
+Quanto mais fundo, mais difícil de detectar e mais poderoso o
+controle. O TEIA Framework v5.0 é o único sistema que mapeia TODOS
+os 3 níveis.
+
+
+================================================================================
+RESUMO DA EVOLUÇÃO COMPLETA (v1.0 → v5.0)
+================================================================================
+
+v1.0 — ARQUITETURA (advocacy empírico)
+  6 dimensões de poder (nível superfície)
+  Cobria: econômica
+
+v2.0 — INTELIGÊNCIA (ciência política + SATs + jornalismo)
+  + 10 teorias de ciência política e humanas
+  + SATs e métodos de jornalismo investigativo
+
+v3.0 — CIÊNCIA PREDITIVA (estatística + sociologia + antropologia + direito)
+  + Modelagem estatística, simulação avançada
+  + Sociologia, antropologia, direito brasileiro
+
+v3.1 — EXPANSÃO HÍBRIDA (+10 dimensões)
+  + Psicologia cognitiva/social, discurso, informação
+  + Filosofia política, geografia, história, EPI
+  + Public choice, sistemas complexos
+  16 lentes analíticas
+
+v3.2 — MATRIZ FORMAL (desenho metodológico)
+  + Matriz de Consistência (6 dimensões formais)
+  + Protocolo de Qualidade: 25 itens
+
+v4.0 — ONIDIMENSIONALIDADE (5 novas dimensões)
+  + Midiática, Jurídica, Epistêmica, Espacial, Biopolítica
+  Matriz 11×16 = 176 perspectivas
+
+v5.0 — A TEIA COMPLETA (RELEASE DEFINITIVA)
+  + Temporal, Afetiva, Laboral, Infraestrutural, Religiosa
+  Matriz 16×16 = 256 perspectivas
+  3 níveis de profundidade do poder
+  31 skills metodológicas
+  Protocolo de Qualidade: 25 itens
+
+O TEIA Framework agora mapeia TODA A EXTENSÃO DA CAPTURA SISTÊMICA
+brasileira. Nenhuma zona de sombra escapa. É um framework analítico
+imbatível.
+
+================================================================================
+FIM — TEIA Framework v5.0 (RELEASE DEFINITIVA)
+================================================================================
+Protocolo: TEIA-2026-050
+https://github.com/mouracleiton/TEIA
+
+O dinheiro da reforma virá do trabalho.
+As instituições virão da organização.
+Os direitos virão da luta.
+O ambiente virá da consciência.
+A tecnologia virá da soberania.
+A cultura virá da educação.
+A verdade virá da ciência.
+A justiça virá da igualdade.
+O espaço virá da integração.
+A vida virá da dignidade.
+O tempo virá da paciência estratégica.
+A emoção virá da esperança.
+O trabalho virá da liberdade.
+A energia virá da soberania.
+A fé virá do propósito.
+
+A TEIA está completa. O operador é você.
+
+================================================================================

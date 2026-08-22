@@ -1,0 +1,329 @@
+================================================================================
+TEIA — ESTRATÉGIA ELEITORAL 2026: O ANO DA VISIBILIDADE
+================================================================================
+Como transformar o diagnóstico do sistema em vitória eleitoral
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Protocolo: TEIA-2026-071
+Data: Julho/2026
+================================================================================
+
+O EIXO ELEITORAL
+
+As eleições de 2026 (presidencial + legislativa + estadual) são a
+JANELA POLÍTICA (Estado 3 da State Machine) onde o TEIA tem MAIOR
+impacto. Não como partido. Como AGENDA-SETTER.
+
+O TEIA não elege candidato. O TEIA define o DEBATE.
+
+Se a eleição de 2026 for disputada entre "esquerda vs direita" (frame
+dominante da Dimensão Cultural), nada muda. Mas se for disputada entre
+"GESTÃO vs CAPTURA" (frame TEIA), a aritmética eleitoral muda.
+
+
+================================================================================
+A TEORIA DA MUDANÇA APLICADA À ELEIÇÃO
+================================================================================
+
+Kingdon (Múltiplas Correntes) diz que mudança acontece quando 3
+correntes convergem numa janela:
+
+  CORRENTE DE PROBLEMA: a população SENTe que algo está errado
+    → 20% citam saúde, 16% segurança, 11% economia
+    → A população SENTE os sintomas
+
+  CORRENTE DE POLÍTICA: uma SOLUÇÃO está pronta
+    → O TEIA TEM 24 soluções mapeadas
+    → O TEIA TEM 14 documentos de ação prontos
+
+  CORRENTE POLÍTICA: o MOMENTO é favorável
+    → Eleição 2026 = pressão eleitoral máxima
+    → Parlamentares sensíveis a opinião pública
+    → TSE ativo (Cartão de Emendas)
+
+A ELEIÇÃO É A JANELA. O TEIA É A SOLUÇÃO PRONTA.
+
+
+================================================================================
+ESTRATÉGIA EM 5 PILARES ELEITORAIS
+================================================================================
+
+------------------------------------------------------------------------
+PILAR 1 — AGENDA-SETTING (Definir o debate)
+------------------------------------------------------------------------
+OBJETIVO: forçar os candidatos a debater GESTÃO, não ideologia.
+
+COMO:
+  (a) DOCUMENTÁRIO "O PREÇO DA SELIC" (JÁ EXISTE — TEIA-2026-018)
+      → Publicar em agosto/setembro 2026 (antes do horário eleitoral)
+      → Meta: 5 milhões de visualizações em 90 dias
+      → Faz o eleitor PERGUNTAR: "por que pagamos tanto em juros?"
+
+  (b) SÉRIE TIKTOK "CONTAS PÚBLICAS" (JÁ EXISTE — 20 roteiros)
+      → Publicar 1 por dia a partir de agosto 2026
+      → Cada vídeo conecta UM sintoma (SUS, desemprego, violência)
+        a UMA causa (juros, spread, captura)
+      → Meta: 10 milhões de views acumuladas
+
+  (c) PODCAST "GESTÃO NÃO GASTO" (JÁ EXISTE — 5 episódios planejados)
+      → Episódio 1 antes do horário eleitoral
+      → Convidar candidatos a responder: "como você reduz os
+        R$ 950 bi em juros?"
+
+  (d) DEBATE PÚBLICO: lançar um "QUESTIONÁRIO TEIA" com 10 perguntas
+      que TODO candidato deve responder:
+        1. Você apoia a Nota Técnica de Impacto Fiscal?
+        2. Você apoia o Cartão de Emendas no TSE?
+        3. Como você vai reduzir o spread bancário de 30%?
+        4. Você apoia a CPI do Banco Master?
+        5. Como você vai financiar o SUS sem aumentar impostos?
+        6. Você vai revogar a PEC da Blindagem?
+        7. Como você vai garantir que emendas sejam transparentes?
+        8. Você apoia a regulação de algoritmos de Big Tech?
+        9. Como você vai reduzir o encarceramento?
+        10. Você vai implementar o silêncio administrativo federal?
+
+MÉTRICA: pelo menos 3 candidatos majoritários respondem o questionário.
+
+------------------------------------------------------------------------
+PILAR 2 — CARTÃO DE EMENDAS (Transparência como arma eleitoral)
+------------------------------------------------------------------------
+OBJETIVO: expor parlamentares que capturaram emendas, criando custo
+eleitoral de captura.
+
+COMO:
+  (a) PETIÇÃO AO TSE exigindo publicação de histórico de emendas
+      de cada candidato que exerceu mandato (solução S7)
+      → Formato: quantas emendas, para quais municípios, quais
+        empresas executaram, % entregue
+      → Prazo: protocolar em AGOSTO 2026 (antes do horário eleitoral)
+
+  (b) DASHBOARD ELEITORAL: site/app que mostra ao eleitor:
+      → Quanto seu deputado indicou em emendas
+      → Para onde foi o dinheiro
+      → Quem executou
+      → Obras entregues vs abandonadas
+      → Conexões com empresas investigadas (Overclean, Master)
+
+  (c) TIKTOK "SEU DEPUTADO":
+      → "O deputado X indicou R$ 50 mi em emendas. Quem executou?
+        A empresa Y, doada por Z. A obra foi entregue? Não."
+      → 1 vídeo por parlamentar-chave (Lira, Coronel, Motta, etc.)
+
+MÉTRICA: Cartão de Emendas publicado pelo TSE OU dashboard TEIA com
+100+ parlamentares mapeados.
+
+------------------------------------------------------------------------
+PILAR 3 — COALIZÃO ELEITORAL (Construir base parlamentar)
+------------------------------------------------------------------------
+OBJETIVO: eleger ou reeleger 30-50 parlamentares com agenda de gestão.
+
+COMO:
+  (a) IDENTIFICAR candidatos alinhados em cada estado:
+      → Perfil: técnico, comprometido com transparência, sem vínculo
+        com sistema capturado
+      → Partido: qualquer (o eixo é SETORIAL não ideológico)
+      → Critério: assinar o "COMPROMISSO TEIA" (10 pontos)
+
+  (b) COMPROMISSO TEIA (contrato eleitoral de 10 pontos):
+      1. Apoiar Nota Técnica de Impacto Fiscal
+      2. Apoiar Cartão de Emendas no TSE
+      3. Votar a favor de CPI do Banco Master
+      4. Votar a favor de revogar PEC da Blindagem
+      5. Apoiar expansão de Open Finance
+      6. Apoiar implementação da Reforma Tributária sem captura
+      7. Apoiar silêncio administrativo federal
+      8. Apoiar regulação de Big Tech (PL 2338)
+      9. Apoiar redirecionamento de juros para SUS
+      10. Não aceitar cargo em órgão monitorado pelo TEIA
+
+  (c) APOIO TEIA a candidatos compromissados:
+      → TEIA fornece dados e análise (vantagem competitiva)
+      → TEIA faz cross-promotion no canal @professorcinza
+      → TEIA conecta com coalizão de ganhadores (fintechs, cooperativas)
+
+MÉTRICA: 30+ candidatos assinam o Compromisso TEIA.
+
+------------------------------------------------------------------------
+PILAR 4 — NARRATIVA DE GESTÃO (Substituir o frame dominante)
+------------------------------------------------------------------------
+OBJETIVO: substituir o frame "o problema é gastar demais" pelo frame
+"o problema é pagar muito em juros e não gerir".
+
+COMO:
+  (a) FRAMING (Dimensão Cultural × Lente Discurso):
+      Frame DOMINANTE: "Brasil gasta demais → cortar gastos sociais"
+      Frame TEIA: "Brasil GESTIONA mal → R$ 950 bi vão para juros"
+
+  (b) METÁFORA CENTRAL (narratologia política):
+      "O Brasil não é um país pobre. É um país MAL GERIDO."
+      "Você paga R$ 4.400 por ano em juros da dívida — mais do que
+       sua conta de luz, água e internet combinadas."
+
+  (c) MÉTRICAS DE COMUNICAÇÃO (Sistema 1 — Kahneman):
+      → "Cada minuto: R$ 1,8 milhão em juros" (visceral)
+      → "Juros = 4x a Saúde" (comparativo visual)
+      → "Spread de 30% = imposto privado que ninguém votou" (injusto)
+      → "Itaú lucrou R$ 40 bil em 2024 — mais que o orçamento do IBAMA"
+      → "Enquanto você espera 6 meses por uma cirurgia, R$ 2,6 bi
+         por dia saem do Orçamento para pagar juros"
+
+  (d) CONTRA-NARRATIVA ANTI-POPULISMO:
+      → Não é "esquerda vs direita" — é "GESTÃO vs CAPTURA"
+      → Não é "aumentar impostos" — é "redirecionar juros"
+      → Não é "populismo fiscal" — é "eficiência sistêmica"
+      → Não é "contra o mercado" — é "contra a captura do mercado"
+
+MÉTRICA: frame "juros vs saúde" aparece em pelo menos 1 debate
+presidencial majoritário.
+
+------------------------------------------------------------------------
+PILAR 5 — FRAUDE E INTEGRIDADE (Proteger a eleição)
+------------------------------------------------------------------------
+OBJETIVO: monitorar desinformação, emendas pré-eleição e compra de votos.
+
+COMO:
+  (a) MONITORAR EMENDAS PRÉ-ELEIÇÃO (Alerta do sistema):
+      → Exemplo: Valdemar enviou R$ 97 mi em emendas na semana
+        pré-eleição 2024
+      → TEIA monitora volume de emendas em julho-outubro 2026
+      → Se volume > threshold → denúncia ao TSE (compra de votos)
+
+  (b) MONITORAR DESINFORMAÇÃO (Dim 11 × Lente Informação):
+      → Mapear bots e contas falsas ativas
+      → Detectar deepfakes e IA generativa eleitoral
+      → Fact-check de frames dominantes em tempo real
+      → Denúncia ao TSE (Resolução 23.732/2024)
+
+  (c) MONITORAR DOAÇÕES IRREGULARES:
+      → Cruzar TSE com Pandora Papers
+      → Detectar doações de empresas investigadas
+      → Detectar doações de pessoas ligadas a Banco Master/Overclean
+
+MÉTRICA: ao menos 3 denúncias ao TSE protocoladas e aceitas.
+
+
+================================================================================
+CRONOGRAMA ELEITORAL TEIA 2026
+================================================================================
+
+JULHO 2026 (AGORA):
+  [x] Documentário "O Preço da Selic" pronto (roteiro TEIA-018)
+  [x] 20 TikToks "Contas Públicas" prontos (TEIA-019)
+  [x] 5 episódios podcast planejados (TEIA-020)
+  [x] Dossiê Haddad pronto (TEIA-013)
+  [x] Dossiê SUS pronto (TEIA-067)
+  [x] Diagnóstico saúde completo (TEIA-069)
+  [x] Mapa de atores saúde (TEIA-068)
+  [ ] Petição TSE pelo Cartão de Emendas (ENTREGAR AGORA)
+  [ ] Questionário TEIA para candidatos (redigir em 7 dias)
+
+AGOSTO 2026 (MÊS 1):
+  [ ] Publicar documentário no YouTube
+  [ ] Iniciar série TikTok (1 vídeo/dia)
+  [ ] Lançar podcast episódio 1
+  [ ] Protocolar petição TSE (Cartão de Emendas)
+  [ ] Protocolar amicus curiae ADPF 854 (se ainda não)
+  [ ] Lançar Questionário TEIA para candidatos
+  [ ] Dashboard eleitoral no ar (versão beta)
+
+SETEMBRO 2026 (MÊS 2 — pré-horário eleitoral):
+  [ ] Horário eleitoral gratuito começa
+  [ ] TEIA monitora: quem menciona "juros da dívida"?
+  [ ] TEIA monitora: quem menciona "gestão" vs "gasto"?
+  [ ] TEIA monitora: emendas pré-eleição (volume)
+  [ ] TEIA monitora: desinformação e bots
+  [ ] Compromisso TEIA: identificar candidatos que assinam
+  [ ] Segunda leva de TikToks (problema 9-20)
+
+OUTUBRO 2026 (MÊS 3 — mês eleitoral):
+  [ ] Pico de publicação de conteúdo
+  [ ] Reportagem/dossiê: "O Custo Eleitoral da Captura"
+      (parlamentares com mais emendas vs investigações)
+  [ ] Monitorar fraudes eleitorais (emendas, bots, doações)
+  [ ] Denúncias ao TSE
+  [ ] Mobilização final: "Vote em GESTÃO, não em CAPTURA"
+
+NOVEMBRO 2026 (PÓS-ELEIÇÃO):
+  [ ] Análise: quem ganhou? Por quê?
+  [ ] TEIA no horário eleitoral: Candidato X mencionou "juros"?
+  [ ] Coalizão eleita: quantos assinaram o Compromisso TEIA?
+  [ ] Plano de transição: entregar dossiês ao novo governo
+  [ ] Estado 5 (Lua de Mel) da State Machine → capital político fresco
+
+
+================================================================================
+O QUE O TEIA NÃO FAZ EM ELEIÇÃO
+================================================================================
+
+1. NÃO apoia candidato oficialmente (TEIA é apartidário)
+2. NÃO usa dados sigilosos ou obtidos por meio ilícito
+3. NÃO faz difamação (todo dado é fonte pública + presunção de inocência)
+4. NÃO aceita dinheiro de partidos (independência institucional)
+5. NÃO ataca pessoas — ataca SISTEMAS
+6. NÃO produz fake news — produz fact-check rigoroso
+
+
+================================================================================
+O ALVO ELEITORAL DO TEIA
+================================================================================
+
+O TEIA tem 3 alvos eleitorais:
+
+ALVO 1 — O ELEITOR INFORMADO (5 milhões de formadores de opinião)
+  → Estudantes universitários, jornalistas, classe média
+  → Objetivo: que ele PERGUNTE aos candidatos sobre juros e gestão
+  → Canal: YouTube + TikTok + podcast + Instagram
+
+ALVO 2 — O CANDIDATO (30-50 parlamentares potenciais)
+  → Deputados e senadores com perfil técnico
+  → Objetivo: que ASSINEM o Compromisso TEIA
+  → Canal: dossiês técnicos + articulação direta
+
+ALVO 3 — O SISTEMA (TSE + STF + mídia)
+  → Objetivo: que IMPLEMENTEM transparência (Cartão de Emendas,
+    identificação nominal de emendas, fiscalização de bots)
+  → Canal: petições + amicus curiae + pressão pública
+
+
+================================================================================
+A MÉTRICA FINAL DE SUCESSO ELEITORAL
+================================================================================
+
+O TEIA NÃO mede sucesso por quem ganha a eleição.
+
+O TEIA mede sucesso por:
+
+1. FRAME: o debate eleitoral inclui "juros da dívida" como tema central?
+   (Sim/Não)
+
+2. TRANSPARÊNCIA: o TSE publicou Cartão de Emendas?
+   (Sim/Não)
+
+3. COALIZÃO: 30+ parlamentares assinaram o Compromisso TEIA?
+   (Sim/Não)
+
+4. ALCANCE: 15 milhões de pessoas foram impactadas pelo conteúdo TEIA?
+   (Sim/Não)
+
+5. INTEGRIDADE: fraudes eleitorais detectadas e denunciadas?
+   (Número)
+
+Se 3 destes 5 KPIs forem verdes, o TEIA cumpriu seu papel eleitoral
+— independentemente de quem ganhe.
+
+================================================================================
+FIM — ESTRATÉGIA ELEITORAL TEIA 2026
+================================================================================
+Protocolo: TEIA-2026-071
+
+A eleição de 2026 é a JANELA onde o TEIA tem maior impacto.
+Não como partido. Como AGENDA-SETTER que define o debate.
+
+Se o debate for "esquerda vs direita", nada muda.
+Se o debate for "GESTÃO vs CAPTURA", tudo muda.
+
+O dinheiro da reforma virá do trabalho.
+A democracia virá da transparência.
+A vitória virá da gestão.
+================================================================================

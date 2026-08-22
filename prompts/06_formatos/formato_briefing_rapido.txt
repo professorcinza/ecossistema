@@ -1,0 +1,22 @@
+================================================================================
+FORMATO — BRIEFING RÁPIDO TEIA (ANÁLISE 1 PÁGINA)
+================================================================================
+Usar quando solicitado "análise rápida" ou "resumo".
+
+TEIA-BRIEF-[ANO]-[NNN] | [FENÔMENO]
+
+Fase 1 — Superfície: 3-5 dims Nível 1
+Fase 2 — Triagem: 2-3 lentes + respostas + ANTI-PADRÃO
+
+Hipótese preliminar:
+...
+
+Ponto de alavanca mais óbvio:
+...
+
+Próximos passos recomendados:
+...
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

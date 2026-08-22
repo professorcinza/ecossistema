@@ -1,0 +1,694 @@
+================================================================================
+TEIA FRAMEWORK v3.1 — NOVAS DIMENSÕES DAS CIÊNCIAS HUMANAS E HÍBRIDAS
+================================================================================
+Mapeamento de 10 novas dimensões analíticas que ampliam o poder de investigação.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-046
+Versão: v3.1
+================================================================================
+
+Por que estas dimensões são necessárias?
+
+O framework atual explica:
+  - Quem tem poder (ciência política, veto players)
+  - Como o dinheiro flui (economia, territorial)
+  - Por que o sistema resiste (sociologia, patrimonialismo)
+  - O que a lei permite (direito)
+  - O que é anomalia (estatística)
+
+MAS NÃO explica:
+  - Por que o eleitor VOTA contra o próprio interesse (psicologia)
+  - Como a LINGUAGEM constrói a realidade política (discurso)
+  - Por que a informação se ESPALHA de certa forma (ciência da informação)
+  - Como o PODER se exerce sem lei (Foucault, biopolítica)
+  - Por que o TERRITÓRIO determina o voto (geografia política)
+  - Como a HISTÓRIA ancora o presente (análise histórica)
+
+As 10 novas dimensões fecham estas lacunas.
+
+
+================================================================================
+DIMENSÃO 1 — PSICOLOGIA COGNITIVA E COMPORTAMENTAL
+================================================================================
+O que explica: POR QUE as pessoas (eleitores e políticos) tomam
+decisões irracionais que prejudicam a si mesmas.
+
+------------------------------------------------------------------------
+MOD 1.1 — TEORIA DO PROSPECTO (Kahneman & Tversky, 1979)
+------------------------------------------------------------------------
+CONCEITO: humanos NÃO são racionais. Avaliam ganhos e perdas de forma
+ASSIMÉTRICA: a dor de perder R$ 100 é psicologicamente 2x maior que o
+prazer de ganhar R$ 100. "Aversão à perda" (loss aversion).
+
+APLICAÇÃO TEIA:
+  - Por que o eleitor brasileiro aceita juros de 14% mas revolta com
+    aumento de R$ 0,20 na passagem de ônibus?
+    RESPOSTA: a passagem é PERDA imediata e visível. Os juros são
+    PERDA difusa e invisível. A psicologia humana reage à perda
+    visível, não à invisível.
+  
+  - Por que parlamentares resistem a transparência mesmo sabendo que
+    é benefica para o país?
+    RESPOSTA: transparência = PERDA de poder (imediato, visível).
+    Benefício coletivo = GANHO difuso e futuro. Aversão à perda
+    domina.
+
+INSIGHT: o TEIA precisa ENQUADRAR reformas como GANHO imediato
+("crédito mais barato JÁ") e manter o status quo como PERDA
+("você JÁ paga R$ 5 mil/ano em juros escondidos").
+
+------------------------------------------------------------------------
+MOD 1.2 — SISTEMA 1 E SISTEMA 2 (Kahneman, 2011)
+------------------------------------------------------------------------
+CONCEITO: o cérebro tem dois modos:
+  SISTEMA 1: rápido, intuitivo, emocional, automático. Decide em
+    milissegundos. Usa atalhos (vieses). É onde moram preconceitos,
+    emoções, reações instintivas.
+  SISTEMA 2: lento, deliberativo, analítico, lógico. Custa energia
+    cognitiva. Só ativa quando o Sistema 1 não consegue resolver.
+
+APLICAÇÃO TEIA:
+  - TikToks de 60 segundos operam no Sistema 1 (rápido, emocional)
+  - Dossiês técnicos de 40 páginas operam no Sistema 2 (lento, analítico)
+  - O ELEITOR decide com Sistema 1. O ANALISTA decide com Sistema 2.
+  - O TEIA precisa produzir para AMBOS:
+    * Sistema 1: TikTok, carrossel Instagram, documentário
+    * Sistema 2: dossiês, petições, simulações Monte Carlo
+
+INSIGHT: o erro da esquerda técnica brasileira é falar SÓ com o
+Sistema 2 (propostas racionais para eleitores racionais). O eleitor
+NÃO é racional — é emocional. Bolsonaro ganhou em 2018 falando com
+o Sistema 1 (medo, raiva, identidade). Lula ganhou em 2022 também
+com Sistema 1 (esperança, pertencimento). Ninguém ganha eleição
+com Sistema 2.
+
+------------------------------------------------------------------------
+MOD 1.3 — NUDGE E ARQUITETURA DE ESCOLHA (Thaler & Sunstein, 2008)
+------------------------------------------------------------------------
+CONCEITO: pequenas mudanças no "ambiente de escolha" (arquitetura)
+produzem grandes mudanças de comportamento SEM coação.
+
+EXEMPLOS:
+  - Órgão doador padrão (opt-out) vs não-doador padrão (opt-in):
+    mudar o padrão aumenta doação de 15% para 90%.
+  - Poupança automática (opt-out) vs contribuição voluntária (opt-in):
+    poupança automática triplica a taxa de poupança.
+
+APLICAÇÃO TEIA:
+  - Cartão de Emendas no TSE: se o histórico de emendas for PADRÃO
+    (aparece automaticamente na ficha do candidato), o eleitor VÊ
+    sem esforço. Se for OPT-IN (tem que buscar), ninguém busca.
+  - Dashboard no app gov.br: se aparece por PADRÃO quando o cidadão
+    acessa, funciona. Se tem que procurar, não funciona.
+  - Silêncio administrativo POSITIVO: licença aprovada por padrão
+    se o Estado não responde em 30 dias.
+
+INSIGHT: a maior alavanca de reforma no Brasil pode não ser uma LEI
+nova, mas mudar a ARQUITETURA de escolha padrão do Estado brasileiro.
+
+
+================================================================================
+DIMENSÃO 2 — ANÁLISE DO DISCURSO E LINGUÍSTICA POLÍTICA
+================================================================================
+O que explica: COMO a linguagem constrói a realidade política e
+COMO o framing controla o debate.
+
+------------------------------------------------------------------------
+MOD 2.1 — TEORIA DO FRAMING (Lakoff, 2004; Entman, 1993)
+------------------------------------------------------------------------
+CONCEITO: selecionar aspectos da realidade e torná-los mais salientes
+para promover uma interpretação específica. Não é mentira — é seleção.
+
+APLICAÇÃO TEIA:
+  FRAME DOMINANTE (a ser combatido):
+    "O Brasil tem problema de GASTO" → solução: cortar gasto social
+  
+  FRAME ALTERNATIVO (a ser construído):
+    "O Brasil tem problema de GESTÃO" → solução: redirecionar juros
+  
+  FRAME DOMINANTE:
+    "Juros altos protegem contra inflação" → solução: manter Selic alta
+  
+  FRAME ALTERNATIVO:
+    "Juros altos transferem renda do trabalhador para bancos" →
+    solução: reduzir custo fiscal da dívida
+
+INSIGHT: o TEIA precisa produzir um MANUAL DE FRAMING que define
+como cada conceito deve ser nomeado, framed e comunicado. A batalha
+política é PRIMEIRO semântica, depois material.
+
+------------------------------------------------------------------------
+MOD 2.2 — ANÁLISE DE DISCURSO CRÍTICA (Fairclough; Pêcheux)
+------------------------------------------------------------------------
+CONCEITO: o discurso não REFLETE a realidade — a CONSTRÓI. Analisar
+as palavras, metáforas e estruturas narrativas revela as relações
+de poder subjacentes.
+
+APLICAÇÃO TEIA:
+  - Analisar os discursos de parlamentares sobre tributação de bancos:
+    que PALAVRAS usam? ("segurança jurídica" = código para "não
+    mexer em bancos"; "responsabilidade fiscal" = código para
+    "cortar gasto social")
+  - Mapear a NARRATIVA dominante na mídia econômica sobre Selic
+  - Detectar FRAMES implícitos em reportagens
+
+PROPOSTA PRÁTICA:
+  - Corpus de discurso: coletar todos os discursos parlamentares
+    sobre temas TEIA (Hansard da Câmara) e analisar com NLP
+    (Python + NLTK/spaCy) para detectar frames dominantes
+
+------------------------------------------------------------------------
+MOD 2.3 — NARRATOLOGIA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO: toda campanha política bem-sucedida conta uma HISTÓRIA com
+herói, vilão, vítima e solução. Quem controla a narrativa, controla
+o voto.
+
+APLICAÇÃO TEIA:
+  NARRATIVA TEIA:
+    HERÓI: cidadão trabalhador que paga imposto
+    VILÃO: sistema financeiro + oligarquias políticas
+    VÍTIMA: povo brasileiro (pagador de juros, spread e Custo Brasil)
+    SOLUÇÃO: gestão eficiente + transparência + accountability
+
+  ESTRUTURA NARRATIVA:
+    ATO 1 (diagnóstico): "R$ 950 bi/ano some em juros"
+    ATO 2 (conflito): "quem lucra protege quem decide"
+    ATO 3 (resolução): "3 propostas que custam R$ 0"
+
+INSIGHT: o documentário "O Preço da Selic" (PKG-06) JÁ É uma
+narrativa com esta estrutura. Mas precisa ser EXPLICITADA como
+modelo para TODO conteúdo TEIA.
+
+
+================================================================================
+DIMENSÃO 3 — CIÊNCIA DA INFORMAÇÃO E REDES
+================================================================================
+O que explica: COMO a informação (e desinformação) se espalha na
+sociedade e COMO isto afeta decisões políticas.
+
+------------------------------------------------------------------------
+MOD 3.1 — MODELOS EPIDEMIOLÓGICOS DE DESINFORMAÇÃO
+------------------------------------------------------------------------
+CONCEITO: desinformação se espalha como DOENÇA. Modelos SIR
+(Suscetível-Infectado-Recuperado) podem modelar propagação de
+fake news em redes sociais.
+
+APLICAÇÃO TEIA:
+  - Modelar propagação de uma fake news ("vão confiscar sua poupança")
+    em rede social brasileira
+  - Identificar SUPER-DISSEMINADORES (contas que espalham mais)
+  - Calcular R₀ da desinformação (quantas pessoas uma fake news
+    infecta em média)
+  - Designar "imunização" (fact-check que bloqueia propagação)
+
+------------------------------------------------------------------------
+MOD 3.2 — AGENDA-SETTING (McCombs & Shaw, 1972)
+------------------------------------------------------------------------
+CONCEITO: a mídia não diz o que PENSAR. Diz no que PENSAR.
+A agenda midiática determina quais temas são considerados importantes.
+
+APLICAÇÃO TEIA:
+  - Monitorar AGENDA midiática: quais temas estão em destaque?
+    (Estadão, Folha, Globo, Metrópoles, Jornal Nacional)
+  - Comparar com AGENDA real: quais temas são importantes mas
+    NÃO estão na mídia? (custo fiscal da Selic, drenagem financeira)
+  - O TEIA é um AGENDA-SETTER alternativo: traz temas que a mídia
+    tradicional ignora
+
+------------------------------------------------------------------------
+MOD 3.3 — ESPIRAL DO SILÊNCIO (Noelle-Neumann, 1974)
+------------------------------------------------------------------------
+CONCEITO: pessoas silenciam opiniões que percebem como MINORITÁRIAS
+por medo de isolamento social. Isto cria uma ESPIRAL: quanto mais
+pessoas silenciam, mais a opinião parece minoritária, mais silenciam.
+
+APLICAÇÃO TEIA:
+  - O cidadão que pensa "juros altos são ruins para o país" pode
+    silenciar porque percebe (pela mídia) que "juros altos são
+    necessários" é a opinião dominante
+  - O TEIA QUEBRA a espiral dando VOZ e DADOS à opinião silenciada:
+    "você não está sozinho — 87% dos brasileiros pagam mais juros
+    do que recebem de benefícios"
+
+------------------------------------------------------------------------
+MOD 3.4 — NETWORK SCIENCE APLICADA À POLÍTICA
+------------------------------------------------------------------------
+CONCEITO: analisar a estrutura da rede de comunicação política —
+quem fala com quem, quem influencia quem, onde estão os buracos
+estruturais.
+
+APLICAÇÃO TEIA:
+  - Mapear rede de retuit/interação política brasileira
+  - Identificar brokers (pontos de ponte entre comunidades)
+  - Detectar contas artificiais (bots) na rede
+  - Identificar "buracos estruturais" (tópicos que nenhuma
+    comunicação conecta — onde o TEIA pode atuar como ponte)
+
+
+================================================================================
+DIMENSÃO 4 — FILOSOFIA POLÍTICA E TEORIA DO PODER
+================================================================================
+O que explica: o QUE É poder, como se exerce BEYOND da lei, e quais
+são os princípios éticos que fundamentam a intervenção.
+
+------------------------------------------------------------------------
+MOD 4.1 — FOUCAULT: PODER, SABER E GOVERNAMENTALIDADE
+------------------------------------------------------------------------
+CONCEITO: o poder não é algo que se TEM — é algo que se EXERCE.
+O poder está em toda parte (micropoderes), não apenas no Estado.
+Saber e poder se constituem mutuamente (power/knowledge).
+
+APLICAÇÃO TEIA:
+  - O poder do sistema financeiro não está apenas na lei — está no
+    SABER: bancos sabem mais sobre o cidadão do que o cidadão sabe
+    sobre bancos. A OPACIDADE é uma forma de poder (K7 do kernel).
+  - A Nota Técnica de Impacto Fiscal é uma ferramenta de INVERSÃO
+    de saber: democratiza o conhecimento que estava concentrado.
+  - A "governamentalidade" (Foucault): o modo como o Estado "conduz
+    a conduta" dos cidadãos. No Brasil, a condução é via DíVIDA:
+    o cidadão é conduzido pelo medo da inadimplência, pela necessidade
+    de crédito, pela ameaça de juros.
+
+INSIGHT: a transparência NÃO é apenas exposição de dados — é
+REDISTRIBUIÇÃO DE PODER. Quem tem informação tem poder. O TEIA
+democratiza informação = democratiza poder.
+
+------------------------------------------------------------------------
+MOD 4.2 — AMARTYA SEN: ABORDAGEM DAS CAPACIDADES
+------------------------------------------------------------------------
+CONCEITO: desenvolvimento não é PIB nem renda. É CAPACIDADE — a
+liberdade real que uma pessoa tem para levar a vida que valoriza.
+
+APLICAÇÃO TEIA:
+  - A qualidade de vida (TEIA-2026-027) deve ser medida por
+    CAPACIDADES, não apenas por renda:
+    * Capacidade de viver saudável (saúde acessível)
+    * Capacidade de aprender (educação de qualidade)
+    * Capacidade de participar (tempo livre, informação, voz política)
+    * Capacidade de morar dignamente (moradia + saneamento)
+    * Capacidade de se mover (mobilidade urbana)
+    * Capacidade de se expressar (liberdade + conectividade)
+  
+  - O spread bancário de 30% REDUZ a capacidade do MEI de investir
+    e crescer. NÃO é apenas custo financeiro — é redução de
+    CAPACIDADE HUMANA.
+
+INSIGHT: reformular o diagnóstico econômico em termos de
+CAPACIDADES transforma a narrativa de "custo" para "liberdade".
+Não é "o spread custa R$ X bi" — é "o spread impede que 14 milhões
+de MEIs tenham a liberdade de crescer".
+
+------------------------------------------------------------------------
+MOD 4.3 — HANNAH ARENDT: PODER VS VIOLÊNCIA
+------------------------------------------------------------------------
+CONCEITO: poder é a capacidade de agir em CONJUNTO (ação coletiva
+consensual). Violência é o oposto do poder — aparece quando o
+poder legitimo se desintegra.
+
+APLICAÇÃO TEIA:
+  - O TEIA exercita PODER (arendtiano): ação coletiva de cidadãos
+    que se organizam para mudar regras. NÃO usa violência.
+  - A captura política brasileira é uma CORRUPÇÃO do poder:
+    grupos pequenos agem em conjunto PARA SI, não para o coletivo.
+  - A restauração do poder legítimo requer que a AÇÃO COLETIVA
+    seja restaurada: cidadãos organizados, informados e mobilizados.
+
+------------------------------------------------------------------------
+MOD 4.4 — RAWLS: VEU DA IGNORÂNCIA
+------------------------------------------------------------------------
+CONCEITO: uma sociedade justa é aquela que as pessoas escolheriam
+se não soubessem quem seriam nela (posição social, raça, gênero,
+renda). "Véu da ignorância" como teste de justiça.
+
+APLICAÇÃO TEIA:
+  TESTE RAWLSIANO para cada proposta TEIA:
+  "Se você não soubesse se seria o banqueiro ou o MEI, aprovaria
+   o spread de 30%?"
+  "Se você não soubesse se seria o parlamentar ou o cidadão,
+   aprovaria o orçamento secreto?"
+  
+  Este teste é PODEROSO para comunicação pública: obriga o
+  interlocutor a se colocar no lugar do mais fraco.
+
+------------------------------------------------------------------------
+MOD 4.5 — HABERMAS: ESFERA PÚBLICA E AÇÃO COMUNICATIVA
+------------------------------------------------------------------------
+CONCEITO: a democracia requer uma ESFERA PÚBLICA onde cidadãos
+deliberam RACIONALMENTE sem coerção. Quando a esfera pública é
+capturada por interesses comerciais (mídia) ou desinformação
+(redes sociais), a democracia degenera.
+
+APLICAÇÃO TEIA:
+  - O TEIA é um INSTRUMENTO de restauração da esfera pública:
+    produz informação de qualidade, democratiza acesso a dados,
+    cria espaço para deliberação informada
+  - O diagnóstico de desinformação (TEIA-2026-034) é diagnóstico
+    de degeneração da esfera pública
+  - O documentário + TikTok + podcast são MÍDIAS de esfera pública
+    alternativa
+
+
+================================================================================
+DIMENSÃO 5 — GEOGRAFIA POLÍTICA E ANÁLISE ESPACIAL
+================================================================================
+O que explica: POR QUE o TERRITÓRIO determina o comportamento
+político e COMO a geografia cria desigualdade.
+
+------------------------------------------------------------------------
+MOD 5.1 — GEOGRAFIA ELEITORAL
+------------------------------------------------------------------------
+CONCEITO: o voto é condicionado pelo ESPAÇO. Regiões votam diferente
+não apenas por ideologia, mas por estrutura territorial: urbanização,
+acesso a serviços, densidade demográfica, isolamento geográfico.
+
+APLICAÇÃO TEIA:
+  - Mapear padrões de voto por MUNICÍPIO (mapa coroplético)
+  - Cruzar voto com: PIB per capita municipal, IDH-M, acesso a
+    internet, distância da capital, cobertura bancária
+  - Detectar "ilhas políticas": municípios que votam diferente
+    da região (anomalia territorial = possível captura eleitoral)
+
+------------------------------------------------------------------------
+MOD 5.2 — MODELO CENTRO-PERIFERIA
+------------------------------------------------------------------------
+CONCEITO: o desenvolvimento econômico se concentra no CENTRO
+(Sudeste) e drena a PERIFERIA (Norte/Nordeste). A "bomba de
+drenagem" do TEIA (Eixo 3 territorial) é uma manifestação deste modelo.
+
+APLICAÇÃO TEIA:
+  - Já diagnosticado no TEIA-2026-025, mas agora com FUNDAMENTAÇÃO
+    teórica: Wallerstein (world-systems), Myrdal (causação circular
+    cumulativa), Furtado (desenvolvimento subdesenvolvido)
+
+------------------------------------------------------------------------
+MOD 5.3 — GIS — SISTEMAS DE INFORMAÇÃO GEOGRÁFICA
+------------------------------------------------------------------------
+CONCEITO: visualizar dados políticos em MAPAS para detectar padrões
+espaciais invisíveis em tabelas.
+
+APLICAÇÃO TEIA:
+  - Mapa de calor de emendas por município (onde concentra?)
+  - Mapa de desmatamento cruzado com emendas rurais
+  - Mapa de cobertura bancária cruzado com spread regional
+  - Mapa de resultado eleitoral cruzado com doações
+  - FERRAMENTA: Python + geopandas + folium (interativo)
+
+
+================================================================================
+DIMENSÃO 6 — HISTÓRIA E HISTORIOGRAFIA
+================================================================================
+O que explica: POR QUE o presente é como é, analisando a longa duração.
+
+------------------------------------------------------------------------
+MOD 6.1 — LONGUE DURÉE (Braudel)
+------------------------------------------------------------------------
+CONCEITO: a história tem 3 tempos:
+  - CURTO PRAZO: eventos (eleições, crises, escândalos)
+  - MÉDIO PRAZO: conjunturas (ciclos econômicos, governos)
+  - LONGO PRAZO: estruturas (geografia, cultura, instituições)
+
+APLICAÇÃO TEIA:
+  - O diagnóstico TEIA é predominantemente de CURTO PRAZO
+    (dados 2024-2026). Precisa de análise de LONGO PRAZO:
+    POR QUE o Brasil tem a estrutura que tem?
+  
+  - A LONGA DURAÇÃO explica:
+    * Patrimonialismo: 500 anos (Colônia → Império → República)
+    * Desigualdade regional: 300 anos (ciclo do açúcar → café →
+      industrialização concentrada)
+    * Captura financeira: 100 anos (dívida pública desde a República
+      Velha)
+    * Sistema eleitoral: 80 anos (desde Vargas)
+  
+  INSIGHT: reformas de curto prazo (uma lei, uma portaria) não
+  mudam estruturas de longa duração. MAS podem criar PONTOS DE
+  INFLEXÃO (critical junctures) que, acumulados, mudam a trajetória.
+
+------------------------------------------------------------------------
+MOD 6.2 — COMPARATIVE HISTORICAL ANALYSIS (CHA)
+------------------------------------------------------------------------
+CONCEITO: comparar casos históricos para identificar causalidade
+(não apenas correlação). "Process tracing" rastreia a cadeia causal.
+
+APLICAÇÃO TEIA:
+  - Comparar reformas de gestão de dívida que FUNCIONARAM
+    (México M-bonos, Chile regra fiscal, Colômbia) com as que
+    FALHARAM (Argentina default, Grécia)
+  - Identificar QUAL fator determinou sucesso vs fracasso
+  - Aplicar a lição ao caso brasileiro
+
+------------------------------------------------------------------------
+MOD 6.3 — HISTÓRIA DO TEMPO PRESENTE
+------------------------------------------------------------------------
+CONCEITO: usar métodos históricos para analisar eventos recentes
+(pós-1980) com rigor de arquivo.
+
+APLICAÇÃO TEIA:
+  - Arquivar e analisar a cronologia completa da captura política
+    brasileira (1990-2026): quem fez o quê, quando
+  - Documentário TEIA = história do tempo presente
+  - Git versionado = arquivo histórico
+
+
+================================================================================
+DIMENSÃO 7 — ECONOMIA POLÍTICA INTERNACIONAL (EPI)
+================================================================================
+O que explica: como o sistema internacional afeta a política brasileira.
+
+------------------------------------------------------------------------
+MOD 7.1 — TEORIA DA DEPENDÊNCIA (Furtado, Cardoso, Marini)
+------------------------------------------------------------------------
+CONCEITO: o subdesenvolvimento não é atraso — é produto da inserção
+do país na economia global como fornecedor de commodities.
+
+APLICAÇÃO TEIA:
+  - O Brasil como exportador de commodities (soja, minério, petróleo)
+    E importador de tecnologia (Big Tech, chips, software)
+  - Os R$ 10 bi gastas com Big Tech = transferência de renda para
+    o CENTRO do sistema global (EUA, China)
+  - A drenagem financeira inter-regional (N/NE → Sudeste) é
+    REFLEXO da drenagem global (Brasil → exterior)
+
+------------------------------------------------------------------------
+MOD 7.2 — REGIMES INTERNACIONAIS (Krasner; Keohane)
+------------------------------------------------------------------------
+CONCEITO: o sistema internacional tem "regimes" (conjuntos de regras)
+que governam áreas específicas (comércio, finanças, ambiente).
+
+APLICAÇÃO TEIA:
+  - OCDE: regime de boas práticas de governança
+  - FATF: regime de combate a lavagem de dinheiro
+  - OMC: regime de comércio
+  - Paris/BASE: regime climático
+  - O TEIA usa estes regimes como ALAVANCA: "se o Brasil quer entrar
+    na OCDE, precisa implementar transparência"
+
+
+================================================================================
+DIMENSÃO 8 — ECONOMIA COMPORTAMENTAL DA POLÍTICA (PUBLIC CHOICE)
+================================================================================
+O que explica: por que políticos e burocratas agem em PRÓPRIO interesse
+mesmo quando deveriam agir pelo público.
+
+------------------------------------------------------------------------
+MOD 8.1 — TEORIA DA ESCOLHA PÚBLICA (Buchanan & Tullock; Downs)
+------------------------------------------------------------------------
+CONCEITO: políticos NÃO são servidores públicos altruístas. São
+agentes racionais que maximizam UTILIDADE PRÓPRIA (reeleição, poder,
+riqueza), exatamente como consumidores maximizam utilidade no mercado.
+
+APLICAÇÃO TEIA:
+  - Os 9 axiomas do kernel SOPBRA são MANIFESTAÇÕES de public choice:
+    K1 (pauta) = maximização de poder
+    K2 (orçamento) = maximização de reeleição
+    K5 (patrimônio familiar) = maximização de riqueza
+  - NÃO surpreende que políticos capturem o sistema — isto é o
+    RESULTADO ESPERADO de agentes racionais sem adequados incentivos.
+  - A SOLUÇÃO não é eleger "pessoas melhores" — é mudar os INCENTIVOS
+    (accountability, transparência, consequência)
+
+------------------------------------------------------------------------
+MOD 8.2 — RENT-SEEKING (Tullock, 1967; Krueger, 1974)
+------------------------------------------------------------------------
+CONCEITO: rent-seeking é gastar recursos para CAPTURAR uma parcela
+da riqueza existente (em vez de criar nova riqueza). Lobby é
+rent-seeking. Captura regulatória é rent-seeking.
+
+APLICAÇÃO TEIA:
+  - A Febraban gastando R$ 200-300 mi/ano em lobby = rent-seeking
+  - Obras superfaturadas = rent-seeking
+  - Emendas que voltam como caixa 2 = rent-seeking
+  - O CUSTO SOCIAL do rent-seeking no Brasil é estimado em
+    5-10% do PIB (R$ 585 bi a R$ 1,17 tri/ano)
+
+INSIGHT: o TEIA é uma resposta ao rent-seeking. Não produz
+rente — produz TRANSPARÊNCIA que dificulta a captura de renda.
+
+
+================================================================================
+DIMENSÃO 9 — PSICOLOGIA SOCIAL E DINÂMICA DE GRUPOS
+------------------------------------------------------------------------
+O que explica: COMO grupos se formam, conformam e polarizam.
+
+------------------------------------------------------------------------
+MOD 9.1 — IDENTIDADE SOCIAL (Tajfel & Turner, 1979)
+------------------------------------------------------------------------
+CONCEITO: pessoas derivam sua identidade dos grupos a que pertencem.
+Para manter autoestima, favorecem o PRÓPRIO grupo (in-group favoritism)
+e discriminam o grupo de fora (out-group derogation).
+
+APLICAÇÃO TEIA:
+  - A polarização brasileira NÃO é apenas ideológica — é IDENTITÁRIA.
+    "Esquerda" e "direita" se tornaram IDENTIDADES, não posições.
+  - Mudar opinião política = mudar IDENTIDADE = extremamente custoso
+    psicologicamente
+  - O TEIA deve NÃO atacar identidade. Deve criar uma IDENTIDADE
+    NOVA: "gestor responsável" (transversal a esquerda/direita)
+
+------------------------------------------------------------------------
+MOD 9.2 — CONFORMIDADE (Asch, 1956) E OBEDIÊNCIA (Milgram, 1963)
+------------------------------------------------------------------------
+CONCEITO: Asch mostrou que 75% das pessoas conformam com a maioria
+mesmo sabendo que está errada. Milgram mostrou que 65% obedecem
+ordens de autoridade mesmo causando dano.
+
+APLICAÇÃO TEIA:
+  - Por que parlamentares votam com a bancada mesmo discordando?
+    CONFORMIDADE (Asch). O custo de discordar é exclusão do grupo.
+  - Por que servidores executam ordens irregulares?
+    OBEDIÊNCIA à autoridade (Milgram). "Estou só seguindo ordens."
+  - O TEIA precisa criar PROTEÇÃO para quem discorda:
+    whistleblower protection + anonimato + recompensa
+
+------------------------------------------------------------------------
+MOD 9.3 — POLARIZAÇÃO DE GRUPO (Sunstein; Tajfel)
+------------------------------------------------------------------------
+CONCEITO: quando pessoas similares conversam entre si, suas posições
+se TORNAM MAIS EXTREMAS. "Câmaras de eco" amplificam extremos.
+
+APLICAÇÃO TEIA:
+  - WhatsApp groups politicamente homogêneos → polarização extrema
+  - Algoritmos de recomendação amplificam isto (echo chambers)
+  - O TEIA precisa ATINGIR câmaras de eco opostas: não pregar
+    para convertidos, mas penetrar bolhas adversárias
+
+
+================================================================================
+DIMENSÃO 10 — CIBERNÉTICA E TEORIA DE SISTEMAS COMPLEXOS
+================================================================================
+O que explica: como o sistema político brasileiro funciona como
+SISTEMA ADAPTATIVO COMPLEXO com feedback loops.
+
+------------------------------------------------------------------------
+MOD 10.1 — SYSTEM DYNAMICS (Forrester; Meadows)
+------------------------------------------------------------------------
+CONCEITO: sistemas complexos têm loops de feedback (positivo e
+negativo) que produzem comportamento não-linear. Pequenas mudanças
+podem ter grandes efeitos (pontos de alavancca).
+
+APLICAÇÃO TEIA:
+  LOOP POSITIVO (reforço — sistema captura mais):
+    + Juros altos → despesa de juros sobe → Orçamento aperta
+    → austeridade → baixo crescimento → baixa arrecadação
+    → pressão fiscal → risco-país sobe → juros altos (+)
+
+  LOOP NEGATIVO (balanceamento — sistema se corrige):
+    + Escândalo → CPI → exposição pública → pressão eleitoral
+    → parlamentar muda voto → reforma aprovada → menos captura (-)
+
+  PONTO DE ALAVANCA (Meadows):
+    O ponto mais poderoso de intervenção num sistema é mudar o
+    PARADIGMA (as regras mentais que governam o sistema).
+    
+    No Brasil: o paradigma é "política é negócio". Mudar para
+    "política é gestão" é o ponto de alavanca definitivo.
+    É o que o TEIA faz ao reframing a narrativa.
+
+------------------------------------------------------------------------
+MOD 10.2 — TEORIA DO CAOS E EFEITO BORBOLETA
+------------------------------------------------------------------------
+CONCEITO: em sistemas complexos, pequenas variações nas condições
+iniciais produzem resultados dramaticamente diferentes.
+
+APLICAÇÃO TEIA:
+  - Um TikTok viral pode desencadear CPI (efeito borboleta)
+  - Uma petição ao CNJ pode digitalizar 13.233 cartórios
+  - Uma Nota Técnica pode mudar a narrativa fiscal do país
+  
+  INSIGHT: o TEIA não precisa de grandeza — precisa de PRECISÃO.
+  Atingir o ponto certo de alavanca no momento certo.
+
+
+================================================================================
+MATRIZ INTEGRADA v3.1 — 10 DIMENSÕES × PERGUNTA × INSTRUMENTO
+================================================================================
+
+DIMENSÃO              | PERGUNTA                           | INSTRUMENTO
+----------------------|------------------------------------|----------------------
+1. Psicologia cognitiva| Por que decide irracionalmente?   | Kahneman, Nudge
+2. Discurso/Linguagem  | Como a linguagem controla?        | Framing, análise discurso
+3. Ciência informação  | Como a info se espalha?           | SIR, agenda-setting
+4. Filosofia política  | O que é poder/justiça?            | Foucault, Sen, Rawls
+5. Geografia política  | Por que o espaço determina?       | GIS, centro-periferia
+6. História            | Por que o presente é assim?       | Longue durée, CHA
+7. EPI                 | Como o mundo afeta o Brasil?      | Dependência, regimes
+8. Public choice       | Por que capturam?                 | Rent-seeking, Buchanan
+9. Psicologia social   | Por que polariza?                 | Identidade, conformidade
+10. Sistemas complexos | Como o sistema se auto-regula?    | System dynamics, caos
+
+
+================================================================================
+PROTOCOLO DE QUALIDADE v3.1 (20 itens)
+================================================================================
+
+[ ] 1.  FACT-CHECK (fonte primária)
+[ ] 2.  CORRENTE DE EVIDÊNCIA (nível A/B/C)
+[ ] 3.  Z-SCORE de anomalias
+[ ] 4.  HIPÓTESES ALTERNATIVAS (ACH)
+[ ] 5.  PREMISSAS-CHAVE testadas
+[ ] 6.  MONTE CARLO com distribuições
+[ ] 7.  CORRELAÇÃO entre atores
+[ ] 8.  STRESS TESTING
+[ ] 9.  TEORIA POLÍTICA aplicada
+[ ] 10. TEORIA SOCIOLÓGICA aplicada
+[ ] 11. PERFIL ETNOGRÁFICO
+[ ] 12. ARTIGO CONSTITUCIONAL
+[ ] 13. TIPO PENAL
+[ ] 14. INSTRUMENTO PROCESSUAL
+[ ] 15. PRESUNÇÃO DE INOCÊNCIA
+
+NOVOS v3.1:
+[ ] 16. FRAMING: qual frame domina? Qual alternativa?
+[ ] 17. SISTEMA 1 vs SISTEMA 2: para qual está produzindo?
+[ ] 18. IMPACTO TERRITORIAL: onde cai geograficamente?
+[ ] 19. LOOP DE FEEDBACK: reforça ou quebra captura?
+[ ] 20. TESTE RAWLSIANO: aprovaria sob véu da ignorância?
+
+
+================================================================================
+RESUMO: O QUE CADA DIMENSÃO ADICIONA QUE NENHUMA OUTRA TEM
+================================================================================
+
+PSICOLOGIA: explica a irracionalidade (todo o resto assume racionalidade)
+DISCURSO: explica o controle semântico (todo o resto assume linguagem neutra)
+INFO/REDES: explica a propagação (todo o resto assume informação estática)
+FILOSOFIA: explica o PODER além da lei (todo o resto assume Estado legal)
+GEOGRAFIA: explica o espaço (todo o resto assume território homogêneo)
+HISTÓRIA: explica a origem (todo o resto assume presente sem passado)
+EPI: explica o externo (todo o resto assume país isolado)
+PUBLIC CHOICE: explica a captura endógena (todo o resto assume boa fé)
+PSICOLOGIA SOCIAL: explica o grupo (todo o resto assume indivíduo)
+SISTEMAS: explica a complexidade (todo o resto assume linearidade)
+
+Cada uma FECHA uma lacuna que as demais não cobrem.
+Juntas, formam um SISTEMA ANALÍTICO COMPLETO.
+
+================================================================================
+FIM — TEIA Framework v3.1
+================================================================================
+Protocolo: TEIA-2026-046
+https://github.com/mouracleiton/TEIA
+================================================================================

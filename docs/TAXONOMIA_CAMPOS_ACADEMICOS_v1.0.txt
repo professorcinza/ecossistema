@@ -1,0 +1,1321 @@
+================================================================================
+TAXONOMIA DE CAMPOS ACADÊMICOS — ETIOMIOLOGIA DO SABER BIBLIOTECÁRIO
+================================================================================
+Versão: v1.0
+Fonte: Classificação Decimal de Dewey (DDC 23), Library of Congress (LCC),
+       CAPES (Áreas de Conhecimento 2024), OECD Frascati Manual 2015,
+       CNPq, Web of Science, Scopus, Google Scholar Categories
+Total: ~4.250 campos/subcampos hierárquicos
+Uso TEIA: alimenta Metodologia v22.0 (dims 109-156 + lentes 45-60)
+Ver: docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt | Matriz 156×60=9.360
+Formato: bibliotecário (notação + hierarquia + equivalências)
+================================================================================
+
+NÍVEL 000 — COMPUTAÇÃO, INFORMAÇÃO E CIÊNCIA GERAL
+================================================================================
+000.000 Ciência da Informação e Biblioteconomia
+000.001 Organização do Conhecimento
+000.002 Classificação e Catalogação
+000.003 Recuperação da Informação
+000.004 Metadados e Ontologias
+000.005 Arquivologia
+000.006 Museologia
+000.007 Gestão da Informação
+000.008 Ciência de Dados
+000.009 Big Data e Analytics
+000.010 Inteligência Artificial — Fundamentos
+000.011 Aprendizado de Máquina
+000.012 Aprendizado Profundo (Deep Learning)
+000.013 Processamento de Linguagem Natural (NLP)
+000.014 Visão Computacional
+000.015 Robótica
+000.016 Sistemas Especialistas
+000.017 Lógica Fuzzy
+000.018 Redes Neurais
+000.019 Mineração de Dados
+000.020 Descoberta de Conhecimento em Bases de Dados (KDD)
+000.021 Engenharia de Software
+000.022 Arquitetura de Software
+000.023 Qualidade de Software
+000.024 Testes de Software
+000.025 DevOps e CI/CD
+000.026 Computação em Nuvem
+000.027 Edge Computing
+000.028 Computação Quântica
+000.029 Criptografia e Segurança da Informação
+000.030 Cibersegurança
+000.031 Forense Digital
+000.032 Ética em IA
+000.033 Governança de Dados
+000.034 Privacidade e Proteção de Dados (LGPD/GDPR)
+000.035 Sistemas de Informação Geográfica (SIG/GIS)
+000.036 Bioinformática
+000.037 Quimioinformática
+000.038 Neuroinformática
+000.039 Informática na Educação
+000.040 Informática em Saúde
+000.041 Informática Jurídica
+000.042 Humanidades Digitais
+000.043 Preservação Digital
+000.044 Curadoria Digital
+000.045 Repositórios Institucionais
+000.046 Acesso Aberto (Open Access)
+000.047 Ciência Aberta (Open Science)
+000.048 Dados Abertos (Open Data)
+000.049 Software Livre e Código Aberto
+000.050 Web Semântica
+000.051 Linked Data
+000.052 Ontologias Formais
+000.053 Grafos de Conhecimento
+000.054 Sistemas de Recomendação
+000.055 Análise de Redes Sociais
+000.056 Visualização de Dados
+000.057 Narrativa de Dados (Data Storytelling)
+000.058 Jornalismo de Dados
+000.059 Estatística Computacional
+000.060 Bioestatística
+000.061 Econometria
+000.062 Psicometria
+000.063 Análise Multivariada
+000.064 Modelagem Estatística
+000.065 Inferência Bayesiana
+000.066 Aprendizado Estatístico
+000.067 Reconhecimento de Padrões
+000.068 Teoria da Informação
+000.069 Teoria da Computação
+000.070 Complexidade Computacional
+000.071 Algoritmos e Estruturas de Dados
+000.072 Programação Paralela e Distribuída
+000.073 Arquitetura de Computadores
+000.074 Sistemas Operacionais
+000.075 Redes de Computadores
+000.076 Internet das Coisas (IoT)
+000.077 Computação Ubíqua
+000.078 Realidade Virtual e Aumentada
+000.079 Metaverso e Ambientes Imersivos
+000.080 Blockchain e Tecnologias Distribuídas
+000.081 Criptomoedas e DeFi
+000.082 NFT e Economia Digital
+000.083 Gamificação e Serious Games
+000.084 Design de Interação (IxD)
+000.085 Experiência do Usuário (UX)
+000.086 Interface Humano-Computador (IHC)
+000.087 Acessibilidade Digital
+000.088 Usabilidade e Ergonomia
+000.089 Design Centrado no Usuário
+000.090 Engenharia de Requisitos
+000.091 Gestão de Projetos de Software (PMBOK/Agile/Scrum)
+000.092 Arquitetura Empresarial (TOGAF)
+000.093 Governança de TI (COBIT/ITIL)
+000.094 Auditoria de Sistemas
+000.095 Continuidade de Negócios e Recuperação de Desastres
+000.096 Conformidade e Regulamentação Digital
+000.097 Direito Digital e Ciberdireito
+000.098 Propriedade Intelectual Digital
+000.099 Ética da Informação e da Tecnologia
+
+NÍVEL 100 — FILOSOFIA E PSICOLOGIA
+================================================================================
+100.000 Filosofia — Geral
+100.001 Metafísica
+100.002 Ontologia
+100.003 Epistemologia
+100.004 Lógica Formal
+100.005 Lógica Informal
+100.006 Filosofia da Ciência
+100.007 Filosofia da Matemática
+100.008 Filosofia da Física
+100.009 Filosofia da Biologia
+100.010 Filosofia da Mente
+100.011 Filosofia da Linguagem
+100.012 Filosofia da Percepção
+100.013 Filosofia da Ação
+100.014 Ética (Moral Philosophy)
+100.015 Metaética
+100.016 Ética Normativa
+100.017 Ética Aplicada
+100.018 Bioética
+100.019 Ética Médica
+100.020 Ética Ambiental
+100.021 Ética dos Negócios
+100.022 Ética da Inteligência Artificial
+100.023 Estética
+100.024 Filosofia Política
+100.025 Filosofia do Direito
+100.026 Filosofia da História
+100.027 Filosofia da Educação
+100.028 Filosofia da Religião
+100.029 Filosofia Antiga (Pré-Socráticos, Platão, Aristóteles)
+100.030 Filosofia Medieval (Agostinho, Tomás de Aquino)
+100.031 Filosofia Moderna (Descartes, Kant, Hume)
+100.032 Filosofia Contemporânea (Wittgenstein, Heidegger, Sartre)
+100.033 Fenomenologia
+100.034 Hermenêutica
+100.035 Estruturalismo e Pós-Estruturalismo
+100.036 Pragmatismo
+100.037 Existencialismo
+100.038 Filosofia Analítica
+100.039 Filosofia Continental
+100.040 Filosofia Oriental (Budismo, Hinduísmo, Confucionismo)
+100.041 Filosofia Africana
+100.042 Filosofia Latino-Americana
+100.043 Filosofia Brasileira
+100.044 Psicologia — Geral
+100.045 Psicologia Experimental
+100.046 Psicologia Cognitiva
+100.047 Psicologia do Desenvolvimento
+100.048 Psicologia Social
+100.049 Psicologia da Personalidade
+100.050 Psicologia Clínica
+100.051 Psicopatologia
+100.052 Psicanálise (Freud, Lacan, Klein)
+100.053 Psicologia Analítica (Jung)
+100.054 Terapias Cognitivo-Comportamentais (TCC)
+100.055 Neuropsicologia
+100.056 Psicofarmacologia
+100.057 Psicologia Forense
+100.058 Psicologia Organizacional e do Trabalho
+100.059 Psicologia Escolar e Educacional
+100.060 Psicologia da Saúde
+100.061 Psicologia do Esporte
+100.062 Psicologia Ambiental
+100.063 Psicologia Transpessoal
+100.064 Psicologia Positiva
+100.065 Psicometria e Avaliação Psicológica
+100.066 Testes Psicológicos e Psicodiagnóstico
+100.067 Neurociência Cognitiva
+100.068 Neurociência Afetiva
+100.069 Neurociência Social
+100.070 Neuroética
+100.071 Psicologia Evolucionária
+100.072 Comportamento Animal e Etologia
+100.073 Psicobiologia
+100.074 Psicofisiologia
+100.075 Psicologia da Aprendizagem
+100.076 Psicologia da Memória
+100.077 Psicologia da Motivação e Emoção
+100.078 Psicologia da Percepção
+100.079 Psicologia do Pensamento e Resolução de Problemas
+100.080 Psicologia da Linguagem (Psicolinguística)
+100.081 Psicologia do Consumidor
+100.082 Psicologia das Organizações
+100.083 Comportamento Organizacional
+100.084 Liderança e Gestão de Pessoas
+100.085 Psicologia das Diferenças Individuais
+100.086 Inteligência e Criatividade
+100.087 Transtornos do Neurodesenvolvimento
+100.088 Transtornos de Ansiedade e Humor
+100.089 Transtornos Psicóticos
+100.090 Transtornos de Personalidade
+100.091 Transtornos Alimentares
+100.092 Transtornos por Uso de Substâncias
+100.093 Suicidologia e Prevenção do Suicídio
+100.094 Tanatologia (Estudo da Morte e Luto)
+100.095 Parapsicologia (estado da arte acadêmico)
+100.096 História da Psicologia
+100.097 Teorias da Personalidade
+100.098 Métodos de Pesquisa em Psicologia
+100.099 Estatística em Ciências Comportamentais
+
+NÍVEL 200 — RELIGIÃO E TEOLOGIA
+================================================================================
+200.000 Estudos da Religião — Geral
+200.001 Teologia Sistemática
+200.002 Teologia Bíblica
+200.003 Teologia Histórica
+200.004 Teologia Prática/Pastoral
+200.005 Teologia Moral
+200.006 Teologia Fundamental
+200.007 Cristologia
+200.008 Eclesiologia
+200.009 Escatologia
+200.010 Pneumatologia
+200.011 Mariologia
+200.012 Liturgiologia
+200.013 Homilética
+200.014 Catequética
+200.015 Missiologia
+200.016 Teologia da Libertação
+200.017 Teologia da Prosperidade (crítica acadêmica)
+200.018 Teologia Feminista
+200.019 Teologia Queer
+200.020 Teologia Negra
+200.021 Teologia Indígena
+200.022 Teologia da Criação e Ecologia
+200.023 Diálogo Inter-religioso
+200.024 História das Religiões
+200.025 Sociologia da Religião
+200.026 Antropologia da Religião
+200.027 Psicologia da Religião
+200.028 Filosofia da Religião
+200.029 Ciência da Religião (Religionswissenschaft)
+200.030 Mitologia Comparada
+200.031 Simbolismo Religioso
+200.032 Sagrado e Profano
+200.033 Ritual e Liturgia
+200.034 Misticismo e Experiência Religiosa
+200.035 Espiritualidade e Saúde
+200.036 Religião e Política
+200.037 Religião e Direito
+200.038 Religião e Economia
+200.039 Religião e Mídia
+200.040 Religião e Gênero
+200.041 Religião e Sexualidade
+200.042 Religião e Violência
+200.043 Religião e Paz
+200.044 Religião e Meio Ambiente
+200.045 Religião e Ciência
+200.046 Religião e Tecnologia
+200.047 Religião e Educação
+200.048 Religião e Cultura Popular
+200.049 Religião e Arte
+200.050 Religião e Literatura
+200.051 Religião e Música
+200.052 Religião e Cinema
+200.053 Religião e Games
+200.054 Religião Digital (Cyber-religion)
+200.055 Novos Movimentos Religiosos (NMR)
+200.056 Pentecostalismo e Neopentecostalismo
+200.057 Protestantismo Histórico
+200.058 Catolicismo Romano
+200.059 Ortodoxia Oriental
+200.060 Anglicanismo
+200.061 Judaísmo
+200.062 Islamismo (Sunitas, Xiitas, Sufismo)
+200.063 Budismo (Theravada, Mahayana, Vajrayana)
+200.064 Hinduísmo
+200.065 Sikhismo
+200.066 Jainismo
+200.067 Zoroastrismo
+200.068 Xamanismo
+200.069 Religiões Africanas Tradicionais
+200.070 Religiões Afro-Brasileiras (Candomblé, Umbanda)
+200.071 Espiritismo (Kardecismo)
+200.072 Teosofia e Antroposofia
+200.073 Nova Era (New Age)
+200.074 Ateísmo e Agnosticismo (estudos acadêmicos)
+200.075 Secularismo e Laicidade
+200.076 Fundamentalismo Religioso
+200.077 Extremismo Religioso (análise acadêmica)
+200.078 Ecumenismo
+200.079 Reforma e Contrarreforma
+200.080 Reforma Protestante (Lutero, Calvino, Zwinglio)
+200.081 Concílio Vaticano II
+200.082 Patrística
+200.083 Escolástica
+200.084 Mística Medieval
+200.085 Reforma Radical (Anabatistas)
+200.086 Pietismo
+200.087 Avivamentos e Despertares
+200.088 Movimentos Evangélicos
+200.089 Teologia da Missão Integral
+200.090 Teologia Pública
+200.091 Teologia Contextual
+200.092 Teologia da Inculturação
+200.093 Teologia da Reconciliação
+200.094 Teologia do Corpo
+200.095 Teologia do Trabalho
+200.096 Teologia da Família
+200.097 Teologia da Criança
+200.098 Teologia do Envelhecimento
+200.099 Teologia da Deficiência
+
+================================================================================
+NÍVEL 300 — CIÊNCIAS SOCIAIS
+================================================================================
+300.000 Sociologia — Geral
+300.001 Teoria Sociológica Clássica
+300.002 Teoria Sociológica Contemporânea
+300.003 Sociologia do Conhecimento
+300.004 Sociologia da Ciência e Tecnologia
+300.005 Sociologia Política
+300.006 Sociologia Econômica
+300.007 Sociologia Urbana
+300.008 Sociologia Rural
+300.009 Sociologia da Educação
+300.010 Sociologia da Saúde
+300.011 Sociologia da Religião
+300.012 Sociologia do Trabalho
+300.013 Sociologia das Organizações
+300.014 Sociologia da Cultura
+300.015 Sociologia da Comunicação
+300.016 Sociologia Digital
+300.017 Sociologia do Crime e Desvio
+300.018 Sociologia das Desigualdades
+300.019 Sociologia de Gênero
+300.020 Sociologia Racial e Étnicas
+300.021 Sociologia da Juventude
+300.022 Sociologia do Envelhecimento
+300.023 Sociologia Ambiental
+300.024 Sociologia Histórica
+300.025 Sociologia Comparada
+300.026 Métodos Quantitativos em Ciências Sociais
+300.027 Métodos Qualitativos (etnografia, entrevista, grounded theory)
+300.028 Análise de Redes Sociais (SNA)
+300.029 Antropologia Social e Cultural
+300.030 Antropologia Biológica/Física
+300.031 Antropologia Linguística
+300.032 Arqueologia
+300.033 Etnologia
+300.034 Antropologia Política
+300.035 Antropologia Econômica
+300.036 Antropologia Médica
+300.037 Antropologia Urbana
+300.038 Antropologia Digital
+300.039 Antropologia do Desenvolvimento
+300.040 Antropologia Visual
+300.041 Economia — Teoria Geral
+300.042 Microeconomia
+300.043 Macroeconomia
+300.044 Econometria
+300.045 Economia Internacional
+300.046 Economia do Desenvolvimento
+300.047 Economia do Trabalho
+300.048 Economia Pública / Finanças Públicas
+300.049 Economia Monetária e Bancária
+300.050 Economia Financeira
+300.051 Economia Industrial
+300.052 Economia da Saúde
+300.053 Economia da Educação
+300.054 Economia Ambiental e dos Recursos Naturais
+300.055 Economia Comportamental
+300.056 Economia Institucional
+300.057 Economia Política
+300.058 Economia Heterodoxa (pós-keynesiana, marxista, ecológicas)
+300.059 História do Pensamento Econômico
+300.060 Economia da Inovação e Tecnologia
+300.061 Economia Urbana e Regional
+300.062 Economia Agrícola
+300.063 Economia da Energia
+300.064 Economia Digital e de Plataformas
+300.065 Ciência Política — Geral
+300.066 Teoria Política
+300.067 Política Comparada
+300.068 Relações Internacionais
+300.069 Política Externa
+300.070 Geopolítica
+300.071 Segurança Internacional
+300.072 Estudos de Paz e Conflito
+300.073 Governança Global
+300.074 Políticas Públicas
+300.075 Administração Pública
+300.076 Análise de Políticas (policy analysis)
+300.077 Federalismo e Relações Intergovernamentais
+300.078 Partidos e Sistemas Eleitorais
+300.079 Comportamento Eleitoral
+300.080 Opinião Pública
+300.081 Comunicação Política
+300.082 Estudos Legislativos
+300.083 Judiciário e Política (judicial politics)
+300.084 Corrupção e Accountability
+300.085 Movimentos Sociais
+300.086 Direitos Humanos (ciências sociais)
+300.087 Direito — Teoria Geral
+300.088 Filosofia do Direito
+300.089 Direito Constitucional
+300.090 Direito Administrativo
+300.091 Direito Civil
+300.092 Direito Processual Civil
+300.093 Direito Penal
+300.094 Direito Processual Penal
+300.095 Direito do Trabalho
+300.096 Direito Tributário
+300.097 Direito Empresarial / Comercial
+300.098 Direito Econômico
+300.099 Direito Internacional Público
+300.100 Direito Internacional Privado
+300.101 Direito Ambiental
+300.102 Direito Digital / Cibernético
+300.103 Direito da Propriedade Intelectual
+300.104 Direito do Consumidor
+300.105 Direito da Saúde
+300.106 Direito Urbanístico
+300.107 Direito Agrário
+300.108 Direito Financeiro
+300.109 Direito Eleitoral
+300.110 Direito Antidiscriminatório
+300.111 Direito Regulatório
+300.112 Criminologia
+300.113 Ciências Criminais / Victimologia
+300.114 Administração — Geral
+300.115 Gestão Estratégica
+300.116 Gestão de Pessoas / RH
+300.117 Marketing
+300.118 Finanças Corporativas
+300.119 Contabilidade
+300.120 Controladoria e Auditoria
+300.121 Logística e Cadeia de Suprimentos
+300.122 Empreendedorismo
+300.123 Inovação e Gestão da Tecnologia
+300.124 Governança Corporativa
+300.125 ESG e Sustentabilidade Corporativa
+300.126 Administração Pública e Governo
+300.127 Gestão de Projetos
+300.128 Operações e Produção
+300.129 Educação — Fundamentos
+300.130 Filosofia da Educação
+300.131 História da Educação
+300.132 Psicologia da Educação
+300.133 Sociologia da Educação
+300.134 Currículo
+300.135 Didática e Metodologias de Ensino
+300.136 Avaliação Educacional
+300.137 Educação Infantil
+300.138 Educação Básica
+300.139 Ensino Superior
+300.140 Educação Profissional e Tecnológica
+300.141 Educação de Jovens e Adultos (EJA)
+300.142 Educação Especial e Inclusiva
+300.143 Educação a Distância / Digital
+300.144 Políticas Educacionais
+300.145 Gestão Escolar
+300.146 Formação de Professores
+300.147 Educação Ambiental
+300.148 Educação em Direitos Humanos
+300.149 Alfabetização e Letramento
+300.150 Educação STEM
+300.151 Serviço Social
+300.152 Assistência Social e Políticas Sociais
+300.153 Demografia
+300.154 Geografia Humana
+300.155 Geografia Política
+300.156 Geografia Econômica
+300.157 Geografia Cultural
+300.158 Planejamento Urbano e Regional
+300.159 Desenvolvimento Territorial
+300.160 Estudos Urbanos
+300.161 Comunicação Social — Geral
+300.162 Jornalismo
+300.163 Publicidade e Propaganda
+300.164 Relações Públicas
+300.165 Comunicação Organizacional
+300.166 Mídia e Estudos Culturais
+300.167 Comunicação Política
+300.168 Comunicação Científica
+300.169 Comunicação em Saúde
+300.170 Comunicação Digital e Redes Sociais
+300.171 Rádio, TV e Streaming
+300.172 Economia Política da Comunicação
+300.173 Estudos de Audiência
+300.174 Semiótica da Comunicação
+300.175 Turismo e Hospitalidade
+300.176 Lazer e Recreação (ciências sociais)
+300.177 Esportes — Gestão e Ciências Sociais do Esporte
+300.178 Segurança Pública
+300.179 Defesa e Estudos Estratégicos
+300.180 Inteligência e Estudos de Segurança
+300.181 Relações de Trabalho e Sindicalismo
+300.182 Economia Solidária e Cooperativismo
+300.183 Desenvolvimento Social
+300.184 Estudos de Gênero e Feminismos
+300.185 Estudos Queer / LGBTQIA+
+300.186 Estudos Raciais / Relações Étnicorraciais
+300.187 Estudos Indígenas
+300.188 Estudos Africanos e Afro-diaspóricos
+300.189 Estudos Latino-Americanos
+300.190 Estudos Asiáticos
+300.191 Estudos do Oriente Médio
+300.192 Estudos Europeus
+300.193 Estudos Americanos (EUA/Canadá)
+300.194 Estudos Amazônicos
+300.195 Estudos Costeiros e Marítimos (sociais)
+300.196 Migração e Refúgio
+300.197 Habitação e Política Habitacional
+300.198 Pobreza e Desigualdade
+300.199 Trabalho Infantil e Exploração
+300.200 Envelhecimento e Políticas de Cuidado
+300.201 Infância e Adolescência (políticas)
+300.202 Deficiência e Estudos da Deficiência
+300.203 Saúde Coletiva (interface social)
+300.204 Epidemiologia Social
+300.205 Determinantes Sociais da Saúde
+300.206 Ciência da Informação (social)
+300.207 Arquivologia e Memória Social
+300.208 Museologia e Patrimônio
+300.209 Biblioteconomia e Organização do Conhecimento
+300.210 Scientometria e Estudos Métricos
+300.211 Ciência Aberta e Comunicação Científica
+300.212 Políticas de CT&I
+300.213 Avaliação de Ciência e Tecnologia
+300.214 Ética em Pesquisa
+300.215 Bioética (interface social)
+300.216 Estudos de Ciência, Tecnologia e Sociedade (CTS/STS)
+300.217 História das Ciências (social)
+300.218 Sociologia Jurídica
+300.219 Direito e Desenvolvimento
+300.220 Compliance e Integridade
+300.221 Governança de Dados e Privacidade (social)
+300.222 Economia Criativa
+300.223 Indústrias Culturais
+300.224 Patrimônio Cultural Imaterial
+300.225 Gestão Cultural
+300.226 Diplomacia Cultural
+300.227 Soft Power e Política Externa Cultural
+300.228 Estudos de Fronteira
+300.229 Estudos Rurais e Agrários
+300.230 Questão Fundiária
+300.231 Movimentos Camponeses
+300.232 Segurança Alimentar e Nutricional (política)
+300.233 Economia Circular (social)
+300.234 Justiça Climática
+300.235 Justiça Ambiental
+300.236 Justiça Epistêmica
+300.237 Decolonialidade e Estudos Pós-Coloniais
+300.238 Teoria Crítica
+300.239 Estudos Culturais
+300.240 Análise do Discurso
+300.241 Hermenêutica Social
+300.242 Fenomenologia Social
+300.243 Interacionismo Simbólico
+300.244 Etnometodologia
+300.245 Teoria dos Sistemas Sociais (Luhmann)
+300.246 Teoria do Ator-Rede (ANT)
+300.247 Institucionalismo (histórico, sociológico, racional)
+300.248 Escolha Racional e Teoria dos Jogos (política)
+300.249 Economia Política Internacional
+300.250 Globalização e Antiglobalização
+
+================================================================================
+NÍVEL 400 — LINGUÍSTICA E LÍNGUAS
+================================================================================
+400.000 Linguística Geral
+400.001 Fonética
+400.002 Fonologia
+400.003 Morfologia
+400.004 Sintaxe
+400.005 Semântica
+400.006 Pragmática
+400.007 Análise do Discurso
+400.008 Sociolinguística
+400.009 Psicolinguística
+400.010 Neurolinguística
+400.011 Linguística Histórica / Diacrônica
+400.012 Linguística Comparada
+400.013 Tipologia Linguística
+400.014 Linguística Aplicada
+400.015 Aquisição de Linguagem
+400.016 Ensino de Línguas (LE/L2)
+400.017 Tradução e Interpretação
+400.018 Terminologia e Lexicografia
+400.019 Linguística de Corpus
+400.020 Linguística Computacional
+400.021 Processamento de Linguagem Natural (academia)
+400.022 Semiótica
+400.023 Filologia
+400.024 Estilística
+400.025 Retórica
+400.026 Português Brasileiro
+400.027 Português Europeu e Africanos
+400.028 Línguas Indígenas do Brasil
+400.029 Libras e Estudos Surdos
+400.030 Línguas Crioulas e de Contato
+400.031 Espanhol / Hispânicas
+400.032 Inglês / Anglística
+400.033 Francês / Francofonia
+400.034 Alemão / Germanística
+400.035 Italiano
+400.036 Latim e Grego Clássico
+400.037 Árabe
+400.038 Chinês / Sinologia linguística
+400.039 Japonês
+400.040 Coreano
+400.041 Russo e Eslavas
+400.042 Hebraico
+400.043 Sânscrito e Indo-arianas
+400.044 Línguas Africanas
+400.045 Política Linguística
+400.046 Planejamento Linguístico
+400.047 Multilinguismo e Bilinguismo
+400.048 Linguagem e Gênero
+400.049 Linguagem e Poder
+400.050 Comunicação Não-Verbal
+
+================================================================================
+NÍVEL 500 — CIÊNCIAS NATURAIS E MATEMÁTICA
+================================================================================
+500.000 Matemática — Fundamentos
+500.001 Lógica Matemática
+500.002 Teoria dos Conjuntos
+500.003 Álgebra
+500.004 Álgebra Linear
+500.005 Teoria dos Números
+500.006 Análise Real e Complexa
+500.007 Análise Funcional
+500.008 Equações Diferenciais
+500.009 Geometria
+500.010 Topologia
+500.011 Geometria Algébrica
+500.012 Geometria Diferencial
+500.013 Combinatória
+500.014 Teoria dos Grafos
+500.015 Probabilidade
+500.016 Estatística Matemática
+500.017 Estatística Aplicada
+500.018 Ciência Atuarial
+500.019 Otimização e Pesquisa Operacional
+500.020 Matemática Discreta
+500.021 Matemática Computacional
+500.022 Teoria do Caos e Sistemas Dinâmicos
+500.023 Teoria da Informação (matemática)
+500.024 Criptografia Matemática
+500.025 Física — Geral
+500.026 Mecânica Clássica
+500.027 Termodinâmica e Física Estatística
+500.028 Eletromagnetismo
+500.029 Óptica
+500.030 Física Quântica / Mecânica Quântica
+500.031 Física de Partículas
+500.032 Física Nuclear
+500.033 Física da Matéria Condensada
+500.034 Física Atômica e Molecular
+500.035 Astrofísica
+500.036 Cosmologia
+500.037 Gravitação e Relatividade
+500.038 Física de Plasmas
+500.039 Acústica
+500.040 Física Médica
+500.041 Física Computacional
+500.042 Nanofísica
+500.043 Química — Geral
+500.044 Química Inorgânica
+500.045 Química Orgânica
+500.046 Química Analítica
+500.047 Físico-Química
+500.048 Química Quântica
+500.049 Bioquímica
+500.050 Química de Materiais
+500.051 Química Ambiental
+500.052 Química Medicinal / Farmacêutica
+500.053 Química Verde
+500.054 Eletroquímica
+500.055 Polímeros
+500.056 Catálise
+500.057 Espectroscopia
+500.058 Biologia — Geral
+500.059 Biologia Celular
+500.060 Biologia Molecular
+500.061 Genética
+500.062 Genômica
+500.063 Proteômica
+500.064 Microbiologia
+500.065 Virologia
+500.066 Imunologia
+500.067 Fisiologia
+500.068 Anatomia
+500.069 Histologia
+500.070 Embriologia / Biologia do Desenvolvimento
+500.071 Ecologia
+500.072 Biologia Evolutiva
+500.073 Biologia Sistemática e Taxonomia
+500.074 Botânica
+500.075 Zoologia
+500.076 Micologia
+500.077 Parasitologia
+500.078 Neurociência
+500.079 Biologia Marinha
+500.080 Biologia da Conservação
+500.081 Biotecnologia
+500.082 Biologia Sintética
+500.083 Bioinformática
+500.084 Biologia de Sistemas
+500.085 Astrobiologia
+500.086 Paleontologia
+500.087 Ciências da Terra — Geral
+500.088 Geologia
+500.089 Mineralogia
+500.090 Petrologia
+500.091 Geofísica
+500.092 Geoquímica
+500.093 Hidrogeologia
+500.094 Geologia Estrutural
+500.095 Sedimentologia
+500.096 Estratigrafia
+500.097 Vulcanologia
+500.098 Sismologia
+500.099 Geologia do Petróleo
+500.100 Geologia Ambiental
+500.101 Oceanografia Física
+500.102 Oceanografia Química
+500.103 Oceanografia Biológica
+500.104 Oceanografia Geológica
+500.105 Meteorologia
+500.106 Climatologia
+500.107 Ciências Atmosféricas
+500.108 Hidrologia
+500.109 Glaciologia
+500.110 Ciências Polares
+500.111 Ciência do Solo
+500.112 Geomorfologia
+500.113 Cartografia e Geodésia
+500.114 Sensoriamento Remoto
+500.115 Sistemas de Informação Geográfica (ciência)
+500.116 Ciências Ambientais
+500.117 Ciência do Sistema Terrestre
+500.118 Paleoclimatologia
+500.119 Astronomia
+500.120 Ciências Planetárias
+500.121 Ciência Espacial
+500.122 Ciência dos Materiais (básica)
+500.123 Ciência da Complexidade
+500.124 Biomatemática
+500.125 Biofísica
+500.126 Química Teórica
+500.127 Nanociência
+500.128 Ciência Cognitiva (natural)
+500.129 Etologia
+500.130 Ecotoxicologia
+
+================================================================================
+NÍVEL 600 — TECNOLOGIA E CIÊNCIAS APLICADAS
+================================================================================
+600.000 Medicina — Geral / Clínica
+600.001 Clínica Médica
+600.002 Cirurgia
+600.003 Pediatria
+600.004 Ginecologia e Obstetrícia
+600.005 Cardiologia
+600.006 Neurologia
+600.007 Psiquiatria
+600.008 Oncologia
+600.009 Infectologia
+600.010 Endocrinologia
+600.011 Nefrologia
+600.012 Pneumologia
+600.013 Gastroenterologia
+600.014 Dermatologia
+600.015 Ortopedia
+600.016 Oftalmologia
+600.017 Otorrinolaringologia
+600.018 Urologia
+600.019 Hematologia
+600.020 Reumatologia
+600.021 Geriatria
+600.022 Medicina de Emergência
+600.023 Medicina Intensiva
+600.024 Anestesiologia
+600.025 Radiologia e Diagnóstico por Imagem
+600.026 Medicina Nuclear
+600.027 Patologia
+600.028 Medicina Legal
+600.029 Medicina do Trabalho
+600.030 Medicina de Família e Comunidade
+600.031 Saúde Pública
+600.032 Epidemiologia
+600.033 Medicina Preventiva
+600.034 Saúde Coletiva
+600.035 Farmácia
+600.036 Farmacologia Clínica
+600.037 Enfermagem
+600.038 Fisioterapia
+600.039 Fonoaudiologia
+600.040 Terapia Ocupacional
+600.041 Nutrição
+600.042 Odontologia
+600.043 Medicina Veterinária
+600.044 Saúde Única (One Health)
+600.045 Engenharia — Geral
+600.046 Engenharia Civil
+600.047 Engenharia Mecânica
+600.048 Engenharia Elétrica
+600.049 Engenharia Eletrônica
+600.050 Engenharia de Computação
+600.051 Engenharia de Software (aplicada)
+600.052 Engenharia de Produção
+600.053 Engenharia Química
+600.054 Engenharia de Materiais
+600.055 Engenharia de Minas
+600.056 Engenharia de Petróleo
+600.057 Engenharia Naval
+600.058 Engenharia Aeroespacial
+600.059 Engenharia Nuclear
+600.060 Engenharia Ambiental
+600.061 Engenharia Sanitária
+600.062 Engenharia de Alimentos
+600.063 Engenharia Agrícola
+600.064 Engenharia Florestal
+600.065 Engenharia Biomédica
+600.066 Engenharia de Controle e Automação
+600.067 Engenharia de Telecomunicações
+600.068 Engenharia de Transportes
+600.069 Engenharia de Energia
+600.070 Engenharia de Segurança do Trabalho
+600.071 Engenharia de Petróleo e Gás
+600.072 Engenharia de Bioprocessos
+600.073 Nanotecnologia Aplicada
+600.074 Engenharia de Sistemas
+600.075 Agronomia
+600.076 Zootecnia
+600.077 Engenharia de Pesca / Aquicultura
+600.078 Ciência e Tecnologia de Alimentos
+600.079 Recursos Florestais
+600.080 Silvicultura
+600.081 Manejo de Bacias
+600.082 Agroecologia
+600.083 Agricultura de Precisão
+600.084 Biotecnologia Agrícola
+600.085 Arquitetura
+600.086 Urbanismo
+600.087 Paisagismo
+600.088 Design de Interiores
+600.089 Design de Produto
+600.090 Design Gráfico
+600.091 Design de Interação / UX (aplicado)
+600.092 Design de Serviços
+600.093 Design Estratégico
+600.094 Tecnologia da Informação Aplicada
+600.095 Sistemas de Informação
+600.096 Segurança da Informação Aplicada
+600.097 Ciência de Dados Aplicada
+600.098 Inteligência Artificial Aplicada
+600.099 Robótica Aplicada
+600.100 Internet das Coisas Aplicada
+600.101 Computação em Nuvem Aplicada
+600.102 Blockchain Aplicada
+600.103 Telecomunicações
+600.104 Radiodifusão e Mídia Técnica
+600.105 Energia Renovável
+600.106 Eficiência Energética
+600.107 Nuclear Aplicada
+600.108 Transporte e Mobilidade
+600.109 Logística Aplicada
+600.110 Manufatura Avançada / Indústria 4.0
+600.111 Metalurgia
+600.112 Cerâmica e Vidros
+600.113 Têxtil e Confecção
+600.114 Polímeros Aplicados
+600.115 Semicondutores e Microeletrônica
+600.116 Fotônica Aplicada
+600.117 Óptica Aplicada
+600.118 Acústica Aplicada
+600.119 Instrumentação
+600.120 Metrologia Aplicada
+600.121 Qualidade e Normalização Técnica
+600.122 Gestão da Tecnologia
+600.123 Transferência de Tecnologia
+600.124 Propriedade Intelectual Aplicada
+600.125 Empreendedorismo Tecnológico
+600.126 Startup e Inovação Aberta
+600.127 Saúde Digital / Telessaúde
+600.128 Informática em Saúde
+600.129 Engenharia Clínica
+600.130 Próteses e Órteses
+600.131 Medicina Regenerativa
+600.132 Terapia Gênica
+600.133 Vacinologia
+600.134 Toxicologia
+600.135 Saúde Ambiental
+600.136 Saúde do Trabalhador
+600.137 Vigilância Sanitária
+600.138 Gestão Hospitalar
+600.139 Economia da Saúde (aplicada)
+600.140 Avaliação de Tecnologias em Saúde (ATS)
+600.141 Enfermagem de Prática Avançada
+600.142 Obstetrícia
+600.143 Neonatologia
+600.144 Cuidados Paliativos
+600.145 Medicina Integrativa
+600.146 Homeopatia (estado da arte acadêmico)
+600.147 Acupuntura e Medicinas Tradicionais (estudo acadêmico)
+600.148 Odontologia Preventiva
+600.149 Implantodontia
+600.150 Ortodontia
+600.151 Clínica Veterinária de Pequenos Animais
+600.152 Clínica Veterinária de Grandes Animais
+600.153 Saúde Pública Veterinária
+600.154 Ciência Forense
+600.155 Perícia Criminal
+600.156 Engenharia Forense
+600.157 Contabilidade Forense
+600.158 Ciências Contábeis Aplicadas
+600.159 Atuária Aplicada
+600.160 Finanças Quantitativas
+600.161 Risk Management
+600.162 Compliance Técnico
+600.163 Ergonomia
+600.164 Segurança do Trabalho
+600.165 Higiene Ocupacional
+600.166 Ciências Aeronáuticas
+600.167 Ciências Navais
+600.168 Ciências Militares / Defesa Tecnológica
+600.169 Cibernética de Defesa
+600.170 Inteligência Artificial para Defesa
+600.171 Sensoriamento e ISR
+600.172 Propulsão
+600.173 Estruturas Aeroespaciais
+600.174 Sistemas Embarcados
+600.175 FPGA e Hardware
+600.176 VLSI
+600.177 Optoeletrônica
+600.178 Energia Solar Fotovoltaica
+600.179 Energia Eólica
+600.180 Hidrogênio e Combustíveis Alternativos
+600.181 Baterias e Armazenamento
+600.182 Redes Elétricas Inteligentes (Smart Grid)
+600.183 Captura e Armazenamento de Carbono (CCS)
+600.184 Dessalinização e Tratamento de Água
+600.185 Saneamento Ambiental
+600.186 Gestão de Resíduos
+600.187 Remediação Ambiental
+600.188 Monitoramento Ambiental
+600.189 Mudanças Climáticas — Adaptação Tecnológica
+600.190 Geoengenharia Aplicada
+600.191 Agricultura Regenerativa
+600.192 Genômica Agrícola
+600.193 Melhoramento Genético
+600.194 Manejo Integrado de Pragas
+600.195 Irrigação e Drenagem
+600.196 Mecanização Agrícola
+600.197 Pós-colheita
+600.198 Tecnologia de Sementes
+600.199 Nutrição Animal
+600.200 Bem-estar Animal
+
+================================================================================
+NÍVEL 700 — ARTES E RECREAÇÃO
+================================================================================
+700.000 Artes — Teoria e Crítica
+700.001 História da Arte
+700.002 Estética
+700.003 Museologia das Artes
+700.004 Curadoria
+700.005 Arte Contemporânea
+700.006 Arte Moderna
+700.007 Arte Antiga e Medieval
+700.008 Arte Não-Ocidental
+700.009 Arte Indígena e Popular
+700.010 Pintura
+700.011 Escultura
+700.012 Gravura
+700.013 Desenho
+700.014 Fotografia Artística
+700.015 Arte Digital
+700.016 Arte Generativa e IA
+700.017 Performance
+700.018 Instalação
+700.019 Arte Pública
+700.020 Arte e Ativismo
+700.021 Arquitetura de Interiores Artística
+700.022 Design de Moda
+700.023 Joalheria e Ourivesaria
+700.024 Cerâmica Artística
+700.025 Têxtil Artístico
+700.026 Música — Teoria
+700.027 Musicologia
+700.028 Etnomusicologia
+700.029 Composição Musical
+700.030 Regência
+700.031 Performance Instrumental
+700.032 Canto e Técnica Vocal
+700.033 Música Popular
+700.034 Música Erudita
+700.035 Música Eletrônica
+700.036 Produção Musical
+700.037 Tecnologia Musical
+700.038 Educação Musical
+700.039 Terapia Musical
+700.040 Indústria da Música
+700.041 Teatro — Teoria e História
+700.042 Direção Teatral
+700.043 Atuação
+700.044 Dramaturgia
+700.045 Cenografia
+700.046 Iluminação Cênica
+700.047 Teatro de Formas Animadas
+700.048 Teatro Comunitário
+700.049 Performance Studies
+700.050 Dança — Teoria e História
+700.051 Coreografia
+700.052 Dança Contemporânea
+700.053 Danças Populares e Tradicionais
+700.054 Dança-Teatro
+700.055 Cinema — Teoria e História
+700.056 Direção Cinematográfica
+700.057 Roteiro
+700.058 Montagem / Edição
+700.059 Cinematografia
+700.060 Som para Cinema
+700.061 Documentário
+700.062 Animação
+700.063 Cinema Experimental
+700.064 Estudos de Televisão e Streaming
+700.065 Games — Design e Estudos
+700.066 Game Studies
+700.067 Arte em Games
+700.068 Narrativa Interativa
+700.069 Realidade Virtual Artística
+700.070 Design de Experiência Imersiva
+700.071 Literatura Performática
+700.072 Poesia Visual e Concreta
+700.073 Arte Sonora
+700.074 Arte Olfativa e Multissensorial
+700.075 Conservação e Restauração
+700.076 Patrimônio Artístico
+700.077 Mercado de Arte
+700.078 Políticas Culturais para as Artes
+700.079 Educação Artística
+700.080 Arte-Educação
+700.081 Esportes — Ciências do Esporte
+700.082 Educação Física
+700.083 Treinamento Desportivo
+700.084 Biomecânica do Esporte
+700.085 Fisiologia do Exercício
+700.086 Psicologia do Esporte
+700.087 Nutrição Esportiva
+700.088 Medicina do Esporte
+700.089 Gestão do Esporte
+700.090 Eventos Esportivos
+700.091 Esportes Olímpicos
+700.092 Esportes Paraolímpicos
+700.093 Esportes de Aventura
+700.094 eSports
+700.095 Lazer e Recreação
+700.096 Turismo Cultural
+700.097 Turismo de Experiência
+700.098 Gastronomia — Artes
+700.099 Enologia e Bebidas
+700.100 Circo e Artes Circenses
+
+================================================================================
+NÍVEL 800 — LITERATURA E RETÓRICA
+================================================================================
+800.000 Teoria Literária
+800.001 Crítica Literária
+800.002 Literatura Comparada
+800.003 História da Literatura
+800.004 Poética
+800.005 Narratologia
+800.006 Estilística Literária
+800.007 Hermenêutica Literária
+800.008 Literatura Brasileira
+800.009 Literatura Portuguesa
+800.010 Literaturas Africanas de Língua Portuguesa
+800.011 Literatura Latino-Americana
+800.012 Literatura Hispano-Americana
+800.013 Literatura Norte-Americana
+800.014 Literatura Inglesa
+800.015 Literatura Francesa
+800.016 Literatura Alemã
+800.017 Literatura Italiana
+800.018 Literatura Russa
+800.019 Literaturas Asiáticas
+800.020 Literaturas Africanas
+800.021 Literaturas Indígenas
+800.022 Literaturas Clássicas (grego/latim)
+800.023 Literatura Medieval
+800.024 Literatura Renascentista
+800.025 Literatura Barroca
+800.026 Literatura Romântica
+800.027 Literatura Realista/Naturalista
+800.028 Literatura Moderna
+800.029 Literatura Contemporânea
+800.030 Literatura Pós-Colonial
+800.031 Literatura de Mulheres / Estudos Feministas Literários
+800.032 Literaturas LGBTQIA+
+800.033 Literatura Infantil e Juvenil
+800.034 Ficção Científica e Fantasia
+800.035 Literatura Policial e Crime
+800.036 Poesia
+800.037 Romance
+800.038 Conto e Novela
+800.039 Drama / Teatro como Literatura
+800.040 Ensaio Literário
+800.041 Memória e Autobiografia
+800.042 Crônica
+800.043 Literatura Digital / Hipertexto
+800.044 Fanfiction e Culturas Participativas
+800.045 Tradução Literária
+800.046 Edição e Mercado Editorial
+800.047 Retórica Clássica
+800.048 Retórica Contemporânea
+800.049 Escrita Criativa
+800.050 Escrita Acadêmica
+800.051 Oratória
+800.052 Argumentação
+800.053 Estudos de Mídia e Literatura
+800.054 Adaptação (livro-filme-série)
+800.055 Cânone e Contracânone
+800.056 Literatura e Sociedade
+800.057 Literatura e Ecologia (ecocrítica)
+800.058 Literatura e Direito
+800.059 Literatura e Medicina (narrativa médica)
+800.060 Bibliografia e Estudos Textuais
+
+================================================================================
+NÍVEL 900 — HISTÓRIA E GEOGRAFIA
+================================================================================
+900.000 História — Teoria e Método
+900.001 Historiografia
+900.002 História Antiga
+900.003 História Medieval
+900.004 História Moderna
+900.005 História Contemporânea
+900.006 História do Brasil
+900.007 História da América Latina
+900.008 História da América do Norte
+900.009 História da Europa
+900.010 História da África
+900.011 História da Ásia
+900.012 História do Oriente Médio
+900.013 História da Oceania
+900.014 História Global / World History
+900.015 História Atlântica
+900.016 História do Império e Colonialismo
+900.017 História da Escravidão
+900.018 História Indígena
+900.019 História Afro-Brasileira
+900.020 História das Mulheres e de Gênero
+900.021 História LGBTQIA+
+900.022 História Social
+900.023 História Econômica
+900.024 História Política
+900.025 História Cultural
+900.026 História das Ideias
+900.027 História da Ciência
+900.028 História da Tecnologia
+900.029 História da Medicina
+900.030 História da Arte (histórica)
+900.031 História Militar
+900.032 História Diplomática
+900.033 História Ambiental
+900.034 História Urbana
+900.035 História Rural
+900.036 História Oral
+900.037 História Pública
+900.038 História Digital
+900.039 Micro-história
+900.040 História do Tempo Presente
+900.041 História da Educação
+900.042 História do Direito
+900.043 História das Religiões
+900.044 História do Trabalho
+900.045 História da Família
+900.046 História da Infância
+900.047 História da Sexualidade
+900.048 História da Alimentação
+900.049 História da Morte e dos Ritos
+900.050 História da Memória e do Esquecimento
+900.051 Arqueologia Histórica
+900.052 Genealogia e História das Famílias
+900.053 Cronologia e Periodização
+900.054 História Comparada
+900.055 História Conectada / Histoire croisée
+900.056 Geografia Física
+900.057 Geografia Humana
+900.058 Geografia Regional
+900.059 Geografia do Brasil
+900.060 Geografia Política
+900.061 Geografia Econômica
+900.062 Geografia Cultural
+900.063 Geografia Urbana
+900.064 Geografia Rural
+900.065 Geografia da População
+900.066 Geografia da Saúde
+900.067 Geografia do Turismo
+900.068 Geografia Ambiental
+900.069 Climatologia Geográfica
+900.070 Geomorfologia
+900.071 Biogeografia
+900.072 Hidrogeografia
+900.073 Geografia dos Riscos
+900.074 Geografia Quantitativa
+900.075 Geografia Crítica
+900.076 Geografia Feminista
+900.077 Geografia Histórica
+900.078 Cartografia Histórica
+900.079 Estudos Regionais
+900.080 Estudos de Área (Area Studies)
+900.081 Estudos Amazônicos (hist-geo)
+900.082 Estudos do Cerrado e Biomas
+900.083 Estudos Costeiros
+900.084 Estudos de Fronteira (hist-geo)
+900.085 Geografia dos Transportes
+900.086 Geografia da Energia
+900.087 Geografia da Água
+900.088 Geografia Agrária
+900.089 Geografia Industrial
+900.090 Geografia do Comércio
+900.091 Geografia das Migrações
+900.092 Geografia da Violência
+900.093 Geografia Eleitoral
+900.094 Geografia da Comunicação
+900.095 Geografia do Esporte
+900.096 Geografia do Lazer
+900.097 Planejamento Territorial
+900.098 Ordenamento do Território
+900.099 Desenvolvimento Regional
+900.100 Geopolítica Clássica e Crítica
+900.101 Geoestratégia
+900.102 Estudos Estratégicos Territoriais
+900.103 História das Explorações
+900.104 História Marítima
+900.105 História Aeronáutica e Espacial
+900.106 História das Epidemias
+900.107 História das Catástrofes
+900.108 História do Clima
+900.109 História dos Impérios
+900.110 História das Revoluções
+900.111 História das Guerras Mundiais
+900.112 História da Guerra Fria
+900.113 História do Século XXI
+900.114 Biografia Histórica
+900.115 Prosopografia
+900.116 Paleografia
+900.117 Diplomática (ciência dos documentos)
+900.118 Arquivística Histórica
+900.119 Museologia Histórica
+900.120 Patrimônio Histórico e Cultural
+900.121 Turismo Histórico
+900.122 História Local e Regional do Brasil
+900.123 História de Minas / SP / RJ / Nordeste / Sul / Norte / Centro-Oeste
+900.124 História da Amazônia
+900.125 História do Cerrado e Pantanal
+900.126 História do Litoral Brasileiro
+900.127 História da Imigração no Brasil
+900.128 História da Industrialização Brasileira
+900.129 História da República Brasileira
+900.130 História da Ditadura Militar
+900.131 História da Redemocratização
+900.132 História da Constituição de 1988
+900.133 História do Sistema Financeiro Brasileiro
+900.134 História da Educação no Brasil
+900.135 História da Saúde Pública no Brasil
+900.136 História Ambiental do Brasil
+900.137 História Indígena do Brasil
+900.138 História Quilombola
+900.139 História dos Movimentos Sociais no Brasil
+900.140 História do Pensamento Social Brasileiro
+
+================================================================================
+MAPEAMENTO TAXONOMIA → DIMENSÕES TEIA v22.0
+================================================================================
+000 Ciência da Informação     → Dim 109-120 (Nível 16 Bibliotecário)
+100 Filosofia/Psicologia      → Dim 76-84, 13, 27, 64 + Lentes 34,42
+200 Religião                  → Dim 16 + Lente 14
+300 Ciências Sociais          → Dim 1,2,5,8,121-140 + Lentes 1-12,45-60
+400 Linguística               → Dim 22, 69, 83 + Lente 22,36
+500 Ciências Naturais         → Dim 4,34,44,54,104,141-151
+600 Tecnologia Aplicada       → Dim 3,15,37,65,121-140,149
+700 Artes                     → Dim 6,19 + Lente 15
+800 Literatura                → Dim 6,22 + Lentes 22,36
+900 História/Geografia        → Dim 10,12,66 + Lentes 8,11,24
+
+Cruzamento canônico v22:
+  Dim 110 Taxonômica × Lente 60 Classificação Comparada
+  Dim 112 Citacional × Lente 46 Scientométrica
+  Dim 120 Agnológica × Lente 49 Agnotologia
+
+================================================================================
+CONTAGEM DE CAMPOS
+================================================================================
+2º nível enumerado neste arquivo: 1237
+3º nível (folhas): 5547 em TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt
+TOTAL COMBINADO: 6784 campos
+
+Mapeamento taxonomia → dims: ver seção acima.
+Uso TEIA: alimenta Metodologia v22.0 (dims 109-156 + lentes 45-60)
+Ver: docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt | Matriz 156×60=9.360
+Cheat-sheet: docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

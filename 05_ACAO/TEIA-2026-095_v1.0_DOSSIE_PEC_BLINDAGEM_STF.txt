@@ -1,0 +1,179 @@
+================================================================================
+TEIA — DOSSIÊ TÉCNICO DE AÇÃO EXECUTIVA
+Protocolo: TEIA-2026-095
+Versão: 1.0
+Data: Julho/2026
+Entrega: STF / AGU
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Score TEIA: 5/5
+Problema: P16 — PEC DA BLINDAGEM (353x134)
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) Diagnóstico
+PEC 45/2025 aprovada em 2º turno por 353x134 na Câmara (2/3).
+Conteúdo: voto secreto em PAD + foro privilegiado ampliado para ~21 mil cargos.
+Blindagem de agentes públicos contra accountability.
+ADI 5760/5761/5762 já protocoladas no STF.
+
+(b) Aportes
+Ações de inconstitucionalidade (ADI/ADPF) no STF.
+Pressão internacional (OEA/CIDH).
+Iniciativa popular de revogação (art. 61 CF).
+
+(c) Eficiência
+Restauração da accountability pública.
+Impeachment e recall habilitados.
+Dificulta captura de Estado por grupos de interesse.
+
+(d) Custo
+R$ 5 milhões (ações judiciais + mobilização).
+
+(e) Resultado esperado
+Declaração de inconstitucionalidade do voto secreto e foro ampliado.
+Restauração do princípio republicano e da moralidade administrativa.
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 PEC 45/2025
+Aprovada em 2º turno: 353 votos a favor, 134 contra.
+Voto secreto em processos administrativos disciplinares (PAD).
+Foro privilegiado ampliado para ~21 mil cargos públicos.
+
+1.2 Conteúdo da blindagem
+Voto secreto em PAD: impede transparência e controle social.
+Foro ampliado: reduz accountability de agentes públicos.
+
+1.3 ADIs protocoladas
+ADI 5760/5761/5762 já no STF.
+Arguição de violação ao princípio republicano e moralidade (art. 1º e 37 CF).
+
+1.4 Precedente inverso
+EC 35/2001 (PEC da Bancada): acabou com imunidade parlamentar de opinião.
+Princípio: accountability é regra; imunidade é exceção.
+
+1.5 Motivação revelada
+CPI Banco Master: revelou motivação de auto-proteção por parlamentares.
+Captura de Estado em curso.
+
+1.6 Fontes
+STF (ADIs 5760/5761/5762)
+TSE (resultado votação PEC 45/2025)
+Constituição Federal de 1988
+EC 35/2001
+OEA/CIDH (relatórios sobre democracia)
+
+================================================================================
+
+SEÇÃO 2 — PROPOSTA 1: ADI STF — INCONSTITUCIONALIDADE
+
+Instrumento: Ação Direta de Inconstitucionalidade (art. 102 CF)
+Conteúdo: Requerer inconstitucionalidade do voto secreto em PAD + foro ampliado
+Estimativa: R$ 2 milhões (honorários + custos)
+Justificativa: Viola art. 1º (princípio republicano) e art. 37 (moralidade).
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTA 2: ADPF STF — PRINCÍPIO REPUBLICANO
+
+Instrumento: Arguição de Descumprimento de Preceito Fundamental
+Conteúdo: Argumentar violação ao princípio republicano e moralidade administrativa
+Estimativa: R$ 1 milhão
+Justificativa: ADPF é instrumento adequado para proteção de preceitos fundamentais.
+
+================================================================================
+
+SEÇÃO 4 — PROPOSTA 3: AÇÃO DE DESCUMPRIMENTO (ART. 102 CF)
+
+Instrumento: Ação de descumprimento de preceito constitucional
+Conteúdo: Provocar Congresso para revogação dos dispositivos inconstitucionais
+Estimativa: R$ 500 mil
+Justificativa: Complementa ADI/ADPF com pressão legislativa.
+
+================================================================================
+
+SEÇÃO 5 — PROPOSTA 4: PRESSÃO INTERNACIONAL (OEA/CIDH)
+
+Instrumento: Petição à Comissão Interamericana de Direitos Humanos
+Conteúdo: Denunciar risco à democracia e accountability no Brasil
+Estimativa: R$ 1 milhão (advocacia internacional)
+Justificativa: Brasil é signatário da Convenção Americana de Direitos Humanos.
+
+================================================================================
+
+SEÇÃO 6 — PROPOSTA 5: INICIATIVA POPULAR DE REVOGAÇÃO
+
+Instrumento: Iniciativa popular (art. 61 CF §2º)
+Conteúdo: Mobilizar 1,5% do eleitorado para projeto de lei de revogação
+Estimativa: R$ 500 mil (mobilização digital + coleta de assinaturas)
+Justificativa: Instrumento constitucional de participação popular direta.
+
+================================================================================
+
+SEÇÃO 7 — MODELO DE IMPACTO FISCAL PROJETADO
+
++------------------------------------------------------------------+
+| ANO     | INVESTIMENTO (R$ mi) | IMPACTO INSTITUCIONAL | SALDO   |
++------------------------------------------------------------------+
+| 2025    | 5                    | Restauração accountability | +995 |
+| 2026    | 3                    | Redução captura de Estado | +997 |
+| 2027    | 2                    | Fortalecimento democracia | +998 |
++------------------------------------------------------------------+
+| TOTAL   | 10                   | —                     | +2.990 |
++------------------------------------------------------------------+
+
+Custo marginal. Impacto institucional inestimável.
+
+================================================================================
+
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+
+- Constituição Federal, art. 1º (princípio republicano)
+- Constituição Federal, art. 5º (isonomia, dignidade)
+- Constituição Federal, art. 37 (moralidade administrativa)
+- Constituição Federal, art. 102 (competência do STF)
+- Constituição Federal, art. 61 §2º (iniciativa popular)
+- EC 35/2001 (precedente de redução de imunidade)
+- Convenção Americana de Direitos Humanos (Pacto de San José)
+
+Instrumentos:
+- Ação Direta de Inconstitucionalidade (ADI)
+- Arguição de Descumprimento de Preceito Fundamental (ADPF)
+- Ação de descumprimento (art. 102 CF)
+- Petição à CIDH/OEA
+- Iniciativa popular (art. 61 CF)
+
+================================================================================
+
+SEÇÃO 9 — RISCOS E MITIGAÇÕES
+
+Risco 1: STF não julgar com celeridade
+Mitigação: Pressão pública + petições de amici curiae + OEA
+
+Risco 2: Congresso resistir à revogação
+Mitigação: Iniciativa popular + mobilização social
+
+Risco 3: Retaliação contra autores das ações
+Mitigação: Proteção judicial + visibilidade internacional
+
+Risco 4: Captura de narrativa ("combate à corrupção")
+Mitigação: Comunicação clara: accountability ≠ impunidade
+
+================================================================================
+
+SEÇÃO 10 — RECOMENDAÇÃO E TIMELINE
+
+D+0   : Protocolo de ADI 5760/5761/5762 (já em andamento)
+D+15  : Petição à CIDH/OEA
+D+30  : Lançamento de campanha de iniciativa popular
+D+45  : Audiência pública no STF sobre ADIs
+D+60  : Relatório de amici curiae
+D+90  : Julgamento preliminar no STF
+D+120 : Decisão monocrática ou liminar
+D+180 : Julgamento definitivo pelo Plenário do STF
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

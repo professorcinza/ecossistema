@@ -1,0 +1,523 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-007
+VERSÃO: v1.0
+CATEGORIA: 02_MAPEAMENTO
+TÍTULO: Indústria da Complexidade — Parlamentares 2023-2027
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 28,604 bytes (27.9 KB)
+HASH MD5: 5b422f74bccdc0a543db27047e0d0cf4
+HASH SHA-256: 6377898055b419fe5fbc9df2d016286a69eab582a109c9fd02caa5c5abf5bb3e
+================================================================================
+
+================================================================================
+MAPEAMENTO: PARLAMENTARES LIGADOS À "INDÚSTRIA DA COMPLEXIDADE" NO BRASIL
+Legislatura 2023-2027 | Câmara dos Deputados + Senado Federal
+Data de compilação: julho/2026
+Fontes primárias: DIAP, TSE, Portal da Câmara, Portal do Senado, ANOREG/BR,
+CFC, ANFIP/FENAFISCO/SINAIT, Poder360, UOL, G1, CNN Brasil, Congresso em Foco
+================================================================================
+
+ESTRUTURA DO SETOR "BUROCRACIA-COMPLEXIDADE"
+A "indústria da complexidade" é o sistema de interesse organizado em torno da
+manutenção de fricção regulatória, tributária e administrativa. Compreende 5
+grandes vetores:
+(A) FUNCIONALISMO PÚBLICO E SINDICATOS DE SERVIDORES
+(B) CARTÓRIOS (Notários e Registradores / ANOREG, CNR, IRIB, ARISP)
+(C) CONTABILIDADE / CFC / CRCs / FENACON / FBC / ICBR / IBRACON
+(D) SISTEMA S (SESC/SENAC/SESI/SENAI/SEBRAE) + CNC (Confederação Nacional do Comércio)
+(E) ADVOGACIA TRIBUTÁRIA / DESPACHANTES / OAB
+
+Cada vetor possui Frente Parlamentar formalmente instalada no Congresso com
+325+ parlamentares (cartórios), 235+ (funcionalismo, segundo Infomoney), 199+
+(advocacia), e bancada própria (contabilidade). A sobreposição entre eles é a
+base de veto players que bloqueiam reforma administrativa, simplificação
+tributária, silêncio administrativo positivo e digitalização.
+
+================================================================================
+VETOR A — FUNCIONALISMO PÚBLICO / SINDICATOS DE SERVIDORES
+================================================================================
+
+DIMENSÃO: Segundo DIAP (2025), 129 parlamentares compõem a "Bancada dos
+Servidores Públicos" na Câmara (118 em exercício, 11 licenciados). O InfoMoney
+reportou 235 deputados federais + 7 senadores (2023). Em 2018, 132 deputados
+(25,7% do total) eram servidores segundo SINPFETRO. Capilaridade partidária:
+PL 27, PT 24, PSD 11, União Brasil 9, PP 9, PSOL 9, Republicanos 8, PDT 8,
+PCdoB 6, MDB 5. Concentração regional: SP 18, MG 14, RJ 12, BA 10.
+
+PRINCIPAIS ENTIDADES ARTICULADORAS:
+- ANFIP (Assoc. Nacional dos Auditores Fiscais da Receita Federal)
+- FENAFISCO (Federação Nacional do Fisco Estadual e Distrital)
+- SINDIFISCO Nacional (Auditores fiscais)
+- SINAIT (Sindicato Nacional dos Auditores-Fiscais do Trabalho)
+- UNAFISCO (movimento dissidente da Receita Federal)
+- SINPROFAZ, ANAFE, SINDJUS, CONASUDE
+- DIAP (Departamento Intersindical de Assessoria Parlamentar)
+
+FRENTE PARLAMENTAR "SERVIR BRASIL" — Mista em Defesa do Serviço Público
+- Presidente: Deputado ANDRÉ FIGUEIREDO (PDT-CE) — advogado, economista,
+  empresário; líder do PDT; comandou queda da PEC 32/2020 (reforma
+  administrativa de Guedes); relações estreitas com ANFIP e CONASUDE.
+- 1º Vice-Presidente: Senador WEVERTON ROCHA (PDT-MA) — bancário, professor;
+  conselho de ética; histórico de oposição a reformas administrativas.
+- Secretário-Geral: Deputado LUIZ CARLOS MOTTA (PL-SP) — comerciário,
+  sindicalista, presidente da Fecomerciários-SP; relator da LOA 2024;
+  membro da CMO (Comissão Mista de Orçamento); nodo do vetor SESC/Sistema S.
+
+PRINCIPAIS NOMES DA BANCADA DO FUNCIONALISMO (por estado) — DIAP 2025:
+- DF: BIA KICIS (PL) — advogada, procuradora de Justiça; ERIKA KOKAY (PT) —
+  bancária e economiária; FRAGA (PL) — militar reformado; REGINALDO VERAS
+  (PV) — professor; RODRIGO ROLLEMBERG (PSB) — servidor público (ex-gov. DF).
+- SP: ARLINDO CHINAGLIA (PT) — médico do Hospital do Servidor Público
+  Estadual (HSPE); IVAN VALENTE (PSOL) — engenheiro, professor; LUIZA
+  ERUNDINA (PSOL) — assistente social; SÂMIA BOMFIM (PSOL) — servidora
+  pública; PROFESSORA LUCIENE CAVALCANTE (PSOL) — professora advogada;
+  CARLOS SAMPAIO (PSD) — promotor; EDUARDO BOLSONARO (PL) — escrivão da
+  Polícia Federal; LUIZ CARLOS MOTTA (PL) — sindicalista comerciário;
+  DELEGADO BRUNO LIMA (PP), DELEGADO DA CUNHA (PP), DELEGADO PALUMBO (MDB),
+  GILBERTO NASCIMENTO (PSD), DELEGADO PAULO BILYNSKYJ (PL) — núcleo policial
+  civil/MP; CAPITÃO AUGUSTO (PL), CAPITÃO DERRITE (PL) — núcleo PM;
+  FELIPE BECARI (União) — PM estadual; RICARDO SILVA (PSD).
+- MG: PATRUS ANANIAS (PT) — servidor público, advogado, professor; ex-min.
+  Cidades; ROGÉRIO CORREIA (PT) — professor; ANDRÉ JANONES (Avante) —
+  servidor do Judiciário; DELEGADA IONE BARBOSA (Avante) — policial civil;
+  DELEGADO MARCELO FREITAS (União) — delegado PF; LAFAYETTE ANDRADA
+  (Republicanos) — advogado, professor, servidor público; JUNIO AMARAL (PL) —
+  PM reformado; PEDRO AIHARA (Patriota) — bombeiro militar; LINCOLN PORTELA
+  (PL); LEONARDO MONTEIRO (PT); DR. FREDERICO (Patriota) — bombeiro/médico;
+  CÉLIA XAKRIABÁ (PSOL); ROSÂNGELA REIS (Podemos).
+- RJ: BENEDITA DA SILVA (PT) — assistente social/servidora; TALÍRIA PETRONE
+  (PSOL) — professora; TARCÍSIO MOTTA (PSOL) — professor; CARLOS JORDY (PL);
+  DELEGADO RAMAGEM (PL) — delegado, ex-DPF; JANDIRA FEGHALI (PCdoB) — médica;
+  GENERAL PAZUELLO (PL) — militar reformado; HÉLIO LOPES (PL) — FFAA;
+  GENERAL GIRÃO (PL) — militar (RN, mas com atuação RJ); SARGENTO PORTUGAL
+  (Podemos) — PM; LAURA CARNEIRO (PSD) — advogada, servidora pública;
+  REIMONT (PT) — bancário/professor; DANIELA DO WAGUINHO (União) — servidora.
+- BA: ALICE PORTUGAL (PCdoB) — química industrial; DANIEL ALMEIDA (PCdoB);
+  JOSÉILDO RAMOS (PT) — empregado público; MÁRIO NEGRONTE JR. (PP) —
+  advogado servidor público; WALDENOR PEREIRA (PT) — professor; PASTOR
+  SARGENTO ISIDÓRIO (Avante) — PM/técnico enfermagem; ADOLFO VIANA (PSDB).
+- CE: ANDRÉ FIGUEIREDO (PDT) — líder frente servidor; LUIZIANNE LINS (PT) —
+  jornalista/professora; MAURO FILHO (PDT) — professor; IDILVAN ALENCAR (PDT).
+- RS: FRANCIANE BAYER (Republicanos) — servidora pública estadual; POMPEO DE
+  MATTOS (PDT) — empregado público; SANDERSON (PL) — servidor público federal
+  e policial; ZUCCO (Republicanos) — FFAA.
+- PR: ALIEL MACHADO (PV) — empregado público; DELEGADO MATHEUS LAIOLA (União);
+  SARGENTO FAHUR (PSD) — PM Rotam; TADEU VENERI (PT) — bancário BB.
+- Outros com perfis relevantes:
+  * GERLEN DINIZ (PP-AC) — servidor público federal
+  * DORINALDO MALAFAIA, JOSENILDO (PDT-AP) — servidores estaduais
+  * PROFESSORA MARCIVÂNIA (PCdoB-AP) — professora servidora
+  * AFONSO FLORENCE (PT-BA) — professor de História e servidor público
+  * PAULÃO (PT-AL) — funcionário público
+  * ANDRÉ ABDON (PP-AP) — engenheiro florestal servidor público
+  * SÉRGIO BRITO (PSD-BA) — empresário servidor público
+  * JÚLIO CÉSAR (PSD-PI) — AUDITOR FISCAL (v. Vetor C - Contabilidade)
+  * DAGOBERTO (PSDB-MS) — procurador de autarquia
+  * VANDER LOUBET (PT-MS) — bancário servidor público
+  * JUIAREZ COSTA (MDB-MT) — servidor do SERPO (Serpro)
+  * GISELA SIMONA (UNIÃO-MT) — servidora pública advogada
+  * CELSO SABINO (União-PA) — auditor estadual (em licença; vice da
+    Frente Parlamentar dos Cartórios)
+  * WILSON SANTIAGO (Republicanos-PB) — defensor público servidor
+  * TÚLIO GADÊLHA (REDE-PE) — servidor público
+  * FLORENTINO NETO (PT-PI) — servidor público federal
+  * RUBENS PEREIRA JÚNIOR (PT-MA) — servidor do Judiciário
+  * MÁRCIO JERRY (PCdoB-MA) — jornalista servidor IBGE
+  * ALUISIO MENDES, CLEBER VERDE (Republicanos-MA) — servidores públicos
+  * ENIO VERRI (PT-PR) — economista/professor universitário
+  * LÊDA BORGES (PSDB-GO) — servidor do Judiciário
+  * RUBENS OTONI (PT-GO) — professor universitário
+  * DELEGADA ACCORSI (PT-GO) — policial civil
+  * PEDRO UczAI (PT-SC) — professor universitário
+  * DELEGADA KATARINA (PSD-SE)
+  * PEDRO CAMPOS (PSB-PE) — empregado público
+  * ERIBERTO MEDEIROS (PSB-PE) — servidor estadual
+  * BENES LEOCÁDIO (União-RN); FERNANDO MINEIRO (PT-RN); JOÃO MAIA (PP-RN) —
+    servidor do Legislativo
+  * ALBUQUERQUE, DEFENSOR STÉLIO DENER (Republicanos-RR) — servidores
+  * NICOLETTI (União-RR) — policial rodoviário federal
+  * CORONEL CHRISÓSTOMO (PL-RO), THIAGO FLORES (MDB-RO)
+
+AUDITORES FISCAIS (ANFIP / FENAFISCO / SINDIFISCO):
+Audiência pública da FENAFISCO sobre reforma tributária atraiu 24 deputados
++ 2 senadores (2019). ANFIP/FENAFISCO defendem "Reforma Tributária Solidária"
+(alternativa à PEC 45). Pressão direta por bônus de eficiência e reposição
+salarial dos auditores-fiscais da Receita Federal, regulamentada em 2024 após
+"incansável trabalho parlamentar" junto a Haddad/MGI/Casa Civil.
+- Senador MARCELO CASTRO (MDB-PI) — relator do Orçamento 2023; defensor
+  da regulamentação da reforma tributária na CCJ; histórico de diálogo
+  com auditores.
+- Senador EDUARDO BRAGA (MDB-AM) — RELATOR da reforma tributária no
+  Senado (PEC 45/2019); incluiu cashback de botijão de gás e conta de
+  luz, FDR ampliado de R$ 40 bi para R$ 60 bi, trava de referência
+  (média 2012-2021 % PIB). Favorável à reforma — votou SIM nos dois
+  turnos (53-24).
+- Senator RODRIGO PACHECO (PSD-MG) — presidente do Senado; líder da
+  agenda da reforma tributária; interlocutor direto do CNC e Sistema S.
+
+================================================================================
+VETOR B — CARTÓRIOS / ANOREG / SINDIREGIS / CNR / IRIB / ARISP
+================================================================================
+
+FRENTE PARLAMENTAR DA JUSTIÇA NOTARIAL E REGISTRAL (lançada 2023)
+- A MAIOR bancada do Congresso: 325 parlamentares (deputados + senadores)
+  segundo SINDIREGIS; descrita como "maior bancada já criada no Congresso".
+- Presidente: Deputado ZÉ NETO (PT-BA) — jurista, Feira de Santana, BA;
+  líder do governo Lula na Câmara; relator de PLPs sobre Reforma Tributária
+  e Simples Nacional/MEI; votou SIM na EC 132/2023 (reforma tributária);
+  histórico de defesa dos notários e registradores; protocolou PLPs
+  92/93/94/95/196 de 2026.
+- Vice-Presidente: Deputado CELSO SABINO (União-PA) — servidor público
+  estadual (auditor), advogado, administrador; atualmente ministro do
+  Turismo (licenciado da Câmara); ex-relator de medidas ligadas a
+  serviços públicos; votou SIM na EC 132.
+
+PILARES DA ATUAÇÃO DA FRENTE DOS CARTÓRIOS:
+- Bloqueio/regulação da digitalização prevista na Lei 14.382/2022 (SERP -
+  Sistema Eletrônico de Registros Públicos, conversão da MP 1085/2021).
+  Implementação parcial com resistência das corregedorias e tabelionatos.
+- Defesa do monopólio dos atos notariais e registrais, ampliação de
+  competência dos cartórios (alienação fiduciária, desjudicialização,
+  divórcios, inventários, atos de empresa).
+- Audiências do XXVI Congresso da ANOREG/BR (2025) debateram
+  "desjudicialização", "IA e os Cartórios", "blockchain para firma".
+
+RELAÇÃO INSTITUCIONAL TSE - CARTÓRIOS:
+- A Justiça Eleitoral brasileira opera em grande parte via cartórios
+  eleitorais (não via cartórios notariais, mas rede de postos físicos);
+  todo eleitor deve vincular título a um zona/zona eleitoral. A
+  digitalização do título de eleitor (e-Título) foi uma das poucas
+  reformas implementadas. O veto da burocracia eleitoral a votação
+  digital remota preserva a estrutura física.
+
+================================================================================
+VETOR C — CONTABILIDADE / CFC / FENACON / ICBR / FBC / IBRACON
+================================================================================
+
+FRENTE PARLAMENTAR MISTA DA CONTABILIDADE BRASILEIRA (FPMCB) — instalada
+18/05/2023 no Congresso. Articulação: CFC + FENACON (Federação Nacional das
+Empresas de Serviços Contábeis) + IBRACON (auditores independentes) + ICBR
+(Instituto dos Contadores do Brasil). Lançamento solene: 14/06/2023, Salão
+Nobre da Câmara dos Deputados.
+
+NÚCLEO PARLAMENTAR:
+- Proponente da Frente: Deputado JÚLIO CÉSAR (PSD-PI) — Júlio César Lima,
+  AUDITOR FISCAL (consta como profissão na declaração ao TSE); presidente
+  do PSD no Piauí; relator de PECs fiscais (PEC 66/2023 sobre dívidas
+  municipais); interlocutor direto de Haddad e Lula; pré-candidato ao
+  Senado em 2026. Votou SIM na EC 132/2023.
+- Homenageado/líder institucional: AÉCIO DANTAS JÚNIOR (presidente do CFC
+  2022-2025, sergipano; atual presidente da FBC - Fundação Brasileira
+  de Contabilidade; diretor de Governança da Telebras).
+- Apoio formal: Deputado LAFAYETTE ANDRADA (Republicanos-MG) — advogado,
+  professor, servidor público; voz da bancada contábil em MS/GO.
+- Articulação histórica: Deputado ADRIANO SARNEY (PV-MA) — economista,
+  administrador; neto de José Sarney; criou em legislatura anterior a
+  Frente Parlamentar em Defesa do Profissional da Contabilidade; ex-
+  presidente da Frente da Micro e Pequena Empresa; presidente do PV-
+  MA; membro da executiva nacional do PV (2025-2027).
+
+AGENDA DA BANCADA DA CONTABILIDADE:
+- Manutenção da obrigatoriedade de contador/sócio-administrador em toda
+  empresa (fricção de abertura).
+- Monopólio da prestação de contas eleitorais (Lei 9.504/97 exige
+  contador nas campanhas).
+- Resistência a nota fiscal eletrônica plena, automação contábil via
+  software, contabilidade em nuvem sem intermediação.
+- Expansão da fiscalização via Conselhos Regionais (CRCs).
+
+================================================================================
+VETOR D — SISTEMA S (SESC/SENAC/SESI/SENAI/SEBRAE) + CNC
+================================================================================
+
+O Sistema S movimenta cerca de R$ 30 bilhões/ano com tributação parafiscal
+(incidência sobre folha de pagamento). Em 2023, Deputado DANILO FORTE
+(União-CE), relator da LDO 2024, incluiu dispositivos para meter recursos
+do Sistema S no Orçamento da União — retrocedeu após pressão do governo e
+do próprio Sistema S. O Sistema S foi homenageado em Sessão Especial do
+Senado (19/09/2025) por "ajudar a transformar o Brasil".
+
+NOMES-CHAVE:
+- Deputado LUIZ CARLOS MOTTA (PL-SP) — presidente da Fecomerciários (SP),
+  secretário-geral da Frente Servir Brasil; nodo de articulação entre
+  Sistema S (comerciários) e bancada do funcionalismo; relator de LOA;
+  votou SIM na EC 132/2023.
+- Senador RODRIGO PACHECO (PSD-MG) — presidente do Senado; promotor da
+  homenagem de 2025; relaciones cotidianas com CNC/Sesc/Senac.
+- Confederação Nacional do Comércio (CNC) — Antônio Oliveira Santos,
+  historicamente; atual presidência envolvida em agenda orçamentária.
+- Deputado DANILO FORTE (União-CE) — relator LDO 2024; tentou
+  orçamentizar Sistema S e recuou (mostra do poder de veto do setor).
+
+MP que destinou 5% da arrecadação de Sesc/Senac à Embratur (2023) foi
+relatada pelo líder do governo, Deputado JOSÉ GUIMARÃES (PT-CE) — vetor
+de financiamento parafiscal do turismo via Sistema S.
+
+================================================================================
+VETOR E — ADVOGACIA / OAB / ADVOGACIA PÚBLICA / DESPACHANTES
+================================================================================
+
+FRENTE PARLAMENTAR DA ADVOCACIA (Câmara + Senado) — 199 deputados signatários
+em 2019; relançada em 2023. PRS 18/2019 de Rodrigo Pacheco no Senado.
+- Coordenador histórico: Deputado FÁBIO TRAD (PSD-MS → migrou para PT em
+  2023) — advogado, professor universitário; receptor das demandas de OAB,
+  ANAFE (Advocacia Pública), UNAFE; voto pela rejeição do PL 6.381/2019;
+  articulador da Frente Parlamentar Mista em Defesa da Advocacia Pública
+  (coordenada com Aldo Rebelo, PCdoB-SP).
+- Deputado LAFAYETTE ANDRADA (Republicanos-MG) — articulador do lançamento
+  da Frente em 2023.
+
+FRENTE PARLAMENTAR DOS DESPACHANTES DOCUMENTALISTAS
+- Presidente histórico: Deputado CLEBER VERDE (Republicanos-MA) — servidor
+  público, advogado, professor; Lei 10.602/2002 criou Conselho Federal e
+  Regionais dos Despachantes Documentalistas; agenda: ampliação do monopólio
+  de despachos junto a órgãos públicos.
+
+================================================================================
+VOTAÇÕES-CHAVE (com NOMES E POSICIONAMENTO)
+================================================================================
+
+1) REFORMA TRIBUTÁRIA — EC 132/2023 (PEC 45/2019)
+   Plenário da Câmara: 7/7/2023 (1º turno) e 15/12/2023 (2º turno)
+   - Câmara 1º turno: 371 SIM / 121 NÃO
+   - Câmara 2º turno: 365 SIM / 118 NÃO
+   Plenário do Senado: 8/11/2023 (dois turnos)
+   - Senado: 53 SIM / 24 NÃO (igual nos dois turnos)
+   - Relator Senado: EDUARDO BRAGA (MDB-AM) — votou SIM.
+   - PL orientou NÃO (exceção: Eduardo Gomes, PL-TO, votou SIM).
+   - Republicanos orientou NÃO; Novo orientou NÃO.
+
+   VOTARAM CONTRA NO SENADO (24): majoritariamente PL, Republicanos, Novo,
+   PSDB em parte. NOMES notáveis contrários:
+   - PL: Flávio Bolsonaro (RJ), Cleitinho Azevedo (MG), Eduardo Girão (CE),
+     Damares Alves (GO), Magno Malta (ES), Zequinha Marinho (PA), Marcos
+     do Val (Podemos-ES) [depois mudou], Oriovisto Guimarães (Podemos-GO),
+     Soraya Thronicke (Podemos-SP, depois PL), Esperidião Amin (PP-SC),
+     Plínio Valério (PSDB-AM), Omar Aziz (PSD-AM), Tude (PSDB-etc).
+   VOTARAM A FAVOR (53): MDB em bloco (Alessandro Vieira-SE, Confúcio
+   Moura-TO, Eduardo Braga-AM, Randolph Rodrigues-AP, etc), PT, PSD, PSOL,
+   Podemos (em parte), Rede (Randolfe).
+
+   VOTARAM CONTRA NA CÁMARA (121/118): Nicolaci Romildo (PL-RJ), Carla
+   Zambelli (PL-SP), Bia Kicis (PL-DF), Daniel Silveira (PTB-RJ - depois
+   expulso), General Pazuello (PL-RJ - embora servidor/militar), Capitão
+   Augusto (PL-SP), Capitão Derrite (PL-SP), Delegado Palumbo (MDB-SP),
+   Sargento Fahur (PSD-PR), Coronel Fernanda (PL-MT), Coronel Chrisóstomo
+   (PL-RO),Junio Amaral (PL-MG), Gustinho Ribeiro (PL-SE), etc.
+
+2) LEI DE LIBERDADE ECONÔMICA — LC 167/2019 (Lei 13.874/2019, conversão
+   MP 881/2019)
+   - Sancionada em 20/09/2019 por Bolsonaro. Estabeleceu silêncio
+     administrativo positivo (art. 3º, §1º) para baixo risco; dispensa de
+     alvarás para atividades de baixo risco.
+   - Bancada do funcionalismo (CTASP) opôs resistência setorial à
+     generalização do silêncio positivo e à dispensa de licenças prévias.
+   - Resistência adicional dos cartórios: atos de empresas continuam
+     exigindo registro mercantil e junta comercial.
+
+3) PEC DA ANISTIA — PL 2515/2025 + PEC 70/2023 (Senado)
+   Urgência aprovada em 17/09/2025: 311 SIM / 163 NÃO
+   - Votaram SIM (311): praticamente todo o PL (58/59), PRD, Novo, Avante,
+     Cidadania, Republicanos em parte, PP em parte, União dividido.
+     Nomes de parlamentares da "bancada da complexidade" que votaram SIM:
+     * BIA KICIS (PL-DF) — favorável
+     * EDUARDO BOLSONARO (PL-SP) — favorável
+     * CARLOS JORDY (PL-RJ) — favorável
+     * GENERAL PAZUELLO (PL-RJ) — favorável
+     * CAPITÃO AUGUSTO (PL-SP) — favorável
+     * DELEGADO RAMAGEM (PL-RJ) — favorável
+   - Votaram NÃO (163): PT em bloco (com exceções), PSOL, PCdoB, PSDB
+     maioria, MDB parte, PDT parte, PSB parte.
+     * ANDRÉ FIGUEIREDO (PDT-CE) — NÃO
+     * ERIKA KOKAY (PT-DF) — NÃO
+     * SÂMIA BOMFIM (PSOL-SP) — NÃO
+     * TALÍRIA PETRONE (PSOL-RJ) — NÃO
+   - O total de 311 votos ultrapassou 3/5 (308) necessário.
+
+4) PEC DA BLINDAGEM (voto secreto, foro privilegiado ampliado) — 1º turno
+   aprovado em 16/09/2025; retorno do voto secreto em 17/09/2025 por 314/168.
+   - Presidente HUGO MOTTA (Republicanos-PB) articulou manobra que
+     reintroduziu voto secreto após derrota anterior.
+
+5) PEC 32/2020 — REFORMA ADMINISTRATIVA (Guedes, Bolsonaro)
+   - ARQUIVADA após pressão da Frente Servir Brasil e ANFIP/SINAIT.
+   - Aprovada na CCJ (Arthur Maia, DEM-BA, relator) em 23/9/2021 por
+     28-18, mas não chegou ao plenário por mobilização de Professor Israel
+     (PSOL-DF, então deputado), André Figueiredo (PDT-CE), Erika Kokay
+     (PT-DF) e servidores organizados pelo SINAIT/ANAFE.
+   - Lição aprendida: a bancada da complexidade tem poder de veto pré-pauta.
+
+6) REFORMA ADMINISTRATIVA (2025-2026) — PEDRO PAULO (PSD-RJ) relator
+   - PEC + PLP (Projeto de Lei Complementar).
+   - Min. HADDAD defendeu vincular estabilidade a desempenho (27/9/2025)
+     e acabar com supersalários (junho 2025).
+   - Resistência ativa: ANAFE, ANFIP, SINAIT, SINPROFAZ, Frente Servir
+     Brasil (André Figueiredo, Weverton Rocha, Luiz Carlos Motta).
+   - Hugo Motta avalia "apensar" a PEC a outra em tramitação para
+     acelerar (out/2025); risco de conjugação com pautas do funcionalismo.
+
+================================================================================
+POSICIONAMENTO EM COMISSÕES (2023-2027)
+================================================================================
+
+- CTASP (Comissão de Trabalho, Administração e Serviço Público) — Câmara:
+  núcleo duro da bancada do funcionalismo. Participação histórica de
+  Alice Portugal (PCdoB-BA), Luiz Carlos Busato (ex-PTB), André Figueiredo.
+  Relatorias frequentes de PLs que mexem com servidor, sindicato, contabilidade.
+
+- CMO (Comissão Mista de Orçamento) — Congresso Nacional:
+  * LUIZ CARLOS MOTTA (PL-SP) — relator LOA 2024, 3º vice CTASP
+    historicamente; nodo Sesc/Fecomerciários.
+  * EDUARDO GOMES (MDB-TO) — titular CMO 2026; ex-líder do governo
+    Bolsonaro; elo com PL/bancada do funcionalismo.
+  * MARCELO CASTRO (MDB-PI) — relator Orçamento 2023.
+
+- CCJ (Constituição e Justiça) — Senado: sede da relatoria de
+  EDUARDO BRAGA (MDB-AM) sobre reforma tributária.
+
+- CFT (Finanças e Tributação) — Câmara: vota regulamentação da EC 132
+  (PLP 68/2024, PLP 108/2025 etc).
+
+- CID (Comissão de Infraestrutura e Desenvolvimento) — foi a comissão
+  temporária que analisou a PEC 45/2019 no Senado em 2023, com relatoria
+  de Eduardo Braga.
+
+================================================================================
+MECANISMOS DE INFLUÊNCIA (síntese)
+================================================================================
+
+A. FINANCIAMENTO ELEITORAL INDIRETO
+- O setor da complexidade não doa via caixa 2 nem via empresas declaradas
+  (a CFC, ANOREG, ANFIP são entidades sem fins lucrativos / autarquias /
+  sindicatos). Financiamento eleitoral acontece por:
+  (1) DOAÇÕES PESSOAIS de tabeliães, contadores, auditores-fiscais como
+      pessoas físicas (limite TSE 2022: 10% do rendimento anual declarado);
+  (2) DOAÇÕES DE EMPRESAS DE SERVIÇOS CONTÁBEIS — LLCs de contabilidade,
+      escritórios de advocacia tributária, despachantes; em 2022, pessoas
+      jurídicas ainda podiam doar (acabou em 2017 mas financiamento partidário
+      indireto permaneceu);
+  (3) USO DE ESTRUTURA — sindicatos cedem quadros, assessores, sedes para
+      campanha (notório nas campanhas do DF, onde cada candidato precisa de
+      base territorial em Brasília e cidades satélites dominadas por servidores).
+- Consulte DivulgaCandContas (TSE) para auditoria específica por parlamentar.
+
+B. VÍNCULO DE CATEGORIA
+- DECLARAÇÃO AO TSE de profissão (principal fonte do DIAP): 25,7% da
+  Câmara se declara servidor público.
+- Identidade política: PSOL (professores/servidores sociais), PL (PM/
+  delegados/militares), PT (professores/servidores do Judiciário),
+  Republicanos (PM/militares/advogados), PDT (professores).
+
+C. BASE ELEITORAL EM CIDADES DE FUNCIONALISMO PÚBLICO
+- DF (Brasília): 8 cadeiras, todas dominantemente de servidores ou
+  ex-servidores. Bia Kicis, Erika Kokay, Fraga, Reginaldo Veras, Rodrigo
+  Rollemberg são eleitos com votação concentrada em servidores do GDF,
+  União, STJ, TSE, TJDFT, câmara legislativa.
+- Rio de Janeiro (capital): fortemente influenciado por policiais civis/
+  militares e servidores estaduais.
+- São Paulo (capital): Hospital do Servidor Público Estadual (Arlindo
+  Chinaglia) e PMs (Capitão Augusto, Capitão Derrite, delegados).
+- Brasília-adjacentes: cidades de Goiás (Águas Lindas, Luziânia) com
+  servidores do DF.
+
+D. POSIÇÃO EM COMISSÕES E RELATORIAS
+- CTASP, CMO, CFT, CCJ são as comissões-alvo. A conquista de presidências
+  e relatorias é disputada internamente entre as alas da bancada.
+
+E. VETO PRÉ-PAUTA E MANOBRA DE LIDERANÇAS
+- A bancada da complexidade atua não no plenário (onde perde), mas na
+  Chefia da pauta (Arthur Lira 2023-2025; Hugo Motta 2025+). PEC 32/2020
+  foi arquivada sem votação por mobilização pré-pauta.
+
+================================================================================
+SÍNTESE DOS TOP NOMES A MONITORAR (legislatura 2023-2027)
+================================================================================
+
+NÚCLEO BLOCO FUNCIONALISMO/SERVIDORES:
+- ANDRÉ FIGUEIREDO (PDT-CE) — presidente Frente Servir Brasil
+- LUIZ CARLOS MOTTA (PL-SP) — secretário-geral; elo Sistema S
+- WEVERTON ROCHA (PDT-MA) — 1º vice, senador
+- BIA KICIS (PL-DF), ERIKA KOKAY (PT-DF), RODRIGO ROLLEMBERG (PSB-DF)
+- ARLINDO CHINAGLIA (PT-SP), PATRUS ANANIAS (PT-MG)
+
+NÚCLEO CARTÓRIOS:
+- ZÉ NETO (PT-BA) — presidente Frente Parlamentar Justiça Notarial
+- CELSO SABINO (União-PA, licenciado) — vice
+
+NÚCLEO CONTABILIDADE:
+- JÚLIO CÉSAR (PSD-PI) — proponente da Frente Parlamentar da Contabilidade
+  (auditor fiscal)
+- LAFAYETTE ANDRADA (Republicanos-MG) — articulador
+- ADRIANO SARNEY (PV-MA) — histórico
+
+NÚCLEO ADVOGACIA:
+- FÁBIO TRAD (PT-MS, ex-PSD) — coordenador Frente Parlamentar da Advocacia
+
+NÚCLEO DESPACHANTES:
+- CLEBER VERDE (Republicanos-MA)
+
+NÚCLEO SISTEMA S:
+- DANILO FORTE (União-CE) — relator LDO
+- RODRIGO PACHECO (PSD-MG) — presidente do Senado
+
+NÚCLEO AUDITORIA FISCAL (Receita):
+- EDUARDO BRAGA (MDB-AM) — relator reforma tributária Senado
+- MARCELO CASTRO (MDB-PI) — relator Orçamento, diálogo ANFIP/FENAFISCO
+
+RELATOR REFORMA ADMINISTRATIVA:
+- PEDRO PAULO (PSD-RJ) — relator PEC + PLP 2025-2026
+
+PRESIDÊNCIA DA CÂMARA:
+- HUGO MOTTA (Republicanos-PB) — controla pauta; fundamental para
+  qualquer reforma administrativa ou tributária.
+
+================================================================================
+OBSERVAÇÕES METODOLÓGICAS E LIMITES
+================================================================================
+
+1. LISTA DIAP 2025 de 129 parlamentares foi extraída do PDF oficial
+   publicado pelo ASMETRO-SI (29/10/2025), com origem no DIAP. Lista
+   completa de nomes preservada em arquivo anexo
+   (diap_bancada.txt).
+
+2. FINANCIAMENTO ELEITORAL POR CARTÓRIOS/CONTADORES é estruturalmente
+   OPACO em nível de categoria (pessoas físicas, sem agrupamento por
+   profissão). Requer consulta individual no DivulgaCandContas por
+   candidato. Não foi encontrada compilação pública por setor.
+
+3. VOTAÇÃO NOMINAL DA PEC DA ANISTIA (17/09/2025) tem tabela pública
+   (Poder360, UOL, G1) com 311 SIM / 163 NÃO / ausências. Cruzamento
+   com bancada do funcionalismo mostra divisão: PL/Servidores (Bia Kicis,
+   Pazuello, etc.) votaram SIM; PT/Servidores (Erika Kokay, André
+   Figueiredo) votaram NÃO.
+
+4. A "indústria da complexidade" opera em coalizão silenciosa com a
+   "bancada da chave de ouro" (advogados tributários, contadores e
+   despachantes) que se manifesta na convergência de veto a:
+   - silêncio administrativo positivo amplo
+   - digitalização completa dos cartórios
+   - reforma administrativa que elimine carreiras intermediárias
+   - reforma tributária que elimine regimes especiais e complexidade
+     setorial (regimes especiais = honorário advocatício)
+
+5. DIFERENCIAÇÃO IDEOLÓGICA É IRRELEVANTE para este mapa. PL (direita) e
+   PSOL (esquerda) estão igualmente representados na bancada do
+   funcionalismo. O eixo relevante é SETORIAL, não partidário.
+
+6. ATUALIZAÇÃO: 2026 é ano eleitoral. Pré-candidaturas ao Senado incluem
+   JÚLIO CÉSAR (PSD-PI) e outros nomes deste mapa. Reeleições de deputados
+   da bancada do funcionalismo são altamente prováveis dado o coeficiente
+   eleitoral consolidado.
+
+================================================================================
+FIM DO RELATÓRIO
+================================================================================
+
+Arquivos auxiliares em /home/kratos/complexidade_research/:
+- diap_bancada.pdf — PDF original do DIAP/ASMETRO-SI (29/10/2025)
+- diap_bancada.txt — texto extraído da lista completa dos 129 nomes
+- industria_complexidade_parlamentares_2023_2027.txt — este relatório

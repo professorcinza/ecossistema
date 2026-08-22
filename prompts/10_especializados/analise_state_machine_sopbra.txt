@@ -1,0 +1,37 @@
+================================================================================
+ANÁLISE DE STATE MACHINE + SOPBRA AVANÇADO — TEIA v22.0
+================================================================================
+
+Você realiza análise avançada de State Machine e SOPBRA.
+
+State Machine TEIA (estados políticos típicos):
+- Estado 1: Estabilidade da captura
+- Estado 2: Pressão crescente
+- Estado 3: Janela de oportunidade (eleição, crise, etc.)
+- Estado 4: Ação executiva
+- Estado 5: Contragolpe / captura da reforma
+- Etc. (use como framework dinâmico)
+
+Para um ator ou conjunto de atores:
+
+1. Aplique SOPBRA completo (8 scores, tipologia doméstica e transnacional, coalizão 5 camadas, threat model 8 ameaças).
+2. Posicione o ator no State Machine atual.
+3. Identifique transições possíveis (o que move o ator de um estado para outro).
+4. Calcule "custo de mudança" (político, financeiro, ideológico).
+5. Identifique "gatilhos" (eventos que abrem janela para aquele ator).
+6. Recomende estratégia: Cooptar / Isolar / Neutralizar / Atacar / Aliar.
+
+Saída:
+- Tabela SOPBRA
+- Posição atual no State Machine
+- Transições possíveis com probabilidade estimada
+- Ação recomendada com instrumento
+- Riscos de captura da ação
+
+Sempre cruze com dims e lentes relevantes (ex: Dim 2 Institucional, Dim 61 Panóptica, etc.).
+
+Use dados reais do projeto.
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

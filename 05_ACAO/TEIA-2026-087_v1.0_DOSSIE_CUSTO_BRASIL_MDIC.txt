@@ -1,0 +1,189 @@
+================================================================================
+TEIA-2026-087 | DOSSIÊ TÉCNICO | CUSTO BRASIL (R$ 1,7 TRI/ANO)
+================================================================================
+Classificação: Confidencial — Uso Interno TEIA
+Autoria: Cleiton Moura (@professorcinza) — TEIA
+Data-base: Julho/2026
+Conformidade legal: EC 132/2023 (Reforma Tributária), Lei 14.382/2022 (SERP), Lei 13.979/2020 (Marco Legal das Startups), Decreto 10.947/2022 (Portos)
+
+================================================================================
+SEÇÃO 0 — RESUMO EXECUTIVO
+================================================================================
+
+(a) Diagnóstico-central: O Custo Brasil atinge R$ 1,7 trilhão/ano (12-13% do PIB). Componentes principais: burocracia tributária (1.501 horas/ano), infraestrutura deficiente, custo de capital elevado, conformidade trabalhista e logística portuária 40% acima da média internacional. 4 horas/dia de deslocamento médio geram exaustão e perda de produtividade.
+
+(b) Aportes: Implementação da EC 132/2023 com governança independente; SERP obrigatório em 13.233 cartórios; Marco Regulatório de Infraestrutura (desburocratização portuária); Agenda + (desoneração de bens de capital); Programa Nacional de Eficiência Pública (benchmarking estados/municípios).
+
+(c) Eficiência: Redução de 20-50% no custo de conformidade tributária e logística. Ganho de produtividade de 8-12% em 5 anos.
+
+(d) Custo: R$ 2,8 bilhões em investimentos em digitalização de cartórios e sistemas portuários (fonte: Tesouro + BID). Retorno: R$ 340-850 bilhões/ano liberados.
+
+(e) Resultado agregado: Brasil sobe 25 posições no ranking Doing Business (de 124º para 99º). Tempo de conformidade tributária cai de 1.501 para 400 horas/ano.
+
+================================================================================
+SEÇÃO 1 — DIAGNÓSTICO
+================================================================================
+
+1.1 Base de dados
+- IFC/World Bank — Paying Taxes 2025: Brasil 1.501 horas/ano (184º/190).
+- OCDE: média 159 horas.
+- Chile: 291 horas.
+- EUA: 175 horas.
+- CNT — Pesquisa Rodoviária 2025: 65% das rodovias em estado regular/ruim.
+- ANTAQ — Relatório Portuário 2025: custo médio por TEU 40% acima média global.
+- TCU — Auditoria 2025: R$ 47 bilhões em sobrepreço logístico anual.
+
+1.2 Estoque e fluxo
+- Estoque de horas de conformidade: 1.501 horas/empresa/ano.
+- Fila média em portos: 8,4 dias (vs 2,1 dias Chile).
+- Custo de energia industrial: R$ 480/MWh (vs R$ 280 Chile).
+- Deslocamento médio diário: 4,1 horas (IBGE/PNAD 2025).
+- Perda de produtividade: 18% da jornada de trabalho.
+
+1.3 Razões estruturais
+- 27 legislações de ICMS diferentes.
+- 1.501 horas de conformidade tributária (vs 159 OCDE).
+- 13.233 cartórios ainda não digitalizados (SERP Lei 14.382/2022).
+- 47 portos organizados com gestão fragmentada.
+- Ausência de benchmarking interestadual de eficiência pública.
+
+1.4 Sensibilidade
+- Elasticidade Custo Brasil × horas conformidade: 0,8.
+- Elasticidade Custo Brasil × qualidade infraestrutura: -0,6.
+- Redução de 100 horas de conformidade = R$ 12 bilhões/ano de alívio.
+
+1.5 Equivalências materiais
+- Equivalente a imposto de 12-13% do PIB sobre a produção.
+- Equivalente a perda de 8,4 milhões de empregos formais em 5 anos.
+- Equivalente a 2,3% do PIB em ineficiência logística.
+
+1.6 Diagnóstico-resumo
+Custo Brasil é combinação de burocracia tributária, infraestrutura precária e governança fragmentada. Reforma Tributária (EC 132) e SERP já existem; falta execução coordenada.
+
+================================================================================
+SEÇÃO 2 — PROPOSTA 1: IMPLEMENTAÇÃO EC 132 COM GOVERNANÇA INDEPENDENTE
+================================================================================
+
+Instrumento: Decreto Presidencial + Portaria MF (prazo D+90)
+Conteúdo:
+- Criação do MIT (Comitê de Transição da Reforma Tributária) com 5 membros independentes (2 indicados pelo Senado, 2 pela Câmara, 1 pelo TCU).
+- Vedação de indicações setoriais por 10 anos.
+- Publicação mensal de cronograma de implementação do IBS/CBS.
+
+Estimativa: Implementação plena em 36 meses (vs 60 meses projetado).
+Justificativa: EC 132/2023 já aprovada. Falta estrutura de governança.
+
+================================================================================
+SEÇÃO 3 — PROPOSTA 2: SERP OBRIGATÓRIO — 13.233 CARTÓRIOS DIGITALIZADOS
+================================================================================
+
+Instrumento: Decreto MJSP + Portaria CNJ (prazo D+120)
+Conteúdo:
+- Digitalização obrigatória de todos os cartórios até D+540.
+- Integração com Receita Federal e cartórios de títulos.
+- Sanção de R$ 10 mil/dia por cartório não digitalizado após prazo.
+
+Estimativa: Redução de 180 horas/ano em conformidade imobiliária.
+Justificativa: Lei 14.382/2022 já existe. 38% dos cartórios ainda analógicos.
+
+================================================================================
+SEÇÃO 4 — PROPOSTA 3: MARCO REGULATÓRIO DE INFRAESTRUTURA (PORTOS)
+================================================================================
+
+Instrumento: Medida Provisória convertida em Lei + Decreto (prazo D+180)
+Conteúdo:
+- Unificação de gestão de 47 portos organizados sob uma única agência.
+- Leilão de terminais com cláusula de eficiência (custo/TEU).
+- Redução de 40% no tempo de liberação alfandegária.
+
+Estimativa: Economia de R$ 18 bilhões/ano em sobrepreço portuário.
+Justificativa: Modelo adotado no Chile reduziu custo portuário em 35%.
+
+================================================================================
+SEÇÃO 5 — PROPOSTA 4: AGENDA + (DESONERAÇÃO DE BENS DE CAPITAL)
+================================================================================
+
+Instrumento: Decreto MF + Resolução Camex (prazo D+60)
+Conteúdo:
+- Zerar alíquota de importação de 847 bens de capital e equipamentos industriais.
+- Criação de lista positiva atualizada anualmente.
+- Crédito presumido de 50% do IPI para bens fabricados no Brasil.
+
+Estimativa: Aumento de 12% no investimento industrial em 24 meses.
+Justificativa: Experiência de 2014-2018 demonstrou elasticidade de 0,9.
+
+================================================================================
+SEÇÃO 6 — PROPOSTA 5: PROGRAMA NACIONAL DE EFICIÊNCIA PÚBLICA
+================================================================================
+
+Instrumento: Decreto Presidencial (prazo D+90)
+Conteúdo:
+- Ranking anual de eficiência de estados e municípios (15 indicadores).
+- Transferência de recursos do FPE/FPM vinculada a melhoria de posição.
+- Prêmio de R$ 500 milhões ao estado mais eficiente (fonte: Tesouro).
+
+Estimativa: Melhoria média de 18% nos indicadores de eficiência em 3 anos.
+Justificativa: Modelo adotado na Colômbia (Ranking de Eficiencia) reduziu Custo Brasil em 9%.
+
+================================================================================
+SEÇÃO 7 — MODELO DE IMPACTO FISCAL PROJETADO (2025-2027)
+================================================================================
+
++-----------------------------------+------------+------------+------------+
+| Indicador                         | 2025       | 2026       | 2027       |
++-----------------------------------+------------+------------+------------+
+| Horas conformidade tributária     | 1.501      | 1.120      | 820        |
+| Custo portuário (US$/TEU)         | 420        | 380        | 340        |
+| Tempo fila portos (dias)          | 8,4        | 6,1        | 4,2        |
+| Investimento industrial (R$ bi)   | 380        | 410        | 460        |
+| Alívio Custo Brasil (R$ bi/ano)   | 0          | 85         | 210        |
+| Posição Doing Business            | 124        | 115        | 105        |
++-----------------------------------+------------+------------+------------+
+
+Impacto acumulado 2025-2027: R$ 295 bilhões de alívio no Custo Brasil.
+
+================================================================================
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+================================================================================
+
+- EC 132/2023: Reforma Tributária (IBS + CBS).
+- Lei 14.382/2022: Sistema Eletrônico de Registros Públicos (SERP).
+- Decreto 10.947/2022: Marco Legal dos Portos.
+- Lei 13.979/2020: Marco Legal das Startups (desburocratização).
+- Implementação via decretos e portarias ministeriais.
+
+================================================================================
+SEÇÃO 9 — RISCOS E MITIGAÇÕES
+================================================================================
+
+Risco 1: Captura setorial do MIT
+Mitigação: Composição independente + publicação de atas + TCU como ouvinte permanente.
+
+Risco 2: Resistência de cartórios à digitalização
+Mitigação: Sanções diárias + linha de crédito do BNDES para digitalização.
+
+Risco 3: Lobby portuário contra unificação
+Mitigação: Leilão de terminais com cláusula de eficiência + pressão de exportadores.
+
+Risco 4: Perda de arrecadação com desoneração
+Mitigação: Compensação via aumento de volume de importações e formalização.
+
+================================================================================
+SEÇÃO 10 — RECOMENDAÇÃO FINAL E TIMELINE
+================================================================================
+
+Recomendação: Priorizar Propostas 1, 2 e 3 (impacto mensurável em 18 meses). Implementação via Casa Civil + MDIC + MF.
+
+Timeline:
+D+0   — Decreto de criação do MIT
+D+30  — Portaria de digitalização cartorial
+D+60  — Resolução Camex (Agenda +)
+D+90  — Decreto de unificação portuária
+D+120 — Ranking de Eficiência Pública publicado
+D+180 — Primeira avaliação de impacto
+D+360 — Meta: 1.120 horas de conformidade
+D+720 — Meta: 820 horas + custo portuário US$ 340/TEU
+D+1.800 — Meta final: 400 horas + posição 99º Doing Business
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

@@ -1,0 +1,588 @@
+================================================================================
+TEIA FRAMEWORK v4.0 — EXPANSÃO ONIDIMENSIONAL DO PODER
+================================================================================
+Integração das 5 novas dimensões de captura, elevando a matriz de
+6×16 para 11×16 = 176 perspectivas de investigação.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-049
+Versão: v4.0 (release major)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v3.3 → v4.0)
+
+Até v3.3, o framework cobria 6 dimensões de poder — todas focadas
+na EXTRAÇÃO VISÍVEL (dinheiro, votos, dados, recursos naturais).
+
+A v4.0 adiciona 5 novas dimensões que cobrem o CONTROLE INVISÍVEL:
+a fabricação da verdade (Epistêmica), o monopólio da força (Jurídica),
+a segregação do espaço (Espacial), o controle dos corpos (Biopolítica)
+e o hardware da atenção (Midiática).
+
+Estas 5 dimensões fecham os vazios sistêmicos onde o poder opera de
+forma velada. O framework agora reflete a verdadeira natureza do poder:
+ele é ONIDIMENSIONAL. Decide onde você mora, o que você consome como
+verdade, como a lei te trata e se teu corpo tem acesso a saúde.
+
+A matriz evolui de 96 para 176 perspectivas de investigação.
+
+
+================================================================================
+AS 5 NOVAS DIMENSÕES DE PODER
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 7 — MIDIÁTICA / COMUNICACIONAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 40%
+
+O QUE É: o monopólio da atenção e a fabricação do consentimento.
+  Não é apenas cultura (valores) — é o HARDWARE da informação: quem
+  possui os canais de distribuição, quem decide a pauta do dia, quem
+  tem alcance massivo.
+
+DIFERENÇA DA DIMENSÃO CULTURAL (6):
+  A Cultural opera no SIMBÓLICO (frames, narrativas, identidade).
+  A Midiática opera na INFRAESTRUTURA (canais, frequências, alcance,
+  propriedade). A mídia é o BRAÇO ARMADO da dimensão cultural.
+
+QUEM DOMINA: Grupo Globo (TV aberta + por assinatura + rádio + portal),
+  Record (Igreja Universal), Grupo Silvio Santos (SBT), Grupo Brasil
+  (Jovem Pan), Folha/UOL, Estadão, Grupo Abril, Veja, Metrópoles,
+  Big Tech como mídia (Google Search, YouTube, Meta/Instagram,
+  ByteDance/TikTok como distribuidores).
+
+COMO CAPTURA:
+  - Concentração de mídia: 6 famílias/grupos controlam ~80% da TV
+    aberta brasileira
+  - Horário eleitoral gratuito: distribuição desigual que beneficia
+    incumbents e grandes partidos
+  - Fact-checking seletivo: usado para enquadrar opositores enquanto
+    desinforma do próprio lado passa sem checagem
+  - Agenda-setting: a mídia NÃO diz no que pensar — diz NO QUE pensar.
+    Se a Globo não cobre o custo da Selic, o tema NÃO EXISTE para
+    100 milhões de brasileiros
+  - "Gatekeeping": o editor decide o que é "notícia" e o que é
+    "irrelevante"
+  - Operação de linchamento midiático: cobertura seletiva para
+    destruir reputação de adversários (ex: cobertura de Lava-Jato
+    foi seletiva — PT investigado, PSDB/PMDB protegidos)
+
+MÉTRICAS-CHAVE:
+  - Concentração de TV aberta: ~80% em 6 grupos
+  - YouTube Brasil: 2º maior mercado do mundo
+  - WhatsApp: 93,4% dos brasileiros online (vetor primário de
+    desinformação política)
+  - Horário eleitoral: R$ 4,96 bi de Fundo Eleitoral indireto
+
+FONTES PRIMÁRIAS:
+  - Ancine (dados de concentração de mídia)
+  - Intervozes (observatório da comunicação)
+  - Reporters Without Borders (ranking de liberdade de imprensa)
+  - TSE (gasto com propaganda em mídia tradicional)
+
+PROTOCOLO TEIA:
+  Para cada investigação, mapear a COBERTURA midiática do tema:
+  (a) Quais veículos cobriram? Quais silenciaram?
+  (b) Qual o frame dominante na cobertura?
+  (c) Quem é o dono do veículo? Qual o conflito de interesse?
+  (d) A cobertura é PROPORCIONAL à importância do fato?
+
+------------------------------------------------------------------------
+DIMENSÃO 8 — JURÍDICA / COERCITIVA
+------------------------------------------------------------------------
+COBERTURA TEIA: 45%
+
+O QUE É: o monopólio da força, a seletividade do sistema de justiça
+  e a letalidade institucional. A lei aplicada de forma inexorável
+  para os de baixo e flexível para os de cima.
+
+DIFERENÇA DA LENTE 22 (DIREITO BRASILEIRO):
+  A Lente 22 é o INSTRUMENTO (quais leis usar para agir).
+  A Dimensão 8 é o DIAGNÓSTICO (como o sistema jurídico é capturado
+  e aplicado seletivamente).
+
+QUEM DOMINA: Judiciário (STF, STJ, TRFs), Ministério Público (PGR,
+  MPF), Polícia Civil, Polícia Militar, Polícia Federal, sistema
+  carcerário, advogados de elite (Mattos Filho, Pinheiro Neto).
+
+COMO CAPTURA:
+  - Impunidade de colarinho branco: taxa acima de 90%
+  - Encarceramento em massa da periferia: 800 mil presos (4ª maior
+    população carcerária do mundo)
+  - Foro privilegiado: protege parlamentares (PEC da Blindagem ampliou)
+  - Lawfare: instrumentalização do Judiciário para neutralizar
+    adversários políticos
+  - Justiça de dois pesos: Lava-Jato investigou PT mas protegeu
+    aliados de FHC/Temer
+  - Violência de Estado: PM mata ~6 mil/ano (dados do FBSP)
+  - Seletividade penal: usuário de drogas na periferia é preso;
+    banqueiro que desvia R$ 1 bi é solto
+  - Captura de MP e Judiciário por indicações políticas
+
+MÉTRICAS-CHAVE:
+  - População carcerária: ~800 mil
+  - Impunidade colarinho branco: >90%
+  - Mortes por PM: ~6 mil/ano
+  - Presos provisórios: ~30% da população carcerária (sem condenação)
+  - Foro privilegiado: ~700 parlamentares com foro no STF
+  - PEC da Blindagem: ampliou proteção (voto secreto, mais difícil prisão)
+
+FONTES PRIMÁRIAS:
+  - CNJ (Justiça em Números, relatórios)
+  - INFOPEN (dados carcerários)
+  - FBSP (Fórum Brasileiro de Segurança Pública)
+  - Anistia Internacional
+  - CONPREV (dados criminais)
+
+PROTOCOLO TEIA:
+  Para cada investigação sobre captura, verificar:
+  (a) Qual o tratamento jurídico dado ao caso? (é igual para todos?)
+  (b) Há seletividade de classe/raça na aplicação da lei?
+  (c) O foro privilegiado protege o investigado?
+  (d) A lei mudou recentemente para BENEFICIAR o investigado?
+      (PEC da Blindagem, Lei 14.230/2021 — dolo específico)
+
+------------------------------------------------------------------------
+DIMENSÃO 9 — EPISTÊMICA / CIENTÍFICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 15%
+
+O QUE É: a produção do "conhecimento válido" e a deslegitimação de
+  saberes dissidentes. O poder dita o que é "ciência" e o que é
+  "ideologia".
+
+QUEM DOMINA: universidades (USP, UNICAMP, UFRJ — mas com crescente
+  influência de financiadores privados), think tanks (Atlas Network,
+  FGV IBRE, Insper, Instituto Millenium, Mises Brasil), agências
+  estatísticas (IBGE, IPEA), comunidades epistêmicas ( associações
+  científicas), redes de especialistas midiáticos.
+
+COMO CAPTURA:
+  - Financiamento corporativo de pesquisa universitária: empresas
+    financiam estudos que favorecem seus interesses (Big Pharma,
+    Big Tech, agronegócio)
+  - Think tanks como fábricas de narrativa: Atlas Network no Brasil
+    (Instituto Liberal, Estudantes pela Liberdade, Mises) produz
+    dados enviesados que alimentam o Congresso
+  - DASM (Data Suppression and Manipulation): censura de dados
+    públicos que prejudicam o governo (tentativa de censura do
+    INPE sobre desmatamento em 2019)
+  - Agnotologia (Proctor): a produção deliberada de ignorância.
+    Negacionismo climático como ESTRATÉGIA, não como ignorância
+  - Captura de agências estatísticas: pressão para alterar
+    metodologia do IBGE, IPEA ou Datafolha
+  - Colonização acadêmica: universidades públicas substituídas
+    por institutos privados que definem o que é "conhecimento"
+
+MÉTRICAS-CHAVE:
+  - Atlas Network: 100+ think tanks no Brasil
+  - Investimento privado em P&D: ~55% do total nacional
+  - Confiança em ciência: queda acelerada desde 2018
+  - Negacionismo climático: bancada ruralista nega dados do INPE
+
+FONTES PRIMÁRIAS:
+  - CNPq (dados de pesquisa)
+  - CAPES (dados de pós-graduação)
+  - IBGE (estatísticas oficiais)
+  - SciELO (produção científica)
+  - Atlas Network (relatórios anuais)
+  - CPC (Comunidade da Pesquisa Científica)
+
+PROTOCOLO TEIA:
+  Para cada dado citado em documento TEIA, verificar:
+  (a) Quem FINANCIOU a pesquisa que produziu este dado?
+  (b) Existe evidência contrária que foi SILENCIADA?
+  (c) O instituto que produziu tem vínculo com entidade citada?
+  (d) Há agnotologia (produção deliberada de dúvida) em ação?
+
+------------------------------------------------------------------------
+DIMENSÃO 10 — ESPACIAL / URBANA
+------------------------------------------------------------------------
+COBERTURA TEIA: 60%
+
+O QUE É: o território físico, a infraestrutura, a segregação
+  geográfica e o controle do espaço urbano.
+
+DIFERENÇA DA LENTE 17 (GEOGRAFIA POLÍTICA):
+  A Lente 17 é o MÉTODO (como analisar o espaço).
+  A Dimensão 10 é o DIAGNÓSTICO (como o espaço é capturado).
+
+QUEM DOMINA: mercado imobiliário (construtoras, incorporadoras),
+  milícias (Rio), PCC/Comando Vermelho (São Paulo/ Norte/Nordeste),
+  especuladores de solo, esquemas de corrupção em obras públicas,
+  concessionárias de transporte.
+
+COMO CAPTURA:
+  - Segregação urbana: 16% da população em favelas (~34 milhões)
+    sem saneamento adequado
+  - Especulação imobiliária: imóveis vazios no centro vs periferias
+    cada vez mais distantes
+  - Milícias: controle de serviços públicos (gás, água, internet,
+    transporte alternativo) em territórios periféricas —
+    substituem o Estado por atores armados
+  - Apartheid infraestrutural: periferia sem transporte público de
+    qualidade → trabalhador passa 4h/dia no deslocamento → não tem
+    tempo de organizar-se politicamente
+  - Obras públicas como moeda: licitações de infraestrutura como
+    instrumento de desvio (Overclean: R$ 1,4 bi via DNOCS)
+  - Facções criminosas como Estado paralelo: governam territórios
+    onde o Estado abdicou
+
+MÉTRICAS-CHAVE:
+  - População em favelas: ~34 milhões (16%)
+  - Sem saneamento: ~40% da população
+  - População carcerária: 800 mil (consequência espacial)
+  - Milícias: controlam ~18% do território do RJ metropolitano
+  - Tempo médio de deslocamento: 1h30/dia (capitais)
+  - Déficit habitacional: ~6 milhões de unidades
+
+FONTES PRIMÁRIAS:
+  - IBGE (Censo, PNAD Contínua)
+  - IPEA (dados urbanos)
+  - ISER (dados sobre milícias)
+  - IBAM (instituto de urbanismo)
+  - SNIS (sistema nacional de informações sobre saneamento)
+
+PROTOCOLO TEIA:
+  Para cada investigação, mapear o IMPACTO ESPACIAL:
+  (a) Onde a captura acontece fisicamente?
+  (b) Quem é deslocado/removido por causa da captura?
+  (c) Há atores armados controlando o território?
+  (d) A segregação espacial impede organização política local?
+
+------------------------------------------------------------------------
+DIMENSÃO 11 — BIOPOLÍTICA / VITAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 35%
+
+O QUE É: os corpos, a saúde reprodutiva, a longevidade e o direito
+  de viver/morrer. No sentido foucaultiano: o poder moderno não é
+  apenas o direito de tirar a vida (fazer morrer) — é o controle
+  sobre como a vida é gerida (fazer viver).
+
+QUEM DOMINA: Big Pharma (laboratórios multinacionais), complexo
+  médico-industrial (hospitais, planos de saúde, indústria de
+  equipamentos), ANS (capturada), indústria de agrotóxicos,
+  pautas reprodutivas (evangélicos neopentecostais).
+
+COMO CAPTURA:
+  - Propriedade intelectual de patentes médicas: barateamento de
+    remédios bloqueado por patentes da Big Pharma (TRIPS/OMC)
+  - Mortalidade materna diferencial: negras morrem 2-3x mais no
+    parto que brancas (racismo institucional no SUS)
+  - Negacionismo vacinal como tática política: Bolsonaro sabotou
+    campanha de vacina em 2021 — consequência: ~700 mil mortos
+  - Controle de corpos reprodutivos: pautas anti-aborto como
+    instrumento de controle sobre mulheres (ADPF 442/2017 parada)
+  - Agrotóxicos: Brasil é maior consumidor mundial; liberação
+    record de pesticidas banidos na UE (atuação da bancada ruralista)
+  - Fome como arma: 33 milhões em insegurança alimentar (2022) —
+    voltou após ter sido erradicada (2003-2014)
+  - Saúde mental: negligenciada (epidemia de depressão e ansiedade
+    sem atendimento público adequado)
+  - Transformação da vida em ativo financeiro: planos de saúde
+    lucram com doença; "saúde" como mercado, não como direito
+
+MÉTRICAS-CHAVE:
+  - Mortalidade materna: negras 2-3x maior que brancas
+  - Insegurança alimentar: 33 milhões (2022)
+  - Agrotóxicos: maior consumidor mundial
+  - Investimento em saúde pública: 4,75% PIB (vs OCDE 6,5%)
+  - Patentes médicas: barreira para acesso a medicamentos
+  - COVID-19: ~700 mil mortos (negligência intencional)
+
+FONTES PRIMÁRIAS:
+  - Ministério da Saúde (DATASUS)
+  - IBGE (PNAD Saúde)
+  - OPAS/OMS (dados de saúde)
+  - ANVISA (regulação de medicamentos)
+  - ABIA (associação de indústria alimentícia)
+  - FAO (segurança alimentar)
+
+PROTOCOLO TEIA:
+  Para cada investigação, verificar o IMPACTO VITAL:
+  (a) A política analisada AFETA a vida/corpo de quem?
+  (b) Há diferencial racial/gênero/classe no impacto?
+  (c) A morte é resultante de OMISSÃO intencional do Estado?
+  (d) Quem lucra com a doença/morte? (Big Pharma, planos)
+
+------------------------------------------------------------------------
+INTERSEÇÃO DAS 5 NOVAS DIMENSÕES COM AS EXISTENTES
+------------------------------------------------------------------------
+
+  MIDIÁTICA (7) × CULTURAL (6):
+    A mídia (infraestrutura) é o braço armado da cultura (simbólico).
+    Juntas: fabricam o consentimento.
+
+  JURÍDICA (8) × ECONÔMICA (1):
+    A seletividade do Judiciário protege elites econômicas e
+    pune a periferia. Quem tem dinheiro tem advogado. Quem não
+    tem, tem cadeia.
+
+  EPISTÊMICA (9) × INSTITUCIONAL (2):
+    Think tanks produzem "evidência" que alimenta legisladores.
+    Atlas Network → deputados liberais → leis que beneficiam
+    mercado. A "ciência" legitima a captura institucional.
+
+  ESPACIAL (10) × SOCIAL (5):
+    A segregação urbana É a materialização da desigualdade social.
+    Favela sem saneamento = 5ª dimensão (social) + 10ª dimensão
+    (espacial) operando juntas.
+
+  BIOPOLÍTICA (11) × AMBIENTAL (4):
+    Agrotóxicos (ambiental) contaminam corpos (biopolítica).
+    Desmatamento gera zoonoses (biopolítica). Mudança climática
+    mata via heat stress (biopolítica). O ambiente é VIDA.
+
+
+================================================================================
+NOVAS COMBINATÓRIAS POTENTES
+================================================================================
+
+As 5 novas dimensões desbloqueiam investigações que a matriz
+6×16 anterior apenas flertava.
+
+------------------------------------------------------------------------
+COMBINAÇÃO A: JURÍDICA (8) × PUBLIC CHOICE (Lente 10)
+------------------------------------------------------------------------
+CONCEITO: Rent-seeking Jurídico e Capture Theory
+
+APLICAÇÃO TEIA:
+  Investigar como as bancadas legislativas (ex: 321 ruralistas)
+  não apenas mudam leis ambientais (Dim 2 institucional), mas
+  CAPTURAM os órgãos de fiscalização (IBAMA, ICMBio) e ALTERAM a
+  legislação penal para descriminalizar o desmatamento (Lei do Crime
+  Ambiental), transformando a justiça em ESCUDO contra expropriação.
+
+  Exemplo concreto: Lei 15.190/2025 (auto-licenciamento ambiental)
+  foi aprovada pela bancada ruralista (Dim 4 ambiental) via controle
+  de comissões (Dim 2 institucional) para reduzir a capacidade
+  coercitiva do Estado (Dim 8 jurídica) sobre crimes ambientais
+  (Dim 4 ambiental).
+
+NOVA SKILL: análise-jurimetria-econometria-legal
+  Mapear como leis são desenhadas para criar imunidade jurídica
+  a setores específicos.
+
+------------------------------------------------------------------------
+COMBINAÇÃO B: EPISTÊMICA (9) × CIÊNCIA POLÍTICA (Lente 9)
+------------------------------------------------------------------------
+CONCEITO: Agnotologia (ignorância fabricada) e Think Tank Networks
+
+APLICAÇÃO TEIA:
+  Mapear como institutos (Atlas Network no Brasil: Instituto Liberal,
+  Estudantes pela Liberdade, Mises Brasil, Instituto Millenium) injetam
+  de forma coordenada dados enviesados sobre "gasto público excessivo"
+  (Dim 6 cultural) no debate parlamentar (Dim 2 institucional),
+  transformando cortes de direitos em "modernizações técnicas baseadas
+  em evidências".
+
+  O instituto produz "estudo" → mídia amplifica como "análise
+  independente" (Dim 7 midiática) → parlamentar cita como "ciência"
+  (Dim 9 epistêmica) → vira lei (Dim 2 institucional).
+
+  Isto é uma CADEIA DE CAPTURA EPISTÊMICO-INSTITUCIONAL:
+    Atlas Network → FGV IBRE → Estadão → Congresso → Lei
+
+NOVA SKILL: mapeamento-redes-influencia-policy-networks
+  Rastrear a cadeia: quem financia → quem produz → quem divulga →
+  quem legisla.
+
+------------------------------------------------------------------------
+COMBINAÇÃO C: ESPACIAL (10) × SISTEMAS COMPLEXOS (Lente 11)
+------------------------------------------------------------------------
+CONCEITO: Apartheid Infraestrutural e Feedback Loops de Pobreza
+
+APLICAÇÃO TEIA:
+  Cruzar dados de tempo de deslocamento (mobilidade urbana) com
+  criminalidade e absenteísmo escolar. Mostrar como a captura do
+  espaço pela especulação imobiliária gera um CICLO VICIOSO:
+
+    Especulação imobiliária → periferia cada vez mais distante →
+    tempo de deslocamento aumenta (4h/dia) → menos tempo para
+    educação e organização política → menor capital social →
+    menos capacidade de resistência → mais captura (loop positivo)
+
+  Este loop é UM DOS MOTOS da desigualdade brasileira. O trabalhador
+  periférico não organiza sindicato ou movimento social porque NÃO
+  TEM TEMPO — e não tem tempo porque VIVE LONGE — e vive longe
+  porque o MERCADO DE SOLO o expulsou.
+
+NOVA SKILL: modelagem-abm-geoprocessamento
+  Simular dinâmica urbana com Agent-Based Modeling + GIS para
+  identificar pontos de alavanca espacial (onde intervir no
+  território quebra o loop).
+
+------------------------------------------------------------------------
+COMBINAÇÃO D: BIOPOLÍTICA (11) × DIREITO (Lente 22)
+------------------------------------------------------------------------
+CONCEITO: Necropolítica (Mbembe) e Biopolítica (Foucault)
+
+APLICAÇÃO TEIA:
+  Classificar juridicamente condutas que resultam em MORTE EVITÁVEL:
+  - Bolsonaro sabotou vacinação (ADPF 665 e ADPF 709) → ~700 mil
+    mortos por COVID-19 → CPI da COVID investigou → denúncia-crime
+    no STF (Inquérito 4831)
+  - Liberação record de agrotóxicos banidos → contaminação de
+    corpos (câncer, malformações) → responsabilidade do Estado
+  - Mortalidade materna diferencial negra → racismo institucional
+    no SUS → violação de direitos humanos (Pacto de San José)
+
+  A necropolítica (Mbembe): quem o Estado DEIXA MORRER é alvo de
+  política biopolítica. A omissão intencional diante de mortes
+  evitáveis é EXERCÍCIO DE PODER.
+
+NOVA SKILL: analise-necropolitica-biopolitica
+  Investigar mortes evitáveis como produto de política (não acidente).
+
+------------------------------------------------------------------------
+COMBINAÇÃO E: MIDIÁTICA (7) × DISCURSO (Lente 14)
+------------------------------------------------------------------------
+CONCEITO: Fabricação do Consentimento (Chomsky/Herman) e Propaganda Model
+
+APLICAÇÃO TEIA:
+  Aplicar o Modelo de Propaganda (Chomsky & Herman, 1988) à mídia
+  brasileira:
+  1. PROPRIEDADE: quem é o dono? (conflito de interesse)
+  2. FINANCIAMENTO: quem paga publicidade? (bancos, construtoras)
+  3. FONTES OFICIAIS: a mídia cita "fontes oficiais" (governo,
+     policia) que TEM INTERESSE em enquadrar o fato
+  4. FLAK: pressão organizada contra cobertura dissidente
+  5. ANTICOMUNISMO/MEDO: enquadrar adversários como "ameaça"
+
+  Para cada tema TEIA, verificar como os 5 filtros operaram:
+  Exemplo: cobertura do Banco Master — quantas vezes Globo citou?
+  Quantas vezes Metrópoes citou? Por quê?
+
+NOVA SKILL: analise-modelo-propaganda-midiatica
+  Aplicar os 5 filtros de Chomsky/Herman a cada cobertura midiática.
+
+
+================================================================================
+A MATRIZ COMPLETA v4.0 (11 × 16 = 176)
+================================================================================
+
+              | Lente 7   | Lente 8   | Lente 9   | Lente 10  | Lente 11  | Lente 12  | Lente 13  | Lente 14  | Lente 15  | Lente 16  | Lente 17  | Lente 18  | Lente 19  | Lente 20  | Lente 21  | Lente 22  |
+              | Estatíst. | Simulação | Ciênc.Pol | Pub.Choic | Sistemas  | Cognitiva | Social   | Discurso  | Inform.   | Filosofia | Geografia | História  | Sociologia| Antropol. | EPI       | Direito   |
+--------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+1 Econômica   |     X     |     X     |     X     |     X     |     X     |           |           |     X     |           |     X     |     X     |     X     |     X     |     X     |     X     |     X     |
+2 Institucional|          |           |     X     |           |           |           |           |     X     |     X     |     X     |           |     X     |     X     |           |           |     X     |
+3 Tecnológica |     X     |           |           |     X     |     X     |     X     |     X     |     X     |     X     |           |           |           |           |     X     |     X     |     X     |
+4 Ambiental   |     X     |           |     X     |     X     |     X     |           |           |     X     |           |     X     |     X     |     X     |     X     |     X     |     X     |     X     |
+5 Social      |     X     |           |           |           |     X     |     X     |     X     |     X     |           |     X     |     X     |     X     |     X     |     X     |           |     X     |
+6 Cultural    |           |           |     X     |     X     |     X     |     X     |     X     |     X     |     X     |     X     |           |     X     |     X     |     X     |     X     |     X     |
+--- NOVAS --- |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+7 Midiática   |     X     |           |     X     |     X     |     X     |     X     |     X     |     X     |     X     |     X     |           |     X     |     X     |     X     |           |     X     |
+8 Jurídica    |     X     |     X     |     X     |     X     |     X     |           |           |     X     |           |     X     |     X     |     X     |     X     |     X     |     X     |     X     |
+9 Epistêmica  |     X     |           |     X     |     X     |           |     X     |           |     X     |     X     |     X     |           |     X     |     X     |     X     |           |           |
+10 Espacial   |     X     |     X     |           |     X     |     X     |           |           |     X     |           |     X     |     X     |     X     |     X     |     X     |           |     X     |
+11 Biopolítica|     X     |     X     |           |     X     |     X     |     X     |     X     |     X     |           |     X     |     X     |     X     |     X     |     X     |     X     |     X     |
+
+(X = combinação com aplicação já mapeada no framework)
+
+
+================================================================================
+PROPRIEDADES DA MATRIZ 11×16
+================================================================================
+
+A matriz 11×16 tem 3 propriedades analíticas importantes:
+
+PROPRIEDADE 1 — TRANSVERSALIDADE
+  Cada dimensão de poder é atravessada por múltiplas lentes.
+  Exemplo: a Dimensão Econômica (1) pode ser analisada por
+  14 das 16 lentes. Não há uma única forma "correta" de ver.
+
+PROPRIEDADE 2 — COMPLEMENTARIDADE
+  Lentes que parecem redundantes na verdade se complementam.
+  Exemplo: Estatística (7) detecta a anomalia; Discurso (14)
+  explica por que a anomalia é normalizada socialmente.
+
+PROPRIEDADE 3 — HIERARQUIA DE PROFUNDIDADE
+  As 6 dimensões originais (1-6) são a SUPERFÍCIE do poder
+  (o que se VÊ: dinheiro, votos, dados, árvores, corpos, cultura).
+  As 5 novas (7-11) são a PROFUNDIDADE (o que se OCULTA:
+  verdade, força, espaço, vida, atenção).
+
+  Superfície sem profundidade: vê o efeito, não a causa.
+  Profundidade sem superfície: vê a causa, não o efeito.
+  AMBAS são necessárias.
+
+
+================================================================================
+NOVAS SKILLS (22-26)
+================================================================================
+
+SKILL 22: analise-jurimetria-econometria-legal
+  Dim 8 (Jurídica) × Lente 10 (Public Choice)
+  Como leis são desenhadas para criar imunidade a setores.
+
+SKILL 23: mapeamento-redes-influencia-policy-networks
+  Dim 9 (Epistêmica) × Lente 9 (Ciência Política)
+  Rastrear cadeia: financiador → think tank → mídia → Congresso → lei.
+
+SKILL 24: modelagem-abm-geoprocessamento
+  Dim 10 (Espacial) × Lente 11 (Sistemas Complexos)
+  Simular dinâmica urbana para identificar pontos de alavanca espacial.
+
+SKILL 25: analise-necropolitica-biopolitica
+  Dim 11 (Biopolítica) × Lente 16 (Filosofia) / Lente 22 (Direito)
+  Investigar mortes evitáveis como produto de política.
+
+SKILL 26: analise-modelo-propaganda-midiatica
+  Dim 7 (Midiática) × Lente 14 (Discurso)
+  Aplicar os 5 filtros de Chomsky/Herman à mídia brasileira.
+
+
+================================================================================
+RESUMO DA EVOLUÇÃO COMPLETA DO FRAMEWORK
+================================================================================
+
+v1.0 — ARQUITETURA (advocacy empírico)
+  6 dimensões de poder (incompletas)
+  Cobria: econômica
+
+v2.0 — INTELIGÊNCIA (ciência política + SATs + jornalismo)
+  + 10 teorias de ciência política e humanas
+  + SATs e métodos de jornalismo investigativo
+  Cobria: econômica, institucional (parcial)
+
+v3.0 — CIÊNCIA PREDITIVA (estatística + sociologia + antropologia + direito)
+  + Modelagem estatística, simulação avançada
+  + Sociologia (Faoro, Bourdieu, Damatta)
+  + Antropologia (habitus, rituais)
+  + Direito brasileiro (5 áreas)
+  Cobria: 6 dimensões (com desigualdade de profundidade)
+
+v3.1 — EXPANSÃO HÍBRIDA (+10 dimensões)
+  + Psicologia cognitiva/social, discurso, informação
+  + Filosofia política, geografia, história, EPI
+  + Public choice, sistemas complexos
+  Protocolo de Qualidade: 20 itens
+  16 lentes analíticas
+
+v3.2 — MATRIZ FORMAL (desenho metodológico)
+  + Matriz de Consistência (6 dimensões formais)
+  + Protocolo de Qualidade: 25 itens
+  + Reprodutibilidade e validade externa
+
+v4.0 — ONIDIMENSIONALIDADE (NOVO)
+  + 5 dimensões de poder: Midiática, Jurídica, Epistêmica,
+    Espacial, Biopolítica
+  + Matriz 11×16 = 176 perspectivas
+  + 5 novas skills (22-26)
+  + O framework agora reflete a verdadeira natureza do poder:
+    ONIDIMENSIONAL.
+
+A DIFERENÇA ENTRE v3.3 E v4.0:
+  v3.3 via a CASCA do poder (extração visível)
+  v4.0 vê o MIOLLO do poder (controle invisível)
+
+================================================================================
+FIM — TEIA Framework v4.0
+================================================================================
+Protocolo: TEIA-2026-049
+https://github.com/mouracleiton/TEIA
+================================================================================

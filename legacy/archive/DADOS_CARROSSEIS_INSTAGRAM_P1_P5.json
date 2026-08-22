@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "protocolo": "TEIA-2026-070 (Mapa Soluções) + Dossiês 086-089",
+    "data_extracao": "2026-07-20",
+    "fontes_base": [
+      "TEIA-2026-086_DOSSIE_SPREAD_BANCARIO_BCB",
+      "TEIA-2026-087_DOSSIE_CUSTO_BRASIL_MDIC",
+      "TEIA-2026-088_DOSSIE_CONFORMIDADE_TRIBUTARIA_RFB",
+      "TEIA-2026-089_DOSSIE_CONCENTRACAO_BANCARIA_CADE",
+      "TEIA-2026-004_SINTESE_FINAL_V3",
+      "TEIA-2026-070_MAPA_SOLUCOES_16_PROBLEMAS"
+    ],
+    "autor_dossies": "Cleiton Moura (@professorcinza) — TEIA"
+  },
+  "problemas": {
+    "P1_JUROS_DA_DIVIDA": {
+      "titulo_curto": "JUROS DA DÍVIDA",
+      "valor_principal": "R$ 950,4 bi/ano (2024) — projeção ~R$ 1,1 tri/ano (2025)",
+      "valor_destaque_carrossel": "R$ 950 bi/ano = 1,49× todo o orçamento de Saúde+Educação+Segurança (R$ 637 bi)",
+      "estoque_divida": "R$ 7,316 tri (DPF dez/2024)",
+      "juro_real": "9,18% a.a. (jun/2026)",
+      "atores": [
+        {
+          "nome": "Bancos top-5 (Itaú, Bradesco, Santander, BTG, Safra)",
+          "lucro": "Hedge natural da LFT — custo de mobilização política R$ 300-500 mi"
+        },
+        {
+          "nome": "Itaú (sozinho)",
+          "lucro": "Lucro recorde R$ 40,23 bi em 2024"
+        },
+        {
+          "nome": "Fundos de pensão (Previ, Petros, Funcef)",
+          "lucro": "Ativo de match atuarial — perdem se LFT for extinta"
+        },
+        {
+          "nome": "Asset managers (BTG Asset, XP Asset, Itau Asset)",
+          "lucro": "Flexibilidade de produto via LFT pós-fixada"
+        }
+      ],
+      "mecanismo": "A Dívida Pública Federal (R$ 7,3 tri) paga juros de ~R$ 950 bi/ano, 1,49× o orçamento de Saúde+Educação+Segurança. 33% da dívida ainda é pós-fixada à Selic (LFT), beneficiando bancos como hedge natural. Cada 1 p.p. de Selic custa ~R$ 60-70 bi/ano ao Tesouro — equivalente a dezenas de hospitais.",
+      "comparacao": "Share prefixado passou de 28% (dez/2022) para 47% (nov/2024) — tendência em curso. México fez alongamento (M-bonos) sem substituir Cetes. Prazo médio brasileiro ~4 anos (meta: 5-6 anos).",
+      "impacto_humano": "Cada 1 p.p. de Selic = ~62 hospitais não construídos ou R$ 62 bi que não vão para saúde/educação. População paga juros que financiam rentistas em vez de serviços públicos.",
+      "solucoes_chave": [
+        "S1 — Nota Técnica de Impacto Fiscal da Selic (publicada pelo Tesouro a cada Copom)",
+        "S2 — Índice de Qualidade da Dívida (IQD) trimestral",
+        "Acelerar prefixação: meta 55-60% até 2028",
+        "Alongar prazo com NTN-F de 10-30 anos"
+      ],
+      "fontes": [
+        "Tesouro Nacional — DPF dez/2024: R$ 7,316 tri",
+        "BCB — Juros pagos 2024: R$ 950,4 bi",
+        "LC 200/2023 — arcabouço fiscal",
+        "EC 126/2022 — orçamento",
+        "PIB 2024: R$ 11,7 tri / 2025e: R$ 12,4 tri"
+      ]
+    },
+    "P2_SPREAD_BANCARIO": {
+      "titulo_curto": "SPREAD BANCÁRIO",
+      "valor_principal": "28-30 p.p. de spread médio = R$ 240 bi/ano de custo excessivo (1,8% do PIB)",
+      "valor_destaque_carrossel": "Cartão rotativo: 380% a.a. (chega a 450%) — capitação PF supera 45% a.a. com Selic a 15%",
+      "estoque_credito": "R$ 5,8 tri (BCB jun/2026)",
+      "cartao_rotativo": "R$ 180 bi a 380% a.a. médio",
+      "consignado": "R$ 500 bi com spread 22 p.p.",
+      "atores": [
+        {
+          "nome": "Top-4 bancos (Itaú, Bradesco, Santander, BB)",
+          "lucro": "Subsídio cruzado de R$ 80 bi/ano dos tomadores para acionistas"
+        },
+        {
+          "nome": "Itaú",
+          "lucro": "R$ 40,23 bi de lucro recorde em 2024"
+        },
+        {
+          "nome": "Bureaus privados (Serasa, Boa Vista, SPC)",
+          "lucro": "Controlam 98% dos scores de crédito"
+        },
+        {
+          "nome": "Febraban (lobby)",
+          "lucro": "R$ 1,2 bi/ano em comunicação + orçamento institucional R$ 200-300 mi/ano"
+        }
+      ],
+      "mecanismo": "Spread médio de 28-30 p.p. (vs 3-4 p.p. EUA, 8 p.p. Chile) resulta de concentração (top-4 = 57,9%), assimetria informacional (bureaus privados) e regulação branda. 84% do spread é custo (inadimplência 35,7% + admin + tributário/FGC), mas 16% é margem que alimenta lucros recordes. CSLL bancário 20% vs 9% demais empresas.",
+      "comparacao": "EUA: 3-4 p.p. | Chile: 8 p.p. | Brasil: 28-30 p.p. (7-10× mais). PIX já reduziu 90% do custo de transferência. Chile e México adotaram tetos no cartão rotativo com queda de 60% no custo efetivo.",
+      "impacto_humano": "63 milhões de brasileiros negativados. Cartão rotativo a 380% a.a. cria armadilha de dívida impagável. Crédito consignado (R$ 500 bi) com spread 22 p.p. atinge aposentados e servidores. Equivalente a imposto regressivo de R$ 240 bi/ano sobre tomadores.",
+      "solucoes_chave": [
+        "Proposta 1: Open Finance com portabilidade irrestrita (48h, sanção R$ 50 mil/dia)",
+        "Proposta 2: Teto de 100% a.a. no cartão rotativo (hoje 300-450%)",
+        "Proposta 3: DREX como garantia via smart contracts (LGD 45%→12%)",
+        "Proposta 4: Fórum de Competição Financeira (fintechs+cooperativas+bancos)",
+        "Proposta 5: Score público open-source pelo BCB"
+      ],
+      "meta_revisada": "Spread 28-30 → 22 p.p. em 5 anos (nível Chile)",
+      "fontes": [
+        "BCB — Relatório de Estabilidade Financeira 2025: spread 28,4 p.p.",
+        "IFC/World Bank — Brasil 184º/190 em acesso a crédito",
+        "Febraban — Anuário 2025: top-4 = 57,9% depósitos",
+        "Serasa Experian — Score médio Brasil: 380/1000 (vs Chile 620)",
+        "BCB SGS 20783 — spread médio diário"
+      ]
+    },
+    "P3_CUSTO_BRASIL": {
+      "titulo_curto": "CUSTO BRASIL",
+      "valor_principal": "R$ 1,7 tri/ano (12-13% do PIB) — maior custo de fazer negócios do mundo emergente",
+      "valor_destaque_carrossel": "1.501 horas/ano de conformidade tributária = 188 dias de trabalho/ano só em impostos",
+      "horas_conformidade": "1.501 horas/empresa/ano (ranking 184º/190)",
+      "fila_portos": "8,4 dias (vs 2,1 Chile)",
+      "energia_industrial": "R$ 480/MWh (vs R$ 280 Chile)",
+      "deslocamento_diario": "4,1 horas/dia (IBGE/PNAD 2025)",
+      "atores": [
+        {
+          "nome": "Cartórios (13.233 não digitalizados)",
+          "lucro": "R$ 15,7 bi/ano de faturamento (CNJ) — lobby ANOREG/IEPTB"
+        },
+        {
+          "nome": "Escritórios de advocacia tributária (Mattos Filho, Pinheiro Neto)",
+          "lucro": "Indústria da complexidade tributária"
+        },
+        {
+          "nome": "Contadores (520 mil profissionais)",
+          "lucro": "Custo de R$ 48 mil/ano por empresa em conformidade"
+        },
+        {
+          "nome": "Burocratas de carreira (UNAFISCO, SINAFRESP, SINDIRECEITA)",
+          "lucro": "Manutenção de 93 obrigações acessórias (vs 11 OCDE)"
+        },
+        {
+          "nome": "Lobbies portuários (47 portos fragmentados)",
+          "lucro": "R$ 47 bi/ano em sobrepreço logístico (TCU)"
+        }
+      ],
+      "mecanismo": "Combinação de burocracia tributária (27 legislações de ICMS, 93 obrigações acessórias vs 11 OCDE), infraestrutura precária (65% das rodovias em estado regular/ruim) e logística portuária 40% acima da média global. 4,1 horas/dia de deslocamento geram 18% de perda de produtividade. EC 132/2023 e SERP já existem; falta execução coordenada.",
+      "comparacao": "Brasil 184º/190 em conformidade tributária (1.501h) | OCDE: 159h | Chile: 291h | EUA: 175h. Custo portuário US$ 420/TEU (Brasil) vs 35% menor no Chile. Brasil 124º em Doing Business.",
+      "impacto_humano": "Equivalente a 8,4 milhões de empregos formais perdidos em 5 anos. 4,1 horas/dia em trânsito = exaustão e perda de produtividade. ICMS consome 53% da renda dos 20% mais pobres vs 10% dos 20% mais ricos (imposto regressivo).",
+      "solucoes_chave": [
+        "Proposta 1: Implementação EC 132 com MIT independente (36 meses vs 60 projetados)",
+        "Proposta 2: SERP obrigatório — 13.233 cartórios digitalizados",
+        "Proposta 3: Marco Regulatório de Infraestrutura (unificação de 47 portos)",
+        "Proposta 4: Agenda + (zerar importação de 847 bens de capital)",
+        "Proposta 5: Programa Nacional de Eficiência Pública (ranking estados/municípios)"
+      ],
+      "meta_revisada": "Brasil sobe de 124º para 99º no Doing Business; conformidade cai de 1.501h para 400h/ano",
+      "fontes": [
+        "IFC/World Bank — Paying Taxes 2025: Brasil 1.501h (184º/190)",
+        "MBC/CNI — Custo Brasil R$ 1,7 tri/ano",
+        "ANTAQ — Relatório Portuário 2025: custo 40% acima média global",
+        "CNT — Pesquisa Rodoviária 2025: 65% rodovias regular/ruim",
+        "TCU — Auditoria 2025: R$ 47 bi/ano sobrepreço logístico",
+        "IBGE/PNAD 2025 — deslocamento 4,1h/dia"
+      ]
+    },
+    "P4_CONFORMIDADE_TRIBUTARIA": {
+      "titulo_curto": "CONFORMIDADE TRIBUTÁRIA",
+      "valor_principal": "1.501 horas/ano = 188 dias de trabalho/empresa (pior do mundo em ranking de 190 países)",
+      "valor_destaque_carrossel": "93 obrigações acessórias no Brasil vs 11 na OCDE — 8,5× mais burocracia",
+      "custo_por_empresa": "R$ 48 mil/ano (média)",
+      "numero_legislacoes_icms": "27 (uma por estado)",
+      "tempo_resposta_rfb": "47 dias (vs 12 no Chile)",
+      "regressividade_icms": "53% da renda dos 20% mais pobres vs 10% dos 20% mais ricos",
+      "atores": [
+        {
+          "nome": "Lobbies oligopolistas",
+          "lucro": "Usam complexidade como barreira de entrada contra concorrentes menores"
+        },
+        {
+          "nome": "27 secretarias estaduais de Fazenda",
+          "lucro": "Manutenção de 47 modelos de notas fiscais estaduais"
+        },
+        {
+          "nome": "Escritórios de planejamento tributário defensivo",
+          "lucro": "R$ 280 bi de inadimplência tributária gera litígios"
+        },
+        {
+          "nome": "Setor de contabilidade (520 mil profissionais)",
+          "lucro": "Custo de R$ 48 mil/ano por empresa"
+        }
+      ],
+      "mecanismo": "27 legislações estaduais de ICMS diferentes geram distorções e regressividade. PIS/COFINS cumulativo adiciona 8-12% de custo. Ausência de binding ruling prévio (conformidade consultiva) obriga planejamento tributário defensivo. Complexidade é usada por lobbies oligopolistas como barreira de entrada contra competidores menores.",
+      "comparacao": "Brasil: 1.501h/ano (184º/190) | OCDE: 159h | Chile: 291h | EUA: 175h. Austrália e Canadá adotaram binding ruling e reduziram litígios em 40%. Chile unificou notas fiscais e reduziu 60% do tempo de conformidade.",
+      "impacto_humano": "Equivalente a imposto regressivo de R$ 180 bilhões/ano sobre os mais pobres. ICMS consome 53% da renda dos 20% mais pobres vs 10% dos 20% mais ricos. 1,4% do PIB em ineficiência burocrática que é repassada ao consumidor.",
+      "solucoes_chave": [
+        "Proposta 1: Implementação EC 132 com MIT independente (5 membros independentes)",
+        "Proposta 2: Nota Fiscal Eletrônica Única Nacional (elimina 47 modelos estaduais)",
+        "Proposta 3: DACTE unificado multi-tributário (elimina 12 documentos auxiliares)",
+        "Proposta 4: Conformidade Consultiva — binding ruling prévio (resposta em 30 dias)",
+        "Proposta 5: Tabela de Tempo de Conformidade (ranking estadual com prêmio R$ 200 mi)"
+      ],
+      "meta_revisada": "1.501h → 400h/ano em 5 anos; Brasil sobe de 184º para 144º no Paying Taxes",
+      "fontes": [
+        "IFC/World Bank — Paying Taxes 2025: Brasil 1.501h (184º/190)",
+        "IBGE — Carga tributária: 33,5% do PIB (2025)",
+        "RFB — Relatório de Arrecadação: 27 legislações ICMS",
+        "Serasa — Inadimplência tributária: R$ 280 bi (2025)",
+        "EC 132/2023 — Reforma Tributária (IBS + CBS)",
+        "Lei 14.382/2022 — SERP"
+      ]
+    },
+    "P5_CONCENTRACAO_BANCARIA": {
+      "titulo_curto": "CONCENTRAÇÃO BANCÁRIA",
+      "valor_principal": "Top-4 bancos detêm 57,9% dos depósitos (R$ 2,43 tri) — top-10 = 89%",
+      "valor_destaque_carrossel": "Nubank tem só 4,8% do mercado depois de 12 anos — oligopólio é blindado",
+      "depositos_totais": "R$ 4,2 tri",
+      "top4": "R$ 2,43 tri (57,9%)",
+      "fintechs": "R$ 380 bi (9%)",
+      "cooperativas": "R$ 520 bi (12,4%)",
+      "spread_idêntico": "78% das modalidades têm preços paralelos (conluio tácito)",
+      "atores": [
+        {
+          "nome": "Itaú",
+          "lucro": "Lucro recorde R$ 40,23 bi em 2024 — maior banco privado da América Latina"
+        },
+        {
+          "nome": "Bradesco, Santander, Banco do Brasil",
+          "lucro": "Completam o top-4 com 57,9% dos depósitos (R$ 2,43 tri)"
+        },
+        {
+          "nome": "Febraban (gatekeeper de narrativa econômica)",
+          "lucro": "R$ 1,2 bi/ano em comunicação — controla narrativa econômica via imprensa"
+        },
+        {
+          "nome": "CADE (omisso)",
+          "lucro": "Apenas 3 fusões bancárias analisadas em 7 anos (2018-2025)"
+        },
+        {
+          "nome": "Bancada financeira no Congresso",
+          "lucro": "100-150 deputados + 15-20 senadores alinhados"
+        }
+      ],
+      "mecanismo": "Oligopólio opera em conluio tácito com preços paralelos (spread idêntico em 78% das modalidades). CADE analisou apenas 3 fusões bancárias em 7 anos. Open Banking foi implementado sem sanções por descumprimento. BCN (Resolução 4.656/2018) mantém barreiras residuais. Febraban controla a narrativa econômica via R$ 1,2 bi/ano em comunicação.",
+      "comparacao": "Modelo adotado pelo KfW alemão reduziu concentração bancária em 8 p.p. Fundo Soberano da Noruega é referência de governança independente. Sicredi/Sicoob já operam com spread 8-12 p.p. menor que bancos tradicionais.",
+      "impacto_humano": "Equivalente a subsídio de R$ 120 bi/ano aos acionistas dos top-4. Barreira de entrada de R$ 80 bilhões para fintechs. 0,9% do PIB em ineficiência de concorrência. Nubank, depois de 12 anos e 100 mi+ clientes, tem apenas 4,8% do mercado — o oligopólio é blindado.",
+      "solucoes_chave": [
+        "Proposta 1: CADE atua proativamente em fusões (sanção R$ 500 mi por fusão não notificada)",
+        "Proposta 2: Open Finance com multibancarização compulsória (5 instituições simultâneas)",
+        "Proposta 3: Fundo Soberano Federal de R$ 50 bi com cláusula anti-oligopólio",
+        "Proposta 4: Federação Nacional de Cooperativas (Sicredi + Sicoob com acesso ao redesconto BCB)",
+        "Proposta 5: Pregão Nacional de Crédito (BNDES financia bidder competitor a 4% a.a.)"
+      ],
+      "meta_revisada": "Top-4: 57,9% → 45% em 5 anos | Fintechs+cooperativas atingem 22% do mercado",
+      "fontes": [
+        "BCB — Relatório de Estabilidade Financeira 2025: top-4 = 57,9% depósitos",
+        "CADE — Jurisprudência 2018-2025: apenas 3 fusões bancárias analisadas",
+        "Febraban — Gastos com comunicação: R$ 1,2 bi/ano",
+        "Nubank — Market share: 4,8% (2025)",
+        "Lei 12.529/2011 — Lei de Concorrência (CADE)",
+        "Resolução CMN 4.656/2018 — BCN e fintechs"
+      ]
+    }
+  },
+  "sintese_engrenagens": {
+    "texto_carrossel_capa": "3 ENGRENAGENS EXTRAEM R$ 3+ TRI/ANO DA ECONOMIA REAL",
+    "engrenagem_1_financeira": "R$ 950 bi juros (P1) + R$ 500-700 bi spread (P2) + R$ 1,7 tri Custo Brasil (P3) = R$ 3+ tri/ano",
+    "engrenagem_2_politica": "Congresso capturado por oligarquias + orçamento secreto + PEC da Blindagem = reforma bloqueada",
+    "engrenagem_3_social": "SUS esvaziado + 33 mi com fome + 800 mil presos + 63 mi negativados = população exausta e submissa",
+    "lema": "RESOLVER UMA ENGRENAGEM SEM AS OUTRAS = REFORMA TEMPORÁRIA. RESOLVER AS 3 SIMULTANEAMENTE = TRANSFORMAÇÃO ESTRUTURAL."
+  },
+  "dados_visuais_destaque": {
+    "comparativo_internacional": [
+      {"indicador": "Spread bancário", "brasil": "28-30 p.p.", "eua": "3-4 p.p.", "chile": "8 p.p."},
+      {"indicador": "Conformidade tributária", "brasil": "1.501h/ano", "ocde": "159h", "chile": "291h", "eua": "175h"},
+      {"indicador": "Fila portos", "brasil": "8,4 dias", "chile": "2,1 dias"},
+      {"indicador": "Energia industrial", "brasil": "R$ 480/MWh", "chile": "R$ 280/MWh"},
+      {"indicador": "Obrigações acessórias", "brasil": "93", "ocde": "11"},
+      {"indicador": "Cartão rotativo", "brasil": "380% a.a.", "chile_eu_com_tetos": "~150% a.a."}
+    ],
+    "numeros_chocantes_carrossel": [
+      "R$ 950 bi/ano em juros = 1,49× Saúde+Educação+Segurança",
+      "1.501 horas/ano em impostos = 188 dias de trabalho perdidos",
+      "63 milhões de brasileiros negativados",
+      "Itaú lucrou R$ 40,23 bi em 2024 (recorde)",
+      "Top-4 bancos: 57,9% do mercado | Nubank: 4,8% (depois de 12 anos)",
+      "Febraban gasta R$ 1,2 bi/ano para controlar a narrativa econômica",
+      "Cartão rotativo a 380% a.a. — você deve 4,8× em 1 ano",
+      "ICMS consome 53% da renda dos 20% mais pobres vs 10% dos 20% mais ricos",
+      "8,4 milhões de empregos formais perdidos em 5 anos por Custo Brasil",
+      "4,1 horas/dia em trânsito = 18% da jornada perdida"
+    ],
+    "bens_publicos_sacrificados": [
+      "Cada 1 p.p. de Selic = ~62 hospitais não construídos",
+      "R$ 240 bi/ano de spread = orçamento do SUS quase dobrado",
+      "R$ 1,7 tri/ano de Custo Brasil = 8,4 milhões de empregos",
+      "R$ 120 bi/ano de subsídio aos top-4 = saneamento universal"
+    ]
+  },
+  "solucoes_sem_congresso": {
+    "titulo": "70% das soluções saem via Executivo (R$ 0, sem Congresso)",
+    "prioritarias": [
+      "S1 — Nota Impacto Fiscal Saúde (portaria MF, 90 dias, R$ 0)",
+      "S2 — IQD Índice Qualidade Dívida (portaria Tesouro, 90 dias, R$ 0)",
+      "S3 — Open Finance expandido (resolução CMN, 180 dias, R$ 0)",
+      "S22 — Regulação Score de Crédito (ANPD, 12 meses, R$ 0)",
+      "S23 — Teto Cartão Rotativo 100% a.a. (CMN, 12 meses, R$ 0)"
+    ]
+  }
+}

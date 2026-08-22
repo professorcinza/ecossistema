@@ -1,0 +1,372 @@
+================================================================================
+PLANO DE GOVERNO LULA (PT) — RECONSTRUÇÃO SOBERANA DO BRASIL
+================================================================================
+Aplicação sistemática do framework TEIA (66 dims × 24 lentes × PET 5 fases)
+aos 16 problemas endêmicos do Brasil, priorizando NÓS CRÍTICOS de intervenção
+================================================================================
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Protocolo: TEIA-2026-083
+Data: Julho/2026
+Tipo: Documento-mestre / Plano de Governo
+================================================================================
+
+PREMISSA METODOLÓGICA TEIA
+
+Este plano NÃO é uma lista de desejos. É aplicação sistemática do framework
+TEIA aos 16 problemas endêmicos diagnosticados no Brasil. Cada proposta
+passa pelo filtro PET (Protocolo de Execução TEIA):
+
+  FASE 1: dimensões de superfície (o que se vê)
+  FASE 2: lentes que rasgam (o que está oculto)
+  FASE 3: dimensões profundas (mergulho no abismo)
+  FASE 4: loop de captura (a engenharia)
+  FASE 5: nó crítico (onde intervir)
+
+O TEIA revela que TODOS os 16 problemas conectam a um NÓ CENTRAL:
+
+  O DINHEIRO QUE DEVERIA IR PARA O POVO ESTÁ SENDO CAPTURADO
+  POR UM SISTEMA INTEGRADO DE EXTRAÇÃO E CONTROLE.
+
+3 engrenagens:
+  ENGRENAGEM 1 — FINANCEIRA: R$ 3+ tri/ano extraídos (juros + spread + Custo Brasil)
+  ENGRENAGEM 2 — POLÍTICA: Congresso capturado por oligarquias + orçamento secreto
+  ENGRENAGEM 3 — SOCIAL: SUS esvaziado + 33 mi com fome + 63 mi negativados
+
+RESOLVER UMA ENGRENAGEM SEM AS OUTRAS = REFORMA TEMPORÁRIA.
+RESOLVER AS 3 SIMULTANEAMENTE = TRANSFORMAÇÃO ESTRUTURAL.
+
+
+================================================================================
+DIAGNÓSTICO HERDADO (2026)
+================================================================================
+
+O QUE O GOVERNO LULA 2023-2026 ENTREGOU (reconhecer):
+  → PIB cresceu ~2,5-3% a.a. (acima da média histórica de 1,7%)
+  → Desemprego caiu de ~9% para ~6,5%
+  → Renda real do.bottom 50% subiu ~8% (Bolsa Família + mínimos)
+  → EC 132 (Reforma Tributária) sancionada — marco histórico
+  → Resultado primário melhorou (rombo menor que previsto)
+  → Reconstituição do Estado (ministérios, SUSe CONAB restaurados)
+  → Política externa ativa (BRICS+, Acordo Mercosul-UE)
+
+O QUE O GOVERNO LULA 2023-2026 NÃO CONSEGUIU (ser honesto):
+  → Juros da dívida: R$ 950 bi/ano (déficit nominal R$ 250+ bi)
+  → Selic permanece em patamar estruturalmente alto (~10-11% real)
+  → Spread bancário: 28-30 p.p. (sem redução significativa)
+  → 63 milhões de negativados (pouca mudança)
+  → 33 milhões em insegurança alimentar (recuperação parcial)
+  → SUS: orçamento insuficiente (R$ 245 bi União vs necessidade R$ 435 bi)
+  → Orçamento Secreto/Emendas: captura congressual não desmontada
+  → PEC da Blindagem: aprovada (voto secreto, foro ampliado)
+  → Desmatamento: queda parcial, mas Lei 15.190 (auto-licenciamento) aprovada
+  → 800 mil presos / 6 mil mortes policiais/ano (sem reforma)
+  → Infraestrutura: gargalos persistem (Custo Brasil R$ 1,7 tri/ano)
+
+VERDADE INCOMODA: O governo Lula 2023-2026 fez MUITO. Mas a estrutura de
+captura permaneceu INTACTA. Sem desmontar a engrenagem financeira e a
+captura congressual, qualquer governo — mesmo competente — é empurrado contra
+a parede orçamentária. Um segundo mandato precisa ir DIRETO no nó.
+
+
+================================================================================
+NÓ CRÍTICO CENTRAL (onde este plano ataca)
+================================================================================
+
+O TEIA identifica UM nó crítico que, se desmontado, libera TODAS as outras
+reformas:
+
+  O CUSTO FISCAL DA DÍVIDA PÚBLICA (R$ 950 bi/ano)
+
+Por que este nó é central:
+  → Cada R$ 1 que vai para juros é R$ 1 que NÃO vai para SUS, educação,
+    segurança, infraestrutura, meio ambiente
+  → R$ 950 bi/ano = 4x o orçamento da Saúde
+  → Enquanto este nó existir, TODO governo é refém fiscal
+  → Enquanto este nó existir, a direita pode gritar "não tem dinheiro"
+    — porque de fato não sobra, DEPOIS dos juros
+  → Enquanto este nó existir, reforma tributária não gera alívio real
+
+ESTE PLANO ATACA O NÓ. Não suas ramificações.
+
+Todos os 6 eixos seguintes conectam direta ou indiretamente ao nó crítico.
+Cada eixo identifica seus próprios subnós. Cada meta é SMART (Específica,
+Mensurável, Atingível, Relevante, Temporalizada).
+
+
+================================================================================
+ARQUITETURA DO PLANO — 6 EIXOS
+================================================================================
+
+EIXO 1 — ENFRENTAR O NÓ FINANCEIRO (Selic + Dívida + Spread)
+  Meta macro: Reduzir custo fiscal da dívida de R$ 950 bi (2026) para
+  R$ 650-700 bi (2030), liberando R$ 250-300 bi/ano para investimento público.
+  Detalhamento: TEIA-2026-084 (Eixos 1-2, subagent)
+
+EIXO 2 — DESMONTAR A CAPTURA POLÍTICA
+  Meta macro: Fim do orçamento secreto, voto secreto e foro ampliado;
+  instalação de norma de conflito de interesse parlamentar; ADPF 854
+  julgada; PEC da Blindagem derrubada em ADI.
+  Detalhamento: TEIA-2026-084 (Eixos 1-2, subagent)
+
+EIXO 3 — RECONSTRUIR O SUS
+  Meta macro: Orçamento SUS União de R$ 245 bi (2026) para R$ 435 bi (2030),
+  com 5 propostas que liberam R$ 89-150 bi/ano SEM Congresso.
+  Detalhamento: TEIA-2026-085 (Eixos 3-4, subagent)
+
+EIXO 4 — LIBERTAR A ECONOMIA PRODUTIVA
+  Meta macro: Custo Brasil de R$ 1,7 tri/ano para R$ 1,1-1,3 tri/ano;
+  conformidade tributária de 1.501h para 800-1.000h; redução spread
+  28-30 para 22-24 p.p. (via Open Finance + Drex).
+  Detalhamento: TEIA-2026-085 (Eixos 3-4, subagent)
+
+EIXO 5 — RESSARCIR O POVO (Fome, Negativados, Habitação, Saneamento)
+  Meta macro: Erradicar fome (33 mi → <5 mi); reduzir negativados
+  (63 mi → 35-40 mi); universalizar saneamento (meta Lei 14.026/2020);
+  2 milhões de novas moradias.
+  Detalhamento: TEIA-2026-086 (Eixos 5-6, subagent)
+
+EIXO 6 — SOBERANIA AMBIENTAL, TECNOLÓGICA E SEGURANÇA PÚBLICA
+  Meta macro: Desmatamento ilegal zero até 2028; Marco da IA aprovado;
+  redução taxa de homicídios em 25%; população carcerária -150 mil.
+  Detalhamento: TEIA-2026-086 (Eixos 5-6, subagent)
+
+
+================================================================================
+MATRIZ DE SOLUÇÕES × EIXO
+================================================================================
+
+Esta tabela mapeia as 24 soluções TEIA já desenvolvidas para os 6 eixos
+do Plano de Governo. Cada solução tem: problema-alvo, mecanismo, executor,
+prazo, custo, dependência de Congresso.
+
+SOL | EIXO | O QUE FAZ | MECANISMO | CONGRESSO? | CUSTO | PRAZO
+----|------|-----------|-----------|-----------|-------|------
+S1  |  E1  | Nota Impacto Fiscal da Selic | Portaria MF | NÃO | R$ 0 | 90d
+S2  |  E1  | Índice Qualidade Dívida (IQD) | Portaria Tesouro | NÃO | R$ 0 | 90d
+S3  |  E1  | Open Finance expandido | Resolução CMN | NÃO | R$ 0 | 180d
+S4  |  E1+4| Implementar EC 132 | Lei (já aprovada) | SIM | R$ 0 | 2027-33
+S5  |  E1  | Fórum Competição Financeira | Iniciativa privada | NÃO | R$300k| 120d
+S6  |  E2  | ADPF 854 (transparência emendas) | STF | NÃO | R$150k| 6-24m
+S7  |  E2  | Cartão Emendas TSE | Resolução TSE | NÃO | R$ 0 | 6m
+S8  |  E2  | CPI Banco Master | Senado | NÃO | R$500k| 90d
+S9  |  E2  | ADI PEC Blindagem | STF | NÃO | R$100k| 12-36m
+S10 |  E2  | Representação MPF (conflito interesse) | MPF/PGR | NÃO | R$50k | 12-24m
+S11 |  E4  | Petição CNJ (SERP — cartórios) | CNJ | NÃO | R$100k| 12m
+S12 |  E2  | Via Planalto (cooptar Executivo) | Articulação TEIA→Exec | NÃO | R$ 0 | 3-6m
+S13 |  E3  | Dossiê SUS — 5 propostas R$ 0 | Portarias/Decretos | NÃO | R$ 0 | 12m
+S14 |  E5  | PAA + PNAE fortalecidos | Portaria/MDS | NÃO | R$2bi | 6m
+S15 |  E5  | Cashback Tributário | RFB+MF (EC132) | PARC | R$ 0 | 24m
+S16 |  E6  | Reverter Lei 15.190 (auto-lic.) | STF+Congresso | SIM | R$ 0 | 12-24m
+S17 |  E6  | IBAMA + ICMBio com orçamento | LOA | SIM | R$3bi | ciclo
+S18 |  E6  | PL 2338 (Marco da IA) | Câmara | SIM | R$ 0 | 12-18m
+S19 |  E2  | Dashboard Transparência com IA | TEIA+CGU | NÃO | R$2mi | 12m
+S20 |  E2  | App "Minha Cidade, Meu Dinheiro" | TEIA+CGU | NÃO | R$3mi | 12m
+S21 |  E5  | Novo Marco Saneamento (fiscalizar) | Sociedade+ANA | NÃO | R$700bi|2033
+S22 |  E5  | Regulação Score de Crédito | ANPD+MJ | NÃO | R$ 0 | 12m
+S23 |  E1  | Teto Juros Cartão Rotativo | Resolução CMN | NÃO | R$ 0 | 12m
+S24 |  E6  | Prevenção vs Encarceramento | MJ+STF+Estados | PARC | R$Xbi | longo
+
+
+================================================================================
+PRIORIZAÇÃO POR FACTIBILIDADE (O QUE FAZER NOS PRIMEIROS 100 DIAS)
+================================================================================
+
+NÍVEL 1 — AÇÕES IMEDIATAS (R$ 0, sem Congresso, 0-6 meses):
+  S1  Nota Impacto Fiscal da Selic — PORTARIA MF (dia 1)
+  S2  IQD — PORTARIA TESOURO (dia 1)
+  S7  Cartão Emendas TSE — RESOLUÇÃO (6 meses)
+  S12 Via Planalto — ARTICULAÇÃO (imediato)
+  S13 Dossiê SUS — 5 PORTARIAS/DECRETOS (12 meses, começar dia 1)
+
+Resultados esperados (6 meses):
+  → Transparência radical da Selic instalada (cada Copom tem nota fiscal)
+  → Qualidade da dívida visível (IQD trimestral)
+  → SUS começa a receber R$ 89-150 bi/ano adicional via 5 portarias
+  → TSE publica histórico de emendas dos candidatos 2026 (para 2030)
+  → Pressão política começa a mudar o cálculo do Copom
+
+NÍVEL 2 — AÇÕES DE CURTO PRAZO (6-12 meses):
+  S3  Open Finance expandido (RESOLUÇÃO CMN) → spread começa cair
+  S6  ADPF 854 (amicus STF) → orçamento secreto em julgamento
+  S8  CPI Banco Master (instalada) → pressão sobre Motta/Lira/Coronel
+  S11 Petição CNJ (SERP) → digitalização cartórios acelera
+  S22 Regulação Score (ANPD) → 63 mi negativados respiram
+  S23 Teto Cartão Rotativo (CMN) → juros 450% → 100% a.a.
+
+NÍVEL 3 — AÇÕES DE MÉDIO PRAZO (12-24 meses):
+  S4  Fiscalizar EC 132 — reforma tributária SEM captura setorial
+  S9  ADI PEC Blindagem → STF julga voto secreto
+  S10 Representação MPF → norma conflito interesse
+  S14 PAA + PNAE fortalecidos → 33 mi com fome → <15 mi
+  S18 PL 2338 (Marco IA) → algoritmos auditáveis
+  S19 Dashboard Transparência → IA monitora Orçamento
+
+NÍVEL 4 — AÇÕES DE LONGO PRAZO (2-4 anos, 2028-2030):
+  S15 Cashback Tributário (EC 132 regulamentada) → +R$100-200/mês pobres
+  S16 Reverter Lei 15.190 → fiscalização ambiental restaurada
+  S17 IBAMA R$ 5-6 bi → desmatamento zero
+  S21 Saneamento universalizado → meta 2033
+  S24 Reforma segurança pública → -150 mil presos, -25% homicídios
+
+
+================================================================================
+O ARGUMENTO DE FINANCIAMENTO (como pagar sem aumentar dívida)
+================================================================================
+
+Este plano NÃO aumenta dívida. Ele REDISTRIBUI o que já existe.
+
+FONTE 1 — REDUÇÃO DE JUROS (Eixo 1):
+  Selic estrutural de 10-11% real → 7-8% real (em 4 anos)
+  Custo fiscal: R$ 950 bi (2026) → R$ 650-700 bi (2030)
+  LIBERADO: R$ 250-300 bi/ano
+
+FONTE 2 — REDUÇÃO DE SPREAD (Eixo 4):
+  Spread 28-30 p.p. → 22-24 p.p. (via Open Finance + Drex)
+  Transferência renda bancos → economia real: R$ 150-250 bi/ano
+  LIBERADO: R$ 150-250 bi/ano (não fiscal, mas social)
+
+FONTE 3 — REDUÇÃO CUSTO BRASIL (Eixo 4):
+  Custo Brasil R$ 1,7 tri → R$ 1,1-1,3 tri (conformidade, infra)
+  LIBERADO: R$ 400-600 bi/ano em produtividade
+
+FONTE 4 — COMBATE À CAPTURA (Eixo 2):
+  Fim orçamento secreto, emendas relâmpago, transparência emendas
+  Redirecionamento estimado: R$ 30-50 bi/ano para destinação pública
+
+FONTE 5 — COMBATE À SONEGAÇÃO + ELISÃO (via EC 132):
+  Implementação plena da reforma tributária
+  Aumento da arrecadação líquida: R$ 100-200 bi/ano (estimativas MF/BCB)
+
+TOTAL LIBERADO (2030 vs 2026): R$ 750 bi - 1,15 tri/ano
+
+DESTINAÇÃO:
+  → 40% SUS + Saúde complementar (R$ 300-460 bi)
+  → 20% Educação + Primeira Infância (R$ 150-230 bi)
+  → 15% Infraestrutura + Transição Energética (R$ 110-170 bi)
+  → 10% Segurança Pública + Prevenção (R$ 75-115 bi)
+  → 10% Habitação + Saneamento (R$ 75-115 bi)
+  → 5% Meio Ambiente + IBAMA (R$ 35-60 bi)
+
+
+================================================================================
+FRAMES ESTRATÉGICOS DE COMUNICAÇÃO
+================================================================================
+
+Este plano NÃO se comunica como "mais programas sociais". Comunica como:
+
+  FRAME 1 — "O BRASIL É SAQUEADO, NÃO POBRE"
+  → R$ 3 trilhões por ano são extraídos da economia real antes de chegar
+    a você. O problema não é escassez. É CAPTURA.
+
+  FRAME 2 — "GESTÃO NÃO GASTO"
+  → Não vamos gastar mais. Vamos gerir melhor. Cada R$ 1 em juros é R$ 1
+    que não vai para o SUS. Mude a gestão do dinheiro, não o tamanho.
+
+  FRAME 3 — "CAPTURA X GESTÃO"
+  → O problema não é esquerda ou direita. É captura x gestão. Há
+    capturadores nos dois lados. Há gestores nos dois lados. Vote em
+    gestão, não em rótulo.
+
+  FRAME 4 — "NÓ CRÍTICO"
+  → Não atacamos 16 sintomas. Atacamos o NÓ que produz todos eles.
+    Desmonte o custo fiscal da dívida e libera R$ 250-300 bi/ano para
+    SUS, educação, segurança, infraestrutura.
+
+  FRAME 5 — "SEM SALVADOR, COM TRABALHO"
+  → Nenhum messias resolve. O sistema é uma rede. Trocar rosto sem
+    desmontar rede é trocar garçom. Voto criterioso + cobrança persistente.
+
+
+================================================================================
+CRONOGRAMA MACRO 2027-2030
+================================================================================
+
+FASE 1 — PRIMEIROS 100 DIAS (jan-abr 2027): CHOQUE DE TRANSPARÊNCIA
+  → S1 Nota Impacto Fiscal publicada (dia 1)
+  → S2 IQD publicado (dia 1)
+  → S13 5 portarias SUS assinadas (primeiros 30 dias)
+  → S7 Resolução TSE cartão emendas (180 dias)
+  → S6 Amicus curiae ADPF 854 protocolada
+  → S8 Articulação CPI Banco Master
+  → S20 Desenvolvimento App Minha Cidade começa
+
+FASE 2 — PRIMEIRO ANO (2027): DESBLOQUEIO
+  → S3 Open Finance expandido (180 dias)
+  → S11 Petição CNJ SERP (12 meses)
+  → S22 Regulação Score ANPD (12 meses)
+  → S23 Teto Cartão Rotativo CMN (12 meses)
+  → S14 PAA + PNAE fortalecidos (6 meses)
+  → S19 Dashboard Transparência IA (12 meses, protótipo)
+  → S12 Primeira auditoria "Via Planalto" (12 meses)
+
+FASE 3 — 2028: CONSOLIDAÇÃO
+  → S6 ADPF 854 julgada (STF)
+  → S8 CPI Banco Master concluída
+  → S10 MPF emite norma conflito interesse
+  → S4 Implementação EC 132 (cobre, CBS, IBS) monitorada
+  → S9 ADI PEC Blindagem em julgamento
+  → S18 PL 2338 (Marco IA) sancionado
+  → S17 IBAMA com orçamento ampliado (LOA 2028)
+
+FASE 4 — 2029-2030: TRANSFORMAÇÃO
+  → S15 Cashback Tributário regulamentado
+  → S16 Lei 15.190 revertida (se via STF/ Congresso)
+  → S21 Saneamento em universalização acelerada
+  → S24 Reforma segurança pública em implementação estadual
+  → RESULTADO: custo fiscal dívida R$ 650-700 bi (vs R$ 950 bi)
+  → RESULTADO: SUS R$ 435 bi (vs R$ 245 bi)
+  → RESULTADO: spread 22-24 p.p. (vs 28-30)
+  → RESULTADO: 0 desmatamento ilegal (vs X km²)
+
+
+================================================================================
+DIFERENCIAL TEIA: POR QUE ESTE PLANO É DIFERENTE
+================================================================================
+
+1. ATACA O NÓ, NÃO O SINTOMA
+  A maioria dos planos de governo propõe programas sociais. Este propõe
+  DESMONTAR a estrutura que PRODUZ a necessidade dos programas sociais.
+
+2. 70% DAS AÇÕES NÃO PRECISAM DE CONGRESSO
+  Das 24 soluções, 17 saem via portaria, decreto, resolução CMN/ANPD,
+  TSE ou Judiciário. O Executivo pode fazer mesmo com Congresso hostil.
+
+3. É FINANCIADO PELA REDUÇÃO DA CAPTURA, NÃO POR DÍVIDA
+  Não propõe gastar mais. Propõe REDISTRIBUIR o que já é extraído pela
+  engrenagem financeira. Não aumenta dívida. Reduz.
+
+4. TEM MÉTRICAS SMART
+  Cada meta tem número, prazo, executor e fonte de financiamento.
+  Não é "melhorar a saúde". É "SUS de R$ 245 bi para R$ 435 bi em 4 anos".
+
+5. É INFORMADO PELO MAPA DE CAPTURA
+  Sabe quem são os veto players, quais bancadas capturadas, quais os
+  mecanismos. Não é ingênuo. Sabe onde a resistência vai vir.
+
+6. INCLUI DESMONTAGEM COGNITIVA
+  (Ver TEIA-076 a 082 — Swarm de Campanhas Anti-Mitos)
+  Sabe que a população está paralisada por mitos (fatalismo, messianismo).
+  Ataca a estrutura cognitiva EM PARALELO com a estrutura institucional.
+
+
+================================================================================
+DOCUMENTOS DE DETALHAMENTO (EM PRODUÇÃO VIA SWARM)
+================================================================================
+
+TEIA-2026-083 — ESTE DOCUMENTO-MESTRE (Plano de Governo Lula)
+TEIA-2026-084 — EIXOS 1-2 (Financeiro + Captura Política) — detalhamento completo
+TEIA-2026-085 — EIXOS 3-4 (SUS + Economia Produtiva) — detalhamento completo
+TEIA-2026-086 — EIXOS 5-6 (Social + Soberania) — detalhamento completo
+TEIA-2026-087 — Cronograma Integrado 2027-2030 + Matriz Financiamento
+TEIA-2026-088 — Comunicação: como vender este plano ao eleitor (Professor Cinza)
+
+
+================================================================================
+FIM DO DOCUMENTO-MESTRE
+================================================================================
+
+"A direita diz que não tem dinheiro. Tem. Mas está indo para juros da
+dívida. Nós não vamos inventar dinheiro. Vamos mudar a GESTÃO.
+GESTÃO NÃO GASTO."
+
+— Cleiton Moura (@professorcinza), TEIA, Julho/2026

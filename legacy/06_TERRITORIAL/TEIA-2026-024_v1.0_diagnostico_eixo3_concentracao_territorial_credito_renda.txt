@@ -1,0 +1,662 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-024
+VERSÃO: v1.0
+CATEGORIA: 06_TERRITORIAL
+TÍTULO: Concentração de Crédito e Renda Territorial
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 36,382 bytes (35.5 KB)
+HASH MD5: f16e11bab93f6a16a2c82e8e63efed45
+HASH SHA-256: 2f645b68f282f53c46e0bca9ad41c5c4a6557854218ccd6dccca2a6bb7dc3967
+================================================================================
+
+================================================================================
+DIAGNÓSTICO INTEGRADO — EIXO 3
+CONCENTRAÇÃO TERRITORIAL DE CRÉDITO E RENDA NO BRASIL:
+COMO O SISTEMA FINANCEIRO PRIVADO DRAIN CAPITAL DAS REGIÕES MAIS POBRES
+PARA O SUDESTE
+================================================================================
+Autoria: subsídio técnico — Cleiton Moura
+Data-base: julho/2026
+Objetivo: demonstrar, com dados do BCB, IBGE, IPEA, BNB e Banco da Amazônia,
+que o spread bancário brasileiro de 28-30% a.a. tem um efeito TERRITORIAL
+assimétrico — as regiões mais pobres captam menos, pagam mais caro, e veem
+seus depósitos financiarem o crédito no Sudeste. O conceito-chave é o
+"VAZAMENTO FINANCEIRO INTER-REGIONAL".
+Fontes primárias utilizadas (com URLs no final):
+ - BCB — Relatório de Economia Bancária 2023 (REB 2023), 133 pp.
+ - BCB — Relatório de Cidadania Financeira 2025 (RCF 2025), ~190 pp.
+ - BCB — SCR.data (Sistema de Informações de Crédito por município)
+ - BCB — Unicad (cadastro de dependências bancárias)
+ - IBGE — Contas Regionais 2023 / PIB dos Municípios 2023
+ - BNB — Relatório de Gestão do FNE 2024
+ - Banco da Amazônia — Relatório de Resultados do FNO 2024
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. MAPA DO CRÉDITO NO BRASIL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1 — ESTOQUE TOTAL E PARTICIPAÇÃO POR REGIÃO (DEZ/2023)
+
+O saldo total da carteira de crédito do Sistema Financeiro Nacional (SFN)
+em dezembro de 2023 somava R$ 5,79 TRILHÕES, divididos em:
+ - R$ 3,52 TRILHÕES para PESSOA FÍSICA (60,8% do total)
+ - R$ 2,27 TRILHÕES para PESSOA JURÍDICA (39,2% do total)
+Fonte: BCB, REB 2023, Tabelas A e D do Anexo B (p. 115 e 118).
+
+Concentração por região — Pessoa Física (saldo dez/2023, em R$ milhões):
+ - SUDESTE ............ R$ 1.534.251 mi ........ 43,6% do crédito PF do país
+ - SUL ................ R$   704.878 mi ........ 20,0%
+ - NORDESTE .......... R$   560.494 mi ........ 15,9%
+ - CENTRO-OESTE ...... R$   504.080 mi ........ 14,3%
+ - NORTE ............. R$   215.723 mi ........  6,1%
+ - Não identificado ... R$     2.061 mi ........  0,1%
+ TOTAL .............. R$ 3.521.487 mi ........ 100%
+Fonte: BCB, REB 2023, Tabela A do Anexo B, p.115.
+
+Concentração por região — Pessoa Jurídica (saldo dez/2023, em R$ milhões):
+ - SUDESTE ............ R$ 1.217.543 mi ........ 53,6% do crédito PJ do país
+ - SUL ................ R$   462.294 mi ........ 20,3%
+ - NORDESTE .......... R$   246.702 mi ........ 10,9%
+ - CENTRO-OESTE ...... R$   246.679 mi ........ 10,9%
+ - NORTE ............. R$    94.651 mi ........  4,2%
+ - Não identificado ... R$     4.613 mi ........  0,2%
+ TOTAL .............. R$ 2.272.481 mi ........ 100%
+Fonte: BCB, REB 2023, Tabela D do Anexo B, p.118.
+
+LEITURA-CHAVE: o SUDESTE concentra 43,6% do crédito às FAMÍLIAS e 53,6% do
+crédito às EMPRESAS do país. O NORTE, com 8,5% da população e 5,1% do PIB
+nacional, detém apenas 6,1% do crédito PF e 4,2% do crédito PJ. A
+desproporção é ainda maior quando se considera crédito/PIB (item 1.2).
+
+1.2 — CRÉDITO/PIB: SUDESTE VS NORTE VS NORDESTE
+
+Densidade populacional de crédito (crédito PF por habitante, em R$ correntes,
+dez/2023 — BCB, REB 2023, Tabela B do Anexo B, p.116):
+ - BRASIL ............. R$ 17.225 por habitante (média nacional)
+ - CENTRO-OESTE ...... R$ 30.597  (177% da média) — puxado pelo DF (R$ 29.588)
+ - SUL ................ R$ 23.396  (136%)
+ - SUDESTE ........... R$ 17.971  (104%)
+ - NORTE ............. R$ 12.288  ( 71%)
+ - NORDESTE .......... R$ 10.207  ( 59%)
+
+Estados com MAIOR densidade de crédito PF/hab (R$ mil/hab, 2023):
+ - DF (29.588), Mato Grosso (37.803 — recorde nacional), Mato Grosso do Sul
+   (30.179), Rondônia (25.718), Rio Grande do Sul (24.229), Santa Catarina
+   (21.951), Paraná (23.567), São Paulo (20.374).
+Estados com MENOR densidade de crédito PF/hab (R$/hab, 2023):
+ - AMAZONAS ........ R$  8.376  (menor densidade do país)
+ - MARANHÃO ........ R$  9.795
+ - PIAUÍ ........... R$  9.118
+ - CEARÁ ........... R$  9.436
+ - PERNAMBUCO ...... R$  9.968
+ - BAHIA ........... R$ 10.174
+ - ALAGOAS ......... R$ 10.304
+ - PARÁ ............ R$ 10.062
+
+LEITURA-CHAVE: Um morador do Mato Grosso tem em média 4,5 VEZES mais
+crédito pessoa física do que um morador do Amazonas (R$ 37.803 vs R$ 8.376).
+Todos os 9 estados do NORDESTE estão abaixo da média nacional. Todos os 7
+estados do NORTE estão abaixo da média nacional.
+
+1.3 — CRESCIMENTO DO CRÉDITO POR REGIÃO: O NORTE CRESCE MAIS, MAS DE UM
+PATAMAR BAIXÍSSIMO
+
+Variação anual do saldo de crédito PF (média 2021-2023, REB 2023, Tabela A):
+ - NORTE ............ 23,1% a.a. (mas a partir de R$ 150 bilhões)
+ - CENTRO-OESTE ..... 18,7% a.a.
+ - NORDESTE ......... 16,3% a.a.
+ - SUL .............. 15,9% a.a.
+ - SUDESTE .......... 14,8% a.a. (mas a partir de R$ 1,2 TRILHÃO)
+A região NORTE foi a única a crescer acima de 23% em 2021 e 2022 (REB 2023,
+Gráfico 1.10, p.14). Em 2023 a região NORDESTE teve o MENOR crescimento
+do crédito PF (9,1%), abaixo da média nacional de 10,4%.
+
+1.4 — TOP 10 CIDADES COM MAIOR VOLUME DE CRÉDITO
+
+Não há divulgação pública nominal do ranking municipal de volume de crédito
+pelo BCB (a série pública agregada por município está no SCR.data, com
+agregados por UF). Entretanto, cruzando o saldo estadual com a concentração
+do PIB municipal (IBGE 2023), as 10 cidades com maior volume estimado de
+crédito são:
+
+ 1. São Paulo (SP) — 31,6% do PIB nacional em 2023; participa de ~R$ 600 bi
+    do crédito PF+PJ do estado.
+ 2. Rio de Janeiro (RJ) — 5,4% do PIB nacional.
+ 3. Brasília (DF) — capital; concentra o crédito direcionado (CEF 67,4% do
+    habitacional e BB 48,7% do agro).
+ 4. Belo Horizonte (MG) — maior centro financeiro de MG (PIB estadual
+    R$ 873 bi).
+ 5. Curitiba (PR)
+ 6. Porto Alegre (RS)
+ 7. Salvador (BA)
+ 8. Recife (PE)
+ 9. Fortaleza (CE)
+10. Manaus (AM) — polo industrial da Zona Franca; MAIOR concentradora de
+    crédito do Norte.
+Fontes: IBGE PIB dos Municípios 2023; BCB, REB 2023, Tabela A.
+
+Observação IBGE 2023: as 25 maiores cidades concentram 34,2% do PIB
+brasileiro; as 27 capitais passaram de 27,5% (2022) para 28,3% (2023) do
+PIB nacional. A concentração urbano-financeira é crescente.
+
+1.5 — "DESERTOS FINANCEIROS": MUNICÍPIOS SEM AGÊNCIA
+
+Dados BCB/Unicad — Relatório de Cidadania Financeira 2025, p.17:
+ - O Brasil NÃO possui mais municípios totalmente sem canal de atendimento
+   (todo município tem ao menos um correspondente bancário).
+ - Porém, em 2024, 520 MUNICÍPIOS (9,3% dos 5.570) eram atendidos APENAS
+   por correspondentes bancários (lotéricas, supermercados, farmácias) —
+   sem agências e sem postos de atendimento (PA).
+ - Esses 520 municípios abrangem 2,5 MILHÕES de habitantes.
+ - Em 2020 eram 408 municípios — AUMENTOU 27% em quatro anos.
+ - Adicionalmente, há um conjunto de municípios "em amarelo" (sem agência,
+   mas com PA ou PAE) — o que eleva o total de "desertos de agência"
+   para mais de 1.500 municípios (cerca de 27% do total).
+Casos concretos reportados pela imprensa regional:
+ - Orocó (PE) — sem agência desde 2016 (agência do BB explodida em assalto).
+ - Olindina (BA, 22 mil hab.) — BB fechou; Bradesco anunciou fechamento,
+   cidade ficaria sem agência em 2024.
+ - Municípios do semiárido nordestino e da Amazônia profunda são os mais
+   afetados — o mapa do BCB (Gráfico 1.1.4 do RCF 2025) mostra que esses
+   "desertos vermelhos" se concentram nas regiões Norte e Nordeste.
+
+1.6 — FECHAMENTO DE AGÊNCIAS: 10 ANOS DE SANGRIA
+
+Dados BCB/Unicad — RCF 2025, Tabela 1.1.4, p.16:
+ - DEZ/2020: 18.864 agências bancárias no país
+ - DEZ/2024: 16.115 agências — QUEDA DE 14,6% (2.749 agências fechadas)
+ - Em 4 anos, perdeu-se 1 em cada 7 agências.
+ - Em 10 anos (2014-2024), segundo o setor (Portal do Cooperativismo de
+   Crédito, 2025), foram FECHADAS 7.252 AGÊNCIAS no país. São Paulo lidera:
+   2.737 fechamentos só em SP; seguido por Minas Gerais e Rio Grande do Sul.
+Perda por região (Δ 24/20, Tabela 1.1.5 do RCF 2025):
+ - SUDESTE: -17,6% das agências (a maior queda relativa)
+ - CENTRO-OESTE: -14,1%
+ - SUL: -12,7%
+ - NORDESTE: -10,9%
+ - NORTE: -5,4% (a menor queda, mas PARTINDO de uma base baixíssima)
+LEITURA-CHAVE: a queda relativa no Norte é menor porque já havia poucas
+agências. Em termos absolutos, a queda no Sudeste reflete a digitalização
+(Nubank, PIX); no Norte/Nordeste, a queda significa PERDA EFETIVA de
+atendimento, já que não há alternativa digital para populações sem
+conectividade.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. O CICLO DE DRENAGEM FINANCEIRA INTER-REGIONAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 — MECANISMO: COMO DEPÓSITOS DO NORTE/NORDESTE FINANCIAM CRÉDITO NO SUDESTE
+
+O sistema bancário privado brasileiro (Itaú, Bradesco, Santander) opera com
+um modelo de "CAPTAÇÃO CENTRALIZADA E APLICAÇÃO CONCENTRADA":
+ 1. Em cada município onde tem agência, o banco CAPTA depósitos à vista,
+    poupança, CDBs, fundos. Esses recursos são "repassados" para o
+    Tesouro Nacional da instituição (em São Paulo, na maioria dos casos).
+ 2. A ALÇADA DE CRÉDITO fica na matriz ou em superintendências regionais.
+    O gerente de agência em Marabá (PA) ou Cajazeiras (PB) tem limites
+    baixos: operações acima de R$ 50-100 mil vão para análise em SP.
+ 3. A MATRIZ DESTINA os recursos para os mercados com MENOR RISCO e MAIOR
+    RETORNO: empresas grandes do Sudeste, agronegócio do Centro-Oeste/Sul,
+    saneamento e infraestrutura de capitais. As regiões pobres, com baixo
+    collateral e alta inadimplência percebida, RECEBEM MENOS CRÉDITO.
+
+Resultado líquido: as regiões Norte e Nordeste são NET CAPTADORAS de
+depósitos e NET RECEPTORAS INSUFICIENTES de crédito. A literatura
+acadêmica chama isto de "VAZAMENTO DE DEPÓSITOS" — estudo clássico do
+Banco do Nordeste (Etene) mostra que, em 2010, os bancos federais e
+privados concediam 68% dos empréstimos no Nordeste a partir de depósitos
+captados na própria região, enquanto no Sudeste esse percentual era de
+apenas 41% (ou seja, o Sudeste absorvia capital captado em outras regiões).
+Fonte: 1library.org/article/determinantes-do-vazamento-de-depósitos-nordeste.
+
+2.2 — SPREAD TERRITORIAL: REGIÕES POBRES PAGAM MAIS?
+
+O BCB não publica um ranking oficial de "taxa média de juros por região",
+mas o RCF 2025 (Capítulo 3, Tabela 3.1.1, p.65) revela uma proxy:
+COMPROMETIMENTO DE RENDA COM DÍVIDAS NO CARTÃO DE CRÉDITO COM JUROS:
+
+ % da renda comprometida com cartão com juros (RCF 2025, Tabela 3.1.1):
+ - BRASIL (média) .... 6,3%
+ - NORDESTE .......... 7,0%  (acima da média)
+ - CENTRO-OESTE ...... 7,1%  (acima da média)
+ - MULHERES .......... 7,1%
+ - SUDESTE ........... 6,4%
+ - NORTE ............. 6,3% (mas com USO INTENSIVO: 15,0% do uso do cartão
+                              é em modalidades COM JUROS, vs 11,1% no
+                              Sudeste e 10,4% no Sul — Tabela 3.1.1)
+ - SUL ............... 5,1%  (menor comprometimento)
+
+LEITURA-CHAVE: NORDESTE e CENTRO-OESTE comprometem MAIS renda em dívidas
+com juros. O NORTE tem comprometimento médio menor, MAS quando usa cartão
+de crédito, recorre mais a modalidades com juros (rotativo, parcelado com
+juros). Isso indica PREÇO MAIOR do crédito nas regiões pobres — o que é
+consistente com a maior inadimplência percebida e o maior risco de crédito.
+
+Inadimplência regional (PF, dez/2023, REB 2023, Tabela C, p.117):
+ - NORDESTE ........... 5,0%  (acima da média de 3,7%)
+ - AMAZONAS ........... 5,8%  (estado mais inadimplente)
+ - RIO DE JANEIRO ..... 5,6%
+ - PERNAMBUCO ......... 5,7%
+ - SUDESTE ............ 3,8%  (próximo da média)
+ - SUL ................ 2,8%  (menor)
+ - CENTRO-OESTE ....... 2,9%
+A inadimplência mais alta no Norte/Nordeste é o argumento que os bancos
+usam para justificar spreads maiores — mas ela é, em parte, CONSEQUÊNCIA
+do próprio spread alto (efeito cumulativo: juro alto → inadimplência →
+juro ainda mais alto).
+
+2.3 — BANCARIZAÇÃO vs DIGITALIZAÇÃO: PIX E NUBANK MUDARAM O MAPA?
+
+Avanços recentes (RCF 2025, p.9):
+ - 96,4% da população adulta brasileira tem conta (bancarização praticamente
+   universal — Tabela 1.1.1 do RCF 2025).
+ - Entre 2020 e 2024, a expansão foi MAIOR nas regiões mais pobres:
+     NORTE:       +20,8% (de 11,92 mi para 14,39 mi de adultos)
+     NORDESTE:    +13,3%
+     CENTRO-OESTE:+11,8%
+     SUL:         +7,7%
+     SUDESTE:     +7,1%
+ - O NUBANK alcançou 100 milhões de clientes no Brasil em novembro/2024
+   (57% da população adulta) e 112 milhões em janeiro/2026 (61% dos
+   adultos — ultrapassando o Bradesco). O RCF 2025 confirma: "onde há
+   menor número de agências, maior é a incidência do Nubank".
+ - O PIX incluiu 49 milhões de brasileiros no sistema financeiro (BCB,
+   2022); a inclusão mais forte ocorreu no NORTE (21 transações/pessoa em
+   2023, contra média nacional menor; Amazonas e Amapá lideram com 26 e 24
+   operações por usuário).
+
+AVANÇO E LIMITE:
+ - O PIX e os bancos digitais resolveram o problema do ACESSO a uma conta.
+ - NÃO resolveram o problema do ACESSO A CRÉDITO BARATO: 88% dos adultos
+   são "usuários ativos" do SFN, mas o crédito custa caro onde é mais
+   necessário.
+ - Entre os 21 milhões de adultos SEM atividade no SFN em 2024,
+   predominam "homens, moradores da região Norte, idosos e pessoas sem
+   vínculo empregatício formal" (RCF 2025, p.11). Ou seja: o "exército
+   de reserva" da exclusão financeira segue sendo NORTISTA, velho e pobre.
+ - Os 520 municípios "só com correspondentes" dependem de lotérica e
+   farmácia para receber salário; o atendimento de CRÉDITO local
+   desapareceu.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. CONCENTRAÇÃO DE RENDA E PIB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 — PIB PER CAPITA POR UNIDADE DA FEDERAÇÃO (IBGE 2023)
+
+Ranking IBGE 2023 — publicado em 2025 (R$ por habitante, fonte: Wikipédia
+com dados IBGE Contas Regionais 2023):
+
+MAIORES PIB per capita (2023, em R$):
+ 1. Distrito Federal ............... R$ 129.790,44  (2,41x a média nacional)
+ 2. São Paulo ...................... R$  77.566,27  (1,44x)
+ 3. Mato Grosso .................... R$  74.620,05  (1,38x)
+ 4. Rio de Janeiro ................. R$  73.052,55  (1,36x)
+ 5. Santa Catarina ................. R$  67.459,74  (1,25x)
+ 6. Mato Grosso do Sul ............. R$  66.884,75  (1,24x)
+ 7. Rio Grande do Sul ............. R$  59.736,20  (1,11x)
+ 8. Paraná ......................... R$  58.624,33  (1,09x)
+ 9. Espírito Santo ................. R$  54.732,78  (1,02x)
+10. Rondônia ....................... R$  48.353,38  (0,90x)
+MENORES PIB per capita (2023):
+18. Pará ........................... R$ 31.347,59  (0,58x)
+19. Rio Grande do Norte ............ R$ 30.804,91
+20. Bahia .......................... R$ 30.476,54
+21. Pernambuco ..................... R$ 29.857,27
+22. Alagoas ......................... R$ 28.675,84
+23. Sergipe ......................... R$ 27.518,80
+24. Ceará .......................... R$ 26.405,96
+25. Piauí .......................... R$ 24.736,15
+26. Paraíba ......................... R$ 24.395,17
+27. Maranhão ........................ R$ 22.020,63  (0,41x — MENOR do Brasil)
+MÉDIA NACIONAL ..................... R$ 53.886,67
+
+LEITURA-CHAVE:
+ - Um morador do DF tem 5,9 VEZES o PIB per capita de um maranhense.
+ - Todos os 9 estados do Nordeste estão no terço inferior. Exceto Bahia
+   (20ª), todos os demais estados do NE estão entre os 9 piores.
+ - Do Norte, APENAS Rondônia aparece no top 10 (puxada pelo agronegócio).
+   Amazonas (41.047,91), Acre (31.675,60), Pará (31.347,59), Amapá
+   (38.187,09) e Roraima (39.460,54) estão abaixo da média nacional.
+
+3.2 — TOP 10 MUNICÍPIOS MAIS RICOS vs MAIS POBRES (PIB per capita)
+
+IBGE — PIB dos Municípios 2023 (divulgado em 19/12/2025):
+
+10 MAIORES PIB per capita municipais (R$ por habitante):
+ 1. Saquarema (RJ) ................. R$ 722.441,52  (petróleo)
+ 2. São Francisco do Conde (BA) .... R$ 684.319,23  (refino)
+ 3. Maricá (RJ) .................... R$ 679.714,48  (petróleo)
+ 4. Paulínia (SP) .................. R$ 606.740,73  (refino)
+ 5. Presidente Kennedy (ES) ........ R$ 537.982,68  (petróleo)*
+ 6. Ilhabela (SP) .................. R$ 424.535,26  (petróleo)
+ 7. Santa Rita do Trivelato (MT) ... R$ 409.443,67  (commodities agrícolas)
+ 8. Louveira (SP) .................. R$ 388.732,46  (indústria)
+ 9. São João da Barra (RJ) ......... R$ 382.417,42  (petróleo)
+10. Extrema (MG) ................... R$ 377.790,63  (indústria)
+* valor reportado na matéria do G1 pode conter erro de digitação.
+FONTE: IBGE PIB dos Municípios 2023; G1, 19/12/2025.
+Observação: 7 das 10 cidades mais ricas dependem de PETRÓLEO — atividade
+intensiva em capital, com baixo emprego, e cuja renda é em grande parte
+APROPRIADA PELO GOVERNO FEDERAL (royalties) e por empresas sediadas no
+Rio/São Paulo. Portanto, o PIB per capita superdimensiona a renda
+efetivamente retida nesses municípios.
+
+10 MENORES PIB per capita municipais (R$ por habitante, IBGE 2023):
+Os municípios mais pobres concentram-se no Norte e Nordeste:
+ - Manari (PE) — tradicionalmente o de menor IDH-M do Brasil
+ - Municípios do interior do Maranhão, Piauí e Bahia
+ - Municípios ribeirinhos da Amazônia (Amazonas, Pará)
+PIB per capita nesses municípios gira em torno de R$ 8.000 a R$ 12.000/ano
+(cerca de 1/60 do PIB per capita de Saquarema).
+
+3.3 — DESIGUALDADE INTRA-REGIONAL: O CASO AMAZONAS
+
+O Amazonas é o caso paradigmático de DESIGUALDADE INTRA-REGIONAL:
+ - PIB per capita do estado (2023): R$ 41.047,91 — acima de Maranhão,
+   Piauí e Paraíba, e acima de Pernambuco e Alagoas.
+ - MAS esse número é DISTORCIDO pela ZONA FRANCA DE MANAUS (ZFM):
+   Manaus concentra ~60% do PIB estadual e tem um PIB per capita muito
+   superior à média do estado (estimado em R$ 50-60 mil).
+ - O INTERIOR do Amazonas — municípios como Maraã, Jutaí, Tonantins,
+   Santo Antônio do Içá, Barcelos — tem PIB per capita de R$ 8-12 mil,
+   comparável aos municípios mais pobres do Nordeste.
+ - A ZFM é uma ENCLAVE INDUSTRIAL que capta benefícios fiscais federais,
+   mas cujo efeito de difusão territorial é limitado a Manaus e a poucos
+   municípios vizinhos. A renda gerada é em parte apropriada por
+   MATRIZES DE EMPRESAS SEDIADAS NO SUDESTE (LG, Samsung, Honda etc.).
+
+3.4 — REMESSA DE LUCROS: EMPRESAS DO SUDESTE OPERANDO NO N/NE
+
+A balança de pagamentos registra a remessa de lucros e dividendos ao
+EXTERIOR (US$ 3,2 bilhões/mês em 2024 — Banco Central), mas NÃO existe um
+registro público sistemático da remessa INTERNA de lucros entre regiões.
+Estima-se, porém, que:
+ - Varejo (atacarejo, supermercados, postos): redes como Assaí, Carrefour,
+   Raízen, Ipiranga operam em municípios do Norte/Nordeste e REMETEM os
+   lucros para suas sedes em São Paulo.
+ - Bancos privados: Itaú, Bradesco, Santander operam em todas as regiões
+   e centralizam o resultado em SP — em 2024, os 5 maiores bancos
+   registraram R$ 125,6 BILHÕES de lucro (LinkedIn/Fabio, 2025), em sua
+   maior parte apropriados por acionistas no eixo Rio-São Paulo.
+ - Agronegócio: tradings (Cargill, Bunge, ADM, Amaggi) operam no Centro-
+   Oeste e Norte e centralizam resultado em SP ou no exterior.
+ - Telecomunicações, energia elétrica, planos de saúde: idem.
+O "VAZAMENTO INTERNO" de renda das regiões periféricas para o Centro-Sul
+é estrutural e não contabilizado oficialmente — é um dos principais
+mecanismos silenciosos da reprodução da desigualdade regional brasileira.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. BANCO CENTRAL — DADOS TERRITORIAIS DISPONÍVEIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 — RELATÓRIO DE ECONOMIA BANCÁRIA 2023 (REB) — Capítulo 1
+ - Traz, no Anexo B (p.115-118), as Tabelas A, B, C, D e E com:
+     • Saldo de crédito PF e PJ por UF e região
+     • Densidade de crédito por habitante
+     • Inadimplência regional
+ - Principal fonte oficial para comparações interestaduais.
+
+4.2 — RELATÓRIO DE CIDADANIA FINANCEIRA 2025 (RCF) — Última edição
+ - Publicado em abril/2025, com dados até dezembro/2024.
+ - Capítulo 1: Tabela 1.1.1 (bancarização por região); Tabela 1.1.4
+   (canais de atendimento); Tabela 1.1.5 (variação regional de agências);
+   Gráfico 1.1.4 (mapa dos 520 municípios sem agência).
+ - Capítulo 3: Tabela 3.1.1 (comprometimento de renda com cartão por região).
+
+4.3 — SCR.DATA (Portal de Dados Abertos do BCB)
+ - https://dadosabertos.bcb.gov.br/dataset/scr_data
+ - Estatística mensal de crédito por município, com quebra por modalidade
+   (PF/PJ, livre/direcionado, rural, habitacional etc.).
+ - Permite consulta municipalizada, mas a interface é técnica.
+
+4.4 — UNICAD — CADASTRO DE DEPENDÊNCIAS BANCÁRIAS
+ - Base usada pelo RCF 2025 para a Tabela 1.1.4 e o Gráfico 1.1.4.
+ - Permite saber, por município, quantas agências, PAs, PAEs e
+   correspondentes existem.
+
+4.5 — PIX POR REGIÃO
+ - Não há um painel público do BCB com transações PIX por região, mas
+   estudos do próprio BCB (Boxe do RCF 2025, p.13) e reportagens mostram:
+     • Norte: 21 transações Pix/habitante em 2023 (liderança nacional)
+     • Nordeste: 19 transações/habitante
+     • Amazonas: 26 transações/usuário (recorde)
+     • Amapá: 24 transações/usuário
+ - A região Norte tem a maior inclusão financeira via PIX proporcionalmente
+   — o que é consistente com a dependência de canais digitais onde o
+   atendimento físico é escasso.
+ - Em e-commerce, a região Norte liderou o crescimento do share de Pix:
+   passou de 21,1% (2022) para 36,1% das transações em 2023 (Confi).
+
+4.6 — OBSERVAÇÃO CRÍTICA
+O BCB publica dados agregados por UF e por região, mas NÃO publica:
+ - Taxa média de juros por região (apenas comprometimento de renda).
+ - Fluxo líquido de depósitos vs crédito por região ("vazamento financeiro").
+ - Distribuição territorial do LUCRO bancário.
+Essas lacunas devem ser destacadas como PROPONENTES DE POLÍTICA.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. PROPOSTAS PARA REVERTER A DRENAGEM TERRITORIAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 — COOPERATIVAS DE CRÉDITO COMO INSTRUMENTO DE RETENÇÃO REGIONAL
+
+Fundamento empírico (estudo citado em MundoCoop, 2025):
+ - "Nos municípios onde há atuação de cooperativas de crédito, foi
+   constatado um acréscimo de cerca de 10% no PIB per capita, de 15,1% na
+   geração de emprego formal e de 15,6% no número de comércios locais."
+ - Dados BCB/REB 2023: as cooperativas são o segmento cuja participação
+   mais cresce no SFN; destacam-se em cheque especial e capital de giro
+   com taxas mais baixas que a média.
+ - RCF 2025, Cap. 2: "as taxas praticadas pelas cooperativas de crédito
+   costumam ser as mais baixas entre os diferentes tipos de instituição".
+
+PROPOSTAS:
+ - Expandir cooperativas de crédito no Norte e Nordeste (hoje concentradas
+   no Sul: 43% dos cooperados estão no Sul, contra 8% no Norte e 6% no
+   Centro-Oeste — Tabela 1.1.2 do RCF 2025).
+ - Ampliar o teto de captação de cooperativas de crédito (Resolução CMN
+   4.935/2021) para que possam competir com bancos comerciais na
+   captação de depósitos.
+ - Criar linha específica do BNDES para capitalização de cooperativas
+   regionais no Norte/Nordeste.
+ - Reconhecer cooperativas como AGENTES DE POLÍTICA REGIONAL, com acesso
+   preferencial aos fundos constitucionais (FNO/FNE/FCO).
+
+5.2 — FORTALECIMENTO DOS BANCOS REGIONAIS DE DESENVOLVIMENTO
+
+SITUAÇÃO ATUAL:
+ - Banco do Nordeste (BNB): administra o FNE — em 2024, contratou
+   R$ 44,8 BILHÕES e desembolsou R$ 45,5 BILHÕES, em 1,5 milhão de
+   operações. Atende 2.074 municípios (Nordeste + norte de MG e ES).
+   Fonte: Relatório de Gestão do FNE 2024 (BNB, 2025).
+ - Banco da Amazônia: administra o FNO — em 2024 desembolsou
+   R$ 8,9 BILHÕES (R$ 5,0 bi no 1º semestre + R$ 3,9 bi no 2º semestre).
+   Fonte: Banco da Amazônia, d1rb2uej4kk1a4.cloudfront.net.
+
+DESEQUILÍBRIO CRÍTICO: o FNE é 5 VEZES maior que o FNO (R$ 44,8 bi vs
+R$ 8,9 bi), apesar de a Região Norte ter dimensão territorial e carências
+proporcionais. Isso reflete a baixa capacidade do Banco da Amazônia em
+escalar operações — uma fragilidade institucional que precisa ser corrigida.
+
+PROPOSTAS:
+ - Ampliar dotação orçamentária do FNO ao nível do FNE (meta: dobrar o
+   FNO em 4 anos).
+ - Reaparelhar o Banco da Amazônia com tecnologia e capacidade de
+   análise de crédito regionalizada.
+ - Criar um "BANCO REGIONAL DO CENTRO-OESTE" autônomo (hoje o FCO é
+   administrado pelo Banco do Brasil, sem identidade regional).
+ - Recriar bancos ESTADUAIS de desenvolvimento (extintos nos anos 1990
+   pelo PROES) com governança rigorosa e mandato regional.
+
+5.3 — EXIGÊNCIA DE INVESTIMENTO PROPORCIONAL EM REGIÃO DE CAPTAÇÃO
+
+CONCEITO: instituições financeiras privadas que captam depósitos em uma
+região deveriam ser obrigadas a APLICAR no mínimo X% desses depósitos
+na própria região, sob pena de depósito compulsório adicional.
+
+ANTecedente internacional: Community Reinvestment Act (CRA) dos EUA (1977),
+que exige que bancos atendam às necessidades de crédito das comunidades
+onde captam depósitos — comunidades de baixa renda incluídas.
+
+PROPOSTA:
+ - Criar um "INDICADOR DE VAZAMENTO FINANCEIRO" publicado pelo BCB por
+   instituição e por região: razão entre crédito concedido e depósitos
+   captados em cada região.
+ - Exigir que instituições com captação relevante mantenham relação
+   crédito/captação mínima por região (ex.: 60% no Norte/Nordeste).
+ - Instituições descumpridoras pagariam alíquota adicional de compulsório,
+   cuja receita seria destinada aos fundos constitucionais.
+
+5.4 — FUNDO DE DESENVOLVIMENTO REGIONAL FINANCIADO PELO SPREAD
+
+CONCEITO: parte do spread bancário brasileiro (que oscila em torno de
+28-30% a.a. no crédito livre) é apropriada como lucro líquido pelos
+bancos. Uma parcela desse excedente poderia ser destinada a um fundo de
+desenvolvimento regional.
+
+ESTIMATIVA: o lucro líquido dos 5 maiores bancos em 2024 foi R$ 125,6
+BI. Uma alíquota de 5% sobre esse lucro geraria R$ 6,3 BI/ano —
+recurso equivalente a 70% do FNO atual.
+
+PROPOSTAS:
+ - Criar FUNDO DE DESENVOLVIMENTO REGIONAL (FDR), financiado por
+   contribuição sobre lucros bancários acima de determinado patamar.
+ - Recursos destinados exclusivamente a: infraestrutura, saneamento,
+   crédito para MPEs e cooperativas no Norte/Nordeste.
+ - Governança tripartite (governo federal, estados, sociedade civil).
+ - Meta: aplicar R$ 30 bilhões/ano em 4 anos para reverter o abismo
+   territorial de PIB per capita e de densidade de crédito.
+
+5.5 — TRANSPARÊNCIA ESTATÍSTICA TERRITORIAL
+
+Exigir do BCB a publicação periódica de:
+ - Taxa média de juros por região e por UF (hoje não publicada).
+ - Fluxo líquido de depósitos vs crédito por região ("vazamento").
+ - Distribuição territorial do lucro bancário por conglomerado.
+ - Mapa anual de "DESERTOS DE CRÉDITO" (não só de agências) — municípios
+   com crédito/habitante abaixo de 30% da média nacional.
+ - Distribuição territorial do crédito direcionado (hoje concentrado no
+   Centro-Sul — BNDES, CEF habitacional, BB rural).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. SÍNTESE EXECUTIVA — 10 AFIRMAÇÕES-DADO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. O SUDESTE concentra 53,6% do crédito PJ e 43,6% do crédito PF do Brasil
+   (BCB/REB 2023), apesar de ter 42% da população.
+2. O NORTE tem apenas 6,1% do crédito PF e 4,2% do crédito PJ do país,
+   com 8,5% da população.
+3. A densidade de crédito PF no NORDESTE é R$ 10.207/habitante — menos de
+   1/3 da do Centro-Oeste (R$ 30.597) e 59% da média nacional.
+4. O AMAZONAS tem a MENOR densidade de crédito do país (R$ 8.376/hab).
+5. Em 2024, 520 municípios (9,3% do total, 2,5 milhões de habitantes)
+   não tinham agência NEM posto de atendimento — apenas correspondentes.
+6. Foram fechadas 7.252 agências em 10 anos no país; 2.737 só em SP.
+7. A bancarização é hoje praticamente universal (96,4%) graças ao PIX e
+   ao Nubank (112 milhões de clientes) — mas o ACESSO A CRÉDITO BARATO
+   segue desigual: NORTE e NORDESTE comprometem mais renda em juros.
+8. O PIB per capita do DF (R$ 129.790) é 5,9 VEZES o do Maranhão
+   (R$ 22.020) — abismo regional persistente.
+9. O FNE 2024 contratou R$ 44,8 bilhões (BNB); o FNO apenas R$ 8,9 bilhões
+   (Banco da Amazônia) — desequilíbrio que penaliza o Norte.
+10. Os 5 maiores bancos lucraram R$ 125,6 bilhões em 2024; uma
+    contribuição de 5% sobre esse lucro financiaria um fundo regional de
+    R$ 6,3 bilhões/ano.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. FONTES PRIMÁRIAS E SECUNDÁRIAS CITADAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[1] BANCO CENTRAL DO BRASIL. Relatório de Economia Bancária 2023.
+    Brasília: BCB, 2024. 133 p.
+    https://www.bcb.gov.br/content/publicacoes/relatorioeconomiabancaria/reb2023p.pdf
+
+[2] BANCO CENTRAL DO BRASIL. Relatório de Cidadania Financeira 2025.
+    Brasília: BCB, abril/2025.
+    https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RCF/relatorio_de_cidadania_financeira_2025.pdf
+
+[3] BANCO CENTRAL DO BRASIL. SCR.data — Estatística de Crédito por
+    município. Portal de Dados Abertos.
+    https://dadosabertos.bcb.gov.br/dataset/scr_data
+
+[4] IBGE. Contas Regionais do Brasil 2023. Rio de Janeiro: IBGE, 2025.
+    https://www.ibge.gov.br/estatisticas/economicas/servicos/9054-contas-regionais-do-brasil.html
+
+[5] IBGE. PIB dos Municípios 2023. Divulgado em 19/12/2025.
+    Cobertura: G1, "MAPA: veja como sua cidade se posiciona no ranking
+    brasileiro do PIB per capita", 19/12/2025.
+    https://g1.globo.com/economia/noticia/2025/12/19/mapa-veja-como-sua-cidade-se-posiciona-no-ranking-brasileiro-do-pib-per-capita.ghtml
+
+[6] WIKIPÉDIA. Lista de unidades federativas do Brasil por PIB per capita.
+    https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_PIB_per_capita
+
+[7] BANCO DO NORDESTE DO BRASIL. Relatório de Gestão do FNE 2024.
+    https://www.bnb.gov.br/documents/45799/1631711/Relatório+de+Gestão+do+FNE+-+2024.pdf
+
+[8] BANCO DA AMAZÔNIA. Relatório de Resultados e Impactos do FNO 2024.
+    https://www.bancoamazonia.com.br/fundo-constitucional-financiamento/relatorios-fno
+
+[9] FGV/IBRE. "Evolução do PIB per capita das regiões brasileiras de 2002
+    a 2023". Blog do IBRE, 29/01/2026.
+    https://blogdoibre.fgv.br/posts/evolucao-do-pib-capita-das-regioes-brasileiras-de-2002-2023
+
+[10] PORTAL DO COOPERATIVISMO DE CRÉDITO. "Fechamento de Agências Bancárias
+     no Brasil", 21/10/2025.
+     https://cooperativismodecredito.coop.br/2025/10/fechamento-de-agencias-bancarias-no-brasil/
+
+[11] MUNDO COOP. "Cooperativas de crédito ganham espaço com foco no
+     desenvolvimento regional", 2025.
+     https://mundocoop.com.br/destaque/cooperativas-de-credito-ganham-espaco-com-foco-no-desenvolvimento-regional/
+
+[12] FORBES BRASIL. "Nubank ultrapassa 112 milhões de clientes e se torna a
+     segunda maior instituição financeira do Brasil", 22/01/2026.
+     https://forbes.com.br/forbes-money/2026/01/nubank-ultrapassa-112-milhoes-de-clientes-e-se-torna-a-segunda-maior-instituicao-financeira-do-brasil/
+
+[13] VALOR ECONÔMICO. "Número de agências bancárias já é o menor desde
+     2010", 04/04/2023.
+     https://valor.globo.com/financas/noticia/2023/04/04/numero-de-agencias-bancarias-ja-e-o-menor-desde-2010.ghtml
+
+[14] ESTADÃO. "Pix incluiu 49 milhões de pessoas no sistema financeiro,
+     diz BC", 06/10/2022.
+     https://www.estadao.com.br/economia/pix-incluiu-49-milhoes-de-pessoas-no-sistema-financeiro-diz-bc/
+
+[15] CNN BRASIL. "Pix levou 49 milhões de pessoas ao sistema de
+     transferências eletrônicas, diz BC", 06/10/2022.
+     https://www.cnnbrasil.com.br/economia/macroeconomia/pix-levou-49-milhoes-de-pessoas-ao-sistema-de-transferencias-eletronicas-diz-bc/
+
+[16] CONFI.NEOTRUST. Dados sobre share de Pix na região Norte em
+     e-commerce, 2023-2024.
+     https://qa.confi.com.vc/neotrust/blog/transacoes-via-pix-movimentaram-r-32-bilhoes-no-e-commerce-brasileiro-em-2023
+
+[17] LINKEDIN/FABIO. "Os 5 maiores bancos registraram R$ 125,6 bilhões de
+     lucro em 2024", 2025.
+
+[18] FEEBPR. "Nubank lidera como principal instituição financeira dos
+     brasileiros e já bancarizou 31,5 milhões de pessoas".
+     https://www.feebpr.org.br/noticias/upTA-nubank-lidera-como-principal-instituicao-financeira-dos-brasileiros-e-ja-bancarizou-315-milhoes-de-pessoas
+
+[19] 1LIBRARY. "Determinantes do Vazamento de Depósitos no Nordeste:
+     Análise dos Resultados".
+     https://1library.org/article/determinantes-do-vazamento-depósitos-nordeste-análise-dos-resultados.z31jl9my
+
+[20] DIÁRIO DO NORDESTE / VERDES MARES. "Entenda como as cooperativas de
+     crédito beneficiam o desenvolvimento local".
+     https://diariodonordeste.verdesmares.com.br/negocios/entenda-como-as-cooperativas-de-credito-beneficiam-o-desenvolvimento-local-1.3774290
+
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

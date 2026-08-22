@@ -1,0 +1,47 @@
+================================================================================
+PROTOCOLO DE QUALIDADE — 32 ITENS (CHECKLIST OBRIGATÓRIO) v22.0
+================================================================================
+Antes de protocolar qualquer documento, verificar TODOS os 32 itens.
+
+FUNDAMENTAÇÃO (1-8)
+[1] Fenômeno nomeado com precisão cirúrgica?
+[2] 3-5 dimensões de superfície aplicadas?
+[3] 2-3 lentes analíticas aplicadas com pergunta-chave respondida?
+[4] Mergulho em níveis 3-18 executado (mín. 3 dimensões profundas)?
+[5] Anti-padrão identificado (o que é cortina de fumaça)?
+[6] Cada afirmação factual tem fonte primária citada?
+[7] Cruzamentos lente×dimensão são SURPREENDENTES (não óbvios)?
+[8] Pipeline Dialético completo (tese→FC→refutação→contra→síntese)?
+
+MAPEAMENTO (9-16)
+[9] Loop causal completo desenhado (mín. 4 nós)?
+[10] Loops de reforço E balanceamento identificados?
+[11] Ponto de alavanca identificado e justificado?
+[12] Atores mapeados com 8 scores de veto cada?
+[13] Tipologia aplicada (doméstica E/OU transnacional)?
+[14] Coalizão construída em 5 camadas?
+[15] Threat model com contramedidas?
+[16] Ator-alvo prioritário definido?
+
+VALIDAÇÃO (17-24)
+[17] Refutação foi hostil de verdade (não strawman)?
+[18] Tese sobreviveu ou foi reformulada com honestidade?
+[19] Dados quantitativos incluídos onde aplicável?
+[20] Cenários alternativos testados (mín. 2)?
+[21] Fontes são primárias (não secundárias, não opinião)?
+[22] Viés ideológico próprio reconhecido?
+[23] Limitações da análise explicitadas?
+[24] Incerteza quantificada ou qualificada?
+
+EXECUÇÃO (25-32)
+[25] Diagnóstico é da MÁQUINA (não descrição de sintoma)?
+[26] Nós críticos identificados (1-3)?
+[27] Reforma proposta é EXECUTÁVEL (não wishful thinking)?
+[28] Reforma ataca nó crítico diretamente?
+[29] Custo político da reforma estimado?
+[30] Risco de captura da reforma antecipado?
+[31] Formato de publicação definido (petição/dossiê/TikTok/etc.)?
+[32] Protocolo TEIA-AAAA-NNN atribuído?
+
+Se qualquer item falhar, o documento NÃO está pronto. Revisar.
+================================================================================

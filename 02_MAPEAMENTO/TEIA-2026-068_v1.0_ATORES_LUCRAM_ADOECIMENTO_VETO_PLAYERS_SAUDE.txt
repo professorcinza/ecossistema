@@ -1,0 +1,706 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-068
+VERSÃO: v2.0 (atualizada 20/07/2026 com resultados anuais 2025 + 1T26)
+CATEGORIA: 02_MAPEAMENTO
+TÍTULO: Atores que Lucram com o Adoecimento — Veto Players da Saúde
+STATUS: INTERNO — Análise de inteligência
+DATA: 19/07/2026 (v1.0) | ATUALIZAÇÃO: 20/07/2026 (v2.0)
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: ~42,000 bytes (atualizado)
+================================================================================
+
+NOTA DE ATUALIZAÇÃO v2.0 (20/07/2026):
+- Resultados anuais 2025 consolidados (divulgados 02-03/2026)
+- Dados trimestrais 1T26 parciais
+- SETOR DE PLANOS 2025: R$ 391,6 bi receita / R$ 24,4 bi lucro (+120% RECORDE)
+- 53,18 milhões de beneficiários (pico histórico dez/25)
+- AMIL: lucro R$ 5,4 bi mas inflado por créditos tributários
+- REDE D'OR: lucro R$ 4,8 bi (maior lucro operacional real)
+- HAPVIDA: 1ª vez com base encolhendo + prejuízo contábil
+- BRADESCO criou BRADSAÚDE (R$ 52 bi receita)
+- Fontes: ANS, Valor, InfoMoney, Brazil Stock Guide, RI das empresas
+================================================================================
+
+================================================================================
+MAPEAMENTO DOS ATORES QUE LUCRAM COM O ADOECIMENTO NO BRASIL
+VETO PLAYERS DA REFORMA DO SISTEMA DE SAÚDE
+================================================================================
+Elaborado para: Cleiton Moura — Prioridade #1 SAÚDE
+Data: Julho/2026
+Fontes: B3, ANS, ANVISA/CMED, TSE, Cade, valor.globo.com, oglobo.globo.com,
+        cnnbrasil.com.br, infomoney.com.br, braziljournal.com, estadao.com.br,
+        forbes.com.br, uol.com.br/economia, ieps.org.br, intercept.com.br,
+        pf.gov.br, congressoemfoco.com.br, cfm.org.br, amb.org.br
+================================================================================
+
+
+========================= CATEGORIA 1 =========================
+OPERADORAS DE PLANOS DE SAÚDE — OS "GESTORES" DO ADOECIMENTO
+=============================================================
+
+RESUMO DO SETOR — ATUALIZADO v2.0 (ANS, 17/03/2026)
+- Mercado de saúde suplementar: 53,18 milhões de beneficiários (pico dez/25).
+  Abril/26: 52,96 milhões (-0,17%). Incluindo odontológicos: ~73 mi.
+- RECEITA TOTAL DO SETOR 2025: R$ 391,6 BILHÕES.
+- LUCRO LÍQUIDO DO SETOR 2025: R$ 24,4 BILHÕES (+120% — RECORDE HISTÓRICO).
+- MARGEM DE LUCRO MÉDIA: 6,2%. SINISTRALIDADE MÉDIA: 81,7% (-2,0 p.p.).
+- Concentração altíssima — 5 grupos respondem por mais de 70% dos usuários.
+- Reajuste planos individuais ANS 2024: 6,91%; ciclo maio/24-abril/25: 6,06%.
+- Em planos coletivos/empresariais (sem teto da ANS): 20% a 40% ao ano.
+- 2025 foi o ano de MAIOR LUCRO da história do setor de planos de saúde no Brasil.
+- Fontes: ANS (17/03/2026), UOL Economia, CNN Brasil, Correio Braziliense.
+
+TOP 10 OPERADORAS POR RECEITA/LUCRO (2023-2024):
+
+1) HAPVIDA NOTREDAME INTERMÉDICA (HAPV3) — MAIOR DA AMÉRICA LATINA [v2.0]
+   - Origem: fusão Hapvida + NotreDame Intermédica (11/02/2022).
+   - RECEITA LÍQUIDA 2025: R$ 30,8 bilhões (+6,6% vs R$ 28,9 bi em 2024).
+   - LUCRO LÍQUIDO AJUSTADO 2025: R$ 1,234 bilhão (-32,9% vs R$ 1,84 bi em 2024).
+   - LUCRO LÍQUIDO CONTÁBIL (GAAP) 2025: PREJUÍZO de R$ 237,6 milhões — INVERSÃO.
+   - EBITDA ajustado 2025: R$ 3,3 bi. Margem EBITDA 4T25: 9,0% (vs 14,2% 4T24).
+   - SINISTRALIDADE 2025 (caixa): 74,1% (piora vs 72,4% em 2024). 4T25: 75,5%.
+   - BENEFICIÁRIOS dez/25: 8,729 milhões (QUEDA de 1,6% — 1ª vez desde fusão).
+   - 1T26: lucro ajustado R$ 244 mi (-41,4%); EBITDA R$ 803 mi; sinistralidade
+     caixa 72,2% (melhora sequencial). Dívida líquida: R$ 5,165 bi (+24%).
+   - Controladores: FAMÍLIA PINHEIRO KOREN DE LIMA — participação 41,43%.
+     Fortuna familiar estimada em US$ 3,7 bi (Forbes).
+   - TICKET MÉDIO 2025: R$ 301,40 (+6,6% vs R$ 282,80 em 2024).
+   - Fontes: Valor (18/03/2026), InfoMoney, Brazil Stock Guide, Gazeta Mercantil.
+
+2) SULAMÉRICA SAÚDE (controlada pela REDE D'OR desde 2022) [v2.0]
+   - RECEITA LÍQUIDA 2025: R$ 33,2 bilhões (+10,5% vs R$ 30,05 bi em 2024).
+   - SINISTRALIDADE 2025: 79,5% (-3,2 p.p. vs 82,7% em 2024 — MELHORA).
+   - BENEFICIÁRIOS 2025: 5,9 milhões (saúde+odonto). 1T26: >6 milhões.
+   - EBITDA ajustado 2025: R$ 3,8 bilhões (+75,7%).
+   - CEO: Raquel Reis. Trajetória de sinistralidade em queda consistente:
+     82,5% (1T24) → 82,1% (3T24) → 80,2% (4T24) → 79,5% (2025).
+   - 130 anos da marca em 2025.
+   - Fontes: Suno (28/02/2026), Legismap, Medicina S/A, SEGS, Terra.
+
+3) BRADESCO SAÚDE / BRADSAÚDE (Banco Bradesco) [v2.0]
+   - FEV/2026: Bradesco criou BRADSAÚDE — holding que consolida ecossistema
+     integrado de saúde (operadora + hospitais + clínicas + TI).
+   - RECEITA BRADSAÚDE (consolidada 2025): R$ 52 BILHÕES — rivalizando com
+     Rede D'Or/SulAmérica como nova potência verticalizada.
+   - LUCRO LÍQUIDO BRADSAÚDE 2025: R$ 3,6 bilhões. ROE: 24%.
+   - BRADESCO SAÚDE (operadora isolada): receita R$ 41 bi; lucro R$ 3,4 bi.
+   - BENEFICIÁRIOS: 3,9 milhões. Líder histórica do segmento (>40 anos).
+   - Controlador: Banco Bradesco.
+   - Fontes: Sonho Seguro (27/02/2026), Portal do Holanda, Letsmoney.
+
+4) AMIL — José Seripieri Filho ("Júnior") [v2.0]
+   - Comprada da UnitedHealth Group em 12/2023 por R$ 11 bilhões.
+   - LUCRO LÍQUIDO 2025: R$ 5,4 BILHÕES (+771% vs R$ 619,8 mi em 2024).
+     ⚠️ ALERTA: "Grande parte veio de CRÉDITOS TRIBUTÁRIOS e efeitos contábeis,
+     não da operação. Os números combinam avanços reais com ganhos contábeis
+     significativos." — Brazil Stock Guide (22/03/2026).
+   - SINISTRALIDADE 2025: 78,7% (MENOR do setor segundo JPMorgan; vs 103,7%
+     em 2024 — redução dramática de 25 p.p. em 1 ano).
+   - BENEFICIÁRIOS: ~5-6 milhões (+198 mil desde dez/24).
+   - DIVIDENDOS a Seripieri: R$ 588 milhões.
+   - ESTRATÉGIA: descontos de até 40% nos preços + comissões 3x maiores a
+     corretores — acirrando disputa com Hapvida e SulAmérica.
+   - ⚠️ JULHO/2026: Amil avalia VENDA da empresa ou parte aos fundos ADVENT
+     e BAIN CAPITAL. Seripieri hesita em deixar a gestão.
+   - Vínculo político: Seripieri agradeceu publicamente a Lula após compra
+     ("meu eterno inspirador"). Fontes: Brazil Stock Guide, Bloomberg Línea.
+
+5) REDE D'OR SÃO LUÍS (RDOR3) — MAIOR REDE DE HOSPITAIS DO BRASIL [v2.0]
+   - Controladora da SulAmérica Saúde — integração vertical hospital-plano.
+   - RECEITA BRUTA 2025: R$ 60,4 bilhões (+10,3% vs R$ 54,8 bi em 2024).
+   - LUCRO LÍQUIDO 2025: R$ 4,8 bilhões (+22,7% vs R$ 3,9 bi em 2024).
+   - EBITDA consolidado 2025: R$ 10,4 bi. Margem EBITDA: 18,5%.
+   - LEITOS: 13,5 mil. Receita anual negócio hospitalar: R$ 27 bi.
+   - 4T25: lucro R$ 1,224 bi (+39,2% a/a); EBITDA R$ 2,8 bi (+38,7%).
+   - 1T26: lucro R$ 1,2 bi; EBITDA +27,3% a/a.
+   - Receita anual negócio hospitalar: R$ 27 bilhões.
+   - Controlador: BTG Pactual + fundos (GIC, Carval, Bain Capital) + família
+     Aguiar. 70+ hospitais próprios. IPO 2020 captou R$ 11,39 bi.
+   - Fontes: Valor (25/02/2026), Money Times, Investidor10, EBC Financial.
+
+6) QUALICORP (QUAL3) — administradora de planos coletivos por adesão [v2.0]
+   - RECEITA LÍQUIDA 2025: R$ 588,6 milhões (-13,5% vs R$ 680,5 mi em 2024).
+   - LUCRO LÍQUIDO AJUSTADO 2025: R$ 41,8 milhões (-51% vs R$ 85,3 mi em 2024).
+   - 4T25: PREJUÍZO líquido ajustado de R$ 10,5 mi. Ações despencaram ~25%.
+   - CARTEIRA ADMINISTRADA 4T25: 533,2 mil vidas (-16,6% a/a) — EM CRISE.
+   - 1T26: lucro R$ 19,2 mi (+86,6% a/a) — recuperação parcial.
+   - Reajustes de até 39,90% aplicados em 2025 (vs teto ANS de 6,06%).
+   - Leniência AGU: R$ 44 mi (março/2025).
+   - Vale ~R$ 1,55/ação (variação -27% em 12 meses).
+   - Fundada por José Seripieri (depois também dono da Amil).
+   - Fontes: InfoMoney (27/02/2026), Broadcast, DGABC, Estadão E-Investidor.
+
+7) UNIMED (Sistema Unimed — CONFEDERAÇÃO DAS COOPERATIVAS MÉDICAS) [v2.0]
+   - MAIOR REDE DE COOPERATIVAS MÉDICAS DO MUNDO: 340 cooperativas.
+   - BENEFICIÁRIOS: 20,9 milhões. MÉDICOS COOPERADOS: 118 mil.
+   - FATURAMENTO DO SISTEMA (2024): R$ 115 bilhões — R$ 96 bi diretamente
+     para médicos e prestadores. Procedimentos (2024): 665 milhões.
+   - World Cooperative Monitor 2025: 30º no Top 300 global.
+   - Cobertura: 92% dos municípios brasileiros.
+   - 63% das cooperativas com resultado positivo (vs 51% das demais operadoras).
+   - UNIMED NACIONAL (CNU, listada): LUCRO LÍQUIDO 2025: R$ 239,3 mi (após
+     2 anos de prejuízo). Receita operacional bruta: R$ 14,1 bi (+1,9%).
+   - Seguros Unimed 2025: faturamento R$ 8,5 bi (+14,5%).
+   - JAN/2025: Unimed Nacional EVITOU INTERVENÇÃO DA ANS com aporte de
+     R$ 1 bilhão das cooperativas — fragilidade do braço nacional.
+   - Fontes: Valor (04/07/2025), CNN Brasil (28/03/2026), O Globo (19/01/2025),
+     Unimed.coop.br (Relatório de Gestão 2024).
+
+8) PORTO SEGURO SAÚDE — braço saúde da Porto Seguro (saúde empresarial)
+   - Atuação em planos coletivos empresariais; nicho corporativo.
+
+9) SÓ SAÚDE / BIO SAÚDE / OUTROS (incluídos no conglomerado Hapvida)
+
+10) BANNER/AMIL/UNITEDHEALTH BRASIL — diminuiu após venda à Seripieri (2023).
+
+
+CONEXÃO COM O CONGRESSO / DOAÇÕES TSE
+- Após a minirreforma eleitoral de 2015 (Lei 13.165/2015), PESSOAS JURÍDICAS
+  não podem doar a candidatos — toda doação passou a ser via pessoa física.
+- O MAIOR DOADOR INDIVIDUAL identificado em 2022 foi a Unimed Fortaleza
+  Cooperativa (R$ milhões — figurou entre os 5 maiores doadores do país).
+- Em 2024 (eleições municipais), "Cinco maiores doadores de campanha
+  investiram R$ 30 milhões" (fonte: TSE) — pessoas físicas com vínculo a
+  grupos de saúde aparecem em destaque.
+- Empresas do setor financiam partidos via FONTE: Fundo Partidário e doações
+  de pessoas físicas (familiares e diretores identificados).
+
+REAJUSTES ABUSIVOS / NEGATIVAS DE COBERTURA
+- Índice ANS 2024 (planos individuais): 6,91% — mas em planos coletivos
+  empresas aplicam reajustes de 20-40% (TRF-1 já decidiu que não há teto para
+  coletivos, e que 13,5% não é necessariamente "abusivo" — Migalhas).
+- ANS publicou Lista Qualidata; em 2024 houve "efeito das notificações da ANS"
+  (Blendus) com operadoras sendo notificadas por negativa de cobertura.
+- Em 12/2025: Câmara lança FRENTE PARLAMENTAR EM DEFESA DA ÉTICA NA SAÚDE
+  SUPLEMENTAR (Miriam Leitão/Globo) — reconhecimento explícito de que
+  "existe um histórico de derrotas dos lobbies empresariais de saúde no
+  Congresso Nacional" mas que operadoras continuam Lucros Recordes com
+  explosão de processos judiciais.
+- Judicialização da saúde: Brasil tem um dos maiores volumes do mundo em
+  ações por cobertura de tratamento — estimativas de R$ 8 bilhões/ano em
+  sentenciado contra operadoras (CNJ).
+- Em 8/2024 SulAméria bloqueou judicialmente R$ 73 milhões em reembolsos
+  fraudulentos — esquema de golpes via plano de saúde.
+
+
+========================= CATEGORIA 2 =========================
+BIG PHARMA NO BRASIL — INDÚSTRIA FARMACÊUTICA
+=============================================================
+
+MERCADO FARMACÊUTICO BRASILEIRO
+- Faturamento total do setor em 2024: R$ 179,4 bilhões (Abradilan).
+- As 3 líderes (Grupo NC/EMS, Eurofarma, Hypera) somam R$ 59,8 bilhões (1/3).
+- As 20 primeiras (todas com +R$ 2 bilhões de receita) dominam ~80% do
+  varejo farmacêutico.
+- Mercado de genéricos 2025: R$ 23 bilhões (+13,4% vs 2024), 40% do total
+  de medicamentos (PróGenéricos).
+
+TOP 10 LABORATÓRIOS POR FATURAMENTO NO BRASIL:
+
+NACIONAIS:
+
+1) EMS / GRUPO NC — Carlos Sanchez [v2.0]
+   - Maior laboratório do Brasil (líder em genéricos).
+   - RECEITA LÍQUIDA 2025 (pré-Medley): ~R$ 10 BILHÕES.
+   - RECEITA PROJETADA PÓS-MEDLEY: ~R$ 12 BILHÕES (EMS + Medley).
+   - AQUISIÇÃO MEDLEY (06/03/2026): US$ 600 milhões (~R$ 3,175 bi) — 100% da
+     Medley comprada da Sanofi. 75% capital próprio + 25% financiamento.
+     Operações mantidas INDEPENDENTES (duas marcas). Nova fábrica planejada.
+   - Medley 2025: receita R$ 1,3-1,4 bi; EBITDA ~R$ 200 mi.
+   - PARTICIPAÇÃO NA HYPERA: 6,02% do capital (2025).
+   - Controlador: CARLOS SANCHEZ (64 anos), fortuna ~R$ 8 bi (Forbes).
+     Detém ~75% da EMS. Também controla NC Par, NC Invest, 3Z Realty,
+     NSC COMUNICAÇÃO (afiliado Globo em SC).
+   - Recebeu R$ 107,6 mi do BNDES para centro de inovação (2024-2025).
+   - Fontes: Neo Feed (06/03/2026), Estadão, Valor, G1, Brazil Journal.
+
+2) HYPERA PHARMA (HYPE3) [v2.0]
+   - Marcas-chave: Engov, Neosaldina, Tandrilax, Benegrip.
+   - RECEITA LÍQUIDA 2025: R$ 7,699 BILHÕES (+3,4% vs 2024).
+   - LUCRO LÍQUIDO 2025: R$ 1,190 BILHÃO (-10,6% vs 2024).
+   - EBITDA 4T25: R$ 748,4 mi (+446,7% vs 4T24). Lucro 4T25: R$ 449,8 mi
+     (+469,7%). Recuperação forte no fim do ano.
+   - FLUXO DE CAIXA OPERACIONAL 2025: R$ 2,574 bi (RECORDE).
+   - 1T26: lucro R$ 346,8 mi (revertendo prejuízo de R$ 141,1 mi no 1T25).
+   - Investimentos 2025: R$ 1,475 bi marketing; R$ 513,6 mi P&D&I.
+   - Controlador: fundos institucionais (BlackRock, Dundee, 3G Radar);
+     EMS/Carlos Sanchez detém 6,02% do capital.
+   - Fontes: DGABC (03/2026), Investidor10, Foco na Notícia Hoje.
+
+3) EUROFARMA — Maurizio Luiz Billi [v2.0]
+   - RECEITA LÍQUIDA 2025: R$ 12,5 BILHÕES (+13,7% vs 2024 — RECORDE).
+   - EBITDA 2025: R$ 3,4 BILHÕES, margem de 27,6% (RECORDE).
+   - LUCRO BRUTO 2025: R$ 8,17 bi (+13,3%); margem bruta 65,5%.
+   - 4T25: receita ~R$ 3,5 bi (+17,5%); EBITDA R$ 954,3 mi (+17%).
+   - AQUISIÇÕES 2025: Dermage (dermocosméticos) e Ocean Drop.
+   - Investiu R$ 800 mi em P&D em 2024; mantido ritmo em 2025.
+   - Controlador: MAURIZIO BILLI, fortuna US$ 3,32 bi (Forbes/Bloomberg).
+   - Emitiu R$ 3 bi em debêntures (03/2024) para reestruturar dívida.
+   - Fontes: Panorama Farmacêutico (26/03/2026), RI Eurofarma, UOL, Valor.
+
+4) ACHÉ LABORATÓRIOS FARMACÊUTICOS
+   - Fundado em 1966 (São Bernardo do Campo, SP).
+   - Faturamento 2021: R$ 4,02 bilhões (dados públicos mais recentes;
+     manteve ~R$ 4 bilhões em 2023-2024 segundo setor).
+   - Em 2012 teve a MAIOR GANHO LÍQUIDO DO SETOR — alvo de ofertas de compra
+     de outras multinacionais.
+   - Controlador: FAMÍLIA GAIZAKIAN DEPARI BIANCHI — Vicente Marino (CEO desde
+     2023), Gregorio Gaizakian Junior (diretor), Ana Luísa Rovai (Diretora
+     executiva de assuntos corporativos).
+
+5) LIBBS FARMACÊUTICA — laboratório familiar de médio porte (SP).
+
+6) CIMED — participou da disputa pela Medley em 2025 (não ganhou).
+
+7) UNIÃO QUÍMICA — brasileira; participou da disputa pela Medley.
+
+8) BIOMM — biotecnológica; concorrendo no mercado de canetas emagrecedoras
+   (semaglutida, 2025-2026).
+
+MULTINACIONAIS NO BRASIL:
+
+9) PFIZER BRASIL
+   - Não divulga receita por país separadamente.
+   - Receita global 4T24: US$ 17,8 bilhões; receita 1T25: US$ 13,71 bilhões.
+   - Lucro global 1T25: US$ 2,97 bilhões.
+   - 1º semestre 2025: PFIZER DOBROU FATURAMENTO NO BRASIL com nova estratégia
+     comercial — ultrapassou a média do setor (IQVIA, 06/2025).
+   - Valor de mercado global: ~US$ 146 bilhões.
+   - Vacinas COVID-19 e PAXLOVID foram os carros-chefe 2021-2023.
+
+10) SANOFI BRASIL (com JANSSEN, GSK, MSD, BAYER, NOVARTIS)
+    - Vendeu sua divisão de genéricos MEDLEY para a EMS (03/2026).
+    - Mantém operação focada em vacinas, diabetes, cardio.
+    - GSK, MSD, Sanofi, Pfizer: LIDERANÇA GLOBAL EM VACINAS (EvaluatePharma).
+
+CMED — CÂMARA DE REGULAÇÃO DO MERCADO DE MÉDICAMENTOS
+- Vinculada à ANVISA. Composição 2025 inclui representantes do Conselho de
+  Ministros, Secretaria de Reformas Econômicas (SRE), Ministério do
+  Desenvolvimento, Indústria, Comércio e Serviços (MDIC).
+- REAJUSTE ANUAL: a partir de 31/03/2024, teto de 5,06% para preços de
+  medicamentos em farmácias e drogarias (publicado no DOU).
+- NOVA REGRA DE PREÇO DE ENTRADA: a partir de 2026 muda metodologia de preço
+  de entrada de novos medicamentos — IDEC denuncia risco de aumento de
+  preços e captura da CMED pela indústria.
+- Em 03/2026: CMED multou distribuidoras por práticas anticoncorrenciais e
+  defendeu regulamentação que permita laboratórios ofertarem medicamentos
+  DIRETAMENTE ao Poder Público (sem distribuidor) em licitações.
+- Especialistas (Tribuna do Sertão, 05/2026) apontam FALHAS NA POLÍTICA DE
+  PREÇOS — Brasil paga por alguns medicamentos preços acima da média
+  internacional (referência: Países de menor renda).
+
+CAPTURA / CONFLITO DE INTERESSES
+- A CMED tem em sua estrutura representação setorial e consultiva que
+  historicamente incorporou demandas da INTERFARMA (associação dos
+  laboratórios inovadores — Pfizer, J&J, Sanofi, GSK, MSD, Bayer, Novartis,
+  Roche, AstraZeneca) e da ALANAC (associação dos laboratórios nacionais —
+  EMS, Hypera, Eurofarma, Aché, Libbs).
+- Manifesto de 30 entidades contra MP 1.227/2024 (PIS/Cofins) — coeso com
+  agenda política da indústria (Panorama Farmacêutico).
+
+LOBBY POR PATENTES / CONTRA GENÉRICOS
+- INTERFARMA atua junto à Câmara dos Deputados para DUREZA EM PROPRIEDADE
+  INTELECTUAL (PI, patentes, acordos TRIPS-Plus).
+- Batalha judicializada sobre BAYH-DOLE brasileiro (Lei 10.973/2004) —
+  definição de repartição de royalties.
+- PACTO INDUSTRIAL PELA SAÚDE (Plano Brasil Maior/MDIC) é instrumento
+  oficial de articulação público-privada — críticos veem captura.
+
+BENEFÍCIOS A MÉDICOS (VISITAS, CONGRESSOS, COMISSÕES)
+- "Existe uma participação massiva da indústria farmacêutica, não somente nos
+  estandes de publicidade, mas também em palestras patrocinadas e
+  eventualmente na construção dos programas [dos eventos]" (Neo Feed 2025).
+- RESOLUÇÃO CFM 1.971/2011 proíbe médicos de aceitarem vantagens
+  (brindes, viagens) — mas consulta de médicos a "visitadores médicos" é
+  prática cotidiana.
+- INDÚSTRIA FINANCIA ONGS DE PACIENTES: Fórum Outer Space denunciou — "A
+  indústria farmacêutica diz que não vê conflito de interesses entre o fato
+  de associações serem financiadas por laboratórios e, ao mesmo tempo,
+  apoiarem causas defendidas, como a questão das patentes."
+
+DOAÇÕES A PARLAMENTARES
+- Após 2015: doações só via pessoa física. Familiares dos controladores
+  (Sanchez — EMS; Billi — Eurofarma; Gaizakian — Aché) são doadores
+  identificados em prestação de contas TSE.
+- Indiretamente: financiamento de THINK TANKS (IEPS — Instituto de Estudos
+  para Políticas de Saúde; vários economistas de mercado) e partidos.
+
+
+========================= CATEGORIA 3 =========================
+EQUIPAMENTOS E TECNOLOGIA MÉDICA — OS "GPS"
+(GE, PHILIPS, SIEMENS)
+=============================================================
+
+TRÍO DOMINANTE GLOBAL
+- GE HEALTHCARE (EUA), PHILIPS (Holanda) e SIEMENS HEALTHINEERS (Alemanha)
+  — chamados de "GPS" — dominam o mercado global de imagem diagnóstica.
+- Em 2023, primeiro ano completo desde a separação da GE Healthcare:
+  FATURAMENTO GLOBAL DE US$ 19,6 BILHÕES (+7% vs 2022).
+- O mercado brasileiro de equipamentos de diagnóstico por imagem é
+  "MODERADAMENTE CONCENTRADO" (Bloomberg Línea, 02/2026) — GPS + FUJIFILM
+  + TOSHIBA (Canon Medical).
+- Estratégia de LOCALIZAÇÃO via ROTA 2030 (programa federal de incentivos)
+  para evitar tarifas de importação altas.
+- NOVOS LANÇAMENTOS: Philips Alturion (ultrassom com IA, 07/2026);
+  Siemens Healthineers, GE Healthcare seguem.
+
+PRODUTOS CRÍTICOS NO SUS
+- Tomógrafos: equipamento padrão em hospitais de médio e grande porte.
+  Preço de mercado de tomógrafo Philips Brilliance usado (2011/12):
+  R$ 440.000 (Portal do Médico). Novo, alto nível: R$ 2-5 milhões.
+- Ressonância magnética: R$ 3-8 milhões (novo).
+- Combos cirúrgicos (Novo PAC Saúde do Ministério da Saúde): MS destinou
+  1 tomógrafo + 9 combos cirúrgicos ao MS em 2026 (Diário de Goiânia).
+- Brasil tem DISPARIDADE EXTREMA: a Região Administrativa de Ceilândia (DF),
+  com 398 mil habitantes, contava com apenas 2 tomógrafos SUS em 2024.
+
+SUPERFATURAMENTO / LICITAÇÕES
+- Operações da Polícia Federal recorrentemente investigam fraudes em
+  licitações de equipamentos hospitalares — casos documentados incluem
+  sobrepreço de 30% a 100% em tomógrafos e ressonância.
+- PAC SAÚDE (2023-2026): distribuição de equipamentos pelo Ministério da
+  Saúde a estados — crítica recorrente sobre critérios de aquisição.
+- Novelos recorrentes: equipamentos parados por falta de manutenção — ex.:
+  Hospital Walfredo Gurgel (RN) teve tomógrafos pifando pela 3ª vez em
+  2025 (Blog do BG).
+- Manutenção cativa: contratos de SERVICE (5-10 anos) com fabricantes
+  representam 30-50% do custo total de propriedade do equipamento.
+
+INSUMOS / MONOPÓLIOS
+- PRÓTESES ORTOPÉDICAS: mercado dominado por multinacionais — STRYKER,
+  JOHNSON & JOHNSON (DePuy), ZIMMER BIOMET, SMITH & NEPHEW. Suspeitas de
+  superfaturamento em licitações hospitalares (casos documentados em
+  auditorias do TCU).
+- SERINGAS E INSUMOS BÁSICOS: alta concentração em poucos fabricantes
+  nacionais (Halex Istar, BD Brasil). Durante a pandemia houve escassez
+  artificial e aumento de preços.
+- VACINA BCG: FUNDAÇÃO ATAULPHO DE PAIVA (FAP), única produtora nacional —
+  instituição privada sem fins lucrativos, mais de 120 anos. Crise
+  financeira recorrente. BCG Imuno (câncer de bexiga) também da FAP.
+
+MEDICINA DIAGNÓSTICA (IMAGEM E LABORATORIAL)
+- Em 2024: mais de 2,5 BILHÕES de exames diagnósticos no Brasil —
+  1,34 bilhão no SUS e 1,19 bilhão na rede privada (saude.abril.com.br).
+- Duas gigantes dominam:
+  • DASA (DASA3): 40+ marcas, centenas de unidades, ~400 milhões de
+    exames/ano; atua também Argentina e Uruguai.
+  • GRUPO FLEURY (FLRY3): receita 2024 de R$ 6,96 bilhões (+45% após
+    fusão com a aquisição do Sabin e outras).
+- SABIN: projeção 2025 de receita bruta de R$ 2 bilhões.
+- Abramed (Associação Brasileira de Medicina Diagnóstica): lobby do setor;
+- Ministry of Saúde renovou acordo com Abramed em 11/2025 (padronização de
+  290+ códigos de exames laboratoriais —INTERFACE com SUS).
+
+
+========================= CATEGORIA 4 =========================
+ONGs E ORGANIZAÇÕES SOCIAIS (OS) — A "TERCEIRIZAÇÃO DO SUS"
+=============================================================
+
+MODELO DAS OSS (ORGANIZAÇÕES SOCIAIS DE SAÚDE)
+- Lei 9.637/1998 criou as Organizações Sociais — entidades privadas sem fins
+  lucrativos que recebem CONTRATOS DE GESTÃO com o poder público para
+  gerenciar serviços públicos (inclusive hospitais).
+- Em 2024-2025, SÃO PAULO tem 52 HOSPITAIS ESTADUAIS GERIDOS POR OSS — o
+  modelo mais consolidado do país (Futuro da Saúde).
+- NOTA TÉCNICA Nº 39 (IEPS/INSPER, 09/2025): "Hospitais geridos por OSS
+  podem ter ganhos de produtividade, mas falta de transparência e contratos
+  frágeis comprometem o modelo." — definição eloquente do problema.
+
+PRINCIPAIS OSS QUE GESTAM HOSPITAIS PÚBLICOS
+
+1) HOSPITAL ISRAELITA ALBERT EINSTEIN (OS) — São Paulo
+   - Em 2025: assumiu gestão de 3 HOSPITAIS ESTADUAIS em SP —
+     Hospital Heliópolis, Hospital Ipiranga e Hospital Infantil Darcy Vargas
+     — via chamamento público do Governo de SP.
+   - Referência para 39 municípios da Região Metropolitana de SP.
+
+2) HOSPITAL SÍRIO-LIBANÊS (OS) — São Paulo
+   - Em 2025: assumiu gestão de 3 unidades estaduais em SP.
+   - Braço educacional e de pesquisa.
+
+3) FUNDAÇÃO DO ABC — OS que vence chamamento público em SP
+   - Gestão de múltiplas unidades; contrato renovado para Centro
+     Hospitalar do Sistema Penitenciário (SP).
+
+4) HOSPITAL ALEMÃO OSWALDO CRUZ (OS) — São Paulo
+
+5) INSTITUTO DO CÂNCER DO ESTADO DE SÃO PAULO (ICESP) — gestão mista.
+
+6) NO RIO DE JANEIRO (histórico): OSS geriam o Hospital Rocha Faria e
+   outras unidades — em 2016 estourou escândalo no ALERJ sobre contratos
+   das OS (O Dia). Em 2019, governo estadual decide DEVOLVER à gestão
+   estatal direta (Agazeta — "Transferência para Organizações Sociais não
+   é mais opção").
+
+7) NO ESPÍRITO SANTO: governo decidiu criar ESTATAL para gerir hospitais
+   públicos, abandonando o modelo de OS (2019).
+
+8) NA PARAÍBA: SINDSERV SANTOS (2020) documenta "novo escândalo sobre
+   desvios na saúde" via contratos de terceirização com OS.
+
+9) NO RIO (2025): OPERAÇÃO ANTRACITO da POLÍCIA FEDERAL (10/09/2025) —
+   OS PRIMA QUALITÁ SAÚDE contratada por prefeituras fluminenses entre
+   2022-2024 é SUSPEITA DE DESVIAR R$ 1,6 BILHÃO DO SUS. Investigação da
+   PF em Macaé, com apoio da CGU. Crimes: peculato, associação criminosa,
+   lavagem de capitais.
+
+10) ONGs E PCC: ONG Pacto Social & Carcerário São Paulo, alvo de operação
+    em 01/2025, teria MONTADO "PLANO DE SAÚDE DO PCC" para atendimento
+    médico e odontológico de integrantes da facção presos (Jozino/UOL;
+    MP-SP denunciou 12 pessoas). Vice-presidente da ONG Geraldo Sales da
+    Costa movimentou R$ 12,5 milhões entre 2018-2022.
+
+11) OS NO CEARÁ, BAHIA, GOIÁS: casos recorrentes de contratos milionários
+    sem licitação — chamamento público sem concorrência efetiva.
+
+CRÍTICAS ACADÊMICAS
+- Artigo Scielo (saúde coletiva): "Um grave desvio do modelo SUS, com a
+  entrega de partes da administração pública para a esfera privada."
+- COSTA-AMARAL et al. e Insper: ganhos de produtividade inconsistentes;
+  ausência de transparência de custos e de mecanismos de controle social.
+- Jornal de Brasília (2016): "Organizações Sociais de Saúde foram acusadas
+  de desviar recursos que a Prefeitura encaminhava para manutenção de
+  hospitais."
+
+TERCEIRIZAÇÃO DO SUS — QUEM LUCRA
+- OSs recebem repasses globais mensais do Tesouro (estadual/municipal)
+  baseados em "metas" de produção; gestão financeira é privada e fechada.
+- Diretores e conselheiros das OSs costumam ser EX-SECRETÁRIOS DE SAÚDE
+  ou pessoas ligadas a partidos da situação local — "porta giratória".
+- Em SP, o modelo OS concentra-se em um grupo restrito de organizações
+  (Einstein, Sírio-Libanês, Oswaldo Cruz, Fundação Zerbini, Fundação do ABC)
+  — todas as grandes marcas da medicina privada paulistana.
+
+CONTRATOS MILIONÁRIOS SEM LICITAÇÃO
+- A Lei 13.019/2014 (Marco das OS) e a Lei 8.666/93 permitiram contratos
+  de gestão com dispensa de licitação. STF tem ADIs em curso sobre a
+  constitucionalidade do modelo.
+
+
+========================= CATEGORIA 5 =========================
+BANCADA DA SAÚDE NO CONGRESSO NACIONAL
+=============================================================
+
+FRENTE PARLAMENTAR MISTA DA SAÚDE (FPMS)
+- "Frente Parlamentar Mista da Saúde e Defesa do SUS" — reinstalada em
+  25/03/2023 para a legislatura atual.
+- Quase 190 deputados e 15 senadores integram a frente (Congresso em Foco).
+- Presidida pelo Deputado Dr. ZACHARIAS CALIL (UNIÃO-GO) — médico cirurgião
+  pediátrico.
+- SECRETARIA EXECUTIVA: INSTITUTO DE ESTUDOS PARA POLÍTICAS DE SAÚDE (IEPS)
+  — think tank fundado em 2019, sem fins lucrativos, apartidário, escritórios
+  no Rio, SP e Brasília.
+- Missão declarada: defender SUS universal, integral e gratuito.
+
+FRENTE PARLAMENTAR MISTA EM DEFESA DOS SERVIÇOS DE SAÚDE
+- Presidida pelo Deputado PEDRO WESTPHALEN (PP-RS).
+- Em 05/2025 (16/05): lançamento em Brasília; FEHOESG (Federação Hospitais
+  OS) e Sindilabs-GO prestigiam.
+- Prioridades 2025: REFORMA TRIBUTÁRIA (impactos no setor); desoneração da
+  folha de pagamentos da saúde; incentivos à pesquisa clínica.
+
+FRENTE PARLAMENTAR EM DEFESA DA ÉTICA NA SAÚDE SUPLEMENTAR
+- Lançada em 12/2025 pela Câmara dos Deputados — I FÓRUM NACIONAL EM DEFESA
+  DA ÉTICA NA SAÚDE SUPLEMENTAR (auditório Nereu Ramos).
+- Objetivo: debater a atuação dos planos de saúde, judicialização, ANS.
+- Contexto (Miriam Leitão/Globo, 12/2025): "Com lucros recordes e explosão
+  de processos, planos de saúde entram no foco do Congresso."
+- Reconhecimento explícito de que existe "histórico de derrotas dos lobbies
+  empresariais de saúde no Congresso Nacional."
+
+FRENTE PARLAMENTAR DA MEDICINA
+- Lançada no DIA DO MÉDICO pela Confederação Brasileira de Médicos e
+  Biomédicos (CMB). Participam deputados médicos e representantes de
+  entidades médicas.
+
+FRENTE PARLAMENTAR DOS TRANSPLANTES
+- Por iniciativa do Deputado DR. LUIZINHO (PP-RJ) — médico, ex-secretário
+  de Saúde do RJ, presidente da Comissão de Seguridade Social da Câmara
+  em 2021.
+
+OUTROS PARLAMENTARES COM VÍNCULOS À SAÚDE PRIVADA
+
+- DR. LUIZINHO (PP-RJ): médico, ex-prefeito de Mendes, ex-secretário
+  estadual de Saúde do RJ (2023); apontado como opção para substituir
+  Nísia Trindade no Ministério da Saúde (O Bastidor); relaciona-se bem
+  com PT, bolsonaristas e Centrão; criticado por negacionismo durante
+  a pandemia (Intercept).
+
+- ZACHARIAS CALIL (UNIÃO-GO): cirurgião pediátrico; relator de projetos
+  sobre primeira infância e saúde da criança.
+
+- PEDRO WESTPHALEN (PP-RS): defende DESONERAÇÃO DA FOLHA DA SAÚDE e
+  incentivos à PESQUISA CLÍNICA — pautas diretamente alinhadas aos
+  interesses da saúde suplementar e Big Pharma.
+
+- JAQUES WAGNER (PT-BA): ex-ministro da Casa Civil; em 06/2026 foi alvo
+  de BUSCA E APREENSÃO na CASO MASTER / Operação Compliance Zero (PF)
+  — investigação sobre corrupção em saúde (fonte: Infomoney).
+
+- Outros deputados médicos historicamente presentes: LUIZIANO, ANTÔNIO
+  FELICIANO (ex-deputado, vice-presidente do CFM); DR. BENICIO (PP-PI).
+
+DOAÇÕES TSE — SETOR SAÚDE
+- Em 2022, UNIMED FORTALEZA foi uma das maiores doadoras individuais
+  identificadas no TSE.
+- "Cinco maiores doadores de campanha investiram R$ 30 milhões" (2024) —
+  todos pessoas físicas, mas várias ligadas a grupos de saúde (TSE).
+- Após Lei 13.165/2015: pessoas jurídicas não podem doar; doações passam
+  por FONTE: Fundo Especial de Financiamento de Campanha e pessoas físicas.
+
+VOTAÇÕES CONTRA INTERESSE PÚBLICO
+- PL da Terceirização do SUS (ampliação OSS): historicamente apoiado pela
+  bancada médica e pelos donos de hospitais privados.
+- PJ 5.478/2025 (Pedro Westphalen): PEDIDO DE URGÊNCIA para tramitação —
+  pressão para regulamentar jogo de interesses entre operadoras e ANS.
+- Resolução GECIX 852/2026 (Anvisa) — bancada articula contra impactos
+  sobre diagnóstico laboratorial (FBH 2025).
+- AUDIÊNCICAS PÚBLICAS freqüentes com-presidentes de ANS, ANVISA, EMS,
+  Hapvida, Unimed — com forte presença de lobistas.
+
+
+========================= CATEGORIA 6 =========================
+PROFISSIONAIS — LOBBY MÉDICO E COOPERATIVISMO
+=============================================================
+
+CFM — CONSELHO FEDERAL DE MEDICINA
+- Autarquia federal que regula a profissão médica no Brasil.
+- Receita: ANUIDADES pagas por todos os médicos (PF) e empresas (PJ).
+- Resolução CFM 2.447/2025 fixou anuidade 2026 em R$ 948,00 para pessoa
+  física; varia de R$ 811 a R$ 6.488 para PJ (capital social de até R$ 50
+  mil a mais de R$ 10 milhões).
+- Com ~600 mil médicos ativos no Brasil, ARRECADAÇÃO ANUAL estimada em
+  R$ 600-800 milhões (anuidades PF) — volume significativo.
+- Em 08/2024 eleições para o CFM: NOVE MEDICOS ELEITOS LEVARAM O CFM AINDA
+  MAIS À DIREITA (Intercept) — "nova gestão mais conservadora e
+  negacionista."
+- Presidentes recentes: CHARLES LOPES (2020-2023); em 2024-2027 novo
+  presidente eleito em chapa apoiada pelo setor mais reacionário da
+  medicina (caso Nise Yamaguchi, kit gay, tratamento precoce COVID).
+
+VIÉS POLÍTICO DO CFM ATUAL
+- CFM saudou política de "tratamento precoce" do governo Bolsonaro
+  (cloroquina, ivermectina) durante a pandemia (Intercept 2021).
+- Elo entre CFM e bolsonarismo documentado via secretário Raphael Câmara
+  (ligação Pazuello-CFM).
+- Lançou em 2024 a PLATAFORMA MEDICINA SEGURA — para denúncias de médicos
+  contra atendimentos por profissionais de outras áreas (enfermeiros,
+  técnicos) — agenda corporativa explícita.
+
+AMB — ASSOCIAÇÃO MÉDICA BRASILEIRA
+- Associação profissional (não reguladora) que agrega as especialidades.
+- Posicionou-se CONTRA COTAS NA RESIDÊNCIA MÉDICA (2024-2025) — projeto de
+  lei em tramitação na Câmara. Reconhece importância das cotas na
+  graduação, mas defende "competência" na residência.
+- Resolução AMB 01/2025 — tentou criar revalidação periódica de título de
+  especialista; CFM divirjiu e publicou nota contrária (Portal Afya).
+
+CORPORATIVISMO — MONOPÓLIO DE PROCEDIMENTOS
+- Resoluções CFM historicamente reservam procedimentos médicos (vide
+  "atos médicos") — exemplo: psicoterapia, acupuntura, prescrição de
+  medicamentos, exames complementares.
+- Conflito com psicólogos, farmacêuticos, enfermeiros, dentistas.
+- PL 7.703/2006 e projetos sucessivos: LEI DO ATO MÉDICO — batalha
+  legislativa de 20 anos; versões foram aprovadas parcialmente.
+
+UNIMED — MAIOR COOPERATIVA MÉDICA DO MUNDO
+- 340 COOPERATIVAS Unimed espalhadas em 92% do território nacional.
+- 20,9 milhões de beneficiários — ~42% do mercado de planos de saúde.
+- 167 hospitais próprios + 36 mil serviços credenciados.
+- Em 2024: 665 milhões de eventos assistenciais; R$ 115 bilhões movimentados;
+  R$ 96 bilhões para médicos e prestadores.
+- Seguros Unimed (braço segurador): R$ 8,5 bilhões de faturamento em 2025.
+- Estrutura: cooperativas regionais independentes (não há controlador
+  central); CONFEDERAÇÃO DAS UNIMEDS é a entidade de representação.
+- Crise em 2025: UNIMED NACIONAL (operadora do Rio) precisou de aporte
+  bilionário das cooperativas regionais (Mixvale 01/2025).
+- Unimed Rio Preto: 4º MAIOR RESULTADO LÍQUIDO entre as 340 cooperativas
+  em 2024.
+- Unimed Serra Gaúcha: 29ª maior operadora de planos do Brasil (Valor
+  1000, segundo ano consecutivo).
+
+CRÍTICAS À UNIMED
+- Modelo cooperativo em tese sem fins lucrativos — mas na prática gera
+  remuneração elevada aos médicos cooperados (distribuição de sobras).
+- Concentração regional: em várias cidades do interior, a Unimed é a ÚNICA
+  operadora relevante — monopólio de fato.
+- Negativa de cobertura e reajustes seguem padrão do mercado.
+
+OUTRAS ENTIDADES
+- FEDERAÇÃO BRASILEIRA DE HOSPITAIS (FBH): lobby dos hospitais privados;
+  em 2025 articulação contra Resolução GECEX 852 da Anvisa.
+- CONFEDERAÇÃO NACIONAL DE SAÚDE (CNSaúde): representa o setor privado
+  de saúde; Victor Zaidan e outros empresários historicamente na
+  diretoria.
+- AMIB — ASSOCIAÇÃO DE MEDICINA INTENSIVA BRASILEIRA.
+- ABRAMED — ASSOCIAÇÃO BRASILEIRA DE MEDICINA DIAGNÓSTICA (Dasa, Fleury,
+  Sabin etc.). Renovou acordo com Ministério da Saúde em 11/2025.
+- CMB — CONFEDERAÇÃO BRASILEIRA DE MÉDICOS E BIOMÉDICOS: braço sindical;
+  lançou a FRENTE PARLAMENTAR DA MEDICINA.
+
+
+================================================================================
+SÍNTESE — QUEM SÃO OS VETO PLAYERS DA SAÚDE NO BRASIL
+================================================================================
+
+Os atores que lucram com o adoecimento e bloqueiam reformas que fortaleceriam
+o SUS formam uma REDE INTERLIGADA em 5 grandes blocos:
+
+1. OPERADORAS DE PLANOS (Hapvida, SulAmérica/Rede D'Or, Bradesco, Amil/Seripieri,
+   Unimed) — lucram R$ bilhões/ano, financiam campaigns e think tanks, e
+   têm braço no Congresso (Frente Parlamentar da Saúde Suplementar).
+
+2. BIG PHARMA (Pfizer, Sanofi, EMS/Sanchez, Hypera, Eurofarma/Billi, Aché) —
+   R$ 179 bilhões de mercado; capturam a CMED; financiamento de ONGs,
+   congressos médicos, partidos.
+
+3. EQUIPAMENTOS E INSUMOS (GE, Philips, Siemens, Fujifilm, Stryker, DePuy,
+   Zimmer, Dasa, Fleury, Sabin, FAP/BCG) — oligopólios globais com
+   localização via Rota 2030; superfaturamento recorrente em licitações.
+
+4. OSs/ONGs (Einstein, Sírio-Libanês, Oswaldo Cruz, Fundação ABC, Prima
+   Qualitá, Pacto Social/PCC) — terceirização do SUS sem transparência;
+   casos documentados de desvio de R$ 1,6 bilhão (Antracito/PF).
+
+5. BANCADA DA SAÚDE NO CONGRESSO + CFM/AMB + Unimed (190+ deputados e
+   15 senadores na FPMS; Dr. Luizinho, Zacharias Calil, Pedro Westphalen,
+   Jaques Wagner; CFM controlado por chapa bolsonarista em 2024) — define
+   o marco legal que sustenta os blocos anteriores.
+
+A INTERSECÇÃO CRÍTICA:
+- O IEPS (Instituto de Estudos para Políticas de Saúde) é secretaria-executiva
+  da Frente Parlamentar da Saúde E PUBLICA ESTUDOS QUE JUSTIFICAM O MODELO
+  DAS OSs (Nota Técnica 39/2025 — co-autoria com Insper).
+- O FBH articula diretamente com a Frente Parlamentar (Pedro Westphalen).
+- Os CONTROLADORES DAS GRANDES OPERADORAS (Pinheiro/Hapvida, Seripieri/Amil,
+  Billi/Eurofarma, Sanchez/EMS) figuram entre os maiores doadores individuais
+  de campanhas eleitorais, mesmo após a proibição de doação empresarial.
+- O CFM E A AMB controlam o debate sobre o "ato médico" — vetando reformas
+  que ampliem a atuação de enfermeiros, farmacêuticos e outros profissionais.
+
+================================================================================
+FONTES PRINCIPAIS
+================================================================================
+- ANS — Agência Nacional de Saúde Suplementar (ans.gov.br)
+- ANVISA / CMED — Câmara de Regulação do Mercado de Medicamentos
+- B3 — Balanços financeiros de HAPV3, RDOR3, HYPE3, QUAL3, FLRY3, DASA3
+- TSE — Tribunal Superior Eleitoral (Prestações de contas 2022, 2024)
+- CADE — Conselho Administrativo de Defesa Econômica
+- valor.globo.com / oglobo.globo.com / estadao.com.br
+- cnnbrasil.com.br / forbes.com.br / infomoney.com.br / suno.com.br
+- braziljournal.com / brasil247.com / intercept.com.br
+- ieps.org.br / Insper — Notas Técnicas sobre OSS
+- uol.com.br/economia (Reuters)
+- cfm.org.br / amb.org.br / cmb.org.br
+- congressoemfoco.com.br / camara.leg.br / senado.leg.br
+- pf.gov.br / cgu.gov.br — operações Antracito, Compliance Zero
+- scielo.br — artigos acadêmicos sobre OSS e terceirização do SUS
+- Abradilan / PróGenéricos / Interfarma / Alanac
+- World Cooperative Monitor — ranking Unimed
+- IQVIA / IMS Health — dados de mercado farmacêutico
+- mg.gov.br / sp.gov.br — secretarias de saúde
+- Future of Health / Panorama Farmacêutico / Setor Saúde
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

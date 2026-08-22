@@ -1,0 +1,499 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-015
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Amicus Curiae — ADPF 854 (STF)
+STATUS: PROTOCOLO_PENDENTE
+DESTINATÁRIO: Min. Flávio Dino — STF
+AÇÃO: Protocolar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 29,836 bytes (29.1 KB)
+HASH MD5: 8b3998f6493adc44c37c478e14a36f90
+HASH SHA-256: ea9dfbeec56d8f5a5be063a08519aabf66ca8f1ee896b083e047251c04d3c518
+================================================================================
+
+================================================================================
+EXCELENTÍSSIMO SENHOR MINISTRO FLÁVIO DINO, RELATOR DA ADPF 854,
+DO EGRÉGIO SUPREMO TRIBUNAL FEDERAL
+================================================================================
+
+AMICUS CURIAE
+PEDIDO DE INTERVENÇÃO COMO AMIGO DA CORTE
+(ART. 138 DO CPC/2015 C/C ART. 7º, § 2º, DA LEI Nº 9.868/1999)
+
+ADPF Nº 854 / DF
+
+Cleiton Moura, brasileiro, analista geopolítico e econômico, atuante no
+âmbito do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA), instituição voltada ao estudo, ao
+debate e à promoção de reformas institucionais, da transparência pública e do
+aprimoramento da gestão da coisa pública, qualificado na forma adiante exposta,
+vem, com o devido acatamento, à presença de Vossa Excelência, na condição de
+Relator da Arguição de Descumprimento de Preceito Fundamental nº 854, perante o
+Egrégio Supremo Tribunal Federal, com fundamento no artigo 138 do Código de
+Processo Civil de 2015 e no artigo 7º, § 2º, da Lei nº 9.868, de 10 de novembro
+de 1999, requerer o INGRESSO no feito, na qualidade de AMICUS CURIAE, em razão da
+relevância da matéria, da transcendência do tema para o regime constitucional
+brasileiro e da capacidade de o peticionário contribuir, com perspectiva técnica
+e independente, para o deslinde da causa, o que faz nos termos dos memoriais a
+seguir apresentados.
+
+I. QUALIFICAÇÃO DO PETICIONÁRIO E PRESSUPOSTOS DA INTERVENÇÃO
+
+1. O peticionário, Cleiton Moura, é analista geopolítico e econômico, com
+atuação dedicada ao monitoramento de políticas públicas, à análise de processos
+orçamentários e ao estudo da accountability institucional no Brasil. Integra o
+quadro técnico do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA), entidade de natureza civil,
+apartidária e sem fins lucrativos, dedicada à produção de conhecimento aplicado
+sobre gestão pública, transparência orçamentária, integridade e controle social.
+
+2. O Centro de Estudos em Hacker Cultura Periférica Teia de Aranha tem por finalidade institucional, entre outras,
+a promoção de estudos, pareceres técnicos e propostas voltadas ao
+aperfeiçoamento dos mecanismos de controle social e à maior abertura dos atos de
+governo, com especial ênfase sobre o ciclo orçamentário da União. Nessas
+atividades, o IGN e seus analistas acompanham de forma sistemática a destinação,
+a execução e a prestação de contas das chamadas "emendas parlamentares" em suas
+diversas modalidades — individuais, de bancada, de comissão, de relator e as
+designações por grupo parlamentar ("emendas de liderança").
+
+3. O peticionário não atua em nome de qualquer das partes originárias do
+procedimento, nem defende interesse patrimonial próprio ou de terceiro. Sua
+intervenção destina-se, exclusivamente, a oferecer subsídio técnico, dados
+fáticos e argumentos jurídicos úteis à apreciação da causa pelo Tribunal,
+alinhados ao regime constitucional da transparência, da publicidade, da
+moralidade e da impessoalidade (art. 37, caput, da Constituição Federal).
+
+4. Os pressupostos de admissibilidade da intervenção como amicus curiae —
+relevância da matéria, representatividade do postulante e utilidade de sua
+contribuição — encontram-se presentes no caso concreto, conforme delineado nos
+itens seguintes. A relevância da matéria é manifesta: a ADPF 854 discute nada
+menos do que os limites constitucionais do poder de alocação orçamentária pelo
+Congresso Nacional e a tutela dos princípios da publicidade, da moralidade e da
+impessoalidade no trato dos recursos públicos. A representatividade do
+peticionário decorre de sua atuação institucional continuada na seara da
+transparência pública, com domínio técnico sobre o objeto do litígio. A utilidade
+da contribuição se revela na perspectiva técnica, analítica e apartidária que o
+peticionário está em condições de oferecer, com base em dados de fontes
+oficiais, de órgãos de controle e de entidades da sociedade civil organizada.
+
+II. BREVE SÍNTESE DO OBJETO E DO ESTADO DO FEITO
+
+5. A ADPF 854, proposta originariamente pelo Partido Socialismo e Liberdade
+(PSOL) em 2021, teve por objeto a afirmação de inconstitucionalidade do chamado
+"orçamento secreto", assim entendido o conjunto de práticas orçamentárias
+associadas às emendas do relator-geral da Lei Orçamentária Anual (emendas RP9) e
+demais modalidades equivalentes, caracterizadas, em essência, pela (i) ausência
+de identificação nominal do autor da emenda, (ii) ausência de critérios
+objetivos, públicos e prévios de distribuição dos recursos e (iii) carência de
+controle e publicidade quanto à execução e aos beneficiários.
+
+6. Em decisão plenária proferida em dezembro de 2022, o Supremo Tribunal
+Federal, por maioria (6 votos a 5), declarou a inconstitucionalidade das
+práticas que compunham o "orçamento secreto", por afronta aos princípios
+constitucionais da legalidade, da impessoalidade, da moralidade, da publicidade,
+da transparência (art. 37, caput, da CF) e da separação dos Poderes (art. 2º da
+CF), bem assim por violação aos princípios do orçamento previstos no art. 165 da
+Constituição, notadamente a unidade, a universalidade e a anualidade.
+
+7. Dados consolidados por órgãos de controle e por entidades da sociedade civil
+demonstram a magnitude do fenômeno: entre 2020 e 2022, foram destinados
+aproximadamente R$ 67 (sessenta e sete) bilhões a despesas executadas ao abrigo
+das emendas do relator-geral (RP9) e modalidades correlatas, valores que,
+conforme amplamente noticiado e confirmado por levantamentos do Congresso
+Nacional, do Tribunal de Contas da União e de organizações como o Inesc, a
+Transparência Brasil e a Associação Contas Abertas, circularam ao largo dos
+controles ordinários previstos na Constituição e na Lei de Responsabilidade
+Fiscal.
+
+8. Não obstante a decisão de mérito proferida em 2022, o quadro fático subsequente
+revelou que o legislador infraconstitucional e as Mesas da Câmara dos Deputados
+e do Senado Federal — por meio da Resolução nº 1, de 2023, do Congresso Nacional,
+e de atos normativos supervenientes — promoveram reestruturação formal das
+modalidades de emenda parlamentar, sem, contudo, eliminar os vetores estruturais
+de opacidade que motivaram a decisão de inconstitucionalidade.
+
+9. Em particular, a edição da Lei Complementar nº 210, de 25 de novembro de
+2024, que pretendeu regulamentar a proposição e a execução das emendas
+parlamentares, foi objeto de severas críticas por parte de organizações
+especializadas — a própria Transparência Brasil, em conjunto com a Transparência
+Internacional – Brasil e a Associação Contas Abertas, emitiu nota pública no
+sentido de que o referido diploma "agrava riscos de corrupção e inaugura
+orçamento secreto 3".
+
+10. No exercício do poder geral de cautela inerente à relatoria, Vossa Excelência
+proferiu, ao longo de 2024 e 2025, diversas decisões monocráticas e interlocutórias
+com vistas a assegurar a efetividade da decisão plenária de 2022. Em uma dessas
+decisões (referência de outubro de 2024, e subsequentes de fevereiro de 2025),
+Vossa Excelência registrou expressamente que "permanece o grave e inaceitável
+quadro de descumprimento da decisão do Plenário do STF que, em 2022, determinou a
+adequação das práticas orçamentárias ao disposto na Constituição Federal".
+
+11. Tais decisões incidiram, principalmente, sobre: (i) a exigência de
+identificação nominal dos patrocinadores das emendas; (ii) a necessidade de
+plano de trabalho prévio e examinável pelo Tribunal de Contas da União; (iii) a
+vedação a mecanismos que reproduzam, sob nova roupagem, a lógica do "orçamento
+secreto"; (iv) o monitoramento, pela Controladoria-Geral da União (CGU), da
+destinação de recursos a organizações não governamentais beneficiárias de
+emendas parlamentares.
+
+12. Em agosto de 2024, o Plenário do Supremo Tribunal Federal, por unanimidade,
+ratificou as liminares deferidas por Vossa Excelência, reafirmando a exigência de
+transparência, individualização e rastreabilidade das emendas parlamentares.
+
+III. DA RELEVÂNCIA DA INTERVENÇÃO
+
+13. A presente intervenção justifica-se pela superveniência de elementos fáticos
+e técnicos que reforçam a premência de uma resposta judicial firme e
+estruturada, em três frentes específicas que se desenvolvem adiante, nos
+memoriais.
+
+14. Primeiro, evidenciou-se que, em substituição ao RP9, surgiram as chamadas
+"emendas de liderança", modalidade pela qual lideranças partidárias assumem a
+autoria formal de emendas de comissão, ocultando os parlamentares que
+efetivamente decidiram o destino dos recursos. Segundo levantamento da
+Transparência Brasil divulgado em 2025, apenas em 2025 as lideranças de sete
+partidos da Câmara dos Deputados assumiram a autoria de R$ 1,3 (um vírgula três)
+bilhão em emendas, distribuídos em 1.341 indicações, das quais 16% sem
+identificação individual de autoria.
+
+15. Segundo, dados oficiais apontam que 96% (noventa e seis por cento) dos
+recursos sob a rubrica de "emendas de liderança" em 2025 concentram-se em apenas
+quatro legendas: Progressistas (PP), União Brasil, Partido Liberal (PL) e
+Republicanos. O PP isoladamente responde por aproximadamente R$ 300 milhões;
+seguido por União Brasil (R$ 288,7 milhões), PL (R$ 254,3 milhões) e
+Republicanos (R$ 218,4 milhões), com participações menores de Avante, Podemos e
+Solidariedade.
+
+16. Terceiro, em cumprimento a determinação anterior de Vossa Excelência, a CGU
+elaborou relatório examinando 26 (vinte e seis) organizações não governamentais
+beneficiadas por emendas parlamentares em dezembro de 2024. Concluiu-se que 13
+(treze) dessas entidades — exatamente 50% (cinquenta por cento) do universo
+analisado — "não fornecem transparência adequada ou não divulgam informações"
+necessárias ao controle social e institucional. O relatório foi encaminhado pela
+Advocacia-Geral da União aos autos da ADPF 854.
+
+17. Os três elementos acima compõem um quadro de inelutável pertinência para a
+causa: demonstram, com dados concretos, que a lógica do "orçamento secreto" — a
+que o Plenário do STF já declarou inconstitucional — persiste de forma
+metamorfoseada, sobretudo mediante as "emendas de liderança" e a fragilidade do
+controle sobre entidades beneficiárias, com especial preocupação quanto a ONGs e
+demais organizações privadas receptoras de recursos públicos a título de
+emenda parlamentar.
+
+IV. DOS MEMORIAIS: DA NECESSÁRIA AFIRMAÇÃO DE TRÊS PARÂMETROS
+   CONSTITUCIONAIS MÍNIMOS
+
+   ————————————————————————————————————————————————————————
+   MEMORIAL I — DA IDENTIFICAÇÃO NOMINAL OBRIGATÓRIA DO AUTOR
+                DE CADA EMENDA PARLAMENTAR
+   ————————————————————————————————————————————————————————
+
+18. A transparência quanto à autoria da emenda parlamentar não constitui mera
+formalidade procedimental. É, ao contrário, condição de validade material do
+próprio ato de indicação orçamentária, por três ordens de razões.
+
+19. Primeira: o sistema constitucional brasileiro (art. 37, caput, e art. 5º,
+XXXIII, da CF) erige a publicidade e a transparência à condição de princípios
+matrizes da atuação estatal. Recurso público, sob qualquer modalidade, deve ser
+rastreável até o agente público que determinou a sua destinação. A
+identificação nominal do autor da emenda é, portanto, implementação direta e
+necessária do princípio da publicidade aplicado à função legislativa de
+iniciativa orçamentária.
+
+20. Segunda: o controle social e institucional — exercido pelo eleitorado, pela
+sociedade civil, pelo Ministério Público, pelo Tribunal de Contas da União e
+pelo Poder Judiciário — só se torna efetivo quando conhecido o responsável pela
+indicação. Sem autoria nominal, não há responsabilização política (perante o
+eleitor), nem responsabilização administrativa ou penal por eventuais
+desvios, superfaturamento, direcionamento ou favorecimento. A opacidade, nesse
+sentido, é funcional à impunidade.
+
+21. Terceira: a decisão plenária proferida em 2022, na ADPF 854, ancorou-se,
+precisamente, na condenação da ausência de identificação e de critérios
+objetivos de distribuição das emendas do relator-geral (RP9). Substituir o
+RP9 por "emendas de liderança", igualmente sem identificação nominal, importa
+em fraude à coisa julgada material e em descumprimento direto da decisão do
+Plenário. A circunstância de a indicação passar a ser formalmente atribuída à
+"liderança partidária" não cumpre a exigência constitucional, pois a liderança é
+ente colegiado e, na prática, tem servido como mero veículo de ocultação do
+verdadeiro autor — o parlamentar que, individualmente, decidiu o destinatário e
+o valor.
+
+22. Os dados empíricos confirmam o caráter fraudulento do expediente. Difícil
+admitir, no plano da razoabilidade, que a "liderança partidária" — órgão
+colegiado, composto por parlamentares eleitos por diferentes circunscrições —
+tenha, isoladamente, identificado 1.341 destinações específicas em 2025, no
+montante de R$ 1,3 bilhão, com forte concentração geográfica e setorial. A
+realidade fática evidencia que tais emendas são, em verdade, indicações de
+parlamentares individuais, dissimuladas sob a rubrica da liderança.
+
+23. Propõe-se, portanto, a afirmação judicial do seguinte parâmetro
+constitucional: toda e qualquer emenda parlamentar — independentemente de sua
+modalidade (individual, de bancada, de comissão, de relator ou de liderança) —
+deve identificar, nominalmente, o parlamentar ou os parlamentares responsáveis
+pela indicação do beneficiário e/ou da ação orçamentária. A indicação sem
+identificação nominal do autor deve ser tida como inconstitucional, por ofensa
+aos arts. 2º, 5º, XXXIII, e 37, caput, da Constituição Federal, e em descumprimento
+direto à decisão de mérito proferida na ADPF 854.
+
+24. Tal parâmetro guarda harmonia com a Lei Complementar nº 210/2024 e com a
+Resolução nº 1/2023-CN, devendo estes serem interpretados em conformidade com a
+Constituição, de modo a impedir que sua letra permita — pela via da ficção da
+autoria colegiada — a reprodução do modelo opaco já rejeitado pelo Plenário.
+
+   ————————————————————————————————————————————————————————
+   MEMORIAL II — DA PROIBIÇÃO DE EMENDA PARLAMENTAR DESTINADA A
+                CIRCUNSCRIÇÃO DIVERSA DA BASE TERRITORIAL
+                DE ELEIÇÃO DO AUTOR
+   ————————————————————————————————————————————————————————
+
+25. Parlamentares são eleitos para representar o povo de sua circunscrição.
+Deputados federais representam o povo dos Estados (art. 45 da CF), e Senadores,
+os respectivos Estados-membros (art. 46 da CF). A representação política,
+portanto, tem base territorial, e a função de fiscalização e de propositura
+orçamentária do parlamentar está umbilicalmente vinculada aos interesses da
+circunscrição que o elegeu.
+
+26. Do princípio da representação territorial decorre, como corolário lógico e
+jurídico, que o parlamentar — ao exercer sua função constitucional de propor
+emendas ao orçamento da União — deve destinar os recursos ao atendimento de
+demandas de sua própria base territorial de eleição. Permitir que parlamentar
+indique emenda para circunscrição (Estado, Distrito Federal ou Município) diversa
+da sua significa, no plano material, admitir: (i) a representação de interesses
+alheios à sua base eleitoral, em desconformidade com o sistema representativo;
+(ii) a formação de mercados paralelos de troca orçamentária, em que
+parlamentares "permutam" indicações entre si ou para fora de suas UFs, com
+prejuízo à clareza do vínculo de accountability entre o representante e seu
+eleitorado; e (iii) a captura do orçamento por arranjos políticos centrais, em
+detrimento da alocação conforme necessidades regionais legítimas.
+
+27. A praxe das "emendas para fora da UF" — hoje admitida e largamente praticada,
+segundo ampla documentação produzida por órgãos de controle e pela imprensa
+especializada — configura distorção grave do modelo representativo e fonte
+reconhecida de opacidade, na medida em que dissocia o parlamentar dos efeitos
+políticos de suas escolhas orçamentárias perante seu próprio eleitorado.
+
+28. A proibição aqui proposta não afeta as legítimas emendas de bancada, na
+medida em que estas, por definição, são propostas pelo conjunto dos
+parlamentares de uma mesma unidade federativa e dirigidas ao interesse comum
+daquela UF. Ao contrário, a proibição das emendas individuais para fora da UF
+do autor reforça o sentido cooperativo das emendas de bancada e recompõe o
+vínculo territorial de representação.
+
+29. Propõe-se, portanto, a afirmação do seguinte parâmetro: é inconstitucional a
+emenda parlamentar individual destinada a beneficiar unidade da Federação,
+Município ou entidade sediada em circunscrição diversa da base territorial de
+eleição do parlamentar autor da indicação, ressalvadas as emendas de bancada
+estadual e as hipóteses, estritamente excepcionais e justificadas, de programas
+de alcance nacional uniformemente distribuídos por critério objetivo.
+
+   ————————————————————————————————————————————————————————
+   MEMORIAL III — DA PRESTAÇÃO DE CONTAS OBRIGATÓRIA POR
+                 ONGs E ENTIDADES BENEFICIADAS POR EMENDAS
+                 PARLAMENTARES
+   ————————————————————————————————————————————————————————
+
+30. A destinação de recursos públicos a organizações da sociedade civil, por meio
+de emendas parlamentares, é prática juridicamente admissível, desde que
+submetida a regime rigoroso de prestação de contas, de controle social e de
+publicidade. Tal exigência decorre diretamente da Constituição, em especial do
+art. 37, caput (princípios da legalidade, impessoalidade, moralidade,
+publicidade e eficiência), do art. 70, parágrafo único (controle, fiscalização
+e prestação de contas de qualquer entidade que arrecade ou guarde dinheiro
+público), e do art. 74, § 2º (legitimidade do cidadão para denunciar
+irregularidades ao Tribunal de Contas da União).
+
+31. O relatório produzido pela Controladoria-Geral da União (CGU) e encaminhado
+a estes autos pela Advocacia-Geral da União examinou 26 (vinte e seis)
+organizações não governamentais beneficiárias de emendas parlamentares. O
+resultado é alarmante: 50% (cinquenta por cento) dessas entidades não fornecem
+transparência adequada ou não divulgam informações mínimas exigidas para o
+efetivo controle da aplicação dos recursos. Em outras palavras, metade do
+universo amostral examinado — e o universo não foi escolhido aleatoriamente,
+mas composto por entidades que efetivamente receberam empenhos ou pagamentos
+entre 2 e 21 de dezembro de 2024 — revelou-se inábil à transparência mínima
+exigida de quem administra dinheiro público.
+
+32. Tais dados não configuram anomalia pontual. São indício forte de um padrão
+sistêmico: a destinação de emendas parlamentares a ONGs e entidades privadas
+tem se revelado via de especial vulnerabilidade ao desvio de finalidade, ao
+direcionamento e à captura, notadamente quando: (i) não há identificação nominal
+do autor da emenda (v. Memorial I); (ii) a entidade não é sediada na base
+territorial do parlamentar (v. Memorial II); e (iii) a entidade não é
+submetida a prestação de contas nos mesmos moldes exigidos do setor público.
+
+33. É imperativo, portanto, afirmar a seguinte diretriz constitucional: toda
+organização não governamental, associação, fundação, entidade do terceiro setor
+ou pessoa jurídica de direito privado que receba recursos públicos oriundos de
+emenda parlamentar deve: (a) publicar, em sítio eletrônico próprio e no Portal
+da Transparência, plano de trabalho, cronograma físico-financeiro e relação de
+beneficiários finais; (b) prestar contas, formal e documentalmente, ao ente
+repassador e à CGU/TCU, sob pena de imediata suspensão de novos repasses; (c)
+manter disponibilidade pública, por prazo não inferior a 5 (cinco) anos, da
+documentação relativa à execução do objeto financiado; e (d) submeter-se a
+auditoria pelos órgãos de controle, sem prejuízo da responsabilização civil,
+administrativa e penal dos dirigentes da entidade por eventuais irregularidades.
+
+34. Tal regime não ofende a autonomia das entidades privadas. Ao revés, opera
+como condição legitimadora do recebimento de dinheiro público e como garantia
+constitucional de que o recurso, uma vez destinado, atenda ao princípio da
+eficiência e à finalidade pública que justificou a emenda. Aquele que recebe
+dinheiro público assume, por esse fato, o dever de prestar contas, nos exatos
+termos do art. 70, parágrafo único, da Constituição.
+
+V. DOS PEDIDOS
+
+35. Diante do exposto, requer-se a Vossa Excelência:
+
+   a) o RECEBIMENTO e a ADMISSÃO da presente como intervenção de amicus curiae,
+      com fundamento no art. 138 do CPC/2015 c/c o art. 7º, § 2º, da Lei
+      nº 9.868/1999, considerando a relevância da matéria, a representatividade
+      do peticionário e a utilidade de sua contribuição para a causa;
+
+   b) a ACOLHIDA dos memoriais ora apresentados, para os fins de reforço
+      argumentativo dos seguintes parâmetros constitucionais a serem afirmados
+      no julgamento da ADPF 854:
+
+         I.  IDENTIFICAÇÃO NOMINAL OBRIGATÓRIA do autor de cada emenda
+             parlamentar, em qualquer modalidade, sob pena de inconstitucionalidade
+             por violação aos arts. 2º, 5º, XXXIII, e 37, caput, da Constituição
+             Federal;
+
+         II. PROIBIÇÃO de emenda parlamentar individual destinada a circunscrição
+             diversa da base territorial de eleição do autor, ressalvadas as
+             emendas de bancada estadual e programas de alcance nacional com
+             critério objetivo;
+
+         III. OBRIGATORIEDADE de prestação de contas pública, formal e documental,
+              por ONGs, associações, fundações e demais entidades privadas
+              beneficiadas por emendas parlamentares, sob pena de suspensão de
+              novos repasses e responsabilização dos dirigentes, nos termos do
+              art. 70, parágrafo único, da Constituição Federal;
+
+   c) a CONDENAÇÃO dos requeridos ao cumprimento dos parâmetros acima, em caráter
+      vinculante, com fixação de prazo razoável para a adaptação dos sistemas de
+      informação e dos procedimentos de proposição e execução de emendas
+      parlamentares;
+
+   d) a DETERMINAÇÃO de que o Tribunal de Contas da União e a Controladoria-Geral
+      da União monitorem, de forma continuada, o cumprimento das obrigações de
+      identificação nominal, de vinculação territorial e de prestação de contas,
+      reportando periodicamente o resultado a este Supremo Tribunal Federal;
+
+   e) a DETERMINAÇÃO de que o Congresso Nacional, por meio das Mesas da Câmara
+      dos Deputados e do Senado Federal, adapte a Resolução nº 1/2023-CN e os
+      atos normativos subsequentes, bem assim a Lei Complementar nº 210/2024,
+      à interpretação conforme a Constituição firmada neste julgamento.
+
+VI. DA CONCLUSÃO
+
+36. O presente amicus curiae não defende interesse particular. Defende a
+prevalência do regime constitucional da transparência, da publicidade e da
+moralidade no trato da coisa pública — bens jurídicos que pertencem ao povo
+brasileiro e cuja tutela incumbe precipuamente ao Supremo Tribunal Federal.
+
+37. Os dados fáticos são inequívocos: R$ 67 bilhões destinados ao "orçamento
+secreto" entre 2020 e 2022; R$ 1,3 bilhão em "emendas de liderança" apenas em
+2025, com 96% do volume concentrados em quatro legendas (PP, União Brasil, PL e
+Republicanos); 50% das ONGs beneficiadas, em auditoria da CGU, sem transparência
+adequada. Não se cuida mais, portanto, de hipótese abstrata de risco. Cuida-se de
+quadro consolidado e mensurável de descumprimento da decisão plenária proferida
+em 2022.
+
+38. A resposta constitucional exige três certezas judiciais: (i) toda emenda
+tem um nome; (ii) toda emenda tem um território; (iii) todo beneficiário tem de
+prestar contas. Dessas três certezas — corolários diretos dos princípios da
+publicidade, da representação e do controle — dependerá a efetividade do
+julgamento de mérito da ADPF 854 e a credibilidade do regime orçamentário
+brasileiro.
+
+39. O peticionário coloca-se à disposição para os esclarecimentos que se fizerem
+necessários e reitera, a Vossa Excelência e aos demais Ministros do Egrégio
+Supremo Tribunal Federal, os protestos da mais elevada estima e distinta
+consideração.
+
+São Paulo (SP), 19 de julho de 2026.
+
+___________________________________________________
+CLEITON MOURA
+Analista Geopolítico e Econômico
+Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+amicus curiae
+
+================================================================================
+FUNDAMENTAÇÃO NORMATIVA E JURISPRUDENCIAL (referências)
+================================================================================
+
+— Constituição da República Federativa do Brasil de 1988:
+    • art. 2º (separação e independência dos Poderes);
+    • art. 5º, XXXIII (direito de acesso à informação);
+    • art. 37, caput (legalidade, impessoalidade, moralidade,
+      publicidade e eficiência);
+    • art. 45 (representação do povo pelos Deputados Federais);
+    • art. 46 (representação dos Estados pelos Senadores);
+    • art. 70, parágrafo único (controle e prestação de contas de quem
+      arrecada ou guarda dinheiro público);
+    • art. 74, § 2º (controle externo e legitimidade do cidadão);
+    • art. 165 (princípios orçamentários).
+
+— Lei nº 9.868, de 10 de novembro de 1999:
+    • art. 7º, § 2º (intervenção de terceiros em ADPF, na condição de
+      amicus curiae).
+
+— Código de Processo Civil de 2015:
+    • art. 138 (intervenção de amicus curiae).
+
+— Resolução nº 1, de 2023, do Congresso Nacional (estrutura das emendas
+  parlamentares ao orçamento da União).
+
+— Lei Complementar nº 210, de 25 de novembro de 2024 (dispõe sobre a
+  proposição e a execução de emendas parlamentares na LOA).
+
+— STF, ADPF 854, decisão de mérito de dezembro de 2022 (declaração de
+  inconstitucionalidade do "orçamento secreto", por maioria — 6 x 5).
+
+— STF, ADPF 854, decisões monocráticas do Min. Flávio Dino, 2024-2025
+  (exigência de identificação nominal, plano de trabalho, vedação a
+  mecanismos equivalentes ao RP9, auditoria CGU de entidades beneficiadas).
+
+— STF, ADPF 854, Plenário, agosto de 2024 (ratificação, por unanimidade,
+  das liminares do Min. Flávio Dino).
+
+================================================================================
+FONTES FÁTICAS E TÉCNICAS UTILIZADAS
+================================================================================
+
+1. Dados de execução do "orçamento secreto" (RP9) — aproximadamente R$ 67 bilhões
+   destinados entre 2020 e 2022. Levantamentos do Congresso Nacional, do Tribunal
+   de Contas da União, do Inesc e da Transparência Brasil. Confirmado por notas
+   técnicas e reportagens de G1, Congresso em Foco e Brasil de Fato (2022-2023).
+
+2. Transparência Brasil (2025) — relatório sobre "emendas de liderança" em 2025:
+   R$ 1,3 bilhão destinado por lideranças de 7 partidos (PP, União Brasil, PL,
+   Republicanos, Avante, Podemos e Solidariedade), em 1.341 indicações, das
+   quais 16% sem identificação individual do autor. PP lidera isoladamente
+   com cerca de R$ 300 milhões; seguido por União Brasil (R$ 288,7 mi), PL
+   (R$ 254,3 mi) e Republicanos (R$ 218,4 mi) — juntos, cerca de 96% do total.
+
+3. Controladoria-Geral da União (CGU) — Relatório de análise de 26 ONGs
+   beneficiárias de emendas parlamentares (pagamentos de 2 a 21/12/2024),
+   encaminhado pela AGU ao STF (ADPF 854) em janeiro de 2025: 13 das 26
+   entidades (50%) não fornecem transparência adequada ou não divulgam
+   informações mínimas exigidas.
+
+4. STF, Decisão Monocrática de 10/10/2024 e Decisão Interlocutória de
+   26/02/2025 — ADPF 854 / DF (Min. Flávio Dino): reconhecimento do "grave e
+   inaceitável quadro de descumprimento" da decisão de 2022.
+
+5. STF, Plenário, decisão de agosto de 2024: ratificação por unanimidade das
+   liminares de Dino (relato noticiado por Valor Econômico, Carta Capital,
+   Correio Braziliense, Jota, ConJur).
+
+6. Resolução nº 1/2023-CN e Lei Complementar nº 210/2024: regramento
+   infraconstitucional das emendas parlamentares, alvo de críticas da
+   Transparência Brasil, da Transparência Internacional – Brasil e da
+   Associação Contas Abertas.
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

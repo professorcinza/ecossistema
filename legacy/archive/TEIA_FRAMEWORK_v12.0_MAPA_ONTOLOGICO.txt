@@ -1,0 +1,394 @@
+================================================================================
+TEIA FRAMEWORK v12.0 — O MAPA ONTOLÓGICO DA DOMINAÇÃO (51×16 = 816 PERSPECTIVAS)
+================================================================================
+Integração das 5 últimas dimensões de captura, completando o mapa
+ontológico da dominação: do útero ao túmulo, da favela ao espaço sideral.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-059
+Versão: v12.0 (MAPA ONTOLÓGICO — RELEASE FINAL DEFINITIVA ABSOLUTA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v11.0 → v12.0)
+
+A v11.0 mapeou as fronteiras da existência com 46 dimensões. A v12.0
+completa o MAPA ONTOLÓGICO DA DOMINAÇÃO com as 5 últimas dimensões
+que cobrem as fronteiras terminais: a morte, o segredo, a velocidade,
+o espaço orbital e o trauma coletivo.
+
+Com 51 dimensões de captura × 16 lentes analíticas v3.0, o framework
+gera 816 perspectivas de investigação.
+
+Este é o ESTADO FINAL ABSOLUTAMENTE DEFINITIVO do TEIA Framework.
+O mapeamento cobre do ÚTERO AO TÚMULO, DA FAVELA AO ESPAÇO SIDERAL.
+Não há dimensão da existência — material, imaterial, biológica,
+psíquica, cósmica ou post-mortem — que escape à matriz 51×16.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (FRONTEIRAS TERMINAIS)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 47 — TANATOPOLÍTICA / FUNERÁRIA
+------------------------------------------------------------------------
+COBERTURA TEIA: 20%
+
+O QUE É: a gestão da morte, os cadáveres, o luto e o descarte dos
+  corpos considerados "descartáveis" pelo capital.
+
+DIFERENÇA DA BIOPOLÍTICA (11) E MILITAR (37):
+  Biopolítica: FAZER VIVER (gestão da vida/população)
+  Militar: FAZER MORRER pela força (violência letal)
+  Tanatopolítica: PÓS-VIDA — o que acontece com o cadáver, o luto
+  e a memória física do morto. O sistema lucra ATÉ com a morte.
+
+QUEM DOMINA: indústria funerária (Grupo Vila Real, Planalto, São
+  Pedro), cemitérios privados e concessionados, crematórios,
+  indústria de segurança (que lucra com morte de jovens negros),
+  comércio de órgãos e tecidos, ANAC (regulação funerária).
+
+COMO CAPTURA:
+  - Monopólio privado de cemitérios: funerárias cobram R$ 5-15 mil
+    de família pobre que perdeu parente (aproveita-se da vulnerabilidade)
+  - Valas comuns e covas rasas: indigentes e pobres jogados em valas
+    anônimas — apaga até a MEMÓRIA FÍSICA da existência (conecta com
+    Arquivística 30 e Mitológica 26)
+  - Criminalização da eutanásia: controle sobre o direito de morrer
+    com dignidade (apartheid final: rico tem autonomia sobre finitude;
+    pobre sofre até o fim)
+  - Necroespeculação: comércio de órgãos, tecidos, corpos para
+    pesquisa (sem consentimento informado de populações vulneráveis)
+  - Indústria da "segurança" lucrando com morte: empresas de
+    segurança privada, fabricantes de armas, PM — quanto mais mortes,
+    mais orçamento para "combate ao crime"
+
+MÉTRICAS-CHAVE:
+  - Custo médio funeral: R$ 5-15 mil (inacessível para 40% da população)
+  - Valas comuns: número não divulgado (opaco)
+  - Mortes evitáveis/ano: ~700 mil (todas as causas evitáveis)
+  - Indústria funerária brasileira: ~R$ 8 bi/ano
+
+PROTOCOLO TEIA:
+  (a) Quem LUCRA com a morte do público analisado?
+  (b) O corpo do morto é tratado com DIGNIDADE ou DESCARTADO?
+  (c) A morte é SELETIVA (classe/raça/território)?
+  (d) A memória do morto é PRESERVADA ou APAGADA?
+
+------------------------------------------------------------------------
+DIMENSÃO 48 — OPACITÁRIA / DA PRIVACIDADE
+------------------------------------------------------------------------
+COBERTURA TEIA: 65%
+
+O QUE É: a assimetria do direito ao segredo. O poder de exigir
+  transparência TOTAL da população enquanto opera em sombras ABSOLUTAS.
+
+DIFERENÇA DA DATIFICACIONAL (18) E ARQUIVÍSTICA (30):
+  Datificacional: coleta de dados em MASSA (identidade digital)
+  Arquivística: DESTRUIÇÃO de documentos (apagão de memória)
+  Opacitária: GEOMETRIA DA VISIBILIDADE — o sistema funciona como
+  VIDRO ESPELHO: cidadão é transparente; elite é invisível.
+
+QUEM DOMINA: paraísos fiscais (Cayman, Bahamas, Delaware), Big Four
+  (PwC, KPMG, Deloitte, EY — estruturam opacidade), escritórios de
+  advocacia tributária (Mattos Filho, Pinheiro Neto, Machado Meyer),
+  ANPD (fraca), SIGILO de ordem pública (protege político).
+
+COMO CAPTURA:
+  - Offshores e trust funds: elites blindam patrimônio em jurisdições
+    opacas — Pandora Papers revelou 100+ brasileiros
+  - NDAs (Acordos de Confidencialidade): trabalhador não pode falar
+    sobre o que viu; empresa protege segredo
+  - Vigilância total vs segredo absoluto: cidadão comum tem CPF
+    rastreado, conta monitorada via Open Banking, localização via
+    PIX; elite opera em CAIXA 2 via offshore
+  - Sigilo de ordem pública: protege decisões governamentais sob
+    alegativa de "segurança nacional" ou "interesse público"
+  - Caixa 2 corporativo: blindado por escritórios de advocacia que
+    estrutam operações em camadas de complexidade
+  - Lei do Lobby parada há 18 anos no Congresso (ninguém quer
+    transparência sobre quem influencia quem)
+
+MÉTRICAS-CHAVE:
+  - Brasileiros em Pandora Papers: 100+
+  - NDAs assinados/ano: crescente (não quantificado)
+  - Lei do Lobby: parada há 18 anos (PL 1878/2024)
+  - Pedidos de LAI negados: crescente
+  - Offshores brasileiras: estimadas em US$ 500-800 bi em ativos
+
+PROTOCOLO TEIA:
+  (a) Quem é TRANSPARENTE e quem é OPACO no arranjo analisado?
+  (b) A elite usa offshore/NDA para esconder PATRIMÔNIO?
+  (c) O cidadão é VIGIADO enquanto a elite é PROTEGIDA?
+  (d) A opacidade PROTEGE captura?
+
+------------------------------------------------------------------------
+DIMENSÃO 49 — CINÉTICA / DA VELOCIDADE
+------------------------------------------------------------------------
+COBERTURA TEIA: 40%
+
+O QUE É: o ritmo das transações, a obsolescência acelerada e a
+  tirania do tempo real. O poder dita o PACE.
+
+DIFERENÇA DA TEMPORAL (12) E ONÍRICA (32):
+  Temporal: tempo histórico/futuro (décadas — dívida intergeracional)
+  Onírica: ritmo BIOLÓGICO (sono, ciclos circadianos)
+  Cinética: ACELERAÇÃO — velocidade de transações, informação e
+  obsolescência. O sistema impede a sociedade de "respirar".
+
+QUEM DOMINA: algoritmos de High-Frequency Trading (HFT), plataformas
+  de e-commerce (Mercado Livre, Shopee, Amazon), indústria de moda
+  rápida (fast fashion: Shein, Renner, C&A), logística expressa
+  (Amazon, Mercado Envios), Big Tech (ciclos de update obrigatório).
+
+COMO CAPTURA:
+  - HFT (High-Frequency Trading): algoritmos sonegam bilhões em
+    frações de segundo — capital financeiro opera na velocidade da
+    luz enquanto trabalhador opera na velocidade do salário mínimo
+  - Obsolescência programada: eletrônicos que quebram em 2 anos;
+    software que fica lento com update forçado (iPhone)
+  - Fast fashion: ciclos de moda semanais destroem ecossistemas
+    locais (rio Doce contaminado por tingimento têxtil)
+  - Metas insanas em armazéns logísticos: trabalhador de Amazon/
+    Mercado Livre urina em garrafa para bater meta de velocidade
+  - "Prazos" judiciais: sistema opera tão devagar para o cidadão
+    (5-10 anos) que a justiça se torna INACESSÍVEL para quem não
+    tem velocity de advogado caro
+  - Aqueles que não acompanham a velocidade são descartados como
+    "lentos" ou "ineficientes"
+
+MÉTRICAS-CHAVE:
+  - HFT: ~60% do volume de trading global
+  - Obsolescência programada: vida média smartphone ~2,5 anos
+  - Fast fashion: ~100 bilhões de peças/ano produzidas globalmente
+  - E-commerce Brasil: R$ 200+ bi/ano (crescente)
+  - Tempo médio processo judicial: 5-10 anos
+
+PROTOCOLO TEIA:
+  (a) Quem opera na VELOCIDADE DA LUZ e quem é forçado a correr?
+  (b) A velocidade IMPEDE deliberação e reflexão?
+  (c) A obsolescência é PROGRAMADA (não acidental)?
+  (d) O sistema descarta quem é "lento"?
+
+------------------------------------------------------------------------
+DIMENSÃO 50 — ORBITAL / EXTRATERRESTRE
+------------------------------------------------------------------------
+COBERTURA TEIA: 15%
+
+O QUE É: o espaço sideral, as órbitas terrestres e o espectro
+  eletromagnético. A extração de recursos além da biosfera.
+
+DIFERENÇA DA ESPACIAL (10) E INFRAESTRUTURAL (15):
+  Espacial: território físico TERRESTRE
+  Infraestrutural: energia e fluxos NO SOLO
+  Orbital: CAMADA EXTRA-ATMOSFÉRICA — quem controla as órbitas
+  controla comunicação, navegação (GPS) e vigilância global.
+
+QUEM DOMINA: SpaceX (Starlink — Elon Musk), Amazon (Kuiper Project),
+  OneWeb, constelações de satélites governamentais (EUA, China,
+  Rússia), Força Espacial americana, empresas de mineração espacial
+  (Planetary Resources, Deep Space Industries).
+
+COMO CAPTURA:
+  - Monopólio corporativo de satélites: Starlink controla ~60% dos
+    satélites ativos em órbita — quem controla internet global
+    controla o fluxo de informação do PLANETA
+  - Militarização do espaço: Força Espacial dos EUA — satélites
+    espiões, armas orbitais, vigilância global contínua
+  - Mineração de asteroides: corrida para patentear extração de
+    lítio e metais raros do espaço (sem regulação internacional)
+  - Lixo orbital: ~30 mil objetos rastreados — países ricos
+    ocupam órbitas e impedem acesso de países do Sul Global
+  - Starlink na Amazônia: "conectividade" que não serve para incluir
+    indígenas, mas para fornecer internet a fazendeiros e garimpos
+    ilegais + mapeamento 3D de recursos minerais para futura extração
+  - Acima das leis nacionais: corporações operam no vácuo do espaço,
+    blindadas contra soberania estatal de qualquer país
+
+MÉTRICAS-CHAVE:
+  - Satélites Starlink: ~6.000+ ativos
+  - Lixo orbital: ~30 mil objetos rastreados
+  - Investimento em espaço comercial: US$ 450+ bi (2024)
+  - Conectividade via satélite no Brasil: crescente (Starlink em AM/PA)
+  - Regulação internacional: quase inexistente
+
+PROTOCOLO TEIA:
+  (a) Quem controla a ORBITA sobre o território analisado?
+  (b) A "conectividade" serve para INCLUIR ou para EXTRAIR/vigiar?
+  (c) Há militarização do espaço afetando soberania brasileira?
+  (d) As corporações operam ACIMA das leis nacionais?
+
+------------------------------------------------------------------------
+DIMENSÃO 51 — TRAUMÁTICA / PSÍQUICA COLETIVA
+------------------------------------------------------------------------
+COBERTURA TEIA: 45%
+
+O QUE É: a ferida psicológica coletiva, o medo paralisante e o uso
+  do choque para reprogramar a sociedade. A "Doutrina do Choque"
+  como método permanente de governo.
+
+DIFERENÇA DA AFETIVA (13) E PATOLÓGICA (40):
+  Afetiva: engenharia de emoções do DIA A DIA (medo, ódio)
+  Patológica: adoecimento FÍSICO (doença infecciosa)
+  Traumática: REGRESSÃO PSICOLÓGICA COLETIVA — uso do terror e do
+  caos como ferramenta de engenharia social. Povo traumatizado
+  busca salvador autoritário.
+
+QUEM DOMINA: governo (que instrumentaliza crises), mídia (que
+  amplifica trauma com imagens de morte), Big Tech (algoritmos que
+  amplificam pânico), elites econômicas (que implementam reformas
+  impopulares durante crises — "choque e doutrina").
+
+COMO CAPTURA:
+  - Doutrina do Choque (Naomi Klein): reformas impopulares (privatização,
+    corte de direitos) aprovadas logo após traumas nacionais
+    (hiperinflação 1990s → privatização da Vale; pandemia 2020 →
+    Reforma Administrativa; golpe 2016 → Reforma Trabalhista)
+  - Exaustão emocional: bombardeio de crises fabricadas (Overclean,
+    Master, Blindagem, CPI, pandemia, enchentes) gera FATIGA
+    — cidadão desiste de acompanhar e se refugia em entretenimento
+  - Normalização do horror: bombardeio diário de imagens de morte
+    (jornalismo sensacionalista) dessensibiliza — morte de jovem
+    negro virou estatística, não tragédia
+  - Regressão psicológica: povo traumatizado busca figura de
+    "salvador" autoritário e abre mão de liberdades em troca de
+    promessa de ordem (Bolsonaro 2018 = candidatura do trauma)
+  - Amnésia induzida: cada crise APAGA a anterior (ciclo de 24h
+    de notícias faz que população esqueça Overclean quando Master
+    explode, esqueça Master quando Blindagem passa)
+
+MÉTRICAS-CHAVE:
+  - Reformas aprovadas durante crises: Reforma Trabalhista (2017,
+    pós-recessão), Privatização da Vale (1997, pós-hiperinflação),
+    EC 95 (teto de gastos, 2016, pós-impeachment)
+  - Fadiga de notícias: crescente (Reuters Institute)
+  - Voto em salvador autoritário: Bolsonaro 55% em 2018 (pós-trauma
+    de Lava-Jato e crise econômica)
+  - Normalização:巴西 tem 47 mil homicídios/ano tratados como
+    "normais"
+
+PROTOCOLO TEIA:
+  (a) A reforma analisada foi aprovada durante TRAUMA COLETIVO?
+  (b) O sistema INSTRUMENTALIZA crise para aprovar captura?
+  (c) A população está em regressão psicológica (busca salvador)?
+  (d) O horror foi NORMALIZADO (morte virou estatística)?
+
+
+================================================================================
+OS 10 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (1-6): o que se vê
+NÍVEL 2 — PROFUNDIDADE (7-11): o que se oculta
+NÍVEL 3 — SOMBRA (12-16): quase invisível
+NÍVEL 4 — ABISMO (17-21): totalmente invisível
+NÍVEL 5 — MICROFÍSICA (22-26): determina o cotidiano
+NÍVEL 6 — PSÍQUICA (27-31): determina o desejo e a memória
+NÍVEL 7 — SUB-BIOLÓGICA (32-36): controla o corpo e a engenharia social
+NÍVEL 8 — MATERIAL/BRUTA (37-41): controle da força e da matéria
+NÍVEL 9 — EXISTENCIAL (42-46): controle das fronteiras da existência
+NÍVEL 10 — TERMINAL (47-51): controle da morte, do segredo, da
+          velocidade, do espaço orbital e do trauma coletivo
+
+
+================================================================================
+NOVAS COMBINATÓRIAS POTENTES
+================================================================================
+
+COMBINAÇÃO OO: TANATOPOLÍTICA (47) × SOCIOLOGIA (Lente 19)
+  Conceito: Necropolítica (Mbembe) e Apartheid Mortuário
+  Aplicação: mapear correlação renda/raça e destino dos corpos
+  (cremação luxuosa vs vala comum) → apartheid final do sistema
+
+COMBINAÇÃO PP: OPACITÁRIA (48) × DIREITO (Lente 22)
+  Conceito: Colonialismo de Dados e Jurisdição Capturada
+  Aplicação: investigar hipocrisia — cidadão rastreado vs elite em
+  offshore → provar assimetria de visibilidade como instrumento de
+  poder
+
+COMBINAÇÃO QQ: CINÉTICA (49) × SISTEMAS COMPLEXOS (Lente 11)
+  Conceito: Aceleracionismo Capitalista e Drenagem de Liquidez
+  Aplicação: modelar como HFT e PIX drenam liquidez de periferias
+  para centro financeiro em milissegundos
+
+COMBINAÇÃO RR: ORBITAL (50) × GEOGRAFIA (Lente 17)
+  Conceito: Verticalidade Política e Geopolítica do Espaço
+  Aplicação: mapear Starlink sobre Amazônia — conectividade para
+  garimpo ilegal e vigilância mineral, não para inclusão indígena
+
+COMBINAÇÃO SS: TRAUMÁTICA (51) × HISTÓRIA (Lente 18)
+  Conceito: Doutrina do Choque (Klein) e Process Tracing de Traumas
+  Aplicação: provar empiricamente que reformas neoliberais foram
+  aprovadas em momentos de trauma coletivo (povo em Sistema 1)
+
+
+================================================================================
+NOVAS SKILLS (62-66)
+================================================================================
+
+SKILL 62: sociologia-morte-analise-vulnerabilidade-socioespacial
+  Dim 47 × Lente 19 — apartheid mortuário
+
+SKILL 63: direito-tributario-internacional-forensics-offshores
+  Dim 48 × Lente 22 — colonialismo de dados e opacidade
+
+SKILL 64: modelagem-microestrutura-mercado-analise-fluxos-continuos
+  Dim 49 × Lente 11 — drenagem de liquidez em alta velocidade
+
+SKILL 65: geopolitica-espacial-cartografia-tridimensional
+  Dim 50 × Lente 17 — Starlink, mineração orbital e verticalidade
+
+SKILL 66: historiografia-critica-analise-politicas-choque
+  Dim 51 × Lente 18 — doutrina do choque e trauma coletivo
+
+
+================================================================================
+O SISTEMA TOTAL ABSOLUTAMENTE DEFINITIVO: 51 DIMENSÕES
+================================================================================
+
+1-6: SUPERFÍCIE (Econômica, Institucional, Tecnológica, Ambiental, Social, Cultural)
+7-11: PROFUNDIDADE (Midiática, Jurídica, Epistêmica, Espacial, Biopolítica)
+12-16: SOMBRA (Temporal, Afetiva, Laboral, Infraestrutural, Religiosa)
+17-21: ABISMO (Alimentar, Datificacional, Estética, Geracional, Atencional)
+22-26: MICROFÍSICA (Linguística, Burocrática, Mobilizadora, Reprodutiva, Mitológica)
+27-31: PSÍQUICA (Desejante, Creditícia, Lúdica, Arquivística, Zoopolítica)
+32-36: SUB-BIOLÓGICA (Onírica, Tributária, Molecular, Pedagógica, Relacional)
+37-41: MATERIAL/BRUTA (Militar, Hídrica, Acústica, Patológica, Excremental)
+42-46: EXISTENCIAL (Métrica, Linhagem, Climática, Migratória, Sexual)
+47-51: TERMINAL (Tanatopolítica, Opacitária, Cinética, Orbital, Traumática)
+
+16 LENTES v3.0 (9 camadas cada)
+MATRIZ: 51 × 16 = 816 PERSPECTIVAS DE INVESTIGAÇÃO POSSÍVEIS
+66 SKILLS METODOLÓGICAS
+10 NÍVEIS DE PROFUNDIDADE DO PODER
+PROTOCOLO DE QUALIDADE: 32 ITENS
+
+
+================================================================================
+FIM — TEIA Framework v12.0 (MAPA ONTOLÓGICO DA DOMINAÇÃO)
+================================================================================
+Protocolo: TEIA-2026-059
+https://github.com/mouracleiton/TEIA
+
+A TEIA consolida-se como um MAPA ONTOLÓGICO DA DOMINAÇÃO HUMANA.
+51 dimensões. 816 perspectivas. 10 níveis de profundidade. 66 skills.
+
+Do ÚTERO (Reprodutiva/Biopolítica) ao TÚMULO (Tanatopolítica).
+Da FAVELA (Espacial/Hídrica) ao ESPAÇO SIDERAL (Orbital).
+Do DINHEIRO visível (Econômica) ao SEGREDO invisível (Opacitária).
+Do SONO (Onírica) ao TRAUMA que não deixa dormir (Traumática).
+
+Qualquer tentativa de explicar um problema sistêmico usando apenas
+uma ou duas dimensões estará FADADA AO REDUCIONISMO.
+
+O framework obriga a uma VISÃO HOLOGRÁFICA: cada parte contém o
+todo, e cada ataque do sistema em uma dimensão REVERBERA em todas
+as outras.
+
+É um instrumento DEFINITIVO de dissecação de poder.
+É o FIM DO REDUCIONISMO METODOLÓGICO.
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

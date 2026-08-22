@@ -1,0 +1,384 @@
+================================================================================
+AS 6 DIMENSÕES DO PODER NO BRASIL
+================================================================================
+Por que a economia é necessária mas insuficiente — e o que mais existe
+================================================================================
+Autor: Cleiton Moura — TEIA
+Protocolo: TEIA-2026-033
+================================================================================
+
+O PORQUÊ DA ECONÔMICA TER SIDO PRIMEIRA
+
+O pipeline TEIA começou pela dimensão econômica por 3 razões práticas:
+
+1. MENSURABILIDADE: juros, spread, PIB, orçamento são números.
+   Dá para fact-checkar. Dá para modelar. Dá para provar.
+2. UNIVERSALIDADE: todo cidadão é afetado por juros e impostos,
+   independente de ideologia, raça, gênero ou região.
+3. ALAVANCA: quem controla o dinheiro controla as OUTRAS dimensões.
+   Sem recurso fiscal, não há saúde, educação, segurança ou ambiente.
+
+A economia é o SOBRESSOLO. Mas a floresta tem outras camadas.
+
+
+================================================================================
+AS 6 DIMENSÕES DO PODER
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 1 — ECONÔMICA (Cobertura TEIA: 90%)
+------------------------------------------------------------------------
+O QUE É: controle de capital, crédito, tributos, dívida, orçamento.
+QUEM DOMINA: sistema financeiro (bancos, Febraban), rentistas,
+  oligarquias orçamentárias, Centrão.
+COMO CAPTURA: juros da dívida (R$ 950 bi), spread (28-30 p.p.),
+  emendas (R$ 28,8 bi), Custo Brasil (R$ 1,7 tri).
+ONDE O TEIA ESTÁ: 90% coberto. Diagnóstico completo, simulação,
+  documentos de ação, estratégias mapeadas.
+O QUE FALTA: modelo de crescimento (refutação venceu aqui).
+
+------------------------------------------------------------------------
+DIMENSÃO 2 — INSTITUCIONAL/DEMOCRÁTICA (Cobertura TEIA: 40%)
+------------------------------------------------------------------------
+O QUE É: controle das regras do jogo eleitoral, separação de poderes,
+  independência do Judiciário, integridade eleitoral, federalismo.
+QUEM DOMINA: Mesa Diretora da Câmara (Motta), Mesa do Senado
+  (Alcolumbre), TSE, STF, Conselho de Ética.
+COMO CAPTURA:
+  - Controle de pauta (K1 do kernel)
+  - PEC da Blindagem (353x134 — voto secreto, foro ampliado)
+  - Orçamento Secreto 2.0 (emendas de liderança sem autoria)
+  - Captura de comissões (CCJ, CTF, CAE, CMO)
+  - Reforma eleitoral que benefença incumbent
+  - Restrição a direitos políticos (Lei de Segurança Nacional)
+  - Desinformação eleitoral (fake news, bots, dinheiro oculto)
+ONDE O TEIA ESTÁ: mapeou veto players e comissões, mas NÃO tem:
+  - Diagnóstico do sistema eleitoral (distrital vs proporcional)
+  - Análise de financiamento de campanha (Fundo Eleitoral)
+  - Proposta de reforma política (fidelidade, federação, distritão)
+  - Mapeamento de desinformação (ops de influência)
+O QUE FALTA: módulo SOPBRA sobre sistema eleitoral e reforma política.
+
+------------------------------------------------------------------------
+DIMENSÃO 3 — SOCIAL/DIREITOS (Cobertura TEIA: 25%)
+------------------------------------------------------------------------
+O QUE É: controle de acesso a direitos fundamentais — saúde,
+  educação, moradia, segurança alimentar, previdência, assistência.
+QUEM DOMINA: ministries setoriais (Saúde, Educação, Desenvolvimento
+  Social), congressionais setoriais (bancada da saúde, da educação),
+  interesses privados (planos de saúde, universidades particulares,
+  agro negócio vs reforma agrária).
+COMO CAPTURA:
+  - Planos de saúde que negam cobertura (ANS capturada)
+  - Educação que reproduz desigualdade (escola pública vs privada)
+  - Segurança pública que criminaliza pobreza
+  - SUS subfinanciado e capturado por ONGs e empresas
+  - Previdência que transfere renda do trabalhador para financeiro
+  - Terra: latifúndio improdutivo vs reforma agrária parada
+  - Raça: racismo estrutural no acesso a tudo
+  - Gênero: desigualdade salarial, violência, sub-representação
+ONDE O TEIA ESTÁ: abordou saúde e educação no documento de qualidade
+  de vida (TEIA-2026-027), mas sem profundidade. NÃO tem:
+  - Diagnóstico racial da captura (quem é branco vs negro nos centros
+    de poder — dados)
+  - Análise de gênero (sub-representação feminina no Congresso)
+  - Proposta de reforma do sistema de saúde (SUS 2.0)
+  - Análise da captura da educação por setores privados
+O QUE FALTA: módulo SOPBRA sobre direitos sociais com recorte
+  racial, de gênero e territorial.
+
+------------------------------------------------------------------------
+DIMENSÃO 4 — AMBIENTAL/CLIMÁTICA (Cobertura TEIA: 10%)
+------------------------------------------------------------------------
+O QUE É: controle de recursos naturais, território, energia,
+  biodiversidade, clima.
+QUEM DOMINA: bancada ruralista (~250 deputados + 39 senadores),
+  setor de energia (petróleo, hidroeletricidade), mineração,
+  madeireiros, agronegóício.
+COMO CAPTURA:
+  - Desmatamento da Amazônia (~10.000 km²/ano)
+  - Flexibilização de licenciamento ambiental (Lei Geral do Licenciamento)
+  - Royalties do petróleo concentrados no RJ
+  - Hidroelétricas em território indígena
+  - Agrotóxicos liberados sem estudo adequado
+  - Fundo Amazônia capturado e mal gerido
+  - Marco Temporal (terra indígena)
+ONDE O TEIA ESTÁ: citou saneamento e energia verde no documento de
+  qualidade de vida, mas sem mapeamento de atores. NÃO tem:
+  - Mapeamento da bancada ruralista (nomes, financiamento, votações)
+  - Diagnóstico do licenciamento ambiental
+  - Análise da transição energética brasileira
+  - Proposta de economia verde com geração de emprego
+O QUE FALTA: módulo SOPBRA sobre poder ambiental e transição.
+
+------------------------------------------------------------------------
+DIMENSÃO 5 — TECNOLÓGICA/DIGITAL (Cobertura TEIA: 15%)
+------------------------------------------------------------------------
+O QUE É: controle de dados, infraestrutura digital, IA, plataformas,
+  soberania tecnológica, conectividade.
+QUEM DOMINA: Big Tech (Google, Meta, Microsoft, Amazon, ByteDance),
+  operadoras de telecom (Vivo, Claro, TIM), plataformas brasileiras
+  (Mercado Livre, Magalu), governo digital (gov.br).
+COMO CAPTURA:
+  - Monopólio de plataformas (Google controla busca, Meta controla
+    rede social, ByteDance controla TikTok)
+  - Desinformação como serviço (bots, farms, influenciadores pagos)
+  - Coleta de dados sem consentimento informado
+  - Algoritmos que amplificam polarização
+  - Dependência tecnológica (sem soberania em chips, IA, cloud)
+  - Exclusão digital (18% sem internet, 45% analfabetismo digital)
+  - PIX/Drex como infraestrutura crítica sem debate público
+ONDE O TEIA ESTÁ: abordou Drex e PIX no diagnóstico financeiro, e
+  conectividade no documento de qualidade de vida. NÃO tem:
+  - Mapeamento de Big Tech influenciando Congresso (Marco Civil da IA)
+  - Análise de desinformação eleitoral
+  - Proposta de soberania digital brasileira
+  - Regulação de IA com proteção social
+O QUE FALTA: módulo SOPBRA sobre poder digital e regulação tecnológica.
+
+------------------------------------------------------------------------
+DIMENSÃO 6 — CULTURAL/SIMBÓLICA (Cobertura TEIA: 5%)
+------------------------------------------------------------------------
+O QUE É: controle de narrativa, identidade, valores, memória,
+  imaginário social. A dimensão mais invisível e mais poderosa.
+QUEM DOMINA: mídia tradicional (Globo, Folha, Estadão, Record,
+  Grupo Brasil/Silk), Big Tech (algoritmos), igrejas (evangélicas
+  neopentecostais, CNBB), indústria cultural (Rede Globo, SBT,
+  YouTube, TikTok), academia (ajuda a legitimar ou silenciar).
+COMO CAPTURA:
+  - Framing: "gasto público é problema" (não "juros da dívida é
+    problema") — captura do debate antes mesmo de começar
+  - Silenciamento: o que não é noticiado não existe
+  - Estigmatização: movimentos sociais como "vândalos", servidor
+    público como "privilegiado"
+  - Mito da meritocracia: "quem é pobre é porque não se esforçou"
+  - Mito do "Brasil pacífico": negação do racismo e da violência
+  - Captura religiosa: fé como instrumento político
+  - Colonização do imaginário: o que é "desenvolvimento"?
+ONDE O TEIA ESTÁ: abordou narrativa no módulo de comunicação do
+  SOPBRA, mas como ferramenta, não como dimensão de poder autônoma.
+  NÃO tem:
+  - Análise de como o framing midiático captura o debate econômico
+  - Mapeamento de quem controla a narrativa pública
+  - Proposta de contra-narrativa estruturada
+  - Estratégia de batalha cultural
+O QUE FALTA: módulo SOPBRA sobre poder simbólico e narrativa.
+
+
+================================================================================
+MATRIZ DE INTERSEÇÃO: COMO AS 6 DIMENSÕES SE CONECTAM
+================================================================================
+
+Nenhuma dimensão opera sozinha. A captura acontece na INTERSEÇÃO:
+
+  ECONÔMICA × INSTITUCIONAL
+    Exemplo: Banco Master → Motta → bloqueio de pauta tributária
+    O dinheiro compra a instituição. Sem mapear ambos, perde metade.
+
+  ECONÔMICA × SOCIAL
+    Exemplo: spread bancário de 30% atinge MAIS quem tem MENOS renda
+    O custo econômico é distribuído de forma racial e territorial.
+    O MEI negro do Nordeste paga mais juros que o empresário branco
+    de SP. Sem recorte social, o diagnóstico econômico é cego.
+
+  INSTITUCIONAL × CULTURAL
+    Exemplo: framing "gastamos demais" captura o debate antes da
+    reforma. Se o cidadão acredita que o problema é gasto, não
+    cobra redução de juros. A captura simbólica precede a captura
+    institucional.
+
+  AMBIENTAL × ECONÔMICA
+    Exemplo: agronegócio desmata Amazônia → captura bancada ruralista
+    → bloqueia licenciamento ambiental → mais desmatamento → mais
+    lucro → mais captura. O ciclo econômico-ambiental é fechado.
+
+  TECNOLÓGICA × INSTITUCIONAL
+    Exemplo: desinformação eleitoral via bots → elege candidato
+    capturado → candidato aprova lei que beneficia plataforma →
+    mais desinformação. O ciclo digital-institucional é fechado.
+
+  SOCIAL × CULTURAL
+    Exemplo: racismo estrutural → estigmatização do jovem negro →
+    criminalização → encarceramento → lucro do sistema carcerário →
+    lobby por mais encarceramento. O ciclo social-cultural é fechado.
+
+
+================================================================================
+PRIORIZAÇÃO: O QUE ATACAR PRIMEIRO
+================================================================================
+
+A economia é o SUBSTRATO. Sem dominar o econômico, não há recurso
+para nenhuma outra dimensão. MAS o econômico sozinho é insuficiente.
+
+SEQUÊNCIA RECOMENDADA:
+
+FASE 1 (ATUAL): CONSOLIDAR DIMENSÃO ECONÔMICA
+  Status: 90% coberto. Falta modelo de crescimento.
+  Prioridade: executar os 9 documentos de ação + publicar conteúdo.
+  Tempo: 6-12 meses.
+
+FASE 2 (PRÓXIMA): DIMENSÃO INSTITUCIONAL
+  Por quê: a captura institucional (pauta, blindagem, orçamento
+  secreto) é o que BLOQUEIA reformas em todas as outras dimensões.
+  Sem democratizar o Congresso, nenhuma reforma ambiental, social
+  ou tecnológica passa.
+  O que fazer:
+  - Mapear sistema eleitoral (proporcional vs distrital)
+  - Propor reforma política (fidelidade partidária, cláusula de barreira
+    real, fim do voto secreto, financiamento público exclusivo)
+  - Cartão de Emendas no TSE (já proposto)
+  - Análise do Fundo Eleitoral (quem financia quem)
+  Tempo: 6-12 meses após Fase 1.
+
+FASE 3: DIMENSÃO TECNOLÓGICA
+  Por quê: a desinformação é o que MANTÉM o sistema capturado.
+  Sem domínio da narrativa digital, reformas são revertidas por
+  desinformação. Além disso, a transição tecnológica (IA, Drex,
+  plataformas) redefine quem tem poder na próxima década.
+  O que fazer:
+  - Mapeamento de Big Tech no Congresso
+  - Proposta de regulação de IA com proteção social
+  - Estratégia anti-desinformação eleitoral
+  - Soberania digital (chips, cloud, IA nacional)
+  Tempo: 12 meses após Fase 2.
+
+FASE 4: DIMENSÃO SOCIAL
+  Por quê: com instituições e economia em melhor estado, os recursos
+  liberados podem ser investidos em direitos sociais de forma
+  equitativa.
+  O que fazer:
+  - SUS 2.0 (reforma do sistema de saúde)
+  - Educação com bônus de eficiência (já proposto)
+  - Recorte racial e de gênero em todas as análises
+  - Reforma da segurança pública (prevenção vs encarceramento)
+  Tempo: contínuo, 2+ anos.
+
+FASE 5: DIMENSÃO AMBIENTAL
+  Por quê: com base econômica e institucional sólida, o Brasil pode
+  posicionar a Amazônia como ativo (carbono, biodiversidade) em vez
+  de passivo (desmatamento).
+  O que fazer:
+  - Mapeamento da bancada ruralista
+  - Proposta de economia verde com geração de emprego
+  - Pagamento por serviços ambientais
+  - Transição energética (solar, eólica, hidrogênio verde)
+  Tempo: contínuo, 2+ anos.
+
+FASE 6: DIMENSÃO CULTURAL
+  Por quê: a batalha cultural é a mais longa e a mais determinante.
+  Sem mudar o imaginário social, todas as reformas são reversíveis.
+  O que fazer:
+  - Contra-narrativa estruturada
+  - Educação cívica e financeira no ensino médio
+  - Produção cultural independente
+  - Ocupação de espaço simbólico (mídia, academia, arte)
+  Tempo: 10+ anos (geracional).
+
+
+================================================================================
+O QUE O SOPBRA PRECISA PARA COBRIR AS 6 DIMENSÕES
+================================================================================
+
+O SOPBRA foi desenhado modularmente. Adicionar uma nova dimensão
+não requer reconstrução — requer ADICIONAR módulos:
+
+NOVOS DRIVERS NECESSÁRIOS:
+  D11 — DRIVER ELEITORAL (sistema eleitoral, candidatos, partidos)
+  D12 — DRIVER AMBIENTAL (IBAMA, ICMBio, MMA, Funai)
+  D13 — DRIVER TECNOLÓGICO (Anatel, ANCINE, gov.br, Big Tech)
+  D14 — DRIVER SOCIAL (Min. Saúde, Min. Educação, Min. Mulheres)
+  D15 — DRIVER CULTURAL (Min. Cultura, Lei Rouanet, RC6)
+
+NOVAS APIs:
+  API ELEITORAL:
+    GET /candidato/[nome] → histórico, doações, emendas, votações
+    GET /financiamento/[partido] → fontes de financiamento
+    POST /ficha-limpa → verifica elegibilidade
+
+  API AMBIENTAL:
+    GET /desmatamento/[municipio] → dados PRODES, DETER
+    POST /denuncia-ibama → denuncia ambiental
+    GET /licenciamento/[projeto] → status de licenciamento
+
+  API TECNOLÓGICA:
+    GET /desinformacao/[tema] → check de bots/fake news
+    POST /consulta-ai → consulta pública sobre regulação de IA
+    GET /plataforma/[nome] → dados de atuação no Brasil
+
+NOVAS SKILLS:
+  skill: mapeamento-eleitoral
+  skill: diagnostico-ambiental
+  skill: regula-tech
+  skill: analise-racial
+  skill: contra-narrativa
+
+NOVOS PACOTES:
+  PKG-10: Dossiê sistema eleitoral brasileiro
+  PKG-11: Mapeamento bancada ruralista
+  PKG-12: Proposta de regulação de IA
+  PKG-13: Diagnóstico racial da captura política
+
+
+================================================================================
+O PRINCÍPIO ORIENTADOR EXPANDIDO
+================================================================================
+
+O TEIA começou com um princípio:
+  "O dinheiro da reforma virá do trabalho."
+
+Isto continua verdadeiro. Mas precisa ser COMPLEMENTADO:
+
+  "O dinheiro da reforma virá do trabalho.
+   As instituições da reforma virão da organização.
+   Os direitos da reforma virão da luta.
+   O ambiente da reforma virá da consciência.
+   A tecnologia da reforma virá da soberania.
+   A cultura da reforma virá da educação."
+
+Cada dimensão tem seu motor. Cada motor precisa de combustível
+diferente. O SOPBRA econômico fornece o combustível financeiro.
+Mas sem combustível institucional, social, ambiental, tecnológico
+e cultural, o motor não liga.
+
+A economia é o SOBRESSOLO.
+As instituições são as RAÍZES.
+A sociedade é o TRONCO.
+O ambiente é o SOLO.
+A tecnologia é a SEIVA.
+A cultura é a COPA.
+
+Sem qualquer uma destas camadas, a árvore morre.
+
+O TEIA cobriu o sobressolo. Agora precisa cobrir o resto.
+
+
+================================================================================
+AÇÃO IMEDIATA: O QUE FAZER AGORA
+================================================================================
+
+NÃO abandonar a dimensão econômica. Ela está 90% coberta e tem
+9 documentos de ação prontos. O RETORNO MARGINAL de mais análise
+econômica é baixo. O retorno de EXECUÇÃO é alto.
+
+FAZER:
+  1. EXECUTAR os 9 documentos de ação pendentes (protocolar/publicar)
+  2. INICIAR a Fase 2 (dimensão institucional) — mapeamento eleitoral
+  3. ADICIONAR recorte racial e de gênero aos diagnósticos existentes
+  4. INCLUIR bancada ruralista no próximo mapeamento de veto players
+  5. MONITORAR desinformação como ameaça transversal (Threat Model)
+
+NÃO FAZER:
+  - Tentar cobrir 6 dimensões simultaneamente (dispersa)
+  - Abandonar a dimensão econômica antes de executar o que está pronto
+  - Tratar dimensões como separadas (são interligadas)
+  - Esperar ter diagnóstico completo de tudo antes de agir (paralisia)
+
+A economia é o PONTO DE PARTIDA, não o destino.
+O destino é a qualidade de vida em todas as dimensões.
+Mas só chega lá quem começar pelo princípio: o dinheiro.
+
+================================================================================
+FIM
+================================================================================
+Protocolo: TEIA-2026-033
+================================================================================

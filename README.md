@@ -1,3 +1,14 @@
+> **🌉 [ponte-brasil-china](https://github.com/professorcinza/ponte-brasil-china) · ecossistema de tecnologia aberta Brasil–China**
+> **🌐 https://professorcinza.github.io/teia-kernel/** · **papel:** a mente | the mind | 心智
+>
+> **PT** — Prompts de sistema, frameworks PET/SOPBRA e perfis de nação — BR, US e ZH (contribuição do ecossistema). Zero dependências, AGPL.
+> **EN** — System prompts, PET/SOPBRA frameworks and nation profiles — BR, US and ZH (ecosystem contribution). Zero dependencies, AGPL.
+> **中文** — 系统提示词、PET/SOPBRA 框架与国家档案——巴西、美国与中国（生态系统之贡献）。零依赖，AGPL。
+>
+> Licenças: código **AGPL-3.0-or-later** · conteúdo **CC BY-SA 4.0** · arquitetura e autoria: **Cleiton Moura Loura**
+
+---
+
 # TEIA Kernel
 
 The analytical constitution of the TEIA platform.

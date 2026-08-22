@@ -55,6 +55,10 @@ External repositories authored by the project's founder:
 
 - [Our Civilization — The Game](https://github.com/professorcinza/Our-Civilization-The-Game) — spec-driven narrative RPG for military and defense training, bilingual (pt-br/en); content CC BY-SA 4.0, code AGPL-3.0.
 - [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — the analytical constitution of the TEIA platform: system prompts, frameworks (PET, SOPBRA) and nation profiles (BR, US); MIT.
+- [TEIA](https://github.com/professorcinza/TEIA) — political-economic investigation protocol: v22.0 methodology (156 dimensions × 60 lenses), PET pipeline and dossiers on the 16 endemic problems; MIT.
+- [TEIA: REDE](https://github.com/professorcinza/teia-userscript) — P2P investigation game + TEIA v22.0 Operator in a single userscript, serverless; MIT.
+- [V for X](https://github.com/professorcinza/v_for_x) — static, decentralized, anonymous anti-corruption platform; works offline; MIT.
+- [Inkos Worlds](https://github.com/professorcinza/inkos-worlds) — worlds-and-contracts system for LLM-assisted narratives; MIT.
 
 ## License
 

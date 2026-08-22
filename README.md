@@ -1,3 +1,14 @@
+> **🌉 [ponte-brasil-china](https://github.com/professorcinza/ponte-brasil-china) · ecossistema de tecnologia aberta Brasil–China**
+> **🌐 https://professorcinza.github.io/teia-rede/** · **papel:** a teia | the web | 网
+>
+> **PT** — Um único userscript: jogo P2P (WebTorrent/WebRTC), 9 modos de análise, facções e territórios. Sem servidor — cada navegador é um nó. Âncora da spec MAL.
+> **EN** — One userscript: P2P game (WebTorrent/WebRTC), 9 analysis modes, factions and territories. Serverless — every browser is a node. Anchor of the MAL spec.
+> **中文** — 单文件用户脚本：P2P 游戏（WebTorrent/WebRTC）、九种分析模式、派系与领土。无服务器——每个浏览器皆节点。MAL 规格之锚。
+>
+> Licenças: código **AGPL-3.0-or-later** · conteúdo **CC BY-SA 4.0** · arquitetura e autoria: **Cleiton Moura Loura**
+
+---
+
 # TEIA: REDE
 
 Jogo P2P de investigação descentralizada + Operador TEIA v22.0. Um único userscript, tudo integrado. Sem servidor — cada browser é um nó.

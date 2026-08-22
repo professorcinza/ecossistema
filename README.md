@@ -1,3 +1,14 @@
+> **🌉 [ponte-brasil-china](https://github.com/professorcinza/ponte-brasil-china) · ecossistema de tecnologia aberta Brasil–China**
+> **🌐 https://professorcinza.github.io/TEIA/** · **papel:** o método | the method | 方法
+>
+> **PT** — 156 dimensões × 60 lentes = 9.360 perspectivas; pipeline PET e dialético; dossiês executivos dos 16 problemas endêmicos brasileiros.
+> **EN** — 156 dimensions × 60 lenses = 9,360 perspectives; PET and dialectical pipelines; executive dossiers on Brazil's 16 endemic problems.
+> **中文** — 156 维 × 60 透镜 = 9,360 视角；PET 与辩证管线；巴西 16 项结构性问题的执行卷宗。
+>
+> Licenças: código **AGPL-3.0-or-later** · conteúdo **CC BY-SA 4.0** · arquitetura e autoria: **Cleiton Moura Loura**
+
+---
+
 # TEIA — Protocolo de Investigação
 
 **Centro de Estudos em Hacker Cultura Periférica**

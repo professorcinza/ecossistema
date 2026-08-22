@@ -1,3 +1,14 @@
+> **🌉 [ponte-brasil-china](https://github.com/professorcinza/ponte-brasil-china) · ecossistema de tecnologia aberta Brasil–China**
+> **🌐 https://professorcinza.github.io/poder-visivel/** · **papel:** a vigília | the vigil | 警戒
+>
+> **PT** — 100% estática: sem backend, sem rastreio, funciona offline. Pipeline de dados públicos (EJAtlas, Banco Mundial, OWID), hotspot-packs e kit de mirror comunitário.
+> **EN** — 100% static: no backend, no tracking, works offline. Public-data pipeline (EJAtlas, World Bank, OWID), hotspot-packs and community mirror kit.
+> **中文** — 全静态：无后端、无追踪、离线可用。公开数据管线（EJAtlas、世界银行、OWID）、热点包与社区镜像套件。
+>
+> Licenças: código **AGPL-3.0-or-later** · conteúdo **CC BY-SA 4.0** · arquitetura e autoria: **Cleiton Moura Loura**
+
+---
+
 # V FOR X
 
 **An indestructible, decentralized, anonymous-first web platform for exposing corruption, routing resources, and sharing survival knowledge.**

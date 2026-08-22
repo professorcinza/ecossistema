@@ -56,6 +56,8 @@ def list_nations() -> list[NationProfile]:
 
 from .nations.br import PROFILE as _BR  # noqa: E402
 from .nations.us import PROFILE as _US  # noqa: E402
+from .nations.zh import PROFILE as _ZH  # noqa: E402
 
 register_nation(_BR)
 register_nation(_US)
+register_nation(_ZH)

@@ -3,6 +3,7 @@
 ### Uma iniciativa pessoal de cooperação entre povos
 
 **Idiomas:** [Português](README.md) · [English](README.en.md) · [中文](README.zh.md)
+**Site (Ponte):** <https://professorcinza.github.io/longterm-mutual-support-friendship/>
 
 ---
 

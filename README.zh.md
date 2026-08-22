@@ -3,6 +3,7 @@
 ### 一项民间合作个人倡议
 
 **语言：** [中文](README.zh.md) · [Português](README.md) · [English](README.en.md)
+**网站（桥）：** <https://professorcinza.github.io/longterm-mutual-support-friendship/>
 
 ---
 

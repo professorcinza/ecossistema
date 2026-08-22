@@ -54,6 +54,7 @@
 由本项目发起人撰写的外部仓库：
 
 - [Our Civilization — The Game](https://github.com/professorcinza/Our-Civilization-The-Game) — 规格驱动的军事与防御训练叙事角色扮演游戏，双语（葡/英）；内容 CC BY-SA 4.0，代码 AGPL-3.0。
+- [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — TEIA 平台的"分析宪法"：系统提示词、分析框架（PET、SOPBRA）与国家档案（巴西、美国）；MIT 许可。
 
 ## 许可证
 

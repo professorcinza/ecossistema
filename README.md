@@ -11,4 +11,4 @@ Sistema de mundos e contratos do ecossistema Inkos — configuração (`inkos.js
 
 ---
 
-*Parte do ecossistema de projetos de Cleiton Moura Loura. Licença: MIT.*
+*Parte do ecossistema de projetos de Cleiton Moura Loura. Licença: AGPL-3.0-or-later.*

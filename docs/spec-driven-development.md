@@ -168,6 +168,15 @@ ENTRADA (aberta)          CRIVO TÉCNICO                        DESTINO (três)
 
 *A simetria da casa: assim como a esteira materializa specs em produto, o crivo materializa vozes em specs. Entrada humana, rigor de engenharia, saída versionada.*
 
+## O método do arquiteto: TOP-DOWN ⇄ BOTTOM-UP assimétrico (declaração, 22/08/2026)
+
+*O arquiteto atuará top-down e bottom-up **assimetricamente, sempre que possível** — e a assimetria é método, não desordem:*
+
+- **TOP-DOWN** dá o *telos*: da visão (civilização, Kardashev, a Segunda Lua) descem requisitos que dão sentido ao detalhe;
+- **BOTTOM-UP** dá o *atrito*: do artefato medido (Moto G Power, RX 9070, teia-rede em código) sobem números que corrigem a visão;
+- **A spec é o ponto de encontro das duas direções** — onde a intenção de cima e a medida de abaixo se fundem em requisito verificável. Nem cascata (top-down puro afoga no dogma), nem deriva (bottom-up puro perde o rumo): a direção dominante em cada momento é **a que tem o sinal mais forte** — e o histórico do Git registra cada inversão;
+- **O precedente é a própria fundação**: a base 02 (Dyson) desceu sobre a base 06 (smartphone medido) e ambas pariram a mesma teia de especificações; o cósmico e o bolso na mesma tarde, cada um corrigindo o outro.
+
 ---
 
 *Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*

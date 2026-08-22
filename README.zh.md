@@ -51,7 +51,7 @@
 
 ## 外部蓝图
 
-由本项目发起人撰写的外部仓库：
+由本项目发起人撰写的外部仓库。依照《开放合作章程》第六条，在生态系统中启动的每个项目都拥有名称体现功能的独立仓库，并在此被引用：
 
 - [Our Civilization — The Game](https://github.com/professorcinza/Our-Civilization-The-Game) — 规格驱动的军事与防御训练叙事角色扮演游戏，双语（葡/英）；内容 CC BY-SA 4.0，代码 AGPL-3.0。
 - [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — TEIA 平台的"分析宪法"：系统提示词、分析框架（PET、SOPBRA）与国家档案（巴西、美国）；AGPL-3.0 许可。

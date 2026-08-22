@@ -46,6 +46,13 @@ Para que não paire dúvida, o autor declara que:
 
 Pessoas, grupos, empresas e instituições — brasileiras, chinesas ou de qualquer nacionalidade — que queiram co-criar protótipos nestes termos são convidadas a apresentar-se por meio do repositório do projeto.
 
+## Artigo 6 — Da organização dos projetos
+
+1. Todo projeto iniciado neste espaço de trabalho ganha **repositório externo próprio**, com nome que expresse sua função e propósito;
+2. Todo projeto segue a **Política de Invenção Aberta**: código sob AGPL-3.0-or-later, conteúdo sob CC BY-SA 4.0, autoria registrada no histórico público do Git;
+3. Todo projeto é **referenciado neste repositório — o hub** — na seção de blueprints dos READMEs e na Ponte;
+4. Artefatos próprios do hub — seus documentos, sua página e os desafios internos da série `prototypes/` — permanecem nele.
+
 ---
 
 *Escrito por Cleiton Moura Loura, brasileiro, arquiteto de protótipos e idealizador desta iniciativa.*

@@ -46,6 +46,13 @@ Lest any doubt remain, the author declares that:
 
 People, groups, companies, and institutions — Brazilian, Chinese, or of any nationality — who wish to co-create prototypes on these terms are invited to come forward through the project repository.
 
+## Article 6 — How projects are organized
+
+1. Every project started in this workspace gets **its own external repository**, named after its function and purpose;
+2. Every project follows the **Open Invention Policy**: code under AGPL-3.0-or-later, content under CC BY-SA 4.0, authorship recorded in the public Git history;
+3. Every project is **referenced in this repository — the hub** — in the READMEs' blueprints section and on the Ponte;
+4. Artifacts belonging to the hub itself — its documents, its page, and the internal challenges of the `prototypes/` series — remain within it.
+
 ---
 
 *Written by Cleiton Moura Loura, Brazilian citizen, prototype architect and founder of this initiative.*

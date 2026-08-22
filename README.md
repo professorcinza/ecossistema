@@ -51,7 +51,7 @@ Sugestões, correções e novas ideias são bem-vindas por meio de *issues* e *p
 
 ## Blueprints externos
 
-Repositórios externos de autoria do idealizador do projeto:
+Repositórios externos de autoria do idealizador do projeto. Conforme a Carta de Colaboração (Artigo 6), todo projeto iniciado no ecossistema ganha repositório próprio, com nome funcional, e é referenciado aqui:
 
 - [Our Civilization — The Game](https://github.com/professorcinza/Our-Civilization-The-Game) — RPG narrativo spec-driven de treinamento militar e defesa, bilíngue (pt-br/en); conteúdo CC BY-SA 4.0, código AGPL-3.0.
 - [TEIA Kernel](https://github.com/professorcinza/teia-kernel) — constituição analítica da plataforma TEIA: prompts de sistema, frameworks (PET, SOPBRA) e perfis de nações (BR, US); AGPL-3.0.

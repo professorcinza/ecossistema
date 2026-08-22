@@ -103,6 +103,37 @@ Nenhum projeto entra por existir e funcionar; entra por **cobrir a spec destilad
 
 *O precedente é a própria casa: as especificações TeiaOS (TOS-001–024) foram destiladas por este método — GrapheneOS, Ubuntu Touch e nove distribuições reverse-specificadas numa frente única — antes de a norma existir. A norma batiza a prática.*
 
+## A esteira: repositórios de spec → materialização de produto (decisão do arquiteto, 22/08/2026)
+
+Os repositórios do ecossistema organizam-se **modularmente, por projeto, contendo apenas especificações**. A concretização é tarefa de uma **esteira CI/CD** que transforma spec em produto real de software:
+
+```
+REPO DE SPEC          ESTEIRA                                          PRODUTO
+(modular, por         1. VALIDAÇÃO — lint da spec: formato, IDs,        release assinada
+ projeto, specs        status, critério de verificação declarado        (reproduzível,
+ apenas)              2. MATERIALIZAÇÃO — geração de código a partir     materializada
+                       da spec (Rust, norma II), com revisão             da spec,
+                      3. VERIFICAÇÃO — o critério da própria spec         auditada)
+                       roda como teste (openQA-classe, TOS-013)
+                      4. PRODUTO — build, assinatura, publicação
+```
+
+**As leis da esteira**:
+
+| ID | Requisito | Origem |
+|---|---|---|
+| EST-001 | specs são a fonte de verdade; código materializado é artefato de build — derivado, versionado, revisado, nunca a fonte | doutrina |
+| EST-002 | spec inválida não entra: formato, IDs, status e critério de verificação validados automaticamente (a lei 2 do SDD automatizada) | doutrina |
+| EST-003 | materialização assistida por IA **sempre revisada** — o ciclo SDD permanece: spec → revisão → implementação (agora gerada) → verificação | SDD |
+| EST-004 | a verificação é a spec se testando: o critério declarado roda como gate; sem gate, sem release | SDD/TOS-013 |
+| EST-005 | releases assinadas e reproduzíveis (TOS-019); código gerado passa por auditoria de dependências | segurança |
+| EST-006 | exceções de linguagem (C upstream, Python de IA) ficam fora da materialização automática — são contribuição, não produto derivado | norma II |
+| EST-007 | a esteira roda, quando possível, na própria cadeia de APUs do ecossistema — o sistema que se materializa a si mesmo | arquiteto |
+
+**O precedente da indústria** (ago/2026): o spec-kit do GitHub e o Kiro da Amazon provam o paradigma spec→código; o ecossistema estende-o a spec→**produto**, com verificação como gate de primeira classe.
+
+*O fecho simétrico: a IA que materializa as specs roda na cadeia de APUs (TOS-024) — o sistema constrói o sistema que o constrói. A teia tece a si mesma.*
+
 ---
 
 *Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*

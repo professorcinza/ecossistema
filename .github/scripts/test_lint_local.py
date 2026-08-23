@@ -1,0 +1,16 @@
+import subprocess, tempfile, shutil, os, sys
+root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+tmp = tempfile.mkdtemp(prefix="linttest_eco_")
+os.makedirs(f"{tmp}/dominios/fake")
+shutil.copy(f"{root}/registry.md", tmp)
+r = subprocess.run([sys.executable, f"{root}/.github/scripts/lint_specs.py", "--root", tmp], capture_output=True, text=True)
+print(r.stdout, "exit=", r.returncode)
+shutil.rmtree(tmp)
+# crivo trilingue ausente sem marcador
+tmp2 = tempfile.mkdtemp(prefix="linttest_crivo_")
+os.makedirs(f"{tmp2}/dominios/fake/docs/crivo")
+open(f"{tmp2}/registry.md", "w").write("# Registry\n\n## Dominios\n\n- **fake**: x\n")
+open(f"{tmp2}/dominios/fake/docs/crivo/registro.md", "w").write("sem marcador\n")
+r2 = subprocess.run([sys.executable, f"{root}/.github/scripts/lint_specs.py", "--root", tmp2], capture_output=True, text=True)
+print(r2.stdout, "exit=", r2.returncode)
+shutil.rmtree(tmp2)

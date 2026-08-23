@@ -1,0 +1,537 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════
+   V FOR X — COMMAND CENTER DESIGN SYSTEM
+   High-intelligence interface for coordinated action.
+   Deep navy · steel cyan · refined alert crimson · glass panels
+   ═══════════════════════════════════════════════════════════ */
+
+@theme {
+  /* ── Base surfaces — deep navy instead of pure black ── */
+  --color-void: #060b14;
+  --color-abyss: #0a1220;
+  --color-panel: #0f1a2e;
+  --color-panel-hi: #142238;
+  --color-border-dim: #1a2a44;
+  --color-border-bright: #2a4264;
+
+  /* ── Alerts — refined crimson, less neon ── */
+  --color-blood: #c42b3e;
+  --color-blood-bright: #e23856;
+  --color-blood-dim: #5a1828;
+
+  /* ── Intelligence cyan — replaces neon green ── */
+  --color-terminal-green: #22d3a6;
+
+  /* ── Warning amber — slightly warmer ── */
+  --color-warning-amber: #f0a93b;
+
+  /* ── Command accent — steel blue for links/primary actions ── */
+  --color-command: #5b9cf6;
+  --color-command-bright: #7db5ff;
+  --color-command-dim: #2a4d7a;
+
+  /* ── Content — cleaner, higher contrast on navy ── */
+  --color-content-primary: #dfe7f5;
+  --color-content-secondary: #8da3c4;
+  --color-content-dim: #4a5d7a;
+
+  --font-mono: "JetBrains Mono", "Fira Code", "SF Mono", "Cascadia Code",
+    "Menlo", "Consolas", monospace;
+  --font-sans: "Inter", "Segoe UI", "Helvetica Neue", system-ui, sans-serif;
+}
+
+/* ── Base ─────────────────────────────────────────────────── */
+
+/* Remove the zero-radius override — allow subtle rounding */
+* {
+  border-radius: 0;
+}
+
+html {
+  background: var(--color-void);
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  background: var(--color-void);
+  color: var(--color-content-primary);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  line-height: 1.65;
+  overflow-x: hidden;
+  overscroll-behavior-y: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ── Mobile Touch Optimization ─────────────────────────────── */
+
+button,
+a,
+input,
+select,
+textarea,
+[role="button"] {
+  min-height: 36px;
+  touch-action: manipulation;
+}
+
+button.inline-pill,
+a.inline-pill,
+.inline-pill {
+  min-height: 0;
+}
+
+.safe-pt { padding-top: env(safe-area-inset-top); }
+.safe-pb { padding-bottom: env(safe-area-inset-bottom); }
+.safe-pl { padding-left: env(safe-area-inset-left); }
+.safe-pr { padding-right: env(safe-area-inset-right); }
+
+.min-h-dvh { min-height: 100vh; min-height: 100dvh; }
+.h-dvh { height: 100vh; height: 100dvh; }
+
+/* ── Scanline Overlay — subtle data-grid feel ────────────── */
+
+.scanlines::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0) 0px,
+    rgba(0, 0, 0, 0) 2px,
+    rgba(15, 26, 46, 0.08) 3px,
+    rgba(15, 26, 46, 0.08) 3px
+  );
+  pointer-events: none;
+  z-index: 9998;
+}
+
+/* ── CRT Vignette — subtle depth ─────────────────────────── */
+
+.crt-vignette::after {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: radial-gradient(
+    ellipse at center,
+    transparent 55%,
+    rgba(6, 11, 20, 0.4) 100%
+  );
+  pointer-events: none;
+  z-index: 9997;
+}
+
+/* ── Film Grain — barely perceptible texture ─────────────── */
+
+.grain::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+  opacity: 0.012;
+  pointer-events: none;
+  z-index: 9996;
+  animation: grain-shift 0.8s steps(4) infinite;
+}
+
+@keyframes grain-shift {
+  0% { transform: translate(0, 0); }
+  25% { transform: translate(-2px, 1px); }
+  50% { transform: translate(1px, -2px); }
+  75% { transform: translate(-1px, 2px); }
+  100% { transform: translate(2px, -1px); }
+}
+
+/* ── Flicker — minimal, institutional ────────────────────── */
+
+.flicker {
+  animation: flicker 12s infinite;
+}
+
+@keyframes flicker {
+  0%, 97%, 100% { opacity: 1; }
+  98% { opacity: 0.92; }
+  99% { opacity: 1; }
+}
+
+/* ── Glitch Text — refined intel-style distortion ────────── */
+
+.glitch {
+  position: relative;
+  display: inline-block;
+}
+
+.glitch::before,
+.glitch::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  opacity: 0;
+}
+
+.glitch:hover::before {
+  opacity: 0.6;
+  color: var(--color-terminal-green);
+  animation: glitch-x 0.3s linear;
+  clip-path: polygon(0 20%, 100% 20%, 100% 50%, 0 50%);
+}
+
+.glitch:hover::after {
+  opacity: 0.6;
+  color: var(--color-command);
+  animation: glitch-y 0.3s linear;
+  clip-path: polygon(0 60%, 100% 60%, 100% 100%, 0 100%);
+}
+
+@keyframes glitch-x {
+  0% { transform: translate(0); }
+  20% { transform: translate(-2px, 1px); }
+  40% { transform: translate(2px, -1px); }
+  60% { transform: translate(-1px, -1px); }
+  80% { transform: translate(1px, 1px); }
+  100% { transform: translate(0); }
+}
+
+@keyframes glitch-y {
+  0% { transform: translate(0); }
+  20% { transform: translate(2px, -1px); }
+  40% { transform: translate(-2px, 1px); }
+  60% { transform: translate(1px, 1px); }
+  80% { transform: translate(-1px, -1px); }
+  100% { transform: translate(0); }
+}
+
+/* ── Blinking Cursor ──────────────────────────────────────── */
+
+.cursor-blink::after {
+  content: "▊";
+  animation: blink 1s step-start infinite;
+  color: var(--color-command-bright);
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+/* ── Typewriter ───────────────────────────────────────────── */
+
+.typewriter {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid var(--color-command-bright);
+  animation: typing 2s steps(40, end), blink-caret 0.75s step-start infinite;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  50% { border-color: transparent; }
+}
+
+/* ── Pulse Glow — refined intelligence pulse ─────────────── */
+
+.pulse-blood {
+  animation: pulse-blood 3s ease-in-out infinite;
+}
+
+@keyframes pulse-blood {
+  0%, 100% { box-shadow: 0 0 4px rgba(196, 43, 62, 0.2); }
+  50% { box-shadow: 0 0 14px rgba(196, 43, 62, 0.4); }
+}
+
+/* ── Text Glow — subtle, professional ────────────────────── */
+
+.glow-blood {
+  text-shadow: 0 0 8px rgba(196, 43, 62, 0.35);
+}
+
+.glow-green {
+  text-shadow: 0 0 8px rgba(34, 211, 166, 0.35);
+}
+
+/* ── Glass Card — replaces terminal-card with glassmorphism ── */
+
+.terminal-card {
+  background: rgba(15, 26, 46, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--color-border-dim);
+  border-radius: 6px;
+  transition: border-color 0.25s, box-shadow 0.25s;
+}
+
+.terminal-card:hover {
+  border-color: var(--color-command-dim);
+  box-shadow: 0 0 12px rgba(91, 156, 246, 0.08), 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* ── Scrollbar — slim navy ───────────────────────────────── */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-void);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-bright);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-command-dim);
+}
+
+/* ── Links ────────────────────────────────────────────────── */
+
+a {
+  color: var(--color-content-primary);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+a:hover {
+  color: var(--color-command-bright);
+}
+
+/* ── Leaflet Dark Override — command center map style ─────── */
+
+.leaflet-container {
+  background: #080e18 !important;
+  font-family: var(--font-mono) !important;
+}
+
+.leaflet-popup-content-wrapper {
+  background: var(--color-abyss) !important;
+  color: var(--color-content-primary) !important;
+  border: 1px solid var(--color-border-bright) !important;
+  border-radius: 6px !important;
+  backdrop-filter: blur(8px);
+}
+
+.leaflet-popup-tip {
+  background: var(--color-border-bright) !important;
+}
+
+.leaflet-control-zoom a {
+  background: var(--color-abyss) !important;
+  color: var(--color-command) !important;
+  border: 1px solid var(--color-border-dim) !important;
+  border-radius: 4px !important;
+}
+
+.leaflet-control-attribution {
+  display: none !important;
+}
+
+/* ── Reduced Motion ───────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .grain::before,
+  .scanlines::before {
+    display: none;
+  }
+
+  .typewriter {
+    width: 100% !important;
+    animation: none !important;
+  }
+}
+
+/* ── Mobile adjustments ───────────────────────────────────── */
+
+@media (max-width: 768px) {
+  .scanlines::before {
+    opacity: 0.15;
+  }
+
+  .grain::before {
+    display: none;
+  }
+
+  body {
+    font-size: 13px;
+  }
+
+  .terminal-card {
+    padding: 0.75rem !important;
+  }
+
+  .overflow-x-auto {
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+
+  .terminal-card {
+    padding: 0.625rem !important;
+  }
+
+  pre[data-ascii-hero] {
+    font-size: 6px !important;
+    line-height: 1.1;
+  }
+}
+
+/* ── Desktop: restore card padding ────────────────────────── */
+
+@media (min-width: 769px) {
+  .terminal-card {
+    padding: 1rem;
+  }
+}
+
+/* ── Print mode ──────────────────────────────────────────── */
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  .scanlines::before,
+  .crt-vignette::after,
+  .grain::before {
+    display: none !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  nav,
+  .flicker {
+    display: none !important;
+  }
+
+  main {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  .terminal-card {
+    border: 1px solid #ccc !important;
+    background: white !important;
+    color: black !important;
+    page-break-inside: avoid;
+    margin-bottom: 8px !important;
+    backdrop-filter: none !important;
+  }
+
+  [class*="text-blood"],
+  [class*="text-warning"],
+  [class*="text-terminal-green"] {
+    color: #333 !important;
+    font-weight: bold !important;
+  }
+
+  .print-expand {
+    display: block !important;
+  }
+
+  .print-briefing {
+    color: black !important;
+  }
+  .print-briefing .text-content-primary,
+  .print-briefing .text-content-secondary {
+    color: #222 !important;
+  }
+  .print-briefing .text-blood-bright {
+    color: #c42b3e !important;
+  }
+  .print-briefing .text-terminal-green {
+    color: #006666 !important;
+  }
+}
+
+/* ═══ ALLOCATOR SLIDER ═══ */
+.allocator-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  outline: none;
+  border-radius: 0;
+}
+
+.allocator-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  background: var(--color-abyss);
+  border: 2px solid var(--color-command);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+
+.allocator-slider::-webkit-slider-thumb:hover {
+  transform: scale(1.3);
+  box-shadow: 0 0 8px rgba(91, 156, 246, 0.4);
+}
+
+.allocator-slider::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  background: var(--color-abyss);
+  border: 2px solid var(--color-command);
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+/* ═══ RTL — right-to-left languages (ar, fa, ur) ═══
+   The <html dir="rtl"> attribute is set at runtime by setLang().
+   These rules realign terminal text and keep numeric/data blocks LTR. */
+[dir="rtl"] body,
+[dir="rtl"] p,
+[dir="rtl"] li,
+[dir="rtl"] label,
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] h4,
+[dir="rtl"] .terminal-card,
+[dir="rtl"] .terminal-card * {
+  text-align: right;
+}
+
+[dir="rtl"] .terminal-card {
+  direction: rtl;
+}
+
+[dir="rtl"] input,
+[dir="rtl"] textarea {
+  text-align: right;
+  direction: rtl;
+}
+
+/* Keep data, code, and ASCII renderings LTR even inside RTL text. */
+[dir="rtl"] pre,
+[dir="rtl"] code,
+[dir="rtl"] .ascii,
+[dir="rtl"] .chart,
+[dir="rtl"] [data-ltr="true"] {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: isolate;
+}

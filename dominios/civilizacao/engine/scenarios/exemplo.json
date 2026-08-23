@@ -1,0 +1,13 @@
+{
+  "id": "exemplo",
+  "title": "A Estação Esquecida",
+  "language": "pt-br",
+  "tone_instructions": "Tom contido e atmosférico; o jogador é {profissao} num mundo de intriga silenciosa.",
+  "opening_mode": "fixed",
+  "opening_narrative": "Você desce da vagoneta com a marca de {profissao} ainda fresca na credencial. A estação não recebe visitantes há anos, mas alguém deixou uma lâmpada acesa no fim do cais — um convite ou uma armadilha. O ar é frio e cheira a ferro molhado. Alguém sabe que você chegou. O que você faz?",
+  "lore": "Rede ferroviária abandonada reutilizada por facções discretas.",
+  "questions": [
+    {"var_name": "profissao", "prompt": "Qual é a sua profissão?", "type": "choice",
+     "options": ["engenheira", "mediadora", "arquivista"], "required": true}
+  ]
+}

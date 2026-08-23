@@ -1,0 +1,123 @@
+schema: spec-driven
+
+context: |
+  # Project Lunar — local-first narrative RPG engine
+
+  Language: en
+  All artifacts must be written in English.
+  Keep OpenSpec structural headings and SHALL/MUST keywords in English.
+  Game content (scenarios, prompts, crystals, journals, tags) remains
+  bilingual (en + pt-br) by design — that is content, not artifacts.
+  The product also operates as a REAL society simulator and emulator —
+  scenario modeling over sealed forks, emulator calibration via the
+  reality feed, consented telemetry and training with measured transfer
+  (spec civilization-lab) — with the Chinese model as reference
+  civilization across dimensions (economic, military, societal,
+  scientific, technological, ecological, governance, formation),
+  adapted as citable doctrine under the platform protections.
+
+  ## What the system is
+  Project Lunar is a narrative RPG ENGINE — and the committed final product
+  built on it is a Role-Playing MMORPG based on the lore specified in these
+  specs (spec mmo-game): a persistent multiplayer world where the engine
+  (4-level crystal memory, world ticks, plot seeds, npc-minds, auditor)
+  remains the simulation core. Authors create scenarios (lore, NPCs,
+  locations, factions, setup questions) and players live adventures narrated
+  by LLMs, with a reactive world, creativity-based combat and AI-generated
+  cold-opens. Bilingual (en + pt-br) in every prompt, crystal, journal and
+  tag. No HP, mana or grind — narrative only.
+
+  ## Stack
+  - Game client: Unreal Engine 5 — Nanite/Lumen/World Partition/Chaos/
+    MetaHuman/Mass; native first, Pixel Streaming as browser path; text
+    client below the 3D floor
+  - Frontend: React 19 + Vite 7 + Zustand 5 + Tailwind 3 (frontend/)
+  - Backend: Python 3.10+ + FastAPI (backend/app/) — central orchestrator is
+    GameSession (services/game_session.py)
+  - Persistence: SQLite event-sourced (events.db, scenarios.db, traces.db)
+  - Graph: Neo4j 5 (Docker) + Graphiti-core (experimental)
+  - LLM: litellm — DeepSeek (1M ctx), Anthropic Claude (1M/200k), OpenAI
+    gpt-5.6-sol (372k); optional CLIProxyAPI proxy (port 8318)
+  - Narrative delivery: SSE (POST /api/game/action) with inline control tags
+    ([MODE], [JOURNAL], [INVENTORY], [POWER], [CRYSTAL], [PLOT_AUTO],
+    [TRUNCATE_CLEAN], [USAGE], [TRACE], [DONE])
+
+  ## Capability map (openspec/specs/)
+  - scenario-authoring: scenarios, setup questions, story cards, interpolation
+  - opening-generation: fixed vs AI-generated cold-open
+  - narrative-engine: mode detection, prompts, streaming, open scene window
+  - prompt-caching: zones 0/1/2 + cloaking (PHASE 2)
+  - memory-system: SHORT→MEDIUM→LONG→MEMORY pyramid + RAG + witness filter
+  - combat-system: 40/40/20 creativity score + power levels
+  - npc-minds: private thoughts, decay, knowledge boundaries
+  - world-simulation: off-screen world ticks + timeskip
+  - plot-generation: automatic triggers, cooldowns, plot lock
+  - journal-system: automatic detection of significant events
+  - inventory-system: inline tags [ITEM_ADD|USE|LOSE]
+  - knowledge-graph: Neo4j + canonical name resolution
+  - llm-routing: multi-provider, model policy, token accounting
+  - narrative-audit: context-aware post-hoc auditor (PHASE 3b)
+  - game-api: REST + SSE contract
+  - event-persistence: event sourcing + full state rebuild
+  - frontend-ui: panels, wizard, builder, devtools
+  - military-forces-catalog: real catalog of units/squadrons/specializations
+    of the Brazilian Armed Forces + world elites + ideal soldier model, with
+    sources
+  - avatar-mirror: the player as an avatar of themselves (all ages):
+    mirroring levels with consent, narrative translation (CTN), LGPD
+    deny-list, context budget (~1k tokens) always in the volatile zone
+  - deployment: Docker Compose stack (uv backend + nginx frontend with /api
+    and SSE proxy, Neo4j in optional profile), credentials outside the
+    image, persistence across restarts, host access for the Hermes proxy
+  - worldbuilding-research: documentary reverse engineering of mechanics
+    (Albion Online, EVE Online, GTA San Andreas, GTA VI, MUDs, CyberCode
+    Online) + virtual-economies academia + expertise science (Ericsson,
+    Bjork, SDT, Galenson, Ruthsatz) + energy-system science (Wright's
+    law, grid crises, ONS/ENTSO-E, nuclear: PRIS/TMI/Chernobyl/Fukushima)
+    + research/engineering formation science (dual systems, PE licensure,
+    replication crisis, grant systems) + disaster science (UNDRR/Sendai,
+    ICS, EM-DAT/USGS) + the remaining world systems (space programs,
+    penology, HUMINT, taxes, financial crises, commons, sociolinguistics,
+    memory studies) + the profession-simulator corpus
+    (Papers Please, 112 Operator, ETS2, the retail wave, Hardspace,
+    Suzerain, Football Manager, Cart Life) + the Kojima corpus (MGS 1–5,
+    Death Stranding, Snatcher, P.T.) + the Marxist-Leninist glossary +
+    the Chinese societal model as political-economy/society doctrine + the
+    engineering bodies of knowledge (SWEBOK v4, SEBoK v2.11, CyBOK v1.1)
+    expanded via WriteHERE recursive planning + a playable
+    prototype of the final engine built on Unreal Engine 5 (Nanite/Lumen/
+    World Partition/Chaos/Mass/MetaHuman; EULA and royalty terms
+    documented); versioned lesson cards
+    in data/worldbuilding/lessons.json with target-spec traceability
+  - mmo-game: the final product direction — a lore-based Role-Playing
+    MMORPG on the engine: persistent multiplayer world (ticks while
+    offline, cross-player consequences), UE5 client (native first, Pixel
+    Streaming browser path, text client floor), maximum-realism doctrine, narrative-first progression (no grind), social layer with
+    roleplay integrity, age-banding/avatar-mirror protections in
+    multiplayer, moderated community contribution channel
+  - civilization-lab: the real-simulator layer — three modes over one
+    engine (game / simulator over sealed forks / emulator calibrated by
+    the reality feed), consented character-level telemetry (the event
+    store is the dataset — no shadow channels), real research-ethics
+    governance (informed consent, debrief, withdrawal, adult-band only),
+    the Lab surface (aggregate scenario reports, prediction registry,
+    calibration reports), training loop with opt-in verifiable
+    credentials; partnerships never weaken the platform protections
+  - licensing: layered open-source doctrine — specs/research/canon under
+    CC BY-SA 4.0 (share-alike enforces "same canon, never forked lore"),
+    code under AGPL-3.0-or-later (network copyleft closes the SaaS
+    loophole; server stack and tools stay AGPL, the UE5 client layer
+    coexists with the Unreal EULA + royalty, gap documented), trademark and
+    brand reserved, contributions under the DCO, lab governance
+    artifacts out of licensing scope
+
+  ## Project invariants (learned in A/B — docs/fase3a_ab.md, fase3b_ab.md)
+  - Never feed the narrator's own raw prose back as history beyond the open
+    scene (tic auto-conditioning).
+  - Pink-elephant anti-pattern: never give literal examples of vices to
+    avoid.
+  - [ITEM_*] tags and @Name mentions are load-bearing side effects: the
+    Auditor must never alter them in a rewrite.
+  - All in-memory state is rebuilt from the event store on every GET.
+  - Feature flags (LUNAR_FEATURE_*, default ON) degrade to legacy behavior
+    instead of breaking.

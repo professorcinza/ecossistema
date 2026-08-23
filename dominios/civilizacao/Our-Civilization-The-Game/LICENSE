@@ -1,0 +1,54 @@
+Our Civilization The Game / Project Lunar
+Copyright (c) 2026 professorcinza
+
+LAYERED LICENSING NOTICE
+========================
+
+This project is open source under a layered policy. Each layer has its own
+license file in the repository root; the policy is also specified as the
+`licensing` capability in openspec/specs/licensing/spec.md.
+
+LAYER 1 — SPECS, RESEARCH AND DOCUMENTATION
+    Files: openspec/**, BLUEPRINT.md, OPENSPEC.md, *.md documentation
+    License: CC BY-SA 4.0 (SPDX: CC-BY-SA-4.0)
+    Full text: LICENSE-CONTENT.txt
+    Canonical: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+
+LAYER 2 — GAME CODE (engine, backend, frontend, tools, tests)
+    Files: backend/**, frontend/**, tools/**, and any source code
+    License: AGPL-3.0-or-later (SPDX: AGPL-3.0-or-later)
+    Full text: LICENSE-CODE.txt
+    Canonical: https://www.gnu.org/licenses/agpl-3.0.txt
+    Note: AGPL-3.0 is one-way compatible with the GPL-3.0 of the d3wasm
+    engine (Doom 3 / id Tech 4 in WebAssembly) considered by the engine
+    path — GPL-3.0 code may be incorporated into AGPL-3.0 works, and the
+    AGPL's network clause (section 13) carries over. This closes the
+    SaaS/network-service loophole: anyone operating a modified server
+    must publish the modifications.
+
+LAYER 3 — GAME CANON AND CONTENT
+    Files: scenarios, story cards, lore, the "O Cidadão do Futuro"
+    universe and all authored game content
+    License: CC BY-SA 4.0 (SPDX: CC-BY-SA-4.0)
+    Full text: LICENSE-CONTENT.txt
+    Rationale: share-alike enforces the architecture specified in
+    mmo-game — cultural shards as configuration over shared canon,
+    never forked lore. Derivatives must share alike.
+
+LAYER 4 — TRADEMARK AND BRAND
+    The names "Our Civilization The Game", "Project Lunar" and project
+    identity marks are NOT licensed under the above terms; all rights
+    reserved by the copyright holder. In a world of community shards,
+    the brand is the signal of the official service.
+
+OUT OF LICENSING SCOPE
+    Civilization-lab datasets, consent records, research-partnership
+    agreements and ethics-board documents are governance artifacts,
+    not open-source material; they are governed by their own terms.
+
+CONTRIBUTIONS
+    Accepted under the Developer Certificate of Origin (DCO) —
+    sign-off git commits (`git commit -s`). The DCO preserves the
+    project's flexibility to relicense code layers in the future.
+
+Unless otherwise stated inside a file, the layered policy above applies.

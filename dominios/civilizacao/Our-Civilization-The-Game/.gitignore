@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Não rastrear fontes externas (PDFs e dumps vivem em ~/militarytrainingthegame-sources)
+sources/
+*.pdf
+
+# Editor/OS
+.DS_Store
+*.swp
+
+# Artefatos de scan de segurança locais
+.mimosa/
+.crush/

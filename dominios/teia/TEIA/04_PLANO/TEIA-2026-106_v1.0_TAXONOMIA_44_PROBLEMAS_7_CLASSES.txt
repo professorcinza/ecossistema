@@ -1,0 +1,874 @@
+================================================================================
+                    TEIA — TAXONOMIA DOS PROBLEMAS ESTRUTURAIS DO BRASIL
+                    PROTOCOLO: TEIA-2026-106
+                    CATEGORIA: 04_PLANO
+                    ESCOPO: 50 PROBLEMAS × 7 CLASSES × MEDIDAS DE ALTO IMPACTO
+                    DATA: JULHO/2026
+                    AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+METODOLOGIA
+
+Este documento sistematiza os problemas estruturais do Brasil em 7 classes analíticas.
+Cada classe contém problemas com:
+  - DADO PRIMÁRIO fact-checked (com fonte e ano)
+  - NÓ CRÍTICO (ponto de alavanca onde intervir colapsa o sistema)
+  - MEDIDA DE ALTO IMPACTO (intervenção executável, custo/benefício, impacto/ano)
+
+Classes: ECONÔMICA | POLÍTICO-INSTITUCIONAL | SOCIAL | DIREITOS HUMANOS |
+         AMBIENTAL | TECNOLÓGICA | INFRAESTRUTURA
+
+Framework dos 5 Métodos Éticos (TEIA-104):
+  M1 Via Executivo (portaria/resolução) — R$ baixo, sem Congresso
+  M2 Via Judiciário (ADPF/ADI/petição STF/CNJ) — duradouro
+  M3 Via Legislativo (CPI/lei) — lento, estrutural
+  M4 Via Tecnologia Cívica (dashboard IA, app) — permanente
+  M5 Via Narrativa (carrosséis, TikTok, conteúdo viral) — pressão
+
+Priorização TEIA: alto impacto = mortes evitadas + R$ recuperados + direitos restaurados.
+
+================================================================================
+CLASSE 1 — ECONÔMICA (7 PROBLEMAS)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+E1 — JUROS E CUSTO FISCAL DA DÍVIDA PÚBLICA
+────────────────────────────────────────────────────────────────────────────────
+DADO: SELIC em 15,00% a.a. (dez/2025 — maior nível nominal em ~19 anos). Brasil paga
+      R$ 998 bilhões/ano em juros da dívida (8,45% do PIB em 2024). Comparação:
+      México (Banxico 7,25%), Chile (4,50%), Colômbia (9,25%). Diferencial BR vs Chile:
+      +10,50 p.p. Brasil tem a maior taxa real de juros do mundo.
+FONTE: BCB/Copom (10/dez/2025), Tesouro Nacional (G1, 31/jan/2025), banxico, BCC, Banco de la República.
+NÓ CRÍTICO: A dívida paga juros para os mesmos 5 bancos que compram os títulos.
+      O sistema é circular: governo emite título → banco compra → juros pagos com
+      impostos → imposto paga o juro do banco.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Taxa de Administração sobre Grandes Instituições Financeiras (TIGIF):
+       Resolução CMN criando taxa adicional sobre bancos com ativos >R$ 100 bi.
+       Arrecadação estimada: R$ 30-50 bi/ano.
+  M2 — ADPF ao STF questionando constitucionalidade do sistema Selic (art. 192 CF).
+  Impacto: R$ 800 bi/ano redirecionados de juros para investimento social.
+  Custo: R$ 0 (normativo).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+E2 — SPREAD BANCÁRIO E LUCRACÃO EXORBITANTE
+────────────────────────────────────────────────────────────────────────────────
+DADO: Spread bancário médio 20,7 p.p. (ago/2025 — alta de 2,2 p.p. em 12 meses).
+      5 maiores bancos (Itaú R$ 40,2 bi, BB R$ 25,4 bi, Bradesco R$ 19 bi, Santander
+      R$ 12,4 bi, Caixa) lucraram R$ 125,6 bilhões em 2024 (+20% a.a.). Sistema total:
+      R$ 255 bilhões (recorde histórico).
+FONTE: BCB/Dados Abertos, RI Itaú/BB/Bradesco/Santander (2024).
+NÓ CRÍTICO: Oligopólio garante spread artificial. Sem concorrência, o banco
+      pode cobrar 30% quando o custo de captação é 12%.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Teto de spread por Resolução CMN: máximo 15 pontos percentuais entre
+       captação e empréstimo. Criação de taxa de referência pública (TBP).
+  M3 — Lei de quebra de oligopólio bancário (forçar foreign entry + fintechs).
+  M4 — Banco Digital Público (já existe BB/Caixa, criar banco 100% digital).
+  Impacto: R$ 200 bi/ano de juros excessivos reduzidos.
+  Custo: R$ 0 (normativo).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+E3 — CUSTO BRASIL E LOGÍSTICA DEFICIENTE
+────────────────────────────────────────────────────────────────────────────────
+DADO: Brasil caiu no ranking de competitividade (IMD 2025: 57º de 67 países).
+      Custo logístico: 12% do PIB (vs 8% média OCDE).
+      Rodovias respondem por 61% do transporte de carga (ferrovias: 20%).
+      Brasil tem 1,5 km de ferrovia/1.000 km² (EUA: 25 km).
+FONTE: MDIC, CNT, IMD, World Bank Logistics Performance Index.
+NÓ CRÍTICO: Monopólio do transporte rodoviário gera custo cascata em todo o comércio.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Programa Nacional de Concessão Ferroviária (18 corredores prioritários).
+       Modelo: parceria público-privada com garantia de demanda mínima.
+  M3 — Lei de Reforma Portuária (terminais privados sem autorização prévia).
+  Impacto: 4 pontos percentuais de redução do custo logístico = R$ 350 bi/ano.
+  Custo: R$ 15 bi/ano em subsídios/concessões.
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+E4 — CONFORMIDADE TRIBUTÁRIA (CUSTO DE PAGAR IMPOSTOS)
+────────────────────────────────────────────────────────────────────────────────
+DADO: Empresa brasileira gasta 1.500 horas/ano para pagar impostos (média OCDE:
+      160 horas). Brasil tem 6.000+ normas tributárias vigentes simultaneamente.
+      Custo de conformidade: R$ 70 bilhões/ano (em horas-trabalho + contadores).
+FONTE: Doing Business (histórico), Receita Federal, IBPT.
+NÓ CRÍTICO: Complexidade tributária é ARMA DE ASSIMETRIA — grandes empresas
+      têm departamentos tributários e planejamento; pequenas quebram.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Reforma Tributária Implementada (EC 132/2023 CBS+IBS+IS): garantir
+       implementação completa até 2033 com simplificação real.
+  M3 — Extinção de tributos cumulativos (PIS, COFINS, ICMS interestadual).
+  Impacto: R$ 70 bi/ano recuperados em produtividade.
+  Custo: R$ 0 (normativo-transição).
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+E5 — CONCENTRAÇÃO BANCÁRIA E CRÉDITO CARO
+────────────────────────────────────────────────────────────────────────────────
+DADO: CR4 (4 maiores: Itaú, BB, Bradesco, Caixa) = 55,3% dos ativos, 57,8% do crédito,
+      57,9% dos depósitos (BCB, 2023). CR5 em empréstimos >80% (ref. 2020).
+      Crédito/PIB Brasil: 70% (Chile: 130%, México: 85%). Microempreendedor paga
+      60-80% ao ano para pegar crédito.
+FONTE: BCB (FEEBPR 2023), Sinpro Campinas (fev/2025), CADE.
+NÓ CRÍTICO: Sem concorrência, o banco cobra o que quer.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Abertura obrigatória de dados bancários (Open Finance expansão).
+  M3 — Lei de entrada de bancos estrangeiros sem necessidade de autorização.
+  M4 — Simples Digital: conta gratuita 100% digital para 40M desbancarizados.
+  Impacto: Crédito/PIB 70% → 100% (R$ 2,5 tri de crédito novo).
+  Custo: R$ 5 bi (infraestrutura digital).
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+E6 — DESINDUSTRIALIZAÇÃO E DESINDUSTRIALIZAÇÃO PRECOCE
+────────────────────────────────────────────────────────────────────────────────
+DADO: Indústria caiu de 33% do PIB (1985) para 11% (2025). Brasil registrou
+      segunda maior desindustrialização do mundo (atrás apenas de Venezuela).
+      Perda de 4,5 milhões de empregos industriais desde 1985.
+FONTE: IBGE, CNI, IPEA, UNIDO.
+NÓ CRÍTICO: Câmbio valorizado + juros altos + custo Brasil = tripla penalidade
+      contra a indústria nacional.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Política Industrial Nacional (NIB): créditos de imposto para P&D,
+       compras governamentais de tecnologia nacional, conteúdo local.
+  M3 — Reforma cambial: IOF regressivo sobre entradas de capital especulativo.
+  Impacto: Indústria 11% → 18% PIB em 10 anos (4M empregos).
+  Custo: R$ 20 bi/ano (incentivos).
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+E7 — EVASÃO DE DIVISAS E ILÍCITOS FISCAIS OFFSHORE
+────────────────────────────────────────────────────────────────────────────────
+DADO: US$ 500-800 bilhões de patrimônio brasileiro em paraísos fiscais
+      (Tax Justice Network, TJN). Brasil perde ~US$ 40 bi/ano em evasão fiscal
+      (Global Financial Integrity). Pandora Papers expôs R$ 4 trilhões em
+      ativos offshore de brasileiros.
+FONTE: TJN, GFI, ICIJ (Pandora Papers).
+NÓ CRÍTICO: Elite financeira usa ILP (Planejamento Tributário Agressivo) para
+      evitar impostos enquanto classe média paga 27,5% de IR.
+MEDIDA DE ALTO IMPACTO:
+  M2 — ADPF/ADI questionando isenções fiscais offshore (princípio da igualdade).
+  M3 — Decreto de adesão ao Acordo de Multilateral Instrument (BEPS) — troca
+       automática de informações com 100+ jurisdições.
+  M1 — Multa de 200% sobre ativos não declarados offshore (já prevista em lei).
+  Impacto: US$ 20-40 bi/ano recuperados em tributação.
+  Custo: R$ 500 milhões (fiscalização COAF/Receita).
+  SCORE: 5/5
+
+================================================================================
+CLASSE 2 — POLÍTICO-INSTITUCIONAL (7 PROBLEMAS)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+P1 — ORÇAMENTO SECRETO E EMENDAS PARLAMENTARES
+────────────────────────────────────────────────────────────────────────────────
+DADO: Emendas parlamentares 2024: R$ 53 bilhões; 2025: R$ 50,4 bilhões (até R$ 58,4 bi
+      com RP2/RP3); proposta 2026: R$ 40,8 bi. Crescimento: R$ 6,1 bi (2014) → R$ 50 bi
+      (2025) = +720% em 11 anos. Emenda de relator ("orçamento secreto") extinta pelo
+      STF (ADI 6826, 2022) mas substituída por "emenda de comissão" com mesma lógica.
+FONTE: Estadão (LOA 2024), Câmara dos Deputados/Agência Brasil (LOA 2025), IPEA (abr/2026), STF (ADI 6826).
+NÓ CRÍTICO: O orçamento secreto é moeda de troca política — parlamentares
+      trocam emendas por votos do governo, blindagem e cargos.
+MEDIDA DE ALTO IMPACTO:
+  M2 — ADPF ao STF exigindo critérios objetivos e transparentes para emendas.
+  M3 — Emenda Constitucional proibindo emendas individuais sem critério técnico.
+  Impacto: R$ 36 bi/ano redirecionados para prioridades técnicas.
+  Custo: R$ 0.
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+P2 — CAPTURA DO CONGRESSO PELO SETOR FINANCEIRO
+────────────────────────────────────────────────────────────────────────────────
+DADO: Bancada financeira: 180+ deputados recebendo doações de bancos/seguradoras.
+      Frente Parlamentar da Agropecuária (FPA): 288 deputados (57% da Câmara).
+      Bancada evangélica: 195 deputados. Bancada da bala: 240 deputados.
+FONTE: TSE (doações), Congresso em Pauta, Congresso Transparente.
+NÓ CRÍTICO: O Congresso brasileiro NÃO representa o povo — representa setores
+      econômicos organizados em bancadas temáticas.
+MEDIDA DE ALTO IMPACTO:
+  M2 — ADI no STF questionando financiamento empresarial (já derrotado em 2015).
+  M3 — Reforma Política: voto distrital misto + listas partidárias fechadas
+       + proibição de candidaturas criminosas (Ficha Limpa ampliada).
+  M4 — Dashboard público de votos → financiamento → resultado.
+  Impacto: Renovação de 60-70% do Congresso com qualidade.
+  Custo: R$ 0 (normativo).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+P3 — REFORMA ADMINISTRATIVA E PREVIDENCIÁRIA
+────────────────────────────────────────────────────────────────────────────────
+DADO: Gasto previdenciário: R$ 1 trilhão/ano (maior item do Orçamento).
+      EC 103/2019 (Reforma): Economia projetada R$ 800 bi em 10 anos.
+      Desigualdade: militar aposenta aos 55 anos com salário integral; civil
+      contribui 35 anos e recebe teto de R$ 8.157.
+FONTE: MF, Receita Federal, STN, INSS.
+NÓ CRÍTICO: O sistema privilegia militares e juízes (regimes especiais).
+MEDIDA DE ALTO IMPACTO:
+  M3 — EC equiparando regimes (militar = civil) — poupança de R$ 80 bi/ano.
+  M1 — Extinção de aposentadorias especiais sem contribuição proporcional.
+  Impacto: R$ 80-100 bi/ano.
+  Custo: R$ 0 (normativo).
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+P4 — JUDICIÁRIO LENTO E DESCONEXADO
+────────────────────────────────────────────────────────────────────────────────
+DADO: Brasil tem 100 milhões de processos em tramitação (CNJ).
+      Tempo médio de tramitação: 5 anos (1ª instância + 2ª instância).
+      80 milhões de brasileiros não têm acesso à justiça (Defensoria Pública).
+      Conselhos de Justiça com baixa efetividade fiscalizatória.
+FONTE: CNJ (Justiça em Números), ANADEP, STF.
+NÓ CRÍTICO: A lentidão é ARMA — quem pode pagar advogado vence por desgaste.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Resolução CNJ: meta 90% de processos conclusos em 2 anos.
+  M1 — Inteligência Artificial para triagem automatizada (já piloto CNJ).
+  M3 — Criação de 1.000 varas especializadas em causas de massa.
+  Impacto: Tempo médio 5 → 2 anos (100M processos resolvidos).
+  Custo: R$ 10 bi/ano (varas + tecnologia).
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+P5 — CORRUPÇÃO SISTÊMICA E IMPUNIDADE
+────────────────────────────────────────────────────────────────────────────────
+DADO: Brasil perde R$ 100-200 bi/ano com corrupção (FIESP).
+      IPC Transparency International 2024: 34 pontos / 107ª posição (PIOR da série
+      histórica desde 2012). 2025: 35 pontos / 107ª de 182 países.
+      PEC da Blindagem (PEC 3/2021): aprovada na Câmara (set/2025) mas REJEITADA por
+      unanimidade na CCJ do Senado — arquivada. Lava Jato recuperou R$ 15 bi.
+FONTE: Transparency International IPC 2024/2025, FIESP, CGU, MPF, TCU, STF.
+NÓ CRÍTICO: Impunidade é sistêmica — a Lava Jato mostrou que quando há
+      punição, a corrupção cai. Mas o sistema se regenerou.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Recriação de força-tarefa anticorrupção com autonomia constitucional.
+  M3 — Lei de Confisco de Bens (expropriação sem indenização por corrupção).
+  M2 — ADPF exigindo julgamento em prazo razoável (art. 5º, LXXVIII, CF).
+  Impacto: R$ 100 bi/ano recuperados.
+  Custo: R$ 5 bi/ano (força-tarefa + tecnologia).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+P6 — MILICIAS E CRIME ORGANIZADO INSTITUCIONALIZADO
+────────────────────────────────────────────────────────────────────────────────
+DADO: Milícias controlam 60% das favelas do Rio de Janeiro (ISP).
+      R$ 13,5 bilhões/ano de faturamento do crime organizado (Fórum Brasileiro
+      de Segurança Pública). Milicianos eleitos vereadores/deputados (Rio).
+FONTE: FBSP, ISP-Rio, CESeC.
+NÓ CRÍTICO: A milícia é PARTE DO ESTADO — tem vereadores, deputados, policiais.
+MEDIDA DE ALTO IMPACTO:
+  M2 — ADPF ao STF para intervenção federal em estados com milicianos eleitos.
+  M3 — Lei Antimilícia:Crime Hediondo + confisco de bens + inelegibilidade.
+  M1 — Força-tarefa federal anticorrupção-miliciana (DICOI-PR/F).
+  Impacto: Desmantelamento de 70% das milícias em 5 anos.
+  Custo: R$ 8 bi/ano (operação + inteligência).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+P7 — FEDERALISMO DESCOORDENADO E GUERRA FISCAL
+────────────────────────────────────────────────────────────────────────────────
+DADO: 27 estados com 27 legislações tributárias diferentes. Guerra fiscal entre
+      estados (redução de ICMS para atrair empresas): R$ 30 bi/ano em renúncia.
+      Desigualdade regional extrema: SP tem PIB per capita 4x maior que PI.
+FONTE: CNF, IBGE, Confaz.
+NÓ CRÍTICO: A guerra fiscal beneficia estados ricos e penaliza pobres.
+MEDIDA DE ALTO IMPACTO:
+  M3 — EC extinguindo guerra fiscal (unificação de ICMS com IBS — EC 132/2023).
+  M1 — Fundo de Equalização Regional (FER): redist. baseada em need.
+  Impacto: R$ 30 bi/ano + convergência regional.
+  Custo: R$ 0 (normativo).
+  SCORE: 3/5
+
+================================================================================
+CLASSE 3 — SOCIAL (8 PROBLEMAS)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+S1 — HOMICÍDIOS EM MASSA (42.590/ano)
+────────────────────────────────────────────────────────────────────────────────
+DADO: 42.590 homicídios em 2024 (queda 7,4% vs 2023, Atlas da Violência 2026).
+      77% das vítimas negras. 91% homens, 50% 15-29 anos. Letalidade policial: 6.243
+      mortes em intervenções (FBSP 2024, -3,1%). Série 2014-2024: 60.394 vítimas.
+      Elucidação: ~10%. 78,9% das vítimas de letalidade policial são negras.
+FONTE: Atlas da Violência 2026 (Ipea/FBSP), FBSP 19º Anuário (2025).
+NÓ CRÍTICO: Impunidade (90% não elucidados) é o nó mestre.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Grupo de Análise de Homicídios (GAH) em cidades >500 mil.
+       Meta: elucidação >50% em 4 anos (modelo Filadélfia, -60%).
+  M1 — Desarmamento ativo: compra de armas + anistia (modelo Austrália, -59%).
+  M3 — Reforma policial: PM → polícia comunitária cíclica.
+  Impacto: -50% homicídios (21 mil vidas/ano).
+  Custo: R$ 15 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+S2 — FOME E INSEGURANÇA ALIMENTAR
+────────────────────────────────────────────────────────────────────────────────
+DADO: 6,48 milhões de brasileiros em insegurança alimentar grave/fome (PNAD 2024,
+      menor da série histórica desde 2012, -23% vs 2023). 54,7 milhões em IA total
+      (leve+moderada+grave, 24,2% dos domicílios). Pico histórico: 33 milhões (2022).
+      Brasil retornou ao Mapa da Fome da FAO em 2022, saiu parcialmente em 2024.
+FONTE: IBGE — PNAD Contínua Suplemento Segurança Alimentar 2024 (divulgado out/2025).
+NÓ CRÍTICO: Fome é PRODUTO DA DESIGUALDADE, não de escassez.
+      Brasil produz alimentos para 1 bilhão de pessoas mas 33 milhões passam fome.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Ampliação do Auxílio Brasil/Minha Casa Melhor (renda + alimentação).
+  M1 — Programa Nacional de Alimentação Escolar (PNAE): 100% cobertura.
+  M3 — Reforma Agrária: assentamento de 100 mil famílias (Consea).
+  Impacto: Erradicação da fome (0 pessoas em IA grave).
+  Custo: R$ 30 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+S3 — SAÚDE PÚBLICA SUBFINANCIADA (SUS)
+────────────────────────────────────────────────────────────────────────────────
+DADO: Brasil gasta 4% do PIB em saúde (OCDE: 9%). SUS atende 75% da população.
+      IFI/Senado (2025) confirma "crônico subfinanciamento": projeção de necessidade
+      de expansão 3,9% a.a. vs limite do arcabouço fiscal 2,5% a.a. → conflito fiscal
+      projetado a partir de 2026. Filas: 1,5 milhões em cirurgia eletiva (CNJ).
+FONTE: IFI/Senado (Estudo Casalecchi, jul/2025), DATASUS, CNJ, Lei 14.144/2021.
+NÓ CRÍTICO: Subfinanciamento é DECISÃO POLÍTICA, não limitação orçamentária.
+MEDIDA DE ALTO IMPACTO:
+  M3 — EC garantindo piso de 10% da RFB para SUS (EC 95/2016 não cumprida).
+  M1 — Mais Médicos reativado + ampliação.
+  M4 — Telemedicina nacional + IA triagem (reduz 40% das filas).
+  Impacto: 1,5M cirurgias/ano + cobertura universal efetiva.
+  Custo: R$ 60 bi/ano (incremento).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+S4 — EDUCAÇÃO EM COLAPSO
+────────────────────────────────────────────────────────────────────────────────
+DADO: PISA 2022: Brasil 472 matemática, 476 leitura, 485 ciências (OCDE média:
+      472/476/485 — Brasil está EXATAMENTE na média em leitura, mas >50% dos alunos
+      não atingem nível mínimo em matemática/ciências). Subiu 6 posições (65º).
+      Analfabetismo: 7% (11,5 milhões). Ensino médio: evasão 23%.
+FONTE: INEP/OCDE — PISA 2022, PNAD.
+NÓ CRÍTICO: Educação é a ALAVANCA MAIS PODEROSA para quebrar todos os outros
+      ciclos. Mas o investimento caiu 38% em 10 anos (teto de gastos EC 95).
+MEDIDA DE ALTO IMPACTO:
+  M3 — EC revogando o teto de gastos para educação (10% PIB).
+  M1 — Programa Nacional de Literacia (crítica leitura 2 ano).
+  M3 — Valorização docente: salário inicial 1 SM por hora-aula.
+  Impacto: PISA +50 pontos em 10 anos (Chile conseguiu).
+  Custo: R$ 50 bi/ano (incremento).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+S5 — HABITAÇÃO E DÉFICIT IMOBILIÁRIO
+────────────────────────────────────────────────────────────────────────────────
+DADO: Déficit habitacional: 5,8 milhões de domicílios (Fundação João Pinheiro).
+      16 milhões moram em favelas ou habitação inadequada.
+      Minha Casa Minha Vida: 4,8 milhões de unidades entregues (2009-2024).
+FONTE: FJP, IBGE, MCidades.
+NÓ CRÍTICO: O déficit alimenta favelização, ocupação irregular, violência.
+MEDIDA DE ALTO IMPACTO:
+  M1 — MCMV revisão: subsídio 100% para famílias até R$ 2.640.
+  M3 — Reforma Urbana: instrumentos do Estatuto da Cidade (LEI 10.257/2001).
+  M1 — Regularização fundiária urbana (REURB) em massa.
+  Impacto: Zerar déficit em 10 anos (580 mil unidades/ano).
+  Custo: R$ 40 bi/ano.
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+S6 — DESIGUALDADE DE RENDA (GINI)
+────────────────────────────────────────────────────────────────────────────────
+DADO: Gini Brasil: 0,506 (2024 — MENOR da série histórica PNAD desde 2012).
+      Melhora de -0,038 vs 2021 (0,544). Mas: 10% mais ricos têm 13,4x a renda dos
+      40% mais pobres. Rendimento médio domiciliar per capita: R$ 2.020 (recorde, +4,7%).
+      Quase 4 milhões em extrema pobreza.
+FONTE: IBGE — PNAD Contínua Renda 2024, Banco Mundial, Oxfam.
+NÓ CRÍTICO: Desigualdade é VETOR de todos os outros problemas.
+      Gini mais baixo = menos homicídios, menos fome, mais educação.
+MEDIDA DE ALTO IMPACTO:
+  M3 — Reforma Tributária progressiva (IR até 45% para rendas >R$ 30 mil/mês).
+  M1 — Renda Básica de Cidadania (progressiva: começar com 10M famílias).
+  M1 — Imposto sobre Grandes Fortunas (IGF) — já previsto na CF (art. 153, § 6º).
+  Impacto: Gini 0,518 → 0,45 em 10 anos.
+  Custo: R$ 50 bi/ano (transferência) — financiado por IR+IGF.
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+S7 — NEGLIGENCIAÇÃO E SEGURANÇA PÚBLICA
+────────────────────────────────────────────────────────────────────────────────
+DADO: Brasil gasta 1,8% do PIB em segurança (OCDE: 1,7%). 6.243 mortes em intervenções
+      policiais em 2024 (-3,1% vs 2023, FBSP). 78,9% das vítimas negras. Série 2014-2024:
+      60.394 vítimas de letalidade policial. Encarceramento: 905.316 pessoas sob sanções
+      penais (2º sem 2024, SENAPPEN) — 3ª maior do mundo. 40% presos provisórios.
+FONTE: FBSP 19º Anuário (2025), SENAPPEN/SISDEPEN 17º Ciclo (2024), Atlas Ipea/FBSP.
+NÓ CRÍTICO: A polícia mata porque tem licença para matar. A estrutura militarizada
+      (PM) foi criada em 1831 para reprimir escravos. Nunca foi reformada.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Câmeras corporativas obrigatórias (reduz 60% letalidade, modelo Oakland).
+  M3 — Extinção da PM + criação de Polícia Comunitária Cíclica.
+  M1 — Investigação externa de mortes por policial (Ministério Público).
+  Impacto: -50% letalidade policial (3.100 vidas/ano).
+  Custo: R$ 8 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+S8 — ENCARCERAMENTO EM MASSA
+────────────────────────────────────────────────────────────────────────────────
+DADO: 905.316 pessoas sob sanções penais (2º sem 2024 — 3ª maior do mundo).
+      674 mil em celas físicas + 235 mil em domiciliar. Déficit: 174.436 vagas.
+      ~40% presos provisórios (~183.806 pessoas). 28% por tráfico (Lei 11.343).
+      Custo: R$ 2.800/preso/mês = R$ 28 bi/ano.
+FONTE: SENAPPEN/SISDEPEN 17º Ciclo (2024), CNJ, MJ.
+NÓ CRÍTICO: Encarceramento em massa é ESCOLA DO CRIME — 70% reincidem.
+MEDIDA DE ALTO IMPACTO:
+  M2 — STF Tema 551: prisão como última ratio (reduz 100-150 mil presos provis.).
+  M3 — Despenalização do usuário de drogas (Lei 11.343 revisão).
+  M1 — Justiça Restaurativa nacional (causas sem violência).
+  Impacto: 821k → 500k em 5 anos (-39%).
+  Custo: R$ 5 bi/ano (programas alternativos) — poupança: R$ 10 bi/ano.
+  SCORE: 5/5
+
+================================================================================
+CLASSE 4 — DIREITOS HUMANOS (6 PROBLEMAS)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+H1 — TRABALHO ESCRAVO CONTEMPORÂNEO
+────────────────────────────────────────────────────────────────────────────────
+DADO: 65.598 resgatados em 30 anos. 2.772 em 2025 (68% urbano). 83% pretos/pardos.
+      Lista Suja: 745+ empregadores. Déficit: 2.700 auditores vs. OIT.
+FONTE: MTE/SIT, OIT, Observatório Digital, Repórter Brasil.
+      (Dossiê completo: TEIA-2026-105)
+NÓ CRÍTICO: Terceirização como blindagem + captura regulatória (caso JBS Aves).
+MEDIDA DE ALTO IMPACTO:
+  M1 — Responsabilização solidária obrigatória (contratante final na Lista Suja).
+  M1 — Lista Suja digital com API + interligação bancária (crédito cortado).
+  M3 — Aplicação efetiva da EC 81/2014 (expropriação sem indenização).
+  Impacto: Reescravização 1,73% → <0,5%. Zero impunidade em captura.
+  Custo: R$ 380 bi (TEIA-105 completo).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+H2 — RACISMO ESTRUTURAL
+────────────────────────────────────────────────────────────────────────────────
+DADO: Negros têm 2,4x mais chance de ser assassinados (Atlas 2026).
+      75% das vítimas de letalidade policial são negras.
+      Renda média negra: R$ 1.815 (brancos: R$ 3.810 — diferença de 110%).
+      Desemprego negro: 11,5% (branco: 6,8%).
+FONTE: IBGE, Atlas Ipea/FBSP, OIT.
+NÓ CRÍTICO: Racismo é VETOR transversal — aparece em todos os outros problemas.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Cotas raciais no serviço público federal ampliadas (já em universidades).
+  M3 — Lei de Igualdade Salarial (raça + gênero) com multa de 10x a diferença.
+  M1 — Ações afirmativas em compras governamentais (40% de empresas negras).
+  Impacto: Redução de 50% da desigualdade racial de renda em 10 anos.
+  Custo: R$ 0 (normativo).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+H3 — VIOLÊNCIA CONTRA MULHERES
+────────────────────────────────────────────────────────────────────────────────
+DADO: Feminicídio: 1.463 vítimas em 2024 (Atlas). 60% por arma branca.
+      1 mulher estuprada a cada 10 minutos (Fórum Brasileiro de SP).
+      Lei Maria da Penha: 18 anos, mas apenas 10% dos agressores punidos.
+FONTE: FBSP, Atlas, MJ, Sengegender Observatório.
+NÓ CRÍTICO: Impunidade + machismo estrutural.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Tribunais de Violência Doméstica especializados em cada município.
+  M3 — Monitoração eletrônica obrigatória para agressores reincidentes.
+  M1 — Programa Homens Pela Igualdade (re-educação de agressores).
+  Impacto: -50% feminicídios em 5 anos.
+  Custo: R$ 5 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+H4 — DIREITOS DA CRIANÇA E DO ADOLESCENTE
+────────────────────────────────────────────────────────────────────────────────
+DADO: 1.271 crianças e adolescentes assassinados em 2024 (Atlas).
+      Trabalho infantil: 1,9 milhão (PNAD). 4.500 crianças em situação de rua.
+      ECA (Lei 8.069/1990) pouco aplicado. Conselhos Tutelares subfinanciados.
+FONTE: FBSP, IBGE, MPF, SDH.
+NÓ CRÍTICO: O ECA existe mas não é prioridade orçamentária.
+MEDIDA DE ALTO IMPACTO:
+  M3 — Emenda Constitucional: 10% orçamento federal para infância.
+  M1 — Fortalecimento dos Conselhos Tutelares (orçamento + capacitação).
+  M1 — Programa Bolsa-Família condicionado a frequência escolar.
+  Impacto: Erradicação do trabalho infantil. -50% homicídios de crianças.
+  Custo: R$ 20 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+H5 — DIREITOS INDÍGENAS E QUILOMBOLAS
+────────────────────────────────────────────────────────────────────────────────
+DADO: 1,7 milhão de indígenas (0,8% da população). 305 etnias.
+      Conflitos por terra: 1.417 processos na Justiça (CPT 2024).
+      274 indígenas assassinados em 2023 (CPT). Demarcação: apenas 50% das
+      terras identificadas estão regularizadas. Marco Temporal (Lei 14.701/2023)
+      declarado inconstitucional pelo STF (2024).
+FONTE: Funai, CPT, ISA, STF.
+NÓ CRÍTICO: O racismo contra indígenas é legalizado (Marco Temporal).
+MEDIDA DE ALTO IMPACTO:
+  M2 — STF Reafirmação da inconstitucionalidade do Marco Temporal.
+  M1 — Aceleração das demarcações (30 por ano até 2030).
+  M3 — Ratificação da Convenção 169 da OIT (consulta prévia).
+  Impacto: Regularização de 100% das terras indígenas em 5 anos.
+  Custo: R$ 3 bi/ano (demarcação + proteção).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+H6 — DIREITOS LGBTQIA+
+────────────────────────────────────────────────────────────────────────────────
+DADO: 273 pessoas LGBTQIA+ assassinadas em 2024 (Grupo Gay da Bahia).
+      70% são pessoas trans. Brasil é o país que mais mata travestis e transexuais
+      no mundo (Transgender Europe). Taxa de vida de pessoa trans: 35 anos.
+FONTE: GGB, Antra, TGEU.
+NÓ CRÍTICO: LGBTfobia não é classificada como crime hediondo.
+MEDIDA DE ALTO IMPACTO:
+  M3 — Lei classificando LGBTfobia como crime hediondo.
+  M3 — Lei de Identidade de Gênero (autonomia para retificação de registro).
+  M1 — Casas de Acolhimento LGBTQIA+ (100 cidades).
+  Impacto: -50% assassinatos LGBTQIA+ em 5 anos.
+  Custo: R$ 2 bi/ano.
+  SCORE: 4/5
+
+================================================================================
+CLASSE 5 — AMBIENTAL (6 PROBLEMAS)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+A1 — DESMATAMENTO DA AMAZÔNIA
+────────────────────────────────────────────────────────────────────────────────
+DADO: Amazônia: 6.288 km² desmatados em 2024 (PRODES INPE — queda -30,6% vs 2023).
+      Cerrado: 8.174 km² (-25,7%, 1ª queda em 4 anos, mas Cerrado lidera 52,5% das perdas).
+      MapBiomas RAD 2024: desmatamento total Brasil -32,4%. Meta: zero desmatamento
+      ilegal até 2028. 60% para pecuária.
+FONTE: INPE PRODES (ago/2023-jul/2024), MapBiomas RAD 2024, IBAMA, MMA.
+NÓ CRÍTICO: O desmatamento está conectado à cadeia da carne exportada (JBS).
+MEDIDA DE ALTO IMPACTO:
+  M1 — Rastreamento obrigatório de gado (de fazenda → frigorífico → exportação).
+  M3 — Confisco de terras desmatadas ilegalmente (Decreto 9.985/2019 ampliado).
+  M1 — Pagamento por Serviços Ambientais (PSA) para quem preserva.
+  Impacto: -80% desmatamento em 5 anos.
+  Custo: R$ 10 bi/ano (fiscalização + PSA).
+  SCORE: 5/5
+
+────────────────────────────────────────────────────────────────────────────────
+A2 — MUDANÇAS CLIMÁTICAS E EMISSÕES
+────────────────────────────────────────────────────────────────────────────────
+DADO: Brasil emitiu 2,145 GtCO2e em 2024 (queda recorde -16,7% vs 2023, menor nível
+      desde 2009, SEEG 13). 75% das emissões vêm de desmatamento + agropecuária.
+      Meta NDC 2025: -48% vs 2005 (provavelmente NÃO cumprida). Meta 2035: -59% a -67%.
+      COP30 realizada em Belém (nov/2025).
+FONTE: SEEG 13 / Observatório do Clima, NDC Brasil, MCTI.
+NÓ CRÍTICO: O Brasil pode ser líder em energia limpa mas escolhe não ser.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Carbon Pricing nacional (R$ 50/tonCO2 para emissores >25kt).
+  M3 — Lei de Transição Energética (meta 100% renovável até 2040).
+  M1 — Linha BNDES Verde (financiamento 2% abaixo da TJLP para renováveis).
+  Impacto: -50% emissões em 10 anos.
+  Custo: R$ 15 bi/ano.
+  SCORE: 4/5
+
+────────────────────────────────────────────────────────────────────────────────
+A3 — SANEAMENTO BÁSICO
+────────────────────────────────────────────────────────────────────────────────
+DADO: 84,9% da população com água tratada (15,1% sem = ~32 milhões).
+      ~50% sem coleta/tratamento de esgoto (~105 milhões). Perda de água: 37,78%.
+      Investimento necessário universalização até 2033: R$ 551 bilhões.
+      Norte recebeu apenas 4,7% dos investimentos 2020-2024. Marco (Lei 14.026/2020).
+FONTE: SNIS 2024 (base 2022), Instituto Trata Brasil, MS.
+NÓ CRÍTICO: O Marco do Saneamento privatiza mas não garante universalização.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Programa Nacional de Saneamento (R$ 50 bi/ano em investimento).
+  M3 — Regulação rigorosa da ANA (multas por não cumprimento de metas).
+  M1 — Saneamento comunitário em favelas (solução descentralizada).
+  Impacto: Universalização até 2033 (35M com água + 100M com esgoto).
+  Custo: R$ 50 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────.......................─
+A4 — CONTAMINAÇÃO POR AGROTÓXICOS
+────────────────────────────────────────.......................─
+DADO: Brasil é MAIOR consumidor de agrotóxicos do mundo (720 mil ton/ano).
+      ANVISA: 30% dos alimentos têm resíduos acima do limite.
+      7 bilhões de litros de veneno aplicados/ano. Câncer em regiões agrícolas
+      3x maior (Sindiagro).
+FONTE: IBAMA, ANVISA, Sindiagro, INCA.
+NÓ CRÍTICO: O lobby agroquímico financiou mais de 200 parlamentares.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Banimento de glifosato + 30 ingredientes ativos cancerígenos (ANVISA).
+  M3 — Lei de Agroecologia (incentivo fiscal para agricultura orgânica).
+  M1 — Monitoramento de resíduos em alimentos (ANVISA ampliado).
+  Impacto: -70% uso de agrotóxicos em 10 anos.
+  Custo: R$ 3 bi/ano (transição).
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+A5 — PERDA DE BIODIVERSIDADE
+────────────────────────────────────────.......................─
+DADO: Brasil é o país mais biodiverso do mundo (20% das espécies).
+      1.173 espécies ameaçadas de extinção (MMA). Cerrado: 50% desmatado.
+      Biomas: Amazônia (loss acelerada), Mata Atlântica (12% original), Caatinga
+      (53%), Pantanal (incêndios 2020: 30% queimado).
+FONTE: MMA, ICMBio, SOS Mata Atlântica.
+NÓ CRÍTICO: Biodiversidade é ativo econômico (biotecnologia, fármacos, turismo).
+MEDIDA DE ALTO IMPACTO:
+  M1 — Expandir UCs (Unidades de Conservação) para 25% do território.
+  M3 — Lei de Pagamento por Serviços Ecossistêmicos (PSE).
+  M1 — Corredores Ecológicos conectando UCs.
+  Impacto: Reversão de 50% das espécies ameaçadas.
+  Custo: R$ 5 bi/ano.
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+A6 — RESÍDUOS SÓLIDOS E POLUIÇÃO
+────────────────────────────────────────.......................─
+DADO: Brasil gera 82 milhões de toneladas de resíduos/ano (ABRELPE).
+      40% vai para lixões (ilegais desde 2010). Reciclagem: apenas 4%.
+      8 milhões de catadores em condições precárias.
+FONTE: ABRELPE, MMA, SNIS.
+NÓ CRÍTICO: Lei de Resíduos Sólidos (12.305/2010) não cumprida.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Erradicação de lixões até 2028 (substituição por aterros sanitários).
+  M3 — Logística Reversa obrigatória para todos os setores.
+  M1 — Inclusão socioeconômica de catadores (cooperativas formalizadas).
+  Impacto: 100% resíduos para aterro + reciclagem 4% → 25%.
+  Custo: R$ 8 bi/ano.
+  SCORE: 4/5
+
+================================================================================
+CLASSE 6 — TECNOLÓGICA (5 PROBLEMAS)
+================================================================================
+
+────────────────────────────────────────.......................─
+T1 — DEPENDÊNCIA DE BIG TECH
+────────────────────────────────────────.......................─
+DADO: Google, Meta, Amazon, Microsoft = 85% do tráfego digital brasileiro.
+      Brasil exportou US$ 15 bi em royalties de software em 2024 (para EUA).
+      Zero soberania em: nuvem (AWS/Azure), busca (Google), redes (Meta).
+      Concentração de dados: 100% dos dados de brasileiros em servidores EUA.
+FONTE: NIC.br, LACNIC, TIC Domicílios, BCB.
+NÓ CRÍTICO: Dependência digital = soberania comprometida.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Data Soberana: servidores governamentais 100% nacionais.
+  M3 — Lei de Soberania Digital (dados de brasileiros devem ficar no Brasil).
+  M1 — Apoio a tecnologia nacional (Linux gov, Serpro, Dataprev).
+  Impacto: Recuperação de US$ 5-10 bi/ano em royalties.
+  Custo: R$ 5 bi/ano (infra).
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+T2 — EXCLUSÃO DIGITAL
+────────────────────────────────────────.......................─
+DADO: 90,5% da população (10+) com acesso à internet em 2025 (PNAD TIC/IBGE).
+      ~20 milhões ainda sem acesso. Crescimento: 66% (2016) → 90,5% (2025).
+      Mas: desigualdade de QUALIDADE persiste (rural vs urbano = "inclusão pela metade").
+FONTE: PNAD TIC/IBGE 2025, Cetic.br/NIC.br.
+NÓ CRÍTICO: Exclusão digital = exclusão cidadã (saúde, educação, direitos).
+MEDIDA DE ALTO IMPACTO:
+  M1 — Internet para Todos: 5G em 100% dos municípios até 2028.
+  M1 — Computador para cada estudante de escola pública (1 para 1).
+  M1 — Telecentros comunitários em todas as favelas.
+  Impacto: 0 brasileiros sem acesso à internet.
+  Custo: R$ 20 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────.......................─
+T3 — VIGILÂNCIA E DADOS PESSOAIS
+────────────────────────────────────────.......................─
+DADO: LGPD (Lei 13.709/2018) promulgada mas ANPD sem estrutura.
+      12 milhões de brasileiros tiveram dados vazados em 2024 (PSafe).
+      Big Tech coleta dados sem consentimento real (termos obscuros).
+      Câmeras com reconhecimento facial em 40 cidades sem regulação.
+FONTE: ANPD, PSafe, Open Data Security, CGI.br.
+NÓ CRÍTICO: A LGPD existe mas não é fiscalizada com vigor.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Fortalecimento da ANPD (orçamento + autonomia + multas reais).
+  M3 — Lei de Inteligência Artificial (transparência + accountability).
+  M1 — Proibição de reconhecimento facial em espaço público (exceto com mandado).
+  Impacto: Proteção efetiva de dados de 210 milhões de brasileiros.
+  Custo: R$ 2 bi/ano (ANPD).
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+T4 — BAIXO INVESTIMENTO EM P&D
+────────────────────────────────────────.......................─
+DADO: Brasil investe 1,14-1,21% do PIB em P&D (2021, MCTI). OCDE: 2,7%.
+      Israel: 6,35%. Coreia do Sul: 4,96%. Gap: ~1,5 p.p. do PIB.
+      PINTEC relançada em maio/2026 após quase 10 anos sem edição regular.
+      Fuga de cérebros: 200 mil pesquisadores brasileiros no exterior.
+FONTE: MCTI/FAPESP (2021), OCDE MSTI (2023).
+NÓ CRÍTICO: Sem P&D não há soberania tecnológica.
+MEDIDA DE ALTO IMPACTO:
+  M3 — EC garantindo 2% do PIB para P&D (setor público + privado).
+  M1 — Incentivo fiscal de 100% para P&D empresarial (já existe Lei do Bem).
+  M1 — Programa Repatriação de Talentos (bolsa + infra para retornar).
+  Impacto: P&D 1,2% → 2,5% em 10 anos (50 mil novos pesquisadores).
+  Custo: R$ 25 bi/ano (incremento).
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+T5 — DESINFORMAÇÃO E ÓDIO ONLINE
+────────────────────────────────────────.......................─
+DADO: Brasil: 68% da população exposta a fake news (Reuters Institute 2024).
+      8 de cada 10 brasileiros consomem notícias via WhatsApp/YouTube.
+      Eleições 2022: 200+ peças de desinformação viralizadas (TSE).
+      Intolerância online cresceu 40% pós-2018 (Pew Research).
+FONTE: TSE, Reuters Institute, Pew Research, Ipsos.
+NÓ CRÍTICO: Plataformas lucram com engajamento (raiva = cliques).
+MEDIDA DE ALTO IMPACTO:
+  M3 — Marco Civil da Internet revisado (responsabilidade de plataformas).
+  M1 — Literacia midiática no currículo escolar (1º ao 12º ano).
+  M2 — STF jurisprudência sobre responsabilidade de plataformas (ADPF 735).
+  Impacto: -50% exposição a desinformação.
+  Custo: R$ 3 bi/ano (educação midiática).
+  SCORE: 4/5
+
+================================================================================
+CLASSE 7 — INFRAESTRUTURA (5 PROBLEMAS)
+================================================================================
+
+────────────────────────────────────────.......................─
+I1 — INFRAESTRUTURA DE TRANSPORTE DEFICIENTE
+────────────────────────────────────────.......................─
+DADO: Rodovias: CNT avaliou 111.853 km (2024) — apenas 26,6% ótimo/bom, 26,6% ruim/péssimo.
+      Custo recuperação: R$ 9,97 bi. Ferrovias: 30 mil km (EUA: 250 mil), ~25% do transporte
+      (meta: 32%). Custo logístico: 12% PIB (vs 8% OCDE). Rodovias: 61% da carga.
+FONTE: CNT (Pesquisa Rodoviária 2024), ANTF, ANTT, World Bank LPI.
+NÓ CRÍTICO: Monopólio rodoviário = custo cascata em toda a economia.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Plano Nacional Ferroviário (nova malha 25 mil km em 15 anos).
+  M3 — Reforma Portuária (autonomia das autoridades portuárias).
+  M1 — Hidrovias: aproveitamento de 14 mil km navegáveis subutilizados.
+  Impacto: Custo logístico 12% → 8% = R$ 350 bi/ano.
+  Custo: R$ 20 bi/ano.
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+I2 — ENERGIA E SOBERANIA ENERGÉTICA
+────────────────────────────────────────.......................─
+DADO: Matriz elétrica: 88,2% renovável (2024, EPE/BEN 2025). Eólica+solar: 24%.
+      Oferta Interna de Energia: 49,1% renovável (2023). Tarifas entre as mais caras
+      do mundo para o consumidor. Nióbio: Brasil tem 94% das reservas / 90% da produção
+      mundial. Lítio: 95% das reservas em MG.
+FONTE: EPE/BEN 2025 (MME), ANM, USGS, ANEEL.
+NÓ CRÍTICO: O Brasil é potência energética mas o cidadão paga caro.
+MEDIDA DE ALTO IMPACTO:
+  M1 — Nacionalização do lítio (indústria de baterias no Brasil).
+  M3 — Lei de Soberania de Minerais Estratégicos (proibição exportação bruta).
+  M1 — Geração distribuída (solar) para 5 milhões de lares (subsídio).
+  Impacto: Soberania energética + bateria nacional + tarifa -30%.
+  Custo: R$ 15 bi/ano.
+  SCORE: 5/5
+
+────────────────────────────────────────.......................─
+I3 — CONECTIVIDADE E TELECOMUNICAÇÕES
+────────────────────────────────────────.......................─
+DADO: 5G presente em 30% dos municípios (2025). 28 milhões sem internet.
+      Banda larga fixa: 45 milhões de acessos (penetração 65%).
+      Concentração: 3 operadoras (Vivo, Claro, TIM) = 95% do mercado.
+FONTE: ANATEL, CGI.br, NIC.br.
+NÓ CRÍTICO: Monopólio oligopolista + falta de cobertura rural.
+MEDIDA DE ALTO IMPACTO:
+  M1 — 5G rural subsidiado (Fundo Universal).
+  M3 — Quebra do oligopólio (entrada de 2+ operadoras nacionais).
+  M1 — Internet pública gratuita (Wi-Fi em praças/ escolas / UBSs).
+  Impacto: 100% dos municípios com 5G + 0 sem internet.
+  Custo: R$ 10 bi/ano.
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+I4 — HABITAÇÃO E URBANISMO
+────────────────────────────────────────.......................─
+DADO: Déficit: 5,8 milhões de moradias (Fundação João Pinheiro).
+      16 milhões em favelas. 8% da população urbana em habitação inadequada.
+      Produção de MCMV caiu 80% (2014-2022).
+FONTE: FJP, IBGE, MCidades.
+NÓ CRÍTICO: Déficit habitacional fomenta favelização e violência.
+MEDIDA DE ALTO IMPACTO:
+  M1 — MCMV revisão (foco em faixa 0-3 salários: subsídio 100%).
+  M3 — Reforma Urbana (instrumentos do Estatuto da Cidade ativos).
+  M1 — Regularização fundiária (REURB-S) em massa.
+  Impacto: Zerar déficit em 10 anos.
+  Custo: R$ 40 bi/anno.
+  SCORE: 4/5
+
+────────────────────────────────────────.......................─
+I5 — MOBILIDADE URBANA
+────────────────────────────────────────.......................─
+DADO: Brasileiro gasta em média 1h30/dia em deslocamento (IPEA).
+      Transporte público: ônibus 75% das viagens. Metrô: apenas 8 cidades.
+      Tarifa alta: R$ 5-9 por viagem (impacta renda do trabalhador).
+      Frota: 50 milhões de veículos (congestionamento crônico).
+FONTE: ANTP, IPEA, IBGE.
+NÓ CRÍTICO: Transporte público precário = motos/carros = poluição + tempo perdido.
+MEDIDA DE ALTO IMPACTO:
+  M1 — PAV (Programa de Aceleração da Mobilidade): corredores BRT em 50 cidades.
+  M3 — EC da Mobilidade (piso de investimento 1% PIB).
+  M1 — Bilhete Único Nacional (integração intermunicipal).
+  Impacto: Tempo médio 1h30 → 45 min. Emissões -20%.
+  Custo: R$ 15 bi/ano.
+  SCORE: 4/5
+
+================================================================================
+SEÇÃO FINAL — CONSOLIDAÇÃO E PRIORIZAÇÃO
+================================================================================
+
+CUSTO TOTAL DAS 44 MEDIDAS DE ALTO IMPACTO:
+
+  Classe Econômica (7):          R$ 50 bi/ano (líquido após recuperação R$ 500+)
+  Classe Político-Institucional (7): R$ 30 bi/ano
+  Classe Social (8):              R$ 283 bi/ano
+  Classe Direitos Humanos (6):    R$ 33 bi/ano
+  Classe Ambiental (6):           R$ 91 bi/ano
+  Classe Tecnológica (5):         R$ 55 bi/ano
+  Classe Infraestrutura (5):      R$ 100 bi/ano
+  ─────────────────────────────────
+  TOTAL:                          R$ 642 bi/ano
+
+FINANCIAMENTO:
+  - R$ 200 bi: fim do custo excessivo de juros (E1+E2)
+  - R$ 100 bi: combate à corrupção (P5) e evasão fiscal (E7)
+  - R$ 80 bi: equalização previdenciária (P3)
+  - R$ 100 bi: tributação progressiva + IGF (S6)
+  - R$ 50 bi: redirecionamento de orçamento secreto (P1)
+  - R$ 80 bi: corte de subsídios a setores poluentes/financeiros
+  - R$ 30 bi: eficiência administrativa (P4)
+  ─────────────────────────────────
+  TOTAL FINANCIAMENTO: R$ 640 bi/ano ≈ CUSTO TOTAL
+
+CONCLUSÃO: AS MEDIDAS SÃO AUTOFINANCIVEIS.
+O Brasil NÃO tem problema de recurso — tem problema de ALOCAÇÃO.
+
+PRIORIZAÇÃO TEIA (por impacto/urgência):
+
+  PRIORIDADE MÁXIMA (vidas em jogo):
+    S1 Homicídios (42.590 vidas/ano)
+    S2 Fome (12,7 milhões)
+    S3 SUS subfinanciado
+    S8 Encarceramento
+    H1 Trabalho escravo
+    H3 Violência contra mulheres
+    S7 Segurança/letalidade policial
+
+  PRIORIDADE ALTA (direitos fundamentais):
+    H2 Racismo estrutural
+    H4 Direitos da criança
+    H5 Direitos indígenas
+    S4 Educação
+    S6 Desigualdade
+    A3 Saneamento
+
+  PRIORIDADE ESTRATÉGICA (alavancas econômicas):
+    E1 Juros
+    E2 Spread bancário
+    E7 Evasão fiscal offshore
+    P1 Orçamento secreto
+    P5 Corrupção sistêmica
+    T1 Soberania digital
+    I2 Soberania energética
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-106
+VERSÃO: v1.0
+CATEGORIA: 04_PLANO
+TÍTULO: Taxonomia dos Problemas Estruturais do Brasil — 44 Problemas × 7 Classes
+STATUS: PROTOCOLO_ATIVO
+DATA: JULHO/2026
+AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================

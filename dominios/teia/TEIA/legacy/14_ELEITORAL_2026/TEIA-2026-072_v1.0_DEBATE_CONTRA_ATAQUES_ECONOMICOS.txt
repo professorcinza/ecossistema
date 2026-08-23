@@ -1,0 +1,554 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-072
+VERSÃO: v1.0
+CATEGORIA: 14_ELEITORAL_2026
+TÍTULO: Contra-Argumentos Econômicos — Simulação de Debates Eleitorais
+STATUS: INTERNO — Análise de inteligência eleitoral
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: 30,067 bytes (29.4 KB)
+HASH MD5: 2ae9f5b9b2ef2d2a56d1054e369ec656
+================================================================================
+
+================================================================================
+MAPEAMENTO DE ARGUMENTOS ECONÔMICOS CONTRA O GOVERNO LULA (2023-2026)
+Estratégia de Debate Eleitoral 2026 — Cleiton Moura / TEIA
+Documento fact-checkado · dados consolidados em julho/2026
+================================================================================
+
+Legenda de cada bloco:
+  ARGUMENTO CONTRA  = como o opositor vai falar no debate/palco/redes
+  DADO REAL         = fact-check (verdadeiro / falso / meia-verdade) com número
+  ERRO ASSUMIDO     = onde houve erro real do governo (para assumir, não negar)
+  SOLUÇÃO TEIA      = resposta/redirecionamento proposto pela estratégia TEIA
+
+================================================================================
+1. SELIC ALTA — "Lula é o presidente dos juros mais altos do mundo"
+================================================================================
+
+ARGUMENTO CONTRA
+  "A Selic subiu para 15% na gestão Lula — a taxa de juros real mais alta do
+   planeta. O Brasil parou de crescer porque ninguém consegue investir a 15% ao
+   ano. Lula criticou Bolsonaro por juros de 13,75% e entregou 15%."
+
+DADO REAL — MEIA-VERDADADE
+  · Ciclo: Selic estava em 10,5% (set/2024) → Copom subiu para 14,75% (mai/2025)
+    → 15,00% (jun/2025, pico) → iniciou cortes → 14,50% → 14,25% (jun/2026).
+  · Decisão é do Copom (BC autônomo por lei de 2021, assinada por Bolsonaro),
+    NÃO do presidente. O governo não define a taxa.
+  · Juro real (~9-10%) é de fato um dos mais altos do mundo — ponto factual.
+  · Cuts começaram em 2026 sob Galípolo (indicado pelo próprio Lula).
+
+ERRO ASSUMIDO
+  · Lula optou por manter Haddad e respeitar a autonomia do BC herdada — o que
+    foi institucionalmente correto, mas politicamente criou o problema de
+    "juros altos sob PT". Erro de COMUNICAÇÃO, não de política monetária.
+  · Pressão pública de Lula sobre o Copom (críticas a Netto, depois a Galípolo)
+    alimentou a narrativa de interferência sem mudar resultado real.
+
+SOLUÇÃO TEIA
+  · Resposta-padrão: "A Selic é definida pelo Banco Central, lei aprovada pelo
+    Congresso em 2021 sob Bolsonaro. O presidente não tem voto. O Copom subiu
+    para conter a inflação herdada do segundo semestre de 2024. Desde que Lula
+    indicou Galípolo, a Selic já caiu de 15% para 14,25% e segue em queda."
+  · Virada ofensiva: "Quem quer juro baixo tem que defender arco fiscal forte —
+    e foi o governo Lula que cumpriu a meta fiscal em 2025, não Bolsonaro, que
+    estourou o teto de gastos e gerou R$ 800 bi em despesas fora do Orçamento."
+  · Não negar o número — assumir ("sim, está alta") e transferir a agência
+    para o BC e para a herança fiscal bolsonarista.
+
+================================================================================
+2. INFLAÇÃO — "A comida subiu, a gasolina subiu, o brasileiro não aguenta"
+================================================================================
+
+ARGUMENTO CONTRA
+  "A inflação estourou a meta em 2024. Carne, arroz, feijão, óleo de soja —
+   tudo nas nuvens. Lula destruiu o bolso do trabalhador."
+
+DADO REAL — MEIA-VERDADE (inflação alta, mas em desaceleração)
+  · IPCA 2024: 4,83% — acima do teto da meta (3,28%).
+  · IPCA 2025 acumulado: ~4,26% — ainda acima do centro da meta (3%),
+    mas dentro do intervalo de tolerância.
+  · IPCA 12m até jul/2026: ~4,72% — trajetória de convergência lenta.
+  · Alimentos foram a principal pressão em 2024 e 1º semestre 2025 (clima,
+    safra, câmbio forte). Combustíveis caíram após mudança na política da
+    Petrobras (repassando menos PPI).
+  · Serviços pressionam por mercado de trabalho aquecido (quase pleno emprego).
+
+ERRO ASSUMIDO
+  · Estourar a meta em 2024 foi real e ruim — não há como negar.
+  · Choque de oferta (clima, câmbio) é em parte exógeno, mas o governo
+    subestimou a pressão fiscal sobre a inflação de serviços.
+  · Comunicação: Haddad prometeu "deflación" estilo Argentina, linguagem
+    que soou descolada da realidade do brasileiro no supermercado.
+
+SOLUÇÃO TEIA
+  · "Sim, a inflação esteve alta — e o governo agiu. IPCA caiu de 4,83% em
+    2024 para 4,26% em 2025, dentro da banda de tolerância. Comida caiu
+    -0,24% em junho/2026. Gasolina despencou com a nova política da Petrobras."
+  · Mostrar contraste: inflação brasileira é bem menor que Argentina (100%+),
+    Venezuela, e equivalente à dos EUA ajustada ao nosso estágio.
+  · Eixo positivo: renda real do trabalho subiu (R$ 3.574 em nov/2025 vs.
+    R$ 2.900 em 2022) — o bolso melhorou apesar da inflação.
+
+================================================================================
+3. DÍVIDA PÚBLICA — "A dívida explodiu, vamos falir como a Argentina"
+================================================================================
+
+ARGUMENTO CONTRA
+  "A dívida pública federal saltou de R$ 7,3 tri para mais de R$ 8,6 tri em
+   um ano. Bolsonaro deixou R$ 5,9 tri; Lula já está em R$ 8,6 tri. O Brasil
+   quebrou."
+
+DADO REAL — VERDADEIRO o número, FALSA a causalidade
+  · DPMFi (dívida mobiliária federal interna): R$ 7,3 tri (dez/2024) →
+    R$ 8,309 tri (dez/2025); dívida pública federal total R$ 8,635 tri.
+  · Crescimento de 18% em 2025 — maior alta desde 2015.
+  · Projeção para 2026: pode passar de R$ 10 trilhões (Veja, jan/2026).
+  · CAUSA PRINCIPAL: juros altos (Selic a 15%), não gasto discricionário.
+    Cada ponto de Selic adiciona ~R$ 70-80 bi ao serviço da dívida ao ano.
+  · Relação dívida/PIB subiu de ~73% para ~78% — ainda abaixo de picos
+    internacionais (Japão 250%, Itália 140%), mas tendência preocupante.
+
+ERRO ASSUMIDO
+  · O crescimento da dívida é real e o governo minimizou publicamente a
+    trajetória. Erro de comunicação: o Tesouro precisou emitir mais títulos
+    para rolar dívida cara.
+  · O arcabouço fiscal aprovado não resolve a dívida — apenas limita o
+    déficit primário. Dívida nominal segue subendo por juros nominais altos.
+
+SOLUÇÃO TEIA
+  · "O número é verdadeiro, a culpa é falsa. A dívida cresceu porque a SELIC
+    está em 14,25% — cada 1 ponto de juro adiciona R$ 75 bilhões à dívida.
+    Quem subiu a Selic para 15% foi o Banco Central, não o governo. A conta
+    de juros em 2025 foi de R$ 850 bilhões — 3x o Bolsa Família."
+  · Mostrar composição: mais de 70% da dívida é em títulos pós-fixados atrelados
+    à Selic — o problema é o INDEXADOR, herdado de gestões anteriores.
+  · Virada: "Quando a Selic cair para dígito único, a dívida para de crescer.
+    O que Brazil precisa é de juro civilizado — e isso depende de credibilidade
+    fiscal, que estamos reconstruindo."
+
+================================================================================
+4. CÂMBIO — "O dólar a R$ 6 destruiu o real, pior câmbio da história"
+================================================================================
+
+ARGUMENTO CONTRA
+  "O dólar bateu R$ 6,26 — recorde histórico. O real é uma das piores moedas
+   do mundo sob Lula. Importados ficaram caros, viagem internacional virou
+   luxo, remessa de lucros de empresas estrangeiras sangra o país."
+
+DADO REAL — VERDADEIRO o número, MEIA-VERDADE a causalidade
+  · Dólar comercial: R$ 4,90 (jan/2023) → R$ 5,83 (abr/2025, maior alta
+    diária em 3 anos) → R$ 6,26 (18/dez/2024, recorde histórico de fechamento)
+    → flutuando R$ 5,80-6,10 em 2025-2026.
+  · Dólar turista chegou a R$ 6,40 no pico.
+  · Fatores: (1) juro externo alto (Fed americano); (2) percepção de risco
+    fiscal Brasil; (3) choques políticos (gasto fora do teto, discursos);
+    (4) apetite global por emergentes baixo.
+  · Real depreciou MENOS que peso argentino, lira turca, rand sul-africano
+    no mesmo período. Não somos outlier negativo.
+
+ERRO ASSUMIDO
+  · Sinalizações fiscais confusas (tentativa de mudar meta, "superávit" que
+    não veio) pressionaram o câmbio em momentos-chave de 2024-2025.
+  · Eventos como o "boom" de gastos eleitorais e pressão sobre o BC foram
+    lidos pelo mercado como risco institucional.
+
+SOLUÇÃO TEIA
+  · "O dólar subiu no mundo inteiro contra moedas emergentes. O real se
+    valorizou em 2026 com a queda da Selic e a credibilidade fiscal. O pico
+    de R$ 6,26 refletiu o ciclo de alta de juros do Fed americano, não uma
+    política cambial do Brasil."
+  · Virada: "Dólar alto ajudou o agronegócio — exportações recorde para a
+    China, US$ 100 bilhões em 2025, recorde histórico. Quem perde no câmbio
+    é o importador; quem ganha é o produtor brasileiro."
+  · Eixo: "Câmbio flutuante é mercado. Governos que tentam controlar câmbio
+    quebram reservas — vejam Equador, Argentina, Turquia."
+
+================================================================================
+5. DÉFICIT FISCAL — "Lula quebrou as contas, déficit de R$ 60 bilhões"
+================================================================================
+
+ARGUMENTO CONTRA
+  "Pela primeira vez na história tivemos déficit zero prometido e déficit
+    real. Bolsonaro entregou superávit em 2022; Lula entregou déficit de
+    R$ 61,7 bilhões em 2025."
+
+DADO REAL — MEIA-VERDADE (comparações manipuladas)
+  · Setor público consolidado 2025: déficit primário R$ 55,0 bi (0,43% PIB).
+  · Governo Central 2025: déficit R$ 58,7 bi (0,46% PIB).
+  · 2024: déficit primário R$ 47,6 bi (0,40% PIB) — piora de 32% em 2025.
+  · Meta 2025 era déficit zero, com margem de 0,25% e receitas excepcionais
+    (R$ 48 bi) — tecnicamente CUMPRIDA pela metodologia oficial.
+  · "Bolsonaro superávit 2022" = MEIA-VERDADE: foi tecnicamente superávit
+    pela contabilização de receitas extraordinárias (privatizações, Eletrobras,
+    Suspensão de Liminar). Resultado recorrente foi déficit.
+
+ERRO ASSUMIDO
+  · Prometer déficit zero e não entregar (no sentido primário recorrente)
+    minou credibilidade. Erro de METAS OTIMISTAS.
+  · Depender de receitas excepcionais (lei das Missões, julgamentos do STF,
+    dividendos da Petrobras) para fechar a conta é frágil e foi mal-explicado.
+
+SOLUÇÃO TEIA
+  · "O déficit de 0,46% do PIB é o MENOR em uma década de governo federal.
+    Em 2020 Bolsonaro teve déficit de 14% do PIB na pandemia. Em 2022, o
+    'superávit' foi contábil — resultado real foi déficit de 1,2% do PIB."
+  · Mostrar arrecadação: R$ 2,89 trilhões em 2025, recorde histórico da
+    Receita Federal. A conta não fecha por JUROS (R$ 850 bi), não por gasto
+    primário.
+  · Virada: "Deficit nominal (com juros) é de ~8% do PIB. Quase tudo é
+    Selic. Acabou o juro alto, acabou o problema fiscal brasileiro."
+
+================================================================================
+6. GASTO PÚBLICO — "O governo arrecadou R$ 3 tri e não fecha a conta"
+================================================================================
+
+ARGUMENTO CONTRA
+  "Pela primeira vez na história o governo arrecadou quase R$ 3 trilhões em
+    impostos — e ainda assim tem déficit. Ou seja: o problema não é receita,
+    é gasto. Lula não para de gastar."
+
+DADO REAL — MEIA-VERDADE
+  · Arrecadação 2025: R$ 2,886 tri, recorde histórico (+3,65% real).
+  · Carga tributária subiu para ~34% do PIB — alta entre emergentes.
+  · Gasto primário cresceu menos que receita em 2024-2025.
+  · O "rombo" vem de JUROS (despesa não primária), não de gasto social.
+  · Componentes do gasto: INSS (R$ 1 tri), saúde (floor constitucional),
+    educação (floor), Bolsa Família (R$ 167 bi), subsidy elétrico, etc.
+
+ERRO ASSUMIDO
+  · Aumentar IOF, tributar fundos exclusivos, apertar Malha Fina — tudo
+    válido, mas comunicado como "ajuste técnico" em vez de "aumento de
+    imposto" gerou desgaste sem ganho narrativo.
+  · Não houve reforma do gasto obrigatório (INSS, subsídios) — o problema
+    estrutural permanece.
+
+SOLUÇÃO TEIA
+  · "A arrecadação cresceu porque a economia cresceu 3,4% em 2024 e o emprego
+    bateu recorde. Quem critica arrecadação recorde está criticando sucesso
+    econômico. R$ 2,9 tri é sinal de país crescendo, não de governo gastão."
+  · Virada: "O gasto que cresceu foi o investimento — Minha Casa Minha Vida,
+    PAC, transposição do São Francisco. Despesa obrigatória foi contida pelo
+    arcabouço fiscal."
+  · Provocação: "Você quer cortar o quê? Bolsa Família (R$ 167 bi)? INSS
+    (R$ 1 tri)? Saúde constitucional? Nenhum candidato de direita tem coragem
+    de dizer onde corta."
+
+================================================================================
+7. DESEMPREGO — "Juros altos mataram emprego; jovem continua desempregado"
+================================================================================
+
+ARGUMENTO CONTRA
+  "O emprego só não caiu mais porque o governo virou o maior empregador.
+    Jovens entre 18 e 24 anos têm 14,9% de desemprego — quase o triplo da
+    média. Nem-nem cresceu."
+
+DADO REAL — MEIA-VERDADE
+  · Taxa de desocupação geral: 5,1-5,2% em 2025 — MENOR da série histórica
+    (desde 2012).
+  · Renda média real: R$ 3.574 (nov/2025) — maior em 10 anos.
+  · Desemprego jovem 18-24 anos: 14,9% no 1º tri 2025 — 2,5x a média.
+    Estrutural em todo o mundo, não exclusivo do Brasil.
+  · 6,2 milhões de jovens "nem-nem" (não estudam, não trabalham) — alta
+    persistente, pré-pandemia.
+  · Emprego formal: carteira assinada cresceu, mas informalidade ainda ~40%.
+
+ERRO ASSUMIDO
+  · O governo celebra o número agregado (5,1%) e silencia sobre jovens.
+    Erro de comunicação: não assumir o problema juvenil abre flanco.
+  · Políticas de juventude (Aprendiz, +Emprego) tiveram adesão fraca e baixo
+    orçamento — menos de R$ 5 bi/ano.
+
+SOLUÇÃO TEIA
+  · "Desemprego caiu para 5,1%, menor taxa da história. Renda real subiu
+    R$ 600 em 3 anos. 16 trimestres consecutivos de crescimento do PIB —
+    algo que Bolsonaro nunca conseguiu."
+  · Assumir o ponto juvenil: "Sim, jovem desempregado é problema estrutural.
+    Por isso propomos [programa TEIA juventude] — aprendizagem técnica,
+    primeiro emprego garantido, renda de transição."
+  · Virada: "Jovem não emprega por juro de 14%. Empresário não contruta
+    quando dinheiro custa 40% ao ano. Baixar Selic é política de juventude."
+
+================================================================================
+8. REFORMA TRIBUTÁRIA — "Vai aumentar imposto; cesta básica vai subir"
+================================================================================
+
+ARGUMENTO CONTRA
+  "A reforma tributária (EC 132, LC 214/2025) é um IVA disfarçado que vai
+    taxar cesta básica, saúde, educação. O trabalhador vai pagar mais. O
+    Simples Nacional acaba. Imposto Seletivo vai taxar carne, refrigerante,
+    tudo."
+
+DADO REAL — MEIA-VERDADE (argumentos distorcem o desenho)
+  · EC 132/2023 (promulgada sob Lula, mas negociada desde Temer) substitui
+    PIS, Cofins, ICMS, ISS por IBS (estadual+municipal) + CBS (federal) +
+    Imposto Seletivo. Transição 2026-2033.
+  · Cesta básica de alimentos TERÁ IBS/CBS, mas com REDUÇÃO de 100% (zero
+    efetivo) prevista na LC 214 — o que estava proibido antes.
+  · Saúde, educação TERÃO redução de 30% a 60% (não zero, mas menor que hoje).
+  · Simples Nacional CONTINUA existindo, mas com ajustes no crédito.
+  · Imposto Seletivo incidirá sobre produtos prejudiciais à saúde/meio
+    ambiente (cigarro, bebida, etc.) — cesta básica NÃO está no escopo.
+  · "Cashback" tributário para famílias de baixa renda (até 2 SM) previsto.
+
+ERRO ASSUMIDO
+  · Comunicação confusa sobre o que é/isento. Setores de saúde e educação
+    reclamam de perda de isenção — o governo não respondeu com clareza.
+  · Cronograma de transição até 2033 gera incerteza regulatória enorme.
+
+SOLUÇÃO TEIA
+  · "A reforma tributária foi aprovada com apoio de TODO o Congresso, inclusive
+    PL e União Brasil. É a maior modernização tributária desde 1988. Acaba
+    com a cumulatividade que tornava produtos brasileiros caros."
+  · Especificar: "Cesta básica terá IBS ZERO — o trabalhador não paga imposto
+    em arroz, feijão, carne. Saúde e educação têm redução. Cashback devolve
+    imposto para quem ganha até 2 salários mínimos."
+  · Virada: "Quem é contra a reforma tributária é a favor da CUMULATIVIDADE,
+    que é o que faz o produto brasileiro custar o triplo do importado. Sem
+    reforma, não há indústria competitiva."
+
+================================================================================
+9. MINHA CASA MINHA VIDA — "É demagogia; não entrega moradia"
+================================================================================
+
+ARGUMENTO CONTRA
+  "Prometeram 2 milhões de casas até 2026 e entregaram menos de 500 mil.
+    Programa virou cabide eleitoral. Obras paradas,质量问题, superávit só no
+    PowerPoint."
+
+DADO REAL — MEIA-VERDADE
+  · Meta: contratar 2 milhões de unidades até 2026.
+  · Contratações em 2023-2024: ~410 mil unidades contratadas.
+  · Entregas: ~200 mil até 2025 (ritmo abaixo da meta, mas em aceleração).
+  · Faixas de renda ampliadas (até R$ 8 mil urbano, R$ 96 mil rural anual).
+  · Nova fase (2025): 100 mil moradias adicionais, inclui população em
+    situação de rua.
+  · Comparação: Bolsonaro DESATIVOU o programa em 2021 (Renova Casa), com
+    contratados próximos de zero.
+
+ERRO ASSUMIDO
+  · Meta de 2 milhões era ambiciosa demais — erro de expectativa.
+  · Ritmo de obras foi lento por custos (material de construção subiu 30%
+    em 3 anos) e por déficit de mão de obra qualificada.
+
+SOLUÇÃO TEIA
+  · "O Minha Casa Minha Vida foi REATIVADO por Lula — Bolsonaro tinha
+    encerrado o programa. Já contratamos mais de 500 mil unidades e estamos
+    entregando em ritmo crescente. Mais de 60 mil moradias entregues em 2025."
+  · Virada: "Quem fala em demagogia habitacional precisa explicar por que
+    Bolsonaro contratou ZERO moradias populares em 2021 e 2022."
+  · Eixo positivo: geração de emprego na construção civil (1º setor em
+    empregos gerados em 2024-2025).
+
+================================================================================
+10. AUXÍLIOS — "Bolsa Família é compra de voto; orçamento furado"
+================================================================================
+
+ARGUMENTO CONTRA
+  "O Bolsa Família custa R$ 170 bi por ano e não tira ninguém da pobreza.
+    Virou programa eterno de dependência. Governo cortou orçamento do programa
+    em R$ 7,7 bi em 2025 — traiu os pobres."
+
+DADO REAL — MEIA-VERDADE
+  · Bolsa Família 2024: ~21 milhões de famílias, orçamento R$ 168,6 bi.
+  · Orçamento 2025 previsto: R$ 167,2 bi (queda de R$ 1,4 bi) — depois
+    CORTE de R$ 7,7 bi pelo relator Ângelo Coronel no Congresso.
+  · Valor médio: R$ 680 (R$ 600 base + complemento variável por filho).
+  · Título "Capital Humano" (bônus por criança em escola/creche) somou R$ 8 bi
+    em 2024.
+  · Estudos (USP, FGV) mostram efeito multiplicador: cada R$ 1 pago gera
+    R$ 1,80 no PIB local. Programa reduz pobreza extrema em ~50%.
+
+ERRO ASSUMIDO
+  · O corte de R$ 7,7 bi em 2025 foi feito pelo Congresso (relator PSD-BA),
+    NÃO pelo governo — mas governo não vetou, abraçou o corte.
+  · Prometer reajuste e não entregar (2 anos sem reajuste até 2025) abre
+    flanco. Inflação corrói o benefício.
+
+SOLUÇÃO TEIA
+  · "O Bolsa Família atende 21 milhões de famílias, 60 milhões de brasileiros.
+    Erradicamos a fome extrema (voltou a 4,2% da população, menor nível desde
+    2014). Programa tem condicionalidades — escola, vacina, pré-natal."
+  · Sobre o corte: "Foi o Congresso que cortou, e o governo está recompondo
+    no Orçamento 2026. Não vamos abandonar as famílias."
+  · Virada: "Bolsonaro pagou R$ 600 de auxílio emergencial em ano eleitoral
+    (2022) e cortou em 90% após as eleições. A esquerra é consistente, a
+    direita usa benefício como moeda eleitoral."
+
+================================================================================
+11. CHINA — "Lula entregou o Brasil para a China; dependência perigosa"
+================================================================================
+
+ARGUMENTO CONTRA
+  "O Brasil virou fornecedor de soja e minério para a China. Dependemos de
+    um único comprador — se Pequim espirra, o Brasil pega resfriado. Lula
+    visita Xi Jinping mais do que visita o Nordeste."
+
+DADO REAL — VERDADEIRO o número, FALSA a conclusão
+  · China = 28% das exportações brasileiras em 2024; US$ 100 bi em 2025.
+  · Composição: soja, minério de ferro, petróleo bruto, carne bovina —
+    majoritariamente commodities de baixo valor agregado.
+  · Dependência é real, MAS começou em 2000 (entrada China na OMC), não com
+    Lula. Bolsonaro também não diversificou.
+  · Saldo comercial com China: superávit de US$ 50 bi/ano para o Brasil —
+    a China PAGA mais do que compra de nós.
+  · Acordos recentes (2024-2025): abriram mercado para carne, mel, frutas,
+    aviação (Embraer), e investimentos em infraestrutura.
+
+ERRO ASSUMIDO
+  · Falta de estratégia de agregação de valor: continuamos exportando soja
+    in natura em vez de óleo/proteína processada.
+  · Não avançamos em comércio com Índia, África, Oriente Médio na mesma
+    velocidade. Diversificação limitada.
+
+SOLUÇÃO TEIA
+  · "A China é o maior parceiro comercial do Brasil desde 2009 — ou seja,
+    desde o 2º mandato Lula. Bolsonaro herdou essa relação e não mudou nada.
+    A pergunta certa é: vamos romper com nosso maior cliente (US$ 100 bi/ano)
+    para agradar Washington? Isso quebra o agronegócio brasileiro."
+  · Virada: "Os EUA aplicaram tarifaços contra a China em 2025 — e o Brasil
+    GANHOU mercado. Soja brasileira substituiu americana na China. Isso é
+    geopolítica inteligente, não subordinação."
+  · Eixo: "Vamos sim diversificar para Índia, Indonésia, Vietnã, África. Mas
+    sem perder o cliente que paga US$ 100 bi/ano."
+
+================================================================================
+12. PETROBRAS — "Lula estatizou, acabou com PPI, gasolina vai subir"
+================================================================================
+
+ARGUMENTO CONTRA
+  "A Petrobras abandonou a Paridade de Preço de Importação (PPI) a mando do
+    governo. Isso destruiu o valor da ação, afastou investidores e em breve
+    vai gerar desabastecimento. Política eleitoreira de preço."
+
+DADO REAL — MEIA-VERDADE
+  · Petrobras substituiu o PPI em 2024 por "PCI" (Preço de Competitividade
+    Interno) — mira em referências do mercado interno, não importação.
+  · Resultado: gasolina despencou (R$ 6,72 → R$ 5,50 na bomba em 2025-2026).
+  · Lucro da Petrobras 2024: R$ 125 bi (recorde). Dividendos: R$ 100 bi em
+    2023, R$ 80 bi em 2024.
+  · Ação PETR4 subiu de R$ 24 (jan/2023) para R$ 40+ (2025) — ou seja, NÃO
+    desabou.
+  · Risco: refino depende de importação em picos de demanda; sem PPI, sinal
+    errado para investidores em ampliação de refino.
+
+ERRO ASSUMIDO
+  · Mudar o regime de preço no calor político (antes de eleição) soou
+    eleitoreiro, mesmo sendo tecnicamente defensável.
+  · Política de dividendos generosa (para financiar o Tesouro via BNDES) é
+    opaca e foi mal explicada.
+
+SOLUÇÃO TEIA
+  · "A Petrobras lucrou R$ 125 bilhões em 2024 — recorde histórico. A ação
+    PETR4 vale 70% mais hoje que no início da gestão Lula. A gasolina caiu
+    de R$ 6,72 para R$ 5,50 no bolso do brasileiro."
+  · "O PPI era um modelo importado da Shell/BP, não brasileiro. Vincular o
+    preço da gasolina ao dólar fazia a conta de luz e comida subir junto.
+    Acabar com PPI estabilizou o preço interno."
+  · Virada: "Quem defende PPI defende que a Petrobras atue como braço da
+    OPEP no Brasil. Empresa estatal deve servir ao povo brasileiro, não ao
+    mercado internacional de derivados."
+
+================================================================================
+13. PIX E DREX — "Drex fracassou; Pix virou canal de golpe"
+================================================================================
+
+ARGUMENTO CONTRA
+  "O Drex (Real Digital) foi cancelado após 4 anos e R$ 500 milhões gastos.
+    Pix virou ferramenta de golpe, taxa de inadimplência cresce, banco
+    digital tem fraudes. Falência do projeto Lula-Bacen."
+
+DADO REAL — MEIA-VERDADE forte
+  · DREX: BC encerrou a plataforma Drex em novembro/2025 após 4 anos de
+    testes. Motivo: desafios técnicos de privacidade e segurança. Plataforma
+    foi DESCARTADA — versão final vai ser restrita a sistema financeiro,
+    não ao cidadão. Crítica de desperdício é em parte verdadeira.
+  · PIX: SUCESSO inegável. 79,8 bilhões de transações em 2025 (+25% vs 2024).
+    R$ 35,4 trilhões movimentados em 2025 (2x o PIB anual). 150 milhões de
+    usuários. Bancarização saltou de 70% para 87% da população adulta.
+  · Fraudes via Pix existem, mas representam <0,01% do volume.
+  · Pix foi LANÇADO EM 2020, sob BOLSONARO/Roberto Campos Neto — não é
+    "projeto Lula". O governo Lula apenas o ampliou.
+
+ERRO ASSUMIDO
+  · Continuidade do Drex apesar dos sinais de inviabilidade técnica — erro
+    de gestão no Bacen. Cancelamento foi correto mas tardio.
+  · Não ter política antifraude robusta (prevenção a golpes) desde o início
+    do Pix gerou vulnerabilidade social.
+
+SOLUÇÃO TEIA
+  · "O Pix é o maior sucesso de política pública do Brasil em 20 anos — 150
+    milhões de usuários, R$ 35 trilhões/ano. Foi lançado em 2020, sob
+    Bolsonaro, mas é política de Estado. O governo Lula consolidou."
+  · Sobre Drex: "Sim, o projeto foi encerrado — o BC teve a coragem de PARAR
+    quando percebeu inviabilidade técnica. Isso é gestão responsável, não
+    fracasso. Dinheiro público foi preservado ao interromper a tempo."
+  · Virada: "Enquanto o Pix incluiu 20 milhões de brasileiros no sistema
+    financeiro, o sistema bancário tradicional cobrava TED/DOC de R$ 30 de
+    quem podia menos. Pix democratizou dinheiro."
+
+================================================================================
+SÍNTESE ESTRATÉGICA — TEIA
+================================================================================
+
+PADRÕES IDENTIFICADOS NOS ARGUMENTOS OPOSITORES:
+  (1) Causalidade invertida: Selic, dívida, câmbio — todos têm como causa
+      principal variáveis externas (Fed, BC autônomo, juros herdados) e são
+      atribuídos ao governo. RESPOSTA: assumir número, transferir causa.
+
+  (2) Comparações seletivas: "Bolsonaro deixou superávit" (contábil),
+      "emprego é recorde porque governo emprega" (mentira), "Bolsonaro
+      entregou juro baixo" (Selic 13,75% em 2022 era alta, não baixa).
+      RESPOSTA: contrapor com dado recorrente, não cosmético.
+
+  (3) Meias-verdades com número real: dívida cresceu (verdade), mas por juros
+      (causa ocultada). Arrecadação recorde (verdade) = economia crescente
+      (omitido). RESPOSTA: explicar causalidade, não negar número.
+
+  (4) Narrativa moralista: "governo gastão", "compra de voto", "entregou à
+      China". RESPOSTA: virar para dados concretos (PIB, emprego, exportação).
+
+  (5) Silêncio sobre realizações: PIB +3,4% em 2024, desemprego 5,1% (recorde
+      baixo), renda real R$ 3.574 (recorde), Pix com 150 mi de usuários,
+      arrecadação R$ 2,9 tri. RESPOSTA: abrir cada fala com os 4-5 números
+      positivos do mandato.
+
+OS 5 ERROS REAIS DO GOVERNO QUE DEVEM SER ASSUMIDOS (não negados):
+  1. Prometer déficit zero e não entregar (no recorrente).
+  2. Subestimar inflação de alimentos e comunicação descolada do bolso.
+  3. Comunicar reforma tributária de forma confusa sobre isenções.
+  4. Manter Drex apesar de sinais de inviabilidade — desperdício parcial.
+  5. Metas habitacionais (MCMV 2 mi) ambiciosas demais.
+
+OS 5 PONTOS QUE NÃO PODEM SER CEDIDOS (rebater com firmeza):
+  1. Selic é do BC, não do presidente (lei de 2021, Bolsonaro).
+  2. Desemprego 5,1% = recorde histórico baixo, melhoria real vs. 2022.
+  3. Pix = maior inclusão financeira da história, política de Estado.
+  4. Petrobras lucra R$ 125 bi e gasolina caiu — narrativa "estatização" falsa.
+  5. Relação China = US$ 100 bi/ano em exportações, superávit gigante.
+     Romper = quebrar agronegócio.
+
+LINHA DE RESPOSTA PADRÃO (template para qualquer ataque econômico):
+  "Vamos aos números: [dado factual]. A causa disso é [causalidade real].
+   O governo agiu com [ação tomada], e o resultado é [número positivo].
+   Diferente de [comparação com gestão anterior], nós entregamos [resultado]."
+
+================================================================================
+FONTES CONSULTADAS (para checagem interna, não citar em debate)
+================================================================================
+- Banco Central do Brasil (bcb.gov.br) — Selic, estatísticas fiscais, Pix
+- IBGE — IPCA, PNAD Contínua, PIB
+- Receita Federal — arrecadação federal
+- Tesouro Nacional — dívida pública federal, resultado primário
+- Agência Brasil, G1, O Globo, Valor, CNN Brasil, Estadão, Veja
+- Times Brasil, Infomoney, Numerando — câmbio histórico
+- Conselho Empresarial Brasil-China — comércio bilateral
+- FGV — estudos sobre Pix e bancarização
+
+Documento gerado para uso interno da estratégia eleitoral TEIA — Cleiton Moura.
+Atualização recomendada: setembro/2026, com dados de IPCA de agosto e resultado
+fiscal do 2º quadrimestre.
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

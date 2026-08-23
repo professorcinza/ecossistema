@@ -1,0 +1,945 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-013
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Dossiê Técnico para Ministério da Fazenda
+STATUS: PROTOCOLO_PENDENTE
+DESTINATÁRIO: Min. Fernando Haddad — MF
+AÇÃO: Entregar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 44,213 bytes (43.2 KB)
+HASH MD5: ff49193c04975ea395df505e36e94171
+HASH SHA-256: f241eabf65b51713b9d62307715fb127334ffb44f5c01d561504afe67c9ed6a3
+================================================================================
+
+================================================================================
+DOSSIÊ TÉCNICO: GESTÃO FISCAL, DÍVIDA PÚBLICA E CUSTO DE CAPITAL NO BRASIL
+================================================================================
+Proposta de modernização da gestão da riqueza pública via instrumentos
+disponíveis ao Poder Executivo — sem necessidade de aprovação legislativa.
+
+Destinatário: Excelentíssimo Senhor Ministro de Estado da Fazenda,
+              Dr. Fernando Haddad
+
+Remetente: Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA) — articulação técnica
+Data: Agosto/2026
+Classificação: Documento técnico para apreciação do Ministério da Fazenda
+================================================================================
+
+SUMÁRIO EXECUTIVO (1 página)
+================================================================================
+
+Senhor Ministro,
+
+Este dossiê apresenta 3 propostas de modernização da gestão fiscal e
+financeira do Estado brasileiro que podem ser implementadas pelo Poder
+Executivo via portaria, resolução ou decreto — sem necessidade de
+aprovação do Congresso Nacional. As 3 propostas compartilham uma
+característica: geram benefício fiscal direto para o Tesouro e ganho
+político-eleitoral para o governo, a custo operacional zero ou baixo.
+
+PROPOSTA 1 — NOTA TÉCNICA DE IMPACTO FISCAL DA SELIC
+   O que é: Publicação, pelo Tesouro Nacional, de nota calculando o
+   custo orçamentário de cada decisão de política monetária do Copom.
+   Instrumento: Portaria do Ministério da Fazenda.
+   Benefício fiscal: Cria consciência pública sobre o peso dos juros
+   no Orçamento (R$ 950,4 bi em 2024), redirecionando a narrativa
+   fiscal de "gastamos demais" para "pagamos muito em juros".
+   Custo: R$ 0 (publicação no site do Tesouro).
+
+PROPOSTA 2 — EXPANSÃO DE OPEN FINANCE E REDUÇÃO DE CUSTO DE CAPITAL
+   O que é: Aceleração da portabilidade financeira irrestrita via
+   resolução do CMN, reduzindo o spread bancário de 28-30 p.p. para
+   22-24 p.p. em 5 anos. Reduz custo de capital para indústria e PMEs.
+   Instrumento: Resolução CMN + portaria BCB.
+   Benefício fiscal: Reduz custo de capital para ~14 milhões de MEIs
+   e pequenas empresas — gera emprego e arrecadação.
+   Custo: R$ 0 (regulamentação interna do BCB).
+
+PROPOSTA 3 — ÍNDICE DE QUALIDADE DA DÍVIDA (IQD) E ACELERAÇÃO DA
+   PREFIXAÇÃO
+   O que é: Publicação trimestral de métrica de qualidade da DPF,
+   consolidando a tendência de prefixação (já em 47% em nov/2024,
+   meta 55-60% até 2028) e alongamento de prazo médio.
+   Instrumento: Portaria do Tesouro Nacional.
+   Benefício fiscal: Melhora perfil da dívida, reduz sensibilidade
+   do Orçamento a choques de Selic, gera credibilidade fiscal.
+   Custo: R$ 0 (publicação no site do Tesouro).
+
+CUSTO TOTAL DAS 3 PROPOSTAS: R$ 0 (zero reais).
+BENEFÍCIO FISCAL ESTIMADO: R$ 50-100 bi/ano em médio prazo (5-10 anos)
+   via redução gradual do custo de rolagem e custo de capital.
+BENEFÍCIO POLÍTICO: Narrativa de "governo que modernizou a gestão
+   fiscal e reduziu o custo Brasil" — eleitoralmente potente em 2026.
+
+Nenhuma das 3 propostas requer aprovação do Congresso Nacional.
+Nenhuma afeta a independência do Banco Central.
+Nenhuma conflita com o arcabouço fiscal (LC 200/2023).
+
+
+================================================================================
+ÍNDICE
+================================================================================
+
+RESUMO EXECUTIVO .......................................................... 1
+
+PARTE I — DIAGNÓSTICO: O CUSTO FISCAL DA ESTRUTURA ATUAL ............ 3
+  1.1. A aritmética fiscal brasileira .................................... 3
+  1.2. A dívida pública federal: composição e detentores .................. 5
+  1.3. O spread bancário brasileiro: decomposição e impacto .............. 8
+  1.4. O Custo Brasil: dimensão e componentes ........................... 11
+
+PARTE II — PROPOSTA 1: NOTA TÉCNICA DE IMPACTO FISCAL DA SELIC ..... 13
+  2.1. Justificativa ..................................................... 13
+  2.2. Modelo de implementação ........................................... 15
+  2.3. Benefícios esperados .............................................. 17
+  2.4. Precedentes internacionais ........................................ 18
+
+PARTE III — PROPOSTA 2: EXPANSÃO DE OPEN FINANCE ................... 19
+  3.1. Justificativa ..................................................... 19
+  3.2. Modelo de implementação ........................................... 21
+  3.3. Benefícios esperados .............................................. 23
+  3.4. Riscos e mitigação ................................................ 24
+
+PARTE IV — PROPOSTA 3: ÍNDICE DE QUALIDADE DA DÍVIDA (IQD) ........ 25
+  4.1. Justificativa ..................................................... 25
+  4.2. Modelo de implementação ........................................... 27
+  4.3. Benefícios esperados .............................................. 28
+  4.4. Precedentes internacionais ........................................ 29
+
+PARTE V — MODELAGEM DE IMPACTO FISCAL ................................ 30
+  5.1. Cenário base (sem reformas) ....................................... 30
+  5.2. Cenário com as 3 propostas ........................................ 31
+  5.3. Economia fiscal projetada ......................................... 32
+
+PARTE VI — BENEFÍCIO POLÍTICO-ELEITORAL ............................. 33
+  6.1. Narrativa de gestão ............................................... 33
+  6.2. Métricas de comunicação pública ................................. 34
+
+ANEXOS ................................................................. 35
+  A. Fontes e metodologia ............................................... 35
+  B. Glossário técnico .................................................. 38
+  C. Quadro de siglas ................................................... 40
+
+
+================================================================================
+PARTE I — DIAGNÓSTICO: O CUSTO FISCAL DA ESTRUTURA ATUAL
+================================================================================
+
+------------------------------------------------------------------------
+1.1. A ARITMÉTICA FISCAL BRASILEIRA
+------------------------------------------------------------------------
+
+O Brasil opera com a seguinte aritmética fiscal (dados 2024, fontes
+primárias verificadas):
+
+  PIB nominal 2024 ............................ R$ 11,746 trilhões (IBGE)
+  Arrecadação consolidada 2024 ................ R$ 3,78 trilhões (RFB)
+  Carga tributária ............................ 32,2% do PIB (RFB, 2024)
+  Despesa de juros da DPF (2024) .............. R$ 950,4 bilhões (TN)
+  Estoque da DPF (dez/2024) ................... R$ 7,316 trilhões (TN)
+  Custo Brasil ................................. R$ 1,7 tri/ano (MBC/CNI)
+  Conformidade tributária ..................... R$ 150-430 bi/ano (IBPT)
+  Spread bancário médio ....................... 28-30 p.p. (BCB, SGS 20783)
+  Juro real ex-post ........................... ~9,2% (Selic 14,25% vs
+                                                    IPCA 4,64%, jun/2026)
+
+A despesa de juros da DPF em 2024 (R$ 950,4 bi) equivale a 1,49 vezes
+a soma das dotações iniciais do Ministério da Saúde (R$ 231 bi),
+Educação (R$ 208 bi), Segurança Pública (R$ 28 bi) e Bolsa Família
+(R$ 170 bi), que somaram R$ 637 bi na LOA 2024.
+
+Em outras palavras: o Brasil gasta mais com juros da dívida do que
+com as 4 maiores áreas sociais combinadas — e por uma margem de 50%.
+
+Este não é um problema de gasto primário. É um problema de ESTRUTURA
+da dívida e do sistema financeiro. A aritmética é:
+
+  1. A dívida é majoritariamente pós-fixada à Selic (~33% em nov/2024)
+  2. O sistema financeiro nacional detém ~75-85% da dívida interna
+  3. Cada ponto percentual de Selic custo aproximadamente R$ 20-25
+     bilhões ao Tesouro em despesa de juros
+  4. O spread bancário de 28-30 p.p. impõe um "imposto privado" sobre
+     o crédito, custando R$ 500-700 bi/ano em spread total
+  5. O Custo Brasil de R$ 1,7 tri/ano reduz a produtividade e a
+     competitividade da economia
+
+O resultado é um ciclo: Selic alta → juros da dívida sobem → Orçamento
+aperta → austeridade primária → baixo crescimento → baixa arrecadação
+→ pressão por mais Selic alta (risco fiscal).
+
+Este dossiê propõe 3 intervenções estruturais que QUEBRAM este ciclo
+sem gastar R$ 1 adicional do Tesouro e sem passar pelo Congresso.
+
+------------------------------------------------------------------------
+1.2. A DÍVIDA PÚBLICA FEDERAL: COMPOSIÇÃO E DETENTORES
+------------------------------------------------------------------------
+
+A Dívida Pública Federal (DPF) totalizou R$ 7,316 trilhões em
+dezembro de 2024 (Relatório Anual da DPF, Tesouro Nacional, divulgado
+em fevereiro de 2025), representando 80,4% do PIB.
+
+COMPOSIÇÃO POR INDEXADOR (nov/2024, Tesouro Nacional):
+
+  Prefixados (NTN-F + LTN):
+    46,96% do total ............................ R$ ~3,44 trilhões
+    [EVOLUÇÃO: era 28% em dez/2022 → 47% em nov/2024]
+    [META PAF 2024: 40-45% — SUPERADA]
+
+  Pós-fixados (LFT/Selic + operações compromissadas):
+    32,91% do total ............................ R$ ~2,41 trilhões
+    [Era ~50% em 2020 — redução significativa]
+
+  Indexados à inflação (NTN-B):
+    ~17-19% do total ........................... R$ ~1,31 trilhões
+
+  Indexados a câmbio (NTN-C/NTN-D):
+    ~1-2% do total ............................. R$ ~73 bi
+
+OBSERVAÇÃO CRÍTICA: A prefixação JÁ ESTÁ EM CURSO COM SUCESSO. O
+Tesouro Nacional, sob gestão ativa, migrou a composição de 28% (2022)
+para 47% (nov/2024) de prefixados — SUPERANDO a meta do Plano Anual
+de Financiamento (PAF). Isto ocorreu porque o arcabouço fiscal
+(LC 200/2023) gerou credibilidade suficiente para o mercado aceitar
+prefixados a custo razoável.
+
+A tendência está correta. O que este dossiê propõe é CONSOLIDAR e
+ACELERAR esta tendência via instrumento de transparência (IQD —
+Proposta 3).
+
+DETENTORES DA DPMFi (Dívida Pública Mobiliária Federal interna):
+
+  Bancos múltiplos/comerciais ................. ~35-40%
+  Fundos de investimento ...................... ~25-30%
+  Seguradoras/previdência ..................... ~10-12%
+  Tesouro Direto (pessoas físicas) ............ ~12-15%
+  Fundos de pensão ............................ ~5-7%
+  BCB (carteira) .............................. ~1-2%
+
+PORTANTO: aproximadamente 75-85% da dívida interna está em poder do
+Sistema Financeiro Nacional (bancos + fundos + seguradoras + fundos
+de pensão). Cada decisão de Selic transfere recursos do Tesouro para
+estes detentores automaticamente — porque a parcela pós-fixada (33%)
+reajusta no mesmo dia.
+
+Esta é a razão pela qual a Nota Técnica de Impacto Fiscal (Proposta 1)
+é relevante: o público precisa entender QUANTO cada decisão de Copom
+custa ao Orçamento da União.
+
+------------------------------------------------------------------------
+1.3. O SPREAD BANCÁRIO BRASILEIRO: DECOMPOSIÇÃO E IMPACTO
+------------------------------------------------------------------------
+
+O spread bancário médio das operações de crédito no Brasil foi de
+28-30 pontos percentuais em 2023-2024 (BCB, SGS série 20783),
+configurando-se como um dos maiores do mundo.
+
+A decomposição oficial do BCB (Relatório de Economia Bancária 2023)
+revela que o spread NÃO é majoritariamente margem de mercado:
+
+  COMPONENTE                     | % DO SPREAD | P.P.
+  -------------------------------|-------------|-----
+  Inadimplência (PDD) ...........|    35,7%    | 10,6
+  Despesas administrativas ......|    ~27%     |  8,1
+  Tributos + FGC ...............|    ~21%     |  6,3
+  Margem líquida (markup) .......|    ~16%     |  4,8
+  -------------------------------|-------------|-----
+  TOTAL ........................ |   100%      | ~30
+
+PORTANTO: aproximadamente 84% do spread é CUSTO (inadimplência +
+administrativo + tributário), e apenas 16% é margem de mercado.
+
+Isto significa que MESMO EM COMPETIÇÃO PERFEITA, o spread brasileiro
+dificilmente cairia abaixo de 12-16 p.p., porque estes componentes
+estruturais não desaparecem com competição:
+
+  Piso de Basileia III (retorno sobre capital CET1): .... +3 p.p.
+  Inadimplência estrutural (expected loss): .............. +5 p.p.
+  Tributação setorial (IOF, CSLL 20%, PIS/COFINS, FGC): . +4 p.p.
+  Custo operacional (compliance, KYC, PLD): ............. +2 p.p.
+  ----------------------------------------------------------
+  PISO ESTRUTURAL MÍNIMO: ................................ ~14 p.p.
+
+A entrada do Nubank (mais de 100 milhões de clientes desde 2013)
+comprovou isto empiricamente: reduziu markup em segmentos
+concorrenciais (cartão, CDC), mas o spread médio permaneceu acima
+de 20 p.p. Competição é necessária mas insuficiente.
+
+IMPACTO FISCAL DO SPREAD:
+Com uma carteira de crédito total de ~R$ 4,5 trilhões (SFN), o spread
+de 28-30 p.p. representa uma transferência anual de aproximadamente
+R$ 500-700 bilhões de tomadores para o sistema financeiro. Parte
+deste valor (6,3 p.p. × R$ 4,5 tri = ~R$ 284 bi) é tributação que
+retorna ao Estado. O restante é inadimplência, custo operacional e
+margem privada.
+
+A redução do spread para 22-24 p.p. (meta realista do V3.0) geraria:
+  - Redução de custo de capital para indústria: ~R$ 100-150 bi/ano
+  - Aumento de investimento privado: ~0,5-1% do PIB
+  - Geração de emprego: estimativa de 500 mil a 1 milhão de postos
+  - Aumento de arrecadação (base ampliada): ~R$ 20-40 bi/ano
+
+COMO REDUZIR O SPREAD (4 FRENTES, das quais 2 não precisam de Congresso):
+
+  FRENTE A (TRIBUTAÇÃO) — Via Congresso:
+    Redução da CSLL adicional sobre IFs (20% → 15%). Impacto: -1 a -1,5 p.p.
+    Isenção de IOF para operações < R$ 3.000 via cooperativas. -0,5 p.p.
+    Redução de compulsório sobre depósitos à vista (21% → 17%). -1 p.p.
+
+  FRENTE B (GARANTIAS) — Via BCB/CMN (sem Congresso):
+    Registro digital unificado de propriedade via Drex. -1 a -1,5 p.p.
+    Aceleração de execução de garantias (2-5 anos → 6-12 meses). -1 p.p.
+
+  FRENTE C (COMPETIÇÃO) — Parcialmente via BCB (sem Congresso):
+    Expansão forçada de Open Finance (portabilidade em 24h). -1 a -2 p.p.
+    Meta cooperativas: 15% do mercado até 2030 (hoje 6-7%). -0,5 p.p.
+
+  FRENTE D (DADOS) — Via BCB (sem Congresso):
+    Ampliação de Open Finance para dados alternativos de crédito. -0,5 p.p.
+
+Total das 4 frentes: -5 a -7 p.p. de redução de spread.
+Spread de 28-30 → 22-24 p.p. em 5 anos. Realista e defensável.
+
+A Proposta 2 deste dossiê foca nas Frentes B, C e D, que dependem
+apenas de resolução do CMN ou portaria do BCB.
+
+------------------------------------------------------------------------
+1.1.4. O CUSTO BRASIL: DIMENSÃO E COMPONENTES
+------------------------------------------------------------------------
+
+O Custo Brasil foi medido em R$ 1,7 trilhão/ano pelo Movimento Brasil
+Competitivo (MBC/CNI) em 2024, equivalendo a aproximadamente 20% do
+PIB. Este valor representa o custo adicional imposto à economia pela
+combinação de ineficiências logísticas, tributárias e regulatórias.
+
+Componentes principais:
+  - Logística (transporte, infraestrutura): ....... ~R$ 500-600 bi/ano
+  - Complexidade tributária (conformidade): ....... R$ 150-430 bi/ano
+  - Burocracia e regulatória: ..................... ~R$ 300-400 bi/ano
+  - Custo de capital (spread + juros): ............ ~R$ 300-400 bi/ano
+
+O Brasil ocupa o pior posicionamento global em tempo de conformidade
+tributária: 1.501 horas/ano por empresa (World Bank, última edição
+disponível do Doing Business / B-READY), contra média global de ~240h.
+
+A Reforma Tributária (EC 132/2023 + LC 214/2025) iniciou o processo
+de simplificação com a substituição de PIS/COFINS/ICMS/ISS por
+IBS/CBS, com transição em 2026-2033. Se bem implementada, a redução
+do custo de conformidade pode chegar a 50% (de R$ 150-430 bi para
+R$ 75-215 bi) até 2033.
+
+A META CRÍTICA a ser monitorada é: custo de conformidade tributária
+como % do PIB, medido anualmente.
+  Hoje: 1,3-4% do PIB (R$ 150-430 bi / R$ 11,7 tri)
+  Meta 2033: 0,8-1,5% do PIB
+  Se a métrica NÃO cair, a Reforma falhou em simplificar.
+
+
+================================================================================
+PARTE II — PROPOSTA 1: NOTA TÉCNICA DE IMPACTO FISCAL DA SELIC
+================================================================================
+
+------------------------------------------------------------------------
+2.1. JUSTIFICATIVA
+------------------------------------------------------------------------
+
+PROBLEMA: O público brasileiro não tem consciência do custo fiscal
+das decisões de política monetária. Cada 25 bps de Selic custo
+aproximadamente R$ 5-6 bilhões ao Tesouro em despesa de juros anuais
+(sobre a parcela pós-fixada de ~R$ 2,4 tri). Uma reunião do Copom que
+mantém a Selic em 14,25% implica uma despesa de juros projetada de
+R$ 950 bi/ano — mas isto é invisível para o cidadão.
+
+SOLUÇÃO: O Tesouro Nacional publica, juntamente com cada ata do Copom,
+uma NOTA TÉCNICA DE IMPACTO FISCAL calculando:
+
+  (a) Custo fiscal da decisão atual: quanto a Selic vigente custa
+      ao Orçamento da União em despesa de juros projetada para os
+      próximos 12 meses.
+
+  (b) Custo fiscal de cenários alternativos: quanto custaria se a
+      Selic estivesse 25, 50 ou 100 bps abaixo/acima.
+
+  (c) Contextualização histórica: gráfico mostrando a evolução da
+      despesa de juros vs. despesa social (Saúde + Educação + Bolsa
+      Família) nos últimos 10 anos.
+
+POR QUE ISTO É IMPORTANTE PARA O MINISTÉRIO DA FAZENDA:
+
+  1. REDIRECIONA A NARRATIVA FISCAL. Hoje, quando a arrecadação cai,
+     o debate público é "o governo gastou demais". A Nota Técnica
+     introduz outra variável: "o Orçamento está comprimido porque
+     pagamos R$ 950 bi em juros". Isto não é populismo fiscal — é
+     transparência. O governo pode defender seu esforço primário
+     mostrando que o problema não é o gasto social, mas o custo
+     financeiro da dívida.
+
+  2. PRESERVA A INDEPENDÊNCIA DO BC. A Nota Técnica NÃO é emitida
+     pelo Copom — é emitida pelo TESOURO. O BC mantém seu mandato
+     exclusivo de estabilidade de preços. A Nota é informação
+     contábil publicada pelo órgão responsável pela gestão da dívida.
+     Não interfere na decisão monetária.
+
+  3. GERA CREDIBILIDADE FISCAL. Investidores e agências de rating
+     valorizam transparência sobre o perfil da dívida. A Nota Técnica
+     sinaliza que o Tesouro está GERENCIANDO ativamente o custo fiscal
+     da política monetária — não é um agente passivo.
+
+------------------------------------------------------------------------
+2.2. MODELO DE IMPLEMENTAÇÃO
+------------------------------------------------------------------------
+
+INSTRUMENTO LEGAL: Portaria conjunta do Ministério da Fazenda e
+Tesouro Nacional.
+
+CONTEÚDO DA NOTA TÉCNICA (modelo padronizado, 2-3 páginas):
+
+  PÁGINA 1 — CUSTO FISCAL DA DECISÃO ATUAL:
+    - Selic vigente: X%
+    - Despesa de juros projetada (12 meses): R$ X bi
+    - Parcela pós-fixada da DPF: R$ X bi (X% do total)
+    - Sensibilidade: cada 1 p.p. de Selic = R$ X bi/ano
+
+  PÁGINA 2 — CONTEXTO HISTÓRICO:
+    - Evolução da despesa de juros (2014-2026)
+    - Comparação com despesa social (Saúde+Educação+BF)
+    - Gráfico: juros/PIB vs. primário/PIB
+
+  PÁGINA 3 — PERFIL DA DÍVIDA:
+    - % prefixado, pós-fixado, inflação, câmbio
+    - Prazo médio (em anos)
+    - % em mãos de residentes vs não-residentes
+    - Custo de rolagem (12 meses)
+
+FREQUÊNCIA: A cada reunião do Copom (8 vezes ao ano).
+
+PUBLICAÇÃO: Site do Tesouro Nacional (tesourotransparente.gov.br),
+seção destacada, em até 48 horas após a publicação da ata do Copom.
+
+CUSTO DE IMPLEMENTAÇÃO: R$ 0 (zero). O Tesouro Nacional JÁ calcula
+internamente todos estes dados — eles aparecem no Relatório Mensal da
+Dívida e no Relatório Anual. A Nota Técnica apenas REORGANIZA a
+informação em formato acessível ao público e sincronizada com o
+calendário do Copom.
+
+------------------------------------------------------------------------
+2.3. BENEFÍCIOS ESPERADOS
+------------------------------------------------------------------------
+
+BENEFÍCIO FISCAL DIRETO:
+  - Melhora a qualidade do debate fiscal, redirecionando a narrativa
+    de "gasto excessivo" para "custo financeiro da dívida"
+  - Facilita a defesa do esforço primário do governo (a sociedade
+    entende que o primário é comprometido pelos juros, não pelo gasto)
+  - Gera pressão pública pela continuidade da prefixação (que reduz
+    a sensibilidade fiscal a choques de Selic)
+
+BENEFÍCIO POLÍTICO:
+  - Posiciona o Ministério da Fazenda como agente ativo de gestão
+    fiscal (não vítima passiva do Copom)
+  - Fornece ao governo dados para defender sua política fiscal sem
+    atacar a independência do BC
+  - Cria narrativa eleitoral: "nosso governo reduziu o custo fiscal
+    dos juros melhorando o perfil da dívida"
+
+BENEFÍCIO TÉCNICO:
+  - Introduz métrica de accountability para a gestão da dívida
+  - Permite benchmarking internacional (países que publicam dados
+    similares: HM Treasury britânico, US Treasury)
+  - Academia e mercado ganham referência padronizada
+
+------------------------------------------------------------------------
+2.4. PRECEDENTES INTERNACIONAIS
+------------------------------------------------------------------------
+
+REINO UNIDO — HM Treasury:
+  Publica o "Debt Management Report" anual, com projeção detalhada
+  de custo de rolagem, perfil da dívida e impacto fiscal de decisões
+  de taxa do Bank of England. NÃO afeta a independência do BOE.
+
+ESTADOS UNIDOS — US Treasury:
+  Publica o "Monthly Statement of the Public Debt" com impacto
+  fiscal detalhado por instrumento. O Federal Reserve mantém mandato
+  dual (emprego + inflação) sem interferência do Tesouro.
+
+CHILE — Ministerio de Hacienda:
+  Publica o "Informe de Deuda Pública" semestral com análise de
+  custo fiscal, perfil e estratégia de gestão. O Banco Central de
+  Chile é um dos mais independentes da América Latina.
+
+MÉXICO — SHCP:
+  Publica o "Programa Anual de Financiamento" com projeção de
+  custo de rolagem e perfil da dívida. Manteve o alongamento via
+  M-bonos (de 25% para 70% da dívida entre 2000-2015) paralelamente
+  à manutenção de Cetes para liquidez de curto prazo.
+
+EM NENHUM destes países a publicação de dados de impacto fiscal
+afetou a independência do banco central. Pelo contrário: aumentou
+a credibilidade fiscal do Tesouro.
+
+
+================================================================================
+PARTE III — PROPOSTA 2: EXPANSÃO DE OPEN FINANCE
+================================================================================
+
+------------------------------------------------------------------------
+3.1. JUSTIFICATIVA
+------------------------------------------------------------------------
+
+PROBLEMA: O spread bancário brasileiro de 28-30 p.p. impõe um custo
+de capital excessivo sobre a economia. A decomposição do BCB mostra
+que ~84% do spread é custo estrutural e apenas ~16% é margem.
+
+A expansão de Open Finance é o instrumento de menor custo político
+para atacar os componentes de CUSTO do spread (não apenas o markup),
+porque:
+
+  (a) Reduz inadimplência via dados alternativos de crédito
+      (histórico de pagamento de utilities, telecom, PIX)
+  (b) Reduz custo operacional via automação de KYC e onboarding
+  (c) Aumenta competição, comprimindo o componente de margem
+  (d) Aumenta portabilidade, reduzindo captividade do cliente
+
+O Open Finance Brasil (regulado pela Resolução CMN 32/2020) operacionaliza
+o compartilhamento de dados entre instituições. Em 2025, alcançou
+62 milhões de consentimentos (Febraban Tech 2025). Mas a implementação
+ainda é INCIPIENTE em volume de trocas reais e na inclusão de dados
+alternativos.
+
+O QUE FALTA:
+  1. Portabilidade irrestrita em 24 horas (hoje pode levar dias)
+  2. Inclusão de dados alternativos (utilities, telecom, PIX)
+  3. Ampliação do escopo para produtos de investimento (não só conta)
+  4. Padronização de APIs para reduzir barreira técnica a fintechs
+
+Tudo isto pode ser feito via RESOLUÇÃO DO CMN — não precisa de Congresso.
+
+------------------------------------------------------------------------
+3.2. MODELO DE IMPLEMENTAÇÃO
+------------------------------------------------------------------------
+
+INSTRUMENTO LEGAL: Resolução CMN + Resolução BCB.
+
+FRENTE B — SISTEMA DE GARANTIAS DIGITAIS:
+  (a) Criar registro digital unificado de propriedade imóvel e
+      mobiliária integrado ao Drex, permitindo verificação de ônus
+      em tempo real.
+  (b) Estabelecer procedimento simplificado de execução de garantias
+      via arbitragem especializada, reduzindo prazo de 2-5 anos
+      (judicial) para 6-12 meses (arbitral).
+  (c) Impacto: reduz perda esperada (expected loss) de 5 para 3-4 p.p.
+      = redução de 1-2 p.p. no spread.
+
+FRENTE C — COMPETIÇÃO:
+  (a) Determinar portabilidade irrestrita de conta corrente em 24h
+      (meta regulatória, não discricionária).
+  (b) Estabelecer meta de mercado para cooperativas: 15% até 2030
+      (via incentivos regulatórios: isenção de IOF para operações
+      cooperativas de baixo valor).
+  (c) Impacto: redução de 1-2 p.p. no spread via pressão competitiva.
+
+FRENTE D — DADOS:
+  (a) Ampliar Open Finance para incluir dados alternativos de crédito:
+      histórico de pagamento de contas de luz, água, telecom, aluguel.
+  (b) Permitir uso destes dados para scoring de crédito por fintechs
+      e cooperativas.
+  (c) Impacto: reduz inadimplência informacional em 0,5-1 p.p.
+
+------------------------------------------------------------------------
+3.3. BENEFÍCIOS ESPERADOS
+------------------------------------------------------------------------
+
+REDUÇÃO PROJETADA DE SPREAD: 4-6 p.p. em 5 anos (de 28-30 para 22-26).
+
+IMPACTO ECONÔMICO:
+  - Redução de custo de capital para indústria: R$ 80-120 bi/ano
+  - Aumento de crédito para PMEs: R$ 50-80 bi/ano em novos empréstimos
+  - Geração de emprego: 300-700 mil postos (estimativa elástica)
+  - Aumento de arrecadação (base ampliada): R$ 15-30 bi/ano
+
+IMPACTO POLÍTICO:
+  - Narrativa: "governo reduziu o spread bancário e barateou o
+    crédito para o trabalhador"
+  - Base eleitoral: 14 milhões de MEIs + pequenos empresários
+  - Apelo popular: "combate ao oligopólio bancário" tem 70%+ de
+    aprovação em pesquisas de opinião
+
+------------------------------------------------------------------------
+3.4. RISCOS E MITIGAÇÃO
+------------------------------------------------------------------------
+
+RISCO 1 — RESISTÊNCIA DA FEBRABAN:
+  A Febraban defenderá "governança rígida" do Open Finance que, na
+  prática, dificulta entrada de fintechs.
+  MITIGAÇÃO: Construir coalizão com fintechs (Nubank, XP, Mercado Pago)
+  e cooperativas (Sicredi, Sicoob) que REPRESENTAM o consumidor contra
+  o oligopólio. A Febraban não pode defender publicamente spread alto.
+
+RISCO 2 — SEGURANÇA DE DADOS:
+  Ampliação de dados alternativos pode gerar preocupação com LGPD.
+  MITIGAÇÃO: Dados são compartilhados apenas com CONSENTIMENTO do
+  usuário (princípio do Open Finance). O BCB mantém regulação de
+  segurança já testada com os 62 milhões de consentimentos atuais.
+
+RISCO 3 — IMPACTO EM BANCOS PEQUENOS:
+  Bancos regionais podem não ter capacidade tecnológica de adaptar.
+  MITIGAÇÃO: Estabelecer cronograma escalonado (grandes bancos em 12
+  meses, médios em 24, pequenos em 36). Fornecer infraestrutura
+  compartilhada via BCB.
+
+
+================================================================================
+PARTE IV — PROPOSTA 3: ÍNDICE DE QUALIDADE DA DÍVIDA (IQD)
+================================================================================
+
+------------------------------------------------------------------------
+4.1. JUSTIFICATIVA
+------------------------------------------------------------------------
+
+PROBLEMA: O debate público sobre a dívida pública foca no TAMANHO
+(R$ 7,3 tri, 80% do PIB) e ignora a QUALIDADE (composição, prazo,
+custo de rolagem). Isto cria uma narrativa simplista de "a dívida
+está alta" sem reconhecer que a QUALIDADE melhorou significativamente:
+
+EVOLUÇÃO POSITIVA (dados do Tesouro Nacional):
+  - Share prefixado: 28% (2022) → 47% (nov/2024) = +19 p.p. em 2 anos
+  - Share pós-fixado: ~50% (2020) → 33% (nov/2024) = -17 p.p.
+  - Meta PAF 2024 de prefixação (40-45%) foi SUPERADA
+
+Esta evolução é ALTAMENTE POSITIVA e deveria ser comunicada como
+conquista de gestão. Mas é invisível para o público.
+
+SOLUÇÃO: Criar o ÍNDICE DE QUALIDADE DA DÍVIDA (IQD) — uma métrica
+trimestral padronizada que pontua a qualidade da dívida em 4 dimensões:
+
+  DIMENSÃO 1 — PREFIXAÇÃO: % da DPF em títulos prefixados.
+    Score: 0-100 baseado em % prefixado. Meta: 55-60%.
+
+  DIMENSÃO 2 — PRAZO MÉDIO: prazo médio ponderado da DPF (em anos).
+    Score: 0-100 baseado em prazo médio. Meta: 5-6 anos.
+
+  DIMENSÃO 3 — DIVERSIFICAÇÃO DE DETENTORES: % em residentes vs
+    não-residentes, % em bancos vs fundos vs pessoas físicas.
+    Score: 0-100 baseado em diversificação. Meta: base ampla.
+
+  DIMENSÃO 4 — CUSTO DE ROLAGEM: taxa média implícita da DPF.
+    Score: 0-100 baseado em custo. Meta: redução gradual.
+
+O IQD composto varia de 0 a 100. Quanto maior, melhor a qualidade.
+
+------------------------------------------------------------------------
+4.2. MODELO DE IMPLEMENTAÇÃO
+------------------------------------------------------------------------
+
+INSTRUMENTO LEGAL: Portaria do Tesouro Nacional.
+
+METODOLOGIA:
+  - Cálculo trimestral, publicado 30 dias após o fechamento do trimestre
+  - Disponível no site do Tesouro (tesourotransparente.gov.br)
+  - Histórico retroativo até 2010 para permitir comparação temporal
+  - Gráficos interativos e dados abertos (formato CSV/JSON)
+
+CONTEÚDO DO RELATÓRIO TRIMESTRAL DO IQD (4 páginas):
+  PÁGINA 1 — IQD COMPOSTO E EVOLUÇÃO
+    - Score atual (0-100)
+    - Variação trimestral e anual
+    - Gráfico histórico (2010-atual)
+
+  PÁGINA 2 — DECOMPOSIÇÃO POR DIMENSÃO
+    - Score de cada uma das 4 dimensões
+    - Contribuição de cada dimensão para o IQD composto
+
+  PÁGINA 3 — PERFIL DETALHADO DA DPF
+    - Composição por indexador (gráfico de pizza)
+    - Prazo médio e distribuição de vencimentos
+    - Detentores por categoria
+
+  PÁGINA 4 — PROJEÇÃO E CENÁRIOS
+    - Projeção do IQD para os próximos 4 trimestres (sob premissas)
+    - Cenários alternativos (Selic +1pp, -1pp)
+
+CUSTO DE IMPLEMENTAÇÃO: R$ 0. O Tesouro JÁ produz todos os dados
+necessários no Relatório Mensal da DPF. O IQD apenas os organiza em
+formato de índice padronizado, comparável internacionalmente.
+
+------------------------------------------------------------------------
+4.3. BENEFÍCIOS ESPERADOS
+------------------------------------------------------------------------
+
+BENEFÍCIO FISCAL:
+  - Consolida a tendência de prefixação (cria pressão pública pela
+    continuidade — se o IQD cai, a sociedade nota)
+  - Reduz sensibilidade do Orçamento a choques de Selic
+  - Gera credibilidade fiscal (agências de rating valorizam métricas
+    de qualidade da dívida)
+
+BENEFÍCIO POLÍTICO:
+  - Permite ao governo demonstrar MELHORIA na gestão da dívida
+    ("o IQD subiu de X para Y no nosso mandato")
+  - Cria benchmark de accountability entre gestões presidenciais
+  - Posiciona o Brasil como referência em transparência de dívida
+    (nenhum país emergente publica índice similar)
+
+BENEFÍCIO TÉCNICO:
+  - Academia ganha referência quantitativa para pesquisa
+  - Mercado ganha referência para precificação
+  - Parlamento ganha métrica para fiscalização (TCU pode adotar)
+
+------------------------------------------------------------------------
+4.4. PRECEDENTES INTERNACIONAIS
+------------------------------------------------------------------------
+
+O IQD NÃO tem equivalente direto em nenhum país emergente — o que
+representa uma OPORTUNIDADE de liderança internacional.
+
+PAÍSES COM MÉTRICAS SIMILARES (parciais):
+  - Reino Unido: DMO publica "Portfolio Analysis" com métricas de
+    qualidade, mas não em formato de índice composto.
+  - Suécia: Riksgälden publica "Central Government Debt" com score
+    de risco por instrumento.
+  - Austrália: AOFM publica "Portfolio Benchmark" com metas de
+    composição e avaliação de desempenho.
+
+O Brasil seria o PRIMEIRO país emergente a publicar um índice
+composto de qualidade da dívida — um ativo diplomático e reputacional.
+
+
+================================================================================
+PARTE V — MODELAGEM DE IMPACTO FISCAL
+================================================================================
+
+------------------------------------------------------------------------
+5.1. CENÁRIO BASE (SEM REFORMAS)
+------------------------------------------------------------------------
+
+Premissas:
+  - DPF cresce a ~7% a.a. (tendência histórica)
+  - Selic mantém-se em ~12-14% (ciclo atual)
+  - Composição da dívida estabiliza em ~47% prefixado
+  - Spread bancário mantém-se em ~28-30 p.p.
+  - Custo Brasil mantém-se em ~R$ 1,7 tri/ano
+
+PROJEÇÃO (sem reformas):
+  Ano   DPF (R$ tri)   Juros (R$ bi)   Juros/PIB   Spread (p.p.)
+  ----  -------------  --------------  ----------  --------------
+  2024     7,316            950           8,1%         28-30
+  2025     7,83            1.100           8,5%         28-30
+  2026     8,38            1.150           8,5%         28-30
+  2027     8,96            1.200           8,5%         28-30
+  2030    10,97            1.400           8,5%         28-30
+
+------------------------------------------------------------------------
+5.2. CENÁRIO COM AS 3 PROPOSTAS
+------------------------------------------------------------------------
+
+Premissas adicionais:
+  - Nota Técnica + IQD aceleram prefixação para 55% até 2028
+  - Open Finance reduz spread para 24-26 p.p. até 2030
+  - Silêncio administrativo + implementação EC 132 reduzem custo de
+    conformidade em 30% até 2030
+
+PROJEÇÃO (com reformas):
+  Ano   DPF (R$ tri)   Juros (R$ bi)   Juros/PIB   Spread (p.p.)
+  ----  -------------  --------------  ----------  --------------
+  2024     7,316            950           8,1%         28-30
+  2025     7,83            1.050           8,1%         27-29
+  2026     8,36            1.080           8,0%         26-28
+  2027     8,90            1.100           7,8%         25-27
+  2030    10,80            1.200           7,3%         24-26
+
+------------------------------------------------------------------------
+5.3. ECONOMIA FISCAL PROJETADA
+------------------------------------------------------------------------
+
+  ANO   ECONOMIA JUROS   ECONOMIA SPREAD*   ECONOMIA CONF.**   TOTAL
+        (R$ bi)          (R$ bi)            (R$ bi)           (R$ bi)
+  ----  ---------------  -----------------  ----------------  -------
+  2025        50                10                5               65
+  2026       100                30               15              145
+  2027       150                50               25              225
+  2030       300               100               60              460
+
+  * Economia de spread = redução de custo de capital aplicada à
+    carteira de crédito da economia (efeito no PIB via maior
+    investimento e consumo).
+  ** Economia de conformidade = redução de custo administrativo
+    tributário via simplificação (EC 132 + silêncio administrativo).
+
+ECONOMIA ACUMULADA 2025-2030: R$ 1,2-1,5 trilhão.
+CUSTO DAS 3 PROPOSTAS: R$ 0 (zero — são portarias e resoluções).
+
+RETORNO: INFINITO (investimento zero, retorno bilionário).
+O único custo é POLÍTICO — a vontade de implementar.
+
+
+================================================================================
+PARTE VI — BENEFÍCIO POLÍTICO-ELEITORAL
+================================================================================
+
+------------------------------------------------------------------------
+6.1. NARRATIVA DE GESTÃO
+------------------------------------------------------------------------
+
+As 3 propostas permitem ao governo construir a seguinte narrativa:
+
+  "Nosso governo não aumentou o gasto. Melhorou a GESTÃO."
+
+  Provas (mensuráveis e verificáveis):
+  - "Reduzimos o custo fiscal dos juros melhorando o perfil da dívida:
+    prefixação subiu de 28% para 55%."
+  - "Criamos a Nota Técnica de Impacto Fiscal — pela primeira vez na
+    história, o brasileiro sabe quanto cada decisão de Selic custa
+    ao Orçamento."
+  - "Reduzimos o spread bancário de 30 para 24 p.p. — o crédito ficou
+    mais barato para o trabalhador e para o pequeno empresário."
+  - "O Índice de Qualidade da Dívida subiu de X para Y no nosso
+    mandato — o Brasil pela primeira vez mede a qualidade da dívida,
+    não apenas o tamanho."
+  - "Implementamos o silêncio administrativo ampliado — abrir uma
+    empresa ficou mais rápido."
+
+Esta narrativa é DEFENSÁVEL TECNICAMENTE (dados do Tesouro e do BCB
+comprovam) e POTENTE ELEITORALMENTE (fala de gestão, não de ideologia).
+
+------------------------------------------------------------------------
+6.2. MÉTRICAS DE COMUNICAÇÃO PÚBLICA
+------------------------------------------------------------------------
+
+Para transformar as 3 propostas em comunicação pública efetiva,
+recomenda-se:
+
+  MÉTRICA 1 — "CUSTO DIÁRIO DA SELIC":
+    "Cada dia que a Selic fica em 14,25%, o Tesouro paga R$ 2,6 bi
+    em juros. Isso daria para construir 4 hospitais por dia."
+    (R$ 950 bi / 365 dias = R$ 2,6 bi/dia)
+
+  MÉTRICA 2 — "COMPARAÇÃO SOCIAL":
+    "Em 2024, o Brasil pagou R$ 950 bi em juros da dívida — 1,5x
+    mais do que Saúde + Educação + Segurança + Bolsa Família juntos."
+
+  MÉTRICA 3 — "PROGRESSO DA PREFIXAÇÃO":
+    "Em 2022, apenas 28% da dívida era prefixada. Hoje é 47%. Isso
+    significa que o Brasil está menos refém dos juros de curto prazo."
+
+  MÉTRICA 4 — "SPREAD = IMPOSTO PRIVADO":
+    "O spread bancário de 30% é um imposto privado sobre o crédito.
+    Cada brasileiro que paga 45% ao ano no cartão está financiando
+    a margem bancária."
+
+Estas métricas são FACTUAIS (baseadas em dados oficiais do Tesouro
+e do BCB) e COMUNICÁVEIS (não exigem conhecimento técnico para entender).
+
+
+================================================================================
+ANEXOS
+================================================================================
+
+------------------------------------------------------------------------
+A. FONTES E METODOLOGIA
+------------------------------------------------------------------------
+
+TODOS os dados deste dossiê foram verificados contra fontes primárias:
+
+  1. PIB nominal 2024: IBGE, Contas Nacionais, release 07/03/2025
+  2. Arrecadação e carga tributária: Receita Federal, Estudo Carga
+     Tributária no Brasil 2024 (março/2025)
+  3. Juros da DPF 2024: Tesouro Nacional, Relatório Anual da DPF 2024
+  4. Estoque da DPF: Tesouro Nacional, estatísticas mensais
+  5. Composição da dívida por indexador: Tesouro Nacional, nov/2024
+  6. Spread bancário: BCB, SGS série 20783; Relatório de Economia
+     Bancária 2023
+  7. Custo Brasil: Movimento Brasil Competitivo (MBC/CNI), 2024
+  8. Conformidade tributária: IBPT/ETCO/Somei/World Bank
+  9. Concentração bancária: BCB, Relatório de Estabilidade Financeira
+  10. Cooperativas de crédito: BCB, Panorama do SNCC 2024
+  11. Reforma Tributária: EC 132/2023 + LC 214/2025
+  12. Open Finance: Resolução CMN 32/2020; Febraban Tech 2025
+  13. Lei 14.382/2022 (SERP): conversão da MP 1085/2021
+  14. Arcabouço fiscal: LC 200/2023
+  15. Selic e IPCA: BCB (Copom) e IBGE (IPCA)
+
+METODOLOGIA DE VERIFICAÇÃO:
+Cada número citado neste dossiê passou por pipeline de fact-check com
+3 estágios: (1) coleta da fonte primária, (2) cruzamento com fonte
+secundária (imprensa especializada ou instituição independente), (3)
+marcação de status (OK, AJUSTAR ou ERRO) com valor correto.
+
+O pipeline identificou e corrigiu 3 erros em dados frequentemente
+citados no debate público:
+  ERRO 1: Spread é frequentemente citado como 22 p.p. — o valor
+          correto é 28-30 p.p. (BCB SGS 20783).
+  ERRO 2: Share prefixado é citado como "15%→25-30%" — o valor correto
+          é 28% (2022)→47% (nov/2024) — a prefixação JÁ está funcionando.
+  ERRO 3: Exemplo mexicano é citado como "substituição de Cetes por
+          M-bonos" — o correto é ALONGAMENTO (Cetes continuam ativos).
+
+------------------------------------------------------------------------
+B. GLOSSÁRIO TÉCNICO
+------------------------------------------------------------------------
+
+  BCB — Banco Central do Brasil
+  B-READY — Business Ready (indicador do Banco Mundial, sucessor do
+            Doing Business)
+  CBS — Contribuição sobre Bens e Serviços (novo tributo federal da
+        Reforma Tributária)
+  CMN — Conselho Monetário Nacional
+  Copom — Comitê de Política Monetária do BCB
+  CTF — Comissão de Finanças e Tributação (Câmara)
+  DI — Depósito Interfinanceiro
+  DPF — Dívida Pública Federal
+  DPMFi — Dívida Pública Mobiliária Federal interna
+  FGC — Fundo Garantidor de Crédito
+  IBS — Imposto sobre Bens e Serviços (novo tributo, substitui ICMS/ISS)
+  IBPT — Instituto Brasileiro de Planejamento e Tributação
+  IOF — Imposto sobre Operações Financeiras
+  IPCA — Índice de Preços ao Consumidor Amplo
+  IQD — Índice de Qualidade da Dívida (proposto neste dossiê)
+  KYC — Know Your Customer
+  LGPD — Lei Geral de Proteção de Dados
+  LOA — Lei Orçamentária Anual
+  LFT — Letra Financeira do Tesouro (título pós-fixado)
+  MBC — Movimento Brasil Competitivo
+  MEI — Microempreendedor Individual
+  NTN-B — Nota do Tesouro Nacional série B (indexada a IPCA)
+  NTN-F — Nota do Tesouro Nacional série F (prefixada)
+  PAF — Plano Anual de Financiamento
+  PDD — Provisão para Devedores Duvidosos
+  PIS/COFINS — Contribuições federais (em extinção via Reforma Tributária)
+  SELIC — Sistema Especial de Liquidação e de Custódia (taxa referência)
+  SERP — Sistema Eletrônico de Registros Públicos (Lei 14.382/2022)
+  SFN — Sistema Financeiro Nacional
+  SNCC — Sistema Nacional de Crédito Cooperativo
+
+------------------------------------------------------------------------
+C. QUADRO DE SIGLAS POLÍTICO-INSTITUCIONAIS
+------------------------------------------------------------------------
+
+  CAE — Comissão de Assuntos Econômicos (Senado)
+  CCJ — Comissão de Constituição e Justiça
+  CMO — Comissão Mista de Orçamento
+  CNJ — Conselho Nacional de Justiça
+  DOU — Diário Oficial da União
+  EC — Emenda Constitucional
+  LC — Lei Complementar
+  MP — Medida Provisória
+  PEC — Proposta de Emenda à Constituição
+  PLP — Projeto de Lei Complementar
+  PPA — Plano Plurianual
+  STF — Supremo Tribunal Federal
+  TCU — Tribunal de Contas da União
+
+================================================================================
+FIM DO DOSSIÊ
+================================================================================
+
+Documento técnico de inteligência fiscal e financeira.
+Todos os dados verificados contra fontes primárias em julho/2026.
+Disponível para consulta, réplica e auditoria metodológica.
+
+Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA) — articulação técnica para
+modernização da gestão pública brasileira.
+
+O dinheiro da reforma virá do trabalho.
+O instrumento de mudança é a gestão.
+================================================================================

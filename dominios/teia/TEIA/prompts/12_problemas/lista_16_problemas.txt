@@ -1,0 +1,60 @@
+================================================================================
+OS 16 PROBLEMAS ENDÊMICOS DO BRASIL — TEIA v22.0 (DIAGNÓSTICO ESTRUTURAL)
+================================================================================
+
+P1  CUSTO FISCAL DA DÍVIDA (NÓ CENTRAL)
+    Juros da dívida ~ R$ 950,4 bi/ano (8,05% PIB). Cada +1 p.p. Selic = +R$ 31,4 bi.
+    Razão SUS = 4,1x. Principal máquina de transferência de riqueza.
+
+P2  SPREAD BANCÁRIO
+    Spread médio 28-30 pontos percentuais (EUA ~3-4 pp). Extração via crédito.
+
+P3  CUSTO BRASIL
+    Estimado em R$ 1,7 tri/ano. Ineficiência sistêmica (logística, burocracia, etc.).
+
+P4  CONFORMIDADE TRIBUTÁRIA
+    1.501 horas/ano por empresa (ranking ruim global). Custo de conformidade alto.
+
+P5  CONCENTRAÇÃO BANCÁRIA
+    Top-4 bancos ~57,9% do mercado. Poder de mercado e captura.
+
+P6  ORÇAMENTO SECRETO / EMENDAS DE LIDERANÇA
+    Instrumento de cooptação do Congresso via emendas individuais e de bancada.
+
+P7  CAPTURA DO CONGRESSO
+    Exemplos: Banco Master, relações entre setor financeiro e parlamentares.
+
+P8  SUB-FINANCIAMENTO DO SUS
+    4,75% do PIB vs OCDE ~6,5%. Saúde como subproduto da máquina de juros.
+
+P9  DESMATAMENTO + BANCADA RURALISTA
+    ~321 parlamentares ligados ao agronegócio. Captura ambiental.
+
+P10 GASTO BIG TECH / INTERMEDIÁRIOS DIGITAIS
+    ~R$ 10,3 bi/ano em gastos públicos com big tech + captura de dados.
+
+P11 DESINFORMAÇÃO ELEITORAL
+    Gabinete do ódio, redes, algoritmos. Captura do espaço público cognitivo.
+
+P12 ENCARCERAMENTO E LETALIDADE POLICIAL
+    ~800-820 mil presos. ~6 mil mortos/ano por intervenção policial.
+
+P13 INSEGURANÇA ALIMENTAR
+    ~33 milhões em insegurança alimentar grave.
+
+P14 SEM ÁGUA / ESGOTO
+    ~35 mi sem água + ~100 mi sem esgoto adequado.
+
+P15 NEGATIVADOS / SUPERENDIVIDAMENTO
+    ~63 milhões de negativados (muitos até 2 salários mínimos).
+
+P16 PEC DA BLINDAGEM / PROTEÇÃO DE PODER
+    353 x 134 (exemplo de votação que protege a máquina).
+
+RAIZ INVISÍVEL: Juros + Spread + Custo Brasil = extração de R$ 3+ tri/ano.
+
+Ataque prioritário: P1 (juros) tem o maior efeito cascata sobre todos os outros.
+
+Cada problema deve ser analisado com a matriz completa (dims + lentes) e gerar
+reformas executáveis que ataquem o nó da máquina.
+================================================================================

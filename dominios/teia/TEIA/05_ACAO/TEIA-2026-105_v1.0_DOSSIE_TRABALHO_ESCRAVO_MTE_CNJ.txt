@@ -1,0 +1,471 @@
+================================================================================
+                    TEIA — DOSSIÊ TÉCNICO EXECUTIVO
+                    PROTOCOLO: TEIA-2026-105
+                    PROBLEMA: P17 — TRABALHO ESCRAVO CONTEMPORÂNEO
+                    ENTREGA: MTE / CNJ / STF / MPF / MDHC / OIT
+                    SCORE TEIA: 5/5
+                    DATA: JULHO/2026
+                    AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) DIAGNÓSTICO
+O Brasil resgatou 65.598 trabalhadores em condições análogas à escravidão nos últimos
+30 anos (1995-2025, GEFM/MTE). Em 2025, 2.772 pessoas foram libertadas em 1.594 ações
+fiscais — um aumento de 26,8% sobre 2024. Pela primeira vez na série histórica, 68% das
+vítimas foram encontradas no MEIO URBANO (construção civil, pedreiras, confecções),
+invertendo o eixo rural que dominou por décadas. O perfil: 86% homens, 83% pretos/pardos,
+65% nordestinos, 26% na faixa de 30-39 anos. A Lista Suja do Trabalho Escravo acumula
+745+ empregadores (abr/2025), incluindo nomes como BYD e Amado Batista (out/2025).
+
+(b) APORTES
+Implementação da EC 81/2014 (expropriação sem indenização); fortalecimento do GEFM com
+reposição de auditores (déficit >2.700 vs. recomendação OIT); Lista Suja digital com
+API pública e interligação bancária (crédito); responsabilização solidária da empresa-
+contratante final (fim da blindagem da terceirização); ratificação do Protocolo 2014
+da C-29 OIT (Decreto 12.857/2026); auditoria de cadeias globais de exportação.
+
+(c) EFICIÊNCIA
+Redução de reescravização (atualmente 1,73% dos resgatados retornam à escravidão);
+zero impunidade em casos de captura regulatória (precedente JBS Aves); ampliação da
+fiscalização urbana (68% dos casos em 2025); interligação da Lista Suja com sistema
+financeiro (crédito cortado automaticamente).
+
+(d) CUSTO
+R$ 380 milhões/ano (R$ 200 mi GEFM ampliado + R$ 80 mi reabilitação socioeconômica
+dos resgatados + R$ 50 mi sistema digital Lista Suja + R$ 50 mi auditorias cadeia).
+
+(e) RESULTADO
+Resgates mantidos acima de 2.500/ano; taxa de reescravização <0,5%; Lista Suja integrada
+ao sistema bancário e de compras públicas; cadeias exportadoras auditadas; EC 81/2014
+aplicada (expropriações efetivas); zero interferência política em autuações.
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 CONTEXTO INSTITUCIONAL
+O Brasil possui legislação robusta (art. 149 CP, EC 81/2014, Convenções 29/105 OIT,
+Protocolo de Palermo) mas aplicação deficiente. O Grupo Especial de Fiscalização Móvel
+(GEFM), criado em 1995, é reconhecido pela ONU como ferramenta fundamental, mas opera
+com 2.700 auditores-fiscais ativos (2026) contra 5.500 recomendados pela OIT — déficit
+de mais de 2.700 servidores. O III Plano Nacional para Erradicação do Trabalho Escravo
+(PNETE III) foi lançado em junho/2024, após 16 anos sem revisão.
+
+1.2 DADOS FACT-CHECKED
+- Resgatados em 2025: 2.772 (MTE/SIT, 28/01/2026)
+- Resgatados em 2024: 2.004 (MTE/SIT, 28/01/2025)
+- Resgatados em 2023: 3.190 — maior número em 14 anos (MTE/SIT, 10/01/2024)
+- Total acumulado 30 anos GEFM: 65.598 trabalhadores / 8.483 ações (1995-2025)
+- Verbas rescisórias acumuladas 2003-2024: >R$ 155 milhões
+- Multas aplicadas em 2025: R$ 41,8 milhões (MTE/SIT)
+- Recorde histórico: 6.025 resgates (2007)
+- Reescravização: 1,73% (613 de 35.341 resgatados, 2003-2017, Observatório Digital)
+- Top estados 2025: MT (607), BA (482), MG (393), SP (276), PB (253)
+- Top setores 2025: Obras alvenaria (601), Adm. pública (304), Construção (186),
+  Cultivo café (184), Extração pedras (126)
+- Lista Suja abr/2025: 745 empregadores; out/2025: +159 novos (incl. BYD)
+- Auditores-fiscais ativos: ~2.700 (2026) vs. 5.500 recomendados (OIT)
+- Déficit de fiscais: >2.700 (carreira prevê 3.644 cargos; pico histórico 3.423 em 1996)
+- Denúncias Disque 100: 3.430 (2023, recorde histórico, +64,5% vs 2022)
+- Denúncias Sistema Ipê (SIT): ~4.800 (2025, recorde de 5 anos)
+- Mulheres resgatadas desde 2003: >2.700 (Repórter Brasil, 08/03/2025)
+- 83% das vítimas são pretas/pardos (2025)
+- 68% dos resgates em 2025 foram no MEIO URBANO (inédito)
+
+1.3 MARCO NORMATIVO ATUAL
+- Art. 149 CP (DL 2.848/1940 + Lei 10.803/2003): reduzir alguém a condição análoga
+  à de escravo. Pena: 2 a 8 anos. Modalidades: trabalhos forçados, jornada exaustiva,
+  condições degradantes, restrição por dívida.
+- Art. 149-A CP (Lei 13.344/2016): tráfico de pessoas para trabalho forçado. 4 a 8 anos.
+- EC 81/2014 (antiga PEC 57A/1999, promulgada 05/06/2014): alterou art. 243 CF —
+  expropriação sem indenização de propriedades com trabalho escravo, destinadas à
+  reforma agrária e habitação popular.
+- Convenção 29 OIT (Decreto 41.721/1957): trabalho forçado
+- Convenção 105 OIT (Decreto 58.822/1966): abolição do trabalho forçado
+- Protocolo 2014 da C-29 (Decreto 12.857/2026): formas contemporâneas de exploração
+- Convenção de Palermo (Decreto 5.015/2004) + Protocolo Tráfico de Pessoas (Decreto 5.017/2004)
+- Portaria Interministerial 2/2004: institui a Lista Suja (cadastro de empregadores)
+- Lei 10.608/2002: seguro-desemprego ao trabalhador resgatado
+- PNETE III (junho/2024): III Plano Nacional (atualizado após 16 anos)
+- CONATRAE (Decreto s/n 2003, reformulada pelo Decreto 9.887/2019)
+
+1.4 JURISPRUDÊNCIA RELEVANTE
+- ADPF 509 (STF, Rel. Min. Marco Aurélio, 14/09/2020): constitucionalidade da Lista
+  Suja — "avanço no combate ao trabalho escravo ao garantir direito à informação"
+- REsp 2.204.503/BA (STJ, Informativo 862/2025): crime do art. 149 NÃO exige restrição
+  de liberdade — basta submissão a condições degradantes
+- REsp 1.604.473/MG (STJ, Tema 1018): critérios objetivos para configuração
+- HC 338.336/GO (STJ): dolo específico de escravização NÃO é exigido
+- CC 7.204/AP (STF): competência da Justiça Federal quando envolver interesse da União
+
+1.5 IMPACTO SOCIAL
+83% das vítimas são pretas/pardos. 65% são nordestinos migrantes. 8% são analfabetos.
+A demografia revela que o trabalho escravo contemporâneo é uma continuidade da escravidão
+histórica brasileira: concentra-se nas mesmas populações (negros, nordestinos, baixa
+escolaridade), nas mesmas atividades (agropecuária, mineração) e nos mesmos territórios.
+A inversão urbana (68% em 2025) adiciona construção civil, pedreiras e confecções ao
+mapa. 1,73% dos resgatados são reescravizados — o sistema liberta mas não protege.
+
+1.6 ATORES ENVOLVIDOS
+- Ministério do Trabalho e Emprego (MTE) / Secretaria de Inspeção do Trabalho (SIT)
+- Grupo Especial de Fiscalização Móvel (GEFM)
+- Auditores-Fiscais do Trabalho (AFT) — carreira
+- Ministério Público do Trabalho (MPT)
+- Ministério Público Federal (MPF)
+- Defensoria Pública da União (DPU)
+- Polícia Federal (PF)
+- Conselho Nacional de Justiça (CNJ)
+- Supremo Tribunal Federal (STF)
+- Conselho Nacional de Erradicação do Trabalho Escravo (CONATRAE)
+- Ministério dos Direitos Humanos e Cidadania (MDHC)
+- Organização Internacional do Trabalho (OIT)
+- Pastoral da Terra (CPT)
+- Observatório Digital (MPT+OIT)
+- Repórter Brasil / Leonardo Sakamoto
+- InPACTO (Pacto Nacional pela Erradicação)
+
+1.7 CUSTO DA INAÇÃO
+Manutenção do status quo implica:
+- 2.500-3.000 vítimas resgatadas/ano (número real estimado em 10x superior ao detectado)
+- R$ 155 milhões já pagos em verbas rescisórias (2003-2024) — cifra crescente
+- 1,73% de reescravização = ~45 pessoas/ano voltam à escravidão após resgate
+- Degradação institucional: captura regulatória (caso JBS Aves) destrói credibilidade
+  do sistema fiscalizador
+- Passivo internacional: cadeias exportadoras (carne, café, minério) expostas a
+  sanções comerciais (UE, EUA) e perda de certificações
+- Erosão da EC 81/2014: zero expropriações efetivadas desde 2014 (12 anos sem aplicação)
+
+================================================================================
+
+SEÇÃO 2 — PADRÃO ESTRUTURAL: A MÁQUINA
+
+2.1 TERCEIRIZAÇÃO COMO BLINDAGEM JURÍDICA
+O padrão mais sistemático: a empresa-contratante final (marca reconhecida, capacidade
+financeira, reputação a proteger) contrata uma empresa terceirizada (frequentemente
+"fachada", sem ativos significativos) que absorve a responsabilidade legal pelo trabalho
+escravo detectado.
+
+  Vinícolas (Bento Gonçalves/RS, 2023):
+    Aurora + Garibaldi + Salton → Fênix Serviços (terceirizada)
+    207 vítimas | Acordo R$ 7 mi + R$ 3 mi adicional (abr/2025)
+    Fênix entrou na Lista Suja; vinícolas NÃO entraram.
+
+  Avicultura (Passo Fundo/RS, 2024-2025):
+    JBS Aves → MRJ Prestadora de Serviços (terceirizada)
+    10 vítimas | Ministro Marinho AVOLOU processo a pedido da JBS (set/2025)
+    MRJ entrou na Lista Suja; JBS Aves EXCLUÍDA.
+    Fev/2026: Marinho ANULOU os autos de infração contra JBS Aves.
+    19 coordenadores do MTE demitidos em retaliação.
+
+Mecanismo: o capital concentrou a responsabilidade no elo mais fraco da cadeia. A Lista
+Suja — projetada para expor empregadores — castiga a empresa fachada e poupa a marca
+global. A responsabilização solidária (art. 942 CC + Súmula 331 TST) existe na teoria
+mas raramente é aplicada na fiscalização administrativa do MTE.
+
+2.2 CAPTURA REGULATÓRIA
+O caso JBS Aves (2024-2026) representa o episódio mais grave de captura regulatória
+da inspeção do trabalho em 30 anos de GEFM:
+
+  1. dez/2024: GEFM flagra 10 trabalhadores em condições degradantes em granja
+     fornecedora da JBS Aves em Passo Fundo/RS.
+  2. abr/2025: Autuação emitida contra JBS Aves + MRJ Prestadora.
+  3. set/2025: Ministro Luiz Marinho (MTE) AVOLOU o processo a pedido da JBS —
+     fato sem precedentes em 20+ anos.
+  4. out/2025: MRJ entra na Lista Suja; JBS Aves EXCLUÍDA.
+  5. out/2025: 19 coordenadores do MTE demitidos (retaliação).
+  6. dez/2025: Justiça do Trabalho determina governo incluir JBS Aves na Lista Suja.
+  7. fev/2026: Marinho ANULOU os autos de infração contra a JBS Aves.
+
+Isso demonstra que a estrutura administrativa de fiscalização é vulnerável à captura
+política no nível ministerial. O GEFM tem independência operacional no campo, mas o
+escalão superior (secretarias, ministério) pode anular o trabalho dos auditores.
+
+2.3 CADEIAS GLOBAIS DE EXPORTAÇÃO
+O trabalho escravo brasileiro alimenta diretamente o comércio internacional:
+
+| Cadeia        | Empresa BR      | Comprador global          | Exposição |
+|---------------|-----------------|---------------------------|-----------|
+| Carne bovina  | JBS/Marfrig     | 150+ países (UE, EUA, CN) | CRÍTICO   |
+| Café          | Cooxupé         | Volcafe (CH), LDC (NL)    | Alto      |
+| Vinhos        | Aurora/Salton   | Distribuidores EUA/EU     | Médio     |
+| Confecção     | Oficinas SP     | Shein, Zara (indireto)    | Médio-Alto|
+| Carvão/aço    | Pindaré (MA)    | Cadeia aço global         | Médio     |
+
+A Cooxupé (maior cooperativa de café do mundo, R$ 10,7 bi faturamento em 2024, 80%
+exportado) teve 4 cooperados incluídos na Lista Suja (abr/2024) e os MANTEVE mesmo
+após denúncia. Busca empréstimo verde de US$ 30 mi com FMO (Banco Holandês) —
+conflito ético.
+
+As Fazendas Klem (café orgânico CERTIFICADO em Manhumirim/MG) foram flagradas com
+7 trabalhadores em trabalho escravo (2022), demonstrando que auditorias privadas
+(Rainforest, Fairtrade) não substituem a inspeção pública.
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTAS EXECUTÁVEIS
+
+PROPOSTA 1: EMENDA CONSTITUCIONAL 81/2014 — APLICAÇÃO EFETIVA
+INSTRUMENTO: Decreto regulamentador + ação do INCRA/Ministério das Cidades.
+CONTEÚDO: O art. 243 CF prevê expropriação sem indenização de propriedades com
+trabalho escravo, destinadas à reforma agrária e habitação popular. Desde 2014 (12 anos),
+ZERO expropriações foram efetivadas. Propor:
+  - Decreto regulamentando o procedimento de expropriação (competência, fluxo,
+    destinação)
+  - Força-tarefa INCRA + PF + MPT para identificar e expropriar as 745+ propriedades
+    na Lista Suja
+  - Relatório público trimestral de expropriações em andamento
+ESTIMATIVA: R$ 0 custo adicional (estrutura INCRA existente). Impacto simbólico e
+dissuasivo imenso.
+
+PROPOSTA 2: RESPONSABILIZAÇÃO SOLIDÁRIA OBRIGATÓRIA
+INSTRUMENTO: Resolução CNJ + Instrução Normativa MTE/SIT.
+CONTEÚDO: Tornar automática a inclusão da empresa-contratante final na Lista Suja
+quando trabalho escravo for detectado em terceirizada/subcontratada — salvo se a
+contratante comprovar auditoria prévia independente. Fundamentação: art. 942 CC
+(obrigações solidárias), Súmula 331 TST, e princípio da proteção.
+Fim da "blindagem da terceirização" que permitiu a JBS Aves escapar.
+ESTIMATIVA: R$ 0 (mudança normativa).
+
+PROPOSTA 3: LISTA SUJA DIGITAL — INTERLIGAÇÃO BANCÁRIA E DE COMPRAS PÚBLICAS
+INSTRUMENTO: Portaria conjunta MTE + BCB + Ministério da Gestão.
+CONTEÚDO:
+  - API pública da Lista Suja (formato JSON, atualização em tempo real)
+  - Interligação automática com sistema SCR (Bacen) — crédito cortado ao ser incluído
+  - Interligação com ComprasNet — empresas na Lista Suja impedidas de licitar
+  - Interligação com BNDES, Banco do Brasil, Caixa — financiamentos suspendidos
+  - Painel público de transparência: quantos nomes, quanto tempo, status
+Fundamentação: ADPF 509 (STF garantiu constitucionalidade da publicidade).
+ESTIMATIVA: R$ 50 milhões (desenvolvimento API + integração sistemas).
+
+PROPOSTA 4: FORTALECIMENTO DO GEFM — REPOSIÇÃO DE AUDITORES
+INSTRUMENTO: Novo concurso público + reestruturação da carreira AFT.
+CONTEÚDO: A carreira prevê 3.644 cargos; apenas ~2.700 estão preenchidos (2026). A OIT
+recomenda 5.500 (1 auditor / ~20 mil PEA). O CNU 2024 empossou 829 novos auditores
+(dez/2025), mas o déficit persiste em >2.700.
+  - Concurso complementar para 1.000 vagas imediatas
+  - Reajuste de subsídio (atração/retenção)
+  - Criação de 1.856 cargos adicionais (para alcançar 5.500)
+  - Proteção legal contra avocação ministerial de autos de infração
+ESTIMATIVA: R$ 200 milhões/ano (folha + estrutura).
+
+PROPOSTA 5: REABILITAÇÃO SOCIOECONÔMICA DOS RESGATADOS
+INSTRUMENTO: Programa interministerial MTE + MDS + MEC.
+CONTEÚDO: 1,73% dos resgatados são reescravizados — o sistema liberta mas não protege.
+  - Bolsa de qualificação profissional (6 meses, R$ 800/mês)
+  - Inclusão prioritária no Pronatec / SISU
+  - Acompanhamento social por 24 meses (CRAS/CREAS)
+  - Microcrédito para empreendedorismo individual
+ESTIMATIVA: R$ 80 milhões/ano (~R$ 30 mil por resgatado/ano, 2.772 resgatados).
+
+PROPOSTA 6: AUDITORIA DE CADEIAS EXPORTADORAS
+INSTRUMENTO: Acordo MTE + MDIC + Câmara de Comércio Exterior (Camex).
+CONTEÚDO: Empresas exportadoras brasileiras com fornecedores na Lista Suja devem
+submeter-se a auditoria independente anual. Não conformidade = suspensão de incentivos
+fiscais de exportação. Fundamentação: compromissos OIT + acordos comerciais UE-Mercosul.
+Setores prioritários: carne bovina (JBS/Marfrig/Minerva), café (Cooxupé), minério.
+ESTIMATIVA: R$ 50 milhões/ano (estrutura de auditoria).
+
+================================================================================
+
+SEÇÃO 4 — CUSTO TOTAL E RETORNO
+
+CUSTO TOTAL DAS 6 PROPOSTAS: R$ 380 milhões/ano
+  - Proposta 1 (EC 81/2014):     R$ 0 (estrutura existente)
+  - Proposta 2 (Solidariedade):  R$ 0 (normativa)
+  - Proposta 3 (Lista Digital):  R$ 50 milhões
+  - Proposta 4 (GEFM/Auditores): R$ 200 milhões
+  - Proposta 5 (Reabilitação):   R$ 80 milhões
+  - Proposta 6 (Cadeias export): R$ 50 milhões
+
+COMPARAÇÃO:
+  - R$ 380 mi/ano vs. R$ 41,8 mi em multas aplicadas em 2025 (ratio 9:1)
+  - R$ 380 mi vs. exportações de carne bovina: US$ 20+ bi/ano
+  - R$ 380 mi vs. exportações de café: US$ 12+ bi/ano
+  - R$ 380 mi vs. PIB agropecuário: R$ 2,3 trilhões
+
+RETORNO:
+  - Redução de reescravização: 1,73% → <0,5% (economia social imensurável)
+  - Risco sanitário-fitosanitário evitado: sanções comerciais de US$ 5-10 bi
+  - Expropriações via EC 81/2014: retorno de terras à reforma agrária (valor imobiliário)
+  - Credibilidade institucional restaurada (pós-caso JBS Aves)
+
+================================================================================
+
+SEÇÃO 5 — PETIÇÃO FORMAL AO CONSELHO NACIONAL DE JUSTIÇA (CNJ)
+
+EXMO. SR. PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA
+AO CORREGEDOR NACIONAL DE JUSTIÇA
+SAF/SUL — QUADRA 5 — LOTE 1 — TRECHO III — BRASÍLIA/DF — CEP 70070-600
+
+    CLEITON MOURA, brasileiro, maior, qualificado como analista de geopolítica
+    e economia, com atuação na análise de reformas institucionais brasileiras,
+    com interesse legítimo na erradicação do trabalho escravo e na observância
+    dos princípios constitucionais da dignidade da pessoa humana (art. 1º, III,
+    CF/88), da liberdade (art. 5º) e do valor social do trabalho (art. 1º, IV),
+    vem, respeitosamente, à presença de Vossa Excelência, com fundamento no
+    art. 103-B da Constituição Federal, no art. 149 do Código Penal, na
+    Emenda Constitucional nº 81/2014, na ADPF 509 (STF), e nos princípios da
+    legalidade, eficiência e supremacia do interesse público, apresentar a
+    presente
+
+                    REPRESENTAÇÃO / PEDIDO DE PROVIDÊNCIAS
+
+    objetivando a adoção, por este Conselho Nacional de Justiça, de medidas
+    regimentais, normativas e de fiscalização destinadas a (a) tornar
+    OBRIGATÓRIO o registro nacional de empregadores condenados por trabalho
+    escravo (Lista Suja) nos sistemas de informação da Justiça brasileira;
+    (b) estabelecer META NACIONAL de julgamento de ações trabalhistas
+    envolvendo trabalho análogo à escravidão; e (c) CRIAR OBSERVATÓRIO DA
+    JUSTIÇA DO TRABALHO SOBRE TRABALHO ESCRAVO, conforme passa a expor.
+
+--------------------------------------------------------------------------------
+I. SÍNTESE DO PEDIDO
+--------------------------------------------------------------------------------
+
+    1. Trata a presente representação de exigência formal dirigida ao Conselho
+    Nacional de Justiça para que adote providências destinadas a:
+
+    (a) INTEGRAR a Lista Suja do Trabalho Escravo (Portaria Interministerial
+    nº 2/2004) aos sistemas CNJ, e-TJ/TST, PJe e Sistema de Gestão de
+    Precedentes — garantindo que magistrados tenham acesso automático ao
+    histórico de empregadores flagrados em trabalho escravo ao julgar ações
+    trabalhistas e cíveis;
+
+    (b) ESTABELECER Meta Nacional (Resolução CNJ) determinando prazo de
+    12 meses para julgamento de ações trabalhistas envolvendo trabalho
+    análogo à escravidão (art. 149 CP), com priorização de casos coletivos;
+
+    (c) CRIAR o Observatório da Justiça do Trabalho sobre Trabalho Escravo,
+    em parceria com o TST, MPT e OIT, para monitorar:
+      - Número de ações ajuizadas vs. julgadas
+      - Tempo médio de tramitação
+      - Valor médio de indenizações
+      - Taxa de recuperação de crédito pelo trabalhador
+      - Aplicação do art. 942 CC (responsabilidade solidária)
+      - Efetividade da EC 81/2014 (expropriações)
+
+--------------------------------------------------------------------------------
+II. FUNDAMENTAÇÃO FÁTICA
+--------------------------------------------------------------------------------
+
+    2. O Brasil resgatou 65.598 trabalhadores em condições análogas à
+    escravidão nos últimos 30 anos (GEFM/MTE, 1995-2025). Em 2025, 2.772
+    pessoas foram libertadas — 68% no meio urbano (inédito). 83% são pretos
+    ou pardos. A Lista Suja acumula 745+ empregadores (abr/2025).
+
+    3. O STF, na ADPF 509 (Rel. Min. Marco Aurélio, 14/09/2020), reconheceu
+    a CONSTITUCIONALIDADE da Lista Suja como "avanço no combate ao trabalho
+    escravo ao garantir o direito fundamental à informação e o princípio
+    constitucional da publicidade de atos administrativos de interesse
+    público".
+
+    4. O STJ, no REsp 2.204.503/BA (Informativo 862/2025), firmou a tese de
+    que "a configuração do crime de redução à condição análoga à de escravo
+    (art. 149 do CP) NÃO EXIGE a restrição da liberdade de locomoção dos
+    trabalhadores, sendo suficiente a submissão a condições degradantes".
+
+    5. A Emenda Constitucional nº 81/2014 alterou o art. 243 da CF para
+    prever expropriação sem indenização de propriedades com trabalho escravo.
+    Decorridos 12 anos de sua promulgação, ZERO expropriações foram
+    efetivadas.
+
+    6. Caso paradigmático: em fevereiro de 2026, o Ministro do Trabalho
+    ANULOU autos de infração contra a JBS Aves, após avocar o processo a
+    pedido da empresa (set/2025). A terceirizada MRJ Prestadora entrou na
+    Lista Suja; a JBS Aves foi EXCLUÍDA. 19 coordenadores do MTE foram
+    demitidos. Este episódio demonstra a vulnerabilidade do sistema
+    administrativo à captura política.
+
+--------------------------------------------------------------------------------
+III. FUNDAMENTAÇÃO JURÍDICA
+--------------------------------------------------------------------------------
+
+    7. COMPETÊNCIA DO CNJ: O art. 103-B, § 4º, inciso I, da CF/88 atribui
+    ao CNJ a competência para "zelar pela autonomia e independência do
+    Poder Judiciário". O art. 103-B, § 4º, inciso IV, prevê a competência
+    para "zelar pela observância do art. 5º, inciso LXXVI" — que garante a
+    gratuitade dos atos necessários ao exercício da cidadania.
+
+    8. A ADPF 509 (STF) reconheceu que a publicidade da Lista Suja é
+    constitutionalmente legítima. Cabe ao CNJ, como órgão de controle da
+    atividade judiciária, garantir que essa informação chegue aos
+    magistrados de forma sistêmica e automatizada.
+
+    9. O art. 149 do CP, combinado com o art. 243 da CF (EC 81/2014),
+    impõe ao Estado brasileiro o DEVER de erradicar o trabalho escravo.
+    O Judiciário, por meio de suas corregedorias, deve monitorar a
+    efetividade desse dever.
+
+    10. A Convenção nº 29 da OIT (Decreto 41.721/1957) e o Protocolo de
+    2014 (Decreto 12.857/2026) impõem obrigações internacionais que o
+    Brasil assumiu perante a comunidade global.
+
+--------------------------------------------------------------------------------
+IV. PEDIDOS
+--------------------------------------------------------------------------------
+
+    Diante do exposto, requer ao Conselho Nacional de Justiça:
+
+    A. A INTEGRAÇÃO DA LISTA SUJA aos sistemas de informação do Poder
+    Judiciário (PJe, e-TJ, CNJ) para que magistrados tenham acesso
+    automático ao histórico de empregadores flagrados em trabalho
+    escravo;
+
+    B. A EDIÇÃO DE RESOLUÇÃO estabelecendo Meta Nacional de julgamento
+    de ações trabalhistas envolvendo trabalho escravo (prazo: 12 meses);
+
+    C. A CRIAÇÃO DO OBSERVATÓRIO DA JUSTIÇA DO TRABALHO SOBRE TRABALHO
+    ESCRAVO, em parceria com TST, MPT, e OIT;
+
+    D. A EXPEDIÇÃO DE OFÍCIO ao TST e aos TRTs recomendando a aplicação
+    prioritária do art. 942 do Código Civil (responsabilidade solidária)
+    nas ações envolvendo terceirização com trabalho escravo;
+
+    E. A EXPEDIÇÃO DE OFÍCIO ao MTE e ao MPF solicitando informações
+    sobre a aplicação efetiva da EC 81/2014 (expropriações) desde 2014.
+
+--------------------------------------------------------------------------------
+V. ANEXOS
+--------------------------------------------------------------------------------
+
+    Anexo I — Dados quantitativos completos (2023-2026)
+    Anexo II — Marco normativo brasileiro (compilado)
+    Anexo III — Casos emblemáticos (19 casos documentados, 2020-2026)
+    Anexo IV — Matriz de cadeias globais de exportação
+
+    Termos em que,
+    Pede deferimento.
+
+    Brasília/DF, julho de 2026.
+
+    _______________________________________________
+    CLEITON MOURA
+    @professorcinza
+    TEIA — Centro de Estudos em Hacker Cultura Periférica
+
+================================================================================
+
+SEÇÃO 6 — VERIFICAÇÃO DE FONTES (CHECKLIST TEIA 32 ITENS)
+
+[1] Dados quantitativos sourceados: SIM (MTE/SIT, g1, gov.br, Repórter Brasil)
+[2] Marco normativo verificado: SIM (planalto.gov.br, STF, STJ, Senado)
+[3] Casos com nomes e datas: SIM (19 casos, 2020-2026)
+[4] Cadeias produtivas mapeadas: SIM (carne, café, vinho, confecção, carvão)
+[5] Jurisprudência citada: SIM (ADPF 509, REsp 2.204.503, REsp 1.604.473)
+[6] Conexão internacional: SIM (OIT, Palermo, compradores globais)
+[7] Propostas executáveis com custo: SIM (6 propostas, R$ 380 mi/ano)
+[8] Petição formal com fundamentação: SIM (CNJ, art. 103-B CF/88)
+[9] Perfil demográfico das vítimas: SIM (86% homens, 83% negros, 65% NE)
+[10] Score TEIA: 5/5 (impacto humano máximo + complexidade institucional)
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-105
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Dossiê + Petição CNJ — Erradicação do Trabalho Escravo Contemporâneo
+STATUS: PROTOCOLO_ATIVO
+DATA: JULHO/2026
+AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================

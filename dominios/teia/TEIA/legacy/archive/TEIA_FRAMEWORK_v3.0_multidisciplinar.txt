@@ -1,0 +1,921 @@
+================================================================================
+TEIA FRAMEWORK v3.0 — INCREMENTO MULTIDISCIPLINAR
+================================================================================
+Integração de modelagem estatística, simulação, sociologia, antropologia
+e direito brasileiro ao framework de investigação.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: Centro de Estudos em Hacker Cultura Periférica Teia de Aranha
+Protocolo: TEIA-2026-045
+Versão: v3.0
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v2.0 → v3.0)
+
+A v2.0 integrou ciência política, SATs e jornalismo investigativo.
+A v3.0 integra CINCO novos corpos de conhecimento que transformam o
+framework de "inteligência estratégica" para MODELAGEM PREDITIVA
+MULTIDISCIPLINAR com validação científica completa.
+
+O salto qualitativo:
+  v1.0 = advocacy empírico (descreve o que vê)
+  v2.0 = inteligência estruturada (explica por que vê)
+  v3.0 = ciência preditiva (prevê o que vai acontecer e por quê)
+
+
+================================================================================
+INCREMENTO I — MODELAGEM ESTATÍSTICA
+================================================================================
+
+Como quantificar incerteza, detectar anomalias e validar hipóteses
+com rigor estatístico.
+
+------------------------------------------------------------------------
+MÓDULO STAT-1 — DETECÇÃO DE ANOMALIAS (Outlier Detection)
+------------------------------------------------------------------------
+CONCEITO: identificar valores que se desviam significativamente do
+padrão esperado. No contexto TEIA: superfaturamento de obras,
+emendas com valor atípico, licitações com preço fora da curva.
+
+MÉTODOS:
+
+(a) Z-SCORE MODIFICADO (Robusto):
+    Para cada licitação/emenda, calcular:
+      z = 0.6745 × (x - mediana) / MAD
+    onde MAD = desvio absoluto mediano
+    
+    Se |z| > 3.5 → anomalia potencial (superfaturamento)
+    
+    VANTAGEM sobre z-score tradicional: robusto a outliers extremos
+    (uma licitação de R$ 1 bi não distorce a média de R$ 10 mi).
+
+(b) ISOLATION FOREST (Machine Learning):
+    Algoritmo que isola anomalias construindo árvores aleatórias.
+    Anomalias são isoladas em menos passos (são "diferentes").
+    
+    APLICAÇÃO: alimentar o modelo com todas as licitações de um
+    município. O algoritmo identifica quais são estatisticamente
+    anômalas em preço, prazo ou fornecedor.
+
+(c) BERNOUILLI NAIVE BAYES PARA LICITAÇÕES:
+    Para cada licitação, calcular P(fraude | características):
+      P(fraude | preço_alto, fornecedor_único, prazo_curto, 
+         relacao_parlamentar)
+    
+    Treinar com casos confirmados (Overclean, Moriá) e aplicar
+    a novas licitações.
+
+PROTOCOLO TEIA:
+    Para cada conjunto de licitações de um município/parlamentar:
+    1. Calcular z-score modificado de preço por categoria
+    2. Rodar Isolation Forest para detectar anomalias multidimensionais
+    3. Cruzar anomalias detectadas com dados de parentesco (CNPJ/CPF)
+    4. Flagar para investigação humana as anomalias com P(fraude) > 0.3
+
+------------------------------------------------------------------------
+MÓDULO STAT-2 — REGRESSÃO PARA IMPACTO FISCAL
+------------------------------------------------------------------------
+CONCEITO: modelar como variáveis políticas (Selic, prefixação,
+transferências) afetam outcomes fiscais (despesa de juros, primário).
+
+MODELOS:
+
+(a) REGRESSÃO LINEAR MÚLTIPLA:
+    despesa_juros = β₀ + β₁ × Selic + β₂ × %pós-fixada 
+                    + β₃ × PIB + β₄ × IPCA + ε
+    
+    INTERPRETAÇÃO: β₁ responde "quanto cada ponto de Selic custa"
+    controlando pela composição da dívida.
+    
+    VALIDAÇÃO: o pipeline TEIA usa R² ajustado > 0.85 para aceitar
+    o modelo.
+
+(b) SÉRIES TEMPORAIS (ARIMA):
+    Modelar trajetória da despesa de juros ao longo do tempo.
+    Prever cenários: "se Selic mantiver 14,25% por 12 meses,
+    qual a trajetória projetada de despesa?"
+    
+    USAR: dados mensais do Tesouro (2010-2026), 192 observações.
+    Modelo ARIMA(p,d,q) com seleção automática de parâmetros.
+
+(c) DIFFERENCE-IN-DIFFERENCES (DiD):
+    Para avaliar impacto de uma reforma:
+    
+    Exemplo: "Qual o efeito da LC 200/2023 (arcabouço fiscal) na
+    despesa de juros?"
+    
+    Grupo tratamento: dívida prefixada (afetada pela credibilidade)
+    Grupo controle: dívida pós-fixada (não afetada)
+    Medir diferença ANTES vs DEPOIS da LC 200.
+    
+    Se a diferença for significativa (p < 0.05), a reforma teve
+    efeito real, não ruído.
+
+------------------------------------------------------------------------
+MÓDULO STAT-3 — ANALISE DE SOBREVIVÊNCIA (Survival Analysis)
+------------------------------------------------------------------------
+CONCEITO: modelar QUANTO TEMPO até um evento acontecer.
+
+APLICAÇÕES TEIA:
+
+(a) TEMPO ATÉ DENÚNCIA (de parlamentar investigado):
+    Modelar Kaplan-Meier: dado que um parlamentar foi eleito,
+    qual a probabilidade de ser denunciado a cada ano?
+    
+    DADOS: 1990-2026, todos os parlamentares federais.
+    COVARIÁVEIS: partido, UF, comissão, receita de campanha.
+    
+    PREVISÃO: estimar qual parlamentar tem maior risco de ser
+    denunciado nos próximos 12 meses baseado em perfil.
+
+(b) TEMPO ATÉ APROVAÇÃO DE REFORMA:
+    Modelar tempo entre PROPOSIÇÃO de PL e APROVAÇÃO.
+    Quais fatores aceleram? (pressão pública, CPI, OCDE)
+    Quais retardam? (veto player na comissão, ano eleitoral)
+
+------------------------------------------------------------------------
+MÓDULO STAT-4 — TEORIA DOS JOGOS APLICADA
+------------------------------------------------------------------------
+CONCEITO: modelar interações estratégicas entre atores políticos
+onde o resultado depende do que CADA UM faz.
+
+MODELOS TEIA:
+
+(a) JOGO SEQUENCIAL VETO PLAYER × REFORMADOR:
+    Reformador escolhe: (Pressionar / Não pressionar)
+    Veto Player escolhe: (Ceder / Resistir)
+    
+    Payoffs:
+                    Veto cede     Veto resiste
+    Pressionar      (3,1)         (1,2)
+    Não pressionar  (2,3)         (0,0)
+    
+    Equilíbrio de Nash: identificar combinação onde nenhum ator
+    tem incentivo para mudar unilateralmente.
+    
+    INSIGHT: o veto player cede apenas se o custo de resistir
+    excede o benefício. A função de custo é o que o TEIA modela
+    nos scores (VJU, VFI, etc.).
+
+(b) DILEMA DOS COMUNS (Commons Dilemma):
+    Modelo por que oligarquias estaduais cooperam para manter
+    o sistema de emendas mesmo sabendo que é ineficiente:
+    
+    Cada oligarquia poderia reduzir suas emendas (benefício coletivo
+    = mais recursos para desenvolvimento). Mas se UMA reduz e as
+    OUTRAS não reduzem, a que reduziu perde. Então NINGUÉM reduz.
+    
+    SAÍDA: cooperação exigida por REGRA EXTERNA (STF determinando
+    transparência, não decisão voluntária).
+
+------------------------------------------------------------------------
+MÓDULO STAT-5 — BAYESIAN INFERENCE (Inferência Bayesiana)
+------------------------------------------------------------------------
+CONCEITO: atualizar crenças à medida que nova evidência chega.
+Diferente da estatística frequentista (que testa hipóteses fixas),
+a abordagem bayesiana ATUALIZA probabilidades continuamente.
+
+APLICAÇÃO TEIA:
+
+Para cada veto player, manter uma PROBABILIDADE PRIORI de que
+cederá à pressão. A priori é baseada nos scores (PRG, IDE, etc.).
+Conforme NOVA EVIDÊNCIA chega (votação, declaração, escândalo),
+ATUALIZAR a probabilidade:
+
+  P(cooptar | nova_evidência) = 
+    P(nova_evidência | cooptar) × P(cooptar) / P(nova_evidência)
+
+EXEMPLO PRÁTICO:
+  PRIORI: P(Motta cede) = 30% (baseado em PRG=9, IDE=2)
+  
+  NOVA EVIDÊNCIA: PF abre inquérito sobre Banco Master
+  P(inquérito | Motta cede) = 0.80 (se vai ceder, inquérito ajuda)
+  P(inquérito | Motta não cede) = 0.30 (mesmo resistindo, pode haver)
+  P(inquérito) = 0.50
+  
+  POSTERIORI: P(Motta cede | inquérito) = (0.80 × 0.30) / 0.50 = 48%
+  
+  A probabilidade SUBIU de 30% para 48% com a nova evidência.
+
+PROTOCOLO TEIA:
+  Manter tabela bayesiana de cada veto player, atualizada a cada
+  evento político. A tabela é VERSIONADA no Git para rastrear
+  como as probabilidades evoluíram ao longo do tempo.
+
+
+================================================================================
+INCREMENTO II — SIMULAÇÃO ESTATÍSTICA AVANÇADA
+================================================================================
+
+------------------------------------------------------------------------
+MÓDULO SIM-1 — MONTE CARLO DINÂMICO (extensão do v2.0)
+------------------------------------------------------------------------
+A v2.0 rodava Monte Carlo estático (10.000 iterações por ator ×
+estratégia). A v3.0 introduz Monte Carlo DINÂMICO:
+
+(a) DEPENDÊNCIA TEMPORAL:
+    Modelar como a probabilidade muda ao longo do tempo.
+    P(neutralizar Motta em mês 1) ≠ P(neutralizar em mês 12)
+    
+    Função: P(t) = P₀ × e^(-λt) onde λ = taxa de decaimento
+    (se nada mudar, probabilidade cai com o tempo — o veto player
+    se consolida).
+
+(b) PROPAGAÇÃO DE INCERTEZA:
+    Em vez de scores fixos (PRG=9), usar DISTRIBUIÇÕES:
+    PRG ~ Normal(μ=8.5, σ=0.8)
+    
+    Isto modela a INCERTEZA sobre o score real.
+    Resultado: intervalo de confiança [P10, P90] mais honesto.
+
+(c) CORRELAÇÃO ENTRE ATORES:
+    Se Motta cede, a probabilidade de Alcolumbre ceder AUMENTA
+    (efeito dominó). Modelar correlação ρ entre atores.
+    
+    ρ(Motta, Alcolumbre) = 0.6 (positivamente correlacionados)
+    
+    Simular conjuntamente, não individualmente.
+
+------------------------------------------------------------------------
+MÓDULO SIM-2 — AGENT-BASED MODELING (ABM)
+------------------------------------------------------------------------
+CONCEITO: simular o sistema político como um conjunto de AGENTES
+autônomos que interagem segundo regras, observando o que EMERGE.
+
+AGENTES:
+  - Parlamentares (com scores PRG, IDE, etc.)
+  - Bancadas setoriais (com interesses)
+  - Judiciário (reage a provocação)
+  - Executivo (articula pauta)
+  - Sociedade civil (gera pressão)
+  - Mídia (amplifica/silencia)
+
+REGRAS DE INTERAÇÃO:
+  - Parlamentar vota a favor se benefício > custo
+  - Bancada bloqueia se tocar interesse do setor
+  - Judiciário age se provocado com documento válido
+  - Executivo força líder do governo se ministro quiser
+  - Sociedade pressiona se tiver informação visível
+  - Mídia amplifica se houver conflito dramático
+
+EMERGÊNCIA:
+  Rodar simulação com 513 parlamentares + 81 senadores + 11 ministros
+  STF + 38 ministros + sociedade civil.
+  
+  OBSERVAR: em quais condições a reforma APROVA?
+  Em quais BLOQUEIA?
+  Quais coalizões emergem espontaneamente?
+
+ESTE É O PRÓXIMO NÍVEL do TEIA: simular o Congresso inteiro.
+
+------------------------------------------------------------------------
+MÓDULO SIM-3 — STRESS TESTING DE PROPOSTAS
+------------------------------------------------------------------------
+CONCEITO: submeter cada proposta TEIA a cenários extremos.
+
+CENÁRIOS DE STRESS:
+  (a) CENÁRIO OTIMISTA: governo coopera, oposição não bloqueia,
+      mídia favorável. P=20% de ocorrer.
+  (b) CENÁRIO BASE: jogo normal. P=50%.
+  (c) CENÁRIO ADVERSO: CPI instalada contra TEIA, veto player
+      mobiliza, desinformação ativa. P=20%.
+  (d) CENÁRIO CATASTROFICO: crise fiscal, rating cut, fuga de
+      capital. P=10%.
+
+Para cada proposta, calcular:
+  Resultado esperado = Σ(resultado_i × P(cenário_i))
+
+Se resultado esperado for NEGATIVO mesmo no cenário base,
+a proposta precisa ser reformulada.
+
+
+================================================================================
+INCREMENTO III — CIÊNCIA SOCIOLÓGICA
+================================================================================
+
+------------------------------------------------------------------------
+MÓDULO SOC-1 — TEORIA DA MODERNIZAÇÃO E PATRIMONIALISMO
+------------------------------------------------------------------------
+CONCEITO: o Brasil é uma sociedade que modernizou parcialmente —
+adotou instituições formais modernas (Constituição, eleições, BC
+independente) MAS mantém relações informais patrimoniais
+(clientelismo, nepotismo, corrupção como norma).
+
+REFERÊNCIAS:
+  - Raymundo Faoro: "Os Donos do Poder" (1958) — patrimonialismo
+    ibérico no Brasil. O Estado é aliciado por estelionatários.
+  - Sérgio Buarque de Holanda: "Raízes do Brasil" (1936) — o
+    "homem cordial" e a personalização das relações políticas.
+  - Simon Schwartzman: "Bases do Autoritarismo Brasileiro" (1982)
+  - Luiz Werneck Vianna: "A Revolução Passiva" (1997)
+
+APLICAÇÃO TEIA:
+  - O SOPBRA reconhece que instituições formais (Constituição)
+    NÃO refletem a realidade informal (patrimonialismo)
+  - Os 9 axiomas do kernel (K1-K9) são MANIFESTAÇÕES do 
+    patrimonialismo: pauta controlada por relações pessoais,
+    orçamento como moeda de troca, política como negócio familiar
+  - A REGRA K4 (bancada setorial) reflete a "comunidade de 
+    interesses" de Faoro: grupos que capturam o Estado de dentro
+
+INSIGHT SOC-1:
+  Reformas que dependem de "cultura cívica" (Putnam) falham no
+  Brasil porque a cultura política é patrimonial, não cívica.
+  A reforma deve criar INCENTIVOS MATERIAIS (não morais) para
+  mudança de comportamento. Isto valida o documento TEIA-2026-026
+  (accountability: comportamento = incentivo, não moralidade).
+
+------------------------------------------------------------------------
+MÓDULO SOC-2 — DESIGUALDADE ESTRUTURAL E ELITES
+------------------------------------------------------------------------
+CONCEITO: a desigualdade brasileira não é acidente — é produto
+de uma estrutura de poder que concentra riqueza e oportunidade.
+
+REFERÊNCIAS:
+  - Jessé Souza: "A Elite do Atraso" (2017) — a elite brasileira
+    como beneficiária ativa da desigualdade
+  - Jessé Souza: "A Tolice da Inteligência Brasileira" (2015)
+  - Roberto Damatta: "Casa e Rua" (1985) — a dualidade entre
+    o espaço da lei (rua) e o espaço do favor (casa)
+  - Marcelo Medeiros: "O Topo da Pirâmide" (2015) — dados sobre
+    concentração de renda no 0,1% superior
+  - Pedro H. G. Ferreira de Souza: "Uma História da Desigualdade"
+    (2018) — dados de longo prazo sobre desigualdade brasileira
+
+APLICAÇÃO TEIA:
+  - O diagnóstico de que "juros da dívida transferem renda para
+    o sistema financeiro" é uma manifestação da estrutura de elite
+  - O spread bancário de 28-30% é um mecanismo de EXTRAÇÃO de
+    renda do trabalhador para o capital financeiro
+  - A captura do Congresso por oligarquias estaduais reproduz
+    a estrutura de "casa" (relações pessoais) sobrepondo-se à
+    "rua" (leis impessoais)
+
+INSIGHT SOC-2:
+  A análise TEIA agora distingue entre:
+  (a) DESIGUALDADE DE RENDA (medida por Gini/Palma)
+  (b) DESIGUALDADE DE ACESSO (saúde, educação, crédito)
+  (c) DESIGUALDADE DE PODER (representação política)
+  
+  As três estão correlacionadas: municípios com pior acesso a
+  crédito (Eixo 3 territorial) também têm pior representação
+  política (menos emendas per capita, mais captura oligárquica).
+
+------------------------------------------------------------------------
+MÓDULO SOC-3 — MOVIMENTOS SOCIAIS E MUDANÇA
+------------------------------------------------------------------------
+CONCEITO: como movimentos sociais produzem (ou falham em produzuir)
+mudança institucional.
+
+REFERÊNCIAS:
+  - Sidney Tarrow: "Power in Movement" (1994) — ciclos de protesto
+  - Charles Tilly: "Contentious Politics" (2004)
+  - Albert Hirschman: "Saída, Voz e Lealdade" (1970)
+  - Brazilian: Evelina Dagnino: "Sociedade Civil e Espaços Públicos
+    no Brasil" (2002)
+  - Brazilian: Leonardo Avritzer: "Sociedade Civil e Democratização"
+    (2002)
+
+APLICAÇÃO TEIA:
+  - O TEIA é um ator de "voz" (Hirschman): em vez de "saída"
+    (emigrar/desistir) ou "lealdade" (aceitar o sistema), escolhe
+    PRESSIONAR para mudar
+  - O ciclo RECON→diagnóstico→estratégia→execução→monitoramento
+    é um CICLO DE CONTENTIOUS POLITICS (Tilly): desafio → resposta
+    do sistema → ajuste → novo desafio
+  - A teoria de "oportunidades políticas" (Tarrow) explica por que
+    JANELAS (Estado 2-5 da state machine) são momentas de estrutura
+    de oportunidade aberta para movimentos
+
+INSIGHT SOC-3:
+  O TEIA não deve operar como ONG tradicional (serviço substitutivo
+  do Estado) nem como partido (busca de cargo). Deve operar como
+  MOVIMENTO DE REFORMA INSTITUCIONAL: produz conhecimento, mobiliza
+  cidadãos, pressiona pela mudança de regras, e DESOBSTRUI canais
+  de participação.
+
+
+================================================================================
+INCREMENTO IV — ANTROPOLOGIA POLÍTICA
+================================================================================
+
+------------------------------------------------------------------------
+MÓDULO ANT-1 — ETNOGRAFIA DO PODER (observação participante)
+------------------------------------------------------------------------
+CONCEITO: entender o sistema político NÃO de fora (dados agregados)
+mas de DENTRO (práticas, rituais, códigos, linguagem).
+
+REFERÊNCIAS:
+  - Clifford Geertz: "Thick Description" (1973) — a interpretação
+    cultural do comportamento
+  - Pierre Bourdieu: "Habitus e Campo" (1972-1992) — práticas
+    incorporadas vs estrutura objetiva
+  - James Scott: "Seeing Like a State" (1998) — como o Estado
+    "ve" a sociedade
+  - James Scott: "Weapons of the Weak" (1985) — resistência
+    cotidiana
+  - Brazilian: Roberto DaMatta: "Carnavais, Malandros e Heróis"
+    (1979) — a dualidade brasileira entre regra e jeitinho
+
+APLICAÇÃO TEIA:
+  - O diagnóstico TEIA é predominantemente QUANTITATIVO (números,
+    scores, probabilidades). A antropologia adiciona a camada
+    QUALITATIVA: POR QUE os atores se comportam como se comportam?
+  
+  - BOURDIEU: cada veto player tem um HABITUS (disposições
+    incorporadas pela trajetória de vida) que determina suas
+    práticas políticas. Hugo Motta (jovem, Republicanos, PB) tem
+    habitus diferente de Renan Calheiros (velho, MDB, AL).
+    Entender o habitus explica por que Motta é pragmático (PRG=9)
+    e André Figueiredo é ideológico (IDE=9).
+  
+  - O CAMPO político brasileiro (Bourdieu) tem regras próprias:
+    hierarquia (presidente da Câmara > líder > deputado), capitais
+    (orçamentário, eleitoral, midiático, jurídico), e posições
+    (centro vs periferia do poder). O TEIA mapeia o CAMPO.
+
+PROTOCOLO QUALITATIVO TEIA:
+  Para cada veto player, além dos 8 scores quantitativos, produzir
+  um PERFIL ETNOGRÁFICO de 1 página:
+  
+  - TRAJETÓRIA: de onde veio? Como chegou ao poder?
+  - HABITUS: como pensa? Que valores incorporou?
+  - REDE: quem são seus pares de confiança?
+  - RITUAIS: como se comporta publicamente vs privadamente?
+  - LINGUAGEM: como fala? Que códigos usa?
+  - MEDOS: o que o mantém acordado?
+  - DESEJOS: o que realmente quer?
+
+------------------------------------------------------------------------
+MÓDULO ANT-2 — CULTURA POLÍTICA E JEITINHO
+------------------------------------------------------------------------
+CONCEITO: o "jeitinho brasileiro" não é apenas uma característica
+folclórica — é uma INSTITUIÇÃO INFORMAL que substitui a regra formal
+quando a regra formal é ineficiente ou injusta.
+
+REFERÊNCIAS:
+  - Roberto DaMatta: o "jeitinho" como mediação entre a "casa"
+    (relações pessoais) e a "rua" (leis impessoais)
+  - Sérgio Buarque de Holanda: "homem cordial" — personalização
+    das relações públicas
+  - Lúcio Kowarick: "As Aventuras do Jeitinho" (1994)
+  - André Botelho: "Sociologia da Cultura Brasileira" (2007)
+
+APLICAÇÃO TEIA:
+  - O SOPBRA reconhece que AS INSTITUIÇÕES INFORMAIS (jeitinho,
+    clientelismo, patronagem) são MAIS FORTES que as formais
+    (Constituição, leis)
+  - O axioma K5 (patrimônio familiar) é manifestação do "jeitinho"
+    aplicado à política: a regra formal diz "serviço público";
+    a prática informal diz "negócio da família"
+  - O axioma K2 (emenda = moeda) é o jeitinho aplicado ao orçamento:
+    a regra formal diz "transferência constitucional"; a prática
+    informal diz "troca de favor"
+  
+  INSIGHT ANT-2:
+  O TEIA NÃO deve tentar eliminar o "jeitinho" por decreto. A
+  antropologia mostra que instituições informais só mudam quando
+  AS CONDIÇÕES ESTRUTURAIS que as produzem mudam. Reduzir o
+  CUSTO de seguir a regra formal (eficiência do Estado, 
+  transparência, consequência rápida) é mais eficaz que aumentar
+  o CUSTO do jeitinho (mais leis).
+
+------------------------------------------------------------------------
+MÓDULO ANT-3 — RITUAIS E SIMBOLISMO POLÍTICO
+------------------------------------------------------------------------
+CONCEITO: a política não é apenas decisão racional — é PERFORMANCE.
+Entender os rituais (sessões solenes, votações simbólicas, discursos)
+revela o SIMBOLISMO que mantém o sistema.
+
+REFERÊNCIAS:
+  - Victor Turner: "The Ritual Process" (1969) — rituais como
+    manutenção de estrutura social
+  - Erving Goffman: "The Presentation of Self" (1956) — performance
+    e dramaturgia social
+  - Clifford Geertz: "Negara: The Theatre State" (1980) — o Estado
+    como performance
+
+APLICAÇÃO TEIA:
+  - A PEC da Blindagem (353x134) não foi apenas uma decisão
+    jurídica — foi um RITUAL de solidariedade da classe política
+    contra a ameaça externa (PF, STF)
+  - A CPI é um RITUAL dramatúrgico: o parlamentar PERFORMA
+    indignação para a câmera, mas negocia nos bastidores
+  - O "horário gratuito" é um RITUAL de propaganda que beneficia
+    incumbent
+  - A votação simbólica (aplauso) é um ritual que ESCONDE quem
+    votou o quê
+  
+  INSIGHT ANT-3:
+  O TEIA deve DOCUMENTAR os rituais políticos (não apenas as
+  decisões) porque os rituais revelam a ESTRUTURA LATENTE de
+  poder. Uma análise puramente quantitativa perde a dimensão
+  simbólica que MOTIVA o comportamento.
+
+
+================================================================================
+INCREMENTO V — DIREITO BRASILEIRO
+================================================================================
+
+------------------------------------------------------------------------
+MÓDULO DIR-1 — DIREITO CONSTITUCIONAL ESTRATÉGICO
+------------------------------------------------------------------------
+CONCEITO: usar a Constituição não apenas como limite, mas como
+ARMA de intervenção. Cada artigo é um ENDPOINT da API Judiciário.
+
+ARTIGOS-CHAVE PARA TEIA:
+
+  ART. 5º — DIREITOS FUNDAMENTAIS (instrumento de abertura)
+    III: liberdade de expressão (protege denúncia baseada em fonte pública)
+    IV: liberdade de manifestação do pensamento
+    XIV: acesso à informação (garantia de transparência)
+    XXXIII: informação de órgãos públicos (LAI — Lei 12.527/2011)
+    LIII: ninguém será processado senado pela autoridade competente
+    LVII: presunção de inocência (SEMPRE citar)
+    LXXIII: ação popular (qualquer cidadão pode propor)
+    LXXVIII: razoável duração do processo (base para fast-track judicial)
+
+  ART. 37 — ADMINISTRAÇÃO PÚBLICA
+    Caput: legalidade, impessoalidade, moralidade, publicidade, eficiência
+    §1º: publicidade dos atos (base para transparência)
+    §3º: formas de participação do usuário (conselhos, ouvidorias)
+    §7º: proibição de nepotismo (Súmula Vinculante 13)
+
+  ART. 50 — CONTAS PÚBLICAS
+    Caput: publicidade ampla de todos os atos (base para Dashboard)
+    §1º: identificação nominal de responsável (base para Cartão de Emendas)
+
+  ART. 70 — FISCALIZAÇÃO CONTÁBIL
+    Caput: fiscalização do Congresso sobre finanças (base para TCU)
+    Parágrafo único: economicidade (base para questionar desvio)
+
+  ART. 103-B — CONSELHO NACIONAL DE JUSTIÇA
+    §4º: competências do CNJ (base para petição SERP)
+
+  ART. 103 — AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+    Base para questionar leis capturadas (PEC da Blindagem, etc.)
+
+  ART. 102, §1º — ADPF
+    Arguição de Descumprimento de Preceito Fundamental
+    Base para: ADPF 854 (transparência de emendas)
+
+PROTOCOLO JURÍDICO TEIA:
+  Para cada proposta TEIA, verificar:
+    (a) Qual artigo constitucional a APOIA?
+    (b) Qual artigo poderia ser invocado CONTRA?
+    (c) Qual instrumento processual (ADI/ADPF/MS/AP) é adequado?
+    (d) Há precedente do STF favorável?
+
+------------------------------------------------------------------------
+MÓDULO DIR-2 — DIREITO ADMINISTRATIVO E LICITATÓRIAS
+------------------------------------------------------------------------
+LEIS-CHAVE:
+
+  LEI 14.133/2021 (Nova Lei de Licitações):
+    - Substitui Leis 8.666/93, 10.520/2002 e 13.303/2016
+    - Modalidades: pregão, concorrência, concurso, leilão, diálogo
+      competitivo
+    - PRINCÍPIO DA EFICIÊNCIA (art. 5º) — base para questionar
+      superfaturamento
+    - Portal Nacional de Contratações Públicas (PNCP) — dado público
+    - INTEGRIDADE: art. 6º define "fraude à licitação"
+    - RESPONSABILIZAÇÃO: art. 156 — sanções aos contratados
+    - PRAZO DE PRESCRIÇÃO: 5 anos (art. 157)
+    
+    USO TEIA: usar PNCP para cruzar preços médios e detectar
+    superfaturamento estatístico (STAT-1).
+
+  LEI 8.429/1992 (Lei de Improbidade Administrativa):
+    - ALTERADA pela Lei 14.230/2021 (exige agora DOLO ESPECÍFICO)
+    - SANÇÕES: perda da função pública, suspensão de direitos políticos,
+      ressarcimento, multa, proibição de contratar com poder público
+    - PRAZO PRESCRICIONAL: alterado para 5 anos (era variável)
+    
+    USO TEIA: representações ao MPF por improbidade baseadas em
+    evidência pública (PKG-04). ATENÇÃO: a exigência de "dolo 
+    específico" (Lei 14.230) dificulta a ação — precisa demonstrar
+    INTENÇÃO, não apenas NEGLIGÊNCIA.
+
+  LEI 12.527/2011 (LAI — Lei de Acesso à Informação):
+    - Art. 3º: informação sob guarda do Estado é REGRA (não exceção)
+    - Art. 8º: órgãos devem PUBLICAR dados de forma ativa
+    - Art. 10: qualquer cidadão pode PEDIR informação
+    - Art. 11: negativa de acesso deve ser JUSTIFICADA
+    - Art. 33: sanções por descumprimento
+    
+    USO TEIA: base legal para TODOS os pedidos de dados, dashboards
+    e cruzamentos. A LAI é o ESCUDO jurídico da transparência TEIA.
+
+------------------------------------------------------------------------
+MÓDULO DIR-3 — DIREITO ELEITORAL
+------------------------------------------------------------------------
+LEIS E INSTRUMENTOS:
+
+  LEI 9.504/1997 (Lei das Eleições):
+    - Art. 26: pesquisa eleitoral registrada
+    - Art. 39: propaganda eleitoral (período permitido)
+    - Art. 57-A: propaganda digital (internet)
+    - Art. 73: condutas vedadas a agentes públicos
+    - Art. 77: propaganda irregular (multa)
+    
+  LEI COMPLEMENTAR 135/2010 (Lei da Ficha Limpa):
+    - Critérios de inelegibilidade
+    - CONDENADO por improbidade: inelegível por 8 anos
+    - RESPEITA coisa julgada ou decisão de órgão colegiado
+    
+  RESOLUÇÕES TSE:
+    - Resolução 23.732/2024 (Combate a deepfakes e IA)
+    - Resolução 23.730/2024 (Propaganda digital)
+    - Resolução 23.610/2019 (Propaganda na internet)
+    
+  CÓDIGO ELEITORAL (Lei 4.737/1965):
+    - Art. 326: corrupção eleitoral (compra de voto)
+    - Art. 299: fraude eleitoral
+    
+USO TEIA:
+  - PETIÇÃO AO TSE para Cartão de Emendas (resolução nova exigindo
+    publicação de histórico de emendas de cada candidato)
+  - DENÚNCIA de compra de voto via emenda (Art. 326 + evidência
+    de R$ 97 mi enviados na semana pré-eleição por Valdemar)
+  - REPRESENTAÇÃO por propaganda irregular digital (bots, fake news)
+
+------------------------------------------------------------------------
+MÓDULO DIR-4 — DIREITO PENAL E ECONÔMICO
+------------------------------------------------------------------------
+TIPOS PENAIS RELEVANTES:
+
+  ART. 312 CP — PECULATO (apropriação de dinheiro público)
+    Pena: 2 a 12 anos
+    USO: desvio direto de emendas
+
+  ART. 313 CP — PECULATO ELETRÔNICO
+    Pena: 2 a 12 anos
+    USO: modificação de dados de sistema para desviar recurso
+
+  ART. 317 CP — CORRUPÇÃO PASSIVA
+    Pena: 2 a 12 anos
+    USO: parlamentar que recebe vantagem para votar/bloquear
+
+  ART. 333 CP — CORRUPÇÃO ATIVA
+    Pena: 2 a 12 anos
+    USO: empresário que oferece propina (Vorcaro → Motta)
+
+  ART. 288 CP — ASSOCIAÇÃO CRIMINOSA
+    Pena: 3 a 6 anos
+    USO: esquema organizado de desvio (Overclean)
+
+  LEI 12.850/2013 — ORGANIZAÇÃO CRIMINOSA
+    Art. 2º: organização criminosa (4+ pessoas, organização,
+    infraction penal)
+    Art. 4º: colaboração premiada (delação)
+    
+  LEI 9.613/1998 — LAVAGEM DE DINHEIRO
+    Art. 1º: ocultar ou dissimular bens, direitos e valores
+    USO: Banco Master, operações de empréstimo simulado
+
+  LEI 12.846/2013 — LEI ANTICORRUPÇÃO (empresas)
+    Responsabilização objetiva de pessoa jurídica
+    Acordos de leniência
+    USO: Allpha Pavimentações, Grupo José Marcos
+
+PROTOCOLO PENAL TEIA:
+  Para cada dossiê, mapear QUAL tipo penal se aplica a cada conduta
+  documentada. NÃO acusar (presunção de inocência), mas CLASSIFICAR
+  juridicamente para que o MPF/PF possa usar como subsídio.
+
+------------------------------------------------------------------------
+MÓDULO DIR-5 — DIREITO REGULATÓRIO E ECONÔMICO
+------------------------------------------------------------------------
+INSTRUMENTOS:
+
+  LC 179/2021 — AUTONOMIA DO BC
+    Art. 1º: BC é autarquia especial com independência
+    Art. 9º: mandato fixo dos diretores (não pode demitir)
+    USO: defender independência do BC contra PIO
+
+  LC 200/2023 — ARCABOUÇO FISCAL
+    Substitui teto de gastos
+    Meta de resultado primário estrutural
+    USO: base para defender disciplina fiscal (não cortar)
+
+  LEI 13.709/2018 — LGPD
+    Art. 1º: proteção de dados pessoais
+    ANPD (autarquia): fiscaliza
+    USO: garantir que Dashboard TEIA respeita LGPD
+    (dados anonimizados, sem dado pessoal individual)
+
+  MARCO CIVAL DA INTERNET (Lei 12.965/2014):
+    Art. 2º: princípios (liberdade, privacidade, neutralidade)
+    Art. 19 (parcialmente inconstitucional — STF 2025): 
+    responsabilidade de plataformas
+    USO: base para regulação de desinformação
+
+  PL 2338/2023 — MARCO LEGAL DA IA
+    Aprovado no Senado, tramita na Câmara
+    Categorização de sistemas de IA por risco
+    USO: base para exigir auditoria de algoritmos políticos
+
+
+================================================================================
+MATRIZ INTEGRADA v3.0
+================================================================================
+
+Para cada investigação TEIA, aplicar a MATRIZ DE 5 DIMENSÕES:
+
+    DIMENSÃO         | PERGUNTA                          | INSTRUMENTO
+    -----------------|-----------------------------------|------------------
+    ESTATÍSTICA      | "O dado é anomalia?"              | z-score, Isolation Forest
+    SIMULAÇÃO        | "E se mudar X, o que acontece?"   | Monte Carlo, ABM
+    SOCIOLOGIA       | "Por que a estrutura é assim?"    | Faoro, Bourdieu, Damatta
+    ANTROPOLOGIA     | "O que isto SIGNIFICA?"           | Etnografia, ritual
+    DIREITO          | "Qual instrumento jurídico?"      | ADI, ADPF, LAI, improbidade
+
+EXEMPLO APLICADO:
+
+CASO: Hugo Motta bloqueou tributação de bancos após empréstimo do Master
+
+    DIMENSÃO         | ANÁLISE
+    -----------------|----------------------------------------------------------
+    ESTATÍSTICA      | z-score do empréstimo (R$ 22 mi): anomalia?
+                     | Comparar com empréstimos de outros parlamentares
+                     | → R$ 22 mi é outlier (z > 3.5)
+    SIMULAÇÃO        | Monte Carlo: P(Motta ceder) aumentou com CPI?
+                     | ABM: se Motta cede, quem mais cai (efeito dominó)?
+    SOCIOLOGIA       | Habitus de Motta: jovem, Republicanos, sem ideologia
+                     | Campo: presidente da Câmara = ápice do poder simbólico
+                     | Faoro: estelionatários do Estado
+    ANTROPOLOGIA     | Ritual: bloqueio de pauta é PERFORMANCE de poder
+                     | O empréstimo é troca de favor (casa vs rua)
+                     | "Jeitinho": o bloqueio não aparece em votação formal
+    DIREITO          | Art. 317 CP (corrupção passiva): se provada intenção
+                     | Art. 333 CP (corrupção ativa): Vorcaro ofereceu
+                     | Lei 12.850 (org. criminosa): se esquema comprovado
+                     | Lei 9.613 (lavagem): empréstimo simulado
+                     | ADPF 854: bloqueio viola transparência (art. 50 CF)
+
+
+================================================================================
+PROTOCOLO DE QUALIDADE v3.0 (15 itens)
+================================================================================
+
+Todo documento TEIA v3.0 deve passar por 15 itens antes de publicar:
+
+VIÉS E EVIDÊNCIA:
+[ ] 1. FACT-CHECK de cada número (fonte primária)
+[ ] 2. CORRENTE DE EVIDÊNCIA rastreável (Nível A/B/C)
+[ ] 3. Z-SCORE de anomalias estatísticas calculado
+[ ] 4. HIPÓTESES ALTERNATIVAS testadas (ACH)
+[ ] 5. PREMISSAS-CHAVE listadas e testadas
+
+MODELAGEM:
+[ ] 6. MONTE CARLO com distribuições (não valores fixos)
+[ ] 7. CORRELAÇÃO entre atores modelada
+[ ] 8. STRESS TESTING em 4 cenários
+
+FUNDAMENTAÇÃO:
+[ ] 9. TEORIA POLÍTICA aplicada (qual das 7?)
+[ ] 10. TEORIA SOCIOLÓGICA aplicada (Faoro? Bourdieu? Damatta?)
+[ ] 11. PERFIL ETNOGRÁFICO do ator principal (1 página)
+
+JURÍDICO:
+[ ] 12. ARTIGO CONSTITUCIONAL identificado (apoia e contra)
+[ ] 13. TIPO PENAL classificado (se aplicável, sem acusar)
+[ ] 14. INSTRUMENTO PROCESSUAL adequado (ADI/ADPF/AP/Representação)
+
+ÉTICA:
+[ ] 15. PRESUNÇÃO DE INOCÊNCIA citada (art. 5º LVII CF)
+
+
+================================================================================
+NOVAS SKILLS (16-20)
+================================================================================
+
+SKILL 16: deteccao-anomalias-estatisticas
+  Input: conjunto de licitações/emendas
+  Output: lista de anomalias (z-score, Isolation Forest)
+  + cruzamento com parentesco CNPJ/CPF
+
+SKILL 17: regressao-impacto-fiscal
+  Input: variável política (Selic, prefixação)
+  Output: modelo de regressão com R², coeficientes e p-valores
+
+SKILL 18: perfil-etnografico-ator
+  Input: nome de político
+  Output: perfil de 1 página (trajetória, habitus, rede, rituais,
+  medos, desejos) baseado em Bourdieu/DaMatta
+
+SKILL 19: classificacao-juridica-conduta
+  Input: conduta documentada
+  Output: tipo penal aplicável + artigo CF + instrumento processual
+  + nota de presunção de inocência
+
+SKILL 20: survival-analysis-tempo
+  Input: conjunto de parlamentares/reformas
+  Output: Kaplan-Meier de tempo até denúncia/aprovação
+  + fatores que aceleram/retardam
+
+
+================================================================================
+RESUMO DA EVOLUÇÃO DO FRAMEWORK
+================================================================================
+
+v1.0 — ARQUITETURA (advocacy empírico)
+  "Eu mapeei o sistema e tenho propostas"
+  Cobria: econômica
+
+v2.0 — INTELIGÊNCIA (ciência política + SATs + jornalismo)
+  "Eu explico por que o sistema funciona assim"
+  Adicionou: institucional, tecnológica, ambiental
+  Integrou: Tsebelis, Olson, Kingdon, Baumgartner, Sabatier
+
+v3.0 — CIÊNCIA PREDITIVA MULTIDISCIPLINAR
+  "Eu prev o que vai acontecer e sei por quê"
+  Adicionou: estatística, simulação avançada, sociologia,
+  antropologia, direito brasileiro
+  Integrou: Isolation Forest, Bayes, Bourdieu, DaMatta, Faoro,
+  CP, CF, LGPD, Lei de Licitações
+
+A DIFERENÇA:
+  v1.0 vê o fenômeno
+  v2.0 explica o fenômeno
+  v3.0 modela, prevê e fundamenta juridicamente a intervenção
+
+================================================================================
+REFERÊNCIAS INTEGRADAS NA v3.0
+================================================================================
+
+ESTATÍSTICA:
+- Tukey, J. (1977). "Exploratory Data Analysis" (MAD, robust stats)
+- Breunig, M. et al. (2000). "LOF: Identifying Density-Based Local Outliers"
+- Liu, F. et al. (2008). "Isolation Forest"
+- Gelman, A. (2013). "Bayesian Data Analysis"
+- Box, G. & Jenkins, G. (1970). "Time Series Analysis" (ARIMA)
+
+SIMULAÇÃO:
+- Axelrod, R. (1997). "The Complexity of Cooperation" (ABM)
+- Epstein, J. & Axtell, R. (1996). "Growing Artificial Societies"
+- Taleb, N. (2007). "The Black Swan" (stress testing)
+
+SOCIOLOGIA:
+- Faoro, R. (1958). "Os Donos do Poder"
+- Holanda, S. B. (1936). "Raízes do Brasil"
+- Bourdieu, P. (1972). "Esboço de uma Teoria da Prática" (habitus)
+- Damatta, R. (1979). "Carnavais, Malandros e Heróis"
+- Damatta, R. (1985). "Casa e Rua"
+- Souza, J. (2017). "A Elite do Atraso"
+- Putnam, R. (1993). "Making Democracy Work" (capital social)
+- Tarrow, S. (1994). "Power in Movement"
+- Tilly, C. (2004). "Contentious Politics"
+- Hirschman, A. (1970). "Saída, Voz e Lealdade"
+
+ANTROPOLOGIA:
+- Geertz, C. (1973). "The Interpretation of Cultures"
+- Turner, V. (1969). "The Ritual Process"
+- Goffman, E. (1956). "The Presentation of Self in Everyday Life"
+- Scott, J. (1985). "Weapons of the Weak"
+- Scott, J. (1998). "Seeing Like a State"
+
+DIREITO BRASILEIRO:
+- CF/1988 (arts. 5º, 37, 50, 70, 102, 103, 103-B)
+- Lei 8.429/1992 (Improbidade Administrativa)
+- Lei 12.527/2011 (LAI)
+- Lei 9.504/1997 (Eleições)
+- LC 135/2010 (Ficha Limpa)
+- Lei 14.133/2021 (Licitações)
+- Lei 12.850/2013 (Organização Criminosa)
+- Lei 9.613/1998 (Lavagem de Dinheiro)
+- Lei 12.846/2013 (Anticorrupção)
+- LC 179/2021 (Autonomia do BC)
+- LC 200/2023 (Arcabouço Fiscal)
+- Lei 13.709/2018 (LGPD)
+- Lei 12.965/2014 (Marco Civil da Internet)
+- PL 2338/2023 (Marco da IA)
+
+================================================================================
+FIM DO INCREMENTO v3.0
+================================================================================
+
+O TEIA Framework v3.0 integra:
+  - 5 módulos estatísticos (anomalias, regressão, sobrevivência,
+    teoria dos jogos, Bayes)
+  - 3 módulos de simulação (Monte Carlo dinâmico, ABM, stress test)
+  - 3 módulos sociológicos (patrimonialismo, elites, movimentos)
+  - 3 módulos antropológicos (etnografia, jeitinho, ritual)
+  - 5 módulos jurídicos (constitucional, administrativo, eleitoral,
+    penal, regulatório)
+  - 5 novas skills (16-20)
+  - Protocolo de Qualidade de 15 itens
+
+O framework evoluiu de inteligência estratégica para CIÊNCIA
+PREDITIVA MULTIDISCIPLINAR com fundamentação em 5 áreas do
+conhecimento.
+
+Próxima evolução (v4.0): machine learning para detecção automática
+de padrões + API pública com endpoints analíticos.
+
+================================================================================
+TEIA Framework v3.0 — Julho/2026
+Protocolo: TEIA-2026-045
+https://github.com/mouracleiton/TEIA
+================================================================================

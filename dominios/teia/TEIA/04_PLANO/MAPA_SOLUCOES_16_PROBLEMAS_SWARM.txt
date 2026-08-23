@@ -1,0 +1,487 @@
+================================================================================
+MAPA DE SOLUÇÕES DOS 16 PROBLEMAS ENDÊMICOS DO BRASIL
+================================================================================
+Decomposição sistemática + 3 frentes de swarm
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Protocolo: TEIA-2026-070
+Data: Julho/2026
+================================================================================
+
+DECOMPOSIÇÃO DO PROBLEMA RAIZ
+
+O Brasil tem 16 problemas endêmicos. Mas o SOPBRA (kernel do sistema
+político) revela que TODOS conectam a um NÓ CENTRAL:
+
+  O DINHEIRO QUE DEVERIA IR PARA O POVO ESTÁ SENDO CAPTURADO
+  POR UM SISTEMA INTEGRADO DE EXTRAÇÃO E CONTROLE.
+
+Este sistema tem 3 engrenagens:
+
+  ENGRENAGEM 1 — FINANCEIRA: R$ 950 bi juros + R$ 500-700 bi spread
+    + R$ 1,7 tri Custo Brasil = R$ 3+ tri/ano extraídos da economia real
+
+  ENGRENAGEM 2 — POLÍTICA: Congresso capturado por oligarquias
+    + orçamento secreto + PEC da Blindagem = reforma bloqueada
+
+  ENGRENAGEM 3 — SOCIAL: SUS esvaziado + 33 mi com fome + 800 mil
+    presos + 63 mi negativados = população exausta e submissa
+
+RESOLVER UMA ENGRENAGEM SEM AS OUTRAS = REFORMA TEMPORÁRIA.
+
+RESOLVER AS 3 SIMULTANEAMENTE = TRANSFORMAÇÃO ESTRUTURAL.
+
+
+================================================================================
+AS 16 SOLUÇÕES MAPEADAS (Agrupadas por frente)
+================================================================================
+
+========================================================================
+FRENTE 1 — ECONÔMICA (Libertar o dinheiro)
+========================================================================
+
+SOLUÇÃO S1: NOTA TÉCNICA DE IMPACTO FISCAL DA SELIC
+  Problema: P1 (juros R$ 950 bi), P3 (Custo Brasil), P8 (SUS)
+  O que é: Tesouro publica custo fiscal de cada decisão de Copom
+  Mecanismo: Portaria MF (R$ 0, sem Congresso)
+  Impacto: visibilidade → pressão → Selic estrutural cai
+  Quem executa: Haddad/Tesouro
+  Prazo: 90 dias
+  KPI: Nota publicada a cada Copom
+
+SOLUÇÃO S2: ÍNDICE DE QUALIDADE DA DÍVIDA (IQD)
+  Problema: P1 (composição da dívida)
+  O que é: Métrica trimestral de qualidade da DPF
+  Mecanismo: Portaria Tesouro (R$ 0)
+  Impacto: consolida prefixação (47%→55-60%), reduz sensibilidade
+  Quem executa: Tesouro
+  Prazo: 90 dias
+  KPI: IQD publicado trimestralmente
+
+SOLUÇÃO S3: EXPANSÃO DE OPEN FINANCE
+  Problema: P2 (spread), P5 (concentração bancária)
+  O que é: Portabilidade irrestrita + dados alternativos de crédito
+  Mecanismo: Resolução CMN (sem Congresso)
+  Impacto: spread 28-30 → 22-24 p.p. em 5 anos
+  Quem executa: BCB/CMN
+  Prazo: 180 dias
+  KPI: spread médio mensal
+
+SOLUÇÃO S4: IMPLEMENTAÇÃO REFORMA TRIBUTÁRIA (EC 132)
+  Problema: P3 (Custo Brasil), P4 (conformidade 1.501h), P6 (inflação)
+  O que é: Monitorar implementação sem captura setorial
+  Mecanismo: Lei já aprovada — fiscalizar regulamentação
+  Impacto: custo conformidade cai 30-50%; R$ 340-850 bi liberados
+  Quem executa: Congresso + executivo + sociedade civil (TEIA monitora)
+  Prazo: 2026-2033
+  KPI: custo conformidade como % do PIB
+
+SOLUÇÃO S5: FORUM DE COMPETIÇÃO FINANCEIRA
+  Problema: P5 (concentração), P2 (spread)
+  O que é: Associação fintech + cooperativas como contrapeso à Febraban
+  Mecanismo: Constituição de associação privada
+  Impacto: lobby contraposto + narrativa alternativa
+  Quem executa: TEIA + Nubank + XP + Sicredi
+  Prazo: 120 dias
+  KPI: associação constituída com 5+ membros
+
+========================================================================
+FRENTE 2 — POLÍTICA (Desbloquear a democracia)
+========================================================================
+
+SOLUÇÃO S6: ADPF 854 (TRANSPARÊNCIA DE EMENDAS)
+  Problema: P6 (orçamento secreto), P7 (captura)
+  O que é: STF determina identificação nominal de autores de emenda
+  Mecanismo: Amicus curiae no STF (já redigido — TEIA-2026-015)
+  Impacto: fim do orçamento secreto → quebra de vínculo emenda-voto
+  Quem executa: STF (Min. Flávio Dino)
+  Prazo: 6-24 meses
+  KPI: emendas com autoria identificada
+
+SOLUÇÃO S7: CARTÃO DE EMENDAS NO TSE
+  Problema: P6 (orçamento secreto), P7 (captura)
+  O que é: TSE publica histórico de emendas de cada candidato
+  Mecanismo: Resolução TSE (R$ 0)
+  Impacto: custo eleitoral de captura → mudança de comportamento
+  Quem executa: TSE
+  Prazo: 6 meses (antes eleição 2026)
+  KPI: cartão publicado no portal do TSE
+
+SOLUÇÃO S8: CPI DO BANCO MASTER
+  Problema: P7 (captura), P16 (PEC blindagem)
+  O que é: Investigação parlamentar das conexões Master
+  Mecanismo: 27 assinaturas no Senado ou 171 na Câmara
+  Impacto: pressão sobre Motta, Lira, Coronel → mudança de cálculo
+  Quem executa: Senadores aliados + pressão pública
+  Prazo: 90 dias
+  KPI: CPI instalada
+
+SOLUÇÃO S9: ADI CONTRA PEC DA BLINDAGEM
+  Problema: P16 (voto secreto, foro ampliado)
+  O que é: Ação Direta de Inconstitucionalidade no STF
+  Mecanismo: ADI já fundamentada (TEIA-2026-015)
+  Impacto: derruba voto secreto → accountability restaurada
+  Quem executa: STF
+  Prazo: 12-36 meses
+  KPI: STF julga inconstitucionalidade do voto secreto
+
+SOLUÇÃO S10: REPRESENTAÇÃO MPF (CONFLITOS DE INTERESSE)
+  Problema: P7 (captura), P6 (orçamento)
+  O que é: Documentar parlamentares que presidem bancadas setoriais
+  Mecanismo: Representação formal à PGR (já redigida — TEIA-2026-016)
+  Impacto: cria norma de conflito de interesse institucional
+  Quem executa: MPF/PGR
+  Prazo: 12-24 meses
+  KPI: MPF emite parecer sobre ao menos 1 caso
+
+SOLUÇÃO S11: PETIÇÃO CNJ (SERP — CARTÓRIOS)
+  Problema: P3 (Custo Brasil), P4 (burocracia)
+  O que é: Exigir implementação do SERP (Lei 14.382/2022)
+  Mecanismo: Petição formal ao CNJ (já redigida — TEIA-2026-014)
+  Impacto: digitalização de 13.233 cartórios → redução de custo
+  Quem executa: CNJ
+  Prazo: 12 meses
+  KPI: cronograma de implementação SERP
+
+SOLUÇÃO S12: VIA PLANALTO (COOPTAR EXECUTIVO)
+  Problema: Todos os que precisam de portaria/decreto
+  O que é: Convencer Haddad + Min. Saúde + Min. Gestão a agir
+  Mecanismo: Dossiês técnicos (Haddad TEIA-013, Saúde TEIA-067)
+  Impacto: 70% das ações saem via executivo sem Congresso
+  Quem executa: TEIA → executivo federal
+  Prazo: 3-6 meses
+  KPI: ao menos 1 portaria publicada
+
+========================================================================
+FRENTE 3 — SOCIAL (Restituir a população)
+========================================================================
+
+SOLUÇÃO S13: DOSSIÊ SAÚDE — 5 PROPOSTAS R$ 0
+  Problema: P8 (SUS subfinanciado), P1 (juros)
+  O que é: 5 propostas que liberam R$ 89 bi/ano para saúde
+  Mecanismo: Portarias/decretos sem Congresso (já redigido — TEIA-067)
+  Impacto: orçamento SUS R$ 245 bi → R$ 435 bi em 2027
+  Componentes:
+    P1: Nota Impacto Fiscal Saúde (1pp Selic = 62 hospitais)
+    P2: Centralização Compras (economia R$ 12-18 bi)
+    P3: Telemedicina + IA (R$ 10-15 bi)
+    P4: Regulação ANS (R$ 20-31 bi)
+    P5: Licença compulsória medicamentos (R$ 8-12 bi)
+  Quem executa: Ministério da Saúde + MF + ANS + ANVISA
+  Prazo: 12 meses
+  KPI: orçamento efetivo SUS
+
+SOLUÇÃO S14: PAA + PNAE FORTALECIDOS
+  Problema: P13 (fome — 33 mi)
+  O que é: Compra governamental direta de agricultura familiar
+  Mecanismo: Portaria/MP executiva
+  Impacto: cada R$ 1 no PAA gera R$ 3 em economia local
+  Quem executa: Ministério do Desenvolvimento Social + CONAB
+  Prazo: 6 meses
+  KPI: número de famílias em segurança alimentar
+
+SOLUÇÃO S15: CASHBACK TRIBUTÁRIO
+  Problema: P13 (fome), P6 (inflação)
+  O que é: Devolução de imposto para famílias de baixa renda
+  Mecanismo: Já previsto na EC 132 (regulamentação em curso)
+  Impacto: +R$ 100-200/mês para famílias até 2 SM
+  Quem executa: Receita Federal + MF
+  Prazo: 24 meses (alinhado com EC 132)
+  KPI: famílias recebendo cashback
+
+SOLUÇÃO S16: REVERSAO LEI 15.190 (AUTO-LICENCIAMENTO)
+  Problema: P9 (desmatamento), P13 (fome)
+  O que é: Derrubar ou suspender auto-licenciamento ambiental
+  Mecanismo: ADI no STF + pressão legislativa
+  Impacto: retoma fiscalização ambiental
+  Quem executa: STF + Congresso + MMA
+  Prazo: 12-24 meses
+  KPI: número de licenciamentos com estudo ambiental completo
+
+SOLUÇÃO S17: IBAMA + ICMBIO COM ORÇAMENTO
+  Problema: P9 (desmatamento)
+  O que é: Aumentar orçamento IBAMA de R$ 2 bi para R$ 5-6 bi
+  Mecanismo: LOA (Congresso) ou realocação interna
+  Impacto: fiscalização ambiental restaurada
+  Quem executa: Congresso + MMA
+  Prazo: próximo ciclo orçamentário
+  KPI: orçamento IBAMA + número de operações
+
+SOLUÇÃO S18: PL 2338 (MARCO DA IA)
+  Problema: P10 (Big Tech R$ 10 bi), P11 (desinformação)
+  O que é: Aprovar regulação de IA com proteção social
+  Mecanismo: PL já aprovado no Senado, tramita na Câmara
+  Impacto: algoritmos auditáveis + IA não pode decidir sozinha
+  Quem executa: Câmara dos Deputados
+  Prazo: 12-18 meses
+  KPI: PL sancionado
+
+SOLUÇÃO S19: DASHBOARD DE TRANSPARÊNCIA COM IA
+  Problema: P6 (orçamento), P7 (corrupção), P12 (encarceramento)
+  O que é: IA que cruza dados de gastos em tempo real
+  Mecanismo: Desenvolvimento TEIA + CGU + TCU
+  Impacto: P(ser pego) sobe de 15% para 30%
+  Quem executa: TEIA + CGU
+  Prazo: 12 meses
+  KPI: anomalias detectadas por mês
+
+SOLUÇÃO S20: APP "MINHA CIDADE, MEU DINHEIRO"
+  Problema: P6 (orçamento), P14 (saneamento), P12 (segurança)
+  O que é: App que mostra emendas e obras do município do cidadão
+  Mecanismo: Desenvolvimento TEIA + startup cívica
+  Impacto: controle social ativo (215 mi de fiscais)
+  Quem executa: TEIA + CGU
+  Prazo: 12 meses
+  KPI: municípios cobertos + usuários ativos
+
+SOLUÇÃO S21: NOVO MARCO DO SANEAMENTO (FISCALIZAR)
+  Problema: P14 (35 mi sem água, 100 mi sem esgoto)
+  O que é: Fiscalizar implementação da Lei 14.026/2020
+  Mecanismo: Lei já existe — cobrar cumprimento
+  Impacto: universalização até 2033 → R$ 2,8 tri em retorno saúde
+  Quem executa: sociedade civil + ANA + TCU
+  Prazo: 2033
+  KPI: % cobertura de água e esgoto
+
+SOLUÇÃO S22: REGULAÇÃO DE SCORE DE CRÉDITO
+  Problema: P15 (63 mi negativados)
+  O que é: ANPD regula algoritmos de Serasa/SPC
+  Mecanismo: Resolução ANPD + portaria MJ
+  Impacto: fim de redlining algorítmico; score auditável
+  Quem executa: ANPD + MJ
+  Prazo: 12 meses
+  KPI: score com explicabilidade
+
+SOLUÇÃO S23: LIMITE DE JUROS DO CARTÃO ROTATIVO
+  Problema: P15 (63 mi negativados), P2 (spread)
+  O que é: Teto de juros em 100% a.a. (hoje 300-450%)
+  Mecanismo: Resolução CMN (sem Congresso)
+  Impacto: reduz dívida de 63 mi de brasileiros
+  Quem executa: BCB/CMN
+  Prazo: 12 meses
+  KPI: taxa média cartão rotativo
+
+SOLUÇÃO S24: PREVENÇÃO VS ENCARCERAMENTO
+  Problema: P12 (800 mil presos, 6 mil mortos/ano)
+  O que é: Redirecionar recurso de prisão para prevenção
+  (educação, esporte, emprego juvenil)
+  Mecanismo: Política pública + STF (limitar prisão provisória)
+  Impacto: reduz criminalidade em 15-25%
+  Quem executa: MJ + estados + STF
+  Prazo: longo prazo
+  KPI: taxa de homicídios + população carcerária
+
+
+================================================================================
+MATRIZ DE SOLUÇÕES × AGENTE EXECUTOR
+================================================================================
+
+SOLUÇÃO | QUEM EXECUTA | PRECISA CONGRESSO? | CUSTO | PRAZO
+--------|-------------|-------------------|-------|------
+S1  Nota Fiscal Saúde  | MF/Tesouro       | NÃO | R$ 0    | 90 dias
+S2  IQD                | Tesouro          | NÃO | R$ 0    | 90 dias
+S3  Open Finance       | BCB/CMN          | NÃO | R$ 0    | 180 dias
+S4  Reforma Tributária | Congresso+Exec   | SIM | R$ 0    | 2026-2033
+S5  Fórum Fintech      | TEIA+Fintechs    | NÃO | R$ 300k | 120 dias
+S6  ADPF 854           | STF              | NÃO | R$ 150k | 6-24 meses
+S7  Cartão Emendas     | TSE              | NÃO | R$ 0    | 6 meses
+S8  CPI Master         | Senado           | NÃO | R$ 500k | 90 dias
+S9  ADI Blindagem      | STF              | NÃO | R$ 100k | 12-36 meses
+S10 Repr. MPF         | MPF/PGR          | NÃO | R$ 50k  | 12-24 meses
+S11 Petição CNJ       | CNJ              | NÃO | R$ 100k | 12 meses
+S12 Via Planalto      | TEIA→Executivo   | NÃO | R$ 0    | 3-6 meses
+S13 Dossiê SUS        | MS+MF+ANS+ANVISA | NÃO | R$ 0    | 12 meses
+S14 PAA+PNAE          | MDS+CONAB        | NÃO | R$ 2 bi | 6 meses
+S15 Cashback          | RFB+MF           | NÃO | R$ 0    | 24 meses
+S16 Reverter 15.190   | STF+Congresso    | SIM | R$ 0    | 12-24 meses
+S17 IBAMA orçamento   | Congresso+MMA    | SIM | R$ 3 bi | ciclo orç.
+S18 PL 2338 IA        | Câmara           | SIM | R$ 0    | 12-18 meses
+S19 Dashboard IA      | TEIA+CGU         | NÃO | R$ 2 mi | 12 meses
+S20 App Cidadão       | TEIA+CGU         | NÃO | R$ 3 mi | 12 meses
+S21 Saneamento        | Sociedade+ANA    | NÃO | R$ 700bi| 2033
+S22 Regulação Score   | ANPD+MJ          | NÃO | R$ 0    | 12 meses
+S23 Teto Cartão       | BCB/CMN          | NÃO | R$ 0    | 12 meses
+S24 Prevenção         | MJ+STF           | PARC| R$ X bi | longo prazo
+
+
+================================================================================
+PRIORIZAÇÃO: O QUE FAZER PRIMEIRO
+================================================================================
+
+NÍVEL 1 — AÇÕES IMEDIATAS (R$ 0, sem Congresso, 3-6 meses):
+  S1  Nota Impacto Fiscal Saúde (portaria MF)
+  S2  IQD (portaria Tesouro)
+  S7  Cartão Emendas TSE (resolução)
+  S12 Via Planalto (entregar dossiês)
+  S13 Dossiê SUS (5 propostas ao Ministério)
+
+NÍVEL 2 — AÇÕES DE CURTO PRAZO (6-12 meses):
+  S3  Open Finance expandido (resolução CMN)
+  S6  ADPF 854 (amicus curiae STF)
+  S8  CPI Banco Master (coletar assinaturas)
+  S11 Petição CNJ (SERP)
+  S22 Regulação Score (ANPD)
+  S23 Teto Cartão Rotativo (CMN)
+
+NÍVEL 3 — AÇÕES DE MÉDIO PRAÇO (12-24 meses):
+  S4  Fiscalizar Reforma Tributária
+  S9  ADI PEC Blindagem
+  S10 Representação MPF
+  S18 PL 2338 (Marco IA)
+  S19 Dashboard IA (desenvolver)
+  S20 App Cidadão (desenvolver)
+
+NÍVEL 4 — AÇÕES DE LONGO PRASSO (2+ anos):
+  S14 PAA fortalecido
+  S15 Cashback tributário
+  S16 Reverter Lei 15.190
+  S17 IBAMA com orçamento
+  S21 Saneamento universalizado
+  S24 Reforma segurança pública
+
+
+================================================================================
+O SWARM DE AGENTS PARA RESOLVER
+================================================================================
+
+O swarm opera em 3 FRENTES SIMULTÂNEAS:
+
+========================================================================
+SWARM 1 — FRENTE ECONÔMICA (Libertar R$ 500+ bi/ano)
+========================================================================
+MISSÃO: Reduzir juros, spread e Custo Brasil via instrumentos
+executivos (sem Congresso), liberando recursos para saúde, educação
+e desenvolvimento.
+
+PROBLEMAS ATAQUE: P1 (juros), P2 (spread), P3 (Custo Brasil),
+P4 (tributário), P5 (concentração)
+
+SOLUÇÕES A EXECUTAR: S1, S2, S3, S4, S5, S12, S13
+
+AGENTES NECESSÁRIOS:
+  - Analista econômico (produz dossiês para MF/BCB)
+  - Articulador (conecta com Haddad, Galípolo, ministros)
+  - Comunicador (TikTok "Preço da Selic", documentário)
+  - Desenvolvedor (dashboard de juros em tempo real)
+
+DELIVERABLES:
+  - Dossiê Haddad (JÁ EXISTE — TEIA-2026-013)
+  - Dossiê SUS (JÁ EXISTE — TEIA-2026-067)
+  - Nota de Impacto Fiscal implementada (META)
+  - Open Finance expandido (META)
+  - IQD publicado (META)
+  - 20 TikToks sobre juros/spread (JÁ EXISTE)
+
+MÉTRICA DE SUCESSO: R$ 60-80 bi/ano redirecionados de juros
+para investimento público
+
+========================================================================
+SWARM 2 — FRENTE POLÍTICA (Desbloquear democracia)
+========================================================================
+MISSÃO: Quebrar a captura do Congresso via Judiciário (STF),
+TSE e pressão pública (CPI), restaurando accountability.
+
+PROBLEMAS ATAQUE: P6 (orçamento secreto), P7 (captura),
+P16 (PEC blindagem)
+
+SOLUÇÕES A EXECUTAR: S6, S7, S8, S9, S10, S11
+
+AGENTES NECESSÁRIOS:
+  - Jurista (petições STF/CNJ/MPF)
+  - Articulador político (coletar assinaturas CPI)
+  - Comunicador (narrativa "Motta bloqueou após Master")
+  - Analista de dados (link analysis de veto players)
+
+DELIVERABLES:
+  - Amicus curiae ADPF 854 (JÁ EXISTE — TEIA-2026-015)
+  - Representação MPF (JÁ EXISTE — TEIA-2026-016)
+  - Petição CNJ (JÁ EXISTE — TEIA-2026-014)
+  - Dossiê Master (JÁ EXISTE — TEIA-2026-017)
+  - Cartão de Emendas no TSE (META)
+  - CPI Master instalada (META)
+  - ADI PEC Blindagem (META)
+
+MÉTRICA DE SUCESSO: ao menos 1 das 3 (CPI instalada OU Cartão
+TSE OU ADPF cumprida)
+
+========================================================================
+SWARM 3 — FRENTE SOCIAL (Restituir a população)
+========================================================================
+MISSÃO: Direcionar os recursos libertados pela Frente Econômica
+para saúde, alimentação, saneamento e segurança, usando os
+instrumentos desbloqueados pela Frente Política.
+
+PROBLEMAS ATAQUE: P8 (SUS), P13 (fome), P14 (saneamento),
+P9 (ambiente), P12 (segurança)
+
+SOLUÇÕES A EXECUTAR: S13, S14, S15, S16, S17, S19, S20, S21, S24
+
+AGENTES NECESSÁRIOS:
+  - Analista de políticas públicas (dossiê SUS, PAA, saneamento)
+  - Desenvolvedor (App "Minha Cidade" + Dashboard IA)
+  - Comunicador (TikTok sobre SUS, fome, saneamento)
+  - Mobilizador (pressão social por investimento público)
+
+DELIVERABLES:
+  - Dossiê SUS (JÁ EXISTE — TEIA-2026-067)
+  - Diagnóstico saúde (JÁ EXISTE — TEIA-2026-069)
+  - Mapa atores saúde (JÁ EXISTE — TEIA-2026-068)
+  - Dashboard IA de transparência (A DESENVOLVER)
+  - App "Minha Cidade" (A DESENVOLVER)
+  - 20 TikToks sobre SUS/fome/saneamento (A PRODUZIR)
+
+MÉTRICA DE SUCESSO: orçamento efetivo SUS aumentado;
+segurança alimentar reduzida; cobertura saneamento ampliada
+
+
+================================================================================
+A INTER-DEPENDÊNCIA DAS FRENTES
+================================================================================
+
+As 3 frentes NÃO são sequenciais — são SIMULTÂNEAS e INTERDEPENDENTES:
+
+  FRENTE ECONÔMICA liberta o DINHEIRO
+    ↓ (sem dinheiro, não há recurso para investir)
+  FRENTE SOCIAL direciona o dinheiro para a POPULAÇÃO
+    ↓ (sem desbloquear democracia, reforma é revertida)
+  FRENTE POLÍTICA garante que a mudança é SUSTENTÁVEL
+    ↓ (sem accountability, captura retorna)
+  FRENTE ECONÔMICA tem mais recurso para libertar
+    (ciclo virtuoso)
+
+A ORDEM DE EXECUÇÃO é:
+
+  IMEDIATO (mês 1-3):
+    Frente Econômica: entregar dossiês (Haddad + Saúde)
+    Frente Política: protocolar petições (STF + CNJ + MPF + TSE)
+    Frente Social: publicar conteúdo (TikTok + documentário)
+
+  CURTO PRAZO (mês 4-12):
+    Frente Econômica: Nota Impacto Fiscal publicada + Open Finance
+    Frente Política: CPI Master + Cartão Emendas TSE
+    Frente Social: SUS com R$ 89 bi adicionais + Dashboard IA
+
+  MÉDIO PRAZO (ano 2):
+    Frente Econômica: Selic estrutural caindo + spread caindo
+    Frente Política: ADI Blindagem + fim orçamento secreto
+    Frente Social: PAA ampliado + saneamento acelerado
+
+  LONGO PRAZO (ano 3+):
+    Ciclo virtuoso: menos juros → mais investimento → menos
+    pobreza → menos crime → mais produtividade → menos juros
+
+
+================================================================================
+FIM — MAPA DE SOLUÇÕES
+================================================================================
+Protocolo: TEIA-2026-070
+
+24 soluções mapeadas.
+3 frentes de swarm interdependentes.
+14 já têm documentos prontos.
+10 precisam de desenvolvimento.
+
+O dinheiro da reforma virá do trabalho.
+A democracia virá da organização.
+A saúde virá da gestão.
+================================================================================

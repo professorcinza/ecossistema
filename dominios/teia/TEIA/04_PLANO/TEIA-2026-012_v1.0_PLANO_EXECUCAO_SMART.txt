@@ -1,0 +1,646 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-012
+VERSÃO: v1.0
+CATEGORIA: 04_PLANO
+TÍTULO: Plano de Execução com Metas SMART
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 32,124 bytes (31.4 KB)
+HASH MD5: b0bbe10ec2ea69cdef3b0259462d0c78
+HASH SHA-256: 989accdb9737f897ea7cbf4a88437b5424b23486e5099ba64444400d54a5464a
+================================================================================
+
+================================================================================
+PLANO DE EXECUÇÃO — AÇÕES, RESPONSÁVEIS E METAS SMART
+================================================================================
+Conversão de 1.260.000 simulações em plano operacional concreto.
+Base: V3.0 + Mapa de Captura + Mapa Psicológico + Monte Carlo Final
+Data: Julho/2026
+================================================================================
+
+COMO LER ESTE DOCUMENTO
+
+Cada ação tem:
+- AÇÃO: o que fazer (específico)
+- RESPONSÁVEL: quem executa (pessoa/instituição)
+- PRAZO: quando (data limite)
+- MÉTRICA: como medir sucesso (quantificável)
+- CUSTO: quanto custa
+- DEPENDÊNCIA: o que precisa acontecer antes
+- P_DE_SUCESSO: probabilidade da simulação (Monte Carlo)
+
+Metas SMART = Específica, Mensurável, Atingível, Relevante, Temporalizada.
+
+
+================================================================================
+BLOCO 1 — VIA PLANALTO (P=87,1% | Custo: R$ 0)
+================================================================================
+A estratégia mais eficaz, mais barata e mais rápida do modelo.
+
+------------------------------------------------------------------------
+AÇÃO 1.1 — DOSSIÊ TÉCNICO PARA HADDAD/FAZENDA
+------------------------------------------------------------------------
+AÇÃO: Produzir dossiê técnico de 40 páginas mostrando que:
+  (a) Nota Técnica de Impacto Fiscal reduz custo político da Selic
+      (governo ganha narrativa: "nós não subimos juros — o BC decide")
+  (b) Gestão ativa da dívida (prefixação) já está em curso (47%) e
+      pode ser acelerada via Tesouro sem Congresso
+  (c) Expansão de Open Finance reduz spread bancário = reduz custo
+      de capital para indústria = gera emprego (pauta do PT)
+  (d) Digitalização de cartórios via CNJ reduz custo de conformidade
+      em R$ X bi/ano — libera recursos para programas sociais
+
+RESPONSÁVEL: Think Tank Híbrido (equipe técnica: 2 economistas + 1 cientista político)
+PRAZO: 30 dias (entrega: 20/agosto/2026)
+MÉTRICA: Dossiê entregue formalmente ao Ministério da Fazenda com
+         protocolo de recebimento e pedido de audiência.
+CUSTO: R$ 50 mil (produção técnica + diagramação + impressão)
+DEPENDÊNCIA: Nenhuma. Pode começar amanhã.
+P_DE_SUCESSO: 85% (baseado em histórico de Haddad receber propostas técnicas)
+
+META SMART: Entregar dossiê físico e digital ao gabinete de Haddad e
+conseguir audiência formal em até 60 dias.
+
+------------------------------------------------------------------------
+AÇÃO 1.2 — AUDIÊNCIA COM MINISTÉRIO DA GESTÃO (GOVERNO ELETRÔNICO)
+------------------------------------------------------------------------
+AÇÃO: Apresentar plano de unificação de sistemas federais (Sicalc,
+      Siafi, e-Social) em interface única via gov.br. Mostrar que
+      reduz R$ 150-430 bi/ano em custo de conformidade.
+
+RESPONSÁVEL: Think Tank Híbrido (1 técnico em TI pública + 1 economista)
+PRAZO: 60 dias (entrega: 20/setembro/2026)
+MÉTRICA: Termo de cooperação técnica assinado ou inclusão no Plano
+         Plurianual (PPA 2024-2027 revisão).
+CUSTO: R$ 30 mil
+DEPENDÊNCIA: Ação 1.1 (dossiê precisa estar pronto para anexar)
+P_DE_SUCESSO: 75%
+
+META SMART: Conseguir inclusão de ao menos 1 das 3 unificações de sistema
+no PPA revisado ou em portaria interministerial em até 120 dias.
+
+------------------------------------------------------------------------
+AÇÃO 1.3 — ALINHAMENTO COM LIDERANÇA DO GOVERNO NA CÂMARA
+------------------------------------------------------------------------
+AÇÃO: Via Haddad/Planalto, solicitar que Ricardo Barros (PP-PR, líder
+      do governo) inclua na pauta de prioridades:
+  (a) PL expandindo Open Finance (Frente C do Vetor 2)
+  (b) PL do Silêncio Administrativo Federal (Vetor 3)
+  (c) Votação de redução gradual da CSLL sobre IFs (Frente A do Vetor 2)
+
+RESPONSÁVEL: Articulador político do Think Tank + Haddad
+PRAZO: 90 dias (até 20/outubro/2026)
+MÉTRICA: Pelo menos 1 dos 3 PLs incluído na pauta prioritária do governo.
+CUSTO: R$ 0 (institucional — via executivo)
+DEPENDÊNCIA: Ação 1.1 + vontade política do Planalto
+P_DE_SUCESSO: 80% (Ricardo Barros obedece ao Planalto — PRG=8, MUD=9)
+
+META SMART: Conseguir inclusão de 1 PL na pauta prioritária do governo
+em até 90 dias após entrega do dossiê.
+
+
+================================================================================
+BLOCO 2 — VIA JUDICIÁRIO (P=60,9-73,7% | Custo: R$ 1-2 mi)
+================================================================================
+
+------------------------------------------------------------------------
+AÇÃO 2.1 — PETIÇÃO AO CNJ PARA IMPLEMENTAÇÃO DO SERP
+------------------------------------------------------------------------
+AÇÃO: Protocolar petição formal no Conselho Nacional de Justiça exigindo
+      implementação completa do Sistema Eletrônico de Registros Públicos
+      (SERP), previsto na Lei 14.382/2022, com prazo definido para
+      digitalização total de cartórios.
+
+RESPONSÁVEL: Advogado jurídico do Think Tank + parceria com OAB
+PRAZO: 30 dias (protocolo: 20/agosto/2026)
+MÉTRICA: Resolução do CNJ estabelecendo cronograma de implementação
+         do SERP com metas anuais.
+CUSTO: R$ 100 mil (honorários + custas + pesquisa jurídica)
+DEPENDÊNCIA: Nenhuma.
+P_DE_SUCESSO: 56,8% (Via CNJ da simulação)
+
+META SMART: Conseguir resolução do CNJ com cronograma de implementação
+do SERP em 500 municípios até dezembro/2027.
+
+------------------------------------------------------------------------
+AÇÃO 2.2 — AMICUS CURIAE NA ADPF 854 (STF — TRANSPARÊNCIA DE EMENDAS)
+------------------------------------------------------------------------
+AÇÃO: ingressar como amicus curiae na ADPF 854 (relator Flávio Dino)
+      argumentando a favor de:
+  (a) Identificação nominal obrigatória do autor de cada emenda
+  (b) Proibição de emenda para fora da UF do autor
+  (c) Prestação de contas obrigatória por ONGs beneficiadas
+
+RESPONSÁVEL: Advogado constitucionalista + Think Tank
+PRAZO: 60 dias (protocolo: 20/setembro/2026)
+MÉTRICA: Aceitação do amicus curiae pelo STF + inclusão dos argumentos
+         no voto do relator.
+CUSTO: R$ 150 mil (honorários + pesquisa + documentação)
+DEPENDÊNCIA: Nenhuma.
+P_DE_SUCESSO: 60% (STF historicamente simpático a transparência)
+
+META SMART: Conseguir que pelo menos 2 dos 3 pontos apareçam no voto
+de Dino ou no acórdão final da ADPF 854.
+
+------------------------------------------------------------------------
+AÇÃO 2.3 — REPRESENTAÇÃO AO MPF SOBRE CONFLITOS DE INTERESSE
+------------------------------------------------------------------------
+AÇÃO: Protocolar representação ao Ministério Público Federal documentando
+      conflitos de interesse de parlamentares que presidem bancadas
+      setoriais:
+  - Zé Neto: líder do governo + presidente Frente Cartórios (325+)
+  - André Figueiredo: presidente Frente Servir Brasil + CTASP
+  - Luiz Carlos Motta: relator LOA + secretário-geral Frente Servir
+  - Júlio César: auditor fiscal + presidente Frente Contabilidade
+
+RESPONSÁVEL: Advogado + Think Tank
+PRAZO: 45 dias (protocolo: 5/setembro/2026)
+MÉTRICA: MPF emite parecer ou abre procedimento de investigação sobre
+         ao menos 1 dos casos.
+CUSTO: R$ 50 mil
+DEPENDÊNCIA: Documentação do mapa de captura (já existe).
+P_DE_SUCESSO: 40% (MPF tem discricionariedade, mas pressão pública ajuda)
+
+META SMART: Conseguir que o MPF emita parecer sobre conflito de
+interesse parlamentar em ao menos 1 caso em até 180 dias.
+
+
+================================================================================
+BLOCO 3 — VIA CPI BANCO MASTER (P=70,7% | Custo: R$ 2-5 mi)
+================================================================================
+
+------------------------------------------------------------------------
+AÇÃO 3.1 — COLETA DE ASSINATURAS PARA CPI DO BANCO MASTER
+------------------------------------------------------------------------
+AÇÃO: Articular coleta de assinaturas de 1/3 do Senado (27 senadores)
+      ou 171 deputados para instalação da CPI do Banco Master.
+      Foco em senadores com perfil técnico ou oposição ao sistema:
+      - Alessandro Vieira (PSDB-SE), Randolph Rodrigues (PT-AP),
+        Omar Aziz (PSD-AM — pode querer redimir-se), Soraya Thronicke,
+        Eliziane Gama, Eduardo Girão, etc.
+
+RESPONSÁVEL: Articulador político + Think Tank + aliados (Transparência Brasil)
+PRAZO: 90 dias (até 20/outubro/2026)
+MÉTRICA: 27 assinaturas de senadores OU 171 assinaturas de deputados.
+CUSTO: R$ 500 mil (articulação + viagens + material)
+DEPENDÊNCIA: Pressão pública prévia (Bloco 5).
+P_DE_SUCESSO: 50% (difícil mas viável pós-escândalo)
+
+META SMART: Conseguir 27 assinaturas no Senado para requerimento
+de instalação da CPI do Banco Master em até 120 dias.
+
+------------------------------------------------------------------------
+AÇÃO 3.2 — DOSSIÊ DE CORRELAÇÕES TEMPORAIS DOCUMENTADAS
+------------------------------------------------------------------------
+AÇÃO: Produzir dossiê público (não sigiloso) com todas as correlações
+      temporais documentadas entre favores do Banco Master e decisões
+      políticas:
+  - Motta: empréstimo R$ 22 mi (mar/2024) → bloqueou tributação (nov/2025)
+  - Ciro: hotel Lisboa → apoio a pautas do setor financeiro
+  - Valdemar: R$ 3 mi de Zettel → R$ 119 mi em emendas pré-eleição
+  - Isaac Sidney: R$ 5,5 mi do Master → lobby contra Open Finance
+
+RESPONSÁVEL: Think Tank (1 jornalista investigativo + 1 pesquisador)
+PRAZO: 45 dias (entrega: 5/setembro/2026)
+MÉTRICA: Dossiê publicado online + cobertura de ao menos 3 veículos
+         de mídia (Estadão, Folha, CNN Brasil ou Metrópoles).
+CUSTO: R$ 200 mil (pesquisa + design + distribuição)
+DEPENDÊNCIA: Nenhuma.
+P_DE_SUCESSO: 90% (dados já existem publicamente)
+
+META SMART: Publicar dossiê online com 10 correlações temporais
+documentadas e alcançar 1 milhão de visualizações em 30 dias.
+
+
+================================================================================
+BLOCO 4 — CONSTRUÇÃO DE COALIZÃO DE GANHADORES (P=55,7% | Custo: R$ 3-5 mi/ano)
+================================================================================
+
+------------------------------------------------------------------------
+AÇÃO 4.1 — FÓRUM DE COMPETIÇÃO FINANCEIRA (FINTECHS + COOPERATIVAS)
+------------------------------------------------------------------------
+AÇÃO: Criar associação alternativa à Febraban com fintechs e cooperativas:
+  - Fundadores: Nubank, XP, Sicredi, Sicoob, Cresol, Mercado Pago
+  - Mandato: defender competição aberta, Open Finance irrestrito,
+    redução de barreiras regulatórias para entrada de fintechs
+  - Slogan: "Febraban defende bancos antigos. Nós defendemos consumidores."
+
+RESPONSÁVEL: Articulador do Think Tank + contatos no setor fintech
+PRAZO: 120 dias (lançamento: 20/novembro/2026)
+MÉTRICA: Associação formalmente constituída com mínimo 5 associados
+         fundadores e 1 manifesto público assinado.
+CUSTO: R$ 300 mil (constituição jurídica + evento de lançamento + comunicação)
+DEPENDÊNCIA: Contatos prévios com setor (a estabelecer).
+P_DE_SUCESSO: 65% (fintechs têm incentivo material claro)
+
+META SMART: Lançar associação com 5+ membros fundadores representando
+≥ R$ 500 bi em ativos até novembro/2026.
+
+------------------------------------------------------------------------
+AÇÃO 4.2 — ALIANÇA COM CNI/FIESP/SEBRAE (VETOR 3)
+------------------------------------------------------------------------
+AÇÃO: Apresentar aos sindicatos patronais que:
+  - Spread bancário = custo de produção (Vetor 2)
+  - Custo Brasil = R$ 1,7 tri/ano (Vetor 3)
+  - Conformidade tributária = R$ 150-430 bi/ano
+  Solicitar co-financiamento de lobby por desburocratização.
+
+RESPONSÁVEL: Think Tank (diretor executivo)
+PRAZO: 90 dias (primeira reunião: 20/outubro/2026)
+MÉTRICA: Termo de cooperação ou compromisso de co-financiamento
+         assinado por ao menos 1 confederação (CNI ou Fiesp).
+CUSTO: R$ 100 mil (eventos + material + viagens)
+DEPENDÊNCIA: Ação 1.1 (dossiê técnico).
+P_DE_SUCESSO: 70% (CNI já defende desburocratização há anos)
+
+META SMART: Conseguir co-financiamento de R$ 2-3 mi/ano de ao menos
+1 confederação patronal em até 180 dias.
+
+------------------------------------------------------------------------
+AÇÃO 4.3 — PARCERIA COM TRANSPARÊNCIA BRASIL + MPF (VETOR 4)
+------------------------------------------------------------------------
+AÇÃO: Estabelecer parceria formal com Transparência Brasil e MPF para
+      desenvolvimento do Dashboard "Orçamento ao Vivo" com IA:
+  - Transparência Brasil: fornece metodologia e credibilidade
+  - MPF/CGU: fornece dados e canal de denúncia
+  - Think Tank: fornece tecnologia (IA + desenvolvedores)
+
+RESPONSÁVEL: Diretor de tecnologia do Think Tank
+PRAZO: 180 dias (protótipo: 20/janeiro/2027)
+MÉTRICA: Protótipo funcional com cruzamento de dados de ao menos
+         100 municípios e envio automático de flags ao MPF.
+CUSTO: R$ 1,5 mi (desenvolvimento + IA + infraestrutura)
+DEPENDÊNCIA: Ação 2.3 (base legal via LAI).
+P_DE_SUCESSO: 60%
+
+META SMART: Protótipo do Dashboard processando dados de 100 municípios
+com IA open-source e auditável até janeiro/2027.
+
+
+================================================================================
+BLOCO 5 — NARRATIVA PÚBLICA (P=63,7% | Custo: R$ 3-5 mi/ano)
+================================================================================
+
+------------------------------------------------------------------------
+AÇÃO 5.1 — DOCUMENTÁRIO YOUTUBE "O PREÇO DA SELIC"
+------------------------------------------------------------------------
+AÇÃO: Produzir documentário de 45-60 minutos (estilo "Last Week Tonight"
+      com rigor técnico) explicando:
+  - Como R$ 950 bi/ano em juros da dívida financia o sistema político
+  - Quem são os detentores da dívida (80% SFN)
+  - Como o spread de 28-30 p.p. transfere renda para bancos
+  - Correlação temporal Motta-Master-tributação
+
+RESPONSÁVEL: Produtora audiovisual + Think Tank (roteiro técnico)
+PRAZO: 120 dias (lançamento: 20/novembro/2026)
+MÉTRICA: 5 milhões de visualizações em 90 dias.
+CUSTO: R$ 800 mil (produção + marketing digital + distribution)
+DEPENDÊNCIA: Ação 3.2 (dossiê de correlações).
+P_DE_SUCESSO: 75% (tema tem apelo massivo)
+
+META SMART: Alcançar 5 milhões de visualizações em 90 dias após
+lançamento, com 500 mil compartilhamentos.
+
+------------------------------------------------------------------------
+AÇÃO 5.2 — SÉRIE TIKTOK "CONTAS PÚBLICAS"
+------------------------------------------------------------------------
+AÇÃO: Produzir série de 60 vídeos de TikTok (60 segundos cada) com
+      dados específicos:
+  - "Sabia que você paga R$ X/ano em juros que vão para o Itaú?"
+  - "Sabia que Hugo Motta bloqueou tributação de bancos após R$ 22 mi?"
+  - "Sabia que 4 partidos controlam 96% das emendas secretas?"
+
+RESPONSÁVEL: Criador de conteúdo + Think Tank (pesquisa de dados)
+PRAZO: Contínuo (primeiros 10 vídeos: 30 dias)
+MÉTRICA: 10 milhões de visualizações acumuladas em 6 meses.
+        500 mil seguidores no perfil.
+CUSTO: R$ 300 mil/ano (criação + edição + boosting)
+DEPENDÊNCIA: Nenhuma.
+P_DE_SUCESSO: 80% (formato comprovado)
+
+META SMART: 10 milhões de visualizações acumuladas e 500 mil
+seguidores em 6 meses.
+
+------------------------------------------------------------------------
+AÇÃO 5.3 — PODCAST "GESTÃO NÃO GASTO"
+------------------------------------------------------------------------
+AÇÃO: Podcast quinzenal (45 min) com economistas, jornalistas
+      investigativos e analistas políticos. Foco técnico mas acessível.
+      Convidados: Malu Gaspar (O Globo), Fábio Serapião (Metrópoles),
+      economistas do Tesouro, ex-dirigentes do BCB.
+
+RESPONSÁVEL: Think Tank (host + produtor)
+PRAZO: Contínuo (primeiro episódio: 30 dias)
+MÉTRICA: 100 mil downloads/mês após 6 meses.
+        Top 20 podcasts de política no Spotify Brasil.
+CUSTO: R$ 200 mil/ano (produção + hospedagem + marketing)
+DEPENDÊNCIA: Nenhuma.
+P_DE_SUCESSO: 70%
+
+META SMART: 100 mil downloads/mês e top 20 em política no Spotify
+em 6 meses.
+
+
+================================================================================
+BLOCO 6 — INSTITUCIONAL (THINK TANK HÍBRIDO)
+================================================================================
+
+------------------------------------------------------------------------
+AÇÃO 6.1 — CONSTITUIÇÃO FORMAL DO INSTITUTO
+------------------------------------------------------------------------
+AÇÃO: Registrar formalmente o Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA) como
+      organização da sociedade civil (OSC) com:
+  - Conselho técnico (5 economistas/analistas)
+  - Conselho político (3 articuladores)
+  - Conselho fiscal (2 membros)
+
+RESPONSÁVEL: Cleiton Moura (fundador) + advogado
+PRAZO: 60 dias (registro: 20/setembro/2026)
+MÉTRICA: CNPJ ativo + estatuto registrado + site no ar + equipe mínima
+         contratada (5 pessoas).
+CUSTO: R$ 200 mil (registro + infraestrutura + contratações iniciais)
+DEPENDÊNCIA: Capital inicial (ver Ação 6.3).
+P_DE_SUCESSO: 90% (procedimento padrão)
+
+META SMART: Instituto registrado, com 5 pessoas contratadas e site
+operacional em 60 dias.
+
+------------------------------------------------------------------------
+AÇÃO 6.2 — EQUIPE MÍNIMA
+------------------------------------------------------------------------
+AÇÃO: Contratar equipe mínima de 8 pessoas:
+  - 1 diretor executivo (articulação política)
+  - 2 economistas (produção técnica)
+  - 1 cientista político (análise legislativa)
+  - 1 jornalista (comunicação)
+  - 1 desenvolvedor (dashboard/tecnologia)
+  - 1 advogado (ações jurídicas)
+  - 1 assistente administrativo
+
+RESPONSÁVEL: Diretor executivo
+PRAZO: 90 dias (equipe completa: 20/outubro/2026)
+MÉTRICA: 8 pessoas contratadas e operacionais.
+CUSTO: R$ 1,2 mi/ano em folha (média R$ 12.500/mês por pessoa)
+DEPENDÊNCIA: Ação 6.1 + Ação 6.3.
+P_DE_SUCESSO: 90%
+
+META SMART: 8 profissionais contratados em 90 dias com folha
+total de R$ 100 mil/mês.
+
+------------------------------------------------------------------------
+AÇÃO 6.3 — CAPTAÇÃO INICIAL
+------------------------------------------------------------------------
+AÇÃO: Captar R$ 5 milhões em 6 meses para Fase 1:
+  - R$ 1,5 mi: institutos filantrópicos (Lemann, Ayrton Senna)
+  - R$ 1,5 mi: fintechs/cooperativas (Nubank, XP, Sicredi)
+  - R$ 1 mi: confederações (CNI, Fiesp)
+  - R$ 0,5 mi: crowdfunding (1 mi de pessoas × R$ 5 médios → R$ 5 mi)
+  - R$ 0,5 mi: investidores individuais alinhados
+
+RESPONSÁVEL: Diretor executivo + Cleiton Moura
+PRAZO: 180 dias (meta: 20/janeiro/2027)
+MÉTRICA: R$ 5 milhões captados e depositados.
+CUSTO: R$ 200 mil (eventos + material + viagens de captação)
+DEPENDÊNCIA: Ação 6.1 (CNPJ ativo para receber doações).
+P_DE_SUCESSO: 60% (ambicioso mas factível com rede certa)
+
+META SMART: R$ 5 milhões captados em 6 meses com mínimo de
+4 fontes diferentes (nenhuma fonte > 40% do total).
+
+
+================================================================================
+BLOCO 7 — AÇÕES VIA EXECUTIVO (NÃO PRECISAM DE CONGRESSO)
+================================================================================
+
+Estas ações saem por decreto/portaria/resolução e dependem apenas
+de convencer o executivo ou o Judiciário.
+
+------------------------------------------------------------------------
+AÇÃO 7.1 — NOTA TÉCNICA DE IMPACTO FISCAL (VETOR 1)
+------------------------------------------------------------------------
+AÇÃO: Convencer o Tesouro Nacional a publicar, a cada reunião do Copom,
+      uma nota calculando o custo orçamentário da decisão de Selic.
+      Publicar trimestralmente junto com o IQD (Índice de Qualidade da Dívida).
+
+RESPONSÁVEL: Think Tank → Ministério da Fazenda (Haddad)
+PRAZO: 90 dias (primeira publicação: 20/outubro/2026)
+MÉTRICA: Primeira Nota Técnica publicada no site do Tesouro.
+CUSTO: R$ 0 (portaria interna do executivo)
+DEPENDÊNCIA: Ação 1.1 (dossiê para Haddad).
+P_DE_SUCESSO: 75% (Haddad tem incentivo fiscal claro)
+
+META SMART: Primeira Nota Técnica de Impacto Fiscal publicada pelo
+Tesouro em até 90 dias após entrega do dossiê.
+
+------------------------------------------------------------------------
+AÇÃO 7.2 — DECRETO DE SILÊNCIO ADMINISTRATIVO AMPLIADO (VETOR 3)
+------------------------------------------------------------------------
+AÇÃO: Convencer o executivo a editar decreto ampliando o silêncio
+      administrativo positivo (atual art. 3 da LC 167/2019) para
+      atividades de médio risco (não apenas baixo risco).
+
+RESPONSÁVEL: Think Tank → Ministério da Gestão
+PRAZO: 120 dias (decreto: 20/novembro/2026)
+MÉTRICA: Decreto publicado no DOU ampliando silêncio positivo.
+CUSTO: R$ 0 (ação executiva)
+DEPENDÊNCIA: Ação 1.2 (audiência com Ministério da Gestão).
+P_DE_SUCESSO: 65%
+
+META SMART: Decreto publicado ampliando silêncio administrativo
+para médio risco em 120 dias.
+
+------------------------------------------------------------------------
+AÇÃO 7.3 — RESOLUÇÃO CMN SOBRE GARANTIAS DIGITAIS (VETOR 2, FRENTE B)
+------------------------------------------------------------------------
+AÇÃO: Convencer o BCB/CMN a emitir resolução criando registro digital
+      unificado de propriedade imóvel/mobiliária via Drex para acelerar
+      execução de garantias (reduz perda esperada de 5 para 3-4 p.p.).
+
+RESPONSÁVEL: Think Tank → BCB/CMN
+PRAZO: 180 dias (resolução: 20/janeiro/2027)
+MÉTRICA: Resolução CMN publicada ou consulta pública aberta.
+CUSTO: R$ 50 mil (dossiê técnico para BCB)
+DEPENDÊNCIA: Articulação com diretores do BCB.
+P_DE_SUCESSO: 55% (BCB já trabalha com Drex)
+
+META SMART: Consulta pública do BCB sobre registro digital de
+garantias aberta em 180 dias.
+
+
+================================================================================
+CRONOGRAMA INTEGRADO
+================================================================================
+
+MÊS 1 (agosto/2026):
+  [x] AÇÃO 1.1 — Dossiê técnico para Haddad (30 dias)
+  [x] AÇÃO 2.1 — Petição ao CNJ (30 dias)
+  [x] AÇÃO 3.2 — Dossiê de correlações Master (45 dias, começa)
+  [x] AÇÃO 5.2 — Primeiros 10 TikToks (30 dias)
+  [x] AÇÃO 5.3 — Primeiro podcast (30 dias)
+  [x] AÇÃO 6.1 — Constituição do Instituto (60 dias, começa)
+
+MÊS 2 (setembro/2026):
+  [x] AÇÃO 1.2 — Audiência com Ministério da Gestão (60 dias)
+  [x] AÇÃO 2.2 — Amicus curiae ADPF 854 (60 dias)
+  [x] AÇÃO 2.3 — Representação ao MPF (45 dias)
+  [x] AÇÃO 3.2 — Dossiê Master publicado (entrega)
+  [x] AÇÃO 6.1 — Instituto registrado (entrega)
+  [x] AÇÃO 6.2 — Contratações começam (90 dias)
+
+MÊS 3 (outubro/2026):
+  [x] AÇÃO 1.3 — Alinhamento com líder do governo (90 dias)
+  [x] AÇÃO 3.1 — Coleta de assinaturas CPI Master (90 dias)
+  [x] AÇÃO 4.2 — Aliança com CNI/Fiesp (90 dias)
+  [x] AÇÃO 7.1 — Primeira Nota Técnica de Impacto Fiscal (90 dias)
+  [x] AÇÃO 6.2 — Equipe mínima contratada (entrega)
+
+MÊS 4 (novembro/2026):
+  [x] AÇÃO 4.1 — Lançamento Fórum Competição Financeira (120 dias)
+  [x] AÇÃO 5.1 — Documentário YouTube lançado (120 dias)
+  [x] AÇÃO 7.2 — Decreto silêncio administrativo (120 dias)
+
+MÊS 5-6 (dezembro/2026 — janeiro/2027):
+  [x] AÇÃO 4.3 — Protótipo Dashboard Transparência (180 dias)
+  [x] AÇÃO 6.3 — R$ 5 milhões captados (180 dias)
+  [x] AÇÃO 7.3 — Resolução CMN sobre garantias digitais (180 dias)
+
+
+================================================================================
+ORÇAMENTO INTEGRADO (12 MESES)
+================================================================================
+
+BLOCO                          VALOR R$
+------------------------------ ----------
+1. Via Planalto                  R$ 80.000
+2. Via Judiciário               R$ 350.000
+3. CPI Master                   R$ 700.000
+4. Coalizão Ganhadores        R$ 1.900.000
+5. Narrativa Pública           R$ 1.300.000
+6. Institucional               R$ 1.400.000
+7. Via Executivo (portarias)     R$ 50.000
+                              ----------
+TOTAL ANO 1:                   R$ 6.780.000
+                              ≈ R$ 6,8 milhões
+
+COMPARAÇÃO:
+  V2.0 original: R$ 17,5 milhões em 3 anos (R$ 5,8 mi/ano)
+  V3.0 corrigido: R$ 45 milhões em 3 anos (R$ 15 mi/ano)
+  PLANO DE EXECUÇÃO: R$ 6,8 milhões no ANO 1
+
+O plano de execução custa 16% do V3.0 e 39% A MAIS que o V2.0 por ano.
+Mas entrega P média de 93,5% (Combo Ótimo) vs ~50% do V2.0.
+
+
+================================================================================
+MATRIZ DE RESPONSABILIDADES RACI
+================================================================================
+
+R = Responsável (executa)
+A = Aprovador (decide)
+C = Consultado (opina)
+I = Informado (sabe)
+
+AÇÃO                           | CLEITON | DIR.EXEC | ECONOMISTAS | ADVOGADO | JORNALISTA | DEV | HADDAD | CNJ/STF
+-------------------------------|---------|----------|-------------|----------|------------|-----|--------|--------
+1.1 Dossiê Haddad              |    A    |    R     |      R      |    C     |     I      |  -  |   I    |   -
+1.2 Audiência Min. Gestão      |    A    |    R     |      C      |    -     |     I      |  -  |   I    |   -
+1.3 Alinhamento líder governo  |    C    |    R     |      -      |    -     |     -      |  -  |   A    |   -
+2.1 Petição CNJ                |    A    |    C     |      -      |    R     |     I      |  -  |   -    |  I
+2.2 Amicus curiae STF          |    A    |    C     |      C      |    R     |     I      |  -  |   -    |  I
+2.3 Representação MPF          |    A    |    C     |      -      |    R     |     I      |  -  |   -    |  -
+3.1 Assinaturas CPI            |    C    |    R     |      -      |    -     |     I      |  -  |   C    |   -
+3.2 Dossiê Master              |    A    |    C     |      C      |    C     |     R      |  -  |   -    |   -
+4.1 Fórum Fintech              |    A    |    R     |      -      |    C     |     I      |  -  |   -    |   -
+4.2 Aliança CNI/Fiesp          |    A    |    R     |      C      |    -     |     -      |  -  |   -    |   -
+4.3 Dashboard Transparência    |    A    |    C     |      -      |    C     |     I      |  R  |   -    |   -
+5.1 Documentário               |    A    |    C     |      C      |    -     |     R      |  -  |   -    |   -
+5.2 TikToks                    |    A    |    I     |      C      |    -     |     R      |  -  |   -    |   -
+5.3 Podcast                    |    A    |    I     |      C      |    -     |     R      |  -  |   -    |   -
+6.1 Constituir Instituto       |    R    |    C     |      -      |    C     |     -      |  -  |   -    |   -
+6.2 Contratar equipe           |    A    |    R     |      -      |    -     |     -      |  -  |   -    |   -
+6.3 Captação R$ 5mi            |    R    |    R     |      -      |    -     |     -      |  -  |   -    |   -
+7.1 Nota Impacto Fiscal        |    A    |    C     |      R      |    -     |     I      |  -  |   A    |   -
+7.2 Decreto silêncio admin     |    A    |    R     |      C      |    -     |     -      |  -  |   A    |   -
+7.3 Resolução CMN garantias    |    A    |    C     |      R      |    -     |     -      |  -  |   C    |   -
+
+
+================================================================================
+METAS SMART CONSOLIDADAS (DASHBOARD DE GESTÃO)
+================================================================================
+
+META #   DESCRIÇÃO                                            PRAZO          MÉTRICA
+------   --------------------------------------------------    -----------    ---------------------------
+M1       Dossiê técnico entregue a Haddad                      20/ago/2026    Protocolo de recebimento
+M2       Petição CNJ protocolada                               20/ago/2026    Número de protocolo
+M3       Dossiê Master publicado online                         5/set/2026     1 milhão de visualizações
+M4       Instituto registrado (CNPJ ativo)                    20/set/2026    CNPJ + estatuto
+M5       Amicus curiae aceito pelo STF                         20/out/2026    Decisão do relator
+M6       Primeira Nota Técnica de Impacto Fiscal publicada     20/out/2026    Publicação no site Tesouro
+M7       1 PL incluído na pauta prioritária do governo        20/out/2026    Ofício da líder do governo
+M8       27 assinaturas para CPI Master                        20/out/2026    Requerimento protocolado
+M9       Documentário: 5 milhões de visualizações             20/fev/2027    YouTube Analytics
+M10      TikToks: 10 milhões de views acumuladas               20/jul/2027    TikTok Analytics
+M11      Equipe de 8 pessoas contratada                        20/out/2026    Folha de pagamento ativa
+M12      R$ 5 milhões captados                                 20/jan/2027    Extrato bancário
+M13      Fórum Fintech lançado com 5+ membros                  20/nov/2026    Ata de constituição
+M14      Co-financiamento CNI/Fiesp: R$ 2-3 mi/ano             20/abr/2027    Contrato assinado
+M15      Protótipo Dashboard: 100 municípios                   20/jan/2027    Sistema funcional
+M16      Decreto silêncio administrativo ampliado              20/nov/2026    Publicação no DOU
+M17      Resolução CMN sobre garantias digitais                20/jan/2027    Consulta pública aberta
+M18      Audiência com Ministério da Gestão                    20/set/2026    Ata de reunião
+
+================================================================================
+OS 5 KPIs DE SUCESSO (se estes 5 estiverem verdes, o plano funciona)
+================================================================================
+
+KPI 1 — TÉCNICO:
+  Nota Técnica de Impacto Fiscal publicada pelo Tesouro a cada Copom.
+  Meta: 4 publicações consecutivas até julho/2027.
+
+KPI 2 — POLÍTICO:
+  CPI do Banco Master instalada (ou ao menos requerimento protocolado).
+  Meta: requerimento com 27+ assinaturas até outubro/2026.
+
+KPI 3 — COMUNICAÇÃO:
+  Documentário + TikToks alcançando 15 milhões de pessoas combinadas.
+  Meta: 5 mi (documentário) + 10 mi (TikToks) até fevereiro/2027.
+
+KPI 4 — COALIZÃO:
+  Fórum de Competição Financeira com 5+ membros (Nubank, XP, Sicredi, etc).
+  Meta: associação formalmente constituída até novembro/2026.
+
+KPI 5 — FINANCEIRO:
+  R$ 5 milhões captados com mínimo de 4 fontes diferentes.
+  Meta: R$ 5 mi até janeiro/2027.
+
+SE ESTES 5 KPIs ESTIVEREM VERDES, a simulação dá P = 93,5% de sucesso
+médio nos 4 vetores. O custo total é R$ 6,8 milhões em 12 meses.
+
+
+================================================================================
+O PRIMEIRO PASSO
+================================================================================
+
+Se você fosse começar AMANHÃ com apenas 1 ação, qual seria?
+
+AÇÃO 1.1: Dossiê técnico para Haddad.
+
+Custo: R$ 50 mil. Prazo: 30 dias. Sem dependência externa.
+Tudo o mais decorre deste dossiê. Ele abre a Via Planalto (P=87%),
+que é a estratégia mais eficaz e mais barata do modelo.
+
+O dossiê precisa dizer 3 coisas para Haddad:
+1. "Sua vida fiscal fica mais fácil se publicar a Nota de Impacto Fiscal."
+2. "Sua narrativa eleitoral melhora se reduzir spread via Open Finance."
+3. "Sua gestão da dívida melhora se preservar o arcabouço fiscal (LC 200)."
+
+Convencido o ministro, 3 dos 4 vetores avançam sem Congresso.
+
+O dinheiro virá do trabalho.
+
+================================================================================
+FIM DO PLANO DE EXECUÇÃO
+================================================================================

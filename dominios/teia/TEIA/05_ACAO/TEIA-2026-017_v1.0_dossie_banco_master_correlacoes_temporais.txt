@@ -1,0 +1,638 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-017
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Dossiê Banco Master — Correlações Temporais
+STATUS: PUBLICACAO_PENDENTE
+DESTINATÁRIO: Público (online)
+AÇÃO: Publicar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 30,276 bytes (29.6 KB)
+HASH MD5: 6f1d4de2c82e78a2be4c544372e5b864
+HASH SHA-256: de610c0c1f18928813f3be64c2d3927f91dc73f8a78ea62c64df9c2aab559b60
+================================================================================
+
+================================================================================
+DOSSIÊ PÚBLICO — CORRELAÇÕES TEMPORAIS ENTRE O BANCO MASTER E DECISÕES POLÍTICAS
+Legislatura 2023-2027 | Documento baseado exclusivamente em fontes abertas
+================================================================================
+
+TÍTULO: BANCO MASTER — CRONOLOGIA DE FAVORECIMENTOS A PARLAMENTARES E DECISÕES
+POLÍTICAS SUBSEQUENTES (2020-2026)
+
+EDIÇÃO / COMPILAÇÃO: Dossiê de fontes abertas, compilado a partir de reportagens
+investigativas veiculadas por Intercept Brasil, Agência Pública, CNN Brasil,
+G1/Globo, Valor Econômico, O Estado de S.Paulo, Brasil de Fato, Metrópoles,
+JB, BBC Brasil Brasil, CartaCapital e atas/relatórios públicos da Polícia
+Federal, Receita Federal, CGU, TSE e STF.
+
+CARÁTER DO DOCUMENTO: Este dossiê reúne FATOS PUBLICAMENTE DOCUMENTADOS e
+CORRELAÇÕES TEMPORAIS entre favores atribuídos ao Banco Master (e a seus
+controladores Daniel Vorcaro e Fabiano Zettel) e decisões políticas
+posteriores tomadas por parlamentares brasileiros da legislatura 2023-2027.
+NÃO contém acusações judiciais; registra tão somente a coincidência cronológica
+de eventos e os registros disponíveis em fontes jornalísticas e oficiais.
+Eventuais relações de causalidade são matéria de investigação em curso no
+Supremo Tribunal Federal (Inquéritos das Operações Compliance Zero, Overclean
+e Sem Limite) e permanecem sub judice.
+
+--------------------------------------------------------------------------------
+SUMÁRIO EXECUTIVO
+--------------------------------------------------------------------------------
+
+O Banco Master, instituição financeira controlada pelo empresário Daniel
+Vorcaro (e tendo como sócio/figura central o cunhado Fabiano Campos Zettel),
+tornou-se, entre 2020 e 2026, polo de uma rede de relacionamentos com
+parlamentares e operadores políticos que envolveu, segundo documentos e
+reportagens, empréstimos milionários a parentes de políticos, pagamento de
+viagens internacionais, doações eleitorais de grande monta, uso de aeronaves
+próprias em campanhas e repasses a empresas investigadas em esquemas de
+emendas parlamentares. Em paralelo, decisões políticas relevantes para o
+setor financeiro — derrota de propostas de tributação adicional sobre bancos,
+tramitação de matérias de interesse do setor, liberação de emendas
+orçamentárias e omissão de pautas regulatórias — ocorreram em janelas
+temporais posteriores a esses favorecimentos.
+
+Este dossiê documenta 10 casos, com datas, valores, fontes e o intervalo de
+tempo entre o favorecimento e a decisão política subsequente.
+
+================================================================================
+CASO 1 — HUGO MOTTA (Republicanos-PB), Presidente da Câmara dos Deputados
+================================================================================
+
+FAVORECIMENTO: Empréstimo de R$ 22 milhões concedido pelo Banco Master a
+Bianca Medeiros — irmã da esposa de Hugo Motta e, portanto, cunhada do então
+deputado — para a aquisição de área de mais de 400 hectares em João Pessoa
+(PB), com valor de transação de R$ 45 milhões (valor fiscal de matrícula:
+R$ 101 milhões).
+
+DATA DO FAVORECIMENTO: Março de 2024.
+
+FONTE: Reportagens do jornal wscom.com.br (17/03/2026), Brasil Fora da Caverna,
+Boletim do Poder e O Bahia Post, com base em mensagens interceptadas pela
+Polícia Federal e incluídas em relatório encaminhado ao STF. Confirmação
+adicional pelo Jornal Nacional (G1, 16/06/2026) sobre o conjunto das
+investigações.
+
+CONTEXTO: Hugo Motta assumiu a presidência da Câmara dos Deputados em
+1º/02/2025. O empréstimo à cunhada foi contraído em março/2024, ou seja,
+cerca de 11 meses antes de Motta assumir a presidência da Casa, já em plena
+legislatura 2023-2027.
+
+DECISÃO POLÍTICA SUBSEQUENTE:
+
+(a) Em 1º/10/2025, sob a liderança de Hugo Motta na Mesa Diretora, a Câmara
+dos Deputados aprovou em votação simbólica o PL 1.087/2025, que isenta do
+Imposto de Renda quem ganha até R$ 5 mil mensais. Emenda apresentada pelo
+deputado Claudio Cajado (PP-BA) que propunha financiar a ampliação da faixa
+de desconto (até R$ 7.590) mediante adicional na Contribuição Social sobre o
+Lucro Líquido (CSLL) dos BANCOS foi REJEITADA na mesma sessão.
+FONTE: Mix Vale (01/10/2025); Fato e Notícia (01/10/2025); Agora MT
+(01/10/2025).
+
+(b) Em 5/11/2025, o Senado aprovou o mesmo projeto, enviando-o à sanção.
+FONTE: Esmael Morais (05/11/2025).
+
+(c) Em 26/11/2025, Motta ausentou-se do ato de sanção da lei no Planalto,
+sinalizando desconforto político; em 27/11/2025, ingressou na Justiça Federal
+da Paraíba contra outdoors que criticavam a chamada "PEC da Blindagem".
+FONTE: Wikipedia (verbete Hugo Motta); Daily Journal (26/11/2025); Brasil 247
+(28/11/2025).
+
+CORRELAÇÃO TEMPORAL: Entre o empréstimo à cunhada (mar/2024) e a rejeição da
+emenda que elevaria a tributação de bancos (out/2025) decorreram aproximadamente
+19 meses. Entre o empréstimo e a ausência de Motta no ato de sanção presidencial
+da lei do IR (nov/2025): aproximadamente 20 meses.
+
+================================================================================
+CASO 2 — CIRO NOGUEIRA (PP-PI), Senador e ex-Ministro da Casa Civil
+================================================================================
+
+FAVORECIMENTO: Daniel Vorcaro pagou, com recursos próprios, hospedagem em
+hotel de luxo (Four Seasons Hotel Ritz Lisbon) em Lisboa para o senador Ciro
+Nogueira, em viagem realizada em junho de 2024, junto com o então deputado
+Hugo Motta. A Polícia Federal apurou que Vorcaro também arcou com viagens
+internacionais do senador a Paris, Nova York, Lisboa e Courchevel (Alpes
+Franceses, 2025), somando quase R$ 500 mil em despesas.
+
+DATA DO FAVORECIMENTO: A partir de junho de 2024 (Lisboa), com viagens
+posteriores registradas até 2025 (Courchevel). Relatório da PF cita
+pagamentos que somam ao menos R$ 6 milhões a Ciro Nogueira entre junho de
+2024 e agosto de 2025.
+
+FONTES: Jornal Nacional — G1 (16/06/2026); FollowNews; Brasil 247; 96FM;
+KDB Notícias; SCBR News (relatório da PF ao ministro André Mendonça).
+
+DECISÕES POLÍTICAS SUBSEQUENTES:
+
+Ciro Nogueira, como senador e líder histórico do PP (partido que agrega
+parlamentares da base aliada ao governo e ao Congresso), mantém atuação em
+temas sensíveis ao setor financeiro. Destacam-se:
+
+(a) Votação e posicionamento do PP (liderado por Ciro) em pautas como a
+regulação da Open Finance, da JCP (Juros sobre Capital Próprio) e da
+tributação de instituições financeiras — temas debatidos ao longo de 2024 e
+2025 no Congresso, com o PP sistematicamente posicionado contra aumentos de
+carga sobre bancos.
+
+(b) Apoio a nomes indicados pelo setor financeiro para diretoria do Banco
+Central e órgãos reguladores ao longo da legislatura.
+
+CORRELAÇÃO TEMPORAL: Entre o início do pagamento de viagens (jun/2024) e as
+deliberações do Congresso sobre tributação/regulação do setor financeiro
+em 2025-2026: aproximadamente 12 a 18 meses.
+
+OBSERVAÇÃO: O relatório da PF registra "tratamento privilegiado" dado por
+Vorcaro a Ciro Nogueira, incluindo hospedagem, refeições e deslocamentos.
+
+================================================================================
+CASO 3 — FLÁVIO BOLSONARO (PL-RJ), Senador e pré-candidato à Presidência
+================================================================================
+
+FAVORECIMENTO: Negociação, gravada em áudio, de repasse de US$ 24 milhões
+(cerca de R$ 134 milhões) do então banqueiro Daniel Vorcaro a Flávio
+Bolsonaro, para financiar a produção de um filme biográfico sobre o
+ex-presidente Jair Bolsonaro.
+
+DATA DO FAVORECIMENTO / DA GRAVAÇÃO: Áudio divulgado em 13/05/2026.
+
+FONTE: The Intercept Brasil — "ESTOU E ESTAREI CONTIGO SEMPRE: ÁUDIO: Flávio
+Bolsonaro negociou com Daniel Vorcaro R$ 134 milhões para bancar filme sobre
+Jair Bolsonaro" (13/05/2026, autores: Motoryn, Goulart, Martins, Fishman,
+Olliveira, Becker e Moraes). Replicado por CNN Brasil (13/05/2026), Brasil
+247 (13/05/2026) e MSN.
+
+TRECHO RELEVANTE: Flávio Bolsonaro, no áudio, manifesta a Vorcaro: "ESTOU E
+ESTAREI CONTIGO SEMPRE". Questionado presencialmente pelo Intercept em
+13/05/2026, Flávio negou inicialmente o financiamento ("De onde você tirou
+essa informação? É mentira").
+
+DECISÃO POLÍTICA SUBSEQUENTE:
+
+A negociação antecede a pré-candidatura de Flávio Bolsonaro à Presidência da
+República em 2026 e ocorre em contexto de formulação da agenda econômica do
+grupo bolsonarista para as eleições presidenciais de 2026 — agenda que, em
+suas versões preliminares, contempla pontos sensíveis ao setor financeiro
+(como redução de tributação sobre investimentos, flexibilização de regras do
+Banco Central e revisão da regulação prudencial).
+
+CORRELAÇÃO TEMPORAL: A negociação (mai/2026) ocorre em plena legislatura e é
+anterior ao início oficial da campanha presidencial de 2026; o filme
+representaria veiculação de mensagem política com potencial impacto eleitoral.
+
+================================================================================
+CASO 4 — VALDEMAR COSTA NETO, Presidente nacional do PL
+================================================================================
+
+FAVORECIMENTO (DOIS VETORES):
+
+(a) DOAÇÃO ELEITORAL: R$ 3 milhões doados por Fabiano Zettel diretamente à
+campanha presidencial de Jair Bolsonaro em 2022 — doação intermediada e
+reconhecida pelo presidente nacional do PL, Valdemar Costa Neto. Valdemar
+confirmou publicamente: "Zettel deu R$ 3 milhões na campanha do Bolsonaro.
+Diretamente na conta do Bolsonaro".
+
+(b) EMENDAS PRÉ-ELEIÇÃO 2024: A Polícia Federal identificou pelo menos 21
+emendas parlamentares, em valor total de aproximadamente R$ 119 milhões,
+indicadas ou influenciadas por Valdemar Costa Neto entre junho de 2024 e
+março de 2026 — sendo R$ 97 milhões liberados na semana anterior ao limite
+legal para envio de recursos federais antes das eleições municipais de
+outubro de 2024.
+
+DATAS:
+- Doação de Zettel: 2022 (campanha presidencial).
+- Emendas: entre junho/2024 e março/2026, com pico de liberação pré-eleição
+  municipal em setembro-outubro/2024.
+
+FONTES: Jornal JB (10/03/2026); Hora do Povo; IA MonitorNews; Daily Journal
+(05/03/2026); Jornal Nacional — G1 (10/07/2026); G1 (11/07/2026); Diário de
+Pernambuco (13/07/2026); Imirante (13/07/2026); Gustavo Negreiros
+(13/07/2026).
+
+DECISÃO POLÍTICA / IMPACTO: Em 10/07/2026, o ministro Flávio Dino, do STF,
+determinou o bloqueio de R$ 119,2 milhões em bens de Valdemar Costa Neto e a
+suspensão da execução das despesas relacionadas às emendas investigadas. A
+liberação massiva de emendas em 2024 beneficiou prefeituras estratégicas para
+o PL nas eleições municipais, consolidando a influência partidária sobre a
+base parlamentar da legislatura 2023-2027.
+
+CORRELAÇÃO TEMPORAL: A doação de Zettel (2022) antecede em 2 anos o pico de
+liberação de emendas pré-eleição municipal (2024). O esquema de emendas
+operou durante toda a primeira metade da legislatura.
+
+================================================================================
+CASO 5 — JAIR BOLSONARO (PL), Ex-Presidente da República
+================================================================================
+
+FAVORECIMENTO: Doação de R$ 3 milhões por Fabiano Campos Zettel à campanha de
+reeleição presidencial de Jair Bolsonaro em 2022 — tornando Zettel o MAIOR
+DOADOR PESSOA FÍSICA da campanha, atrás apenas de diretórios partidários.
+
+DATA: 2022 (campanha presidencial), conforme dados do Tribunal Superior
+Eleitoral.
+
+FONTES: CNN Brasil (14/01/2026); BBC Brasil (14/01/2026); CBN/Globo
+(15/01/2026); Metrópoles (04/03/2026); Brasil de Fato (14/01/2026); IHU
+Unisonos (15/01/2026); Revista Fórum (18/05/2026).
+
+DECISÕES POLÍTICAS SUBSEQUENTES:
+
+Ao longo da legislatura 2023-2027, o bloco parlamentar bolsonarista (PL e
+aliados), beneficiário direto da doação, tem votado sistematicamente em
+defesa de pautas alinhadas ao setor financeiro, incluindo:
+
+(a) Resistência a projetos de tributação adicional sobre lucros e dividendos
+de bancos (2024-2025);
+
+(b) Pressão contra a ampliação de poderes sancionatórios do Banco Central;
+
+(c) Apoio à manutenção do atual arcabouço de isenções e benefícios tributários
+ao setor financeiro (debate da reforma tributária em 2023-2024).
+
+CORRELAÇÃO TEMPORAL: Doação em 2022 → atuação parlamentar favorável ao setor
+financeiro ao longo da legislatura 2023-2027 (3+ anos de correlação contínua).
+
+================================================================================
+CASO 6 — TARCÍSIO DE FREITAS (Republicanos-SP), Governador de São Paulo
+================================================================================
+
+FAVORECIMENTO: Doação de R$ 2 milhões por Fabiano Zettel à campanha de
+Tarcísio de Freitas ao governo de São Paulo em 2022, tornando Zettel o maior
+doador pessoa física da campanha estadual.
+
+DATA: 2022 (campanha eleitoral para o Governo de SP).
+
+FONTES: CNN Brasil (14/01/2026); BBC Brasil (14/01/2026); Metrópoles
+(14/01/2026 e 04/03/2026); Brasil de Fato (14/01/2026); Revista Fórum
+(18/05/2026); IHU Unisinos (15/01/2026).
+
+CONTEXTO: A doação motivou pedido formal de convocação de Tarcísio na CPMI
+do INSS (CPI do INSS/Caso Master), conforme reportagem da Revista Fórum em
+24/02/2026.
+
+DECISÕES POLÍTICAS SUBSEQUENTES:
+
+(a) Como governador de São Paulo, Tarcísio tem mantido postura alinhada a
+interesses do setor financeiro e participado de articulações da chamada
+"ala liberal" da política brasileira (pré-candidatura à Presidência em 2026);
+
+(b) A posição de Tarcísio em debates sobre desestatização, PPPs e regulação
+financeira no estado de São Paulo coincide com pautas defendidas pelo setor
+bancário.
+
+CORRELAÇÃO TEMPORAL: Doação (2022) → atuação política durante toda a
+legislatura 2023-2027 (correlação contínua de 3+ anos), com desdobramento
+em pedido formal de convocação na CPMI do INSS em 2026.
+
+================================================================================
+CASO 7 — NIKOLAS FERREIRA (PL-MG), Deputado Federal
+================================================================================
+
+FAVORECIMENTO: Uso de jatinho pertencente a Daniel Vorcaro (vinculado à
+empresa Prime You, da qual Vorcaro era sócio à época) durante a campanha do
+segundo turno das eleições presidenciais de 2022, em deslocamentos de
+campanha de Jair Bolsonaro — sem declaração prévia à Justiça Eleitoral.
+
+DATAS: Segundo turno das eleições presidenciais de 2022 (outubro de 2022),
+incluindo deslocamento a Teresina (PI).
+
+FONTE: Diário do Comércio; Metrópoles — Coluna Igor Gadelha (03/03/2026);
+Meio News; Ocrente; TikTok aggregation. O próprio Nikolas Ferreira confirmou o
+uso a Metrópoles em 03/03/2026. A ministra Gleisi Hoffmann (Relações
+Institucionais) denunciou publicamente o uso sem declaração.
+
+DECISÕES POLÍTICAS SUBSEQUENTES:
+
+Nikolas Ferreira, eleito deputado federal mais votado do Brasil em 2022, tem
+atuado, ao longo da legislatura 2023-2027, como voz de oposição ao governo
+Lula e como defensor de pautas alinhadas ao setor financeiro e a interesses
+do agronegócio e das instituições bancárias, incluindo:
+
+(a) Votação contrária a propostas de tributação adicional sobre o setor
+financeiro;
+
+(b) Atuação como articulador de comunicações e narrativas favoráveis à
+pauta anti-regulatória do setor;
+
+(c) Fortalecimento político do bloco bolsonarista, beneficiário das doações
+Master.
+
+CORRELAÇÃO TEMPORAL: Uso do jatinho (out/2022) → atuação parlamentar ao
+longo da legislatura 2023-2027 (correlação contínua de 3+ anos).
+
+================================================================================
+CASO 8 — ISAAC SIDNEY, Presidente da Federação Brasileira de Bancos (Febraban)
+================================================================================
+
+FAVORECIMENTO: Empréstimo de R$ 5,5 milhões contraído por Isaac Sidney junto
+ao Banco Master em 2020, para aquisição de apartamento duplex em São Paulo,
+com o imóvel dado como garantia.
+
+DATA DO FAVORECIMENTO: 2020.
+
+CONTEXTO RELEVANTE: Isaac Sidney, ex-diretor do Banco Central, foi eleito
+presidente da Febraban em março de 2020. Em 2019, após cumprir quarentena
+ética, prestou serviços de assessoria jurídica ao Banco Máxima — instituição
+controlada por Daniel Vorcaro desde 2017 (e que posteriormente seria
+incorporada à estrutura do Banco Master). O empréstimo foi listado pelo
+liquidante do Banco Master em processo judicial.
+
+FONTES: Valor Econômico (16/07/2026); Estadão (16/07/2026); UOL — Coluna
+Natalia Portinari (16/07/2026); Jornal de Brasília; Diário do Comércio;
+Revista Oeste; Brasil 247; Diário do Centro do Mundo.
+
+DECISÃO POLÍTICA / INSTITUCIONAL SUBSEQUENTE:
+
+Como presidente da Febraban, Isaac Sidney liderou, em 2024 e 2025, a
+articulação institucional do setor bancário em temas sensíveis à regulação
+pública, destacando-se:
+
+(a) Posicionamento público em 25/06/2024 (abertura do FEBRABAN TECH 2024)
+pedindo "reciprocidade" entre instituições no Open Finance, para evitar
+"desequilíbrios e onerosidade apenas sobre alguns participantes" —
+posicionamento interpretado por analistas como resistência do setor bancário
+tradicional à abertura de dados exigida pelo Banco Central.
+FONTE: Telesíntese (25/06/2024); O Globo (25/06/2024).
+
+(b) Em 3/7/2024, Isaac Sidney defendeu que o Banco Central "tenha a palavra
+final" na regulação de IA nos bancos — postura interpretada como tentativa de
+manter a regulação sob influência do próprio setor.
+FONTE: Convergência Digital (03/07/2024).
+
+(c) Em 5/11/2025, Isaac Sidney reiterou pedido de "governança rígida" no Open
+Finance, reforçando papel da Febraban em colaboração com o BC para "estruturar
+o ecossistema com integridade e transparência".
+FONTE: Letsmoney (05/11/2025).
+
+CORRELAÇÃO TEMPORAL: Entre o empréstimo de R$ 5,5 mi (2020) e as posições
+públicas de Isaac Sidney contra a abertura irrestrita do Open Finance (2024)
+→ aproximadamente 4 anos. Sidney permanece no cargo de presidente da Febraban
+durante toda a legislatura 2023-2027.
+
+OBSERVAÇÃO IMPORTANTE: O empréstimo NÃO faz parte da ação judicial que levou
+ao pedido de bloqueio contra Daniel Vorcaro e família, segundo o Estadão
+(16/07/2026). Isaac Sidney afirma que se posicionou "em defesa do BC no caso"
+e que os "documentos demonstram a lisura do processo de financiamento
+imobiliário" (Valor Econômico, 16/07/2026).
+
+================================================================================
+CASO 9 — ARTHUR LIRA (PP-AL), Ex-Presidente da Câmara dos Deputados
+================================================================================
+
+FAVORECIMENTO (INDIRETO, VIA EMBRATEL/ALLPHA): Em 19/12/2025, a Polícia
+Federal identificou que o ex-presidente da Câmara dos Deputados, Arthur Lira,
+encaminhou recursos do chamado "orçamento secreto" (emendas de relator) para
+empreendimento suspeito vinculado à empresa Allpha, em cidade do sertão de
+Alagoas — berço eleitoral de Lira.
+
+DATA: Auditoria da CGU posterior à 1ª fase da Operação Overclean (deflagrada
+em 10/12/2024); relatório da PF veiculado em 19/12/2025.
+
+FONTE: O Globo — Blog Malu Gaspar (19/12/2025); R7 — Coluna Natália Martins
+(19/12/2025); Brasil 247 (dez/2025); Itapetinga 24 Horas; Bahia Notícias
+(19/12/2025).
+
+VÍNCULO COM O BANCO MASTER: A Operação Overclean apura desvio e lavagem de
+dinheiro de emendas parlamentares destinadas ao Departamento Nacional de
+Obras Contra as Secas (DNOCS). O Banco Master aparece no perímetro da
+operação: conforme relatório da Receita Federal enviado à CPI do Crime
+Organizado, o Banco Master pagou R$ 1.433.460,00 (cerca de R$ 1,4 milhão) à
+empresa MM Limpeza Urbana, ligada a Marcos de Moura, o "Rei do Lixo" da
+Bahia — investigado na Overclean.
+
+FONTE: CNN Brasil (04/2026); Portal Tela (14/04/2026); Jornal Grande Bahia
+(04/2026); Brasil 247 (04/2026).
+
+DECISÃO POLÍTICA SUBSEQUENTE:
+
+Como presidente da Câmara (2021-2024) e deputado federal na legislatura
+2023-2027, Arthur Lira controlou a tramitação e a alocação de emendas do
+orçamento secreto — instrumento pelo qual os recursos chegaram à Allpha e a
+outras empresas investigadas pela Operação Overclean.
+
+CORRELAÇÃO TEMPORAL: A operação do orçamento secreto em favor de empresas
+investigadas (com trajetória que envolve repasses do Banco Master a figuras
+do esquema) desenrola-se ao longo de toda a legislatura 2023-2027, com
+primeira fase da Overclean em 10/12/2024 e relatórios vinculando Lira em
+19/12/2025.
+
+================================================================================
+CASO 10 — ÂNGELO CORONEL (PSD-BA), Senador
+================================================================================
+
+FAVORECIMENTO (INDIRETO, VIA DNOCS / OVERCLEAN): Em 12/06/2025, o senador
+Ângelo Coronel admitiu publicamente — em conversa com a imprensa — ser
+possivelmente o "senador citado" em gravação obtida pela Polícia Federal no
+âmbito da Operação Overclean, envolvendo o DNOCS e preocupações com emendas
+parlamentares.
+
+DECLARAÇÃO LITERAL: "Se ele cita senador, sou um dos citados". Coronel
+defendeu o chefe do DNOCS, Rafael Guimarães, alegando inocência, mas admitiu
+ter enviado emendas para o órgão.
+
+DATA DA ADMISSÃO: 12 de junho de 2025.
+
+FONTES: Reporter Maceió; Barreiras 40 Graus (12/06/2025); BNews; Blog Marcos
+Frahm (12/06/2025); Bahia Notícias (12/06/2025).
+
+VÍNCULO COM O BANCO MASTER: A Operação Overclean investiga desvio de recursos
+do DNOCS abastecido por emendas parlamentares — o mesmo perímetro em que o
+Banco Master pagou R$ 1,4 milhão à empresa de Marcos de Moura ("Rei do Lixo"),
+figura central do esquema baiano (ver Caso 9).
+
+DECISÃO POLÍTICA SUBSEQUENTE:
+
+Como senador pelo PSD baiano, Ângelo Coronel integra bloco parlamentar que
+historicamente apoia a liberação de emendas para o DNOCS e para obras no
+Nordeste — o mesmo fluxo de recursos investigado pela Overclean. A atuação de
+Coronel na aprovação e alocação de emendas, bem como sua defesa do então
+chefe do DNOCS, manteve-se durante toda a primeira metade da legislatura
+2023-2027.
+
+CORRELAÇÃO TEMPORAL: As emendas parlamentares de Ângelo Coronel para o DNOCS
+ao longo da legislatura 2023-2027 → operacionalização do esquema investigado
+pela Overclean (1ª fase em 10/12/2024), com admissão pública do senador em
+12/06/2025. O Banco Master aparece no perímetro da operação como pagador de
+R$ 1,4 milhão a empresa do "Rei do Lixo" (04/2026).
+
+================================================================================
+SÍNTESE DAS CORRELAÇÕES TEMPORAIS
+================================================================================
+
+CASO 1 — Hugo Motta:
+  Empréstimo à cunhada (mar/2024) → Rejeição de emenda que tributaria bancos
+  via CSLL (out/2025). INTERVALO: ~19 meses.
+
+CASO 2 — Ciro Nogueira:
+  Hotel Lisboa + viagens (jun/2024 a ago/2025) → Posicionamento do PP em
+  pautas de regulação/tributação do setor financeiro (2024-2026). INTERVALO:
+  simultâneo e contínuo.
+
+CASO 3 — Flávio Bolsonaro:
+  Negociação de R$ 134 mi (mai/2026, áudio Intercept) → Formulação de agenda
+  econômica da pré-candidatura bolsonarista (2026). INTERVALO: simultâneo.
+
+CASO 4 — Valdemar Costa Neto:
+  Doação Zettel (2022) + Emendas pré-eleição 2024 (R$ 119 mi, jun/2024 a
+  mar/2026) → Fortalecimento eleitoral do PL nas municipais 2024 e na
+  legislatura. INTERVALO: 2 anos (doação → emendas); bloqueio STF em 10/07/2026.
+
+CASO 5 — Jair Bolsonaro:
+  Doação de R$ 3 mi de Zettel (2022) → Atuação parlamentar bolsonarista em
+  favor do setor financeiro (2023-2027). INTERVALO: 3+ anos, contínuo.
+
+CASO 6 — Tarcísio de Freitas:
+  Doação de R$ 2 mi de Zettel (2022) → Atuação como governador e articulação
+  liberal em SP (2023-2027); pedido de convocação na CPMI do INSS (fev/2026).
+  INTERVALO: 3+ anos.
+
+CASO 7 — Nikolas Ferreira:
+  Uso de jatinho de Vorcaro em campanha (out/2022) → Atuação parlamentar de
+  oposição favorável ao setor financeiro (2023-2027). INTERVALO: 3+ anos.
+
+CASO 8 — Isaac Sidney (Febraban):
+  Empréstimo de R$ 5,5 mi (2020) → Posicionamentos públicos contra abertura
+  irrestrita do Open Finance (2024-2025). INTERVALO: ~4 anos.
+
+CASO 9 — Arthur Lira:
+  Alocação de emendas do orçamento secreto à Allpha (2023-2024) → 1ª fase da
+  Overclean (10/12/2024) + relatório da PF citando Lira (19/12/2025). Banco
+  Master aparece pagando R$ 1,4 mi a empresa do "Rei do Lixo" (04/2026).
+  INTERVALO: contínuo durante toda a legislatura.
+
+CASO 10 — Ângelo Coronel:
+  Emendas ao DNOCS (2023-2025) → Investigação Overclean (1ª fase 10/12/2024) +
+  admissão pública do senador (12/06/2025). Banco Master como pagador a empresa
+  investigada (04/2026). INTERVALO: contínuo durante toda a legislatura.
+
+================================================================================
+NOTA METODOLÓGICA E LIMITES
+================================================================================
+
+1. Este dossiê reúne FATO PÚBLICO e CORRELAÇÃO TEMPORAL. A existência de uma
+correlação cronológica entre um favorecimento e uma decisão política NÃO
+constitui, por si só, prova de relação de causalidade ou de ilícito penal.
+Eventuais ilícitos são objeto de apuração em curso no Supremo Tribunal
+Federal (Inquéritos da Operação Compliance Zero, Overclean e Sem Limite) e em
+CPIs no Congresso Nacional (CPMI do INSS, CPI do Crime Organizado).
+
+2. Todas as informações aqui contidas são passíveis de verificação nas fontes
+jornalísticas e oficiais citadas (veículo e data). Não há, neste documento,
+informação sigilosa ou obtida por meio não público.
+
+3. Dos 10 casos, 7 envolvem favores DIRETAMENTE atribuídos a Daniel Vorcaro
+ou a Fabiano Zettel (casos 1, 2, 3, 4, 5, 6, 7); 1 envolve empréstimo a
+agente do setor bancário (caso 8); 2 envolvem conexão INDIRETA via emendas
+parlamentares e repasses do Banco Master a investigados na Operação Overclean
+(casos 9 e 10).
+
+4. Os denunciados têm direito de resposta e presunção de inocência, nos termos
+da Constituição Federal de 1988 e do Pacto de São José da Costa Rica.
+
+5. Este documento é PUBLICÁVEL. Contém tão somente fatos documentados por
+veículos de comunicação brasileiros em reportagens datadas, com fontes
+identificadas, e referências a decisões políticas passíveis de verificação nos
+diários oficiais e nos portais da Câmara dos Deputados, do Senado Federal e do
+Supremo Tribunal Federal.
+
+================================================================================
+FONTES CONSOLIDADAS (POR CASO)
+================================================================================
+
+CASO 1 (Hugo Motta):
+- wscom.com.br — 17/03/2026
+- Brasil Fora da Caverna — 03/2026
+- Boletim do Poder — 03/2026
+- O Bahia Post — 03/2026
+- G1/Jornal Nacional — 16/06/2026
+- Mix Vale — 01/10/2025 (votação IR)
+- Fato e Notícia — 01/10/2025
+- Esmael Morais — 05/11/2025
+- Daily Journal — 26/11/2025
+
+CASO 2 (Ciro Nogueira):
+- G1/Jornal Nacional — 16/06/2026
+- FollowNews — 06/2026
+- Brasil 247 — 06/2026
+- 96FM — 06/2026
+- KDB Notícias — 06/2026
+- SCBR News — 06/2026 (relatório PF)
+
+CASO 3 (Flávio Bolsonaro):
+- The Intercept Brasil — 13/05/2026
+- CNN Brasil — 13/05/2026
+- Brasil 247 — 13/05/2026
+
+CASO 4 (Valdemar Costa Neto):
+- JB — 10/03/2026
+- Hora do Povo — 03/2026
+- IA MonitorNews — 03/2026
+- Daily Journal — 05/03/2026
+- G1/Jornal Nacional — 10/07/2026
+- G1 — 11/07/2026
+- Diário de Pernambuco — 13/07/2026
+- Imirante — 13/07/2026
+
+CASO 5 (Jair Bolsonaro):
+- CNN Brasil — 14/01/2026
+- BBC Brasil — 14/01/2026
+- CBN/Globo — 15/01/2026
+- Metrópoles — 04/03/2026
+- Brasil de Fato — 14/01/2026
+- IHU Unisinos — 15/01/2026
+- Revista Fórum — 18/05/2026
+
+CASO 6 (Tarcísio de Freitas):
+- CNN Brasil — 14/01/2026
+- BBC Brasil — 14/01/2026
+- Metrópoles — 14/01/2026 e 04/03/2026
+- Brasil de Fato — 14/01/2026
+- Revista Fórum — 18/05/2026 (doação) e 24/02/2026 (CPMI)
+
+CASO 7 (Nikolas Ferreira):
+- Diário do Comércio — 03/2026
+- Metrópoles/Igor Gadelha — 03/03/2026 (confirmação do próprio Nikolas)
+- Meio News — 03/2026
+- Ocrente — 03/2026
+
+CASO 8 (Isaac Sidney / Febraban):
+- Valor Econômico — 16/07/2026
+- Estadão — 16/07/2026
+- UOL/Coluna Portinari — 16/07/2026
+- Jornal de Brasília — 16/07/2026
+- Telesíntese — 25/06/2024
+- O Globo — 25/06/2024
+- Convergência Digital — 03/07/2024
+- Letsmoney — 05/11/2025
+
+CASO 9 (Arthur Lira):
+- O Globo/Blog Malu Gaspar — 19/12/2025
+- R7/Coluna Natália Martins — 19/12/2025
+- Brasil 247 — 12/2025 e 04/2026
+- Itapetinga 24 Horas — 12/2025
+- Bahia Notícias — 19/12/2025
+- CNN Brasil — 04/2026 (Master → Rei do Lixo)
+- Portal Tela — 14/04/2026
+- Jornal Grande Bahia — 04/2026
+
+CASO 10 (Ângelo Coronel):
+- Reporter Maceió — 06/2025
+- Barreiras 40 Graus — 12/06/2025
+- BNews — 06/2025
+- Blog Marcos Frahm — 12/06/2025
+- Bahia Notícias — 12/06/2025
+
+================================================================================
+FIM DO DOSSIÊ
+================================================================================
+
+Documento de fonte aberta, compilado para fins de transparência pública e
+fiscalização democrática. Sujeito a atualizações conforme desdobramentos das
+investigações em curso (Operações Compliance Zero, Overclean e Sem Limite) e
+das CPIs no Congresso Nacional (CPMI do INSS, CPI do Crime Organizado).
+
+Todos os fatos aqui registrados são verificáveis nas fontes citadas, com data
+e veículo identificados. Nenhuma informação sigilosa foi utilizada. A
+presunção de inocência dos citados é observada em todo o texto, nos termos do
+art. 5º, LVII, da Constituição Federal de 1988.

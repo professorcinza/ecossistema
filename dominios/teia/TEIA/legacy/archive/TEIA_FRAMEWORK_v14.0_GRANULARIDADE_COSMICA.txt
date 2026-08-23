@@ -1,0 +1,377 @@
+================================================================================
+TEIA FRAMEWORK v14.0 — GRANULARIDADE CÓSMICA (56×24 = 1344 PERSPECTIVAS)
+================================================================================
+Integração das 5 últimas dimensões de captura, mapeando as fronteiras
+da incerteza, da biologia evolutiva, do código impenetrável, do
+futuro antecipado e da existência social.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-061
+Versão: v14.0 (GRANULARIDADE CÓSMICA — RELEASE FINAL DEFINITIVA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v13.0 → v14.0)
+
+A v13.0 completou a expansão óptica com 51×24=1224 perspectivas.
+A v14.0 atinge GRANULARIDADE CÓSMICA ao mapear as 5 últimas
+fronteiras: o controle atuarial do risco, o código criptográfico
+impenetrável, a herança genética evolutiva, a especulação sobre o
+futuro e o apagão cancelatório da existência social.
+
+Com 56 dimensões × 24 lentes, o framework gera 1344 perspectivas.
+
+Este é o ESTADO FINAL DEFINITIVO do TEIA Framework. O mapeamento
+da ontologia da dominação atingiu granularidade cósmica — do gene
+ao espaço sideral, do útero ao túmulo, do presente ao futuro
+hipotético, da matéria ao código oculto.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (FRONTEIRAS DA INCERTEZA)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 52 — ATUARIAL / DO RISCO
+------------------------------------------------------------------------
+COBERTURA TEIA: 40%
+
+O QUE É: a gestão da incerteza e o monopólio da proteção contra o
+  futuro. A transformação do medo do amanhã em ativo financeiro.
+
+DIFERENÇA DA ECONÔMICA (1) E PATOLÓGICA (40):
+  Econômica: lucro DIRETO (juros, spread, dívida)
+  Patológica: a DOENÇA em si (adoecimento)
+  Atuarial: o MEDO DO FUTURO — o sistema cria a insegurança e
+  VENDE a proteção. Quem não pode pagar está condenado.
+
+QUEM DOMINA: seguradoras (Bradesco Seguros, SulAmérica, Mapfre,
+  Porto Seguro), resseguradoras (Munich Re, Swiss Re), planos de
+  saúde (Hapvida, NotreDame, Bradesco Saúde), fundos de pensão,
+  consultorias atuariais (Mercer, Willis Towers Watson).
+
+COMO CAPTURA:
+  - Seguros que negam cobertura: doenças pré-existentes excluem
+    quem mais precisa (pobre que adoece mais)
+  - Pricing algorítmico por CEP: seguro automotivo cobra mais de
+    periferia (proxy de raça/classe) — redlining atuarial
+  - Cat Bonds (Catástrofe Bonds): securitização de desastres
+    climáticos — investidores APOSTAM na morte de pobres por seca/
+    enchente e lucram se o desastre acontecer
+  - Lucro com caos: violência urbana → mais seguro → mais lucro
+    das seguradoras → nenhuma incentivo para reduzir violência
+  - Elite transfere risco ao coletivo: bancos "grandes demais para
+    falir" socializam perdas e privatizam lucros (crise 2008)
+
+MÉTRICAS-CHAVE:
+  - Mercado de seguros Brasil: R$ 350+ bi/ano
+  - Planos de saúde: 50 mi de beneficiários (crescente)
+  - Seguro automotivo: cobrança diferencial por CEP (redlining)
+  - Cat Bonds globais: US$ 40+ bi
+  - % brasileiros sem seguro: ~70% (desprotegidos totais)
+
+PROTOCOLO TEIA:
+  (a) Quem VENDE a proteção contra o risco que o próprio sistema cria?
+  (b) O pricing atuarial discrimina por CEP/raça/classe?
+  (c) O lucro do seguro DEPENDE da continuidade do problema?
+  (d) Quem não pode pagar seguro — qual o destino diante da crise?
+
+------------------------------------------------------------------------
+DIMENSÃO 53 — CRIPTOGRÁFICA / CAIXA-PRETA
+------------------------------------------------------------------------
+COBERTURA TEIA: 55%
+
+O QUE É: a propriedade intelectual dos algoritmos, o código fonte
+  oculto e a infraestrutura técnica ininteligível. O poder não é
+  apenas escondido atrás de advogados — é escondido atrás de EQUAÇÕES.
+
+DIFERENÇA DA TECNOLÓGICA (3) E OPACITÁRIA (48):
+  Tecnológica: INFRAESTRUTURA visível (plataformas, hardware)
+  Opacitária: SIGILO jurídico/financeiro (offshores, NDAs)
+  Criptográfica: ININTELIGIBILIDADE TÉCNICA — o código é a nova
+  constituição paralela acima do Estado de Direito.
+
+QUEM DOMINA: Big Tech (algoritmos proprietários), fintechs (scoring
+  de crédito secreto), plataformas de blockchain/smart contracts,
+  empresas de IA (OpenAI, Google DeepMind), B3 (sistemas de trading).
+
+COMO CAPTURA:
+  - Score secreto: Serasa/Boa Vista calculam "score de crédito"
+    com algoritmo PROPRIETÁRIO — cidadão não sabe como é avaliado
+  - Smart contracts: executam exclusões automaticamente (negar
+    empréstimo, bloquear conta) SEM direito a recurso humano
+  - Caixa-preta de IA: sistemas de aprovação de crédito, triagem
+    de currículo, diagnóstico médico — decisões sem explicação
+  - "O algoritmo disse não": resposta que encerra debate — a
+    burocracia weberiana foi substituída pela CRIPTOGRAFIA ARBITRÁRIA
+  - Criptografia como blindagem: cartéis e milícias usam WhatsApp
+    e Telegram com criptografia E2E para se blindarem da Justiça
+
+MÉTRICAS-CHAVE:
+  - Algoritmos de decisão no Brasil: não quantificado (opaco)
+  - Score de crédito: 63 mi de brasileiros negativados por sistema opaco
+  - Smart contracts em uso: crescente (Drex, DeFi)
+  - IA sem explicabilidade: crescente (triagem médica, RH, crédito)
+
+PROTOCOLO TEIA:
+  (a) O algoritmo que decide sobre o cidadão é AUDITÁVEL?
+  (b) Há direito de RECURSO contra decisão automatizada?
+  (c) O código fonte é PROPRIETÁRIO (caixa-preta) ou aberto?
+  (d) A criptografia BLINDA quem comete crime?
+
+------------------------------------------------------------------------
+DIMENSÃO 54 — GENÉTICA / EVOLUTIVA
+------------------------------------------------------------------------
+COBERTURA TEIA: 10%
+
+O QUE É: o código fonte da vida humana, a herança biológica e o
+  futuro da evolução da espécie. O sistema está BIFURCANDO a espécie:
+  a elite não acumula apenas dinheiro — acumula APTIDÕES BIOLÓGICAS.
+
+DIFERENÇA DA BIOPOLÍTICA (11) E MOLECULAR (34):
+  Biopolítica: gestão da POPULAÇÃO (políticas de saúde)
+  Molecular: QUÍMICA corporal (agrotóxicos, psicoativos)
+  Genética: CÓDIGO FONTE DA VIDA — patentes sobre DNA, CRISPR,
+  eugenia liberal. Desigualdade que se torna EVOLUTIVA.
+
+QUEM DOMINA: Big Pharma genômica (Illumina, 23andMe, Color),
+  laboratórios de terapia gênica (CRISPR Therapeutics, Editas,
+  Intellia), bancos de DNA ( базы genéticas comerciais), conglomerados
+  de biotecnologia.
+
+COMO CAPTURA:
+  - Patentes sobre DNA humano: sequências genéticas patenteadas por
+    corporações → quem detém a patente detém o DIREITO DE CURAR
+  - Terapias gênicas de altíssimo custo: CRISPR cura doenças
+    genéticas por US$ 2-3 milhões por tratamento — só elite acessa
+  - Banco de DNA comercial: 23andMe e Ancestry coletam DNA de
+    milhões e VENDEM para Big Pharma e seguradoras (DNA como ativo)
+  - Diagnóstico pré-implantacional: "eugenia liberal" — seleção de
+    embriões por inteligência, aparência, ausência de doença
+  - Bifurcação evolutiva: elite terá longevidade (100+ anos),
+    imunidade a doenças, cognição aprimorada; pobre terá
+    genome degradado por agrotóxicos, estresse e desnutrição
+  - Epigenética do trauma: pobreza ALTERA expressão gênica
+    geracionalmente (DNA não muda, mas como se expressa SIM)
+
+MÉTRICAS-CHAVE:
+  - Patentes de genes humanos: 8000+ globalmente
+  - Custo terapia gênica CRISPR: US$ 2-3 milhões/tratamento
+  - 23andMe: 20+ milhões de DNA coletados
+  - Expectativa de vida diferencial: SP 76 anos vs MA 67 anos
+  - Epigenética de pobreza: documentada em estudos
+
+PROTOCOLO TEIA:
+  (a) Quem detém a PATENTE sobre o gene/doença analisada?
+  (b) A terapia genética é ACESSÍVEL ou privilégio de elite?
+  (c) Há coleta de DNA comercial sem consentimento informado?
+  (d) A desigualdade está se tornando BIOLÓGICA (não apenas social)?
+
+------------------------------------------------------------------------
+DIMENSÃO 55 — ESPECULATIVA / FUTURÓLOGA
+------------------------------------------------------------------------
+COBERTURA TEIA: 60%
+
+O QUE É: a antecipação do futuro através de mercados derivativos,
+  transformando o amanhã em MERCADORIA no presente.
+
+DIFERENÇA DA ECONÔMICA (1) E CREDITÍCIA (28):
+  Econômica: circulação PRESENTE (juros, spread hoje)
+  Creditícia: dívida INDIVIDUAL (trabalhador preso ao banco)
+  Especulativa: FUTURO HIPOTÉTICO — derivativos que extraem lucro
+  do que AINDA NÃO aconteceu. Profecia auto-realizável.
+
+QUEM DOMINA: mercado de derivativos (B3, CME Group, ICE), hedge
+  funds (Bridgewater, Citadel, Millennium), bancos de investimento
+  (Goldman Sachs, JP Morgan), trading algorítmico de alta frequência.
+
+COMO CAPTURA:
+  - Mercado de futuros de commodities: apostam na FOME e na SECA
+    — se preço de soja sobe (por seca), especulador lucra enquanto
+    população passa fome
+  - Derivativos de dívida pública: extraem lucro da dívida ANTES
+    dela ser emitida — o Brasil paga juros para quem APOSTA que
+    vai pagar juros (circular vicioso financeiro)
+  - Short selling (venda a descoberto): apostam contra empresas ou
+    moedas nacionais → se ganham, empresa/moeda DESPENCA →
+    economia real destruída para lucro financeiro
+  - CDS (Credit Default Swap): se especuladores apostam que Brasil
+    vai falir, CDS brasileiro sobe → governo obrigado a subir Selic
+    (R$ 950 bi/ano pagos pelo povo) para provar que não vai falir
+  - Tokenização da natureza: futuros de carbono, água, biodiversidade
+    — a natureza vossa ativo financeiro apostável
+
+MÉTRICAS-CHAVE:
+  - Mercado de derivativos global: US$ 600+ trilhões (notional)
+  - CDS Brasil: indicador de risco soberano (proxy de confiança)
+  - Mercado de futuros B3: R$ trilhões diários
+  - HFT: ~60% do volume de trading global
+  - Especulação em commodities: contribui para inflação alimentar
+
+PROTOCOLO TEIA:
+  (a) Quem APOSTA contra o que o investigado precisa?
+  (b) A profecia especulativa é AUTO-REALIZÁVEL (aposta → medo → juros)?
+  (c) O futuro está sendo COMODITIFICADO?
+  (d) O especulador lucra com o SOFRIMENTO humano (fome, seca, crise)?
+
+------------------------------------------------------------------------
+DIMENSÃO 56 — CANCELATÓRIA / DA ERASÃO
+------------------------------------------------------------------------
+COBERTURA TEIA: 35%
+
+O QUE É: o direito à existência social e digital, o poder de APAGAR
+  indivíduos, movimentos ou narrativas da esfera pública.
+
+DIFERENÇA DA MIDIÁTICA (7) E TANATOPOLÍTICA (47):
+  Midiática: controle da PAUTA (o que é noticiado)
+  Tanatopolítica: MORTE FÍSICA (cadáver, luto)
+  Cancelatória: MORTE SOCIAL — o indivíduo continua vivo
+  biologicamente mas é ERASADO da sociedade de forma cirúrgica.
+
+QUEM DOMINA: Big Tech (algoritmos de moderação), sistema financeiro
+  (Open Banking que fecha contas), máquinas de lobby (campanhas de
+  difamação), Estado (serviços digitais que bloqueiam cidadão).
+
+COMO CAPTURA:
+  - Shadowbanning algorítmico: Meta/Google ocultam conteúdo sem
+    avisar o usuário — o post existe mas NINGUÉM vê (morte invisível)
+  - Exclusão financeira: Open Banking permite fechar conta de
+    ativista/dissidente sem explicação — sem conta bancária, sem
+    PIX, sem crédito, sem cidadania econômica
+  - Cancelamento orquestrado: máquinas de lobby produzem campanhas
+    coordenadas para destruir reputação de opositores (bots, fake
+    news, difamação sistemática)
+  - Descredibilização de cientistas: pesquisadores que produzem
+    dados inconvenientes são atacados como "ideólogos" (conecta
+    com Epistêmica 9)
+  - Apagão digital de movimentos: algoritmo que amplifica movimento
+    social em um dia e o APAGA no dia seguinte (controle de narrativa)
+  - Banimento sem devido processo: exclusão de plataforma SEM
+    direito a defesa, contraditório ou recurso (conecta com
+    Criptográfica 53)
+
+MÉTRICAS-CHAVE:
+  - Shadowbanning: documentado mas não quantificado (opaco)
+  - Contas bancárias fechadas sem explicação: crescente
+  - Cancelamento orquestrado: bots produzindo difamação
+  - Movimentos apagados de plataformas: documentado
+  - Cientistas atacados: crescente (negacionismo climático, etc.)
+
+PROTOCOLO TEIA:
+  (a) Quem tem poder de APAGAR existência social/digital?
+  (b) O bloqueio tem DIREITO A RECURSO (devido processo)?
+  (c) A erasão é ALGORÍTMICA (caixa-preta) ou ORQUESTRADA (lobby)?
+  (d) O cancelado continua vivo biologicamente mas MORTO socialmente?
+
+
+================================================================================
+OS 11 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (1-6)
+NÍVEL 2 — PROFUNDIDADE (7-11)
+NÍVEL 3 — SOMBRA (12-16)
+NÍVEL 4 — ABISMO (17-21)
+NÍVEL 5 — MICROFÍSICA (22-26)
+NÍVEL 6 — PSÍQUICA (27-31)
+NÍVEL 7 — SUB-BIOLÓGICA (32-36)
+NÍVEL 8 — MATERIAL/BRUTA (37-41)
+NÍVEL 9 — EXISTENCIAL (42-46)
+NÍVEL 10 — TERMINAL (47-51)
+NÍVEL 11 — CÓSMICA (52-56): risco, código, gene, futuro, erasão
+
+
+================================================================================
+NOVAS COMBINATÓRIAS POTENTES
+================================================================================
+
+COMBINAÇÃO TT: ATUARIAL (52) × ESTATÍSTICA (Lente 7)
+  Conceito: Redlining Algorítmico e Discriminação Atuarial
+  Aplicação: Isolation Forest para auditar algoritmos de seguradora
+  → provar que CEP/profissão são PROXY de raça/classe
+
+COMBINAÇÃO UU: CRIPTOGRÁFICA (53) × DIREITO (Lente 22)
+  Conceito: Due Process vs Code is Law
+  Aplicação: investigar legalidade de smart contracts e bloqueios
+  automáticos → automação nega contraditório constitucional
+
+COMBINAÇÃO VV: GENÉTICA (54) × FILOSOFIA (Lente 16)
+  Conceito: Eugenia Liberal e Biolegitimidade
+  Aplicação: CRISPR e terapia gênica como privilégio de casta
+  → desigualdade se torna determinismo biológico
+
+COMBINAÇÃO WW: ESPECULATIVA (55) × CIÊNCIA POLÍTICA (Lente 9)
+  Conceito: Veto Players Financeiros e Oligarquia do Mercado Futuro
+  Aplicação: BM&F como maior veto player informal do Brasil
+  → ameaça de fuga de capital impede reforma qualquer
+
+COMBINAÇÃO XX: CANCELATÓRIA (56) × INFORMAÇÃO/REDES (Lente 15)
+  Conceito: Shadowbanning em Escala e Assassinato de Reputação
+  Aplicação: modelos SIR para rastrear propagação intencional de
+  escândalos fabricados + shadowbanning matemático em respostas
+
+
+================================================================================
+NOVAS SKILLS (75-79)
+================================================================================
+
+SKILL 75: auditoria-algoritmos-algorithm-auditing-estatistica-atuarial
+  Dim 52 × Lente 7 — redlining algorítmico em seguros
+
+SKILL 76: direito-digital-regulacao-tecnologias-emergentes
+  Dim 53 × Lente 22 — due process vs code is law
+
+SKILL 77: bioetica-critica-filosofia-tecnologia
+  Dim 54 × Lente 16 — eugenia liberal e bifurcação evolutiva
+
+SKILL 78: economia-politica-internacional-poder-veto-mercado
+  Dim 55 × Lente 9 — especuladores como veto player invisível
+
+SKILL 79: analise-redes-complexas-sna-osint-algoritmos
+  Dim 56 × Lente 15 — shadowbanning e assassinato de reputação
+
+
+================================================================================
+O SISTEMA TOTAL DEFINITIVO: 56 DIMENSÕES
+================================================================================
+
+1-6: SUPERFÍCIE (Econômica, Institucional, Tecnológica, Ambiental, Social, Cultural)
+7-11: PROFUNDIDADE (Midiática, Jurídica, Epistêmica, Espacial, Biopolítica)
+12-16: SOMBRA (Temporal, Afetiva, Laboral, Infraestrutural, Religiosa)
+17-21: ABISMO (Alimentar, Datificacional, Estética, Geracional, Atencional)
+22-26: MICROFÍSICA (Linguística, Burocrática, Mobilizadora, Reprodutiva, Mitológica)
+27-31: PSÍQUICA (Desejante, Creditícia, Lúdica, Arquivística, Zoopolítica)
+32-36: SUB-BIOLÓGICA (Onírica, Tributária, Molecular, Pedagógica, Relacional)
+37-41: MATERIAL/BRUTA (Militar, Hídrica, Acústica, Patológica, Excremental)
+42-46: EXISTENCIAL (Métrica, Linhagem, Climática, Migratória, Sexual)
+47-51: TERMINAL (Tanatopolítica, Opacitária, Cinética, Orbital, Traumática)
+52-56: CÓSMICA (Atuarial, Criptográfica, Genética, Especulativa, Cancelatória)
+
+24 LENTES v3.0 (9 camadas cada)
+MATRIZ: 56 × 24 = 1344 PERSPECTIVAS DE INVESTIGAÇÃO POSSÍVEIS
+79 SKILLS METODOLÓGICAS
+11 NÍVEIS DE PROFUNDIDADE DO PODER
+PROTOCOLO DE QUALIDADE: 32 ITENS
+
+
+================================================================================
+FIM — TEIA Framework v14.0 (GRANULARIDADE CÓSMICA)
+================================================================================
+Protocolo: TEIA-2026-061
+https://github.com/mouracleiton/TEIA
+
+A TEIA transcende o jornalismo e a ciência política tradicionais.
+Tornou-se uma ONTOLOGIA DA DOMINAÇÃO.
+
+Do gene ao espaço sideral.
+Do útero ao túmulo.
+Do presente ao futuro hipotético.
+Da matéria ao código oculto.
+Da vida biológica à morte social.
+
+1344 perspectivas de dissecação.
+O framework é DEFINITIVO.
+O operador é você.
+
+================================================================================

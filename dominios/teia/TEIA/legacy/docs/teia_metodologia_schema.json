@@ -1,0 +1,1776 @@
+{
+  "meta": {
+    "nome": "TEIA",
+    "nome_completo": "Centro de Estudos em Hacker Cultura Periférica Teia de Aranha",
+    "autor": "Cleiton Moura (@professorcinza)",
+    "versao": "v22.0",
+    "protocolo": "TEIA-2026-097",
+    "data": "2026-07-20",
+    "github": "https://github.com/mouracleiton/TEIA",
+    "matriz_total": "156 dimensões × 60 lentes = 9.360 perspectivas",
+    "skills_total": 89,
+    "niveis_profundidade": 18,
+    "nota_v22": "Expansão via taxonomia acadêmica/bibliotecária (DDC/LCC/CAPES/Frascati). Dims 1-108 e lentes 1-44 congeladas; novos 109-156 e 45-60."
+  },
+  "pet": {
+    "nome": "Protocolo de Execução TEIA",
+    "descricao": "Sistema operacional prático que transforma a matriz teórica em inteligência acionável",
+    "fases": [
+      {
+        "fase": 1,
+        "nome": "Delimitação do Fenômeno",
+        "objetivo": "Nomear o alvo e aplicar 3-5 dimensões de superfície",
+        "output": "Ficha de fenômeno com dimensões preliminares"
+      },
+      {
+        "fase": 2,
+        "nome": "Triagem Óptica",
+        "objetivo": "Escolher 2-3 lentes analíticas que rasgam o óbvio",
+        "output": "Seleção de lentes com justificativa"
+      },
+      {
+        "fase": 3,
+        "nome": "Mergulho no Abismo",
+        "objetivo": "Buscar dimensões invisíveis (níveis 3-18) que sustentam o fenômeno",
+        "output": "Mapa de dimensões profundas conectadas"
+      },
+      {
+        "fase": 4,
+        "nome": "Mapeamento de Loops",
+        "objetivo": "Conectar dimensões em cadeia causal e identificar pontos de alavanca",
+        "output": "Diagrama de loop causal (CLD) com pontos de alavanca"
+      },
+      {
+        "fase": 5,
+        "nome": "Síntese Disjuntiva",
+        "objetivo": "Diagnosticar a máquina que produz o problema e apontar nós críticos",
+        "output": "Documento TEIA protocolado com recomendação de ação"
+      }
+    ]
+  },
+  "niveis_profundidade": [
+    {
+      "nivel": 1,
+      "nome": "SUPERFÍCIE",
+      "dims": "1-6",
+      "descricao": "O que se vê"
+    },
+    {
+      "nivel": 2,
+      "nome": "PROFUNDIDADE",
+      "dims": "7-11",
+      "descricao": "O que se oculta"
+    },
+    {
+      "nivel": 3,
+      "nome": "SOMBRA",
+      "dims": "12-16",
+      "descricao": "Quase invisível"
+    },
+    {
+      "nivel": 4,
+      "nome": "ABISMO",
+      "dims": "17-21",
+      "descricao": "Totalmente invisível"
+    },
+    {
+      "nivel": 5,
+      "nome": "MICROFÍSICA",
+      "dims": "22-26",
+      "descricao": "Determina o cotidiano"
+    },
+    {
+      "nivel": 6,
+      "nome": "PSÍQUICA",
+      "dims": "27-31",
+      "descricao": "Determina o desejo e a memória"
+    },
+    {
+      "nivel": 7,
+      "nome": "SUB-BIOLÓGICA",
+      "dims": "32-36",
+      "descricao": "Controla o corpo e a engenharia social"
+    },
+    {
+      "nivel": 8,
+      "nome": "MATERIAL/BRUTA",
+      "dims": "37-41",
+      "descricao": "Controle da força e da matéria"
+    },
+    {
+      "nivel": 9,
+      "nome": "EXISTENCIAL",
+      "dims": "42-46",
+      "descricao": "Controle das fronteiras da existência"
+    },
+    {
+      "nivel": 10,
+      "nome": "TERMINAL",
+      "dims": "47-51",
+      "descricao": "Morte, segredo, velocidade, espaço, trauma"
+    },
+    {
+      "nivel": 11,
+      "nome": "CÓSMICA",
+      "dims": "52-56",
+      "descricao": "Risco, código, gene, futuro, erasão"
+    },
+    {
+      "nivel": 12,
+      "nome": "ZÊNITE",
+      "dims": "57-66",
+      "descricao": "Energia vital, realidade, bondade, subsolo, auto-vigilância, entropia, IA, sentido, dependência, rotas"
+    },
+    {
+      "nivel": 13,
+      "nome": "CIBERNÉTICA/INFORMAÇÃO",
+      "dims": "67-75",
+      "descricao": "Controle via fluxo de informação, feedback, automação e código"
+    },
+    {
+      "nivel": 14,
+      "nome": "NEURO/COGNITIVA",
+      "dims": "76-84",
+      "descricao": "Controle via arquitetura cerebral, atenção, memória, emoção e decisão"
+    },
+    {
+      "nivel": 15,
+      "nome": "COMPLEXIDADE/SISTÊMICA AVANÇADA",
+      "dims": "85-108",
+      "descricao": "Controle via emergência, não-linearidade, adaptação e auto-organização"
+    },
+    {
+      "nivel": 16,
+      "nome": "BIBLIOTECÁRIO/ORGANIZAÇÃO DO SABER",
+      "dims": "109-120",
+      "descricao": "Controle via classificação, cânone, citação, ranking e gatekeeping do conhecimento"
+    },
+    {
+      "nivel": 17,
+      "nome": "CIÊNCIAS APLICADAS COMO MÁQUINA",
+      "dims": "121-140",
+      "descricao": "Campos acadêmicos aplicados convertidos em infraestrutura de captura setorial"
+    },
+    {
+      "nivel": 18,
+      "nome": "FRONTEIRAS DISCIPLINARES/METACIÊNCIA",
+      "dims": "141-156",
+      "descricao": "Campos de fronteira e a ciência da própria ciência como arena de poder"
+    }
+  ],
+  "dimensoes": [
+    {
+      "id": 1,
+      "nome": "Econômica",
+      "categoria": "Dinheiro",
+      "nivel": 1,
+      "cobertura": 90
+    },
+    {
+      "id": 2,
+      "nome": "Institucional",
+      "categoria": "Regras",
+      "nivel": 1,
+      "cobertura": 60
+    },
+    {
+      "id": 3,
+      "nome": "Tecnológica",
+      "categoria": "Algoritmos",
+      "nivel": 1,
+      "cobertura": 55
+    },
+    {
+      "id": 4,
+      "nome": "Ambiental",
+      "categoria": "Natureza",
+      "nivel": 1,
+      "cobertura": 50
+    },
+    {
+      "id": 5,
+      "nome": "Social",
+      "categoria": "Classe",
+      "nivel": 1,
+      "cobertura": 25
+    },
+    {
+      "id": 6,
+      "nome": "Cultural",
+      "categoria": "Valores",
+      "nivel": 1,
+      "cobertura": 5
+    },
+    {
+      "id": 7,
+      "nome": "Midiática",
+      "categoria": "Informação",
+      "nivel": 2,
+      "cobertura": 40
+    },
+    {
+      "id": 8,
+      "nome": "Jurídica",
+      "categoria": "Força/Lei",
+      "nivel": 2,
+      "cobertura": 45
+    },
+    {
+      "id": 9,
+      "nome": "Epistêmica",
+      "categoria": "Verdade",
+      "nivel": 2,
+      "cobertura": 15
+    },
+    {
+      "id": 10,
+      "nome": "Espacial",
+      "categoria": "Território",
+      "nivel": 2,
+      "cobertura": 60
+    },
+    {
+      "id": 11,
+      "nome": "Biopolítica",
+      "categoria": "Vida",
+      "nivel": 2,
+      "cobertura": 35
+    },
+    {
+      "id": 12,
+      "nome": "Temporal",
+      "categoria": "Tempo",
+      "nivel": 3,
+      "cobertura": 30
+    },
+    {
+      "id": 13,
+      "nome": "Afetiva",
+      "categoria": "Emoções",
+      "nivel": 3,
+      "cobertura": 35
+    },
+    {
+      "id": 14,
+      "nome": "Laboral",
+      "categoria": "Trabalho",
+      "nivel": 3,
+      "cobertura": 70
+    },
+    {
+      "id": 15,
+      "nome": "Infraestrutural",
+      "categoria": "Energia/Logística",
+      "nivel": 3,
+      "cobertura": 65
+    },
+    {
+      "id": 16,
+      "nome": "Religiosa",
+      "categoria": "Fé",
+      "nivel": 3,
+      "cobertura": 40
+    },
+    {
+      "id": 17,
+      "nome": "Alimentar",
+      "categoria": "Comida",
+      "nivel": 4,
+      "cobertura": 60
+    },
+    {
+      "id": 18,
+      "nome": "Datificacional",
+      "categoria": "Dados/Identidade",
+      "nivel": 4,
+      "cobertura": 75
+    },
+    {
+      "id": 19,
+      "nome": "Estética",
+      "categoria": "Sentidos visuais",
+      "nivel": 4,
+      "cobertura": 20
+    },
+    {
+      "id": 20,
+      "nome": "Geracional",
+      "categoria": "Idade/Futuro",
+      "nivel": 4,
+      "cobertura": 50
+    },
+    {
+      "id": 21,
+      "nome": "Atencional",
+      "categoria": "Foco",
+      "nivel": 4,
+      "cobertura": 80
+    },
+    {
+      "id": 22,
+      "nome": "Linguística",
+      "categoria": "Palavras",
+      "nivel": 5,
+      "cobertura": 40
+    },
+    {
+      "id": 23,
+      "nome": "Burocrática",
+      "categoria": "Processos",
+      "nivel": 5,
+      "cobertura": 55
+    },
+    {
+      "id": 24,
+      "nome": "Mobilizadora",
+      "categoria": "Fluxo",
+      "nivel": 5,
+      "cobertura": 50
+    },
+    {
+      "id": 25,
+      "nome": "Reprodutiva",
+      "categoria": "Cuidado",
+      "nivel": 5,
+      "cobertura": 60
+    },
+    {
+      "id": 26,
+      "nome": "Mitológica",
+      "categoria": "Inconsciente",
+      "nivel": 5,
+      "cobertura": 30
+    },
+    {
+      "id": 27,
+      "nome": "Desejante",
+      "categoria": "Desejo",
+      "nivel": 6,
+      "cobertura": 40
+    },
+    {
+      "id": 28,
+      "nome": "Creditícia",
+      "categoria": "Dívida individual",
+      "nivel": 6,
+      "cobertura": 70
+    },
+    {
+      "id": 29,
+      "nome": "Lúdica",
+      "categoria": "Prazer/Ócio",
+      "nivel": 6,
+      "cobertura": 50
+    },
+    {
+      "id": 30,
+      "nome": "Arquivística",
+      "categoria": "Memória",
+      "nivel": 6,
+      "cobertura": 25
+    },
+    {
+      "id": 31,
+      "nome": "Zoopolítica",
+      "categoria": "Vida não-humana",
+      "nivel": 6,
+      "cobertura": 40
+    },
+    {
+      "id": 32,
+      "nome": "Onírica",
+      "categoria": "Sono",
+      "nivel": 7,
+      "cobertura": 30
+    },
+    {
+      "id": 33,
+      "nome": "Tributária",
+      "categoria": "Impostos",
+      "nivel": 7,
+      "cobertura": 80
+    },
+    {
+      "id": 34,
+      "nome": "Molecular",
+      "categoria": "Química corporal",
+      "nivel": 7,
+      "cobertura": 25
+    },
+    {
+      "id": 35,
+      "nome": "Pedagógica",
+      "categoria": "Educação",
+      "nivel": 7,
+      "cobertura": 45
+    },
+    {
+      "id": 36,
+      "nome": "Relacional",
+      "categoria": "Favores/Panela",
+      "nivel": 7,
+      "cobertura": 65
+    },
+    {
+      "id": 37,
+      "nome": "Militar",
+      "categoria": "Violência",
+      "nivel": 8,
+      "cobertura": 60
+    },
+    {
+      "id": 38,
+      "nome": "Hídrica",
+      "categoria": "Água",
+      "nivel": 8,
+      "cobertura": 55
+    },
+    {
+      "id": 39,
+      "nome": "Acústica",
+      "categoria": "Som/Ruído",
+      "nivel": 8,
+      "cobertura": 25
+    },
+    {
+      "id": 40,
+      "nome": "Patológica",
+      "categoria": "Doença",
+      "nivel": 8,
+      "cobertura": 45
+    },
+    {
+      "id": 41,
+      "nome": "Excremental",
+      "categoria": "Lixo/Rejeitos",
+      "nivel": 8,
+      "cobertura": 50
+    },
+    {
+      "id": 42,
+      "nome": "Métrica",
+      "categoria": "Números/Indicadores",
+      "nivel": 9,
+      "cobertura": 35
+    },
+    {
+      "id": 43,
+      "nome": "Linhagem",
+      "categoria": "Herança/Dinastias",
+      "nivel": 9,
+      "cobertura": 50
+    },
+    {
+      "id": 44,
+      "nome": "Climática",
+      "categoria": "Atmosfera/Carbono",
+      "nivel": 9,
+      "cobertura": 30
+    },
+    {
+      "id": 45,
+      "nome": "Migratória",
+      "categoria": "Fronteiras/Cidadania",
+      "nivel": 9,
+      "cobertura": 45
+    },
+    {
+      "id": 46,
+      "nome": "Sexual",
+      "categoria": "Corpos/Prazer/Moralidade",
+      "nivel": 9,
+      "cobertura": 25
+    },
+    {
+      "id": 47,
+      "nome": "Tanatopolítica",
+      "categoria": "Morte/Luto",
+      "nivel": 10,
+      "cobertura": 20
+    },
+    {
+      "id": 48,
+      "nome": "Opacitária",
+      "categoria": "Segredo/Privacidade",
+      "nivel": 10,
+      "cobertura": 65
+    },
+    {
+      "id": 49,
+      "nome": "Cinética",
+      "categoria": "Velocidade/Aceleração",
+      "nivel": 10,
+      "cobertura": 40
+    },
+    {
+      "id": 50,
+      "nome": "Orbital",
+      "categoria": "Espaço sideral",
+      "nivel": 10,
+      "cobertura": 15
+    },
+    {
+      "id": 51,
+      "nome": "Traumática",
+      "categoria": "Choque/Paralisia",
+      "nivel": 10,
+      "cobertura": 45
+    },
+    {
+      "id": 52,
+      "nome": "Atuarial",
+      "categoria": "Risco/Seguro",
+      "nivel": 11,
+      "cobertura": 40
+    },
+    {
+      "id": 53,
+      "nome": "Criptográfica",
+      "categoria": "Código oculto",
+      "nivel": 11,
+      "cobertura": 55
+    },
+    {
+      "id": 54,
+      "nome": "Genética",
+      "categoria": "Evolução/Biologia",
+      "nivel": 11,
+      "cobertura": 10
+    },
+    {
+      "id": 55,
+      "nome": "Especulativa",
+      "categoria": "Futuro/Derivativos",
+      "nivel": 11,
+      "cobertura": 60
+    },
+    {
+      "id": 56,
+      "nome": "Cancelatória",
+      "categoria": "Apagão social",
+      "nivel": 11,
+      "cobertura": 35
+    },
+    {
+      "id": 57,
+      "nome": "Metabólica",
+      "categoria": "Energia corporal/Calorias",
+      "nivel": 12,
+      "cobertura": 30
+    },
+    {
+      "id": 58,
+      "nome": "Hiperreal",
+      "categoria": "Simulação/Realidade fabricada",
+      "nivel": 12,
+      "cobertura": 45
+    },
+    {
+      "id": 59,
+      "nome": "Filantrópica",
+      "categoria": "Caridade/Bondade capturada",
+      "nivel": 12,
+      "cobertura": 50
+    },
+    {
+      "id": 60,
+      "nome": "Telúrica",
+      "categoria": "Subsolo/Geologia",
+      "nivel": 12,
+      "cobertura": 40
+    },
+    {
+      "id": 61,
+      "nome": "Panóptica",
+      "categoria": "Auto-vigilância internalizada",
+      "nivel": 12,
+      "cobertura": 75
+    },
+    {
+      "id": 62,
+      "nome": "Termodinâmica",
+      "categoria": "Calor/Entropia",
+      "nivel": 12,
+      "cobertura": 35
+    },
+    {
+      "id": 63,
+      "nome": "Autônoma",
+      "categoria": "IA/Agência autônoma",
+      "nivel": 12,
+      "cobertura": 40
+    },
+    {
+      "id": 64,
+      "nome": "Ontológica",
+      "categoria": "Sentido da vida",
+      "nivel": 12,
+      "cobertura": 25
+    },
+    {
+      "id": 65,
+      "nome": "Farmacológica",
+      "categoria": "Vício/Drogas",
+      "nivel": 12,
+      "cobertura": 45
+    },
+    {
+      "id": 66,
+      "nome": "Cartográfica",
+      "categoria": "Mapas/Rotas",
+      "nivel": 12,
+      "cobertura": 50
+    },
+    {
+      "id": 67,
+      "nome": "Cibernética",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 68,
+      "nome": "Algorítmica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 69,
+      "nome": "Semiótica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 70,
+      "nome": "Reticular",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 71,
+      "nome": "Entropia-Informação",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 72,
+      "nome": "Autômato",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 73,
+      "nome": "Sensorial",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 74,
+      "nome": "Preditiva",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 75,
+      "nome": "Retroalimentativa",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 13,
+      "cobertura": 0
+    },
+    {
+      "id": 76,
+      "nome": "Atencional",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 77,
+      "nome": "Mnemônica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 78,
+      "nome": "Emocional",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 79,
+      "nome": "Decisória",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 80,
+      "nome": "Cognitiva",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 81,
+      "nome": "Neuroquímica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 82,
+      "nome": "Perceptiva",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 83,
+      "nome": "Linguística-Cerebral",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 84,
+      "nome": "Plasticidade",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 14,
+      "cobertura": 0
+    },
+    {
+      "id": 85,
+      "nome": "Emergente",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 86,
+      "nome": "Não-Linear",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 87,
+      "nome": "Adaptativa",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 88,
+      "nome": "Auto-Organizativa",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 89,
+      "nome": "Cascata",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 90,
+      "nome": "Modular",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 91,
+      "nome": "Hierárquica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 92,
+      "nome": "Dissipativa",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 93,
+      "nome": "Sinérgica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 94,
+      "nome": "Caótica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 95,
+      "nome": "Fractal",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 96,
+      "nome": "Reticular-Distribuída",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 97,
+      "nome": "Metabólica-Global",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 98,
+      "nome": "Sinestésica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 99,
+      "nome": "Ontogenética",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 100,
+      "nome": "Filogenética",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 101,
+      "nome": "Epigenética",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 102,
+      "nome": "Existencial-Risco",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 103,
+      "nome": "Cósmica-Energética",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 104,
+      "nome": "Quântica",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 105,
+      "nome": "Multiversal",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 106,
+      "nome": "Temporal-Não-Linear",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 107,
+      "nome": "Consciência-Coletiva",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 108,
+      "nome": "Absoluta",
+      "categoria": "Cibernética/Neuro/Complexidade",
+      "nivel": 15,
+      "cobertura": 0
+    },
+    {
+      "id": 109,
+      "nome": "Bibliotecária",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 110,
+      "nome": "Taxonômica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 111,
+      "nome": "Canônica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 112,
+      "nome": "Citacional",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 113,
+      "nome": "Editorial-Acadêmica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 114,
+      "nome": "Curricular-Disciplinar",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 115,
+      "nome": "Peer-Review",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 116,
+      "nome": "Patentária",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 117,
+      "nome": "Laboratorial",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 118,
+      "nome": "Metrológica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 119,
+      "nome": "Arquivística-Institucional",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 120,
+      "nome": "Agnológica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 16,
+      "cobertura": 0
+    },
+    {
+      "id": 121,
+      "nome": "Sanitária",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 122,
+      "nome": "Agroindustrial",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 123,
+      "nome": "Logística",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 124,
+      "nome": "Energética",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 125,
+      "nome": "Mineral-Extrativa",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 126,
+      "nome": "Urbana",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 127,
+      "nome": "Habitacional",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 128,
+      "nome": "Transportes",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 129,
+      "nome": "Espectral",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 130,
+      "nome": "Contábil-Normativa",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 131,
+      "nome": "Estatística-Oficial",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 132,
+      "nome": "Avaliativa-Educacional",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 133,
+      "nome": "Seguritária",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 134,
+      "nome": "Esportiva-Espetacular",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 135,
+      "nome": "Turística",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 136,
+      "nome": "Industrial-Manufatureira",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 137,
+      "nome": "Farmacêutica-Industrial",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 138,
+      "nome": "Seguradora-Atuarial",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 139,
+      "nome": "Normativa-Técnica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 140,
+      "nome": "Regulatória-Agência",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 17,
+      "cobertura": 0
+    },
+    {
+      "id": 141,
+      "nome": "Biotecnológica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 142,
+      "nome": "Nanotecnológica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 143,
+      "nome": "Geoengenharia",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 144,
+      "nome": "Nuclear",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 145,
+      "nome": "Oceanográfica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 146,
+      "nome": "Polar",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 147,
+      "nome": "Astropolítica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 148,
+      "nome": "Interface-Neural",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 149,
+      "nome": "Semicondutora",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 150,
+      "nome": "Materiais-Avançados",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 151,
+      "nome": "One-Health",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 152,
+      "nome": "Justiça-Epistêmica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 153,
+      "nome": "Ciência-Aberta/Fechada",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 154,
+      "nome": "Prospectiva",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 155,
+      "nome": "Transdisciplinar",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    },
+    {
+      "id": 156,
+      "nome": "Metacientífica",
+      "categoria": "Saber/Aplicada/Meta",
+      "nivel": 18,
+      "cobertura": 0
+    }
+  ],
+  "lentes": [
+    {
+      "id": 1,
+      "nome": "DECOLONIAL",
+      "pergunta": ""
+    },
+    {
+      "id": 2,
+      "nome": "MARXISTA",
+      "pergunta": ""
+    },
+    {
+      "id": 3,
+      "nome": "FOUCAULTIANA / BIOPOLÍTICA",
+      "pergunta": ""
+    },
+    {
+      "id": 4,
+      "nome": "FEMINISTA INTERSECCIONAL",
+      "pergunta": ""
+    },
+    {
+      "id": 5,
+      "nome": "ECOLÓGICA/SISTÊMICA",
+      "pergunta": ""
+    },
+    {
+      "id": 6,
+      "nome": "TERMODINÂMICA",
+      "pergunta": ""
+    },
+    {
+      "id": 7,
+      "nome": "Estatística",
+      "ancora": "A verdade numérica esconde-se na variância, não na média",
+      "dim_alvo": [
+        1
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Simulação",
+      "ancora": "Sistemas complexos falham em caudas gordas",
+      "dim_alvo": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Ciência Política",
+      "ancora": "Instituições são equilíbrios de poder cristalizados",
+      "dim_alvo": [
+        2
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Public Choice",
+      "ancora": "Políticos maximizam votos; burocratas maximizam orçamento",
+      "dim_alvo": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "Sistemas Complexos",
+      "ancora": "Causa e efeito raramente estão próximos no tempo e espaço",
+      "dim_alvo": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 12,
+      "nome": "Psicologia Cognitiva",
+      "ancora": "A mente é programada para economia de energia e aversão à perda",
+      "dim_alvo": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 13,
+      "nome": "Psicologia Social",
+      "ancora": "Obediência à autoridade supera moralidade individual",
+      "dim_alvo": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 14,
+      "nome": "Discurso",
+      "ancora": "Quem controla os frames controla o debate",
+      "dim_alvo": [
+        6
+      ]
+    },
+    {
+      "id": 15,
+      "nome": "Informação/Redes",
+      "ancora": "Informação se difunde em topologias de rede",
+      "dim_alvo": [
+        3
+      ]
+    },
+    {
+      "id": 16,
+      "nome": "Filosofia",
+      "ancora": "O poder define o que é verdadeiro e válido",
+      "dim_alvo": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 17,
+      "nome": "Geografia",
+      "ancora": "O espaço é produto e produtor de relações de poder",
+      "dim_alvo": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 18,
+      "nome": "História",
+      "ancora": "Estruturas de longa duração determinam eventos de curto prazo",
+      "dim_alvo": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 19,
+      "nome": "Sociologia",
+      "ancora": "Classes dominantes impõem habitus que naturaliza desigualdade",
+      "dim_alvo": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 20,
+      "nome": "Antropologia",
+      "ancora": "O poder se legitima através de rituais públicos",
+      "dim_alvo": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 21,
+      "nome": "EPI",
+      "ancora": "Estado atua como gerente local do capital transnacional",
+      "dim_alvo": [
+        1
+      ]
+    },
+    {
+      "id": 22,
+      "nome": "Direito",
+      "ancora": "Direito é tecnologia de poder que estrutura a economia política",
+      "dim_alvo": [
+        2
+      ]
+    },
+    {
+      "id": 23,
+      "nome": "Decolonial",
+      "ancora": "Colonialismo metamorfoseado em globalização e mercado",
+      "dim_alvo": [
+        5,
+        10,
+        9,
+        37,
+        41
+      ]
+    },
+    {
+      "id": 24,
+      "nome": "Termodinâmica/Metabólica",
+      "ancora": "Capitalismo acelera entropia global",
+      "dim_alvo": [
+        4,
+        41,
+        38,
+        17,
+        15
+      ]
+    },
+    {
+      "id": 25,
+      "nome": "Interseccional",
+      "ancora": "Opressão é multiplicadora e co-constitutiva",
+      "dim_alvo": [
+        5,
+        11,
+        40,
+        37,
+        25
+      ]
+    },
+    {
+      "id": 26,
+      "nome": "Cibernética",
+      "ancora": "Poder atua em circuitos de retroalimentação",
+      "dim_alvo": [
+        39,
+        11,
+        40,
+        37
+      ]
+    },
+    {
+      "id": 27,
+      "nome": "Ator-Rede (ANT)",
+      "ancora": "Coisas não-humanas são atores que alteram o social",
+      "dim_alvo": [
+        40,
+        38,
+        3,
+        31,
+        37
+      ]
+    },
+    {
+      "id": 28,
+      "nome": "Psicanalítica",
+      "ancora": "O sujeito pode desejar ativamente sua subjugação",
+      "dim_alvo": [
+        27,
+        13,
+        16,
+        51
+      ]
+    },
+    {
+      "id": 29,
+      "nome": "Topológica",
+      "ancora": "Desigualdades são efeitos topológicos de rede",
+      "dim_alvo": [
+        18,
+        37,
+        36,
+        2,
+        48
+      ]
+    },
+    {
+      "id": 30,
+      "nome": "Espectrológica",
+      "ancora": "Passados não enterrados assombram o presente",
+      "dim_alvo": [
+        51,
+        47,
+        30,
+        26,
+        16
+      ]
+    },
+    {
+      "id": 31,
+      "nome": "ALIMENTAR/ENERGÉTICO GLOBAL",
+      "pergunta": ""
+    },
+    {
+      "id": 32,
+      "nome": "FINANCEIRA/MONETÁRIA GLOBAL",
+      "pergunta": ""
+    },
+    {
+      "id": 33,
+      "nome": "CIBERNÉTICA / TEORIA DE SISTEMAS",
+      "pergunta": ""
+    },
+    {
+      "id": 34,
+      "nome": "NEUROCIÊNCIA COGNITIVA / ECONOMIA DA ATENÇÃO",
+      "pergunta": ""
+    },
+    {
+      "id": 35,
+      "nome": "COMPLEXIDADE / TEORIA DO CAOS",
+      "pergunta": ""
+    },
+    {
+      "id": 36,
+      "nome": "SEMIÓTICA / TEORIA DO SIGNO",
+      "pergunta": ""
+    },
+    {
+      "id": 37,
+      "nome": "EPISTEMOLOGIA SOCIAL / SOCIOLOGIA DO CONHECIMENTO",
+      "pergunta": ""
+    },
+    {
+      "id": 38,
+      "nome": "ECOLOGIA PROFUNDA / ANTROPOCENO",
+      "pergunta": ""
+    },
+    {
+      "id": 39,
+      "nome": "TEORIA QUEER / DESCONSTRUÇÃO",
+      "pergunta": ""
+    },
+    {
+      "id": 40,
+      "nome": "ACELERACIONISMO / TECNOLOGIA CRÍTICA",
+      "pergunta": ""
+    },
+    {
+      "id": 41,
+      "nome": "TEORIA DOS JOGOS EVOLUCIONÁRIA",
+      "pergunta": ""
+    },
+    {
+      "id": 42,
+      "nome": "PSICANÁLISE LACANIANA / TEORIA DO DESEJO",
+      "pergunta": ""
+    },
+    {
+      "id": 43,
+      "nome": "TEORIA DA INFORMAÇÃO / ENTROPIA",
+      "pergunta": ""
+    },
+    {
+      "id": 44,
+      "nome": "ONTOLOGIA ORIENTADA A OBJETOS / NOVO MATERIALISMO",
+      "pergunta": ""
+    },
+    {
+      "id": 45,
+      "nome": "BIBLIOTECONÔMICA / ORGANIZAÇÃO DO CONHECIMENTO",
+      "pergunta": "Quem classifica, indexa e recupera este fenômeno? O que fica fora do catálogo?"
+    },
+    {
+      "id": 46,
+      "nome": "SCIENTOMÉTRICA / CIÊNCIA DA CIÊNCIA",
+      "pergunta": "Quem cita quem? Que ranking fabrica autoridade e apaga periferias epistêmicas?"
+    },
+    {
+      "id": 47,
+      "nome": "STS (SCIENCE AND TECHNOLOGY STUDIES)",
+      "pergunta": "Como o fato científico é fabricado? Que controvérsia foi fechada cedo demais?"
+    },
+    {
+      "id": 48,
+      "nome": "ECONOMIA DA CIÊNCIA / CAPITALISMO ACADÊMICO",
+      "pergunta": "Quem financia a pesquisa? Quem captura o surplus cognitivo?"
+    },
+    {
+      "id": 49,
+      "nome": "AGNOTOLOGIA / PRODUÇÃO DE IGNORÂNCIA",
+      "pergunta": "Que dúvida é fabricada de propósito? Quem lucra com o ainda não sabemos?"
+    },
+    {
+      "id": 50,
+      "nome": "EPISTEMOLOGIAS DO SUL / JUSTIÇA COGNITIVA",
+      "pergunta": "Que saberes são desqualificados? Epistemicídio em curso?"
+    },
+    {
+      "id": 51,
+      "nome": "CONTABILIDADE FORENSE / RASTREAMENTO DE VALOR",
+      "pergunta": "Onde o valor some nos livros? Que norma contábil oculta extração?"
+    },
+    {
+      "id": 52,
+      "nome": "EPIDEMIOLOGIA CRÍTICA / SAÚDE COLETIVA",
+      "pergunta": "Quem adoece por desenho estrutural? Qual a distribuição social do risco?"
+    },
+    {
+      "id": 53,
+      "nome": "ECOLOGIA POLÍTICA",
+      "pergunta": "Quem controla o metabolismo natureza–sociedade? Quem externaliza entropia?"
+    },
+    {
+      "id": 54,
+      "nome": "GEOPOLÍTICA DOS PADRÕES (STANDARDS WARS)",
+      "pergunta": "Quem escreve o ISO/IEEE/3GPP que todos são forçados a seguir?"
+    },
+    {
+      "id": 55,
+      "nome": "ANÁLISE DE REDES / SNA",
+      "pergunta": "Qual a topologia da influência? Onde cortar uma aresta desmonta a coalizão?"
+    },
+    {
+      "id": 56,
+      "nome": "ETNOGRAFIA DO ESTADO / ANTROPOLOGIA POLÍTICA",
+      "pergunta": "Como o Estado opera no chão (formulário, fila, porta)?"
+    },
+    {
+      "id": 57,
+      "nome": "DESIGN CRÍTICO / DESIGN ESPECULATIVO",
+      "pergunta": "Que futuro está embutido no artefato? O design naturaliza que ordem?"
+    },
+    {
+      "id": 58,
+      "nome": "PROSPECTIVA / FUTURES STUDIES",
+      "pergunta": "Quem tem o monopólio dos cenários oficiais? Que futuros foram apagados?"
+    },
+    {
+      "id": 59,
+      "nome": "ENGENHARIA REVERSA INSTITUCIONAL",
+      "pergunta": "Qual módulo, se removido, paralisa a máquina de captura?"
+    },
+    {
+      "id": 60,
+      "nome": "CLASSIFICAÇÃO COMPARADA (DDC × LCC × CAPES × FRASCATI)",
+      "pergunta": "Como cada sistema de classificação enquadra isto de modo diferente?"
+    }
+  ],
+  "protocolo_qualidade": {
+    "total_itens": 32,
+    "categorias": [
+      {
+        "nome": "Evidência e Viés",
+        "itens": [
+          "Fact-check",
+          "Corrente de evidência",
+          "Z-score",
+          "ACH",
+          "Premissas-chave"
+        ]
+      },
+      {
+        "nome": "Modelagem",
+        "itens": [
+          "Monte Carlo",
+          "Correlação atores",
+          "Stress testing"
+        ]
+      },
+      {
+        "nome": "Fundamentação",
+        "itens": [
+          "Teoria política",
+          "Teoria sociológica",
+          "Perfil etnográfico"
+        ]
+      },
+      {
+        "nome": "Jurídico",
+        "itens": [
+          "Artigo CF",
+          "Tipo penal",
+          "Instrumento processual"
+        ]
+      },
+      {
+        "nome": "Metodológico",
+        "itens": [
+          "Matriz consistência",
+          "H0",
+          "Triangulação",
+          "Unidades análise",
+          "Contexto histórico"
+        ]
+      },
+      {
+        "nome": "Comunicação/Ética",
+        "itens": [
+          "Framing",
+          "Sistema 1/2",
+          "Presunção inocência",
+          "LGPD"
+        ]
+      },
+      {
+        "nome": "Arsenal Tático",
+        "itens": [
+          "Lente primária",
+          "Anti-padrão",
+          "Técnica avançada",
+          "Dim alvo cruzada",
+          "Lentes secundárias"
+        ]
+      },
+      {
+        "nome": "Operacional",
+        "itens": [
+          "Vetores de dados",
+          "Artefato gerado"
+        ]
+      }
+    ]
+  },
+  "dados_referencia": {
+    "juros_dpf_2024_bi": 950.4,
+    "estoque_dpf_2024_bi": 7316.0,
+    "spread_medio_pp": 28.5,
+    "selic_atual": 14.25,
+    "ipca_12m": 4.64,
+    "pib_2024_bi": 11746.0,
+    "arrecadacao_2024_bi": 3780.0,
+    "emendas_2024_bi": 28.8,
+    "custo_brasil_bi": 1700.0,
+    "lucro_itau_2024_bi": 40.23,
+    "orcamento_ibama_bi": 2.0,
+    "orcamento_saude_bi": 231.0,
+    "orcamento_educacao_bi": 208.0,
+    "orcamento_bolsa_familia_bi": 170.0,
+    "orcamento_seguranca_bi": 28.0,
+    "gasto_big_tech_bi": 10.35,
+    "populacao_carceraria": 800000,
+    "sem_saneamento_milhoes": 100,
+    "sem_agua_tratada_milhoes": 35,
+    "obitos_pm_ano": 6000,
+    "fpa_parlamentares": 321,
+    "bancada_evangelica": 200,
+    "negativados_serasa_milhoes": 63,
+    "uberizados_milhoes": 3,
+    "meis_milhoes": 14,
+    "desmatamento_prodes_2024_km2": 6288,
+    "tempo_atencao_segundos": 8,
+    "homicidios_ano": 47000,
+    "feminicidios_ano": 1800,
+    "desemprego_juvenil_pct": 25
+  }
+}

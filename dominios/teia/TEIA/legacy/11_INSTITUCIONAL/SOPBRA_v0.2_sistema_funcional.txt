@@ -1,0 +1,795 @@
+================================================================================
+SOPBRA v0.2 — SISTEMA OPERACIONAL POLÍTICO BRASILEIRO
+================================================================================
+Upgrade: de arquitetura para sistema funcional
+================================================================================
+Autor: Cleiton Moura — TEIA
+Protocolo: TEIA-2026-031
+Versão: v0.2
+Data: Julho/2026
+Base: v0.1 + pipeline completo TEIA + feedback dialético
+================================================================================
+
+O QUE MUDA DO v0.1 PARA O v0.2
+
+v0.1 definiu AS PAREDES do sistema (camadas, módulos, APIs).
+v0.2 instala A ENCANAMENTO: state machine, decision trees, threat model,
+coalition builder, playbooks, dependency graph e sistema de métricas.
+
+Em termos de SO: v0.1 era o kernel. v0.2 é o kernel + scheduler +
+memory manager + device drivers reais + shell.
+
+
+================================================================================
+NOVO MÓDULO A — STATE MACHINE POLÍTICA (scheduler)
+================================================================================
+
+O sistema político brasileiro opera em ESTADOS. Cada estado tem regras
+próprias, transições definidas e estratégias ótimas. O SOPBRA monitora
+em qual estado o sistema está e recomenda a ação correspondente.
+
+------------------------------------------------------------------------
+OS 8 ESTADOS DO SISTEMA POLÍTICO BRASILEIRO
+------------------------------------------------------------------------
+
+ESTADO 1 — STATUS QUO (estabilidade capturada)
+  DESCRIÇÃO: sistema funciona normalmente, captura em curso sem crise.
+  SINTOMAS: baixa cobertura midiática de escândalos, pauta rotineira,
+    emendas fluindo sem questionamento, Selic estável.
+  ESTRATÉGIA ÓTIMA: RECON silencioso + acumulação de dossiês +
+    construção de coalizão + produção de conteúdo educativo.
+  NÃO FAÇER: expor antes de ter coalizão formada. Não ataca sem munição.
+  TRANSIÇÃO PARA: Estado 2 (quando escândalo explode) ou Estado 3
+    (quando janela eleitoral se abre).
+
+ESTADO 2 — CRISE AGUDA (escândalo/CPI/operação PF)
+  DESCRIÇÃO: escândalo explode, CPI em curso, operação PF, cobertura
+    midiática massiva.
+  SINTOMAS: headline nacional, parlamentares na defensiva, urgência
+    de pauta anticorrupção.
+  ESTRATÉGIA ÓTIMA: entrar na janela com proposta pronta (PKG) +
+    amplificar via conteúdo + pressionar por CPI + articular com MPF/CGU.
+  FAÇA: ter dossiês pré-produzidos, roteiros de TikTok prontos,
+    representações jurídicas redigidas.
+  TRANSIÇÃO PARA: Estado 4 (reforma) se vencer, Estado 1 (status quo)
+    se perder momentum.
+
+ESTADO 3 — JANELA ELEITORAL (6 meses antes de eleição)
+  DESCRIÇÃO: pré-campanha, parlamentares sensíveis a opinião pública.
+  SINTOMAS: aumentam emendas pré-eleição (R$ 97 mi do PL em 2024),
+    narrativa pública ganha peso, TSE ativo.
+  ESTRATÉGIA ÓTIMA: Cartão de Emendas no TSE + documentário +
+    pressão via voto + cobertura de correlações emenda-empresa.
+  FAÇA: exigir TSE publique histórico de emendas de cada candidato.
+  TRANSIÇÃO PARA: Estado 5 (pós-eleição, capital político fresco).
+
+ESTADO 4 — JANELA DE REFORMA (pós-crise ou pós-eleição)
+  DESCRIÇÃO: governo com capital político, parlamento pressionado,
+    disposição temporária de aprovar reforma.
+  SINTOMAS: ministro receptivo, relator designado, audiência pública
+    convocada, partido do governo articulando votos.
+  ESTRATÉGIA ÓTIMA: entregar PKG pronto + articular relatoria +
+    cooptar aliados pragmáticos + usar Via Planalto.
+  FAÇA: ter dossiê técnico (PKG-01 Haddad) na mão. Entregar em 72h.
+  TRANSIÇÃO PARA: Estado 1 (reforma aprovada → novo status quo) ou
+    Estado 6 (reforma bloqueada por veto player).
+
+ESTADO 5 — LUA DE MEL (primeiros 6 meses de novo mandato)
+  DESCRIÇÃO: novo governo ou governo reeleito com capital político alto.
+  SINTOMAS: ministros novos receptivos, plano de governo em execução,
+    base aliada coesa.
+  ESTRATÉGIA ÓTIMA: entregar propostas técnicas para ministros novos
+    (são mais receptivos no começo) + posicionar nos conselhos + PPA.
+  FAÇA: abordar Haddad/Fazenda nos primeiros 90 dias com dossiê.
+  TRANSIÇÃO PARA: Estado 1 (rotina) ou Estado 4 (reforma).
+
+ESTADO 6 — BLOQUEIO INSTITUCIONAL (veto player domina)
+  DESCRIÇÃO: reforma proposta mas bloqueada por ator específico
+    (Hugo Motta não pauta, Renan bloqueia CPI, Febraban lobby).
+  SINTOMAS: matéria parada em comissão, relator engavetando, pauta
+    não inclui o tema.
+  ESTRATÉGIA ÓTIMA: Via Judiciário (bypass Congresso) + Via Planalto
+    (executivo força) + pressão pública (narrativa) + CPI (se viável).
+  FAÇA: NÃO tentar convencer o veto player diretamente. Criar CUSTO
+    de manter o bloqueio (amplificar correlações, expor conflito).
+  TRANSIÇÃO PARA: Estado 2 (se pressão gera crise) ou Estado 7.
+
+ESTADO 7 — INTERVENÇÃO JUDICIAL (STF/MPF/TCU age)
+  DESCRIÇÃO: Judiciário determina ação que Executivo/Legislativo não toma.
+  SINTOMAS: decisão monocrática, liminar, ADPF, ADI, representação MPF.
+  ESTRATÉGIA ÓTIMA: amicus curiae + representação + cross-referencing
+    dados + articulação com CNJ/MPF/TCU.
+  FAÇA: ter documentos jurídicos pré-redigidos (PKG-03, PKG-04).
+  TRANSIÇÃO PARA: Estado 4 (Judiciário abre reforma) ou Estado 1.
+
+ESTADO 8 — COLAPSO INSTITUCIONAL (crise sistêmica)
+  DESCRIÇÃO: múltiplas crises simultâneas, governo paralisado, risco
+    institucional alto (impeachment rumble, crise fiscal, rating cut).
+  SINTOMAS: rating soberano rebaixado, fuga de capital, CPIs múltiplas,
+    ministros renunciando.
+  ESTRATÉGIA ÓTIMA: NÃO explorar para colapso. Propor ESTABILIZAÇÃO
+    técnica (arcabouço fiscal, gestão de dívida) para sair da crise.
+  FAÇA: ter plano de estabilização pronto (Nota de Impacto Fiscal + IQD).
+  TRANSIÇÃO PARA: Estado 5 (novo governo) ou Estado 1 (estabilizado).
+
+------------------------------------------------------------------------
+MATRIZ DE TRANSIÇÃO DE ESTADOS
+------------------------------------------------------------------------
+
+  DE\PARA  | 1(SQ) | 2(Crise) | 3(Eleit) | 4(Reform) | 5(LuaMel) | 6(Bloq) | 7(Judic) | 8(Colap)
+  ---------|-------|----------|----------|-----------|-----------|---------|----------|---------
+  1 Status |   —   | escânda. | calendár |   —       | eleição   |  —      |  —       | crise fisc
+  2 Crise  | arquiv|    —     |    —     | pressão   |    —      | veto    | MPF/STF  | escalation
+  3 Eleit  |   —   |    —     |    —     | votação   |    —      |  —      |  —       |   —
+  4 Reform | aprov.|    —     |    —     |    —      |    —      | bloqueio|    —     |   —
+  5 LuaMel | rotin.|    —     |    —     |   —       |    —      | veto    |    —     |   —
+  6 Bloqio |   —   | pressão  |    —     |   —       |    —      |   —     | ADPF/ADI |   —
+  7 Judic  | cumpr.|    —     |    —     | abertura  |    —      |   —     |    —     |   —
+  8 Colapso| estab.|    —     | eleição  |    —      | novo gov  |   —     |    —     |    —
+
+------------------------------------------------------------------------
+DETECTOR DE ESTADO (como saber em qual estado estamos)
+------------------------------------------------------------------------
+
+INDICADORES DIÁRIOS (5 min de verificação):
+  1. Manchete do Estadão/Folha/Globo: há crise? → Estado 2 ou 8
+  2. Pauta da Câmara (site da Câmara): há matéria de interesse agendada? → Estado 4
+  3. Ata do Copom (última): mudou Selic? → relevância para Estado 4/6
+  4. Decisões STF (última semana): há ADPF/ADI relevante? → Estado 7
+  5. Distância para eleição: <6 meses? → Estado 3
+  6. Operação PF noticiada: → Estado 2
+  7. Nenhum dos acima: → Estado 1 (status quo)
+
+Output: estado atual + estratégia recomendada + ação do dia.
+
+
+================================================================================
+NOVO MÓDULO B — DECISION TREES (rotas de decisão)
+================================================================================
+
+Para cada objetivo, uma árvore de decisão que determina a ROTA
+de menor resistência.
+
+------------------------------------------------------------------------
+DECISION TREE 1 — "COMO APROVAR UMA REFORMA"
+------------------------------------------------------------------------
+
+  Objetivo: aprovar mudança de política pública
+
+  P1: A reforma precisa de Congresso?
+  │
+  ├─ NÃO (70% dos casos do V3.0)
+  │   └─ P1a: Qual via?
+  │       ├─ Portaria do executivo → API EXECUTIVO.POST /portaria
+  │       ├─ Resolução CMN/BCB → API BCB.POST /consulta-publica
+  │       ├─ Resolução CNJ → API CNJ.POST /peticao
+  │       └─ Decisão STF → API JUDICIARIO.POST /adpf
+  │
+  └─ SIM (30% dos casos)
+      └─ P1b: Quem controla a comissão relevante?
+          │
+          ├─ ALIADO controla comissão → apresentar PL → tramitação normal
+          │
+          ├─ NEUTRO controla comissão → lobby técnico + coalizão → presentar
+          │
+          └─ VETO PLAYER controla → Estado 6 (bloqueio)
+              └─ P1c: Qual rota de bypass?
+                  │
+                  ├─ Via Planalto (custo R$ 0, P=87%)
+                  │   └─ Executivo força líder do governo a articular
+                  │
+                  ├─ Via Judiciário (custo R$ 0,5-1 mi, P=61%)
+                  │   └─ ADI/ADPF para derrubar obstáculo
+                  │
+                  ├─ Via CPI (custo R$ 2-5 mi, P=71%)
+                  │   └─ Pressão sobre veto player via exposição
+                  │
+                  └─ Via Narrativa (custo R$ 3-5 mi/ano, P=64%)
+                      └─ Criar custo eleitoral de manter bloqueio
+
+------------------------------------------------------------------------
+DECISION TREE 2 — "COMO NEUTRALIZAR UM VETO PLAYER"
+------------------------------------------------------------------------
+
+  P2: Qual o perfil do veto player?
+  │
+  ├─ PRG alto (pragmático, VJU/VFI alto)
+  │   └─ Estratégia: CRIAR MEDO (CPI, MPF, narrativa)
+  │       └─ P(remoção): 88-98%
+  │
+  ├─ IDE alto (ideológico, VJU/VFI baixo)
+  │   └─ Estratégia: ARGUMENTO TÉCNICO (enquadramento, compensação)
+  │       └─ P(remoção): 8-33% (difícil mas possível)
+  │
+  └─ MISTO (pragmático mas sem processo)
+      └─ Estratégia: COOPTAÇÃO VIA INTERESSE MATERIAL
+          └─ P(remoção): 62-79%
+
+------------------------------------------------------------------------
+DECISION TREE 3 — "COMO RESPONDER A UMA CRISE"
+------------------------------------------------------------------------
+
+  P3: Que tipo de crise?
+  │
+  ├─ Escândalo de corrupção (Overclean, Master)
+  │   └─ Ação: NÃO explorar para colapso. USAR para reforma.
+  │       1. Publicar dossiê (factual, com fontes)
+  │       2. Pressionar por CPI (coletar assinaturas)
+  │       3. Articular MPF/CGU (representação)
+  │       4. Entrar na janela com PKG pronto (quando abriu)
+  │
+  ├─ Crise fiscal (rating cut, dívida explode)
+  │   └─ Ação: NÃO explorar para populismo. PROPOR ESTABILIZAÇÃO.
+  │       1. Nota Técnica de Impacto Fiscal (mostra custo)
+  │       2. IQD (mostra qualidade da dívida)
+  │       3. Prefixação (reduz sensibilidade)
+  │       4. Dossiê: "como sair da crise" (técnico)
+  │
+  ├─ Crise política (impeachment rumble)
+  │   └─ Ação: NÃO tomar partido institucional. PROPOR CONTINUIDADE.
+  │       1. Documentar o que está em jogo (técnico)
+  │       2. defender arcabouço institucional (BC independente, TCU)
+  │       3. Não defender pessoa — defender INSTITUIÇÃO
+  │
+  └─ Crise econômica (recessão, inflação)
+      └─ Ação: NÃO culpabilizar. PROPOR DIAGNÓSTICO E SOLUÇÃO.
+      1. Fact-check da narrativa dominante
+      2. Propor reforma estrutural (não paliativo)
+      3. Conteúdo educativo (TikTok/podcast)
+
+
+================================================================================
+NOVO MÓDULO C — THREAT MODEL (como o sistema revida)
+================================================================================
+
+O sistema político brasileiro tem MECANISMOS DE DEFESA. Qualquer
+operação de reforma encontra contramedidas. O SOPBRA modela 8 ameaças.
+
+------------------------------------------------------------------------
+AMEAÇA 1 — CAPTURA REGULATÓRIA
+------------------------------------------------------------------------
+COMO FUNCIONA: setor capturado usa agência reguladora para bloquear
+  reforma. Ex: Febraban influencia BCB para Open Finance "rígido".
+CONTRAMEDIDA: pressão internacional (OCDE exige competição) +
+  consulta pública com mobilização de fintechs + Via Planalto.
+
+------------------------------------------------------------------------
+AMEAÇA 2 — JUDICIALIZAÇÃO DEFENSIVA
+------------------------------------------------------------------------
+COMO FUNCIONA: setor afetado entra com ADI no STF para derrubar
+  reforma aprovada. Ex: cartórios entram com ADI contra SERP.
+CONTRAMEDIDA: amicus curiae reforçando constitucionalidade +
+  base legal sólida (Lei 14.382/2022 já existe) + precedentes.
+
+------------------------------------------------------------------------
+AMEAÇA 3 — BLOQUEIO DE PAUTA
+------------------------------------------------------------------------
+COMO FUNCIONA: presidente da Câmara/Senado simplesmente não coloca
+  matéria em pauta. Ex: Motta arquivou tributação de IFs (nov/2025).
+CONTRAMEDIDA: Via Planalto (executivo força líder do governo) +
+  Via Judiciário (se direito constitucional violado) + pressão
+  eleitoral (narrativa "Motta bloqueou após Master").
+
+------------------------------------------------------------------------
+AMEAÇA 4 — MANOBRA ORÇAMENTÁRIA
+------------------------------------------------------------------------
+COMO FUNCIONA: Congresso corta dotação orçamentária de órgão que
+  ameaça o sistema. Ex: cortar orçamento da CGU ou do TCU.
+CONTRAMEDIDA: orçamento do TCU/CGU é constitucional (não pode cortar
+  abaixo do mínimo). Via STF se tentarem.
+
+------------------------------------------------------------------------
+AMEAÇA 5 — DESINFORMAÇÃO
+------------------------------------------------------------------------
+COMO FUNCIONA: máquina política espalha narrativa falsa para
+  descreditar reforma ou reformador. Ex: "vão confiscar sua poupança".
+CONTRAMEDIDA: fact-check imediato + dado verificável + fonte primária
+  na tela + coalizão de veículos confiáveis.
+
+------------------------------------------------------------------------
+AMEAÇA 6 — COOPTAÇÃO REVERSA
+------------------------------------------------------------------------
+COMO FUNCIONA: sistema oferece cargo/benefício ao operador da reforma
+  para silenciá-lo. Ex: "nomeamos você para o conselho do BC".
+CONTRAMEDIDA: o operador NÃO aceita cargo no sistema que combate.
+  Mantém independência institucional. TEIA não aceita cargo público.
+
+------------------------------------------------------------------------
+AMEAÇA 7 — INTIMIDAÇÃO JURÍDICA
+------------------------------------------------------------------------
+COMO FUNCIONA: advogados de setor afetado enviam notificação
+  extrajudicial/ação por difamação contra quem publica dossiê.
+CONTRAMEDIDA: TODO documento baseado em FONTE PÚBLICA. Fonte pública
+  + dado factual = exercício regular de direito (art. 5º, IV, CF).
+  Manter advogado de retainer.
+
+------------------------------------------------------------------------
+AMEAÇA 8 — EXAUSTÃO (attrition)
+------------------------------------------------------------------------
+COMO FUNCIONA: sistema simplesmente ESPERA. Adia, recurso, comissão,
+  relator demora. O reformador se cansa e desiste.
+CONTRAMEDIDA: o SOPBRA é um SISTEMA, não uma pessoa. Se um operador
+  sai, outro entra. Documentação versionada garante continuidade.
+  Institucionalidade (TEIA) sobrevive a pessoas.
+
+
+================================================================================
+NOVO MÓDULO D — COALITION BUILDER (construção sistemática de aliados)
+================================================================================
+
+Toda reforma precisa de coalizão. O SOPBRA modela a construção
+de coalizões em 5 camadas.
+
+------------------------------------------------------------------------
+CAMADA 1 — ALIADOS ESTRUTURAIS (sempre a favor)
+------------------------------------------------------------------------
+São atores que GANHAM estruturalmente com a reforma, independente de
+ideologia. NÃO precisam ser convencidos — precisam ser CONECTADOS.
+
+PARA VETOR 1 (Dívida):
+  + Tesouro/MF (ganha previsibilidade fiscal)
+  + Fundos soberanos estrangeiros (preferem prefixados)
+  + Indústria transformadora (juro menor = mais investimento)
+
+PARA VETOR 2 (Spread):
+  + Fintechs: Nubank, XP, Inter, C6, Mercado Pago
+  + Cooperativas: Sicredi, Sicoob, Cresol, Unicred
+  + CNI, Fiesp (spread = custo de produção)
+  + Consumidor organizado: Idec
+
+PARA VETOR 3 (Desburocratização):
+  + SEBRAE, MEI, pequeno empresário
+  + Exportadores (ABEEEX, AEB)
+  + Startups de LegalTech/RegTech
+  + OCDE (pressão internacional)
+
+PARA VETOR 4 (Transparência):
+  + MPF, CGU, TCU (burocracias de controle)
+  + Polícia Federal
+  + Sociedade civil: Transparência Brasil
+  + Jornalismo investigativo
+  + STF (histórico simpático)
+
+------------------------------------------------------------------------
+CAMADA 2 — ALIADOS TÁTICOS (momentaneamente a favor)
+------------------------------------------------------------------------
+Atores que apoiam a reforma por conveniência eleitoral ou política,
+não por convicção estrutural.
+
+  + Parlamentares em ano eleitoral (querem narrativa de "combate")
+  + Ministro novo nos primeiros 90 dias (quer marcar posição)
+  + Partido de oposição (quer atacar governo)
+  + Veículos de mídia em busca de scoop
+
+ALERTA: aliados táticos NÃO são confiáveis a longo prazo. Usam e soltam.
+
+------------------------------------------------------------------------
+CAMADA 3 — NEUTROS MOBILIZÁVEIS
+------------------------------------------------------------------------
+Atores que não têm posição mas podem ser mobilizados com argumento
+técnico ou pressão.
+
+  + Academia (economistas, cientistas políticos)
+  + Think tanks (FGV IBRE, Insper, IPEA)
+  + Associações de classe (OAB, CFC, CRCs)
+  + Igrejas e movimentos religiosos (se enquadramento moral)
+  + Influenciadores digitais (se dado for viralizável)
+
+------------------------------------------------------------------------
+CAMADA 4 — OPOSIÇÃO DIVISÍVEL
+------------------------------------------------------------------------
+Atores que se opõem à reforma MAS têm subdivisões internas que
+podem ser exploradas.
+
+  + Febraban: bancos grandes vs fintechs associadas
+    (Nubank é associado da Febraban mas defende competição)
+  + Sistema S: SESC/SENAC vs SEBRAE (interesses diferentes)
+  + Cartórios: grandes urbanos vs pequenos do interior
+  + Funcionalismo: auditores fiscais vs administrativos
+  + Centrão: PP vs União vs Republicanos (rivalidades internas)
+
+ESTRATÉGIA: dividir para conquistar. Co-optar uma facção para
+isolar a outra.
+
+------------------------------------------------------------------------
+CAMADA 5 — OPOSIÇÃO ESTRUTURAL (irredutível)
+------------------------------------------------------------------------
+Atores que perdem muito com a reforma e não podem ser cooptados.
+
+  + Bancos top-5 (Itaú, Bradesco) para Vetor 2
+  + Oligarquias estaduais (Lira, Ciro, Braga) para Vetor 4
+  + Cartórios pequenos para Vetor 3 (sobrevivem da opacidade)
+
+ESTRATÉGIA: não tentar convencer. Criar custo de manter oposição.
+
+
+================================================================================
+NOVO MÓDULO E — DEPENDENCY GRAPH (o que depende do quê)
+================================================================================
+
+Cada ação do SOPBRA tem dependências. Falhar uma dependência falha
+a cadeia.
+
+  AÇÃO: Publicar Nota Técnica de Impacto Fiscal
+  ├─ DEP 1: Convencer Haddad (PKG-01 entregue)
+  │   └─ DEP 1a: Dossiê técnico de qualidade
+  │       └─ DEP 1a-i: Fact-check de todos os números
+  │       └─ DEP 1a-ii: Modelo de impacto fiscal quantificado
+  │   └─ DEP 1b: Audiência com gabinete do ministro
+  │       └─ DEP 1b-i: Contato no MF ou via parlamentar aliado
+  └─ DEP 2: Portaria do MF (não precisa de Congresso)
+      └─ DEP 2a: Ministro assina portaria
+          └─ DEP 2a-i: Custo político de NÃO assinar > custo de assinar
+
+  AÇÃO: Instalar CPI do Banco Master
+  ├─ DEP 1: 27 assinaturas de senadores OU 171 de deputados
+  │   └─ DEP 1a: Senadores com perfil técnico ou oposição
+  │       └─ DEP 1a-i: Mapeamento de aliados (skill: mapeamento-veto-players)
+  │   └─ DEP 1b: Pressão pública prévia
+  │       └─ DEP 1b-i: Narrativa amplificada (PKG-07 TikTok)
+  └─ DEP 2: Instalação votada em plenário
+      └─ DEP 2a: Líderes não bloqueiam votação
+          └─ DEP 2a-i: Se bloquearem → Estado 6 → Via Judiciário
+
+  AÇÃO: Digitalizar cartórios (SERP)
+  ├─ DEP 1: Petição ao CNJ (PKG-02 pronto)
+  │   └─ DEP 1a: CNJ aceita petição
+  │       └─ DEP 1a-i: Base legal sólida (Lei 14.382/2022)
+  └─ DEP 2: CNJ emite resolução com cronograma
+      └─ DEP 2a: Corregedoria Nacional adere
+          └─ DEP 2a-i: Se resistir → pressão via STF (ADPF)
+
+
+================================================================================
+NOVO MÓDULO F — PLAYBOOKS (receitas para cenários comuns)
+================================================================================
+
+------------------------------------------------------------------------
+PLAYBOOK 1 — "DESCOBERTA DE ESQUEMA" (quando encontrar evidência)
+------------------------------------------------------------------------
+
+  PASSO 1 [0-24h]: DOCUMENTAR
+    - Coletar todas as fontes públicas (veículos, TSE, CGU, TCU)
+    - Marcar cada fato com fonte e data
+    - NUNCA usar dado sigiloso ou vazado
+    - Calcular correlação temporal (data do fato → data da decisão)
+
+  PASSO 2 [24-72h]: VERIFICAR
+    - Cruzar cada número contra fonte primária (skill: fact-check)
+    - Confirmar com 2+ fontes independentes
+    - Identificar o que é FATO vs o que é SUSPEITA
+    - Marcar presunção de inocência
+
+  PASSO 3 [72h-7dias]: ESTRUTURAR
+    - Produzir dossiê (skill: pipeline-dialetico)
+    - Estruturar em casos numerados com cronologia
+    - Incluir nota metodológica (correlação ≠ causalidade)
+
+  PASSO 4 [7-14 dias]: PUBLICAR
+    - Publicar online (site + GitHub)
+    - Distribuir para veículos investigativos (Metrópoles, Estadão, Intercept)
+    - Produzir conteúdo TikTok/YouTube (skill: producao-conteudo)
+
+  PASSO 5 [14-30 dias]: PRESSIONAR
+    - Representação ao MPF (skill: redacao-juridica)
+    - Petição para CPI (coletar assinaturas)
+    - Amicus curiae se houver ADPF/ADI relacionada
+
+------------------------------------------------------------------------
+PLAYBOOK 2 — "JANELA ELEITORAL" (6 meses antes de eleição)
+------------------------------------------------------------------------
+
+  PASSO 1: CARTÃO DE EMENDAS
+    - Petição ao TSE exigindo publicação de histórico de emendas
+      de cada candidato que exerceu mandato
+    - Formato: quantas emendas indicou, para quais municípios,
+      quais empresas executaram, % entregue
+
+  PASSO 2: CONTEÚDO ELEITORAL
+    - TikToks com correlações emenda-empresa
+    - Documentário sobre custo da Selic
+    - Podcast com economista sobre gestão fiscal
+
+  PASSO 3: MONITORAMENTO DE EMENDAS PRÉ-ELEIÇÃO
+    - Alertar quando volume de emendas aumenta antes do pleito
+    - Exemplo: Valdemar enviou R$ 97 mi na semana pré-eleição 2024
+    - Denunciar ao TSE se houver compra de votos
+
+  PASSO 4: EDUCAR O ELEITOR
+    - Simplificar: "seu deputado indicou R$ X mi — onde foi parar?"
+    - "Quantas obras foram entregues?"
+    - "Qual a conexão entre emenda e empresa contratada?"
+
+------------------------------------------------------------------------
+PLAYBOOK 3 — "DEFENDER O ARCABOUÇO FISCAL" (quando tentarem enfraquecer)
+------------------------------------------------------------------------
+
+  GATILHO: proposta para alterar LC 200/2023 (arcabouço fiscal) ou
+  enfraquecer meta de primário.
+
+  PASSO 1: ALERTA TÉCNICO
+    - Produzir nota técnica em 48h mostrando impacto fiscal
+    - Usar modelo: cada 0,1% do PIB de flexibilização = R$ X bi
+    - Distribuir para jornalistas econômicos
+
+  PASSO 2: COALIZÃO ORTODOXA
+    - Articular com FGV IBRE, Insper, ex-dirigentes do BC
+    - "Somos a favor de gasto social MAS com responsabilidade fiscal"
+    - Evitar alinhamento com extrema-direita (perde credibilidade técnica)
+
+  PASSO 3: VIA STF
+    - Se arcabouço for alterado por emenda inconstitucional → ADI
+    - Base: princípio da responsabilidade fiscal (LC 101/2000)
+
+  PASSO 4: CONTEÚDO PÚBLICO
+    - TikTok: "o que significa enfraquecer o arcabouço fiscal?"
+    - Explicar em linguagem simples: "menos regra fiscal = mais juros"
+
+
+================================================================================
+NOVO MÓDULO G — MÉTRICAS DE EFETIVIDADE POLÍTICA
+================================================================================
+
+Como medir se o SOPBRA está funcionando. 5 KPIs mestres:
+
+KPI 1 — VISIBILIDADE (o invisível está visível?)
+  Métrica: Nota Técnica de Impacto Fiscal publicada pelo Tesouro
+  Meta: 4 publicações consecutivas até julho/2027
+  Status: pendente
+
+KPI 2 — PRESSÃO (o veto player sentiu custo?)
+  Métrica: CPI do Banco Master instalada OU requerimento protocolado
+  Meta: 27+ assinaturas até outubro/2026
+  Status: pendente
+
+KPI 3 — ALCANCE (o cidadão foi impactado?)
+  Métrica: Documentário + TikToks alcançando 15 milhões combinados
+  Meta: 5 mi (documentário) + 10 mi (TikTok) até fevereiro/2027
+  Status: documentário publicado (carrossel Instagram = 1 post)
+
+KPI 4 — COALIZÃO (ganhadores estão organizados?)
+  Métrica: Fórum de Competição Financeira com 5+ membros
+  Meta: associação constituída até novembro/2026
+  Status: pendente
+
+KPI 5 — INSTITUCIONALIDADE (o sistema sobrevive a pessoas?)
+  Métrica: TEIA registrada + equipe + captação
+  Meta: R$ 5 mi captados + 8 pessoas até janeiro/2027
+  Status: estatuto pronto, registro pendente
+
+MÉTRICAS SECUNDÁRIAS:
+  - Número de documentos protocolados (meta: 6 em 12 meses)
+  - Número de vezes que dados TEIA são citados na mídia
+  - Número de parlamentares que usam dados TEIA em discurso
+  - Downloads do GitHub (interesse externo)
+  - Followers em redes sociais (base de pressão)
+
+
+================================================================================
+NOVO MÓDULO H — SHELL (interface de comando do operador)
+================================================================================
+
+O operador do SOPBRA interage com o sistema via COMANDOS. Estes são
+os "comandos de shell" do sistema político:
+
+------------------------------------------------------------------------
+COMANDOS DE OBSERVAÇÃO (read-only)
+------------------------------------------------------------------------
+
+  sopbra.scan.estado
+    → retorna estado atual do sistema (1-8) + estratégia recomendada
+
+  sopbra.scan.pauta
+    → retorna o que está em pauta hoje na Câmara/Senado
+
+  sopbra.scan.vetoplayer [nome]
+    → retorna perfil completo do ator (scores, vulnerabilidades, melhor
+       estratégia)
+
+  sopbra.scan.emendas [municipio]
+    → retorna emendas destinadas ao município + empresas contratadas
+
+  sopbra.scan.selic
+    → retorna custo fiscal atual da Selic + IQD
+
+  sopbra.scan.dossie [tema]
+    → retorna dossiê disponível no repositório TEIA sobre o tema
+
+------------------------------------------------------------------------
+COMANDOS DE AÇÃO (write)
+------------------------------------------------------------------------
+
+  sopbra.exec.portaria [ministerio] [texto]
+    → prepara minuta de portaria para o ministério
+
+  sopbra.exec.peticao [orgao] [tema]
+    → prepara petição (CNJ/STF/MPF/TSE) sobre o tema
+
+  sopbra.exec.conteudo [formato] [tema]
+    → gera roteiro (documentário/TikTok/podcast) sobre o tema
+
+  sopbra.exec.coalizao [setor]
+    → mapeia aliados potenciais para o setor
+
+  sopbra.exec.refutacao [documento]
+    → aplica pipeline dialético ao documento (fact-check + refutação)
+
+  sopbra.exec.protocolo [numero]
+    → atualiza status do protocolo para PROTOCOLADO + gera hash
+
+------------------------------------------------------------------------
+COMANDOS DE ANÁLISE (compute)
+------------------------------------------------------------------------
+
+  sopbra.analise.montecarlo [ator] [estrategia]
+    → roda simulação de 10.000 iterações
+
+  sopbra.analise.fluxo [regiao]
+    → analisa fluxo de dinheiro público + privado para a região
+
+  sopbra.analise.factcheck [numero]
+    → verifica número contra fonte primária
+
+  sopbra.analise.territorial
+    → mapa de concentração de crédito/emenda/transferência por região
+
+------------------------------------------------------------------------
+COMANDOS DE SISTEMA (meta)
+------------------------------------------------------------------------
+
+  sopbra.system.status
+    → status do repositório (commits, tags, arquivos)
+
+  sopbra.system.skill [nome]
+    → carrega skill do diretório skills/
+
+  sopbra.system.protocol [novo]
+    → gera novo número de protocolo TEIA-2026-NNN
+
+  sopbra.system.version
+    → versão atual do SOPBRA + changelog
+
+  sopbra.system.help
+    → lista todos os comandos disponíveis
+
+
+================================================================================
+UPGRADES DO KERNEL (v0.1 → v0.2)
+================================================================================
+
+Os 7 princípios do kernel foram refinados com REGRA DE OPERAÇÃO:
+
+K1 — REGRA DA PAUTA
+  v0.1: "quem controla a pauta controla tudo"
+  v0.2: "+ para mover a pauta, crie custo de não pautar (narrativa,
+     CPI, pressão eleitoral). Convencer com argumento não move pauta."
+
+K2 — REGRA DO ORÇAMENTO
+  v0.1: "emenda = moeda política"
+  v0.2: "+ para quebrar o vínculo emenda-voto, exija identificação
+     nominal (ADPF 854) + Cartão de Emendas no TSE. Se o eleitor
+     VÊ o fluxo, o fluxo perde poder."
+
+K3 — REGRA DOS JUROS
+  v0.1: "dívida pós-fixada alinha BC e rentistas"
+  v0.2: "+ prefixação é o instrumento de libertação (47% já).
+     Não reduzir Selic — reduzir SENSIBILIDADE à Selic.
+     IQD cria pressão pública por melhoria contínua do perfil."
+
+K4 — REGRA DA BANCADA SETORIAL
+  v0.1: "eixo é setorial, não ideológico"
+  v0.2: "+ para operar bancada setorial, IDENTIFIQUE o ganho material
+     de cada facção. Não tente ideologia. Tente INTERESSE.
+     Divida a bancada (Febraban vs fintechs; cartórios grandes vs
+     pequenos)."
+
+K5 — REGRA DO PATRIMÔNIO FAMILIAR
+  v0.1: "política é negócio familiar"
+  v0.2: "+ para quebrar oligarquia familiar, ataque via TSE
+     (ficha limpa + cartão de emendas) + via MPF (investigação
+     patrimonial familiar) + via conteúdo (expor dinastia)."
+
+K6 — REGRA DO JUDICIÁRIO
+  v0.1: "STF é supremo poder quando acionado"
+  v0.2: "+ o STF só age quando PROVOCADO corretamente. Amicus curiae
+     + ADPF bem fundamentada são os instrumentos. Mas o STF é lento
+     (2-5 anos para decisão de mérito). Use para ESTRATÉGIA de longo
+     prazo, não para urgência."
+
+K7 — REGRA DA OPACIDADE
+  v0.1: "o que não é visto não é cobrado"
+  v0.2: "+ a primeira batalha é SEMPRE pela VISIBILIDADE. Antes de
+     propor reforma, crie o instrumento que torna o problema visível:
+     Nota de Impacto Fiscal (para juros), Dashboard IA (para emendas),
+     Cartão de Emendas (para voto), IQD (para dívida). Sem visibilidade,
+     não há pressão. Sem pressão, não há reforma."
+
+NOVO PRINCÍPIO K8 — REGRA DA PACIÊNCIA ESTRATÉGICA
+  "Reforma institucional no Brasil leva 5-15 anos. O sistema é
+  desenhado para EXAUSTIR reformadores (ameaça 8). O SOPBRA combate
+  exaustão sendo SISTEMA, não pessoa: documentação versionada,
+  institucionalidade (TEIA), skills transferíveis, e Git com
+  histórico imutável. Se um operador sai, outro entra e o sistema
+  continua."
+
+NOVO PRINCÍPIO K9 — REGRA DA JANELA
+  "Reformas só se aprovam em JANELAS: pós-crise (Estado 2), pós-eleição
+  (Estado 5), ou durante pressão internacional (OCDE). FORA de janelas,
+  gaste energia em RECON + acúmulo + coalizão. NUNCA force reforma
+  em status quo (Estado 1) — desperdiça capital político."
+
+
+================================================================================
+ROADMAP ATUALIZADO
+================================================================================
+
+v0.1 (JUL/2026) — ARQUITETURA INICIAL [DONE]
+  Camadas, módulos, APIs, princípios do kernel.
+
+v0.2 (JUL/2026) — SISTEMA FUNCIONAL [ESTE DOCUMENTO]
+  State machine, decision trees, threat model, coalition builder,
+  dependency graph, playbooks, métricas, shell, 2 novos princípios.
+
+v0.3 (AGO/2026) — DRIVERS DETALHADOS
+  Cada um dos 10 drivers documentado com:
+  - Fluxograma de processo
+  - Formulários reais
+  - Prazos médios
+  - Custo
+  - Exemplo de uso documentado
+  - Contatos institucionais
+
+v0.4 (SET/2026) — DASHBOARDS OPERACIONAIS
+  MON-1 a MON-5 implementados como scripts Python:
+  - Coleta automática de dados (Portal da Transparência, BCB, STF)
+  - Alertas por email/Telegram
+  - Visualização web
+
+v0.5 (OUT/2026) — PLAYBOOKS TESTADOS
+  Cada playbook executado em caso real e documentado.
+
+v0.6 (NOV/2026) — SHELL IMPLEMENTADO
+  CLI Python com comandos sopbra.scan/exec/analise/system.
+
+v0.7 (JAN/2027) — APP MÓVEL
+  "Minha Cidade, Meu Dinheiro" integrado ao SOPBRA.
+
+v0.8 (MAR/2027) — API PÚBLICA
+  REST API para desenvolvedores externos consumirem dados.
+
+v1.0 (JUL/2027) — RELEASE ESTÁVEL
+  Documentação completa, testes feitos, comunidade ativa,
+  10+ casos documentados de uso real.
+
+================================================================================
+RESUMO EXECUTIVO DO v0.2
+================================================================================
+
+O SOPBRA v0.2 transforma o metodologia de v0.1 em um SISTEMA FUNCIONAL:
+
+  + STATE MACHINE: 8 estados políticos com estratégias específicas
+  + DECISION TREES: 3 árvores de decisão para aprovar, neutralizar,
+    responder a crise
+  + THREAT MODEL: 8 ameaças que o sistema usa contra reformadores
+    + contramedidas para cada uma
+  + COALITION BUILDER: 5 camadas de aliados (estrutural, tático,
+    neutro, divisível, irredutível)
+  + DEPENDENCY GRAPH: mapeia o que depende do quê
+  + PLAYBOOKS: 3 receitas para cenários comuns (descoberta de esquema,
+    janela eleitoral, defender arcabouço fiscal)
+  + MÉTRICAS: 5 KPIs mestres + métricas secundárias
+  + SHELL: interface de comando conceptual
+  + 2 NOVOS PRINCÍPIOS: paciência estratégica + regra da janela
+
+O SOPBRA não é teoria. É ENGINEERING POLÍTICA.
+Cada módulo é testável. Cada decisão é rastreável. Cada resultado
+é mensurável. O sistema evolui por iteração.
+
+O próximo passo é v0.3: detalhar cada driver com fluxogramas reais,
+formulários, prazos e exemplos documentados de uso.
+
+================================================================================
+FIM DO SOPBRA v0.2
+================================================================================
+Protocolo: TEIA-2026-031
+================================================================================

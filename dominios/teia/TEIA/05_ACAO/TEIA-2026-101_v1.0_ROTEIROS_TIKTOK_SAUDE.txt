@@ -1,0 +1,447 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-101
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Roteiros TikTok/Reels — Frente Saúde (8 episódios)
+SUBTÍTULO: Tradução viral do dossiê TEIA-067/068/069/100 para narrativa popular
+STATUS: PRONTO PARA GRAVAÇÃO
+DATA: 20/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+PERSONA: Professor Cinza (28yo, cyberpunk, voz grave/calma/cínica)
+DURAÇÃO MÉDIA: 45-90s por episódio
+DADOS-BASE: TEIA v2.0 (atualizada 20/07/2026)
+================================================================================
+
+INSTRUÇÕES DE PRODUÇÃO
+---------------------------------------------------------------------------------
+- Pessoa: Professor Cinza (cyberpunk 2077 style, neon blue, quarto escuro)
+- Tom: grave, calmo, didático mas cortante. Sem grito. Sem desespero.
+- Estilo: fala direto para a câmera, pausas estratégicas, números na tela
+- CTA final de cada vídeo: "Salva esse vídeo. Mostra pra alguém."
+- Hashtags base: #saudepublica #SUS #professorcinza #TEIA
+- Música: sem trilha (narrativa limpa) ou dark synth baixíssimo volume
+- Legendas: dual sub (PT-BR topo / EN baixo) — skill dualsub-pycaps
+
+================================================================================
+EPISÓDIO 1: A CONTA QUE NINGUÉM FAZ
+Duração: 60s | Gancho: raiva fria
+================================================================================
+
+[ABERTURA — Cinza olhando fixo, luz neon azul]
+
+CINZA:
+Você sabe quanto o Brasil gastou com saúde em 2026?
+
+[NÚMERO NA TELA: R$ 271,3 bilhões]
+
+Duzentos e setenta e um bilhões. Parece muito, né?
+
+Agora me responde uma coisa.
+
+Quanto o Brasil pagou em JUROS da dívida pública no mesmo período?
+
+[PAUSA 2s — expressão séria]
+
+[NÚMERO NA TELA: R$ 1.062.600.000.000 — crescendo na tela]
+
+Um trilhão e sessenta e dois bilhões.
+
+Cada real colocado no SUS... corresponde a TRÊS reais e noventa e um centavos pagos em juros.
+
+[TEXTO NA TELA: R$ 1 SUS = R$ 3,91 JUROS]
+
+A fila do SUS não é incompetência.
+É fluxo de caixa.
+
+O dinheiro que deveria construir hospital... constrói rentismo.
+
+[PAUSA]
+
+A pergunta não é "por que o SUS não funciona".
+A pergunta é: para ONDE o dinheiro está indo.
+
+Salva esse vídeo. Mostra pra alguém que ainda acha que o problema é gestão.
+
+[FECHAMENTO — logo TEIA]
+
+================================================================================
+EPISÓDIO 2: O ANO QUE OS PLANOS DE SAÚDE FICARAM RICOS
+Duração: 75s | Gancho: indignação
+================================================================================
+
+[ABERTURA]
+
+CINZA:
+Em 2025, o setor de planos de saúde teve o maior lucro da história do Brasil.
+
+[NÚMERO NA TELA: R$ 24,4 bilhões — "+120%"]
+
+Vinte e quatro bilhões. Aumento de cento e vinte por cento.
+
+Sabe o que isso significa?
+
+[CONTAGEM NA TELA — subindo rapidamente]
+
+Enquanto você esperava 137 dias por uma cirurgia de catarata...
+
+Enquanto 5,7 milhões de pessoas esperavam por consulta de especialista...
+
+A Hapvida teve prejuízo contábil de 237 milhões — mas lucro "ajustado" de 1,2 bilhão.
+
+A Rede D'Or lucrou 4,8 bilhões. Vinte e dois por cento a mais.
+
+A Amil, do Seripieri — aquele que comprou a empresa por 11 bilhões — lucrou 5,4 bilhões.
+
+[LETRA MENOR NA TELA: "grande parte via créditos tributários"]
+
+O Bradesco criou uma empresa nova, a Bradsaúde, com 52 bilhões de receita.
+
+[PAUSA — olhar direto]
+
+Sabe quem pagou essa conta?
+
+Você.
+
+[TEXTO NA TELA: "Porta giratória: plano nega → SUS atende → você paga"]
+
+O plano nega o procedimento. Você vai pro SUS. O SUS atende. E o plano lucra.
+
+Isso não é mercado livre. Isso é externalização de custo com lucro privatizado.
+
+Salva. Compartilha. Cobrança vem aí.
+
+================================================================================
+EPISÓDIO 3: O SUPERMERCADO DOS REMÉDIOS
+Duração: 80s | Gancho: curiosidade → revolta
+================================================================================
+
+[ABERTURA — Cinza com um remédio na mão (caixa genérica)]
+
+CINZA:
+Sabe quanto custa um remédio de câncer chamado imatinibe?
+
+[NA TELA: versão patenteada: R$ 14.000 / versão genérica indiana: R$ 200]
+
+Versão patenteada: catorze mil reais.
+Versão genérica da Índia: duzentos reais.
+
+Diferença: sete mil por cento.
+
+E sabe qual o mais absurdo?
+
+O Brasil TEM o instrumento legal paraproduzir o genérico.
+
+Se chama licença compulsória. Está no artigo 68 da Lei 9.279.
+
+[TEXTO NA TELA: "Lei 9.279/96, art. 68 — licença compulsória"]
+
+O Brasil usou UMA VEZ na história. Em 2007, com o Efavirenz, para HIV.
+
+Reduziu o custo em setenta por cento.
+
+[PAUSA]
+
+Uma vez. Em trinta anos.
+
+[NA TELA: lista de medicamentos elegíveis — imatinibe, trastuzumabe, pembrolizumabe]
+
+Agora tem um projeto de lei na Câmara — PL 68 de 2026 — que quer licença compulsória do Mounjaro.
+
+Sabe o que aconteceu com as vendas do Mounjaro no Brasil?
+
+Cresceram SETE VEZES.
+
+[NA TELA: "Mounjaro: 7x de crescimento — Eli Lilly"]
+
+E a patente do dolutegravir — o principal remédio de HIV, usado por 700 mil pessoas — expira em abril de 2026.
+
+Quem lucra com a sua doença... não quer que você cure.
+
+Salva esse vídeo. A próxima vez que alguém falar que "remédio é caro porque pesquisa custa", mostra isso.
+
+================================================================================
+EPISÓDIO 4: O MAPA DOS VILÕES
+Duração: 90s | Gancho: didático-denúncia
+================================================================================
+
+[ABERTURA — Cinza com mapa estilizado atrás]
+
+CINZA:
+Quem lucra com a sua doença no Brasil?
+
+Vou apresentar o sistema.
+
+[NA TELA: aparecer os nomes conforme cita — estilo "dossiê"]
+
+Categoria 1: PLANOS DE SAÚDE.
+Hapvida — a maior da América Latina. Receita: 30,8 bilhões.
+Rede D'Or — dona da SulAmérica. Lucro: 4,8 bilhões.
+Amil — do Seripieri. Lucro: 5,4 bilhões.
+Bradesco — criou a Bradsaúde. Receita: 52 bilhões.
+Unimed — 340 cooperativas. 20,9 milhões de clientes.
+
+Categoria 2: BIG PHARMA.
+EMS — acabou de comprar a Medley da Sanofi por 600 milhões de dólares.
+Eurofarma — faturamento recorde de 12,5 bilhões.
+Hypera — dona da Neosaldina e do Engov. Lucro: 1,2 bilhão.
+Pfizer, Sanofi, J&J — não divulgam receita por país. Estranho, né?
+
+Categoria 3: EQUIPAMENTOS.
+GE, Philips, Siemens. Três empresas. Oitenta por cento do mercado de imagem.
+
+Categoria 4: OS "FILANTROPI".
+Hospital Einstein, Sírio-Libanês. Recebem isenção fiscal — PROADI-SUS —
+em troca de "projetos" para o SUS.
+
+[PAUSA LONGA]
+
+O Einstein recebeu 363 milhões num contrato único.
+Mais que o orçamento de hospitais públicos inteiros.
+
+[TEXTO NA TELA: "O sistema inteiro é uma esteira. A doença entra no começo.
+O lucro sai no final. E quem paga é você."]
+
+Não é teoria da conspiração. É contabilidade pública.
+
+Salva. Estuda. Cobra.
+
+================================================================================
+EPISÓDIO 5: O TRILHÃO QUE DESAPARECEU
+Duração: 70s | Gancho: mistério → indignação
+================================================================================
+
+[ABERTURA — Cinza com uma calculadora]
+
+CINZA:
+A dívida pública federal do Brasil cresceu 1,3 trilhão em um ano.
+
+[NA TELA: R$ 7,316 tri (2024) → R$ 8,635 tri (dez/2025)]
+
+Um trilhão e trezentos bilhões. Em DOZE meses.
+
+Quem recebe esse dinheiro?
+
+[TÍTULO NA TELA: "Para onde vai o trilhão?"]
+
+Sessenta por cento da dívida pública está atrelada à taxa Selic.
+
+A Selic esteve em 15% durante 2025. Quinze por cento ao ano.
+
+Isso significa que quem tem título público... recebe 15% de retorno garantido. Sem risco. Sem produzir nada.
+
+[PAUSA]
+
+Cada ponto percentual a mais na Selic = 31,4 bilhões a mais em juros por ano.
+
+[TEXTO: "+1 p.p. Selic = +R$ 31,4 bi/ano"]
+
+O Banco Central decidiu subir a Selic e o resultado foi:
+
+62 hospitais que NÃO foram construídos.
+251 mil leitos que NÃO foram abertos.
+4.500 médicos que NÃO foram contratados.
+
+[CÁLCULO NA TELA: R$ 31,4 bi ÷ R$ 0,5 bi/hospital = 62 hospitais]
+
+A política monetária não é técnica. É distribuição de renda — do seu bolso para o rentista.
+
+[PAUSA]
+
+Ninguém te contou isso porque não é interessante que você saiba.
+
+Salva esse vídeo. A matemática não mente.
+
+================================================================================
+EPISÓDIO 6: A BURACRACIA É O DESIGN
+Duração: 75s | Gancho: provocação intelectual
+================================================================================
+
+[ABERTURA — luz mais escura, tom mais filosófico]
+
+CINZA:
+Você acha que a burocracia da saúde é incompetência.
+
+Não é. É design.
+
+[TEXTO NA TELA: "A burocracia não é falha. É o design."]
+
+Pensa comigo.
+
+Por que o sistema de marcação de consulta é tão complicado?
+
+Por que tem que levar três documentos, cartão SUS, comprovante de residência, CPF, RG, esperar na fila, voltar outro dia?
+
+[PAUSA]
+
+Porque cada passo da burocracia é um FILTRO.
+
+Filtro de quem desiste.
+Filtro de quem não tem tempo.
+Filtro de quem trabalha o dia todo e não pode passar a manhã no posto.
+
+[TEXTO NA TELA: "Burocracia = filtro de exclusão"]
+
+E agora vem a parte pior.
+
+A digitalização não resolveu isso. Piorou.
+
+Porque agora o filtro é invisível.
+
+"O sistema não permite."
+"O campo é obrigatório."
+"O algoritmo negou."
+
+[NA TELA: "O sistema não permite" = decisão humana escondida atrás de código]
+
+A burocracia digital é a armadura de titânio do Estado capturado.
+É leve. É rápida. E é impossível de auditar.
+
+[PAUSA]
+
+Quando você não consegue marcar uma consulta no app do SUS...
+não é falha do sistema. É o sistema funcionando exatamente como foi desenhado.
+
+Para excluir você.
+
+[FECHAMENTO]
+
+Salva. E começa a questionar cada "o sistema não permite".
+
+================================================================================
+EPISÓDIO 7: A PORTA GIRATÓRIA DO SUS
+Duração: 65s | Gancho: escândalo
+================================================================================
+
+[ABERTURA — Cinza com documentos nas mãos]
+
+CINZA:
+Em 2025, uma empresa chamada Prima Qualita Saúde foi suspeita de desviar UM BILHÃO E SEISCENTOS MILHÕES do SUS.
+
+[NA TELA: "Operação Antracito — PF, 10/09/2025 — R$ 1,6 bi desviado"]
+
+Era uma Organização Social. Contratada por prefeituras.
+
+Sem licitação. Porque a lei permite.
+
+[TEXTO: "Lei 9.637/1998 — contratos de gestão sem licitação"]
+
+Sabe o que é uma Organização Social?
+
+É uma entidade privada que recebe dinheiro público para gerir hospital público.
+
+Com liberdade administrativa total.
+
+Sem concurso para contratar.
+Sem licitação para comprar.
+Sem transparência de custos.
+
+[PAUSA]
+
+São Paulo tem 52 hospitais estaduais geridos por OS.
+
+O Einstein — que é "filantrópico" — gerencia três hospitais públicos.
+
+O Sírio-Libanês gerencia três.
+
+E eles ainda recebem ISENÇÃO FISCAL em troca.
+
+[TEXTO: "PROADI-SUS: R$ 25+ bi/ano em isenção fiscal"]
+
+A pergunta é simples:
+
+Se o hospital é público, o dinheiro é público, e o paciente é público...
+
+Por que a gestão é privada?
+
+[PAUSA LONGA]
+
+A privatização do SUS não vai acontecer com um decreto.
+Ela já está acontecendo. Contrato por contrato. OS por OS.
+
+Salva. O próximo a saber disso é o teu vereador.
+
+================================================================================
+EPISÓDIO 8: O QUE NINGUÉM FALA NAS ELEIÇÕES
+Duração: 85s | Gancho: chamada à ação política
+================================================================================
+
+[ABERTURA — Cinza direto, sem props]
+
+CINZA:
+Em 2026 você vai votar para presidente.
+
+E ninguém vai falar sobre saúde.
+
+[PAUSA]
+
+Vão falar sobre Lula. Sobre Bolsonaro. Sobre Lava Jato. Sobre STF.
+
+Mas ninguém vai fazer a pergunta certa:
+
+[TEXTO GRANDE NA TELA: "ONDE ESTÁ O SEU DINHEIRO?"]
+
+75% dos brasileiros dependem EXCLUSIVAMENTE do SUS.
+
+Cento e sessenta milhões de pessoas.
+
+O Brasil gasta 4% do PIB em saúde pública. A média da OCDE é 6%.
+
+A diferença são cento e cinquenta a duzentos bilhões por ano.
+
+[NA TELA: gráfico simples — Brasil 4% vs OCDE 6% vs Déficit R$ 150-200 bi]
+
+Esse dinheiro existe.
+
+Ele está na dívida pública. Está nos juros. Está na renúncia fiscal do PROADI.
+Está no lucro recorde dos planos de saúde.
+
+[PAUSA]
+
+Na próxima eleição, faz UMA pergunta ao teu candidato:
+
+"Você vai acabar com a licitação sem concurso para OS?"
+"Você vai regulamentar o imposto sobre grandes fortunas?"
+"Você vai exigir auditabilidade dos algoritmos do SUS?"
+
+Se ele não souber responder... ele não merece teu voto.
+
+[PAUSA LONGA — olhar fixo]
+
+Saúde não é favor. É direito constitucional. Artigo 196.
+
+E quem não defende esse artigo... faz parte do problema.
+
+Salva. Compartilha. E cobra.
+
+[FECHAMENTO — logo TEIA]
+
+================================================================================
+FIM DA SÉRIE — 8 EPISÓDIOS
+================================================================================
+
+DADOS DE APOIO PARA PRODUÇÃO (tela/captions):
+- Razão Juros/SUS 2026: R$ 1,06 tri / R$ 271,3 bi = 3,91x
+- Setor de planos 2025: R$ 391,6 bi receita / R$ 24,4 bi lucro (+120%)
+- Mercado farmacêutico 2025: R$ 238,9 bi
+- Fila de cirurgia: +1,3 mi de pessoas (2024); catarata 137 dias
+- Fila de consulta especializada: 5,7 milhões (jan/2025)
+- OS Prima Qualita: R$ 1,6 bi desviado (Operação Antracito, PF 10/09/2025)
+- Einstein contrato único: R$ 363 mi do SUS
+- PROADI-SUS: R$ 25+ bi/ano em renúncia fiscal
+- DPF: R$ 8,635 tri (dez/2025); +18% em 1 ano
+- Selic: 14,25% (jul/2026); pico 15% em 2025
+- PL 68/2026: licença compulsória Mounjaro (regime de urgência)
+- Patente dolutegravir (HIV): expira 28/04/2026; 700 mil usuários no SUS
+- Mortalidade materna: negras 61,6 vs brancas 53,8 (diferença 14,5%)
+- Leitos SUS: 1,0/1.000 hab (OCDE: 4,7/1.000)
+- Negativa de plano: 1 em cada 4 usuários reportou no último ano
+
+FONTES CRUZADAS:
+Banco Central (Est. Fiscais jan/2026), Tesouro Nacional, ANS (17/03/2026),
+IQVIA, CNJ, TCU, CGU, PF (Operação Antracito), Idec, Valor Econômico,
+Neo Feed, Senado Federal, Lei 9.279/96, Lei 9.637/98, LC 141/2012,
+CF/88 art. 196, Marco Legal da IA (Lei 14.854/2024), PL 68/2026.
+
+Protocolo TEIA-2026-101 | v1.0 | 20/07/2026
+Autor: Cleiton Moura (@professorcinza) — TEIA
+================================================================================

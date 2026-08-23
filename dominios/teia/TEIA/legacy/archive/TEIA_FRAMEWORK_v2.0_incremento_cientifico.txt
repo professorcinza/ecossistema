@@ -1,0 +1,738 @@
+================================================================================
+TEIA FRAMEWORK v2.0 — INCREMENTO CIENTÍFICO
+================================================================================
+Integração de metodologias de ciência política, análise de inteligência
+estruturada (SATs), e jornalismo investigativo de precisão.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: Centro de Estudos em Hacker Cultura Periférica Teia de Aranha
+Protocolo: TEIA-2026-039
+Versão: v2.0 (release)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v1.0 → v2.0)
+
+A versão v1.0 do TEIA Framework era um sistema operacional político
+funcional. A versão v2.0 integra três corpos de conhecimento externos
+que elevam o framework de "ferramenta de advocacy" para INSTRUMENTO
+DE INTELIGÊNCIA ESTRATÉGICA ACADÊMICAMENTE FUNDAMENTADO:
+
+1. CIÊNCIA POLÍTICA — teorias testadas que explicam POR QUÊ o
+   sistema brasileiro se comporta como se comporta
+2. TÉCNICAS ANALÍTICAS ESTRUTURADAS (SATs) — metodologias de
+   inteligência que reduzem viés cognitivo e aumentam precisão
+3. JORNALISMO INVESTIGATIVO DE PRECISÃO — métodos de verificação,
+   corroboração e corrente de evidência
+
+O resultado é um framework que não apenas DESCREVE o sistema, mas
+EXPLICA suas causas estruturais, PREVÊ seu comportamento, e
+produz INTERVENÇÕES com maior probabilidade de sucesso.
+
+
+================================================================================
+INCREMENTO I — CIÊNCIA POLÍTICA (7 TEORIAS INTEGRADAS)
+================================================================================
+
+A v1.0 operava com pragmatismo empírico. A v2.0 fundamenta cada
+diagnóstico em teoria política testada. Isto transforma "eu acho que
+funciona assim" em "a teoria X prevê que funciona assim, e os dados
+confirmam".
+
+------------------------------------------------------------------------
+TEORIA 1 — TEORIA DE VETO PLAYERS (Tsebelis, 2002)
+------------------------------------------------------------------------
+JÁ INTEGRADA NA v1.0. Reforçada.
+
+CONCEITO: veto players são atores cuja concordância é necessária
+para mudança de policy. Quanto MAIS veto players, mais DIFÍCIL
+mudar o status quo.
+
+APLICAÇÃO TEIA:
+  - Cada veto player mapeado (Motta, Alcolumbre, Renan, etc.) recebe
+    score de "absorção de mudança": quanto de custo é necessário para
+    mover este ator de NÃO para SIM
+  - Reformas que tocam MÚLTIPLOS veto players simultaneamente têm
+    probabilidade geometricamente menor (não aditiva)
+
+NOVO INSIGHT (v2.0):
+  Tsebelis distingue veto players INSTITUCIONAIS (definidos pela
+  Constituição: Presidente, Congresso, STF) de veto players PARTIDÁRIOS
+  (definidos pelo sistema político: bancadas, líderes). O Brasil tem
+  AMBOS em camadas sobrepostas, criando um sistema de "veto composto"
+  onde o número efetivo de veto players é maior que o aparente.
+
+  IMPLICAÇÃO OPERACIONAL: não tente mover TODOS os veto players.
+  Identifique o veto player com MENOR custo de absorção (o "elo fraco"
+  da cadeia de veto) e concentre esforço ali.
+
+------------------------------------------------------------------------
+TEORIA 2 — CHOQUE RACIONAL E AÇÃO COLETIVA (Olson, 1965)
+------------------------------------------------------------------------
+NOVA NA v2.0.
+
+CONCEITO: grupos PEQUENOS com interesse CONCENTRADO (bancos, cartórios)
+se organizam mais facilmente que grupos GRANDES com interesse DIFUSO
+(contribuintes, consumidores). O "paradoxo de Olson" explica por que
+a reforma do spread bancário não acontece: 5 bancos perdem R$ X bi
+cada um com a reforma, e se organizam para impedir. 200 milhões de
+consumidores ganham R$ Y cada com a reforma, mas nenhum se organiza
+porque o ganho individual é pequeno.
+
+APLICAÇÃO TEIA:
+  - DIAGNÓSTICO: para cada reforma, identificar quem são os
+    "pequenos grupos concentrados" que resistem (perdedores) e os
+    "grandes grupos difusos" que se beneficiam (ganhadores)
+  - ESTRATÉGIA: superar Olson requer COALIZÃO de ganhadores que
+    concentram o benefício difuso em organização política.
+    Exemplo: fintechs (Nubank, XP) representam os consumidores
+    em concentração organizacional menor.
+  - O Coalition Builder (v1.0) é a resposta OPERACIONAL ao
+    paradoxo de Olson, mas agora tem FUNDAMENTAÇÃO TEÓRICA.
+
+NOVO MÓDULO — "MATRIZ DE OLSON":
+  Para cada proposta de reforma, mapear:
+
+    PERDEDORES (concentrados)    | GANHADORES (difusos)
+    -----------------------------|---------------------------
+    5 bancos (R$ 100 bi/spread)  | 200 mi consumidores (R$ 200/cada)
+    13.233 cartórios             | 5.570 municípios
+    250 ruralistas               | 215 mi brasileiros (clima)
+    100 parlamentares (emendas)  | 215 mi eleitores
+
+  A matriz diz: se os perdedores estão CONCENTRADOS e os ganhadores
+  estão DIFUSOS, a reforma PRECISA de intermediário organizacional
+  (fintech, ONG, sindicato, TEIA) para funcionar.
+
+------------------------------------------------------------------------
+TEORIA 3 — MÚLTIPLAS CORRENTES (Kingdon, 1984)
+------------------------------------------------------------------------
+NOVA NA v2.0.
+
+CONCEITO: policy change acontece quando TRÊS "correntes" convergem
+em uma JANELA DE OPORTUNIDADE:
+
+  CORRENTE DE PROBLEMA: um problema ganha atenção pública
+    (crise, escândalo, dado chocante)
+  CORRENTE DE POLÍTICA: uma solução técnica está pronta
+    (dossiê, proposta, modelo)
+  CORRENTE POLÍTICA: o momento político é favorável
+    (eleição, novo governo, pressão internacional)
+
+Quando as três convergem, há uma "janela de política" que DURA POUCO
+(semanas a meses). Quem tem a SOLUÇÃO PRONTA quando a janela abre
+consegue aprovar. Quem não tem, perde a janela.
+
+APLICAÇÃO TEIA:
+  - A State Machine (v1.0) detecta a CORRENTE POLÍTICA (qual estado)
+  - Os PKGs (documentos prontos) são a CORRENTE DE POLÍTICA (solução)
+  - O conteúdo público (TikTok, documentário) alimenta a CORRENTE
+    DE PROBLEMA (atenção)
+  - A REGRA K9 (janela) do kernel é derivada de Kingdon
+
+NOVO INSIGHT (v2.0):
+  A janela não se ABRE sozinha. Pode ser FORÇADA por:
+  (a) Amplificação de um problema latente (conteúdo viral)
+  (b) Conexão com evento externo (OCDE, rating, crise internacional)
+  (c) Deflagração deliberada (CPI, representação MPF, petição CNJ)
+
+  O TEIA não apenas ESPERA a janela. O TEIA FORÇA a abertura.
+
+------------------------------------------------------------------------
+TEORIA 4 — EQUILÍBRIO PONTUADO (Baumgartner & Jones, 1993)
+------------------------------------------------------------------------
+NOVA NA v2.0.
+
+CONCEITO: políticas públicas mudam em padrão de "punctuated equilibrium"
+— longos períodos de estabilidade (monopólio de imagem) interrompidos
+por mudanças RÁPIDAS e DRAMÁTICAS (collapse of monopoly).
+
+O "monopólio de imagem" é o controle da NARRATIVA sobre uma policy.
+Exemplo: "juros altos são necessários para controlar inflação" é um
+monopólio de imagem mantido pelo sistema financeiro. Enquanto esta
+imagem domina, a policy não muda. Quando a imagem COLAPSa (crise,
+escândalo, nova evidência), há uma janela de mudança rápida.
+
+APLICAÇÃO TEIA:
+  - A DIMENSÃO CULTURAL/SIMBÓLICA (TEIA-2026-033) é exatamente o
+    campo de batalha do monopólio de imagem
+  - O conteúdo público (TikTok, documentário) é o instrumento de
+    colapso do monopólio
+  - O framing "gestão, não gasto" é uma tentativa de SUBSTITUIR o
+    monopólio de imagem dominante ("o problema é gastar demais")
+    por um novo frame ("o problema é pagar muito em juros")
+
+NOVO MÓDULO — "MAPA DE MONOPÓLIO DE IMAGEM":
+  Para cada dimensão do poder, identificar qual é a imagem dominante:
+
+  ECONÔMICA: "o problema é gastar demais" (não: pagar muito em juros)
+  SOCIAL: "o pobre não se esforça" (não: o sistema é estruturalmente desigual)
+  AMBIENTAL: "desenvolvimento vs preservação" (não: economia verde gera emprego)
+  TECNOLÓGICA: "regulação mata inovação" (não: Big Tech captura mercado)
+  INSTITUCIONAL: "todos são iguais" (não: o sistema beneficia incumbentes)
+
+  O TEIA precisa COLAPSAR cada um destes monopólios de imagem com
+  contra-narrativa fundamentada em dados.
+
+------------------------------------------------------------------------
+TEORIA 5 — ARCABOUÇO DE COALIZÃO DE ADVOCACY (Sabatier, 1988)
+------------------------------------------------------------------------
+NOVA NA v2.0.
+
+CONCEITO: policy change em longo prazo (10+ anos) acontece através de
+"coalizões de advocacy" — grupos de atores que compartilham crenças
+nucleares e coordenam ação ao longo de décadas. A mudança ocorre quando
+uma coalizão acumula evidência suficiente para deslocar a coalizão
+dominante.
+
+TRÊS NÍVEIS DE CRENÇA:
+  1. NÚCLEO PROFUNDO: valores fundamentais (ex: "mercado é melhor
+     que Estado" vs "Estado é melhor que mercado")
+  2. NÚCLEO POLÍTICO: posições sobre policy específica (ex: "juros
+     devem ser altos" vs "juros devem ser baixos")
+  3. ASPECTOS SECUNDÁRIOS: implementação técnica (ex: "qual taxa de
+     Selic especificamente")
+
+Mudança no núcleo profundo leva DÉCADAS. Mudança no núcleo político
+leva ANOS. Mudança em aspectos secundários leva MESES.
+
+APLICAÇÃO TEIA:
+  - O TEIA NÃO tenta mudar núcleos profundos (ex: converter alguém
+    que acredita em Estado mínimo). Perda de tempo.
+  - O TEIA foca em NÚCLEO POLÍTICO: mudar a posição sobre policy
+    específica (juros devem ser mais baixos, spread deve ser menor)
+  - O TEIA usa ASPECTOS SECUNDÁRIOS como porta de entrada: começar
+    pela Nota Técnica de Impacto Fiscal (aspecto técnico que ninguém
+    discorda) e usar como gateway para discutir núcleo político
+
+NOVO INSIGHT (v2.0):
+  A coalizão TEIA precisa identificar QUAL núcleo de crença está
+  atacando em cada documento:
+  - Dossiê Haddad: núcleo político (gestão da dívida)
+  - Dossiê Master: aspectos secundários (transparência de correlações)
+  - Documentário "O Preço da Selic": núcleo político (reframing de juros)
+  - Pipeline dialético: núcleo profundo (natureza do Estado brasileiro)
+
+------------------------------------------------------------------------
+TEORIA 6 — TEORIA DO AGENTE-PRINCIPAL (Principal-Agent Theory)
+------------------------------------------------------------------------
+NOVA NA v2.0.
+
+CONCEITO: o cidadão (principal) delega poder ao político (agente).
+Mas o agente tem INCENTIVOS PRÓPRIOS que divergem do principal.
+O problema de "agência" é como alinhar os incentivos do agente
+com os do principal.
+
+TRÊS PROBLEMAS DE AGENCIA:
+  1. RISCO MORAL: o agente toma decisões escondidas que beneficiam
+     a si próprio (emendas secretas, conluios)
+  2. SELEÇÃO ADVERSA: cidadãos elegem o político errado porque não
+     conseguem distinguir bom de mau gestor antes da eleição
+  3. HOLDUP: o agente, uma vez eleito, captura o processo de
+     accountable (PEC da Blindagem, voto secreto)
+
+APLICAÇÃO TEIA:
+  - O MECANISMO 1 (Transparência em Tempo Real) resolve RISCO MORAL
+  - O MECANISMO 6 (Cartão de Emendas TSE) resolve SELEÇÃO ADVERSA
+  - O MECANISMO 4 (Responsabilização Pessoal) resolve HOLDUP
+  - Cada um dos 7 mecanismos de accountability agora tem
+    FUNDAMENTAÇÃO TEÓRICA de teoria de agência
+
+NOVO INSIGHT (v2.0):
+  A teoria de agência prevê que o problema NÃO se resolve com mais
+  leis (o agente sempre encontra brecha). Se resolve com:
+  (a) REDUÇÃO de assimetria informacional (transparência)
+  (b) AUMENTO de custo de trair (responsabilização)
+  (c) CAPACIDADE de substituir o agente (eleição informada)
+
+  O TEIA ataca os TRÊS simultaneamente:
+  (a) Dashboard + IA = redução de assimetria
+  (b) Responsabilização pessoal = aumento de custo
+  (c) Cartão de Emendas = eleição informada
+
+------------------------------------------------------------------------
+TEORIA 7 — INSTITUCIONALISMO HISTÓRICO (Pierson, 2004)
+------------------------------------------------------------------------
+NOVA NA v2.0.
+
+CONCEITO: instituições políticas têm PATH DEPENDENCE (dependência
+de trajetória). Uma vez estabelecido um caminho institucional, é
+extremamente custoso mudar — porque atores se adaptaram ao caminho,
+investiram nele, e resistem à mudança.
+
+O conceito de "INCREASING RETURNS" (retornos crescentes) explica por
+que o sistema brasileiro é tão difícil de mudar: quanto mais tempo
+o sistema de captura opera, mais atores dependem dele, mais custoso
+se torna desmontá-lo.
+
+APLICAÇÃO TEIA:
+  - O SOPBRA reconhece path dependence no axioma K8 (paciência
+    estratégica): "reforma leva 5-15 anos"
+  - MAS: path dependence pode ser QUEBRADO por eventos críticos
+    (critical junctures) — crises que abrem janelas para mudança
+    de trajetória
+
+NOVO INSIGHT (v2.0):
+  Critical junctures no Brasil:
+  - Crise fiscal (desequilíbrio que força reforma)
+  - Escândalo sistêmico (Lava-Jato, Banco Master)
+  - Rebaixamento de rating
+  - Pressão internacional (OCDE)
+  - Mudança de governo com capital político
+
+  O TEIA deve estar PRONTO para aproveitar a próxima critical
+  juncture — com documento, coalizão e narrativa testados.
+
+
+================================================================================
+INCREMENTO II — TÉCNICAS ANALÍTICAS ESTRUTURADAS (SATs)
+================================================================================
+
+As SATs são metodologias desenvolvidas pela comunidade de inteligência
+(cuja versão pública é o livro "Psychology of Intelligence Analysis"
+de Richards Heuer, 1999, e o "Handbook of Analytic Techniques" do
+CIA Center for the Study of Intelligence).
+
+O TEIA v2.0 integra 6 SATs para reduzir viés cognitivo e aumentar
+a precisão das análises.
+
+------------------------------------------------------------------------
+SAT 1 — ANÁLISE DE HIPÓTESES COMPETITORAS (ACH)
+------------------------------------------------------------------------
+CONCEITO: em vez de buscar evidência que CONFIRMA sua teoria (viés
+de confirmação), você lista TODAS as hipótezes possíveis e avalia
+qual é a MAIS CONSISTENTE com a evidência disponível.
+
+COMO APLICAR NO TEIA:
+  Para cada diagnóstico, produzir matriz ACH:
+
+    HIPÓTESES:
+    H1: "Motta bloqueou tributação de bancos porque recebeu do Master"
+    H2: "Motta bloqueou por convicção ideológica contra mais impostos"
+    H3: "Motta bloqueou por acordo com Centrão, independente de Master"
+    H4: "Motta bloqueou por pressão da Febraban"
+
+    EVIDÊNCIA × HIPÓTESES:
+    Evidência                    | H1 | H2 | H3 | H4
+    Empréstimo R$22mi Master     | ✓✓ | ✗  | ✗  | ✗
+    Motta votou a favor de mais  | ✗  | ✗  | ✗  | ✗
+      impostos antes              |    |    |    |
+    Ligou para Alcolumbre       | ✓  | ✗  | ✓✓ | ✗
+    Febraban fez lobby público   | ✗  | ✗  | ✗  | ✓✓
+    Motta é pragmático (PRG=9)  | ✓  | ✗✓ | ✓  | ✓
+
+    (✓✓ = muito consistente, ✓ = consistente, ✗ = inconsistente)
+
+  RESULTADO: H1 e H3 são mais consistentes que H2 e H4.
+  CONCLUSÃO: a evidência suporta a hipóteze de ACORDO POLÍTICO (H3)
+  MODERADO pelo favorecimento do Master (H1), não ideologia (H2).
+
+  ESTE É O PADRÃO DE RIGOR que cada dossiê TEIA deve seguir.
+
+------------------------------------------------------------------------
+SAT 2 — VERIFICAÇÃO DE PREMISSAS-CHAVE (Key Assumptions Check)
+------------------------------------------------------------------------
+CONCEITO: toda análise tem premissas implícitas. Se uma premissa-chave
+está errada, toda a análise desmorona. Listar e testar premissas.
+
+COMO APLICAR NO TEIA:
+  Para cada documento TEIA, listar premissas-chave:
+
+    PREMISSA: "A redução de spread gera mais crédito para pobres"
+    TESTE: é VERDADE que spread menor → crédito maior? Ou spread
+    menor → bancos reduzem oferta de crédito (seleção adversa)?
+    EVIDÊNCIA: experiência do Nubank (entrou, reduziu spread em
+    segmentos, MAS crédito total NÃO aumentou proporcionalmente)
+    STATUS: PREMISSA PARCIALMENTE CORRETA — precisa qualificar
+
+    PREMISSA: "O STF vai determinar transparência de emendas"
+    TESTE: o STF tem histórico de determinar e NÃO ser obedecido?
+    EVIDÊNCIA: ADPF 854 (2022) determinou fim do orçamento secreto.
+    Congresso SUBSTITUIU por emendas de liderança. STF não obteve
+    cumprimento pleno.
+    STATUS: PREMISSA CORRETA PARA DECISÃO, INCERTA PARA CUMPRIMENTO
+
+------------------------------------------------------------------------
+SAT 3 — ANÁLISE DE RED TEAM / BLUE TEAM
+------------------------------------------------------------------------
+CONCEITO: o Red Team tenta DERRUBAR sua própria análise (joga como
+adversário). O Blue Team defende. Se o Blue Team sobrevive ao Red
+Team, a análise é robusta.
+
+COMO APLICAR NO TEIA:
+  O PIPELINE DIALÉTICO é EXATAMENTE isto:
+  - Blue Team = tese original (TEIA-2026-027)
+  - Red Team = refutação (TEIA-2026-028)
+  - Veredicto = contra-refutação (TEIA-2026-029)
+
+  NOVIDADE v2.0: formalizar que cada documento importante deve passar
+  por Red Team ANTES de publicar, não apenas como exercício dialético
+  mas como PROTOCOLO OBRIGATÓRIO de qualidade.
+
+------------------------------------------------------------------------
+SAT 4 — INDICADORES E ALERTAS (Indicators & Warnings)
+------------------------------------------------------------------------
+CONCEITO: desenvolver lista de INDICADORES observáveis que, quando
+aparecem, sinalizam que um evento está prestes a acontecer.
+
+COMO APLICAR NO TEIA:
+  INDICADORES DE QUE UMA JANELA DE REFORMA ESTÁ ABRINDO:
+
+  INDICADOR                                   | PESO | ESTADO ATUAL
+  Ministro faz declaração pública a favor     | ALTO | não detectado
+  Relator é designado para matéria relevante   | ALTO | não detectado
+  Audiência pública é convocada               | MÉDIO| não detectado
+  Veículo de mídia publica investigação       | MÉDIO| Overclean ativo
+  Operação PF relacionada é deflagrada         | ALTO | ativa (Overclean)
+  CPI é solicitada                            | ALTO | não detectada
+  OCDE publica relatório crítico              | MÉDIO| recorrente
+  Rating agency emite alerta                  | ALTO | não detectado
+  Partido de oposição faz discurso sobre tema | BAIXO| recorrente
+
+  Quando 3+ indicadores de peso ALTO estão ativos → janela ABERTA.
+  Quando 2+ indicadores de peso ALTO estão ativos → janela SE ABRINDO.
+  Quando 0-1 → status quo (Estado 1).
+
+------------------------------------------------------------------------
+SAT 5 — DEVIL'S ADVOCATE (Adversário do Diabo)
+------------------------------------------------------------------------
+CONCEITO: designar uma pessoa (ou subagent) para argumentar o caso
+do adversário. Não para ser contrário por ser contrário, mas para
+encontrar pontos fracos antes que o adversário os encontre.
+
+COMO APLICAR NO TEIA:
+  Para cada proposta de ação, um contribuidor designado como Devil's
+  Advocate produz um documento de OPOSIÇÃO de 1 página respondendo:
+  - "Por que esta proposta vai FALHAR?"
+  - "O que o veto player fará para bloquear?"
+  - "Qual é o pior cenário?"
+  - "Que evidência falta?"
+
+  A proposta só é aprovada se sobreviver ao Devil's Advocate.
+
+------------------------------------------------------------------------
+SAT 6 — ANÁLISE DE DESVIO (Deviation Analysis)
+------------------------------------------------------------------------
+CONCEITO: comparar o que ESTÁ ACONTECENDO com o que DEVERIA acontecer
+segundo a lei ou norma. O DESVIO é onde a captura acontece.
+
+COMO APLICAR NO TEIA:
+  Para cada área, mapear:
+
+    O QUE A LEI DIZ          | O QUE ACONTECE         | DESVIO
+    -------------------------|------------------------|------------------
+    Emendas identificam autor| Emendas de liderança   | OPACIDADE
+      (CF art. 50)           | sem autor              |
+    Cartórios digitalizados  | Implementação parada   | OMISSÃO
+      (Lei 14.382/2022)      | há 3 anos              |
+    Licitações transparentes | Direcionamento         | FRAUDE
+      (Lei 14.133/2021)      |                        |
+    Independência do BC      | PIO mina independência | CAPTURA
+      (LC 179/2021)          |                        |
+    LGPD protege dados       | ANPD com 140 servidores| OMISSÃO
+      (Lei 13.709/2018)      |                        |
+
+  O DESVIO é o alvo da intervenção TEIA.
+
+
+================================================================================
+INCREMENTO III — JORNALISMO INVESTIGATIVO DE PRECISÃO
+================================================================================
+
+Integração de metodologias de investigação de precisão (Precision
+Journalism, Philip Meyer 1973; Controlled Story Tracking de Steve
+Weinberg; OSINT — Open Source Intelligence).
+
+------------------------------------------------------------------------
+MET 1 — CORRENTE DE EVIDÊNCIA (Evidence Chain)
+------------------------------------------------------------------------
+CONCEITO: cada afirmação factual deve ter uma CORRENTE DE EVIDÊNCIA
+rastreável da fonte primária à conclusão.
+
+ESTRUTURA OBRIGATÓRIA para cada fato em dossiê TEIA:
+
+  FATO: "Hugo Motta recebeu empréstimo de R$ 22 mi do Banco Master"
+    ↓
+  FONTE PRIMÁRIA: PF (diálogos periciados no celular de Vorcaro)
+    ↓
+  FONTE SECUNDÁRIA (corroboração): Estadão (06/2026), O Tempo
+    (16/03/2026), Metrópoles (06/2026)
+    ↓
+  DOCUMENTO PÚBLICO: prestação de contas da empresa da cunhada
+    (se disponível)
+    ↓
+  CORRELAÇÃO TEMPORAL: mar/2024 (empréstimo) → out/2025 (bloqueio
+    de tributação de bancos)
+    ↓
+  NOTA DE CAUTELA: "correlação temporal documentada, não implica
+    causalidade comprovada. Presunção de inocência (art. 5º LVII CF)"
+    ↓
+  STATUS EVIDENCIÁRIO: ALTO (3+ fontes independentes + documento
+    forense da PF)
+
+NÍVEIS DE EVIDÊNCIA TEIA:
+  NÍVEL A — CONFIRMADO: fonte primária oficial + 2+ fontes independentes
+  NÍVEL B — CORROBORADO: 2+ fontes secundárias independentes
+  NÍVEL C — INDICIÁRIO: 1 fonte + correlação temporal
+  NÍVEL D — SUSPEITA: fonte única não confirmada (não publicar)
+
+------------------------------------------------------------------------
+MET 2 — OSINT (Open Source Intelligence)
+------------------------------------------------------------------------
+CONCEITO: coleta sistemática de informação de fontes abertas e
+públicas, com metodologia de verificação.
+
+PROTOCOLO OSINT TEIA para investigação:
+
+  PASSO 1 — COLETA:
+    Definir termos de busca específicos
+    Buscar em: Portais governamentais (.gov.br), TSE, CGU, TCU,
+    BCB, IBGE, jornais (Estadão, Folha, Globo, Metrópoles, Intercept),
+    registros públicos (CNPJ, JUCESP, SISBACEN), redes sociais públicas
+
+  PASSO 2 — TRIAGEM:
+    Eliminar duplicatas
+    Separar FATO de OPINIÃO
+    Identificar fonte primária de cada dado
+
+  PASSO 3 — VERIFICAÇÃO:
+    Aplicar corrente de evidência (MET 1)
+    Confirmar com 2+ fontes independentes
+    Se fonte única → NÍVEL C ou D
+
+  PASSO 4 — CRUZAMENTO:
+    Conectar dados de fontes diferentes
+    Ex: doação TSE + contrato no Portal da Transparência + CNPJ
+    da empresa → conexão política-financeira
+
+  PASSO 5 — PUBLICAÇÃO:
+    Apenas NÍVEL A ou B são publicáveis
+    NÍVEL C requer nota de cautela explícita
+    NÍVEL D nunca é publicado
+
+------------------------------------------------------------------------
+MET 3 — LINK ANALYSIS (análise de rede)
+------------------------------------------------------------------------
+CONCEITO: mapear conexões entre atores, entidades e dinheiro para
+revelar estruturas de poder invisíveis.
+
+APLICAÇÃO TEIA:
+  Para cada investigação, produzir um GRAFO de conexões:
+
+    NÓS (nodes):
+    - Pessoa física (político, empresário)
+    - Pessoa jurídica (empresa, ONG, partido)
+    - Instituição (ministério, comissão, órgão)
+
+    ARESTAS (edges):
+    - DOAÇÃO (valor, data, fonte)
+    - CONTRATO (valor, objeto, data)
+    - PARENTESCO (tipo de relação familiar)
+    - SOCIEDADE (sócio em empresa)
+    - CARGO (nomeação, mandato)
+    - VOTAÇÃO (como votou em matéria relevante)
+
+    PESOS (weights):
+    - Valor financeiro (R$)
+    - Frequência (quantas conexões)
+    - Temporalidade (quando aconteceu)
+
+  OUTPUT: diagrama de rede revelando cluster de poder.
+  Exemplo: cluster Master = Vorcaro → Zettel → Motta → cunhada →
+    empresa → terreno → João Pessoa → Republicanos → Câmara.
+
+  FERRAMENTA: o TEIA pode usar Python (networkx) para construir
+  grafos e detectar clusters automaticamente a partir de dados públicos.
+
+------------------------------------------------------------------------
+MET 4 — CRONOLOGIA FORENSE (Timeline Analysis)
+------------------------------------------------------------------------
+CONCEITO: reconstruir a sequência temporal de eventos para detectar
+PADRÕES de comportamento e CORRELAÇÕES temporais.
+
+APLICAÇÃO TEIA:
+  Para cada investigação, produzir LINHA DO TEMPO com:
+
+  DATA       | EVENTO                              | FONTE          | EVIDÊNCIA
+  -----------|-------------------------------------|----------------|----------
+  Mar/2024   | Master empresta R$22mi à cunhada   | PF (perícia)   | A
+  Mai/2024   | Motta eleito presidente Câmara     | Câmara         | A
+  ...
+  Out/2025   | Motta bloqueia tributação de bancos | VEJA (21/11/25)| B
+  Dez/2025   | PF relatório sigiloso cita Motta   | O Globo        | B
+
+  Análise: o TEMPO entre favorecimento e decisão política é de
+  ~20 meses. A correlação temporal é DOCUMENTADA mas não prova
+  causalidade.
+
+------------------------------------------------------------------------
+MET 5 — COLLABORATIVE INVESTIGATION MODEL
+------------------------------------------------------------------------
+CONCEITO: investigações complexas são melhores feitas em COLABORAÇÃO
+entre múltiplos atores com skills complementares (modelo ICIJ/Pandora
+Papers).
+
+APLICAÇÃO TEIA:
+  O sistema de contribuidores (v1.0) já prevê múltiplos perfis.
+  A v2.0 formaliza o MODELO DE INVESTIGAÇÃO COLABORATIVA:
+
+  - Analista: coleta dados e fact-check
+  - Jurista: verifica legalidade e produz ações
+  - Comunicador: traduz para público
+  - Desenvolvedor: constrói ferramentas de scraping/visualização
+  - Mobilizador: viraliza achados
+  - Articulador: conecta com MPF/CGU/TCU
+
+  Cada investigação TEIA é atribuída a um TIME com pelo menos 3 perfis.
+
+
+================================================================================
+MATRIZ INTEGRADA: TEORIA × SAT × MÉTODO
+================================================================================
+
+Para cada DIAGNÓSTICO TEIA, a v2.0 exige a aplicação combinada de
+teoria política + técnica analítica + método de investigação:
+
+    DIAGNÓSTICO          | TEORIA         | SAT           | MÉTODO
+    ---------------------|----------------|---------------|----------
+    "Motta bloqueou X"   | Tsebelis       | ACH           | Link Analysis
+                         | (veto player)  | (4 hipóteses) | + Cronologia
+                         |                |               | + OSINT
+    ---------------------|----------------|---------------|----------
+    "Spread é estrutural"| Olson          | Devil's Adv.  | Corrente
+                         | (ação coletiva)| (contra-       | Evidência
+                         |                | argumento)    |
+    ---------------------|----------------|---------------|----------
+    "Janela abrindo"     | Kingdon        | I&W           | Indicadores
+                         | (múltiplas     | (indicadores) | diários
+                         |  correntes)    |               |
+    ---------------------|----------------|---------------|----------
+    "Reforma possível"   | Sabatier       | Key Assump.   | Deviation
+                         | (coalizão      | Check         | Analysis
+                         |  advocacy)     |               |
+    ---------------------|----------------|---------------|----------
+    "Sistema capturado"  | Olson +        | ACH +         | Link +
+                         | Tsebelis +     | Red Team      | Cronologia
+                         | Principal-Agent|               | Forense
+
+
+================================================================================
+PROTOCOLO DE QUALIDADE v2.0 (Checklist antes de publicar)
+================================================================================
+
+Todo documento TEIA v2.0 deve passar por este checklist de 10 itens:
+
+[ ] 1. FACT-CHECK: cada número verificado contra fonte primária
+[ ] 2. CORRENTE DE EVIDÊNCIA: cada afirmação tem fonte rastreável
+[ ] 3. NÍVEL DE EVIDÊNCIA marcado (A/B/C — D não publica)
+[ ] 4. PREMISSAS-CHAVE listadas e testadas (SAT 2)
+[ ] 5. HIPÓTESES ALTERNATIVAS consideradas (ACH — SAT 1)
+[ ] 6. DEVIL'S ADVOCATE: alguém argumentou contra? (SAT 5)
+[ ] 7. TEORIA POLÍTICA aplicada (qual das 7?)
+[ ] 8. DESVIO identificado (lei vs prática — SAT 6)
+[ ] 9. NOTA DE CAUTELA: presunção de inocência onde aplicável
+[ ] 10. VERSIONADO: protocolo TEIA-AAAA-NNN + hash MD5
+
+Se qualquer item não estiver marcado, o documento NÃO é publicado.
+
+
+================================================================================
+NOVAS SKILLS (adicionadas ao repositório)
+================================================================================
+
+SKILL 11: analise-competing-hypotheses
+  Input: investigação com múltiplas explicações possíveis
+  Output: matriz ACH com consistência de cada hipótese vs evidência
+
+SKILL 12: olson-collective-action
+  Input: proposta de reforma
+  Output: matriz de perdedores concentrados vs ganhadores difusos
+  + identificação do intermediário organizacional necessário
+
+SKILL 13: osint-investigacao
+  Input: tema de investigação
+  Output: protocolo de coleta, triagem, verificação e publicação
+
+SKILL 14: link-analysis-rede
+  Input: conjunto de atores e conexões
+  Output: grafo de rede revelando clusters de poder
+  (Python networkx + visualização)
+
+SKILL 15: kingdon-janela-oportunidade
+  Input: estado do sistema político
+  Output: detecção de janela (problema + política + política alinhadas?)
+
+
+================================================================================
+O QUE MUDOU NA PRÁTICA
+================================================================================
+
+v1.0: "Eu mapeei o sistema e tenho propostas"
+v2.0: "Eu mapeei o sistema, FUNDAMENTEI em teoria política testada,
+       APLIQUEI técnicas analíticas de inteligência para reduzir viés,
+       VERIFIQUEI com metodologia de jornalismo investigativo de precisão,
+       e PRODUZI intervenções com maior probabilidade de sucesso"
+
+A diferença entre v1.0 e v2.0 é a diferença entre:
+  - um médico que diagnostica por intuição (v1.0)
+  - um médico que diagnostica com exame laboratorial + revisão por pares (v2.0)
+
+Ambos podem estar certos. Mas o segundo é DEFENSÁVEL em escrutínio
+acadêmico, jurídico e público.
+
+================================================================================
+REFERÊNCIAS TEÓRICAS INTEGRADAS
+================================================================================
+
+CIÊNCIA POLÍTICA:
+- Tsebelis, G. (2002). "Veto Players: How Political Institutions Work"
+- Olson, M. (1965). "The Logic of Collective Action"
+- Kingdon, J. (1984). "Agendas, Alternatives, and Public Policies"
+- Baumgartner, F. & Jones, B. (1993). "Agendas and Instability in
+  American Politics" (Punctuated Equilibrium)
+- Sabatier, P. (1988). "An Advocacy Coalition Framework of Policy
+  Change and the Role of Policy-Oriented Learning Therein"
+- Pierson, P. (2004). "Politics in Time: History, Institutions, and
+  Social Analysis"
+- Sargent, T. & Wallace, N. (1981). "Some Unpleasant Monetarist
+  Arithmetic" (já referenciado em TEIA-2026-002)
+
+TÉCNICAS ANALÍTICAS ESTRUTURADAS:
+- Heuer, R. (1999). "Psychology of Intelligence Analysis"
+- CIA Center for the Study of Intelligence. "A Tradecraft Primer:
+  Structured Analytic Techniques for Improving Intelligence Analysis"
+- Clark, R. (2016). "Intelligence Analysis: A Target-Centric Approach"
+
+JORNALISMO INVESTIGATIVO:
+- Meyer, P. (1973). "Precision Journalism"
+- Weinberg, S. (1996). "The Reporter's Handbook: An Investigator's
+  Guide to Documents and Techniques"
+- Hunter, M. (2011). "Story-Based Inquiry: A Manual for Investigative
+  Journalists" (UNESCO)
+- Paul, C. (2017). "Truth Counts: A Guide to OSINT"
+
+================================================================================
+FIM DO INCREMENTO v2.0
+================================================================================
+
+O TEIA Framework v2.0 integra:
+  - 7 teorias de ciência política (Tsebelis, Olson, Kingdon,
+    Baumgartner/Jones, Sabatier, Principal-Agent, Pierson)
+  - 6 técnicas analíticas estruturadas (ACH, Key Assumptions,
+    Red Team, I&W, Devil's Advocate, Deviation Analysis)
+  - 5 métodos de jornalismo investigativo (Evidence Chain, OSINT,
+    Link Analysis, Cronologia Forense, Collaborative Investigation)
+  - 5 novas skills metodológicas
+  - Protocolo de qualidade de 10 itens
+  - Matriz integrada teoria × SAT × método
+
+O framework evoluiu de advocacy para INTELIGÊNCIA ESTRATÉGICA.
+
+Próxima evolução (v3.0): machine learning para detecção de padrões
+em dados públicos (anomalias em emendas, licitações, gastos).
+
+================================================================================
+TEIA Framework v2.0 — Julho/2026
+Protocolo: TEIA-2026-039
+https://github.com/mouracleiton/TEIA
+================================================================================

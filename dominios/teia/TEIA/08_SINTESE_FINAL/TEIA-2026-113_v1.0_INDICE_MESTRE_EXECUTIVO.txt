@@ -1,0 +1,256 @@
+================================================================================
+          TEIA — ÍNDICE MESTRE EXECUTIVO v2.0
+          PROTOCOLO: TEIA-2026-113
+          CATEGORIA: 08_SINTESE_FINAL
+          ESCOPO: 8 DOSSIÊS × 44 PROBLEMAS × 7 CLASSES
+          DATA: JULHO/2026
+          AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+COMO USAR ESTE DOCUMENTO
+
+Este é o mapa de navegação do sistema TEIA. Cada dossiê é um documento autônomo
+pronto para protocolo (STF, CNJ, TSE, MPF). A taxonomia TEIA-106 é o diagnóstico
+completo. Os dossiês TEIA-105 a 112 são as petições. Juntos formam um PLANO DE
+AÇÃO NACIONAL com custos, fontes de financiamento e fundamentação constitucional.
+
+================================================================================
+PARTE 1 — DOCUMENTOS ESTRUTURANTES
+================================================================================
+
+TEIA-2026-106  TAXONOMIA 44 PROBLEMAS × 7 CLASSES (58 KB)
+               Arquivo: 04_PLANO/TEIA-2026-106_v1.0_TAXONOMIA_44_PROBLEMAS_7_CLASSES.txt
+               Função: DIAGNÓSTICO MESTRE — todos os problemas estruturais do Brasil
+               categorizados com dado primário, nó crítico, medida de alto impacto e
+               custo/benefício. 44 problemas em 7 classes. R$ 642 bi/ano de custo total,
+               R$ 640 bi/ano de financiamento (autofinanciável).
+
+TEIA-2026-104  OS 5 MÉTODOS ÉTICOS (04_PLANO/)
+               Função: FRAMEWORK DE AÇÃO — M1 Executivo, M2 Judiciário, M3 Legislativo,
+               M4 Tecnologia Cívica, M5 Narrativa. Todo método usa instrumentos da CF/88.
+
+================================================================================
+PARTE 2 — DOSSIÊS EXECUTIVOS POR PRIORIDADE
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PRIORIDADE MÁXIMA — VIDAS EM JOGO (8 dossiês)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TEIA-107 │ E1 JUROS E DÍVIDA PÚBLICA          │ ALAVANCA MESTRA          │
+│ Arquivo  │ 05_ACAO/TEIA-2026-107_...JUROS...  │                          │
+│ Entrega  │ STF / MF / BCB                      │                          │
+│ Score    │ 5/5                                 │                          │
+│ Dado     │ SELIC 15%. Custo fiscal R$ 998 bi/ano (8,45% PIB).              │
+│          │ Lucro 5 bancos: R$ 125,6 bi. Sistema circular de transferência.│
+│ Proposta │ TIGIF (R$ 30-50 bi/ano), ADPF art. 192 CF, IOF regressivo.      │
+│ Petição  │ STF — ADPF: art. 192 CF (SFN deve promover desenvolvimento).   │
+│ Impacto  │ R$ 340-365 bi/ano liberados. FINANCIA TODOS OS OUTROS.         │
+│ Custo    │ R$ 0 (normativo/arrecadador).                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TEIA-108 │ S1 HOMICÍDIOS EM MASSA             │ 42.590 VIDAS/ANO         │
+│ Arquivo  │ 05_ACAO/TEIA-2026-108_...HOMICIDIOS│                          │
+│ Entrega  │ MJ / CNJ / STF / SENAPPEN           │                          │
+│ Score    │ 5/5                                 │                          │
+│ Dado     │ 42.590 homicídios/ano. 77% negras. Letalidade policial 6.243. │
+│          │ Elucidação 10%. 905 mil presos (3ª maior). 5 engrenagens.     │
+│ Proposta │ GAH meta 50% elucidação (Filadélfia), desarmamento (Austrália),│
+│          │ STF Tema 551, reforma PM→comunitária, câmeras corporativas.    │
+│ Petição  │ CNJ — Meta nacional julgamento + Observatório homicídios.     │
+│ Impacto  │ -50% homicídios (21 mil vidas/ano). -50% letalidade policial. │
+│ Custo    │ R$ 15 bi/ano (0,6% do custo dos juros).                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TEIA-109 │ S3 SAÚDE PÚBLICA SUBFINANCIADA     │ 1,5M FILA CIRURGIA       │
+│ Arquivo  │ 05_ACAO/TEIA-2026-109_...SUS...    │                          │
+│ Entrega  │ STF / MS / CNJ / CONASS             │                          │
+│ Score    │ 5/5                                 │                          │
+│ Dado     │ 4% PIB saúde (OCDE 9%). IFI confirma colapso fiscal 2026.     │
+│          │ Subsídio cruzado: planos lucram R$ 4,4 bi com base do SUS.    │
+│ Proposta │ EC piso 10% RFB, Mais Médicos, telemedicina IA, comb. soneg.  │
+│ Petição  │ STF — ADPF: art. 196 CF (saúde é dever do Estado).           │
+│ Impacto  │ 1,5M cirurgias/ano. Cobertura universal. SUS reestruturado.  │
+│ Custo    │ R$ 60 bi/ano incremento (financiado por TEIA-107).            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TEIA-110 │ S2+S6 FOME + DESIGUALDADE           │ 6,48M EM FOME            │
+│ Arquivo  │ 05_ACAO/TEIA-2026-110_...FOME...    │                          │
+│ Entrega  │ MDS / STF / CONGRESSO                │                          │
+│ Score    │ 5/5                                 │                          │
+│ Dado     │ 6,48M em IA grave. 54,7M em IA total. Gini 0,506.             │
+│          │ Brasil produz para 1 bi e 6,5M passam fome.                    │
+│ Proposta │ Renda Básica progressiva (10M famílias), IGF (art. 153 §6º),  │
+│          │ PNAE 100%, Reforma Agrária 100 mil famílias.                   │
+│ Petição  │ STF — ADPF: art. 6º CF (direito social à alimentação).        │
+│ Impacto  │ Erradicação da fome. Gini 0,506 → 0,45.                        │
+│ Custo    │ R$ 80 bi/ano (autofinanciado via IGF+IR+TEIA-107).            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TEIA-105 │ H1 TRABALHO ESCRAVO CONTEMPORÂNEO  │ 65.598 EM 30 ANOS        │
+│ Arquivo  │ 05_ACAO/TEIA-2026-105_...TRABALHO..│                          │
+│ Entrega  │ MTE / CNJ / STF / MPF / MDHC / OIT  │                          │
+│ Score    │ 5/5                                 │                          │
+│ Dado     │ 2.772 resgatados em 2025 (68% urbano). 83% negros.            │
+│          │ Terceirização como blindagem (JBS→MRJ). Captura regulatória.  │
+│ Proposta │ Responsabilização solidária, Lista Suja digital, EC 81/2014, │
+│          │ fortalecimento GEFM, reabilitação socioeconômica.             │
+│ Petição  │ CNJ — Integração Lista Suja + Observatório JT.                │
+│ Impacto  │ Reescravização 1,73% → <0,5%. Zero captura política.         │
+│ Custo    │ R$ 380 mi/ano.                                                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TEIA-112 │ A3 SANEAMENTO BÁSICO               │ 32M SEM ÁGUA             │
+│ Arquivo  │ 05_ACAO/TEIA-2026-112_...SANEAMENTO│                          │
+│ Entrega  │ MMA / MS / STF / CONGRESSO          │                          │
+│ Score    │ 5/5                                 │                          │
+│ Dado     │ 84,9% com água (15,1% sem). ~50% sem esgoto (105M).           │
+│          │ Perda de água 37,78%. Invest. R$ 551 bi até 2033.             │
+│ Proposta │ Programa R$ 50 bi/ano, regulação ANA multas, saneamento       │
+│          │ comunitário em favelas, universalização fiscalizada STF.      │
+│ Petição  │ STF — ADPF: art. 6+196 CF (saneamento = direito à saúde).    │
+│ Impacto  │ Universalização até 2033 (32M + água, 105M + esgoto).        │
+│ Custo    │ R$ 50 bi/ano.                                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PRIORIDADE ALTA — DIREITOS E DEMOCRACIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TEIA-111 │ T5 DESINFORMAÇÃO E ÓDIO ONLINE      │ 68% EXPOSTOS FAKE NEWS   │
+│ Arquivo  │ 05_ACAO/TEIA-2026-111_...DESINFO... │                          │
+│ Entrega  │ TSE / STF / ANPD / CONGRESSO         │                          │
+│ Score    │ 4/5                                 │                          │
+│ Dado     │ 68% expostos a fake news. 455 casos violência política 2024.  │
+│          │ Plataformas lucram com engajamento (raiva = cliques).          │
+│ Proposta │ Marco Civil revisado, literacia midiática 1-12 ano, ADPF 735, │
+│          │ regulação algorítmica ANPD.                                    │
+│ Petição  │ TSE/STF — responsabilidade de plataformas.                     │
+│ Impacto  │ -50% exposição a desinformação.                                 │
+│ Custo    │ R$ 3 bi/ano (educação midiática).                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+PARTE 3 — EQUAÇÃO FINANCEIRA (COMO TUDO SE CONECTA)
+================================================================================
+
+A ALAVANCA MESTRA é o TEIA-107 (Juros). Resolver os juros libera R$ 340-365 bi/ano.
+
+DISTRIBUIÇÃO DOS R$ 340 BI LIBERADOS:
+
+  TEIA-108 (Homicídios)         R$  15 bi/ano  →  24 mil vidas/ano
+  TEIA-109 (SUS)                R$  60 bi/ano  →  1,5M cirurgias/ano
+  TEIA-110 (Fome+Desigualdade)  R$  80 bi/ano  →  0 pessoas com fome
+  TEIA-105 (Trabalho Escravo)   R$  0,4 bi/ano →  0 reescravização
+  TEIA-112 (Saneamento)         R$  50 bi/ano  →  universalização 2033
+  TEIA-111 (Desinformação)      R$   3 bi/ano  →  -50% fake news
+  ─────────────────────────────────────────
+  SUBTOTAL DOSSIÊS              R$ 208,4 bi/ano
+
+  RESTANTE (R$ 131-157 bi/ano) disponível para:
+    Educação (TEIA-106 S4)      R$  50 bi/ano  →  PISA +50 pontos
+    Habitação (TEIA-106 S5)     R$  40 bi/ano  →  zerar déficit 10 anos
+    Energia (TEIA-106 I2)       R$  15 bi/ano  →  soberania energética
+    Mobilidade (TEIA-106 I5)    R$  15 bi/ano  →  tempo médio -50%
+    ─────────────────────────────────────────
+    TOTAL ALOCADO               R$ 328-354 bi/ano
+
+EQUAÇÃO FINAL:
+  Custo de NÃO resolver: R$ 998 bi/ano em juros + 42.590 vidas + 6,5M com fome
+  Custo de resolver:     R$ 340 bi/ano redirecionados de juros → investimento social
+  Saldo:                 R$ 658 bi/ano em juros REMANESCENTES (dívida ainda é rolada,
+                        mas a taxas menores e com prioridade social)
+
+O BRASIL NÃO TEM PROBLEMA DE DINHEIRO. TEM PROBLEMA DE ALOCAÇÃO.
+
+================================================================================
+PARTE 4 — CRONOGRAMA DE EXECUÇÃO (5 MÉTODOS SIMULTÂNEOS)
+================================================================================
+
+FASE 1 (0-6 MESES) — Via Executivo + Via Judiciário
+  M1: Portaria TIGIF (CMN) → arrecadação imediata R$ 30-50 bi/ano
+  M1: Reativar Mais Médicos, telemedicina, GAH
+  M1: IOF regressivo sobre capital especulativo
+  M2: Protocolar ADPFs no STF (arts. 192, 196, 6º CF) — TEIA-107/109/110/112
+  M2: Protocolar petição CNJ (Meta homicídios) — TEIA-108/105
+  M4: Dashboard TEIA (app cidadão de acompanhamento)
+
+FASE 2 (6-24 MESES) — Via Legislativo
+  M3: EC piso 10% RFB para SUS
+  M3: Lei de Responsabilidade Solidária (trabalho escravo)
+  M3: EC equiparando regimes previdenciários
+  M3: Lei Antimilícia (crime hediondo + confisco)
+
+FASE 3 (24-60 MESES) — Implementação
+  Desarmamento ativo (500 mil armas)
+  Reforma policial PM→comunitária (gradual)
+  Universalização saneamento
+  Renda Básica progressiva (10M famílias)
+  Reforma agrária (100 mil famílias)
+
+FASE PERMANENTE — Via Narrativa
+  M5: Carrosséis Instagram (TEIA-102: 162 slides)
+  M5: TikToks (TEIA-101: 8 episódios saúde)
+  M5: Documentários (TEIA-018: Preço da Selic)
+  M5: Dossiês públicos (TEIA-105 a 112: github.com/mouracleiton/TEIA)
+
+================================================================================
+PARTE 5 — DOSSIÊS EXISTENTES (PRÉ-106) POR CLASSE
+================================================================================
+
+ECONÔMICA (05_ACAO):
+  TEIA-013  Dossiê Técnico Haddad (juros)
+  TEIA-017  Banco Master Correlações Temporais
+  TEIA-086  Spread Bancário → BCB
+  TEIA-087  Custo Brasil → MDIC
+  TEIA-088  Conformidade Tributária → RFB
+  TEIA-089  Concentração Bancária → CADE
+  TEIA-018  Roteiro Documentário Preço da Selic
+  TEIA-019  Contas Públicas (roteiros)
+  TEIA-020  Gestão não Gasto (planejamento)
+
+POLÍTICO-INSTITUCIONAL:
+  TEIA-005  Orçamento Secreto/Emendas Parlamentares (02_MAPEAMENTO)
+  TEIA-006  Mapeamento Setor Financeiro Congresso
+  TEIA-007  Indústria Complexidade Parlamentares
+  TEIA-008  Mapa Consolidado Captura Política
+  TEIA-009  Mapa Psiko Cooptação/Neutralização
+  TEIA-016  Representação PGR Conflito Interesse Parlamentar
+  TEIA-095  PEC Blindagem → STF
+
+SOCIAL/DIREITOS HUMANOS:
+  TEIA-067  Dossiê SUS → Min. Saúde
+  TEIA-091  Dossiê Encarceramento → MJ
+  TEIA-092  Dossiê Fome → MDS
+  TEIA-093  Dossiê Saneamento → MMA
+  TEIA-094  Dossiê Negativados → ANPD
+  TEIA-090  Dossiê Desinformação → TSE
+  TEIA-068  Atores Lucram Adoecimento (saúde)
+  TEIA-069  Diagnóstico Captura Saúde
+
+JUDICIÁRIO:
+  TEIA-014  Petição CNJ SERP (Lei 14.382/2022)
+  TEIA-015  Amicus Curiae ADPF 854
+  TEIA-021  Estatuto Social TEIA
+
+NARRATIVA:
+  TEIA-037  TikTok Big Tech 10 BI
+  TEIA-101  Roteiros TikTok Saúde (8 episódios)
+  TEIA-102  Amplificação Instagram (162 slides)
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-113
+VERSÃO: v1.0
+CATEGORIA: 08_SINTESE_FINAL
+TÍTULO: Índice Mestre Executivo v2.0 — Plano de Ação Nacional
+STATUS: PROTOCOLO_ATIVO
+DATA: JULHO/2026
+AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================

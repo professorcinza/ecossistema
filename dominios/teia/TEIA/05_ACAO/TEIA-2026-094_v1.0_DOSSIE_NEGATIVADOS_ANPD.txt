@@ -1,0 +1,182 @@
+================================================================================
+TEIA — DOSSIÊ TÉCNICO DE AÇÃO EXECUTIVA
+Protocolo: TEIA-2026-094
+Versão: 1.0
+Data: Julho/2026
+Entrega: ANPD / MJ / BCB
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Score TEIA: 5/5
+Problema: P15 — 63 MILHÕES NEGATIVADOS (DÍVIDA COMO CONTROLE)
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) Diagnóstico
+63 milhões de brasileiros negativados (Peic/SPC Brasil 2024).
+77% ganham até 2 salários mínimos.
+Dívida média: R$ 4.500.
+78% das dívidas são de cartão de crédito rotativo (juros 300-450% a.a.).
+Serasa/SPC/Boa Vista controlam score de 215 milhões de pessoas.
+
+(b) Aportes
+Regulação de algoritmos de score (ANPD).
+Teto de juros rotativo em 100% a.a. (CMN).
+Renegociação em massa via BACEN.
+
+(c) Eficiência
+Redução de R$ 50-80 bilhões em estoque de dívida em 3 anos.
+Transparência algorítmica elimina redlining.
+
+(d) Custo
+R$ 120 milhões/ano (ANPD + estrutura de auditoria).
+
+(e) Resultado esperado
+Redução de 63 milhões para 30 milhões de negativados em 3 anos.
+Fim do redlining algorítmico por CEP/renda/escolaridade.
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 Situação atual (Peic/SPC Brasil 2024)
+- Negativados: 63 milhões
+- Renda até 2 SM: 77%
+- Dívida média: R$ 4.500
+- Cartão rotativo: 78% das dívidas
+- Juros: 300-450% a.a.
+
+1.2 Oligopólio de bureaus
+Serasa/SPC/Boa Vista: 3 empresas controlam score de 215 milhões.
+Algoritmo caixa-preta, sem explicabilidade.
+
+1.3 Exclusão econômica
+"Nome sujo" impede: abertura de conta, aluguel, compra a prazo.
+Redlining algorítmico: CEP, renda e escolaridade influenciam score.
+
+1.4 Marco Legal
+Lei 13.709/2018 (LGPD) — ANPD como autarquia
+Lei 12.965/2014 (Marco Civil da Internet)
+Resolução CMN 3.978/2020 (Cadastro Positivo)
+Lei 14.181/2021 (Superendividamento)
+
+1.5 ANPD
+Autarquia criada pela LGPD, ainda em estruturação.
+Sem regulação específica sobre algoritmos de crédito.
+
+1.6 Fontes
+Peic/SPC Brasil 2024
+Serasa Experian
+Banco Central do Brasil
+ANPD
+IBGE (renda e emprego)
+
+================================================================================
+
+SEÇÃO 2 — PROPOSTA 1: REGULAÇÃO DE ALGORITMOS DE SCORE
+
+Instrumento: Resolução ANPD + Portaria MJ
+Conteúdo: Explicabilidade obrigatória + auditoria anual independente dos modelos de score
+Estimativa: R$ 80 milhões/ano (ANPD + auditores)
+Justificativa: LGPD art. 20 garante direito à explicação. Score é decisão automatizada.
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTA 2: TETO DE JUROS DO CARTÃO ROTATIVO
+
+Instrumento: Resolução CMN (sem Congresso)
+Conteúdo: Teto de 100% a.a. para juros rotativos (atual: 300-450%)
+Estimativa: R$ 0 (regulatório)
+Justificativa: Resolução CMN 3.978/2020 permite. Reduz superendividamento imediato.
+
+================================================================================
+
+SEÇÃO 4 — PROPOSTA 3: CADASTRO POSITIVO COM OPT-IN
+
+Instrumento: Resolução CMN + Portaria BCB
+Conteúdo: Opt-in obrigatório (não opt-out) + direito ao esquecimento 6 meses após quitação
+Estimativa: R$ 20 milhões/ano (ajuste de sistemas)
+Justificativa: Reduz exclusão permanente. Lei 14.181/2021 já prevê renegociação digna.
+
+================================================================================
+
+SEÇÃO 5 — PROPOSTA 4: RENEGOCIAÇÃO EM MASSA VIA BACEN
+
+Instrumento: Resolução BCB + Portaria
+Conteúdo: Programa permanente de renegociação estatal (modelo Feirão Serasa, mas público)
+Estimativa: R$ 10 milhões/ano (estrutura)
+Justificativa: 63 milhões de pessoas. Mercado privado explora; Estado deve mediar.
+
+================================================================================
+
+SEÇÃO 6 — PROPOSTA 5: PROIBIÇÃO DE REDLINING ALGORÍTMICO
+
+Instrumento: Resolução ANPD + Lei
+Conteúdo: Proibição de CEP, renda e escolaridade como features em modelos de score
+Estimativa: R$ 10 milhões/ano (fiscalização)
+Justificativa: Discriminação indireta por classe. Viola isonomia (art. 5º CF).
+
+================================================================================
+
+SEÇÃO 7 — MODELO DE IMPACTO FISCAL PROJETADO
+
++------------------------------------------------------------------+
+| ANO     | INVESTIMENTO (R$ mi) | REDUÇÃO DÍVIDA (R$ bi) | SALDO  |
++------------------------------------------------------------------+
+| 2025    | 120                  | 15                     | +14,9  |
+| 2026    | 110                  | 25                     | +24,9  |
+| 2027    | 100                  | 40                     | +39,9  |
+| 2028    | 90                   | 50                     | +49,9  |
+| 2029    | 80                   | 60                     | +59,9  |
++------------------------------------------------------------------+
+| TOTAL   | 500                  | 190                    | +189,5 |
++------------------------------------------------------------------+
+
+Redução estimada de R$ 50-80 bi em estoque de dívida em 3 anos.
+
+================================================================================
+
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+
+- Lei 13.709/2018 (LGPD) — art. 5º, 18, 20
+- Lei 12.965/2014 (Marco Civil)
+- Lei 14.181/2021 (Superendividamento)
+- Resolução CMN 3.978/2020
+- Constituição Federal, art. 5º (isonomia, dignidade)
+
+Instrumentos:
+- Resolução ANPD (art. 55-J LGPD)
+- Resolução CMN (art. 4º Lei 4.595/1964)
+- Resolução BCB (art. 9º Lei 13.097/2015)
+- Portaria Ministerial
+
+================================================================================
+
+SEÇÃO 9 — RISCOS E MITIGAÇÕES
+
+Risco 1: Resistência dos bureaus (Serasa/SPC)
+Mitigação: Multa diária por descumprimento + auditoria obrigatória
+
+Risco 2: Lobby bancário contra teto de juros
+Mitigação: Resolução CMN não depende de Congresso; pressão pública via dados
+
+Risco 3: Redução de oferta de crédito
+Mitigação: Cadastro Positivo com opt-in aumenta informação de bons pagadores
+
+Risco 4: Judicialização
+Mitigação: Fundamentação técnica + estudos de impacto regulatório prévios
+
+================================================================================
+
+SEÇÃO 10 — RECOMENDAÇÃO E TIMELINE
+
+D+0   : Resolução CMN com teto de 100% a.a. para rotativo
+D+15  : Resolução ANPD sobre explicabilidade de score
+D+30  : Portaria BCB criando programa de renegociação permanente
+D+45  : Resolução ANPD proibindo redlining por CEP/renda/escolaridade
+D+60  : Primeira auditoria ANPD sobre modelos de Serasa/SPC
+D+90  : Relatório parcial de redução de negativados
+D+120 : Ajuste de sistemas de bureaus (opt-in + esquecimento)
+D+180 : Meta de 10 milhões de pessoas saindo do negativo
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

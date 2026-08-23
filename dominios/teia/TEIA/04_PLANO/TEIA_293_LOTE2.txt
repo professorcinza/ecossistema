@@ -1,0 +1,47 @@
+================================================================================
+TEIA v17.0 (CONDENSADA) — APLICAÇÃO AOS PROBLEMAS #99 A #195
+LOTE 2 — MORADIA/INFRAESTRUTURA · GOVERNANÇA/CORRUPÇÃO · JUSTIÇA/DIREITOS
+         TRANSPORTES · MEIO AMBIENTE · DIGITAIS · CULTURAIS
+================================================================================
+Sistema: TEIA Metodologia v17.0 (Sistema Integral) — versão condensada
+Matriz: 66 dimensões × 24 lentes = 1.584 perspectivas
+Protocolo: TEIA-2026-085 (LOTE 2)
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA — Centro de Estudos em Hacker Cultura Periférica
+Data: 20/Julho/2026
+================================================================================
+NOTA METODOLÓGICA: cada problema recebe análise condensada em 7 blocos:
+DADO · FASE 1 (Superfície) · FASE 2 (Lentes) · FASE 3 (Abismo) · LOOP ·
+ALAVANCA · SÍNTESE · SCORE. Densidade máxima. Fontes: IBGE, SNIS, MapBiomas,
+INPE, IBAMA, TSE, CGU, IPEA, ANA, DATASUS, FBSP, INFOPEN, TIC Domicílios.
+================================================================================
+
+
+################################################################################
+BLOCO I — MORADIA E INFRAESTRUTURA (#99-#116)
+################################################################################
+
+========================================================================
+P#99 — DÉFICIT HABITACIONAL (6,0+ milhões de domicílios)
+========================================================================
+DADO: 6,01 milhões de domicílios em déficit (FJP/IBGE 2024); 78% é ônus
+excessivo com aluguel (>30% renda); fila Minha Casa Minha Vida >550 mil.
+FASE 1 — SUPERFÍCIE: Dim 1 (Econômica), Dim 15 (Infraestrutural),
+Dim 10 (Espacial), Dim 2 (Institucional), Dim 28 (Creditícia).
+FASE 2 — LENTES:
+  Lente 23 (Decolonial): "Quem foi empurrado pra onde?" → periferias
+    precárias nos riscos de encosta e fundos de vale.
+  Lente 18 (Termodinâmica): habitação como troca energética precária
+    (calor, alagamento, doença) → periferia absorve entropia da cidade.
+FASE 3 — ABISMO: Dim 28 (Creditícia, nível 6) — SCORE SERASA e renda
+  informal bloqueiam 40% dos adultos do crédito imobiliário formal;
+  Dim 10 (Espacial, nível 2) — zoneamento segregador produz lote ilegal
+  como única opção; Dim 60 (Telúrica, nível 12) — subsolo da cidade
+  subaproveitado por ausência de política de solo criado.
+LOOP: mercado de solo valoriza → periferia empurrada p/ encosta → déficit
+  cresce → subsídio pública vira renda do loteador → mercado revaloriza (+).
+ALAVANCA: tributação do solo ocioso (IPTU progressivo + PEUC) quebra o
+  ring de valorização especulativa; registra 11 mi de lotes vazios em cidades
+  >500 mil (IBGE/Censo 2022).
+SÍNTESE: o déficit é OUTPUT de um mercado capturado — solo é commodity, não
+  direito; o Estado subsi

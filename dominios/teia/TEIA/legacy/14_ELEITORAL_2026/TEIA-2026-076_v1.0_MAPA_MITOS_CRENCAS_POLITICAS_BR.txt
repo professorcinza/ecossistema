@@ -1,0 +1,502 @@
+================================================================================
+MAPA DE MITOS E CRENÇAS POLÍTICAS BRASILEIRAS
+================================================================================
+Arqueologia cognitiva do imaginário político nacional — consciente e inconsciente
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Protocolo: TEIA-2026-076
+Data: Julho/2026
+================================================================================
+
+METODOLOGIA
+
+Este mapa cataloga os mitos, crenças, heurísticas e vieses cognitivos que
+estruturam o imaginário político brasileiro. Cada mito é classificado por:
+
+  CAMADA: C (Consciente — verbalizada abertamente) / I (Inconsciente —
+    operacional, raramente articulada) / L (Latente — ativada por gatilhos)
+  TIPO: Fatalismo / Mito messiânico / Viés de atribuição / Falsa dicotomia /
+    Crença mágica / Deslocamento / Racionalização / Apatia
+  EFEITO SISTÊMICO: O que o mito PRODUZ na política real (quem se beneficia)
+  CONTRA-NARRATIVA TEIA: O frame alternativo a instalar
+
+Os mitos estão agrupados em 8 CORDILHEIRAS (aglomerados de crenças
+interconectadas). Não são crenças isoladas — formam um ARQUITETURA cognitiva
+que sustenta o sistema de captura.
+
+
+================================================================================
+CORDILHEIRA 1 — FATALISMO E IMUNÊNCIA POLÍTICA
+================================================================================
+
+MITO 1.1 — "TODO POLÍTICO É LADRÃO" [C] [Fatalismo]
+  Variante: "Todos são iguais", "Não adianta", "São todos a mesma coisa"
+  Função cognitiva: Heurística de economia mental — em vez de avaliar 594
+    parlamentares individualmente, reduz-se a um só rótulo. Barato cognitivo.
+  Função sistêmica: PARALISIA. Se todos são iguais, votar é perda de tempo,
+    fiscalizar é inútil, cobrar é ingenuidade. O sistema fica imune.
+  Quem se beneficia: A rede específica de ~14 veto players que controla 80%
+    da pauta orçamentária — quanto mais fatalismo, menos escrutínio direcionado.
+  Base empírica TEIA: ~30-50 parlamentares identificados como limpos/técnicos.
+    O sistema é capturado por uma REDE ESPECÍFICA, não por "todos".
+  CONTRA-NARRATIVA: "O sistema é capturado por uma rede específica. A maioria
+    dos 594 NÃO rouba. Mas a maioria é IRRELEVANTE porque quem controla a
+    pauta é a rede. Identifique a rede. Não generalize."
+
+MITO 1.2 — "BRASIL NÃO TEM JEITO" [C+L] [Fatalismo Existencial]
+  Variante: "Este país nunca vai pra frente", "Sempre foi assim"
+  Função cognitiva: Extrapolação do presente para o infinito. Confunde
+    "é difícil" com "é impossível". Desesperança aprendida (Seligman).
+  Função sistêmica: Desmobilização. Quem acredita que não tem jeito não
+    organiza, não pressiona, não vota com critério. Vira espectador.
+  Base histórica: O Brasil mudou DRAMATICAMENTE em ciclos — Redemocratização
+    (1985), Real (1994), Bolsa Família (2003), Lava Jato (2014), EC 132 (2023).
+    A narrativa "não tem jeito" é DESMENTIDA pela própria história.
+  CONTRA-NARRATIVA: "O Brasil já mudou 5 vezes em 40 anos. Sempre tem jeito.
+    O que não tem é jeito FÁCIL. Mudar exige identificar o nó e puxar."
+
+MITO 1.3 — "MEU VOTO NÃO MUDA NADA" [C] [Fatalismo Eleitoral]
+  Variante: "Político não representa ninguém", "Votar é perda de tempo"
+  Função cognitiva: Ilusão de ineficácia — subestima o efeito agregado.
+  Função sistêmica: ~25% de abstenção/branco/nulo. Se esse eleitorado votasse
+    com critério, mudaria resultados em dezenas de distritos.
+  CONTRA-NARRATIVA: "Seu voto não muda o sistema. Mas muda QUEM senta na
+    cadeira. E o sistema muda quando cadeiras suficientes trocam de dono."
+
+MITO 1.4 — "POLÍTICA É COISA DE POLÍTICO" [I] [Deslocamento de Agência]
+  Variante: "Eu não entendo de política", "Isso é com eles, não comigo"
+  Função cognitiva: Demarcação de território — política é "coisa deles".
+    Despolitiza o cotidiano (que É político em toda decisão).
+  Função sistêmica: Desresponsabilização. Se política é "coisa deles", a
+    população não se organiza nem cobra. O espaço público é abandonado.
+  CONTRA-NARRATIVA: "O preço do pão é política. A fila do SUS é política.
+    O busão lotado é política. Se você acha que política não é com você,
+    é porque alguém tomou as decisões por você sem você perceber."
+
+
+================================================================================
+CORDILHEIRA 2 — MESSIANISMO E SALVACIONISMO
+================================================================================
+
+MITO 2.1 — "PRECISAMOS DE UM HOMEM FORTE / SALVADOR" [C] [Mesianismo]
+  Variante: "Faltou um militar", "O Lula resolve", "O Bolsonaro resolve"
+    "O Messias tá chegando"
+  Função cognitiva: Externalização de agência — a solução vem DE FORA, de uma
+    FIGURA, não de um processo coletivo de organização institucional.
+  Função sistêmica: Personalismo destrói instituições. Cada 4 anos, a
+    esperança se concentra em UM nome. Quando falha, desilusão → fatalismo
+    → novo messias. Ciclo que esvazia a democracia representativa.
+  Padrão histórico: Vargas (1930), Jango (1961), Lula (2002), Bolsonaro
+    (2018). Todos carregados como salvadores. Todos decepcionaram parte
+    significativa. A estrutura de captura permanece.
+  CONTRA-NARRATIVA: "Nenhum salvador resolve. O sistema não é um homem, é
+    uma REDE. Trocar o rosto sem tocar a rede = trocar o garçom, manter o
+    cardápio. A solução é IDENTIFICAR A REDE e DESMONTÁ-LA."
+
+MITO 2.2 — "O PAÍS MUDA COM MUDANÇA DE GOVERNO" [C] [Mito do Botão]
+  Função cognitiva: Acredita que eleição = reset. Que o novo governo "aperta
+    o botão" e o país muda.
+  Função sistêmica: Ignora a INÉRCIA ESTRUTURAL — burocracia, Congresso,
+    Judiciário, sistema financeiro, pactos federativos não mudam com eleição.
+    O capturador sabe disso; o eleitor não.
+  Base TEIA: 14 veto players no Congresso controlam a pauta independente do
+    Executivo. Trocar presidente sem mudar o Congresso = trocar o narrador,
+    não o roteiro.
+  CONTRA-NARRATIVA: "Eleição presidencial muda o tom. Muda o Legislativo
+    muda a pauta. Para mudar o país, é preciso mudar as DUAS coisas."
+
+MITO 2.3 — "SE FULANO GANHAR, O PAÍS ACABA" [C+L] [Apocalipsismo Eleitoral]
+  Variante extrema-direita: "Brasil vira Venezuela"
+  Variante extrema-esquerda: "Brasil vira Chile de Pinochet"
+  Função cognitiva: Catastrofismo — atribui poder onipotente a um único
+    resultado eleitoral. Ignora freios e contrapesos, instituições, etc.
+  Função sistêmica: Polarização extrema. Justifica "tudo ou nada". Paralisa
+    o eleitor moderado que tem medo de ambos os lados. Esgota a democracia.
+  CONTRA-NARRATIVA: "Nenhuma eleição destrói o país. Mas cada eleição
+    desperdiçada por medo empurra o país para o abismo um passo de cada vez."
+
+
+================================================================================
+CORDILHEIRA 3 — DESLOCAMENTO DE CAUSALIDADE
+================================================================================
+
+MITO 3.1 — "A CULPA É DO GOVERNO (deste governo)" [C] [Viés de Atribuição]
+  Função cognitiva: Atribui TODO problema ao governo atual. Ignora herança,
+    inércia, fatores estruturais,Congresso, sistema financeiro, contexto global.
+  Função sistêmica: Sobe-desce de governo sem tocar estrutura. Cada novo
+    governo herda problemas do anterior, é culpado, perde, o próximo repete.
+  CONTRA-NARRATIVA: "O problema não é o governo. É o SISTEMA que produz
+    governos iguais. Cobre o governo — mas saiba que o sistema é mais forte."
+
+MITO 3.2 — "A CULPA É DO POVO" [I] [Inversão de Responsabilidade]
+  Variante: "O brasileiro é preguiçoso", "O povo merece os políticos que tem"
+  Função cognitiva: Atribui problemas sistêmicos ao caráter individual.
+    "Essencializa" — o problema não é estrutural, é "do jeitinho brasileiro".
+  Função sistêmica: CULPA o sujeito em vez do sistema. Se a culpa é do povo,
+    não há política que resolva — é preciso "mudar o brasileiro" (vago,
+    interminável). Desvia da reforma institucional.
+  Base TEIA: Povos são CONDICIONADOS por instituições. O "jeitinho" é
+    RESPOSTA adaptativa a um sistema opaco e arbitrário, não causa primária.
+  CONTRA-NARRATIVA: "O brasileiro não é preguiçoso. É EXAUSTO. 4h em
+    ônibus, 33 mi com fome, 63 mi negativados. Não dá para organizar uma
+    democracia com uma população exausta. A culpa é do sistema que
+    PRODUZ a exaustão."
+
+MITO 3.3 — "O PROBLEMA É A CORRUPÇÃO" [C] [Reducionismo Moral]
+  Função cognitiva: "Se acabar a corrupção, o Brasil melhora." Tudo se reduz
+    a desvio de dinheiro público.
+  Função sistêmica: Foco na corrupção (espetáculo) distrai da CAPTURA
+    (estrutura). A corrupção é SINTOMA; a captura é DOENÇA. Combater
+    sintomas não cura.
+  CONTRA-NARRATIVA: "Corrupção é o que se vê. Captura é o que NÃO se vê.
+    Acabar com a corrupção sem desmontar a captura é limpar o sangue sem
+    fechar a ferida."
+
+MITO 3.4 — "O PROBLEMA É A ESQUERDA / A DIREITA" [C] [Tribalismo Ideológico]
+  Função cognitiva: Reduz complexidade a um eixo esquerda-direita. O outro
+    lado é "o mal". O próprio lado é "o bem".
+  Função sistêmica: A população se divide em dois campos que se atacam.
+    Enquanto isso, a rede de captura (que tem gente de "esquerda" e "direita")
+    opera TRANVERSALMENTE. Bancada do agronegócio, da bala, da fé, financeira
+    — todas têm esquerda e direita dentro. A divisão ideológica É a cortina.
+  CONTRA-NARRATIVA: "O problema não é esquerda nem direita. É CAPTURA x
+    GESTÃO. Há capturadores nos dois lados. Há gestores nos dois lados.
+    Pare de votar em IDEOLOGIA. Vote em INTEGRIDADE + COMPETÊNCIA."
+
+
+================================================================================
+CORDILHEIRA 4 — CRENÇAS MÁGICAS SOBRE ECONOMIA
+================================================================================
+
+MITO 4.1 — "O BRASIL É POBRE / É UM PAÍS MISERÁVEL" [C] [Viés de Escassez]
+  Função cognitiva: Confunde má DISTRIBUIÇÃO com falta de riqueza.
+  Função sistêmica: Se o país é "pobre", não há o que distribuir — só o que
+    "crescer". Ajusta a expectativa para baixo. Aceita-se o inaceitável.
+  Base TEIA: PIB Brasil ~US$ 2 tri (8ª economia). R$ 3+ tri/ano são
+    EXTRAÍDOS da economia real por juros + spread + Custo Brasil. O Brasil
+    não é pobre. É SAQUEADO.
+  CONTRA-NARRATIVA: "O Brasil não é pobre. É uma das 8 maiores economias do
+    mundo. Mas R$ 3 trilhões por ano são extraídos antes de chegar a você.
+    O problema não é escassez. É CAPTURA."
+
+MITO 3.2 — "JUROS ALTO É PARA CONTROLAR A INFLAÇÃO" [I] [Crença Técnica]
+  Função cognitiva: Aceita o discurso oficial do Copom sem questionar o trade-
+    off. Acredita que Selic alta = inflação controlada = bem para o povo.
+  Função sistêmica: Esconde o custo fiscal (R$ 950 bi/ano). Esconde quem
+    RECEBE os juros (SFN, grandes detentores de títulos). A população paga
+    juros altos no crédito E financia juros altos no Orçamento. Paga duas vezes.
+  CONTRA-NARRATIVA: "Cada ponto da Selic custa R$ 30-40 bi/ano do Orçamento.
+    Quem recebe? O sistema financeiro. Você paga na parcela do cartão E
+    paga no imposto que cobre os juros da dívida. Juro alto não protege você.
+    Protege quem LUCRA com a dívida."
+
+MITO 4.3 — "O MERCADO RESOLVE TUDO" [C] [Fundamentalismo de Mercado]
+  Variante: "Privatização é sempre boa", "Estado é ineficiente"
+  Função cognitiva: Fetichiza o mercado como solução universal. Ignora falhas
+    de mercado, monopólios naturais, captura regulatória.
+  Função sistêmica: Justifica privatizações que entregam monopólios privados
+    (frequentemente para os mesmos grupos que capturam o Estado). Troca-se
+    ineficiência pública por extração privada.
+  CONTRA-NARRATIVA: "Privatizar monopolista público não resolve. Cria
+    monopolista privado. A questão não é público vs privado. É CAPTURADO
+    vs SERVINDO AO PÚBLICO."
+
+MITO 4.4 — "O ESTADO É SEMPRE INEFICIENTE" [I] [Generalização Sistemática]
+  Função cognitiva: Toda ação estatal é "ineficiente" por definição.
+    Ignora exemplos de eficiência pública (Embrapa, Fiocruz, ITI, SUS em
+    contextos específicos).
+  Função sistêmica: Justifica sucateamento intencional → "prova" de
+    ineficiência → mais sucateamento. Ciclo de deslegitimação do público.
+  CONTRA-NARRATIVA: "Estado não é sempre eficiente nem sempre ineficiente.
+    Depende de GESTÃO. Embrapa é eficiente. Senado é caro. A questão é
+    saber gerir, não ideologizar."
+
+
+================================================================================
+CORDILHEIRA 5 — MITOS SOBRE INSTITUIÇÕES E DEMOCRACIA
+================================================================================
+
+MITO 5.1 — "DEMOCRACIA NÃO FUNCIONA NO BRASIL" [C+L] [Descrença Institucional]
+  Variante: "Democracia é falsa", "É tudo armado", "Voto não vale"
+  Função cognitiva: Confunde imperfeição com inutilidade. Como a democracia
+    não entregou tudo o que prometeu, conclui-se que "não serve".
+  Função sistêmica: Esvazia a democracia POR DENTRO. Quanto menos gente
+    acredita, mais o sistema se degrada, mais "prova" que não funciona.
+    Profecia auto-realizável.
+  CONTRA-NARRATIVA: "Democracia não é um sistema que FUNCIONA. É um sistema
+    que você FAZ funcionar. Se você para de fazer, ele para de funcionar.
+    Não é defeito. É consequência."
+
+MITO 5.2 — "O STF É DITADURA / O STF SALVA A DEMOCRACIA" [C] [Tribunal como Bode Expiatório]
+  Variantes: Ambas as polaridades, dependendo do lado.
+  Função cognitiva: Deposita no Judiciário o papel de "salvador" ou "demônio".
+    Ignora que o STF é UM dos três poderes — não pode legislar nem executar.
+  Função sistêmica: Desvia atenção do Legislativo (onde a captura REAL
+    acontece). A população briga sobre o STF enquanto o Congresso aprova
+    PEC da Blindagem, orçamento secreto, emendas relâmpago.
+  CONTRA-NARRATIVA: "O STF decide o que é legal. O Congresso decide o que é
+    LEI. Se você só briga com o juiz e nunca cobra o legislador, o juiz vira
+    bode expiatório enquanto os legisladores roubam em paz."
+
+MITO 5.3 — "A IMPRENSA É PARCIAL / A IMPRENSA É NEUTRA" [C] [Falsa Escolha]
+  Função cognitiva: Ambos os extremos. Ou a imprensa "é toda comprada"
+    (ceticismo total) ou "é fonte confiável" (ingenuidade total).
+  Função sistêmica: Desinformação. Se "tudo é parcial", nada é verificável —
+    vale qualquer coisa. Se "tudo é neutro", o enquadramento (framing) opera
+    invisível. Ambos prejudicam.
+  CONTRA-NARRATIVA: "Imprensa não é neutra nem toda comprada. Cada veículo
+    tem ENQUADRAMENTO. Aprenda a ler o enquadramento. Fonte múltipla.
+    Cruze dados. Não delegue a verdade a ninguém."
+
+MITO 5.4 — "JUSTIÇA SÓ PEGA PEIXE PEQUENO" [C] [Seletividade Real — mas incompleta]
+  Função cognitiva: Observação PARCIALMENTE correta (justiça é seletiva)
+    transformada em generalização absoluta ("sempre só pega pequeno").
+  Função sistêmica: Deslegitima a Justiça → enfraquece cobrança por
+    normatização. Se "justiça não pega grande", por que apostar nela?
+  CONTRA-NARRATIVA: "A justiça É seletiva. Mas 'seletiva' não é 'inútil'.
+    Pressão organizada MUDA a seletividade. Lava Jato pegou grandes — com
+    erros, mas pegou. O ponto não é desistir. É FAZER a justiça pegar mais
+    grandes, mais vezes, com mais critério."
+
+
+================================================================================
+CORDILHEIRA 6 — MITOS SOBRE O CIDADÃO E SEU PAPEL
+================================================================================
+
+MITO 6.1 — "MINHA OPINIÃO VALE TANTO QUANTO FATO" [C] [Igualdade Epistêmica]
+  Variante: "Isso é a SUA verdade", "Cada um tem sua verdade"
+  Função cognitiva: Nivela opinião e evidência. Se "tudo é opinião", não há
+    critério — vale o que grita mais forte ou tem mais curtidas.
+  Função sistêmica: Destrói o espaço público deliberativo. Impede debate
+    informado. Quem tem dados é "igual" a quem tem feeling. O discurso
+    racional perde espaço para o emocional.
+  CONTRA-NARRATIVA: "Você tem direito à opinião. Não tem direito aos próprios
+    fatos. Fato não é opinião. Dado não é feeling. Existir sua opinião não
+    torna 2+2=5."
+
+MITO 6.2 — "NÃO ENTENDO, ENTÃO FALO O QUE SINTO" [I] [Anti-Intelectualismo]
+  Variante: "Intelectual vive em torre de marfim", "Povo sabe mais que
+    acadêmico", "Bom senso vale mais que estudo"
+  Função cognitiva: Desvaloriza conhecimento técnico como "elitista".
+    Conhecimento formal é visto com suspeita. "Bom senso" é canonizado.
+  Função sistêmica: População rejeita análises técnicas (Nota Técnica de
+    Impacto Fiscal, IQD, dados do Orçamento) por serem "difíceis" ou
+    "elitistas". Fica refém de narrativas emocionais simplificadas.
+  CONTRA-NARRATIVA: "Bom senso não substitui conhecimento técnico. Bom senso
+    diz que a Terra é plana. Conhecimento diz que não. Você não precisa ser
+    técnico, mas precisa RESPITAR quem estudou o tema por 20 anos."
+
+MITO 6.3 — "POLÍTICA É SUJA, EU SOU LIMPO, NÃO ME ENVOLVO" [I] [Purismo Moral]
+  Função cognitiva: Preservação de identidade moral. "Eu não me envolvo com
+    política porque política é suja." Identidade limpa vs mundo sujo.
+  Função sistêmica: Os éticos se AUTORRETIRAM. Sobram os que não têm
+    problema em se sujar. A política fica pior. O purismo PRODUZ a sujeira.
+  CONTRA-NARRATIVA: "Se os éticos saem da política, a política fica nas mãos
+    dos inescrupulosos. Não se limpa um sistema saindo dele. Limpa-se
+    ENTRANDO. Sua 'limpeza' é cumplicidade disfarçada de virtude."
+
+MITO 6.4 — "VOTEI, FIZ MINHA PARTE" [C] [Minimalismo Cívico]
+  Função cognitiva: Reduz cidadania a 1 ato a cada 2 anos. O resto é "com
+    eles". Votar = selo de cidadania cumprido.
+  Função sistêmica: Exercício de poder entre eleições = zero. Pressão sobre
+    mandato, fiscalização, participação em conselhos — tudo abandonado.
+    O parlamentar sabe: após a eleição, está livre por 4 anos.
+  CONTRA-NARRATIVA: "Voto é o começo, não o fim. O parlamentar presta contas
+    se for COBRADO. Votar e dormir é como plantar e não regar."
+
+
+================================================================================
+CORDILHEIRA 7 — MITOS SOBRE MUDANÇA E TEMPO
+================================================================================
+
+MITO 7.1 — "SE NÃO MUDOU EM 4 ANOS, FALHOU" [C] [Impaciência Estrutural]
+  Função cognitiva: Exige resultados imediatos de problemas estruturais.
+    Mede mudança em mandato presidencial, não em décadas.
+  Função sistêmica: Sobe-desce de governo, cada um "fracassa" por não
+    resolver em 4 anos problemas de 40 anos. Desilusão → fatalismo.
+  CONTRA-NARRATIVA: "Problema estrutural não se resolve em mandato. A Coreia
+    do Sul levou 30 anos. O Brasil da Constituição tem 37. Mudança estrutural
+    é trabalho de geração. Começa agora. Não acaba amanhã."
+
+MITO 7.2 — "JÁ TENTARAM ANTES E NÃO DEU" [C+L] [Desesperança Histórica]
+  Função cognitiva: Usa fracassos anteriores como "prova" de impossibilidade.
+    "Dilma tentou baixar juros, sofreu impeachment" → "não dá".
+  Função sistêmica: Deslegitima qualquer tentativa de mudança por associação
+    com fracassos passados. O sistema PRODUZ fracassos para provar que não
+    dá. Profecia auto-realizável.
+  CONTRA-NARRATIVA: "Tentaram antes e falharam PORQUE o sistema era mais
+    forte. Hoje o sistema está MAPEADO. O TEIA mapeou 14 veto players, 5
+    mecanismos de captura, 16 problemas. Não é 'tentar de novo'. É tentar
+    INFORMADO."
+
+MITO 7.3 — "MUDANÇA TEM QUE SER RADICAL / REVOLUÇÃO" [L] [Maximalismo]
+  Variante: "Reforma é enrolação", "Só uma revolução resolve"
+  Função cognitiva: Rejeita mudança incremental como "fraca". Só aceita
+    transformação total, imediata, radical.
+  Função sistêmica: Paralisa reformas REAIS (que são incrementais) enquanto
+    espera a REVOLUÇÃO (que nunca vem). O sistema adora o revolucionário —
+    sabe que ele não entrega.
+  CONTRA-NARRATIVA: "Revolução que não vem é conservadorismo com pose de
+    radicalidade. Mudança real é incremental e insistente. Cada reforma
+    abre a próxima. Quem quer TUDO agora não quer NUNCA."
+
+MITO 7.4 — "TEM QUE COMEÇAR DO ZERO" [I] [Tábula Rasa]
+  Função cognitiva: Acredita que só vale a pena se for "do zero". Instituições
+    existentes são "corrompidas demais" — só serve "começar de novo".
+  Função sistêmica: Desiste de reformar instituições existentes. Cada
+    tentativa de "começar do zero" reproduz os mesmos problemas (porque os
+    mesmos atores migraram para a nova instituição).
+  CONTRA-NARRATIVA: "Não existe 'do zero'. Os mesmos atores migram. O que
+    existe é REFORMAR o que tem — com informação, pressão e tempo."
+
+
+================================================================================
+CORDILHEIRA 8 — MITOS IDENTITÁRIOS E RACIAIS
+================================================================================
+
+MITO 8.1 — "NO BRASIL NÃO TEM RACISMO, TEM CLASSISMO" [I] [Mito da Democracia Racial]
+  Função cognitiva: Nega a dimensão racial. Atribui desigualdade a "classe".
+    Apaga o fato de que classe E raça se sobrepõem no Brasil.
+  Função sistêmica: Invisibiliza mecanismos raciais de exclusão. Impede
+    políticas afirmativas. Mantém elite branca no poder, em todos os níveis.
+  Base TEIA: 80% dos parlamentares são brancos em país onde 54% é negro.
+    Não é coincidência. É estrutura.
+  CONTRA-NARRATIVA: "No Brasil, classe E raça andam juntas. Negros são 54%
+    da população e 13% dos deputados. Não é coincidência. É estrutura.
+    Negar raça é manter a estrutura."
+
+MITO 8.2 — "COTAS SÃO REVERSAS / PREJUDICAM MERITOCRACIA" [C] [Reverso do Mérito]
+  Função cognitiva: Trata igualdade formal (mesma prova) como justiça.
+    Ignora que o ponto de partida é desigual — e o mérito "puro" reproduz
+    a desigualdade de origem.
+  Função sistêmica: Mantém elite no acesso a universidades, cargos e
+    oportunidades. "Mérito" vira justificativa para desigualdade herdada.
+  CONTRA-NARRATIVA: "Mérito entre desiguais não é mérito. É loteria de
+    berço disfarçada. Cotas não negam mérito — CORRIGEM o ponto de partida
+    para que mérito exista."
+
+MITO 8.3 — "POLÍTICA IDENTITÁRIA DIVIDE O POVO" [C] [Universalismo Falso]
+  Função cognitiva: Apresenta a pauta universal (classe) como "unificadora"
+    e a identitária (raça, gênero) como "divisora".
+  Função sistêmica: Invisibiliza demandas específicas. Exige que minorias
+    "esperem" a revolução de classe — que nunca prioriza suas demandas.
+  CONTRA-NARRATIVA: "Universalismo que ignora diferenças reproduz a
+    desigualdade. Um SUS universal que atende mal quem mora longe não é
+    universal — é desigual. Reconhecer diferença não é dividir. É INCLUIR."
+
+
+================================================================================
+RESUMO DA ARQUITETURA COGNITIVA
+================================================================================
+
+Os 8 cordilheiras (32 mitos) formam um SISTEMA DE DEFESA DA CAPTURA:
+
+  CORDILHEIRA 1 (Fatalismo) → paralisa ação
+  CORDILHEIRA 2 (Messianismo) → desvia para salvador individual
+  CORDILHEIRA 3 (Deslocamento) → atribui culpa a alvo errado
+  CORDILHEIRA 4 (Magia econômica) → confunde sobre causa dos problemas
+  CORDILHEIRA 5 (Institucional) → deslegitima ferramentas de mudança
+  CORDILHEIRA 6 (Cidadã) → isenta o indivíduo de responsabilidade
+  CORDILHEIRA 7 (Temporal) → impede persistência na mudança
+  CORDILHEIRA 8 (Identitária) → divide o sujeito coletivo
+
+EFEITO AGREGADO: Uma população que NÃO VOTA CRITERIOSAMENTE, NÃO COBRA,
+NÃO FISCALIZA, NÃO SE ORGANIZA, NÃO ACREDITA QUE MUDA, NÃO SABE EM QUEM
+ACREDITAR, E NÃO SE VÊ COMO PARTE DA SOLUÇÃO.
+
+  → ESTE É O ESCUDO COGNITIVO DO SISTEMA DE CAPTURA.
+  → ENQUANTO ELE EXISTIR, QUALQUER REFORMA INSTITUCIONAL É TEMPORÁRIA.
+  → DESMONTAR O ESCUDO É PRÉ-REQUISITO PARA MUDANÇA ESTRUTURAL.
+
+
+================================================================================
+SWARM DE CAMPANHAS — ESTRATÉGIA DE DESMONTAGEM COGNITIVA
+================================================================================
+
+O swarm é organizado em 5 FRENNTES DE ATAQUE COGNITIVO, cada uma mirando
+uma cordilheira de mitos. Cada frente gera múltiplos formatos (TikTok,
+carrossel IG, thread, dossiê TXT, episódio podcast, roteiro YouTube).
+
+========================================================================
+FRENTE A — "NÃO É TODO POLÍTICO" (Anti-Fatalismo)
+========================================================================
+Mitos-alvo: 1.1, 1.2, 1.3
+Mensagem-eixo: O sistema é capturado por uma REDE ESPECÍFICA. Identificar,
+  não generalizar.
+Formatos:
+  → TikTok série: "30 parlamentares que NÃO roubam" (1 por vídeo)
+  → Carrossel IG: "Rede de Captura: os 14 nomes que controlam 80%"
+  → Dossiê TXT: TEIA-077 (lista nominativa + evidências)
+  → Thread: "Por que 'todo político é ladrão' é o melhor amigo do ladrão"
+
+========================================================================
+FRENTE B — "NÃO É SALVADOR, É SISTEMA" (Anti-Messianismo)
+========================================================================
+Mitos-alvo: 2.1, 2.2, 2.3
+Mensagem-eixo: Trocar rosto sem tocar rede = trocar garçom. A solução é
+  mapear e desmontar a rede.
+Formatos:
+  → TikTok: "A história do Brasil em 5 messias que decepcionaram"
+  → Carrossel IG: "Eleição presidencial muda o tom. Congresso muda a pauta."
+  → Thread: "Por que o próximo salvador vai te decepcionar também"
+
+========================================================================
+FRENTE C — "A CULPA É DA REDE, NÃO DO POVO NEM DO GOVERNO" (Anti-Deslocamento)
+========================================================================
+Mitos-alvo: 3.1, 3.2, 3.3, 3.4
+Mensagem-eixo: O brasileiro não é preguiçoso — é exausto. A culpa é da rede
+  que produz a exaustão. Captura x Gestão, não esquerda x direita.
+Formatos:
+  → TikTok: "Por que você está exausto (e quem lucra com isso)"
+  → Carrossel IG: "Captura x Gestão: o novo eixo que ninguém te ensinou"
+  → Dossiê TXT: TEIA-078 (eixo CAPTURA x GESTÃO aplicado a 594 parlamentares)
+  → Thread: "O brasileiro não é preguiçoso. É SAQUEADO."
+
+========================================================================
+FRENTE D — "O BRASIL É SAQUEADO, NÃO POBRE" (Anti-Magia Econômica)
+========================================================================
+Mitos-alvo: 4.1, 4.2, 4.3, 4.4
+Mensagem-eixo: 8ª economia do mundo. R$ 3 tri/ano extraídos antes de chegar
+  a você. O problema é captura, não escassez.
+Formatos:
+  → TikTok série: "Onde foram seus R$ 3 trilhões" (3 episódios)
+  → Carrossel IG: "R$ 950 bi em juros: para onde foi?"
+  → Dossiê TXT: TEIA-079 (fluxo R$ 3 tri: juros + spread + Custo Brasil)
+  → Thread: "Juros altos protege quem? (Dica: não é você)"
+
+========================================================================
+FRENTE E — "O QUE VOCÊ FAZ EM 2026" (Anti-Apatia + Anti-Minimalismo)
+========================================================================
+Mitos-alvo: 5.1, 6.1, 6.2, 6.3, 6.4, 7.1, 7.2, 7.3, 7.4
+Mensagem-eixo: Democracia é sistema que se FAZ funcionar. Votar é começo.
+  Mudar é incremental e informado. Não há salvador — há trabalho.
+Formatos:
+  → TikTok: "Manual do Eleitor Informado 2026 (5 perguntas antes de votar)"
+  → Carrossel IG: "Votar e dormir = plantar e não regar"
+  → Thread: "Democracia não é sistema que FUNCIONA. É sistema que se FAZ."
+  → Dossiê TXT: TEIA-080 (manual completo do eleitor 2026)
+
+
+================================================================================
+PRÓXIMA FASE: EXECUÇÃO DO SWARM
+================================================================================
+
+Cada frente gera 4-5 artefatos. Total: ~20-25 peças de comunicação.
+
+Disparar em paralelo via subagents TEIA (delegate_task batch):
+  AGENTE 1: Frente A (Anti-Fatalismo) — 4 artefatos
+  AGENTE 2: Frente B (Anti-Messianismo) — 3 artefatos
+  AGENTE 3: Frente C (Anti-Deslocamento) — 4 artefatos
+  AGENTE 4: Frente D (Anti-Magia Econômica) — 4 artefatos
+  AGENTE 5: Frente E (Anti-Apatia/Minimalismo) — 4 artefatos
+
+Ver arquivos:
+  TEIA-2026-077_v1.0_SWARM_FRENTE_A_ANTI_FATALISMO.txt
+  TEIA-2026-078_v1.0_SWARM_FRENTE_B_ANTI_MESSIANISMO.txt
+  TEIA-2026-079_v1.0_SWARM_FRENTE_C_ANTI_DESLOCAMENTO.txt
+  TEIA-2026-080_v1.0_SWARM_FRENTE_D_ANTI_MAGIA_ECONOMICA.txt
+  TEIA-2026-081_v1.0_SWARM_FRENTE_E_ANTI_APATIA.txt
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

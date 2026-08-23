@@ -1,0 +1,47 @@
+================================================================================
+ARQUITETURA DE FONTES — TEIA v22.0 (POR NÍVEL)
+================================================================================
+NÍVEL 1-2 (SUPERFÍCIE/PROFUNDIDADE):
+  Portal da Transparência (CGU), SIAFI, BCB SGS, IBGE, TSE, Câmara/Senado,
+  STF APIs, DOU. Global: Banco Mundial, FMI, OMC, BIS, OCDE, ONU.
+
+NÍVEL 3-4 (SOMBRA/ABISMO):
+  INPE (PRODES/DETER), IBAMA, EPE, IPEA, MapBiomas, SNIS.
+  Global: ICIJ (Pandora/Panama), Tax Justice Network, Chainalysis, SIPRI.
+
+NÍVEL 5-7 (MICROFÍSICA/SUB-BIOLÓGICA):
+  DATASUS, SINASC, SIM, ANS, FBSP, INFOPEN, IBPT/ETCO, CGI.br, Compras.gov.br.
+  GitHub, W3C/IEEE, ANPD, Shodan, block explorers.
+
+NÍVEL 8-9 (MATERIAL/EXISTENCIAL):
+  FBSP (letalidade), SNIS (água/esgoto), CPRM, BEPI, ANA, IBAMA/SEMAS, PNUMA.
+
+NÍVEL 10-12 (TERMINAL/CÓSMICO/ZÊNITE):
+  Pandora/Panama Papers, B3/CME, CNV, patentes (WIPO), Space-Track, ANPD.
+  WikiLeaks, Bellingcat, Forensic Architecture.
+
+NÍVEL 13 (CIBERNÉTICA):
+  GitHub, arXiv (ML), algorithm registries, W3C/IEEE, RFC, CVE, Shodan,
+  block explorers (Etherscan).
+
+NÍVEL 14 (NEURO/COGNITIVA):
+  PubMed, Nature Neuroscience, AlgoTransparency, Attention Economy project.
+
+NÍVEL 15 (COMPLEXIDADE):
+  Santa Fe Institute, arXiv nlin, NetSci, NetworkX, IPCC AR6, Dune/Glassnode.
+
+NÍVEL 16 (BIBLIOTECÁRIO):
+  DDC 23, LCC Outline, CAPES Áreas, OECD Frascati, CNPq, WoS/Scopus/SciELO,
+  JCR, WIPO/INPI, Crossref, ORCID, OpenAlex, COPE, Plan S, DOAJ.
+
+NÍVEL 17 (CIÊNCIAS APLICADAS):
+  DATASUS/SINAN, SNIS, EPE/BEN, ANP, ANM, ANTAQ, ANTT, Anatel, IBGE/SIDRA,
+  INEP/IDEB, FBSP/INFOPEN, ANS, ANVISA, CVM, CFC, ISO/IEEE/3GPP, Comex Stat,
+  BACEN, B3, MapBiomas, CONAB.
+
+NÍVEL 18 (FRONTEIRAS / METACIÊNCIA):
+  Center for Open Science, OSF, Retraction Watch, Cochrane, WHO One Health,
+  IPCC AR6, IAEA, ISA, Antarctic Treaty, USPTO/EPO, SEMI, ASML, arXiv q-bio.
+
+SEMPRE cite a fonte primária ao lado de cada dado.
+================================================================================

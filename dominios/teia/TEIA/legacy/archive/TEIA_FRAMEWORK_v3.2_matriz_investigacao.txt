@@ -1,0 +1,500 @@
+================================================================================
+TEIA FRAMEWORK v3.2 — MATRIZ DE INVESTIGAÇÃO CIENTÍFICA
+================================================================================
+Integração do desenho metodológico acadêmico formal (6 dimensões)
+com o SOPBRA e o pipeline de inteligência.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-047
+Versão: v3.2
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v3.1 → v3.2)
+
+A v3.1 integrou 10 dimensões das ciências humanas que ampliaram o
+QUE o framework analisa. A v3.2 integra as 6 dimensões formais de
+metodologia de investigação que estruturam COMO o framework opera.
+
+Até v3.1, o TEIA era um sistema de inteligência poderoso mas informal
+na sua estruturação metodológica. A partir de v3.2, cada investigação
+TEIA segue um PROTOCOLO DE DESENHO METODOLÓGICO que garante:
+
+  1. COERÊNCIA: o método é capaz de responder à pergunta feita
+  2. VALIDADE: os dados suportam as conclusões
+  3. REPRODUTIBILIDADE: outro pesquisador pode replicar e chegar
+     ao mesmo resultado
+  4. LEGITIMIDADE ACADÊMICA: o desenho segue padrões reconhecidos
+     (Sampieri, Gil, Yin)
+
+Isto transforma o TEIA de "advocacy com rigor" para "pesquisa
+científica aplicada com impacto político".
+
+
+================================================================================
+AS 6 DIMENSÕES DA MATRIZ DE INVESTIGAÇÃO TEIA
+================================================================================
+
+Cada investigação TEIA deve preencher uma MATRIZ DE CONSISTÊNCIA
+que cruza as 6 dimensões antes de iniciar a coleta de dados.
+
+------------------------------------------------------------------------
+DIMENSÃO 1 — EPISTEMOLÓGICA / TEÓRICA
+------------------------------------------------------------------------
+PERGUNTA: "Qual é a base de conhecimento que sustenta a investigação?"
+
+COMPONENTES:
+  (a) PARADIGMA: qual é a visão de mundo do investigador?
+      - POSITIVISTA: realidade objetiva, mensurável, leis gerais
+        (aplicável: diagnóstico econômico, Monte Carlo)
+      - INTERPRETATIVISTA: realidade construída socialmente, significados
+        (aplicável: análise de discurso, etnografia política)
+      - CRÍTICO: realidade como campo de luta de poder, emancipação
+        (aplicável: análise de captura, Foucault, teoria da dependência)
+      
+      O TEIA opera principalmente no paradigma CRÍTICO-DIALÉTICO:
+      não descreve a realidade para aceitá-la, mas para TRANSFORMÁ-LA.
+      O pipeline dialético (tese→refutação→contra-refutação) é método
+      dialético aplicado.
+
+  (b) ENQUADRAMENTO TEÓRICO: quais teorias explicam o fenômeno?
+      A v3.1 já integra 16 corpos teóricos. Para cada investigação,
+      selecionar QUAL se aplica:
+      
+      Exemplo: investigação sobre spread bancário →
+        Teoria econômica (Basileia, custo de capital)
+        + Olson (grupos concentrados vs difusos)
+        + Foucault (poder/saber: opacidade bancária)
+
+  (c) ESTADO DA ARTE: o que já foi escrito?
+      Revisão de literatura obrigatória antes de produzir.
+      Fontes: BCB (REB, Notas Econômicas), Tesouro (Textos para
+      Discussão), IPEA, FGV IBRE, Insper, USP, UnB.
+      Não reinventar o que academia já produziu.
+
+PROTOCOLO TEIA — CAMPO 1:
+  Paradigma: [Positivista / Interpretativista / Crítico-dialético]
+  Teorias aplicadas: [lista das 16 dimensões relevantes]
+  Estado da arte: [3-5 referências acadêmicas consultadas]
+
+------------------------------------------------------------------------
+DIMENSÃO 2 — TELEOLÓGICA / FINALÍSTICA
+------------------------------------------------------------------------
+PERGUNTA: "Para onde queremos ir e por que razão?"
+
+COMPONENTES:
+  (a) OBJETIVO GERAL: o que a investigação pretende alcançar?
+      Exemplo: "Quantificar o custo fiscal da estrutura atual da
+      dívida pública e identificar mecanismos de redução"
+
+  (b) OBJETIVOS ESPECÍFICOS: passos concretos
+      1. Verificar a composição da DPF por indexador (2020-2025)
+      2. Calcular o custo fiscal de cada ponto de Selic
+      3. Comparar com experiências internacionais (México, Chile)
+      4. Propor instrumento de gestão (IQD)
+
+  (c) PERGUNTA DE INVESTIGAÇÃO: a interrogação central
+      "A prefixação da dívida reduz o custo fiscal do Orçamento
+      sem comprometer a independência do BC?"
+
+  (d) JUSTIFICATIVA: por que importa?
+      - Prática: R$ 950 bi/ano em juros espreme o Orçamento
+      - Teórica: contribui para literatura de gestão de dívida em
+        economias emergentes
+      - Social: cada R$ 1 redirecionado de juros pode ir para Saúde
+
+  (e) HIPÓTESES: o que esperamos encontrar?
+      H1: "A prefixação reduz a sensibilidade fiscal à Selic"
+      H0: "A prefixação não tem efeito significativo"
+      (H0 deve ser SEMPRE considerada — Método Científico)
+
+PROTOCOLO TEIA — CAMPO 2:
+  Objetivo geral: [1 frase]
+  Objetivos específicos: [3-5 itens]
+  Pergunta de investigação: [1 interrogação]
+  Justificativa: [prática + teórica + social]
+  Hipóteses: [H1 + H0]
+
+------------------------------------------------------------------------
+DIMENSÃO 3 — METODOLÓGICA
+------------------------------------------------------------------------
+PERGUNTA: "Como vamos fazer para chegar lá?"
+
+COMPONENTES:
+  (a) ABORDAGEM:
+      - QUANTITATIVA: números, estatística, modelagem
+        (Monte Carlo, regressão, z-score, séries temporais)
+      - QUALITATIVA: significados, interpretações, contexto
+        (análise de discurso, etnografia, perfil de atores)
+      - MISTA (triangulação quant+qual): recomendada para TEIA
+        Exemplo: quantificar spread (quant) + explicar por que existe
+        via patrimonialismo (qual)
+
+  (b) DESENHO DE PESQUISA:
+      - OBSERVACIONAL: observar sem intervir (mapeamento de veto players)
+      - ESTUDO DE CASO: analisar um caso em profundidade (Banco Master)
+      - PESQUISA-AÇÃO: intervir e observar resultado (dossiê→CPI→reforma)
+      - PESQUISA DOCUMENTAL: analisar documentos públicos (TSE, CGU, TCU)
+      - SURVEY: coletar dados sistemáticos (scraping de Portal da Transparência)
+      - COMPARATIVO: comparar casos (Brasil vs México vs Chile)
+      
+      O TEIA usa predominantemente PESQUISA DOCUMENTAL + ESTUDO DE CASO
+      + PESQUISA-AÇÃO (produz documento, protocola, monitora efeito).
+
+  (c) TÉCNICAS E INSTRUMENTOS DE COLETA:
+      - Scraping de APIs públicas (CGU, TSE, BCB, IBGE)
+      - Análise documental (relatórios, atas, prestação de contas)
+      - OSINT (open source intelligence)
+      - Entrevistas (com servidores, jornalistas, ex-dirigentes)
+      - Análise de conteúdo (discursos parlamentares, reportagens)
+      - Link analysis (cruzamento de CNPJ/CPF/parentesco)
+
+PROTOCOLO TEIA — CAMPO 3:
+  Abordagem: [Quant / Qual / Mista]
+  Desenho: [Observacional / Caso / Ação / Documental / Comparativo]
+  Técnicas: [lista de instrumentos]
+  Unidades de análise: [atores, municípios, leis, contratos]
+
+------------------------------------------------------------------------
+DIMENSÃO 4 — ANALÍTICA / EMPÍRICA
+------------------------------------------------------------------------
+PERGUNTA: "O que faremos com os dados recolhidos?"
+
+COMPONENTES:
+  (a) TRATAMENTO DE DADOS QUANTITATIVOS:
+      - Estatística descritiva (média, mediana, desvio-padrão, Gini)
+      - Detecção de anomalias (z-score modificado, Isolation Forest)
+      - Regressão (OLS, ARIMA, DiD)
+      - Monte Carlo (10.000+ iterações)
+      - Análise de sobrevivência (Kaplan-Meier)
+      - Testes de hipótese (t-test, chi-quadrado, p-valores)
+
+  (b) TRATAMENTO DE DADOS QUALITATIVOS:
+      - Análise temática (codificar temas recorrentes)
+      - Análise de discurso (frames, metáforas, códigos)
+      - Análise de conteúdo (categorias, frequência)
+      - Process tracing (rastrear cadeia causal evento→outcome)
+      - Triangulação (cruzar fontes para validar)
+
+  (c) TRIANGULAÇÃO (obrigatória no TEIA):
+      Nenhum dado é aceito com fonte ÚNICA. Triangulação requer:
+      - 2+ fontes independentes para cada fato (Nível A)
+      - Cruzamento quant-qual quando possível
+      - Verificação contra fonte primária oficial
+
+  (d) UNIDADES DE ANÁLISE:
+      - INDIVÍDUO: parlamentar (scores, votações, patrimônio)
+      - INSTITUIÇÃO: comissão (CFT, CAE, CMO), ministério, tribunal
+      - MUNICÍPIO: receptor de emendas (concentração, Gini)
+      - TEXTO: discurso, reportagem, lei, petição
+      - EVENTO: votação, CPI, operação PF, decisão STF
+      - REDE: cluster de poder (link analysis)
+      - TERRITÓRIO: região (fluxo financeiro, drenagem)
+
+PROTOCOLO TEIA — CAMPO 4:
+  Tratamento quant: [lista de testes e modelos]
+  Tratamento qual: [técnica de análise]
+  Triangulação: [quais fontes cruzadas]
+  Unidades de análise: [indivíduo/instituição/município/texto/evento/rede]
+
+------------------------------------------------------------------------
+DIMENSÃO 5 — CONTEXTUAL / ESPAÇO-TEMPORAL
+------------------------------------------------------------------------
+PERGUNTA: "Onde e quando a investigação ocorre?"
+
+COMPONENTES:
+  (a) DELIMITAÇÃO DO CAMPO:
+      - Físico: Brasília (Câmara, Senado, STF, ministérios)
+      - Virtual: redes sociais, Portal da Transparência, APIs
+      - Territorial: 5.570 municípios (para análise de emendas)
+      - Institucional: comissões específicas (CFT, CAE, CNJ)
+
+  (b) CORTE TEMPORAL:
+      - TRANSVERSAL: foto num momento (ex: spread em 2024)
+      - LONGITUDINAL: série histórica (ex: composição DPF 2010-2026)
+      - PAINEL: cruzar tempo + unidades (ex: emendas por município
+        ao longo de 5 anos)
+      
+      O TEIA favorece LONGITUDINAL porque o sistema político brasileiro
+      só se revela com histórico: o que mudou de 2014 para 2026?
+
+  (c) CONTEXTO SÓCIO-HISTÓRICO:
+      - Período político: legislatura 2023-2027
+      - Ciclo econômico: pós-pandemia, alta de juros
+      - Contexto internacional: adesão à OCDE, guerra comercial
+      - Eventos críticos: Overclean, Banco Master, PEC da Blindagem
+      - Braudel: onde isto se encaixa na LONGUE DURÉE?
+
+PROTOCOLO TEIA — CAMPO 5:
+  Campo: [físico/virtual/institucional]
+  Corte temporal: [transversal/longitudinal/painel] + período
+  Contexto: [político + econômico + internacional + eventos]
+
+------------------------------------------------------------------------
+DIMENSÃO 6 — ÉTICA
+------------------------------------------------------------------------
+PERGUNTA: "A investigação respeita os direitos e a integridade de todos?"
+
+COMPONENTES:
+  (a) CONSENTIMENTO INFORMADO:
+      - Se a investigação envolver entrevistas, informar o entrevistado
+        sobre: objetivo, uso dos dados, direito de desistir
+      - NÃO é necessário para análise de FONTES PÚBLICAS (LAI)
+
+  (b) CONFIDENCIALIDADE E ANONIMATO:
+      - Contribuidor TEIA pode usar pseudônimo (mas mantenedor
+        conhece identidade real)
+      - Fontes protegidas (whistleblowers): anonimato total
+      - Dados pessoais: LGPD compliance (Lei 13.709/2018)
+
+  (c) PRESUNÇÃO DE INOCÊNCIA:
+      - Art. 5º, LVII, CF/88: "ninguém será considerado culpado
+        antes do trânsito em julgado de sentença penal condenatória"
+      - TODO documento TEIA que cita pessoa identificada DEVE incluir:
+        "correlação temporal documentada, não implica causalidade
+        comprovada. Presunção de inocência garantida (art. 5º LVII CF)"
+      - NUNCA usar linguagem acusatória. Usar "documentado",
+        "corroborado", "citado em"
+
+  (d) INTEGRIDADE ACADÊMICA:
+      - Fonte de cada dado CITADA (não apropriar trabalho alheio)
+      - Nenhum dado fabricado ou alterado
+      - Conflito de interesse DECLARADO
+      - Versionamento Git garante rastreabilidade (não dá para
+        alterar sem deixar rastro)
+
+  (e) LIMITES DA INVESTIGAÇÃO:
+      - USAR APENAS FONTES PÚBLICAS. Nunca dados sigilosos, vazados
+        ou obtidos por meio ilícito
+      - NÃO vigiar pessoas físicas (LGPD)
+      - NÃO praticar jornalismo investigativo sem formação jurídica
+        (deixar acusação para MPF/PF/STF)
+      - O TEIA PRODUZ INTELIGÊNCIA, NÃO FAZ JUSTIÇAMENTO
+
+  (f) PRINCÍPIO DA PROPORCIONALIDADE:
+      - O instrumento usado deve ser PROPORCIONAL ao objetivo
+      - Não usar dossiê público para expor pessoa que não é
+        figura pública (servidor de baixo escalão, por exemplo)
+      - Foco em FIGURAS PÚBLICAS com mandato/cargo/interesse público
+
+PROTOCOLO TEIA — CAMPO 6:
+  Consentimento: [aplicável quando entrevista]
+  Confidencialidade: [pseudônimo / anônimo / fonte pública]
+  Presunção de inocência: [citação obrigatória se pessoa identificada]
+  Conflito de interesse: [declarar se houver]
+  Fontes: [100% públicas — confirmar]
+
+
+================================================================================
+A MATRIZ DE CONSISTÊNCIA TEIA (template)
+================================================================================
+
+Toda investigação TEIA começa com esta matriz preenchida:
+
+┌───────────────────┬──────────────────────────────────────────────────────┐
+│ DIMENSÃO          │ PRENCHIMENTO                                         │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 1. EPISTEMOLÓGICA │ Paradigma: [crítico-dialético]                       │
+│                   │ Teorias: [lista das 16 que aplicam]                   │
+│                   │ Estado da arte: [3-5 referências]                     │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 2. TELEOLÓGICA    │ Objetivo geral: [1 frase]                             │
+│                   │ Objetivos específicos: [3-5 itens]                    │
+│                   │ Pergunta: [1 interrogação]                            │
+│                   │ Hipóteses: [H1 + H0]                                  │
+│                   │ Justificativa: [prática + teórica + social]           │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 3. METODOLÓGICA   │ Abordagem: [quant/qual/mista]                         │
+│                   │ Desenho: [caso/documental/ação/comparativo]            │
+│                   │ Técnicas: [scraping, OSINT, entrevistas, etc.]        │
+│                   │ Unidades de análise: [indivíduo/município/etc.]       │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 4. ANALÍTICA      │ Tratamento quant: [testes/modelos]                    │
+│                   │ Tratamento qual: [análise temática/discurso]          │
+│                   │ Triangulação: [fontes cruzadas]                       │
+│                   │ Níveis de evidência: [A/B/C — D não publica]          │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 5. CONTEXTUAL     │ Campo: [Brasília/virtual/5.570 municípios]           │
+│                   │ Temporal: [transversal/longitudinal/painel]           │
+│                   │ Período: [datas]                                      │
+│                   │ Contexto: [político/econômico/internacional]          │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 6. ÉTICA          │ Fontes: [100% públicas — confirmar]                   │
+│                   │ Presunção de inocência: [citação se pessoa]           │
+│                   │ Confidencialidade: [pseudônimo/anônimo]               │
+│                   │ Conflito de interesse: [declarar]                     │
+│                   │ LGPD: [dados anonimizados se pessoal]                 │
+└───────────────────┴──────────────────────────────────────────────────────┘
+
+
+================================================================================
+EXEMPLO APLICADO: MATRIZ DE CONSISTÊNCIA DO DOSSIÊ BANCO MASTER
+================================================================================
+
+┌───────────────────┬──────────────────────────────────────────────────────┐
+│ DIMENSÃO          │ DOSSIÊ BANCO MASTER                                  │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 1. EPISTEMOLÓGICA │ Paradigma: Crítico-dialético                          │
+│                   │ Teorias: Tsebelis (veto players), Olson (grupos       │
+│                   │ concentrados), Foucault (poder/saber), Principal-Agent│
+│                   │ Estado da arte: reportagens Intercept, Metrópoles,    │
+│                   │ Estadão; relatórios PF; ADPF 854                      │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 2. TELEOLÓGICA    │ Objetivo geral: Documentar correlações temporais      │
+│                   │ entre favorecimentos do Banco Master e decisões        │
+│                   │ políticas de parlamentares da legislatura 2023-2027    │
+│                   │ Pergunta: "Há padrão sistemático de troca de          │
+│                   │ favores entre Banco Master e parlamentares?"          │
+│                   │ Hipóteses:                                            │
+│                   │   H1: correlações temporais indicam captura           │
+│                   │   H0: correlações são coincidência (azar)             │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 3. METODOLÓGICA   │ Abordagem: MISTA (quant de valores + qual de contexto)│
+│                   │ Desenho: Pesquisa documental + estudo de caso múltiplo│
+│                   │ Técnicas: OSINT, análise documental, cronologia        │
+│                   │ forense, link analysis                                │
+│                   │ Unidades: 10 parlamentares + 2 empresários + 1 banco   │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 4. ANALÍTICA      │ Quant: valores de empréstimos/doações, intervalos     │
+│                   │ temporais entre favorecimento e decisão               │
+│                   │ Qual: análise de contexto de cada decisão política     │
+│                   │ Triangulação: 3+ fontes independentes por caso         │
+│                   │ Níveis: A (PF + 2+ veículos) para casos principais     │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 5. CONTEXTUAL     │ Campo: Brasília (Câmara, Senado) + virtual (redes)    │
+│                   │ Temporal: longitudinal (2020-2026)                     │
+│                   │ Período: legislatura 2023-2027 + período pré-campanha │
+│                   │ Contexto: Operação Overclean, ADPF 854, PEC Blindagem │
+├───────────────────┼──────────────────────────────────────────────────────┤
+│ 6. ÉTICA          │ Fontes: 100% públicas (reportagens, TSE, PF)           │
+│                   │ Presunção de inocência: CITAÇÃO OBRIGATÓRIA em cada    │
+│                   │ caso ("documentado, não condenado")                    │
+│                   │ LGPD: nenhum dado pessoal de não-figuras-públicas      │
+│                   │ Limites: produz inteligência, NÃO faz justiciamento    │
+└───────────────────┴──────────────────────────────────────────────────────┘
+
+
+================================================================================
+PROTOCOLO DE QUALIDADE v3.2 (25 itens)
+================================================================================
+
+O Protocolo de Qualidade evolui de 20 (v3.1) para 25 itens.
+Os 5 novos itens são de DESENHO METODOLÓGICO:
+
+DESENHO METODOLÓGICO (novo):
+[ ] 21. MATRIZ DE CONSISTÊNCIA preenchida antes de coletar dados
+[ ] 22. HIPÓTESE NULA (H0) explicitamente considerada
+[ ] 23. TRIANGULAÇÃO com 2+ fontes independentes para cada fato
+[ ] 24. UNIDADES DE ANÁLISE definidas (indivíduo/instituição/etc.)
+[ ] 25. CONTEXTO SÓCIO-HISTÓRICO situado (longue durée)
+
+
+================================================================================
+O CICLO DE INVESTIGAÇÃO TEIA (integrado com Matriz)
+================================================================================
+
+O ciclo de 5 fases do SOPBRA agora incorpora a Matriz:
+
+FASE A — RECON
+  1. Detectar estado do sistema (state machine)
+  2. Identificar oportunidade
+  3. PRENCHER MATRIZ DE CONSISTÊNCIA (6 dimensões) ← NOVO
+  4. Definir paradigma, objetivo, hipóteses, método
+
+FASE B — DIAGNÓSTICO
+  1. Coletar dados segundo as técnicas definidas na Matriz
+  2. Aplicar fact-check (Dimensão Analítica)
+  3. Triangulação obrigatória (Dimensão Analítica)
+  4. Aplicar pipeline dialético (tese→FC→refutação→síntese)
+  5. Atribuir nível de evidência (A/B/C)
+
+FASE C — ESTRATÉGIA
+  1. Mapear veto players (Dimensão Contextual — quem são)
+  2. Aplicar teorias (Dimensão Epistemológica — por que resistem)
+  3. Calcular Monte Carlo (Dimensão Analítica — P de sucesso)
+  4. Escolher rota (Dimensão Metodológica — via executivo/judiciário)
+
+FASE D — EXECUÇÃO
+  1. Produzir documento (Dimensão Teleológica — responde à pergunta)
+  2. Verificar ética (Dimensão Ética — presunção, LGPD, fontes públicas)
+  3. Passar pelo Protocolo de Qualidade de 25 itens
+  4. Versionar (Git + protocolo TEIA-AAAA-NNN)
+  5. Protocolar/publicar/executar
+
+FASE E — MONITORAMENTO
+  1. Medir KPIs
+  2. Se hipótese era H1: verificar se evidência confirmou
+  3. Se H0 prevaleceu: reformular
+  4. Versionar resultado (sucesso ou fracasso)
+
+
+================================================================================
+POR QUE ISTO IMPORTA
+================================================================================
+
+A integração da Matriz de Investigação resolve 3 problemas do TEIA:
+
+PROBLEMA 1: VALIDADE EXTERNA
+  Sem matriz, o TEIA produz análises que fazem sentido internamente
+  mas não são reconhecidas por academia, imprensa ou instituições.
+  COM matriz, qualquer economista, cientista político ou juiz pode
+  avaliar o método e aceitar ou refutar as conclusões com base em
+  desenho reconhecido.
+
+PROBLEMA 2: REPRODUTIBILIDADE
+  Sem matriz, outro pesquisador não consegue replicar.
+  COM matriz, outro pesquisador pode seguir os mesmos passos e
+  chegar ao mesmo resultado. Isto é o ABC da ciência.
+
+PROBLEMA 3: DEFESA JURÍDICA
+  Se o TEIA for questionado judicialmente ("este dossiê é
+  difamatório"), a Matriz de Investigação demonstra que houve
+  MÉTODO CIENTÍFICO, não opinião arbitrária. Isto fortalece a
+  defesa: "a investigação seguiu desenho metodológico reconhecido
+  com triangulação de fontes, nível de evidência A/B e presunção
+  de inocência citada."
+
+A Matriz não é burocracia. É ESCUDO e MOTOR:
+  - Escudo: protege o TEIA de acusações de amadorismo ou difamação
+  - Motor: garante que cada investigação tem Coerência entre
+    pergunta, método e resposta
+
+
+================================================================================
+INTEGRAÇÃO COM AS 16 DIMENSÕES ANALÍTICAS
+================================================================================
+
+A Matriz de Investigação (6 dimensões formais) não substitui as
+16 dimensões analíticas da v3.1. Elas se COMPLEMENTAM:
+
+  MATRIZ FORMAL (COMO):       16 DIMENSÕES (O QUE ANALISAR)
+  Dim 1 Epistemológica    ←→  Teorias de ciência política, sociologia,
+                               antropologia, filosofia, psicologia
+  Dim 2 Teleológica       ←→  Objetivos específicos de cada investigação
+  Dim 3 Metodológica      ←→  Técnicas de coleta (OSINT, scraping, etc.)
+  Dim 4 Analítica         ←→  Estatística, simulação, discurso, GIS
+  Dim 5 Contextual        ←→  Geografia política, história, EPI
+  Dim 6 Ética             ←→  Direito brasileiro, presunção, LGPD
+
+A Matriz é o MOLDE. As 16 dimensões são o CONTEÚDO que preenche o molde.
+
+
+================================================================================
+NOVA SKILL (21)
+================================================================================
+
+SKILL 21: matriz-consistencia-investigacao
+  Input: tema de investigação
+  Output: matriz de 6 dimensões preenchida
+  Uso: OBRIGATÓRIO antes de iniciar qualquer coleta de dados
+  Template: preencher os 6 campos (epistemológico, teleológico,
+    metodológico, analítico, contextual, ético) + hipóteses H1/H0
+
+
+================================================================================
+FIM — TEIA Framework v3.2
+================================================================================
+Protocolo: TEIA-2026-047
+https://github.com/mouracleiton/TEIA
+================================================================================

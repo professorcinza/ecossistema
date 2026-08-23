@@ -1,0 +1,166 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-102
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Amplificação Instagram — 16 Problemas Endêmicos em 18 Carrosséis (162 slides)
+SUBTÍTULO: Transformação da inteligência analítica TEIA em narrativa visual viral
+STATUS: EXECUTADO (8 publicados, 10 agendados via cron)
+DATA: 20/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+PERSONA: Professor Cinza (cyberpunk hacker-terminal)
+================================================================================
+
+NOTA DE OPERAÇÃO
+---------------------------------------------------------------------------------
+Este protocolo registra a operação de amplificação que transformou os dossiês
+técnicos TEIA (TEIA-067 a TEIA-101) em carrosséis visuais para Instagram
+@professorcinza, no estilo hacker-terminal estabelecido.
+
+OBJETIVO: Levar os achados de inteligência da TEIA para o público geral através
+de narrativa visual de alto impacto, mantendo rigor factual e fontes verificáveis.
+
+================================================================================
+PARÂMETROS DA OPERAÇÃO
+================================================================================
+
+- Total de carrosséis gerados: 18 (3 saúde + 5 econômicos + 3 políticos + 7 sociais)
+- Total de slides: 162 (9 slides por carrossel)
+- Resolução: 1080×1350 px (Instagram portrait 4:5)
+- Estilo visual: hacker-terminal cyberpunk (dark bg #0a0e14, scanlines, glow)
+- Fontes: todas verificadas e cruzadas com dossiês TEIA originais
+- Idioma: PT-BR
+
+================================================================================
+MAPEAMENTO: PROBLEMA → CARROSSEL → COR → STATUS
+================================================================================
+
+FRENTE SAÚDE (P8):
+  P8.1  post1_trilhao         #ff3333 (red)    PUBLICADO ✓
+  P8.2  post2_veto_players    #ff6633 (orange) PUBLICADO ✓
+  P8.3  post3_maquina_captura #aa66ff (purple) PUBLICADO ✓
+
+FRENTE ECONÔMICA (P1-P5):
+  P1    post4_juros           #ffaa00 (amber)  PUBLICADO ✓
+  P2    post5_spread          #ff3333 (red)    PUBLICADO ✓
+  P3    post6_custobr         #ff6633 (orange) PUBLICADO ✓
+  P4    post7_tributos        #33ccaa (cyan)   PUBLICADO ✓
+  P5    post8_concentracao    #aa66ff (purple) PUBLICADO ✓
+
+FRENTE POLÍTICA (P6, P7, P16):
+  P6    post9_orcamento       #00ff41 (green)  AGENDADO (cron)
+  P7    post10_congresso      #4499ff (blue)   AGENDADO (cron)
+  P16   post11_pec            #ff3333 (red)    AGENDADO (cron)
+
+FRENTE SOCIAL (P9-P15):
+  P9    post12_agro           #33dd66 (green)  AGENDADO (cron)
+  P10   post13_bigtech        #33ccaa (cyan)   AGENDADO (cron)
+  P11   post14_fakenews       #ff6633 (orange) AGENDADO (cron)
+  P12   post15_carcere        #aa66ff (purple) AGENDADO (cron)
+  P13   post16_fome           #ff3333 (red)    AGENDADO (cron)
+  P14   post17_saneamento     #4499ff (blue)   AGENDADO (cron)
+  P15   post18_negativados    #ffaa00 (amber)  AGENDADO (cron)
+
+================================================================================
+URLs DOS POSTS PUBLICADOS (20/07/2026)
+================================================================================
+
+1.  https://www.instagram.com/p/DbBDQaKljAk/ — O Trilhão Que Desapareceu (Saúde)
+2.  https://www.instagram.com/p/DbBDjo_lpQP/ — Quem Lucra Com a Sua Doença (Saúde)
+3.  https://www.instagram.com/p/DbBD3YRlhHZ/ — A Máquina da Captura (Saúde)
+4.  https://www.instagram.com/p/DbBGaxslgxn/ — Juros da Dívida (Econ P1)
+5.  https://www.instagram.com/p/DbBGtZ9EYlY/ — Spread Bancário (Econ P2)
+6.  https://www.instagram.com/p/DbBJvD_EcvI/ — Custo Brasil (Econ P3)
+7.  https://www.instagram.com/p/DbBJ9dYkSjR/ — Conformidade Tributária (Econ P4)
+8.  https://www.instagram.com/p/DbBKP-kEZXE/ — Concentração Bancária (Econ P5)
+
+================================================================================
+ARQUITETURA DA OPERAÇÃO
+================================================================================
+
+1. EXTRAÇÃO (3 subagents em paralelo):
+   - Subagent Econômico: leu TEIA-086/087/088/089 + TEIA-004 + Mapa Soluções
+   - Subagent Político: leu TEIA-095 + TEIA-005 + TEIA-008 + TEIA-033
+   - Subagent Social: leu TEIA-090/091/092/093/094 + TEIA-034/036
+
+2. GERAÇÃO (scripts Python standalone):
+   - gen_economica.py → P1 (f-string direto) + P2-P5 (gen() helper)
+   - gen_politica.py → P6/P7/P16 (subagent)
+   - gen_social.py → P9-P15 (subagent)
+   - Padrão: page(accent, glow, host, status, body, num) + ob() + ib() + gen()
+
+3. RENDERIZAÇÃO:
+   - render_carousel.py (Chrome headless --headless=new, 2x supersample, resize)
+   - Verificação PIL: 162/162 PNGs 1080×1350, >100KB, 0 falhas
+
+4. PUBLICAÇÃO:
+   - opencli instagram post (Agent Reach / OpenCLI daemon)
+   - Batch: 90s spacing entre posts, max 8/dia
+   - Cron job 86f6b3592c6e: 3/dia às 12:00 até completar 10 restantes
+
+5. CAPTIONS:
+   - 18 arquivos caption_postN.txt em /home/kratos/saude_carousels/
+   - Estrutura: hook → números → atores → teorema → CTA → fontes → hashtags
+
+================================================================================
+DADOS-CHAVE EXTRAÍDOS (top 10 números de impacto)
+================================================================================
+
+1. R$ 950,4 bi/ano em juros = 1,49× Saúde+Educação+Segurança
+2. 1.501 horas/ano em impostos = 188 dias de trabalho perdidos
+3. 63 milhões de brasileiros negativados
+4. Itaú lucrou R$ 40,23 bi em 2024 (recorde)
+5. Top-4 bancos: 57,9% do mercado | Nubank: 4,8% (depois de 12 anos)
+6. Febraban gasta R$ 1,2 bi/ano para controlar a narrativa econômica
+7. Cartão rotativo a 380% a.a. — você deve 4,8× em 1 ano
+8. ICMS consome 53% da renda dos 20% mais pobres vs 10% dos 20% mais ricos
+9. 8,4 milhões de empregos formais perdidos em 5 anos por Custo Brasil
+10. 4,1 horas/dia em trânsito = 18% da jornada perdida
+
+================================================================================
+DIRETÓRIO DE OUTPUT
+================================================================================
+
+/home/kratos/saude_carousels/
+├── post1_trilhao/          (9 slides HTML + images/)
+├── post2_veto_players/     (9 slides HTML + images/)
+├── post3_maquina_captura/  (9 slides HTML + images/)
+├── post4_juros/            (9 slides HTML + images/)
+├── post5_spread/           (9 slides HTML + images/)
+├── post6_custobr/          (9 slides HTML + images/)
+├── post7_tributos/         (9 slides HTML + images/)
+├── post8_concentracao/     (9 slides HTML + images/)
+├── post9_orcamento/        (9 slides HTML + images/)
+├── post10_congresso/       (9 slides HTML + images/)
+├── post11_pec/             (9 slides HTML + images/)
+├── post12_agro/            (9 slides HTML + images/)
+├── post13_bigtech/         (9 slides HTML + images/)
+├── post14_fakenews/        (9 slides HTML + images/)
+├── post15_carcere/         (9 slides HTML + images/)
+├── post16_fome/            (9 slides HTML + images/)
+├── post17_saneamento/      (9 slides HTML + images/)
+├── post18_negativados/     (9 slides HTML + images/)
+├── gen_economica.py        (gerador P1-P5)
+├── gen_p3_p5.py            (gerador P3-P5)
+├── gen_politica.py         (gerador P6/P7/P16)
+├── gen_social.py           (gerador P9-P15)
+├── publish_batch.py        (publisher batch)
+├── cron_publish.sh         (cron state tracker)
+├── .publish_state          (estado: index 3)
+├── caption_post1.txt a caption_post18.txt
+└── captions_restantes.md   (backup legends)
+
+================================================================================
+CRON JOB
+================================================================================
+
+Job ID: 86f6b3592c6e
+Nome: TEIA Instagram Batch Publisher
+Schedule: 0 12 * * * (diário às 12:00)
+Estado: index 3 (publica P6, P7, P16 amanhã; depois 3/dia até completar)
+Auto-disable: quando index >= 13 (todos publicados)
+
+================================================================================
+PROTOCOLO TEIA-2026-102 | v1.0 | 20/07/2026
+Autor: Cleiton Moura (@professorcinza) — TEIA
+Repositório: https://github.com/mouracleiton/TEIA
+================================================================================

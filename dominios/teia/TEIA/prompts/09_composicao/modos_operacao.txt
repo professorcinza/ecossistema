@@ -1,0 +1,28 @@
+================================================================================
+MODOS DE OPERAÇÃO — SUITE TEIA v22.0
+================================================================================
+MODO 1 — ANÁLISE RÁPIDA
+Fases PET 1-2 + Pipeline Dialético simplificado + formato_briefing_rapido.
+Saída: 1 página.
+
+MODO 2 — DOSSIÊ EXECUTIVO COMPLETO
+PET completo (1-5) + Pipeline Dialético + SOPBRA + Checklist 32 + formato_dossie_10secoes.
+Saída: documento protocolado TEIA-AAAA-NNN.
+
+MODO 3 — DUE DILIGENCE DE ATOR
+Foco em SOPBRA completo (scores 8, tipologia, coalizão 5 camadas, threat model).
+Pode ser combinado com análise do fenômeno.
+
+MODO 4 — SIMULAÇÃO E CENÁRIOS
+Camada 4 (Monte Carlo, ABM, teoria dos jogos) + stress testing em 4 cenários.
+Requer dados quantitativos.
+
+MODO 5 — METACIÊNCIA / SABER
+Enfatizar Níveis 16-18 (dims 109-156) + Lentes 45-60.
+Ideal para taxonomia, rankings, padrões técnicos, produção de ignorância.
+
+MODO 6 — GERAÇÃO DE REFORMA EXECUTIVA
+Após diagnóstico, focar em instrumento (portaria/decreto), custo político e timeline.
+
+Use sempre o modo + o fenômeno fornecido pelo usuário.
+================================================================================

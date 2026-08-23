@@ -1,0 +1,782 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-069
+VERSÃO: v2.0 (atualizada 20/07/2026 com dados consolidados 2025 + parciais 2026)
+CATEGORIA: 02_MAPEAMENTO
+TÍTULO: Diagnóstico da Captura e Esgotamento do Sistema de Saúde Brasileiro
+STATUS: INTERNO — Análise de inteligência
+DATA: 19/07/2026 (v1.0) | ATUALIZAÇÃO: 20/07/2026 (v2.0)
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: ~50,000 bytes (atualizado)
+================================================================================
+
+NOTA DE ATUALIZAÇÃO v2.0 (20/07/2026):
+- Juros 2025: R$ 1.062,6 bi (8,34% PIB) — vs R$ 950,4 bi em 2024
+- DPF dez/2025: R$ 8,635 tri (+18%); projeção 2026: R$ 9,2-10,3 tri
+- LOA 2026 Saúde: R$ 271,3 bi (vs R$ 245 bi em 2025)
+- Selic: 14,25% (jul/2026, em queda desde pico de 15% em 2025)
+- Razão Juros/SUS: 3,91x (2026) — era 4,11x (2024)
+- Setor de planos 2025: R$ 391,6 bi receita / R$ 24,4 bi lucro (+120% RECORDE)
+- Mercado farmacêutico 2025: R$ 238,9 bi (+10,7%)
+- EMS comprou Medley (US$ 600 mi); Eurofarma receita recorde R$ 12,5 bi
+- PL 68/2026: licença compulsória de tirzepatida (Mounjaro) em regime de urgência
+- Fontes: Bacen, Tesouro, ANS, IQVIA, Valor, Neo Feed, Senado
+================================================================================
+
+================================================================================
+DIAGNÓSTICO TÉCNICO — CAPTURA E ESGOTAMENTO DO SISTEMA DE SAÚDE BRASILEIRO
+Elaborado para: Cleiton Moura / TEIA — Eixo prioridade #1: SAÚDE PÚBLICA
+Data de compilação: julho/2026
+Linguagem: técnico-jornalística, denso, com NOMES, VALORES (R$) e FONTES.
+================================================================================
+
+SÍNTESE EXECUTIVA
+--------------------------------------------------------------------------------
+O Sistema Único de Saúde (SUS) atende cerca de 75% da população brasileira
+(~160 milhões de pessoas) com um orçamento federal de R$ 271,3 bilhões em 2026
+(LOA sancionada em 15/01/2026) — vs R$ 245 bi em 2025 e R$ 222,9 bi em 2024.
+A União investiu apenas R$ 12,3 bilhões em novos investimentos em saúde em 2024
+(queda de 30% frente aos R$ 17,5 bilhões de 2023), segundo o Valor Econômico.
+Enquanto isso, o setor público consolidado pagou R$ 1.062,6 BILHÕES em JUROS da
+dívida pública em 2025 (Banco Central, Estatísticas Fiscais jan/2026) — recorde
+histórico, equivalente a 8,34% do PIB e aproximadamente 3,91x todo o orçamento
+federal da Saúde (LOA 2026). Em 2024 foram R$ 950,4 bi (8,05% PIB).
+
+O gasto público em saúde no Brasil é de ~3,96% do PIB (2023) — abaixo da média
+OCDE de 6,1% (regime público/obrigatório) e da meta OPAS de 6% até 2027. Medido
+per capita, o Brasil fica muito abaixo dos países desenvolvidos. O déficit
+anual estimado do SUS frente ao padrão OCDE é da ordem de R$ 150–200 bilhões.
+
+Este diagnóstico mapeia sete vetores estruturais de captura e esvaziamento:
+subfinanciamento deliberado, financeirização via planos, rentismo farmacêutico,
+captura institucional, judicialização, desigualdade racial/regional e ausência
+de política industrial de saúde. Cada vetor com atores nomeados.
+
+Fontes primárias cruzadas: Banco Central (Estatísticas Fiscais), Tesouro
+Nacional, Ministério da Saúde, ANS, ANVISA/CMED, CNJ, IBGE, Conass, Conasems,
+IEPS, IPEA, SciELO, SCieloSP, Valor Econômico, O Globo, G1, Forbes Brasil,
+Brazil Journal, InfoMoney, TCU.
+
+================================================================================
+1. ARQUITETURA DO SUS E SEU SUBFINANCIAMENTO ESTRUTURAL
+================================================================================
+
+1.1 — Desenho federativo e financeiro
+--------------------------------------------------------------------------------
+- SUS criado pela Constituição de 1988 (art. 196 a 200), regulamentado pelas
+  Leis 8.080/1990 e 8.142/1990. Universal, gratuito, dever do Estado.
+- Financiamento TRIPARTITE: União + Estados + Municípios. A União aporta a
+  maior fatia federal; estados e municípios aplicam percentuais mínimos
+  constitucionais (12% da arrecadação nos municípios; 12% nos estados; 15% da
+  União sobre a receita corrente líquida — após EC 29/2000).
+- Apesar da norma, municípios arcam com parcela crescente do custeio: em 2025 o
+  Ministério da Saúde tinha ~R$ 246 bilhões, mas a despesa TOTAL com saúde no
+  Brasil (pública + privada) gira em torno de 9–10% do PIB.
+
+1.2 — Orçamento federal da Saúde (série recente) — ATUALIZADO v2.0
+--------------------------------------------------------------------------------
+- 2023: ~R$ 213 bilhões (ação orçamentária do Ministério da Saúde)
+- 2024 (LOA sancionada): R$ 222,9 bilhões (Valor Econômico, 27/08/2024).
+  Investimento caiu 30%: de R$ 17,5 bi (2023) para R$ 12,3 bi (2024).
+- 2025 (LOA): R$ 245 bilhões (Senado Notícias, 14/04/2025).
+- 2026 (LOA sancionada 15/01/2026): R$ 271,3 BILHÕES (+11% vs 2025).
+  PLOA original previa R$ 245,6 bi; Congresso elevou para R$ 254,9 bi (acima
+  do mínimo constitucional em R$ 7,4 bi); após sanção com vetos: R$ 271,3 bi.
+  LOA 2026 total da União: R$ 6,54 tri.
+- Farmácia Popular sofreu corte de 28% no PLOA 2025: orçamento caiu para
+  R$ 4,2 bilhões (UOL Economia, 12/09/2024).
+- Emendas parlamentares orçamento 2026: R$ 61 bi (R$ 49,9 bi Congresso +
+  R$ 11,1 bi Executivo). Parte significativa vai para saúde municipal.
+
+1.3 — Comparação internacional (OCDE)
+--------------------------------------------------------------------------------
+- Brasil: gasto PÚBLICO em saúde = 3,96% do PIB em 2023 (Painel Saúde/IEPS).
+- Média OCDE (gasto público/compulsório): 6,1% do PIB.
+- Padrão OCDE total (público + privado): ~6,5–8,5% do PIB.
+- Meta OPAS para o Brasil: 6% do PIB até 2027 — meta descumprida com folga.
+- Em valores per capita (PPP), Brasil gasta ~US$ 900/ano/hab; média OCDE
+  ~US$ 4.000/ano/hab. Diferença: 4,4x.
+- DÉFICIT ANUAL do SUS vs padrão OCDE: estimado entre R$ 150 e R$ 200 bilhões
+  por ano (estudos Fiocruz, IEPS, Abrasco).
+
+1.4 — Juros da dívida x orçamento da Saúde (o vetor central) — ATUALIZADO v2.0
+--------------------------------------------------------------------------------
+- 2025: setor público consolidado pagou R$ 1.062,6 BILHÕES em juros NOMINAIS da
+  dívida (Banco Central, Estatísticas Fiscais, 30/01/2026). Recorde histórico.
+  Equivale a 8,34% do PIB. Em 2024: R$ 950,4 bi (8,05% PIB). Alta de 12%.
+- Dívida Pública Federal (DPF): R$ 6,52 tri (2023) → R$ 7,316 tri (2024) →
+  R$ 8,635 TRI (dez/2025), alta de 18% (Tesouro Nacional, 29/01/2026).
+  Projeção PAF 2026: R$ 9,2 a 10,3 tri. Composição: DPMFi R$ 8,31 tri (96,22%);
+  DPFe R$ 326 bi (3,78%).
+- Dívida Bruta do Governo Geral (DBGG): 78,7% do PIB em 2025 (~R$ 10 tri).
+  Projeção IFI: 82,4% em 2026.
+- Déficit nominal 2025: R$ 1,06 tri (8,34% do PIB). Déficit primário: R$ 55 bi
+  (0,43% PIB). Em 12m até mar/2026: déficit nominal sobe para 9,41% do PIB.
+- SELIC: esteve em 15,0% a.a. durante 2025 (maior nível em quase 20 anos).
+  Em julho/2026: 14,25% a.a. (Copom, 17/06/2026 — 3º corte consecutivo).
+- RELAÇÃO CHAVE (2026): R$ 1.062,6 bi em juros / R$ 271,3 bi LOA Saúde
+  = 3,91 VEZES. Cada R$ 1 posto na Saúde corresponde a R$ 3,91 pago em juros.
+- A política monetária DRENA capacidade fiscal para saúde. A Selic é decisão
+  de política econômica, não fatalidade.
+
+1.5 — Despesa obrigatória vs discricionária
+--------------------------------------------------------------------------------
+- EC 95/2016 (Teto de Gastos / "PEC 55") congelou despesas primárias da União
+  por 20 anos (2017–2036), corrigidas apenas pela inflação (IPCA).
+- Saúde e educação NÃO foram excluídas do teto — sofrem compressão contínua.
+- Como a saúde tem parcela OBRIGATÓRIA (15% da RCL) e parcela DISCRICIONÁRIA
+  (investimentos, programas novos), o teto esmaga exatamente o investimento:
+  isso explica os -30% nos investimentos entre 2023 e 2024.
+- PEC Emergacional (EC 109) cria "gatilhos" quando despesas obrigatórias
+  ultrapassam 95% das primárias — situação já comum, o que de fato reduz
+  espaço para Saúde discricionária.
+- Em 2024, ~19,5% de toda a despesa discricionária da União foi alocada via
+  EMENDAS parlamentares (Politiquei).
+
+1.6 — Emendas parlamentares à Saúde (a "SUS-ificação do orçamento discricionário")
+--------------------------------------------------------------------------------
+- Total de emendas parlamentares 2024: R$ 44,67 bilhões (Câmara dos Deputados /
+  Portal Novo Norte). Maior parcela foi para SAÚDE e transferências a municípios.
+- 2016 → 2023: emendas à saúde saltaram de R$ 5,7 bi para R$ 22,9 bi — já
+  SUPERANDO o orçamento discricionário do próprio Ministério da Saúde (Outras
+  Palavras, "A tragédia do SUS financiado por emendas").
+- Cerca de 63% das liberações de emendas em 2024 foram para Saúde (~R$ 45 mi em
+  pacote específico de R$ 72 mi divulgado pela Casa Civil).
+- PROBLEMA DE GOVERNANÇA: emendas individuais e de bancada destinam recursos
+  sem planejamento sanitário; viram moeda eleitoral, calendário eleitoral e
+  instrumento de fisiologismo. Concentram-se em obras visíveis (UPAs, postos),
+  equipamentos (tomógrafos, ambulâncias) e custeio — sem avaliação de impacto.
+- Emendas do "orçamento secreto" (emendas de relator / RP-9) e "Pix" (emendas
+  individuais com execução obrigatória) aprofundaram a captura parlamentar do
+  SUS desde 2022.
+
+FONTES 1: BC Estatísticas Fiscais (31/01/2025); Tesouro Nacional DPF; Valor
+Econômico 27/08/2024; Poder360; UOL Economia 12/09/2024; EC 95/2016 e EC 109;
+Portal Novo Norte; Outras Palavras; Politiquei; IEPS; Fiocruz/Abrasco.
+
+================================================================================
+2. PLANOS DE SAÚDE E A INDÚSTRIA DA DOENÇA
+================================================================================
+
+2.1 — Tamanho do mercado de saúde suplementar — ATUALIZADO v2.0
+--------------------------------------------------------------------------------
+- Beneficiários em planos médico-hospitalares: 53,18 milhões (pico histórico
+  dez/25, ANS). Abril/26: 52,96 milhões (-0,17%). Incluindo odontológicos: ~73 mi.
+- Crescimento: 49 mi (2021) → 50,7 mi (2023) → 52,2 mi (2024) → 53,18 mi (2025).
+- RECEITA TOTAL DO SETOR 2025: R$ 391,6 BILHÕES (ANS, 17/03/2026).
+- LUCRO LÍQUIDO DO SETOR 2025: R$ 24,4 BILHÕES (+120% — RECORDE HISTÓRICO).
+- MARGEM MÉDIA: 6,2%. SINISTRALIDADE MÉDIA: 81,7% (-2,0 p.p.).
+- Cerca de 25% da população (a parcela de maior renda) detém plano; os 75%
+  restantes dependem EXCLUSIVAMENTE do SUS.
+
+2.2 — Lucro das operadoras (resultados 2023–2024)
+--------------------------------------------------------------------------------
+- HAPVIDA NOTREDAME INTERMÉDICA (HAPV3) — maior operadora da América Latina,
+  6,1 milhões de clientes médico-hospitalares (+ 2,8 mi odontológicos):
+  * Receita líquida 2023: R$ 27,4 bilhões (+10,1% vs 2022)
+  * Lucro líquido AJUSTADO 2024: R$ 1,836 bilhão (+170,3% vs 2023) — DGABC
+  * Em 2023 havia revertido prejuízo de R$ 828,4 mi (2022)
+  * Receita líquida 2025: R$ 30,86 bilhões (+6,6%) — UOL
+  * No 4T25: prejuízo de R$ 29,1 mi (revertendo lucro de R$ 167 mi do 4T24)
+  * Dívida líquida 4T25: R$ 5,18 bilhões
+- UNIMED — sistema cooperativista, líder em beneficiários: 20,5 milhões
+  (presidente Omar Abujamra Junior). Unimed Brasil opera como "macro-
+  franqueadora"; cada singulares tem demonstrativos próprios. Lucro agregado
+  do Sistema Unimed estimado em R$ 4–6 bilhões/ano.
+- SULAMÉRICA (agora controlada pela RD Saúde / tida como "RaiaDrogasil + 
+  SulAmérica" após a fusão com a RD Saúde em 2022) — operadora de planos
+  premium; lucros históricos na casa dos R$ 1 bi/ano.
+- BRADESCO SAÚDE (Grupo Bradesco Seguros) — operou até 2024 como líder em
+  grandes contas corporativos. Foi incorporada à NOTRE DAME em 2021/2022.
+- AMIL (UnitedHealth Group / Optum desde 2012) — operadora de capital
+  americano; foco em grandes corporações.
+- MATER DEI (MTDI3) — operadora do sul, reverteu prejuízo em 2024 (LinkedIn).
+
+2.3 — Negativa de cobertura e o "Rol da ANS"
+--------------------------------------------------------------------------------
+- O Rol de Procedimentos e Eventos em Saúde da ANS define cobertura mínima
+  obrigatória. Lei 14.454/2022 transformou o Rol em EXEMPLIFICATIVO (não mais
+  taxativo) — vitória parcial dos consumidores após years de batalha.
+- Negativas comuns: tratamento oncológico off-label, quimioterápicos de alto
+  custo, próteses, órteses, psicoterapia, procedimentos experimentais.
+- Em 2024, ANS notificou mais de 300 operadoras (~30% do mercado) por baixo
+  desempenho na completude TISS X DIOPS ano-base 2023 (Blendus).
+- STF fixou tese no Tema 6 (RE 657.718): em casos excepcionais, juiz pode
+  determinar cobertura de tratamento fora do Rol (julgado em 2020). Em outubro
+  de 2024, STF estabeleceu critérios para medicamentos NÃO incorporados ao SUS,
+  reconhecendo que judicialização excessiva compromete o SUS (ConJur).
+
+2.4 — Reajustes abusivos
+--------------------------------------------------------------------------------
+- Reajuste ANS planos individuais/familiares: 6,91% (2024); 6,06% para o
+  ciclo maio/2024–abril/2025 (ANS).
+- Planos COLETIVOS (empresariais): SEM teto da ANS — reajustes de 15% a 30%
+  ao ano são comuns; casos reportados de até 50% em grupos com alta
+  sinistralidade (idosos, doenças crônicas).
+- Reajuste por IDADE (cláusula de "idade limite"): em contratos antigos (antes
+  da Lei 9.656/1998), idosos podem sofrer reajuste de até 6x ao completar 60
+  anos — prática judicializada, mas ainda vigente em contratos antigos.
+- Sinistralidade: operadoras reportam 78–82% de sinistralidade em 2024 (alta
+  pós-pandemia), o que justifica pedidos de reajuste ao COPAP da ANS.
+
+2.5 — Tabela SUS x Tabela Planos (distorção de preços)
+--------------------------------------------------------------------------------
+- Tabela SUS (SIGTAP) paga, por exemplo:
+  * Consulta médica em atenção primária: R$ 3,50 a R$ 7,00
+  * Consulta com especialista: R$ 15 a R$ 35
+  * Hemodiálise (sessão): ~R$ 130
+  * Parto normal: ~R$ 380
+  * Cesariana: ~R$ 530
+  * Ressonância magnética: ~R$ 180 a R$ 250
+- Tabela planos (CDT — Classificação Demográfica de Tabelas) paga:
+  * Consulta especialista: R$ 120 a R$ 350
+  * Ressonância magnética: R$ 600 a R$ 1.500
+  * Parto cesariana: R$ 2.500 a R$ 5.000
+- RESULTADO: prestadores privados priorizam pacientes de plano; o SUS vira
+  "escola" para médicos recém-formados ou "hospital-escola" em grande centro.
+  O mesmo procedimento paga 5x a 10x mais no privado que no público.
+
+2.6 — ANS: agência capturada?
+--------------------------------------------------------------------------------
+- Indicados pelo governo Lula (dezembro/2024) para diretoria da ANS e Anvisa:
+  Wadih Damous (deputado federal PT-RJ, presidente da CPI da Pandemia) para a
+  ANS; e outros indicados de perfil político (Futuro da Saúde, 17/12/2024).
+- A estrutura da ANS é de carreira de servidores técnicos (TÉCNICOS), mas a
+  DIRETORIA é nomeada politicamente.
+- Crítica recorrente (Legismap): "cúmulo da captura da ANS" — diretoria
+  aprovada sem debate técnico, alinhada com o MES (Movimento Empresarial pela
+  Saúde), CNI, sindicatos patronais (Sindiplanos).
+- Composição do Conselho de Saúde Suplementar (CONSU): maioria de
+  representantes das operadoras; consumidores têm cadeira minoritária.
+- A ANS é financiada pela TAXA DE FISCALIZAÇÃO paga PELAS OPERADORAS — relação
+  de conflito de interesse estrutural.
+- ANS não regula reajuste de planos coletivos; não tem poder de breaking up de
+  monopólios regionais; sequer consegue obrigar cumprimento de prazos máximos
+  de consulta/exame.
+
+FONTES 2: ANS (gov.br/ans); Hapvida NotreDame ITR/DFP 4T24 (DGABC, InfoMoney,
+UOL, Brazil Journal); Plurall; SEGS; ANAFE; Futuro da Saúde; Legismap; Blendus;
+ConJur; O Globo 07/02/2025; Painel Saúde; MeuReajuste; LinkedIn; Valor.
+
+================================================================================
+3. BIG PHARMA E MEDICAMENTOS
+================================================================================
+
+3.1 — Tamanho do mercado farmacêutico brasileiro — ATUALIZADO v2.0
+--------------------------------------------------------------------------------
+- FATURAMENTO TOTAL DO SETOR 2025: R$ 238,9 BILHÕES (+10,7% vs R$ 216 bi em 2024).
+  (IQVIA: R$ 243 bi com metodologia ampliada).
+- VAREJO FARMACÊUTICO 2025: R$ 128,6 BILHÕES (+12%). Destaque: canetas
+  emagrecedoras (Mounjaro/Ozempic/Wegovy — vendas cresceram 7x no Brasil).
+- MERCADO DE GENÉRICOS 2025: R$ 23 bilhões (+13,4%), ~40% do total.
+- Laboratórios NACIONAIS dominam 72% do mercado (13 dos 20 maiores são BR).
+- Projeção IQVIA jun/26: R$ 23,6 bi no mês (+10,3% vs jun/25).
+- Brasil entre os 10 maiores mercados farmacêuticos do mundo.
+- Fontes: Jornal da Fronteira (04/2026), IQVIA, Politiza Brasil, PróGenéricos.
+
+3.2 — Maiores laboratórios (faturamento BR 2023–2024)
+--------------------------------------------------------------------------------
+MULTINACIONAIS (operam Brasil + global):
+- JOHNSON & JOHNSON — receita GLOBAL 2024: US$ 88,8 bilhões (campeã mundial,
+  Executivos da Saúde/Fierce Pharma). No Brasil, divisão farmacêutica (Janssen)
+  fatura estimados R$ 6–8 bilhões/ano.
+- ROCHE — US$ 68,4 bilhões global (2ª mundial).
+- PFIZER — US$ 63,9 bilhões global (3ª mundial). No Brasil, ainda lucra com
+  patentes de anticoagulantes (Eliquis), vacinas, oncologia.
+- MERCK (MSD) — US$ 60,1 bilhões global.
+- Outros relevantes no Brasil: GSK, Bayer, Sanofi, AstraZeneca, Novartis,
+  Novo Nordisk, AbbVie, Lilly.
+
+NACIONAIS (capital brasileiro):
+- EMS — maior laboratório nacional; maior produtor de genéricos do país.
+  Disputou fusão com Hypera em 2024; em 2026 comprou a marca Medley da Sanofi
+  (G1, 06/03/2026). Possui fábricas em Hortolândia, Manaus, Brasília,
+  Jaguariúna. Faturamento estimado: ~R$ 11 bilhões/ano.
+- HYPERA PHARMA (HYPE3) — 2ª maior nacional; receita líquida trimestral na
+  casa de R$ 1,5–2,2 bilhões. Lucro líquido 4T24 ajustado: R$ 79,5 mi
+  (-74,2% vs 4T23 — queda operacional). No 2T24 lucrou R$ 491,8 mi. Valor de
+  mercado: ~R$ 17,1 bilhões (2024). Em 2024, EMS propôs fusão; conselho da
+  Hypera rejeitou por unanimidade (Brazil Journal).
+- EUROFARMA — capital nacional (Monteiro Aranha Group), faturamento estimado
+  ~R$ 10,67 bilhões (Portal Insights, disputa acirrada com EMS pelo 1º lugar).
+- MEDLEY (Sanofi) — adquirida pela EMS em 2026 (G1).
+- GEOLAB, ACHÉ, BRADESCO Farmácia — players médios.
+
+3.3 — Patentes e bloqueio de genéricos
+--------------------------------------------------------------------------------
+- ANVISA concede patentes (Lei 9.279/1996 — PI pós-1996); Brasil passou a
+  reconhecer patente de PRODUTO farmacêutico após TRIPS (1995/1996).
+- ANVISA atua em "duplo exame" (Patente + Vigilância Sanitária) até 2021,
+  quando governo extinguiu a reserva de mercado (Lei 14.200/2021). Efeito:
+  patentes passam a ser examinadas apenas pelo INPI — mais favorável à
+  indústria.
+- Patentes de "semprega" (evergreening): pequenas modificações estendem
+  monopólio de 20 anos indefinidamente. Casos notórios: Pfizer (Lyrica),
+  AstraZeneca (Crestor/Symbicort), GSK (Seretide/Valtrex), Eli Lilly (Cialis),
+  AbbVie (Humira), Janssen (Stelara).
+- LEI 10.196/2001 permite Bolar (uso de patente para registro de genérico
+  antes do vencimento) e Licença Compulsória (Lei 9.279, arts. 68–74).
+- LICENÇA COMPULSÓRIA executada 1 vez na história: Efavirenz (Stocrin,
+  Merck) em 2007, governo Lula, para HIV/AIDS — reduziu custo de US$ 1,59/
+  comprimido para US$ 0,45 (farmanguinhos/FioCruz). Salvo: pandemia COVID
+  deixou de usar, mesmo com pressão internacional.
+
+3.4 — Compras do SUS e o Componente Especializado (CEAF)
+--------------------------------------------------------------------------------
+- CEAF (Componente Especializado da Assistência Farmacêutica): financia
+  medicamentos de alto custo para doenças crônicas/raras (HIV, hepatite C,
+  esclerose múltipla, artrite reumatoide, câncer, etc.).
+- Portaria GM/MS nº 3.191 (21/02/2024) e nº 3.688 (02/05/2024): repasses
+  trimestrais para estados e DF. Tabela de Procedimentos, Medicamentos, Órteses
+  e Próteses (SIGTAP) define o que é custeado.
+- GASTO FEDERAL com medicamentos do SUS: ~R$ 20 bilhões/ano (estimativa
+  consistente do Ministério da Saúde). O CEAF é o componente com MAIOR impacto
+  no gasto federal ambulatorial (Repositório PGSS).
+- Componente BÁSICO da Assistência Farmacêutica: R$ 1 bi/ano (Portaria GM/MS
+  nº 1.556/2008, per capita).
+- Componente ESTRATÉGICO: tuberculose, hanseníase, antirretrovirais (HIV),
+  vacinas, insulina, hipertensão/diabetes — financiado integralmente pela
+  União. ANTIRRETROVIRAIS sozinhos consomem ~R$ 1,5 a 2 bi/ano.
+
+3.5 — Precificação: preço de fábrica (PF) vs preço consumidor (PMC)
+--------------------------------------------------------------------------------
+- CMED (Lei 10.742/2003) define:
+  * PREÇO FÁBRICA (PF): preço do laboratório para distribuidor/farmácia.
+  * PREÇO MÁXIMO AO CONSUMIDOR (PMC): preço final — inclui:
+    - PF (indústria)
+    - Margem de distribuição (~6,5% a 9%)
+    - Margem de varejo (~33% a 38%)
+    - ICMS (17% a 21% por estado, conforme alíquota)
+    - PIS/COFINS
+- Exemplo típico: medicamento de PF R$ 10,00 chega ao consumidor por R$ 19–22.
+- Reajuste ANUAL da CMED: ~3,81% em 2025 (O Povo, 31/03/2026), acima do IPCA
+  cheio. Aumento vem desde 2003; nunca houve REDUÇÃO geral de preços.
+- Fator C (categoria de consumo): 1,0 para mercado privado; 0,72 para SUS; 0,54
+  para SUS com produção pública (Farmanguinhos, Biomanguinhos). Mesmo assim,
+  multinacionais muitas vezes optam por NÃO vender ao SUS, privilegiando
+  mercado privado de maior margem.
+
+3.6 — CMED capturada? — ATUALIZADO v2.0
+--------------------------------------------------------------------------------
+- CMED é vinculada à ANVISA. Composição: representantes de ANVISA, ANS,
+  Ministério da Saúde, Fazenda, Casa Civil + representantes da INDÚSTRIA
+  (Interfarma, Sindusfarma, Abimed, Alana) com assento no comitê.
+- REAJUSTE ANUAL 2026 (Resolução CM-CMED nº 4/2026, 31/03/2026): MENOR EM
+  20 ANOS. Nível 1: até 4,6%; Nível 2: ~3,25%; Nível 3: até 1,9%.
+  Fator X (produtividade): 2,683% (acima do ciclo anterior).
+  Reajuste médio efetivo projetado: ~2,2% (abaixo da inflação geral).
+- NOVA METODOLOGIA DE PREÇO DE ENTRADA (Resolução CM/CMED nº 3/2025, em vigor
+  a partir de abril/2026): substitui regras desde 2004.
+  AVANÇO: retirada de exigência de PATENTE para categorias de preço mais
+  elevado. Recuo: MANTÉM EUA e Japão como países de referência.
+- CRÍTICAS DO IDEC (jan/2026): "risco de aumento de preços e captura da
+  CMED pela indústria". Confidencialidade de acordos de compartilhamento
+  de riscos amplifica assimetria informacional.
+- Governo endureceu em 29/05/2026 (G1): "preço de lançamento não poderá
+  superar o menor valor cobrado em países de referência."
+- Multas raras e baixas: em 03/2026, CMED multou distribuidoras por práticas
+  anticoncorrenciais; proposta de permitir laboratórios ofertarem DIRETAMENTE
+  ao Poder Público (sem distribuidor) em licitações.
+- Fontes: ANVISA, Idec (30/01/2026), Gazeta Mercantil (26/03/2026), G1.
+
+3.7 — Relevância econômica: quê custa o SUS em medicamentos
+--------------------------------------------------------------------------------
+- ~R$ 20 bilhões/ano (todas as componentes somadas).
+- ~9–10% do orçamento federal da Saúde.
+- ANTIRRETROVIRAIS (HIV): R$ 1,5–2 bi/ano.
+- INSULINAS: ~R$ 400–600 mi/ano.
+- Combate à HEPATITE C (Sofosbuvir/Sovaldi da Gilead): custo histórico de
+  US$ 84 mil/tratamento — Brasil negociou ~US$ 6.500, mas ainda alto.
+- VACINAS: programa nacional custa ~R$ 4–5 bi/ano; pandemia COVID drenou
+  orçamento adicional de R$ 30 bi+ (2021–2022).
+
+FONTES 3: Instituto Viva; Executivos da Saúde; Fierce Pharma; G1 06/03/2026;
+Brazil Journal; Suno; DGABC; BPMoney; Portal Insights; ConJur; A Crítica MS;
+Conass Informa 39 e 76/2024; Repositório PGSS; ANVISA; Simtax; Lei 9.279/1996;
+Lei 10.742/2003; Lei 14.200/2021; Lei 10.196/2001.
+
+================================================================================
+4. CAPTURA INSTITUCIONAL DO SUS
+================================================================================
+
+4.1 — Ministério da Saúde: nomeações políticas
+--------------------------------------------------------------------------------
+- Ministério da Saúde é cargo político; o ministro (atual: Nísia Trindade,
+  desde 01/2023) traz estrutura de secretários, coordenadores e DAS (cargos
+  em comissão) por composição partidária.
+- Secretaria de Atenção Primária (SAPS), Secretaria de Ciência Tecnologia e
+  Insumos (SCTIE), Conitec (Comissão Nacional de Incorporação de Tecnologias
+  no SUS), ANVISA, ANS — todas nomeadas politicamente.
+- Indicação de Wadih Damous (PT-RJ) para diretoria da ANS em 2024 é exemplo
+  do padrão: cargo de agência reguladora entregue a parlamentar aliado.
+- Conitec (criada pela Lei 12.401/2011): avalia tecnologias em saúde para
+  incorporação ao SUS. Composta por técnicos + representantes da sociedade +
+  indústria. Crítica: pode demorar ANOS para incorporar medicamento.
+
+4.2 — CONASS / CONASEMS (Colegiados federativos)
+--------------------------------------------------------------------------------
+- CONASS (Conselho Nacional de Secretários de Saúde): reúne os 27 secretários
+  estaduais. Define com a União a alocação de recursos do SUS via CIT
+  (Comissão Intergestores Tripartite).
+- CONASEMS (Conselho Nacional de Secretários Municipais de Saúde): reúne
+  secretários dos 5.570 municípios.
+- COSEMS: instância estadual do CONASEMS.
+- Estes colegiados têm poder de BARGANHA sobre alocação de R$ 200+ bilhões
+  anuais — e funcionam como "lobbies institucionais" dos entes subnacionais.
+- Nota conjunta CONASS + CONASEMS + COMSEFAZ (2024): pressionaram pela
+  não-contabilização do Piso da Enfermagem no SUS — problema de financiamento
+  recorrente.
+- RISCO: em Estados/municípios com baixa capacidade técnica, secretarias de
+  saúde ficam reféns de quadrilhas políticas; o SUS municipalizado é território
+  de captura local (PMs, vereadores, "donos de ambulâncias", "dono de
+  farmácia").
+
+4.3 — Licitação de equipamentos médicos (tomógrafos, ressonância, combos)
+--------------------------------------------------------------------------------
+- Tabela SUS para imagem é ridícula: R$ 180–250 por ressonância. Equipamento
+  novo custa R$ 2 a 5 milhões. Apenas escala + fluxo constante justifica o
+  investimento — risco de cartelização.
+- CASOS:
+  * 13 tomógrafos doados pela ONU ao SUS (escritório UNOPS) — modelo
+    alternativa à licitação clássica (ONU Brasil).
+  * Novo PAC Saúde 2026: R$ 42 milhões para 6 tomógrafos + 19 combos
+    cirúrgicos no Ceará (O Povo, 09/06/2026).
+  * 10 tomógrafos para Norte de MG: R$ 9,2 milhões (G1, 01/12/2021).
+  * Grande Florianópolis: 3 tomógrafos públicos; apenas 1 funcionando
+    (NSC Total, 2024) — símbolo do sucateamento.
+- SINDICÂNCIAS e operações da Polícia Federal recorrentes: "Operação
+  Sangria", "Operação Hipo Crático", "Operação Antídoto" — esquemas de
+  super faturamento de hemoderivados, morphinas, equipamentos hospitalares.
+- Concentração de mercado em importadores: Philips, GE Healthcare, Siemens
+  Healthineers controlam ~80% do mercado de imagem de alta complexidade.
+
+4.4 — Organizações Sociais (OS) gerindo hospitais públicos
+--------------------------------------------------------------------------------
+- Lei 9.637/1998 criou as OS; gestão por contratos de gestão (não de
+  prestação de serviços), com repasse de recurso público + liberdade
+  administrativa (sem licitação para compras, sem concurso para RH).
+- São Paulo é o laboratório: SP possui o maior parque de OS do país.
+  Hospitais como Vila Santa Catarina, M'Boi Mirim, Darcy Vargas, Heliópolis
+  (Brasil 247) — geridos por OS.
+- OS MAIS CONHECIDAS: IBCC (Instituto Brasileiro de Controle do Câncer),
+  ABLE, Fundação Zerbini, SPDM (Associação Paulista para o Desenvolvimento
+  da Medicina — ligada à UNIFESP), Santa Marcelina, OBORÉ.
+- No RIO: OS HMTJ (Instituto D'Or) geriu o Rocha Faria com R$ 260 milhões em
+  6 meses (O Dia, 20/01/2016). Hospital Albert Einstein administra o
+  Vila Santa Catarina (São Paulo).
+- REDE D'OR São Luiz (empresa de capital privado, controlada pelo Banco BTG
+  Pactual / Nelson Tanure / Carlyle): maior rede de hospitais privados da
+  América Latina; capturou contratos de gestão de hospitais públicos em
+  vários municípios.
+
+4.5 — PROADI-SUS: renúncia fiscal para "filantropia"
+--------------------------------------------------------------------------------
+- PROADI-SUS (Programa de Apoio ao Desenvolvimento Institucional do SUS):
+  criado em 1998 (Lei 9.991/2000 e MPs). Hospitais ditos filantrópicos —
+  Albert Einstein, Sírio-Libanês, Hospital do Coração (HCOR), Moinhos de
+  Vento (RS), Oswaldo Cruz (SP) — "investem" em projetos do SUS em troca de
+  ISENÇÃO FISCAL (IS, CSLL, PIS, COFINS sobre o lucro).
+- EM 2013: R$ 25,4 bilhões em renúncia fiscal total na saúde (LinkedIn,
+  Roberta Spyrides); proporção cresceu desde então.
+- Einstein recebeu, em um único contrato, R$ 363 milhões do SUS por
+  "serviços" (Metrópoles, coluna Guilherme Amado) — acima do orçamento de
+  hospitais públicos inteiros.
+- "Eles comem o SUS recebendo renúncia fiscal e como organizações sociais,
+  gerindo hospitais públicos" — Portal do Holanda/Notícias ao Minuto.
+- OS PROJETOS do PROADI são "construídos pelos hospitais em conjunto com o
+  Ministério da Saúde, CONASS, CONASEMS" — governança fechada (Hospitais
+  PROADI-SUS, site oficial).
+- Crítica de Henrique Prata (criador do HC de Barretos): "não se vê quais os
+  benefícios desses projetos. Onde estão as pesquisas?" (Abrale).
+
+4.6 — ONGs e "terceiro setor" na ponta
+--------------------------------------------------------------------------------
+- Centenas de ONGs operam na ponta do SUS: distribuição de medicamentos,
+  "ações educativas", transporte sanitário. Recebem recursos via emendas
+  parlamentares — many sem concurso público, sem transparência, sem licitação.
+- Patrão local ("coronel sanitário") + vereador + secretário municipal +
+  dono de ambulância = esquema clássico de captura municipal do SUS.
+
+4.7 — Emendas parlamentares: para onde vão
+--------------------------------------------------------------------------------
+- IEPS (2023): "Emendas Parlamentares em Saúde: para onde caminham" —
+  mostra que recursos foram progressivamente direcionados ao PAGAMENTO DE
+  DESPESAS CORRENTES (folha, luz, aluguel) em detrimento de investimento.
+- Concentração geográfica: emendas individuais miram bases eleitorais
+  (não prioridades epidemiológicas).
+- Concentração setorial: UPA, ambulância, tomógrafo, reforma de posto —
+  alto valor eleitoral, baixo impacto sistêmico.
+- Falta de monitoramento: o TCU tem alertado repetidamente para ausência
+  de avaliação de efetividade das emendas à saúde.
+
+FONTES 4: Brasil 247; Portal do Holanda; Notícias ao Minuto; Metrópoles;
+O Dia; Abrale; SciELO (organizações sociais SP); Lei 9.637/1998; Futuro da
+Saúde; IEPS; TCU Lista de Alto Risco; O Povo; G1; NSC Total; ONU Brasil.
+
+================================================================================
+5. JUDICIALIZAÇÃO DA SAÚDE
+================================================================================
+
+5.1 — Quantidade de processos
+--------------------------------------------------------------------------------
+- CNJ (2024): 162.046 processos de saúde pública em 1ª instância — aumento
+  de 110,9% vs os 76.836 de 2020 (TodoDia News, Agência Brasil).
+- Incluindo planos de saúde: O Globo (07/02/2025) reporta que o número de
+  AÇÕES contras operadoras dobrou em 3 anos (2021–2024).
+- Em 2024, prefeitura de São Paulo publicou "Relatório Anual da
+  Judicialização da Saúde 2024" (Coleta SP).
+- Brasil tem estoque estimado em 1,5 milhão de processos judiciais de saúde
+  (ativos + arquivados) na última década.
+
+5.2 — Custo da judicialização para o SUS
+--------------------------------------------------------------------------------
+- Em ESTADOS, judicialização representa até 1/3 do gasto com medicamentos
+  (TodoDia News, referência a CNJ).
+- ESTIMATIVAS: R$ 5 a 10 bilhões/ano em execução de sentenças contra o SUS
+  (medicamentos, insumos, cirurgias). Para prefeituras e estados somados,
+  pode chegar a R$ 15 bi/ano.
+- Tese do STF (Tema 6, RE 657.718, julgado 2020; critérios detalhados em
+  outubro/2024, ConJur): condicional a judicialização — tentou frear o
+  crescimento, mas números seguem subindo.
+
+5.3 — Quem lucra com a judicialização
+--------------------------------------------------------------------------------
+- ADVOGADOS especializados em saúde: honorários de 20–30% do valor
+  concedido. Mercado de R$ 2–5 bi/ano em honorários.
+- LABORATÓRIOS: ao NEGAR incorporação ao SUS via Conitec (lenta), o
+  laboratório VENDE via judicialização — geralmente a preço cheio, sem
+  desconto. Exemplos clássicos:Spinraza (Biogen, R$ 2 mi/ano/paciente),
+  Zolgensma (Novartis, US$ 2,1 mi dose), Trikafta (Vertex, R$ 2 mi/ano).
+- Operadoras de planos: judicialização contabilizada como "custo" nas contas
+  — usada para justificar reajustes de até 10%+ em coletivos (O Globo,
+  07/02/2025).
+- INDÚSTRIA DA LITIGÂNCIA: empresas terceirizam "consultas jurídicas",
+  captam pacientes, montam "coletivos" artificiais. Caso paradigmático:
+  Ação Civil Pública do MPF contra escritórios que se especializaram em
+  "indústria de mandados de segurança para medicamentos".
+
+5.4 — Efeito sistêmico
+--------------------------------------------------------------------------------
+- O paciente individual ganha; o SISTEMA perde — R$ gasto na sentença é
+  retirado de outro paciente que NÃO recorre.
+- A judicialização premia quem tem ADVOGADO (classe média) e pune quem não
+  tem (população SUS-dependente de baixa renda).
+- Estudos em Ribeirão Preto (Anais CBC) e em todo país mostram que ~30–40%
+  dos medicamentos judicializados JÁ ESTÃO disponíveis no SUS — erro de
+  informação / oportunismo de advogados.
+
+FONTES 5: CNJ; TodoDia News; O Globo 07/02/2025; Prefeitura SP (Coleta);
+ConJur 01/10/2024; Anais CBC; Agência Brasil.
+
+================================================================================
+6. DESIGUALDADE NO ACESSO
+================================================================================
+
+6.1 — Mortalidade evitável por raça
+--------------------------------------------------------------------------------
+- IEPS (2022, "Saúde da População Negra"): população NEGRA tem taxas
+  SISTEMATICAMENTE MAIORES de mortalidade evitável do que a branca.
+- Razão de Mortalidade Materna (RMM) 2014–2019: 61,6 em mulheres negras vs
+  53,8 em mulheres brancas — diferença de 14,5% (IEPS, Nota Técnica 27).
+- Afro-Cebrap (2024): taxa de mortalidade entre homens negros é 2x maior que
+  entre homens brancos (Terra, "Negros vivem menos e pior").
+- Expectativa de vida: brancos vivem ~76 anos; negros ~71 anos (diferença de
+  5 anos).
+
+6.2 — Mortalidade evitável por região
+--------------------------------------------------------------------------------
+- Mortalidade infantil: Norte/Nordeste têm taxas 2–3x maiores que Sul/Sudeste.
+  Ex.: mortalidade infantil em Roraima ~16/1.000 NV; em Santa Catarina ~8/1.000.
+- Mortalidade por causas evitáveis (Lista Brasileira, Ministério da Saúde):
+  concentração em Norte e Nordeste; capitais do Sudeste têm taxas menores.
+- Mortalidade por DCNT (diabetes, hipertensão): em queda absoluta, mas
+  DESIGUAL — Norte tem taxas piorando.
+
+6.3 — Cobertura da Estratégia Saúde da Família (ESF)
+--------------------------------------------------------------------------------
+- PNS 2019 (SciELO, Dourado et al.): 62,6% da população brasileira coberta por
+  ESF em 2019; 60% dos domicílios cadastrados.
+- Cobertura maior em área RURAL (77,0%) que urbana (57,3%).
+- Regional: Nordeste e Sul têm MAIOR cobertura (>65%); Sudeste (apesar da
+  população absoluta) tem cobertura relativamente menor em grandes capitais.
+- Norte: cobertura historicamente baixa; Amazonas, Pará com sérios gaps.
+- TENDÊNCIA 2013–2019: aumento de 11,6% na cobertura — mas política nacional
+  recente (governo Bolsonaro, 2019–2022) PROMOVEU RUPTURA no financiamento
+  da ESF (Previne Brasil substituiu o modelo per capita; municípios grandes
+  perderam recurso).
+
+6.4 — Tempo de espera por cirurgia no SUS
+--------------------------------------------------------------------------------
+- FILA DE ESPERA por cirurgias eletivas: +1,3 milhão de brasileiros em 2024
+  (crescimento de 26% no ano, G1/Jornal Nacional, 15/02/2025).
+- CIRURGIA DE CATARATA: mais demandada; espera média de 137 dias (O Globo,
+  19/03/2025).
+- Em janeiro de 2025: 5,7 milhões aguardavam CONSULTA especializada no SUS;
+  600,4 mil aguardavam CIRURGIA.
+- Pandemia COVID-19 cancelou/adiciou mais de 1 milhão de cirurgias, efeito
+  persistente até 2024.
+
+6.5 — Desigualdade SUS x sistema privado
+--------------------------------------------------------------------------------
+- 75% da população (aprox. 160 milhões) depende EXCLUSIVAMENTE do SUS.
+- 25% (aprox. 53 milhões) tem plano de saúde privado.
+- Gasto per capita SUS: ~R$ 1.400/hab/ano.
+- Gasto per capita plano privado: ~R$ 5.500–6.500/hab/ano (mensalidade média
+  + coparticipação).
+- Resultado: a população SUS-dependente tem metade do acesso, das consultas,
+  dos exames de imagem, das cirurgias eletivas que a população privada.
+- LEITOS: Brasil tem ~2,1 leitos/1.000 hab (OCDE: 4,7/1.000). SUS tem 1,0
+  leito/1.000 hab; privado 1,1 leito/1.000 hab.
+- MÉDICOS: 2,2 médicos/1.000 hab; concentrados em capitais do Sul-Sudeste
+  (São Paulo: 4,0/1.000; interior do Norte/Nordeste: <0,5/1.000).
+- Programa Mais Médicos (criado 2013, extinto em 2019, retomado em 2023):
+  tentativa de corrigir a desigualdade; atende ~18 milhões de brasileiros.
+
+FONTES 6: IEPS; Afro-Cebrap; Terra; SciELO; SciELO SP (PNS 2019); G1/JN;
+O Globo; Ministério da Saúde (Lista Brasileira); IBGE; OPAS.
+
+================================================================================
+7. PROPOSTAS — COMO REDIRECRIONAR O SISTEMA
+================================================================================
+
+7.1 — Redirecionar juros da dívida para a Saúde (vetor MACROECONÔMICO)
+--------------------------------------------------------------------------------
+- Cenário alvo: reduzir juros pagos em R$ 60–80 bilhões/ano = +30% do
+  orçamento federal da Saúde.
+- INSTRUMENTOS:
+  a) BAIXAR a Selic estruturalmente: meta de inflação mais flexível (3,5%
+     em vez de 1,5–4,5%), coordenação BC-Tesouro-Ministério da Saúde.
+  b) REPRIORITAR resultado primário: superávit primário 0,5% do PIB, mas
+     com redirecionamento estrutural — sair de "juros ao rentista" para
+     "custeio de saúde pública".
+  c) AUDITORIA da dívida pública (mandato constituinte previsto no art.
+     26 da ADCT, nunca cumprido): identificação de dívida "ilegítima" pode
+     abrir espaço fiscal de R$ 100–300 bi.
+  d) IMPOSTO sobre grandes fortunas (art. 153 §6º da CF/1988 — nunca
+     regulamentado): arrecadação estimada de R$ 50–80 bi/ano, com incidência
+     sobre patrimônio acima de R$ 10 milhões.
+  e) TRIBUTO sobre LUCRO EXCESSIVO de bancos, planos de saúde e Big Pharma:
+     arrecadação estimada R$ 30–50 bi/ano.
+  f) REDUZIR renúncia fiscal em saúde (PROADI-SUS): R$ 25+ bi/ano em isenções
+     mal fiscalizadas.
+
+7.2 — Eficiência do gasto (vetor GESTÃO)
+--------------------------------------------------------------------------------
+- CENTRALIZAÇÃO NACIONAL de compras: o SUS compra 5.570x estados x municípios
+  separadamente. Centralização em conjunto (ALMOXARIFADO ÚNICO federal) pode
+  economizar 20–30% — cerca de R$ 8–12 bi/ano em medicamentos e insumos.
+  Modelo: preços praticados pelo Ministério da Saúde para ARVs já são os
+  melhores do mundo por escala.
+- TELEMEDICINA e TELESSAÚDE: lei 14.510/2022 regulamentou telemedicina.
+  Ampliação para todo SUS pode ampliar cobertura de especialistas a custo
+  marginal baixo — estimativa de ganho de eficiência: R$ 5–10 bi/ano.
+- PRONTUÁRIO ELETRÔNICO ÚNICO (SUS Digital): reduz duplicidade de exames
+  (estimativa OCDE: 15–25% dos exames são desnecessários); economia de
+  R$ 5–8 bi/ano.
+- PAGAMENTO POR DESFECHO (em vez de pagamento por procedimento): para
+  hospitais de grande porte — alinhamento de incentivos.
+- INTELIGÊNCIA ARTIFICIAL para priorização de filas e detecção de
+  sobre-faturamento.
+
+7.3 — Regulação forte de planos (vetor ANS)
+--------------------------------------------------------------------------------
+- Aprovar projeto que regule REAJUSTES COLETIVOS (hoje sem teto).
+- FORTALECER a ANS com poder de breaking up de monopólios regionais
+  (Hapvida-NotreDame já detém >30% em Estados do NE).
+- OBRIGAR transparência total da COMPOSIÇÃO DE PREÇO dos planos.
+- EXIGIR que operadoras apliquem % da receita em P&D/APOIO AO SUS (o que o
+  PROADI faz — só que para hospitais).
+- APLICAR Lei 14.454/2022 (Rol exemplificativo) — para reduzir judicialização.
+- SUBSTITUIR taxa de fiscalização paga por operadoras por dotação orçamentária
+  da União — eliminar conflito de interesse.
+
+7.4 — Quebra de patentes (vetor PROPRIEDADE INTELECTUAL) — ATUALIZADO v2.0
+--------------------------------------------------------------------------------
+- USAR licença compulsória (art. 68 da Lei 9.279/1996) sistematicamente:
+  * Para medicamentos de alto custo (>R$ 50.000/ano/paciente)
+  * Para vacinas essenciais em emergência sanitária
+  * Para oncologicos de alta densidade orçamentária
+- NOVIDADE 2026: PL 68/2026 (Câmara, regime de urgência aprovado 02/2026)
+  propõe licença compulsória da TIRZEPATIDA (Mounjaro/Zepbound). Autor:
+  Dep. Mário Heringer. Vendas cresceram 7x no Brasil (Valor, 02/2026).
+- Patente do DOLUTEGRAVIR (HIV) expira em 28/04/2026 — fim do monopólio.
+  ~700 mil pessoas usam dolutegravir no SUS (principal antirretroviral).
+- MODELO: Efavirenz (2007) reduziu custo em 70%. Única licença compulsória
+  efetivamente emitida na história do Brasil.
+- NÃO depender só da ameaça — IMPLEMENTAR produção pública via Farmanguinhos
+  (Fiocruz), Biomanguinhos, Butantan, FEPP (Fundação Ezequiel Dias), LAFEPE.
+- APOIAR esquema Sul-Africano/Indiano (law of public interest) — produção de
+  genéricos mesmo durante patente, com royalties razoáveis.
+- NEGOCIAR bloco MERCOSUL/CELAC para compra conjunta (estilo PAHO revolving
+  fund para vacinas).
+- DEFENDER na OMC/TRIPS o "parágrafo 6" da Doha Declaration (importação
+  paralela).
+- Fontes: Senado (06/02/2026), Saúde Business (02/2026), De Olho nas Patentes.
+
+7.5 — Combate à corrupção em licitações
+--------------------------------------------------------------------------------
+- LICITAÇÃO ELETRÔNICA obrigatória para tudo >R$ 100 mil.
+- PREGÃO revertido para todo insumo padronizado (já existe; ampliar).
+- ACORDO DE LENIÊNCIA e whistleblower (Lei 12.846/2013 — Lei Anticorrupção):
+  aplicar sistematicamente.
+- REGISTRO DE PREÇOS NACIONAL para equipamentos médicos — evitar variação
+  entre municípios (tomógrafo custa R$ 1,5 mi num lugar, R$ 4 mi noutro).
+- CRUZAMENTO AUTOMÁTICO de dados: CNPJ, sócios, doações eleitorais,
+  emendas parlamentares. Detectar padrão "vereador-OS-emenda".
+- TÉCNICOS em cargo de chefia (não políticos) nas secretarias estaduais e
+  municipais de saúde — blindagem de carreira.
+
+7.6 — Reformas estruturais adicionais
+--------------------------------------------------------------------------------
+- NOVO PACTO FEDERATIVO: revisar EC 29/2000 — União aportar 18% da RCL
+  (em vez de 15%); estados e municípios 15% (em vez de 12%).
+- DESVINCULAR SAÚDE do "Teto de Gastos" (EC 95/2016) definitivamente —
+  acabou em 2023, mas o arcabouço fiscal (LC 200/2023) ainda comprime.
+- RECONHECER saúde como DESPESA CONSTITUCIONAL OBRIGATÓRIA (DCO) —
+  blindar integralmente.
+- CRIAR FUNDO SOBERANO DA SAÚDE — captar de royalty de petróleo, minério,
+  commodities em alta.
+- REGULAÇÃO DO CAPITAL ESTRANGEIRO em planos de saúde (a atualização da
+  Resolução Normativa CNS 388/2020 liberou capital externo — rever).
+- INDÚSTRIA FARMACÊUTICA PÚBLICA: priorizar Farmanguinhos, Butantan,
+  Bio-Manguinhos com orçamento triplicado para competir com multinacionais.
+
+FONTES 7: EC 95/2016; LC 200/2023; Constituição Federal art. 153 §6º e art.
+196–200; ADCT art. 26; Lei 9.279/1996 art. 68–74; Lei 12.846/2013; Lei
+14.510/2022; Lei 14.454/2022; Doha Declaration (OMC); OPAS; OCDE; Fiocruz;
+IPEA; Conitec.
+
+================================================================================
+CONCLUSÃO EXECUTIVA — ATUALIZADA v2.0
+================================================================================
+- O SUS tem R$ 271,3 bilhões/ano (LOA 2026) — precisa de R$ 400+ bilhões/ano
+  para atingir padrão OCDE (déficit de R$ 150-200 bi/ano persiste).
+- O sistema concorre com R$ 1.062,6 bilhões em JUROS da dívida (2025) — 3,91x
+  o orçamento da Saúde. A DPF cresceu 18% em 2024→2025 (R$ 7,316 tri →
+  R$ 8,635 tri). Sem política econômica que reverta isso, nenhum remendo no
+  SUS funciona.
+- A "indústria da doença" (planos, Big Pharma, equipamentos) extrai rios de
+  dinheiro: setor de planos 2025 teve R$ 391,6 bi de receita e R$ 24,4 bi de
+  lucro (+120% — RECORDE HISTÓRICO). Mercado farmacêutico 2025: R$ 238,9 bi.
+- A captura institucional (Ministério da Saúde nomeado politicamente, CONASS/
+  CONASEMS como lobbies federativos, OSs gerindo hospitais públicos, PROADI-
+  SUS como renúncia fiscal para "filantropia") drena capacidade regulatória.
+- A judicialização (162 mil processos/ano; +110% em 4 anos) é a válvula de
+  escape individual — e a prova de falência coletiva.
+- A desigualdade racial/regional é estrutural: negros morrem mais, filas
+  maiores, cobertura ESF menor no Norte/Nordeste.
+- NOVIDADES 2026: PL 68/2026 (licença compulsória de Mounjaro em regime de
+  urgência); patente do dolutegravir (HIV) expira em 28/04/2026; EMS comprou
+  Medley (US$ 600 mi) consolidando liderança nacional; Eurofarma faturamento
+  recorde R$ 12,5 bi; Bradesco criou Bradsaúde (R$ 52 bi); Amil pode ser
+  vendida a Advent/Bain Capital.
+- O CAMINHO: mudança fiscal (juros → saúde), eficiência (centralização de
+  compras, telemedicina), regulação forte (ANS, CMED), quebra de patentes,
+  combate à corrupção em licitações e blindagem constitucional da saúde como
+  despesa obrigatória.
+
+================================================================================
+FIM DO DOCUMENTO
+Elaborado por: Hermes Agent para Cleiton Moura / TEIA — Eixo Saúde
+Compilação em julho/2026 — atualizar anualmente com novos dados ANS, ANVISA,
+Ministério da Saúde, BC, TCU, CNJ, IBGE.
+================================================================================

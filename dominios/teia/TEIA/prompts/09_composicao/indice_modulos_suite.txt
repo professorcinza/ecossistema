@@ -1,0 +1,91 @@
+================================================================================
+ÍNDICE DE MÓDULOS DA SUITE TEIA v22.0
+================================================================================
+
+00_base/
+- operator_core.txt
+- teorema_central.txt
+- operator_core_INT_EN.txt
+
+01_matriz/
+- dimensoes_156.txt
+- lentes_60.txt
+
+02_pet/
+- pet_workflow.txt
+
+03_dialetico/
+- pipeline_dialetico.txt
+
+04_sopbra/
+- sopbra.txt
+
+04_plano/
+- gerador_plano_governo.txt
+- estrategia_eleitoral_2026.txt
+- janela_kingdon.txt
+
+05_qualidade/
+- checklist_32.txt
+
+06_formatos/
+- formato_dossie_10secoes.txt
+- formato_briefing_rapido.txt
+
+07_fontes/
+- arquitetura_fontes.txt
+
+08_regras/
+- regras_epistemicas.txt
+
+09_composicao/
+- guia_composicao.txt
+- modos_operacao.txt
+- coordenador_suite.txt
+- modo_swarm_coordenado.txt
+- indice_modulos_suite.txt
+
+10_especializados/
+- gerador_dossie_teia.txt
+- analise_rapida_teia.txt
+- sopbra_due_diligence.txt
+- validador_documento_teia.txt
+- fact_check_dialetico.txt
+- analise_state_machine_sopbra.txt
+- validador_automatico_dossie.txt
+- revisor_protocolo_teia.txt
+- teia_para_agentes_ia.txt
+
+11_juridico/
+- gerador_peticoes_representacoes.txt
+- gerador_roteiros_advocacy.txt
+- conformidade_legal_instrumentos.txt
+
+12_problemas/
+- lista_16_problemas.txt
+- aplicador_16_problemas.txt
+- priorizacao_frentes.txt
+- gerador_mapa_solucoes.txt
+- gerador_solucoes_lote_16_problemas.txt
+
+13_simulacao/
+- simulacao_modelagem.txt
+- gerador_modelo_impacto_fiscal.txt
+
+14_electoral/
+- gerador_debates_eleitorais.txt
+- gerador_swarm_anti_messianismo.txt
+- gerador_conteudo_redes_massa.txt
+- gerador_mapa_mitos_crencas.txt
+- gerador_frentes_swarm.txt
+
+15_taxonomia/
+- integracao_taxonomia_academica.txt
+- uso_grafo_taxonomia.txt
+
+legacy/
+- PROMPT_TEIA_v22.0_MONOLITICO.txt
+
+================================================================================
+Uso: consulte este índice quando o Coordenador ou você precisar montar uma composição.
+================================================================================

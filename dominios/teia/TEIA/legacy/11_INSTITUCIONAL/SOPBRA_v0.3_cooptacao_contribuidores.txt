@@ -1,0 +1,559 @@
+================================================================================
+SOPBRA v0.3 — MÓDULO DE COOPTAÇÃO PARA CONTRIBUIDORES
+================================================================================
+Sistema de captação, engajamento e retenção de contribuidores
+================================================================================
+Autor: Cleiton Moura — TEIA
+Protocolo: TEIA-2026-032
+Versão: v0.3
+================================================================================
+
+O PROBLEMA
+
+O SOPBRA é um sistema operacional político. Mas um SO sem usuários
+é só código morto. Para que o sistema funcione, precisa de PESSOAS
+operando em cada camada — e cada pessoa precisa ter INCENTIVO para
+contribuir.
+
+O sistema político brasileiro captura pessoas com DINHEIRO (emendas,
+cargos, propinas). O SOPBRA não pode competir com dinheiro sujo.
+Mas pode competir com INCENTIVO LEGÍTIMO: reconhecimento, impacto,
+propósito, carreira, comunidade e — em alguns casos — remuneração
+honesta.
+
+Este módulo define COMO transformar pessoas em contribuidores ativos
+do SOPBRA, mantendo integridade institucional.
+
+
+================================================================================
+OS 7 PERFIS DE CONTRIBUIDOR
+================================================================================
+
+Cada perfil tem skills diferentes, motivações diferentes e contribuições
+diferentes. O sistema precisa de TODOS os 7 para funcionar.
+
+------------------------------------------------------------------------
+PERFIL 1 — ANALISTA (o cérebro)
+------------------------------------------------------------------------
+QUEM É: economista, cientista político, pesquisador, estudante de
+  pós-graduação, servidor público técnico.
+O QUE FAZ: produz os documentos analíticos (fact-checks, refutações,
+  diagnósticos, simulações).
+SKILLS NECESSÁRIAS: pipeline-dialetico, fact-check-economico,
+  simulacao-monte-carlo, diagnostico-territorial.
+MOTIVAÇÃO: impacto político real, publicação com seu nome, acesso a
+  dados que academia não tem, networking com pares.
+QUANTO PRECISAMOS: 5-10 analistas ativos.
+CONTRAPARTIDA TEIA: co-autoria em documentos protocolados, menção
+  pública, certificado de contribuição, acesso a rede de contatos.
+
+------------------------------------------------------------------------
+PERFIL 2 — JURISTA (o escudo)
+------------------------------------------------------------------------
+QUEM É: advogado, procurador, defensor público, estudante de direito
+  constitucional, bacharel em ciências jurídicas.
+O QUE FAZ: redige petições, amicus curiae, representações, revisa
+  legalidade de todos os documentos antes do protocolo.
+SKILLS NECESSÁRIAS: redacao-juridica-advocacy.
+MOTIVAÇÃO: construir jurisprudência, defender causas públicas,
+  experiência prática de advocacy estratégico, networking com MPF/STF.
+QUANTO PRECISAMOS: 3-5 juristas ativos.
+CONTRAPARTIDA TEIA: co-autoria em petições protocoladas, certificado,
+  menção em peças jurídicas, possibilidade de atuar como advogado
+  pro bono em ações paradigmáticas.
+
+------------------------------------------------------------------------
+PERFIL 3 — COMUNICADOR (a voz)
+------------------------------------------------------------------------
+QUEM É: jornalista, criador de conteúdo, roteirista, editor de vídeo,
+  designer, copywriter, influenciador digital.
+O QUE FAZ: transforma dados técnicos em narrativa pública — vídeos,
+  TikToks, podcasts, carrosséis, infográficos.
+SKILLS NECESSÁRIAS: producao-conteudo-advocacy, posts-instagram-dados.
+MOTIVAÇÃO: audiência, relevância, conteúdo de qualidade que ninguém
+  mais tem, impacto social, crescimento de canal.
+QUANTO PRECISAMOS: 5-8 comunicadores ativos.
+CONTRAPARTIDA TEIA: crédito no conteúdo, acesso exclusivo a dados
+  antes da publicação, cross-promotion com @professorcinza,
+  feed de pautas investigativas.
+
+------------------------------------------------------------------------
+PERFIL 4 — DESENVOLVEDOR (o construtor)
+------------------------------------------------------------------------
+QUEM É: programador, data scientist, engenheiro de software, UX designer,
+  analista de dados.
+O QUE FAZ: constrói as ferramentas — dashboards, app "Minha Cidade",
+  IA de detecção, API pública, scraping de dados públicos.
+SKILLS NECESSÁRIAS: Python, SQL, Pillow, web scraping, data viz.
+MOTIVAÇÃO: projeto open-source com impacto real, portfólio, comunidade
+  tech cívica, hackathon culture.
+QUANTO PRECISAMOS: 3-5 desenvolvedores ativos.
+CONTRAPARTIDA TEIA: co-autoria no código (GitHub), maintainer status
+  no repositório, reconhecimento público, participação em eventos
+  (Abrelatam, Coding Rights, Open Knowledge Brasil).
+
+------------------------------------------------------------------------
+PERFIL 5 — ARTICULADOR (o nó)
+------------------------------------------------------------------------
+QUEM É: lobista legítimo, relacionista institucional, ex-servidor,
+  assessor parlamentar, consultor de policy.
+O QUE FAZ: conecta o SOPBRA com os centros de poder — ministérios,
+  gabinetes parlamentares, MPF, TCU, CNJ.
+SKILLS NECESSÁRIAS: mapeamento-veto-players, sistema-protocolo.
+MOTIVAÇÃO: acesso a análise de alta qualidade para seus interlocutores,
+  influência sobre agenda de reforma, networking.
+QUANTO PRECISAMOS: 2-3 articuladores com contatos diretos.
+CONTRAPARTIDA TEIA: acesso a dossiês não publicados, briefing técnico
+  antes de reuniões com autoridades, reconhecimento como parceiro
+  institucional.
+
+------------------------------------------------------------------------
+PERFIL 6 — MOBILIZADOR (o exército)
+------------------------------------------------------------------------
+QUEM É: ativista, líder comunitário, estudante universitário, membro
+  de movimento social, professor.
+O QUE FAZ: mobiliza pessoas — petition, pressão eleitoral, comparecimento
+  a audiências públicas, viralização de conteúdo.
+SKILLS NECESSÁRIAS: organização comunitária, redes sociais.
+MOTIVAÇÃO: causa, pertencimento, ação coletiva, mudança real.
+QUANTO PRECISAMOS: 20-50 mobilizadores distribuídos no território.
+CONTRAPARTIDA TEIA: toolkit de mobilização, treinamento gratuito,
+  certificado de embaixador TEIA, acesso a dados locais.
+
+------------------------------------------------------------------------
+PERFIL 7 — FINANCIADOR (o combustível)
+------------------------------------------------------------------------
+QUEM É: filantropo, investidor de impacto, fundação, empresa alinhada,
+  crowdfunding massivo.
+O QUE FAZ: financia a operação — equipe, infraestrutura, campaigns,
+  custos jurídicos, desenvolvimento de software.
+MOTIVAÇÃO: impacto social mensurável, transparência de uso de recursos,
+  associação com causa popular, dedução fiscal (se qualificado).
+QUANTO PRECISAMOS: 4-8 fontes de financiamento (nenhuma >30% do total).
+CONTRAPARTIDA TEIA: relatório de impacto trimestral, menção pública
+  (se autorizado), participação no conselho consultivo.
+
+
+================================================================================
+A EQUAÇÃO DE COOPTAÇÃO
+================================================================================
+
+Cada contribuidor potenciaial faz um cálculo inconsciente:
+
+  CONTRIBUI = se BENEFÍCIO percebido ≥ CUSTO percebido
+
+BENEFÍCIO percebido:
+  - Reconhecimento (seu nome no documento/código/vídeo)
+  - Impacto (saber que mudou algo real)
+  - Comunidade (pertenecer a um grupo que importa)
+  - Carreira (portfólio, experiência, networking)
+  - Propósito (sentir que está do lado certo da história)
+  - Remuneração (quando aplicável)
+
+CUSTO percebido:
+  - Tempo (horas dedicadas)
+  - Risco (reputacional, jurídico, profissional)
+  - Oportunidade (o que deixou de fazer)
+  - Energia cognitiva
+
+O PAPEL DO SOPBRA: MAXIMIZAR benefício e MINIMIZAR custo para cada perfil.
+
+COMO MAXIMIZAR BENEFÍCIO:
+  - Sistema de CRÉDITOS transparente (quem fez o quê é público)
+  - RANKING de contribuições (gamificação saudável)
+  - CERTIFICADOS de contribuição (utilizáveis em currículo)
+  - REDE de contatos (acesso a pessoas que o contribuidor não teria)
+  - ACESSO ANTECIPADO a dados e análises (antes da publicação)
+
+COMO MINIMIZAR CUSTO:
+  - TEMPLATES e skills que reduzem tempo de produção
+  - PROCESSO CLARO (contribuidor sabe exatamente o que fazer)
+  - SEGURANÇA JURÍDICA (todo documento baseado em fonte pública)
+  - FLEXIBILIDADE (contribui na hora que pode, sem cobrança)
+  - REMOTE-FIRST (opera de qualquer lugar do Brasil)
+
+
+================================================================================
+SISTEMA DE ONBOARDING (como entrar no sistema)
+================================================================================
+
+------------------------------------------------------------------------
+FUNIL DE CAPTAÇÃO
+------------------------------------------------------------------------
+
+TOFU (Topo do funil — consciência)
+  - Conteúdo público (TikTok, YouTube, Instagram)
+  - Posts no GitHub
+  - Artigos em veículos (Medium, Substack)
+  - Participação em eventos (Abrelatam, Open Data Day)
+  Meta: 100.000 pessoas expostas ao TEIA/mês
+
+MOFU (Meio do funil — interesse)
+  - Newsletter quinzenal (inscrição)
+  - Grupo no Telegram/Discord (comunidade)
+  - Download de documentos (lead capture)
+  Meta: 5.000 inscritos na newsletter
+
+BOFU (Fundo do funil — ação)
+  - Formulário de contribuição (tipo de skill, disponibilidade)
+  - Onboarding call (30 min com mantenedor)
+  - Primeira tarefa atribuída (baseada no perfil)
+  Meta: 50 contribuidores ativos
+
+------------------------------------------------------------------------
+PROCESSO DE ONBOARDING (5 passos)
+------------------------------------------------------------------------
+
+PASSO 1 — DESCOBERTA (contribuidor encontra o TEIA)
+  Via: conteúdo, GitHub, evento, indicação
+  Ação do sistema: garantir que todo conteúdo público tenha CTA
+  "Quer contribuir? github.com/mouracleiton/TEIA"
+
+PASSO 2 — ADESÃO (contribuidor se inscreve)
+  Via: formulário online (tipoform/google forms)
+  Campos: nome, email, cidade, profissão, skill principal,
+    disponibilidade (h/semana), área de interesse (qual vetor)
+  Ação do sistema: responder em 48h com email de boas-vindas + 
+    convite para grupo Telegram/Discord
+
+PASSO 3 — ORIENTAÇÃO (contribuidor aprende o sistema)
+  Via: documento de onboarding (este módulo) + call de 30 min
+  Conteúdo: o que é TEIA, o que é SOPBRA, quais skills existem,
+    como versionar (Git), como protocolar, código de conduta
+  Ação do sistema:assignar um PADRINHO (contribuidor experiente)
+
+PASSO 4 — PRIMEIRA TAREFA (contribuidor produz)
+  Via: task assignada pelo mantenedor baseada no perfil
+  Exemplos por perfil:
+    Analista: fact-check de 5 números de um documento
+    Jurista: revisar legalidade de uma petição
+    Comunicador: roteirizar 1 TikTok a partir de dado
+    Desenvolvedor: implementar 1 feature do dashboard
+    Articulador: identificar 3 aliados potenciais
+    Mobilizador: compartilhar 1 conteúdo em 3 grupos
+  Ação do sistema: feedback em 72h + crédito público
+
+PASSO 5 — RECONHECIMENTO (contribuidor é valorizado)
+  Via: menção pública + atualização de ranking + certificado
+  Ação do sistema: todo mês publicar "Contribuidores do Mês"
+
+
+================================================================================
+SISTEMA DE CRÉDITOS E REPUTAÇÃO
+================================================================================
+
+------------------------------------------------------------------------
+COMO FUNCIONA
+------------------------------------------------------------------------
+
+Cada contribuição vale PONTOS:
+
+  TIPO DE CONTRIBUIÇÃO                    | PONTOS
+  ----------------------------------------|--------
+  Fact-check de 1 número                  |    10
+  Redação de parágrafo analítico          |    20
+  Produção de dossiê completo             |   500
+  Redação de petição jurídica             |   300
+  Revisão jurídica de documento           |   100
+  Roteiro de TikTok                       |    50
+  Roteiro de podcast                      |   150
+  Carrossel Instagram (8 slides)          |   100
+  Documentário YouTube (roteiro)          |   500
+  Linha de código ( funcional)            |     5
+  Feature completa (dashboard/app)        |   500
+  Tradução de documento                   |    50
+  Divulgação (share com >1000 alcance)    |    20
+  Mobilização de evento                   |   100
+  Contato institucional estratégico       |   200
+  Captação de recurso                     |   500
+
+------------------------------------------------------------------------
+NÍVEIS DE CONTRIBUIDOR
+------------------------------------------------------------------------
+
+  NÍVEL             | PONTOS  | BENEFÍCIOS
+  ------------------|---------|-------------------------------------------
+  INICIANTE         |    0-99 | Acesso ao grupo + skills + templates
+  CONTRIBUTOR       | 100-499 | Menção pública + certificado + feed pautas
+  COLABORADOR       | 500-999 | Co-autoria em documentos + briefing técnico
+  EMBAIXADOR        |1000-2999| Voto em conselho consultivo + acesso dados
+  MANTENEDOR        |3000+    | Acesso total + commit rights + representação
+
+------------------------------------------------------------------------
+RANKING PÚBLICO
+------------------------------------------------------------------------
+
+Leaderboard mensal no GitHub e site:
+
+  RANKING TEIA — CONTRIBUIDORES DO MÊS
+  ====================================
+  1. @analista1     ....  850 pts (3 dossiês + 15 fact-checks)
+  2. @jurista2      ....  600 pts (2 petições + 4 revisões)
+  3. @comunicador3  ....  450 pts (9 TikToks + 3 carrosséis)
+  4. @dev4          ....  400 pts (dashboard de emendas)
+  5. @mobilizador5  ....  300 pts (mobilizou 500 shares)
+
+O ranking é PÚBLICO e VINCULADO ao GitHub (transparência total).
+Nada é opaco. Quem contribuiu, aparece. Quem não contribuiu, não.
+
+
+================================================================================
+CÓDIGO DE CONDUTA DO CONTRIBUIDOR
+================================================================================
+
+Todo contribuidor ACEITA ao entrar:
+
+1. FONTE PÚBLICA APENAS
+   Todo dado usado em documento TEIA deve ser de fonte pública
+   verificável. NUNCA usar dado sigiloso, vazado ou obtido por
+   meio ilícito.
+
+2. PRESUNÇÃO DE INOCÊNCIA
+   Correlação temporal ≠ causalidade. Todo documento que cita pessoa
+   identificada deve incluir nota: "documentado, não condenado" (art.
+   5º, LVII, CF/88).
+
+3. NÃO PARTIDÁRIO
+   TEIA não apoia partido, candidato ou governo. Critica POLÍTICA,
+   não PESSOA. Ataca SISTEMA, não indivíduo (exceto com fato documentado).
+
+4. CONFLITO DE INTERESSE
+   Contribuidor que tem vínculo com entidade citada em documento DEVE
+   declarar. Não pode participar da produção do documento sobre a entidade.
+
+5. NÃO ACEITAÇÃO DE CARGO
+   Contribuidor que aceita cargo público em órgão que TEIA monitora
+   se TORNA inativo por 12 meses (impedimento). Mantém vínculo mas
+   não opera.
+
+6. VERIFICAÇÃO ANTES DE PUBLICAR
+   Todo documento deve passar por fact-check antes de publicar.
+   Nenhum número entra sem fonte citada.
+
+7. RESPEITO INSTITUCIONAL
+   Discurso de ódio, ataques pessoais, ameaças e desinformação são
+   PROIBIDOS. Resulta em banimento permanente.
+
+8. VERSIONAMENTO OBRIGATÓRIO
+   Toda contribuição entra no Git. Nada é apagado. Histórico é
+   imutável. Mudanças são transparentes.
+
+
+================================================================================
+MODELO DE SUSTENTAÇÃO FINANCEIRA
+================================================================================
+
+O TEIA precisa de R$ 6,8 milhões no Ano 1. Como captar COM INTEGRIDADE:
+
+------------------------------------------------------------------------
+FONTE 1 — CROWDFUNDING MASSA (meta: R$ 500 mil/ano)
+------------------------------------------------------------------------
+  Plataforma: Catarse, Benfeitoria, ou própria
+  Modelo: 100.000 pessoas × R$ 5/mês = R$ 6 mi/ano
+  Realista: 10.000 pessoas × R$ 50/ano = R$ 500 mil
+  Função: legitimidade popular + base de pressão (cada doador é
+    um eleitor consciente)
+  Contrapartida: newsletter exclusiva + acesso a dados + menção
+
+------------------------------------------------------------------------
+FONTE 2 — INSTITUTOS FILANTRÓPICOS (meta: R$ 1,5 mi/ano)
+------------------------------------------------------------------------
+  Alvos: Lemann Foundation, Instituto Ayrton Senna, Instituto Çazazá,
+    Fundação Tide Setubal, Open Society Foundations (internacional)
+  Argumento: "transparência fiscal = desenvolvimento = educação"
+  Restrição: NÃO aceitar de banco ou entidade financeira (conflito)
+  Contrapartida: relatório de impacto trimestral
+
+------------------------------------------------------------------------
+FONTE 3 — FINTECHS E COOPERATIVAS (meta: R$ 1,5 mi/ano)
+------------------------------------------------------------------------
+  Alvos: Nubank, XP, Sicredi, Sicoob, Cresol, Mercado Pago
+  Argumento: "competição financeira beneficia vocês diretamente"
+  Modelo: co-financiamento de lobby por Vetor 2 (spread bancário)
+  Contrapartida: reconhecimento como aliado institucional
+
+------------------------------------------------------------------------
+FONTE 4 — CONFEDERAÇÕES EMPRESARIAIS (meta: R$ 1 mi/ano)
+------------------------------------------------------------------------
+  Alvos: CNI, Fiesp, CNC (não ligada a banco)
+  Argumento: "Custo Brasil de R$ 1,7 tri afeta seus associados"
+  Contrapartida: dados exclusivos + participação em eventos
+
+------------------------------------------------------------------------
+FONTE 5 — FINANCIAMENTO INTERNACIONAL (meta: R$ 1 mi/ano)
+------------------------------------------------------------------------
+  Alvos: Open Government Partnership, NED, NDI, IRI,
+    Open Society Foundations, Ford Foundation
+  Argumento: "transparency and accountability in Brazil"
+  Contrapartida: relatórios em inglês + participação em conferências
+  RESTRIÇÃO: declaração total de fontes (zero opacidade)
+
+------------------------------------------------------------------------
+FONTE 6 — PRESTAÇÃO DE SERVIÇO (meta: R$ 1 mi/ano)
+------------------------------------------------------------------------
+  Modelo: vender análise técnica para parlamentares aliados,
+    ministérios, empresas que querem entender o sistema político
+  Exemplo: "Análise do impacto da Reforma Tributária no setor X"
+  Contrapartida: relatório técnico pago, mas CONCLUSÕES são independentes
+  RESTRIÇÃO: TEIA não produz documento encomendado com conclusão
+    pré-determinada. Produz análise honesta, seja qual for o resultado.
+
+------------------------------------------------------------------------
+FONTE 7 — PRODUTOS DE CONTEÚDO (meta: R$ 300 mil/ano)
+------------------------------------------------------------------------
+  Modelo: monetização do YouTube (AdSense), curso online de
+    "Economia Política Brasileira para Cidadãos", livro, palestras
+  Contrapartida: conteúdo permanece gratuito no canal
+  RESTRIÇÃO: paywall em conteúdo de advocacy é PROIBIDO
+
+TOTAL: R$ 6,8 milhões/ano
+REGRA DE OURO: nenhuma fonte > 30% do total (independência)
+
+
+================================================================================
+MATRIZ DE INCENTIVO POR PERFIL
+==================================================================
+
+PERFIL        | QUEM PAGA     | FORMA                           | INTEGRIDADE
+--------------|---------------|---------------------------------|------------
+Analista      | TEIA (salário)| R$ 5-12k/mês tempo parcial      | Sim
+Jurista       | Pro bono      | Crédito + caso de impacto       | Sim
+Comunicador   | Revenue share | % da monetização do conteúdo    | Sim
+Desenvolvedor | Open-source   | GitHub + portfolio + hackathons | Sim
+Articulador   | TEIA (salário)| R$ 8-15k/mês se dedicado         | Sim
+Mobilizador   | Voluntário    | Toolkit + certificado + rede    | Sim
+Financiador   | Doação        | Relatório de impacto            | Sim
+
+A REGRA: ninguém no TEIA ganha dinheiro com o sistema que combate.
+TEIA não é consultoria que vende acesso. É instituição que produz
+inteligência pública. O salário de equipe vem de doação e crowdfunding
+— não de entidade que TEIA monitora.
+
+
+================================================================================
+CICLO DE VIDA DO CONTRIBUIDOR
+==================================================================
+
+  DESCOBERTA → ADESÃO → ORIENTAÇÃO → PRIMEIRA TAREFA → RECONHECIMENTO
+                                                          |
+  DESLIGAMENTO ← INATIVIDADE (6 meses) ← CONTRIBUIÇÃO REGULAR ←+
+      |                                                        |
+      ↓                                                        |
+  ALUMNI (mantém contato) ────────────────────────────────────+
+
+DESLIGAMENTO:
+  - Contribuidor pode sair a qualquer momento (sem multa, sem trauma)
+  - Seus documentos FICAM no repositório (licença open-source)
+  - Pode voltar quando quiser
+
+INATIVIDADE:
+  - Sem contribuição por 6 meses = status INATIVO
+  - Mantém acesso ao grupo mas perde direitos de voto
+  - Recupera com 1 contribuição
+
+ALUMNI:
+  - Ex-contribuidores que saíram mas mantêm contato
+  - Rede de contatos valiosa (foram para governo, MPF, academia,
+    empresas)
+  - Receptáculos naturais de informação e inteligência
+
+
+================================================================================
+PROTOCOLO DE SEGURANÇA DO CONTRIBUIDOR
+==================================================================
+
+AMEAÇAS AO CONTRIBUIDOR:
+  1. RETALIAÇÃO POLÍTICA: político citado em dossiê tenta prejudicar
+  2. INTIMIDAÇÃO JURÍDICA: advogado envia notificação
+  3. EXPOSIÇÃO PÚBLICA: mídia sensacionaliza vínculo
+  4. DESPEDIDA PROFISSIONAL: empregador pressureia
+
+PROTEÇÕES:
+  1. ANONIMATO OPCIONAL: contribuidor pode usar pseudônimo no GitHub
+     (mas mantenedor conhece identidade real)
+  2. TODO DADO É PÚBLICO: se fonte é pública, não há crime de
+     difamação (exercício regular de direito, art. 5º IV CF)
+  3. SEGURO JURÍDICO: TEIA mantém advogado de retainer para defender
+     contribuidor processado por advocacy legítimo
+  4. CÓDIGO DE CONDUTA: se contribuidor seguiu o código, TEIA o
+     defende institucionalmente
+  5. NÃO USAR DADOS SIGILOSOS: a única forma de se proteger é NUNCA
+     usar informação obtida por meio ilícito
+
+REGRAS DE OURO:
+  - Contribuinte NUNCA publica em nome próprio sem aprovação TEIA
+  - Contribuinte NÃO fala com mídia em nome do TEIA sem autorização
+  - Contribuinte NÃO usa dados TEIA para beneficio pessoal/eleitoral
+  - Contribuinte NÃO aceita cargo no órgão que monitora (12 meses)
+
+
+================================================================================
+COMO COMEÇAR (PRIMEIROS 30 DIAS)
+==================================================================
+
+DIA 1-7: INFRAESTRUTURA
+  [ ] Criar formulário de adesão (Google Forms/Typeform)
+  [ ] Criar grupo Telegram/Discord para comunidade
+  [ ] Escrever página de "Como Contribuir" no GitHub
+  [ ] Definir código de conduta formal
+
+DIA 8-14: RECRUTAMENTO INICIAL
+  [ ] Publicar CTA em canais @professorcinza (TikTok, Instagram, YouTube)
+  [ ] Postar em comunidades: r/brasil, r/economics, Hack Club,
+        Data Science Brasil, Abrelatam
+  [ ] Contatar 10 pessoas conhecidas com skills necessárias
+  [ ] Meta: 50 inscritos no formulário
+
+DIA 15-21: ONBOARDING
+  [ ] Call coletiva de boas-vindas (Google Meet, gravar e publicar)
+  [ ] Assignar primeira tarefa para cada perfil
+  [ ] Designar 2 padrinhos (contribuidores experientes)
+  [ ] Meta: 20 contribuidores ativos
+
+DIA 22-30: PRIMEIROS RESULTADOS
+  [ ] Coletar primeira contribuição de cada ativo
+  [ ] Publicar ranking de contribuidores do mês
+  [ ] Emitir primeiros certificados
+  [ ] Planejar próximo mês (tarefa coletiva)
+
+
+================================================================================
+RESUMO EXECUTIVO
+==================================================================
+
+O SOPBRA precisa de pessoas. Pessoas precisam de INCENTIVO.
+
+O sistema de cooptação de contribuidores funciona porque oferece o que
+o sistema político NÃO oferece:
+
+  - RECONHECIMENTO (seu nome no documento que mudou a lei)
+  - PROPÓSITO (saber que seu trabalho tem impacto real)
+  - COMUNIDADE (pertenecer a grupo que importa)
+  - CARREIRA (portfólio, networking, experiência)
+  - SEGURANÇA (base legal sólida em tudo que produz)
+
+E NÃO oferece o que destrói:
+  - Dinheiro sujo
+  - Cargo em troca de silêncio
+  - Opacidade de quem fez o quê
+
+O TEIA não compra pessoas. CONSTRÓI pessoas. E pessoas construídas
+produzem documentos que mudam o sistema.
+
+O ciclo virtuoso:
+  + Contribuidor entra → produz documento → documento tem impacto →
+    impacto gera reconhecimento → reconhecimento atrai mais
+    contribuidores → sistema cresce → mais impacto
+
+O sistema político captura com dinheiro. O TEIA liberta com
+propósito. Em longo prazo, propósito vence dinheiro — porque
+propósito se renova, dinheiro se gasta.
+
+O dinheiro da reforma virá do trabalho.
+As pessoas que farão a reforma virão do propósito.
+
+================================================================================
+FIM DO MÓDULO DE COOPTAÇÃO DE CONTRIBUIDORES
+================================================================================
+Protocolo: TEIA-2026-032
+================================================================================

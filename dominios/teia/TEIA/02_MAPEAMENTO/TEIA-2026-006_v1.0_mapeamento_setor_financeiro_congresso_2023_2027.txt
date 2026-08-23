@@ -1,0 +1,695 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-006
+VERSÃO: v1.0
+CATEGORIA: 02_MAPEAMENTO
+TÍTULO: Setor Financeiro no Congresso 2023-2027
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 39,109 bytes (38.2 KB)
+HASH MD5: ca5a9c0e441c6c26b9867c13511f364c
+HASH SHA-256: 9defa8d83d67bb092064cfe3432c117f530997ba23e26164ef0352d1d1df5aaa
+================================================================================
+
+================================================================================
+MAPEAMENTO: PARLAMENTARES DA LEGISLATURA 2023-2027 SOB INFLUÊNCIA DO SETOR
+FINANCEIRO (bancos, Febraban, ANBIMA, CNSEG, asset managers, fintechs)
+================================================================================
+Elaborado por: Análise estratégica - Cleiton Moura
+Data base: julho/2026 | Legislatura 57 (2023-2027)
+Fontes: TSE (DivulgaCandContas 2022), site da Câmara/Senado, VEJA, Estadão,
+Valor Econômico, CNN Brasil, Congresso em Foco, Poder360, BBC News Brasil,
+Intercept, Agência Pública, Folha de S.Paulo, O Globo, G1, Metrópoles.
+================================================================================
+
+AVISO METODOLÓGICO:
+Desde a Lei 13.165/2015, PESSOAS JURÍDICAS estão proibidas de doar diretamente
+a candidatos. O financiamento legal ocorre via: (i) Fundo Eleitoral e Fundo
+Partidário (recursos públicos); (ii) doações de pessoas físicas até R$ 4.600;
+(iii) crowdfunding; (iv) financiamento partidário. Bancos em sentido estrito
+NÃO doam formalmente. A influência financeira ocorre por:
+- DOADORES PESSOA FÍSICA ligados a controladores/dirigentes de bancos;
+- EMPRESAS DE CONTROLADORES de bancos doando ao partido/fundo eleitoral;
+- OPERAÇÕES DE CRÉDITO favorecidas (ex: Banco Master);
+- PORTA GIRATÓRIA (ex-dirigentes de IFs, conselheiros CMN/BCB);
+- EMPRÉSTIMOS de campanha junto a IFs;
+- CONTRIBUIÇÕES via instrumentos financeiros em comitês financeiros.
+Os nomes abaixo refletem evidências documentais desses mecanismos.
+
+================================================================================
+PARTE 1 - MESA DIRETORA DA CÂMARA DOS DEPUTADOS (biênio 2025-2027)
+================================================================================
+
+------------------------------------------------------------------------------
+1.1 HUGO MOTTA (Republicanos-PB) - PRESIDENTE DA CÂMARA
+------------------------------------------------------------------------------
+MECANISMO DE INFLUÊNCIA (CRIME DOCUMENTADO - BANCO MASTER):
+- Em março/2024, o BANCO MASTER, de Daniel Vorcaro, concedeu EMPRÉSTIMO DE
+  R$ 22 MILHÕES à empresa da CUNHADA de Hugo Motta, Bianca Medeiros, mulher
+  do irmão do parlamentar (Carlos Wanderley). O dinheiro foi usado para
+  comprar uma área de 400 hectares (antiga fábrica de cimento) em João
+  Pessoa, que será loteada como novo bairro (fonte: O Tempo, 16/03/2026;
+  Estadão, 06/2026; Metrópoles; Times Brasil).
+- A PF localizou no celular de Daniel Vorcaro DIÁLOGOS em que o PRÓPRIO
+  HUGO MOTTA pede ao banqueiro a LIBERAÇÃO DO EMPRÉSTIMO (fonte: Estadão,
+  "PF encontra diálogos de Hugo Motta pedindo a Vorcaro empréstimo do Master
+  a empresa da cunhada"; Metrópoles, junho/2026).
+- A PF apurou ainda que VORCARO BANCOU HOTEL DE LUXO em Lisboa para
+  HUGO MOTTA e CIRO NOGUEIRA (PP-PI), conforme diálogos periciados
+  (fonte: Metrópoles, 06/2026).
+POSIÇÃO: PRESIDENTE DA CÂMARA (desde 01/02/2025, eleito com 444 votos).
+- Foi presidente da CFFC (Comissão de Fiscalização Financeira e Controle)
+  em 2014 - reveladora especialização em pauta financeira.
+PAUTA DE INTERESSE DO SETOR:
+- Em novembro/2025, Hugo Mot╩ta LIGOU para DAVI ALCOLUMBRE avisando que NÃO
+  COLOCARIA EM VOTAÇÃO projeto que AUMENTAVA A TRIBUTAÇÃO DE INSTITUIÇÕES
+  FINANCEIRAS (Fonte: VEJA, 21/11/2025, "Ligação entre Motta e Alcolumbre
+  derrubou votação de aumento de tributação no Senado"). TRAVOU matéria de
+  interesse do setor bancário que já havia sido articulada por Renan
+  Calheiros na CAE do Senado.
+
+------------------------------------------------------------------------------
+1.2 ALTINEU CÔRTES (PL-RJ) - 1º VICE-PRESIDENTE DA CÂMARA
+------------------------------------------------------------------------------
+- Aliado histórico da família Bolsonaro, financiado majoritariamente pelo
+  Fundo Eleitoral do PL (que recebeu doações de pessoas ligadas a
+  empreendedores do setor financeiro e de serviços em 2022).
+- Não há registro público de vínculo direto com bancos específicos, mas
+  atua como caução política do PL bolsonarista na Mesa.
+
+------------------------------------------------------------------------------
+1.3 ELMAR NASCIMENTO (UNIÃO-BA) - 2º VICE-PRESIDENTE DA CÂMARA
+------------------------------------------------------------------------------
+- Da legenda União Brasil (herdeira do DEM), partido que agrega
+  empreendedores e financiadores do setor de serviços financeiros
+  e securitários. Votou em 2023 favoravelmente à manutenção de
+  benefícios fiscais do setor financeiro na reforma tributária.
+
+------------------------------------------------------------------------------
+1.4 DELEGADA CATARINA (PSD-SE) - 3ª SECRETÁRIA DA CÂMARA
+------------------------------------------------------------------------------
+- PSD de Gilberto Kassab, partido que abriga parlamentares com fortes
+  relações com o setor de cartões, adquirentes e fintechs (Rede, Cielo,
+  Stone, PagSeguro). O PSD é hoje um dos partidos com maior densidade
+  de parlamentares ligados ao setor financeiro não-bancário.
+
+------------------------------------------------------------------------------
+1.5 SÉRGIO SOUZA (MDB-PR) - 4º SECRETÁRIO DA CÂMARA
+------------------------------------------------------------------------------
+- MDB de Michel Temer/Baleia Rossi. O MDB é o partido histórico do
+  "centrão financeiro", agremiando figuras como Eduardo Braga,
+  Renan Calheiros, Fernando Bezerra Coelho. Votou a favor da
+  manutenção do regime tributário privilegiado para IFs na reforma.
+
+================================================================================
+PARTE 2 - MESA DIRETORA DO SENADO (biênio 2025-2027)
+================================================================================
+
+------------------------------------------------------------------------------
+2.1 DAVI ALCOLUMBRE (UNIÃO-AP) - PRESIDENTE DO SENADO
+------------------------------------------------------------------------------
+- 2º mandato como presidente do Senado (2019-2021 e 2025-2027).
+MECANISMO DE INFLUÊNCIA:
+- Presidente da CCJ (Comissão de Constituição e Justiça) em 2023-2024,
+  antes de assumir a presidência do Senado em 01/02/2025 com apoio
+  transversal de PL, PT e centro.
+- Em NOVEMBRO/2025, RECEBEU LIGAÇÃO de HUGO MOTTA (presidente da Câmara)
+  que o INFORMOU de que a CÂMARA NÃO VOTARIA projeto que AUMENTAVA
+  A TRIBUTAÇÃO DE BANCOS - ALCOLOMBRE ACEITOU a articulação e a
+  votação no Senado foi ARQUIVADA (fonte: VEJA, 21/11/2025).
+PAUTA:
+- Comandou a CCJ na aprovação da EMENDA 132 (Reforma Tributária) com
+  REGRA DE TRANSIÇÃO FAVORÁVEL ao SETOR FINANCEIRO (tributação de IFs
+  fechada em 5,8% de CBS+IBS, sem direito a créditos, mas abaixo das
+  projeções iniciais de Haddad/Fazenda).
+- Arbitrou a DISPUTA ENTRE PT E MDB pelo comando da CAE (Comissão de
+  Assuntos Econômicos), entregando-a a RENAN CALHEIROS (MDB-AL) em
+  troca de apoio à sua eleição (fonte: Metrópoles, 07/11/2024).
+
+------------------------------------------------------------------------------
+2.2 RENAN CALHEIROS (MDB-AL) - PRESIDENTE DA CAE (Comissão de Assuntos
+Econômicos do Senado) - biênio 2025-2026
+------------------------------------------------------------------------------
+MECANISMO DE INFLUÊNCIA:
+- Presidente da CAE do Senado desde 19/02/2025 - principal comissão para
+  matérias financeiras, BC, SFN, tributação.
+- Em 2017, delação da ODEBRECHT apontou que RENAN FILHO (governador de AL
+  e atual ministro dos Transportes, FILHO de Renan Calheiros) recebeu
+  R$ 800 mil em pagamentos ilegais; Renan pai foi citado em pagamentos
+  via operador João Lyra.
+- Delator Claudemir Aparecido de Queiroz relatou pagamentos a Renan
+  Calheiros via operador Hamylton Padilha (Caso JS Container) em valores
+  que totalizaram supostos R$ 9 milhões.
+POSIÇÃO:
+- PRESIDENTE DA CAE (Senado), responsável por AUDIÊNCIAS com o presidente
+  do BC Gabriel Galípolo, que foram marcadas após o escândalo do Banco
+  Master em 2025-2026.
+- Relator informal das propostas de BLINDAGEM à AUTONOMIA DO BC e
+  reforma da lei de fiscalização do SFN.
+PAUTA:
+- Em setembro/2025, articulou projeto na CAE do Senado que APROVOU
+  (em caráter terminativo) ISENÇÃO DE IR para quem ganha até R$ 5 mil
+  (projeto de apelo popular que reduz arrecadação e pressiona por
+  compensação via aumento de impostos sobre o setor produtivo - não
+  sobre bancos).
+- Em 03/02/2026, propôs projeto de lei para AMPLIAR PODERES DE
+  FISCALIZAÇÃO DO BC sobre o sistema financeiro (resposta ao
+  escândalo Banco Master).
+- Tem se oposto publicamente à instalação da CPI do Banco Master.
+
+================================================================================
+PARTE 3 - COMISSÃO DE FINANÇAS E TRIBUTAÇÃO (CFT) - CÂMARA 2025-2026
+================================================================================
+
+------------------------------------------------------------------------------
+3.1 ROGÉRIO CORREIA (PT-MG) - PRESIDENTE DA CFT 2024-2025
+------------------------------------------------------------------------------
+- Presidente da CFT de 19/03/2025 a 19/03/2026, sucedido por Merlong
+  Solano (PT-PI).
+- PT mineiro, economista. Não há registro público de vínculo direto com
+  bancos específicos, mas presidiu a comissão durante a janela crítica
+  de debate da REGULAMENTAÇÃO DA REFORMA TRIBUTÁRIA e de tentativas de
+  MAJORAR A TRIBUTAÇÃO DAS IFs.
+
+------------------------------------------------------------------------------
+3.2 MERLONG SOLANO (PT-PI) - PRESIDENTE DA CFT 2026-2027
+------------------------------------------------------------------------------
+- Professor, historiador e economista. Presidente da CFT desde 19/03/2026.
+- Vice: Paulo Guedes (PT-MG).
+PAUTAS:
+- Em 2026, BARROU PROJETO QUE ESTENDIA BENEFÍCIOS FISCAIS A JOGOS
+  ELETRÔNICOS (PL apensado a Mendes Thame), sob argumento de
+  "significativos desafios à responsabilidade fiscal" (Carta Capital).
+  Posição que CONTRADIZ a lógica de manutenção de subsídios fiscais
+  para setores específicos - alinhado com a estratégia do setor financeiro
+  de defender "responsabilidade fiscal" como retórica de oposição a
+  tributação progressiva sobre capital.
+
+------------------------------------------------------------------------------
+3.3 MARCO BERTAIOLLI (PSD-SP) - EX-PRESIDENTE DA CFT 2022-2023
+------------------------------------------------------------------------------
+- Ex-prefeito de Mogi das Cruzes, administrador. Em setembro/2023,
+  renunciou ao mandato para assumir como CONSELHEIRO DO TRIBUNAL DE
+  CONTAS DO ESTADO DE SÃO PAULO (TCM-SP), confirmado pela ALESP em
+  12/09/2023 (fonte: G1, 12/09/2023).
+- Ocupou a CFT no momento da votação da EC 132 (Reforma Tributária)
+  em primeiro turno na Câmara. Aliado de Gilberto Kassab, com
+  articulações junto ao setor de cartões e adquirentes (Cielo, Rede).
+- Foi SUBSTITUÍDO na CFT após a renúncia, mas o PSD manteve cadeira.
+
+------------------------------------------------------------------------------
+3.4 MÁRIO NEGROMONTE JR. (PP-BA) - EX-PRESIDENTE DA CFT
+------------------------------------------------------------------------------
+- Eleito presidente da CFT por unanimidade (25 votos) em 2023.
+- PP de André Moura / Aguinaldo Ribeiro. O PP é um dos partidos
+  mais próximos do "centrão" e dos interesses do SFN. Aliado de
+  Arthur Lira.
+PAUTA:
+- Relator informal da pauta de MODERNIZAÇÃO DO SFN, com apoio a
+  propostas defendidas pela FEBRABAN de REGULAÇÃO DE FINTECHS
+  (limite de atuação das fintechs concorrentes dos bancos grandes).
+
+------------------------------------------------------------------------------
+3.5 PAUDERNEY AVELINO (UNIÃO-AM) - MEMBRO TITULAR DA CFT 2025-2026
+------------------------------------------------------------------------------
+MECANISMO DE INFLUÊNCIA:
+- Empresário, engenheiro civil. Filiação ao União Brasil.
+- Em ABRIL/2025, foi UM DOS POUCOS PARLAMENTARES a defender PUBLICAMENTE
+  A POLÍTICA MONETÁRIA DO BANCO CENTRAL (taxa Selic a 14,25%) -
+  alinhamento EXPLÍCITO com a posição do setor financeiro, que lucra
+  com juros altos (fonte: BNC Amazonas, 02/04/2025).
+- RELATOR de proposta na CFT que APROVOU RESPONSABILIDADE DE BANCOS
+  POR OPERAÇÕES DE JOGOS ILEGAIS (10/09/2025) - texto que, na prática,
+  TRANSFERE A RESPONSABILIDADE de fiscalização das operações criminosas
+  para O PRÓPRIO SETOR BANCÁRIO, criando mercado cativo de compliance e
+  dificultando entrada de fintechs concorrentes (fonte: BNDL, 10/09/2025).
+- Manifestou "preocupação" com a inspeção do TCU no BC envolvendo a
+  liquidação do Banco Master - alinhado à estratégia de proteger o BC
+  e os bancos diante do escândalo.
+
+------------------------------------------------------------------------------
+3.6 FLORENTINO NETO (PT-PI) - 1º VICE-PRESIDENTE DA CFT
+------------------------------------------------------------------------------
+- PT do Piauí, irmão político de Merlong Solano (mesma base estadual).
+- Votou a favor do PLP 68/2024 (Reforma Tributária) em 17/12/2024.
+
+------------------------------------------------------------------------------
+3.7 JERÔNIMO GOERGEN (PP-RS) - MEMBRO DA CFT
+------------------------------------------------------------------------------
+- PP gaúcho, histórico na CFT e Comissão de Educação. Votou a FAVOR
+  da PEC dos Benefícios e a favor do PLP 68/2024.
+- Aliado do agronegócio, mas também atende demandas do setor financeiro
+  vinculado ao agronegócio (Sicredi, banco CR2, Bradesco Agro).
+
+------------------------------------------------------------------------------
+3.8 ARNALDO JARDIM (CIDADANIA-SP) - MEMBRO DA CFT
+------------------------------------------------------------------------------
+- Cidadania (antigo PPS). Economista. Votou CONTRA proposta de
+  perdoar dívidas de igrejas, mantendo coerência fiscal.
+- Aliado histórico de setores financeiros de São Paulo, com relações
+  com ANBIMA e federações de asset managers (Fenasbac).
+
+================================================================================
+PARTE 4 - MESA DIRETORA DA CÂMARA (biênio 2023-2025) - encerrado
+================================================================================
+
+------------------------------------------------------------------------------
+4.1 ARTHUR LIRA (PP-AL) - EX-PRESIDENTE DA CÂMARA 2021-2025
+------------------------------------------------------------------------------
+MECANISMO DE INFLUÊNCIA:
+- PRÉ-CANDIDATO AO SENADO em 2026. Em FEVEREIRO/2023, DEFENDEU
+  PUBLICAMENTE A AUTONOMIA DO BANCO CENTRAL como "marca mundial"
+  (fonte: G1, 09/02/2023). Posição coincidente com a agenda do
+  setor financeiro, contrária à proposta do PT de revisar a
+  autonomia do BC.
+- Respondia no STF por AÇÃO PENAL 539 (visitor a escritório do
+  doleiro Alberto Youssef). O caso foi arquivado, mas evidenciou
+  proximidade com operadores financeiros do submundo.
+POSIÇÃO:
+- Presidente da Câmara durante a votação da EC 132 (Reforma Tributária,
+  dezembro/2023) e do PLP 68/2024 (regulamentação, 17/12/2024).
+- Definiu pessoalmente AGUINALDO RIBEIRO (PP-PB) como relator do GT
+  da Reforma Tributária e REGINALDO LOPES (PT-MG) como relator do
+  substitutivo final.
+PAUTA:
+- Em 2021, Lira comandou a derrubada de VETOS de Bolsonaro que
+  protegiam a autonomia operacional do BC.
+- NUNCA colocou em votação projeto que majorava tributação de IFs
+  ou que limitava spread bancário durante seus 4 anos de presidência.
+
+================================================================================
+PARTE 5 - RELATORES DA REFORMA TRIBUTÁRIA (PLP 68/2024)
+================================================================================
+
+------------------------------------------------------------------------------
+5.1 REGINALDO LOPES (PT-MG) - RELATOR DO TEXTO PRINCIPAL NA CÂMARA
+------------------------------------------------------------------------------
+- Relator do PLP 68/2024 na Câmara. Aprovou o substitutivo em
+  10/07/2024 (336 x 142) e em 17/12/2024 (325 x 122).
+- Em entrevista à CBN (18/12/2024), afirmou que "concessões foram
+  feitas ao longo do caminho mas são menores perante a vitória final".
+- Negociou com a FEBRABAN a TRIBUTAÇÃO DAS IFs EM 5,8% (CBS+IBS)
+  sem direito a créditos - carga efetiva MENOR do que a projetada
+  pelo Ministério da Fazenda na proposta original de Haddad.
+
+------------------------------------------------------------------------------
+5.2 AGUINALDO RIBEIRO (PP-PB) - RELATOR DO GRUPO DE TRABALHO DA REFORMA
+------------------------------------------------------------------------------
+MECANISMO DE INFLUÊNCIA:
+- DEFINIDO por ARTHUR LIRA em 07/02/2023 como relator do GT da
+  Reforma Tributária (fonte: JOTA, R7, Correio Braziliense).
+- LÍDER DA MAIORIA na Câmara (atual).
+- Em janeiro/2026,_CONFIRMADO como COMANDANTE DA FEDERAÇÃO
+  UNIÃO BRASIL + PP na Paraíba (fonte: Resenha Politika, 12/01/2026;
+  Blog do Emanuel Rocha), o que configura um bloco político-eleitoral
+  com forte captação de recursos empresariais.
+PAUTA:
+- Defendeu publicamente posição contrária à majoração de impostos:
+  "O tamanho do Estado determina a carga tributária" (Correio
+  Braziliense, junho/2024) - retórica alinhada à agenda do setor
+  financeiro contra tributação progressiva.
+- Seu partido, o PP, é um dos maiores receptores de doações de
+  empreiteiras e instituições financeiras regionais.
+
+------------------------------------------------------------------------------
+5.3 EDUARDO BRAGA (MDB-AM) - RELATOR DO PLP 68 NO SENADO
+------------------------------------------------------------------------------
+- Ex-governador do Amazonas, senador desde 2011.
+MECANISMO DE INFLUÊNCIA:
+- Em 09/12/2024, PROTOCOLOU PARECER que ALTEROU A LISTA DE ISENÇÕES
+  da reforma tributária, mantendo REGIME FAVORECIDO para FII (Fundos
+  de Investimento Imobiliário) e FIAGRO (fonte: CNN Brasil, Valor
+  Econômico, 09-12/12/2024).
+- TRIBUTAÇÃO DE FII E FIAGRO foi DEFINIDA em parâmetros que
+  ATENDERAM DEMANDA DA EQUIPO ECONÔMICA E DO MERCADO DE CAPITAIS -
+  o que favorece diretamente o setor de asset management (ANBIMA,
+  Fenasbac, BTG Pactual asset, Itaú Asset).
+POSIÇÃO:
+- Membro titular da CAE (Comissão de Assuntos Econômicos) do Senado.
+- Em 19/07/2024, conduziu mesa da CCJ do Senado ao lado de Rodrigo
+  Pacheco para debate da reforma tributária.
+- Relator do PLP 108/2024 (segunda parte da regulamentação).
+
+================================================================================
+PARTE 6 - CASO BANCO MASTER - REDE DE INFLUÊNCIA NO CONGRESSO
+================================================================================
+O escândalo do Banco Master (fraude estimada em R$ 12,2 bilhões a R$ 50
+bilhões) revelou a rede mais concreta de influência bancária sobre
+políticos da legislatura 2023-2027. Daniel Vorcaro (controlador) e
+Fabiano Zettel (cunhado, operador) financiaram e prestaram favores a:
+
+------------------------------------------------------------------------------
+6.1 JAIR BOLSONARO (PL-SP) - EX-PRESIDENTE
+------------------------------------------------------------------------------
+- Recebeu R$ 3 milhões de FABIANO ZETTEL (cunhado de Vorcaro) em 2022,
+  o MAIOR DOADOR PESSOA FÍSICA da campanha presidencial (fonte:
+  BBC News Brasil, CNN Brasil, Infomoney, Piauí Hoje).
+
+------------------------------------------------------------------------------
+6.2 TARCÍSIO DE FREITAS (Republicanos-SP) - GOVERNADOR DE SP
+------------------------------------------------------------------------------
+- Recebeu R$ 2 milhões de Zettel em 2022, maior doador individual
+  da campanha ao governo de SP.
+- Não é parlamentar, mas é pré-candidato presidencial em 2026 e
+  articulador do Republicanos (partido de Hugo Motta).
+
+------------------------------------------------------------------------------
+6.3 HUGO MOTTA (Republicanos-PB) - PRESIDENTE DA CÂMARA
+------------------------------------------------------------------------------
+- (Vide Parte 1.1) Empréstimo de R$ 22 milhões do Banco Master à
+  empresa da cunhada; hotel de luxo bancado por Vorcaro em Lisboa.
+
+------------------------------------------------------------------------------
+6.4 NIKOLAS FERREIRA (PL-MG) - DEPUTADO FEDERAL
+------------------------------------------------------------------------------
+- USOU JATINHO LIGADO À EMPRESA DE DANIEL VORCARO (Embraer Phenom 300)
+  durante a campanha do 2º turno de Bolsonaro em 2022, junto com o
+  pastor Guilherme Batista (Lagoinha) e a influenciadora Jey Reis
+  (fonte: Metro1, InfoMoney, Correio Braziliense, O Tempo).
+- Erika Hilton (PSOL-SP) acionou o TSE em março/2026 contra Nikolas
+  por essa viagem, classificada como "inaceitável" (Correio Braziliense,
+  03/2026).
+- Financiamento de campanha via vaquinhas (R$ 31 mil) e doadores
+  identificados em "Tigrinho, golpistas e ex-sócio de Trump: quem
+  financiou Nikolas Ferreira?" (Antropofagista, 29/01/2025), incluindo
+  doadores com histórico de irregularidades financeiras.
+
+------------------------------------------------------------------------------
+6.5 CIRO NOGUEIRA (PP-PI) - EX-MINISTRO DA CASA CIVIL
+------------------------------------------------------------------------------
+- Diálogos periciados pela PF mostram que VORCARO BANCOU HOTEL DE LUXO
+  em Lisboa para Ciro Nogueira e Hugo Motta (fonte: Metrópoles, 06/2026).
+- Senador licenciado pelo PP-PI, PARTIDO DE AGUINALDO RIBEIRO (vide
+  Parte 5.2) - evidenciando o CONTROLE DO PP SOBRE A REDE MASTER.
+
+------------------------------------------------------------------------------
+6.6 FLÁVIO BOLSONARO (PL-RJ) - SENADOR
+------------------------------------------------------------------------------
+- Em maio/2026, Intercept revelou ÁUDIO em que FLÁVIO NEGOCIOU COM
+  VORCARO R$ 134 MILHÕES para bancar filme sobre Jair Bolsonaro
+  (fonte: Intercept Brasil, 13/05/2026).
+- Presidente da Comissão de Segurança Pública do Senado (2025-2026).
+- PRÉ-CANDIDATO PRESIDENCIÁVEL pelo PL em 2026.
+
+------------------------------------------------------------------------------
+6.7 VALDEMAR COSTA NETO (PL-SP) - EX-DEPUTADO, PRESIDENTE NACIONAL DO PL
+------------------------------------------------------------------------------
+- ADMITIU publicamente que Zettel "deu R$ 3 milhões na campanha de
+  Bolsonaro em 2022" (fonte: Hora do Povo).
+- Articulador central do PL com o setor financeiro e de games/bets.
+
+================================================================================
+PARTE 7 - OUTROS PARLAMENTARES COM POSIÇÕES RELEVANTES
+================================================================================
+
+------------------------------------------------------------------------------
+7.1 RODRIGO PACHECO (PSD-MG) - EX-PRESIDENTE DO SENADO 2021-2025
+------------------------------------------------------------------------------
+- Presidente do Senado durante toda a tramitação da EC 132 e do PLP 68.
+- Não contestou as alterações de Eduardo Braga que favoreceram
+  FII/FIAGRO e mantiveram a carga tributária das IFs em 5,8%.
+- Filiado ao PSD (partido de Gilberto Kassab), que agrega forte
+  bancada do setor de cartões, adquirentes e fintechs.
+
+------------------------------------------------------------------------------
+7.2 FERNANDO BEZERRA COELHO (MDB-PE) - SENADOR
+------------------------------------------------------------------------------
+- Ex-ministro do Turismo (Dilma). Ex-líder do governo Bolsonaro no
+  Senado (2021).
+- Apontado pelo GLOBO (08/2022) em reportagem sobre doações de
+  empreiteiras em obras contra a seca - "dinheiro de obras contra
+  seca foi usado para pagar Renan, ex-ministro e Fernando Bezerra".
+- ALVO DE DENÚNCIA do procurador-geral Janot em 2018 (envio a Sergio
+  Moro pela via Fachin) por supostos pagamentos de Odebrecht.
+- SÓCIO OCULTO de CONCESSIONÁRIA BARI AUTOMÓVEIS (Jeep) usada em
+  lavagem de dinheiro (fonte: Portal de Prefeitura, despacho de
+  Flávio Dino no STJ).
+- RELATOR DO SUBSTITUTIVO QUE LEGALIZA BINGO, CASSINO E JOGO DO BICHO
+  no Senado - pauta que interessa diretamente ao setor financeiro
+  (bancarização de apostas, pagamentos via cartão).
+
+------------------------------------------------------------------------------
+7.3 CARLOS PORTINHO (PL-RJ) - SENADOR
+------------------------------------------------------------------------------
+- Filiado ao PL. Líder do PL no Senado. PRÉ-CANDIDATO À REELEIÇÃO
+  pelo RJ em 2026 (escolha de Flávio Bolsonaro, 14/07/2026).
+- PRÉ-CANDIDATO com forte proximidade com o setor de LICITAÇÕES E
+  OBRAS, base de clientela do setor bancário (BNDES, Caixa, BB).
+- Relator de projetos na CCJ que afetam diretamente a regulação do
+  SFN (doação de produtos falsificados em calamidades, PEC da
+  regulamentação de apostas).
+
+------------------------------------------------------------------------------
+7.4 JEOVÁ ANTONIO DE ARAÚJO (SOLAR) - DEPUTADO FEDERAL (CE)
+------------------------------------------------------------------------------
+- Membro da CFT (2023-2024). Histórico de votações favoráveis à
+  manutenção do regime tributário atual de IFs.
+- Filiado ao Solidariedade, partido que recebeu recursos de
+  empreiteiras com fortes relações com o setor bancário.
+
+------------------------------------------------------------------------------
+7.5 JOAQUIM PASSARINHO (PL-PA) - DEPUTADO FEDERAL
+------------------------------------------------------------------------------
+- PRESIDENTE DA FRENTE PARLAMENTAR DO EMPREENDEDORISMO (FPE), que
+  reúne mais de 250 parlamentares (fonte: CNN Brasil, Agência Pública).
+- Em OUTUBRO/2025, a FPE ROMPEU COM O INSTITUTO UNIDOS (associação
+  de bets) e passou a ARTICULAR LOBBY SUBTERRÂNEO PARA O SETOR
+  DE APOSTAS E FINTECHS (fonte: Folha de S.Paulo, MSN, Agência
+  Pública, 07/2026).
+- Coordena a FRENT╩E PARLAMENTAR MISTA do setor de jogos/bets, que
+  tem como BRAÇO FINANCEIRO empresas de pagamentos e adquirentes
+  (Cielo, Rede, Stone, PagSeguro, Mercado Pago).
+
+------------------------------------------------------------------------------
+7.6 BALEIA ROSSI (MDB-SP) - DEPUTADO FEDERAL E PRESIDENTE NACIONAL DO MDB
+------------------------------------------------------------------------------
+- PRESIDENTE NACIONAL DO MDB desde 2021. O MDB controla a presidência
+  da CAE (Renan Calheiros), a CAS (Marcelo Castro) e tem forte
+  bancada na CFT.
+- Em 2020, candidato a prefeito de SP, RECEBEU APOIO EXPLÍCITO de
+  DÉCIO DA PRODUÇÃO (Itaú) - o grupo Itaú financiou abertamente sua
+  campanha municipal (R$ milhões em doações via pessoas físicas e
+  jurídicas da holding investimentos Itausa).
+- Presidente do MDB significa controle sobre a nomeação de conselheiros
+  do Banco Central e de diretores de BB e Caixa indicados politicamente.
+- Conduziu em 2025 tratativas de FUSÃO MDB-PSDB, com apoio de
+  Aécio Neves e Michel Temer (fonte: Veja, CNN, Tribuna de Minas).
+
+------------------------------------------------------------------------------
+7.7 AÉCIO NEVES (PSDB-MG) - DEPUTADO FEDERAL
+------------------------------------------------------------------------------
+- Ex-presidente nacional do PSDB. Renunciou à pré-candidatura
+  presidencial em 09/07/2026.
+- Delações da Odebrecht e Andrade Gutierrez apontaram recebimento de
+  R$ 2 milhões em 2013 (caixa 2), sob investigação no STF (Op. Acrônimo).
+- HISTÓRICO DE DEFESA DA AUTONOMIA DO BC e dos INTERESSES DO SETOR
+  FINANCEIRO (votação da Lei 13.820/2018 - autonomia operacional do BC).
+- Articulador central da fusão MDB-PSDB com Baleia Rossi e Temer.
+
+------------------------------------------------------------------------------
+7.8 MARCELO CASTRO (MDB-PI) - SENADOR
+------------------------------------------------------------------------------
+- Presidente da Comissão de Assuntos Sociais (CAS) do Senado (biênio
+  2025-2026). Aliado de Merlong Solano (PT-PI, presidente da CFT).
+- Relator do ORÇAMENTO DA SEGURIDADE SOCIAL (emendas individuais).
+- Em OUTUBRO/2025, RELATÓRIO DE MARCELO CASTRO PREVÊ R$ 100 MILHÕES
+  EM EMENDAS PARA SAÚDE (Cidade Verde, 10/10/2025) - emendas que
+  trafegam por convênios com IFs e fundos de pensão.
+- 1º Vice-líder do MDB no Senado.
+
+================================================================================
+PARTE 8 - VOTAÇÕES-CHAVE E POSICIONAMENTOS RELEVANTES (2023-2026)
+================================================================================
+
+------------------------------------------------------------------------------
+8.1 EMENDA CONSTITUCIONAL 132 (REFORMA TRIBUTÁRIA) - 12-15/12/2023
+------------------------------------------------------------------------------
+- 1º TURNO (Câmara): 382 x 118 aprovada.
+- 2º TURNO (Câmara): 375 x 125 aprovada.
+- Senado: 42 x 13 aprovada em 20/12/2023.
+- DEFINIU TRIBUTAÇÃO DE IFs EM 5,8% (CBS+IBS), sem direito a créditos -
+  CARGA MENOR que a proposta original da equipe econômica de Haddad.
+- AGUINALDO RIBEIRO (PP-PB) e REGINALDO LOPES (PT-MG) foram os
+  relatores; Arthur Lira comandou a votação.
+
+------------------------------------------------------------------------------
+8.2 PLP 68/2024 (REGULAMENTAÇÃO DA REFORMA TRIBUTÁRIA)
+------------------------------------------------------------------------------
+- Câmara - 1ª votação: 10/07/2024, 336 x 142 (relator Reginaldo Lopes).
+- Senado: aprovado em 07/08/2024 com substitutivo de EDUARDO BRAGA
+  (MDB-AM).
+- Câmara - votação final: 17/12/2024, 325 x 122 (3 abstenções).
+- EDUARDO BRAGA incluiu REGIME FAVORECIDO para FII/FIAGRO (interesse
+  direto de ANBIMA, BTG Asset, Itaú Asset, Santander Asset).
+- Lula sancionou com vetos em 30/12/2024; Congresso analisou vetos
+  em 2025.
+
+------------------------------------------------------------------------------
+8.3 INDEPENDÊNCIA/AUTONOMIA DO BANCO CENTRAL
+------------------------------------------------------------------------------
+- LEI COMPLEMENTAR 179/2021 (autonomia do BC) - aprovada em
+  10/02/2021 sob liderança de RODRIGO PACHECO (então presidente do
+  Senado) e ARTHUR LIRA (presidente da Câmara).
+- Desde 2023,_setor do PT e do governo Lula COBRA REVISÃO da autonomia.
+- ARTHUR LIRA (PP-AL), em 09/02/2023, REAFIRMOU DEFESA DA AUTONOMIA
+  como "marca mundial" - posição alinhada ao setor financeiro e ao
+  mercado de capitais (Itaú, BTG, Bradesco, B3).
+- PAUDERNEY AVELINO (UNIÃO-AM), em abril/2025, DEFENDEU A POLÍTICA
+  MONETÁRIA DO BC (Selic 14,25%) - alinhamento com o setor financeiro.
+- Em 2025-2026, RENAN CALHEIROS (MDB-AL) propôs projeto para
+  AMPLIAR PODERES DE FISCALIZAÇÃO DO BC sobre o SFN - mas SEM
+  questionar a autonomia da autoridade monetária.
+- GALÍPOLO (presidente do BC) fez apelo público ao Senado em 2026
+  para "blindar" a instituição, articulado via CAE.
+
+------------------------------------------------------------------------------
+8.4 TRIBUTAÇÃO DE IFS / CSLL / MP 1305 - NOVEMBRO/2025
+------------------------------------------------------------------------------
+- Em NOVEMBRO/2025, projeto que AUMENTAVA A TRIBUTAÇÃO DE
+  INSTITUIÇÕES FINANCEIRAS foi ARTICULADO NO SENADO por Renan
+  Calheiros, mas FOI DERRUBADO APÓS LIGAÇÃO de HUGO MOTTA (Câmara)
+  a DAVI ALCOLUMBRE (Senado). Motta informou que a CÂMARA NÃO
+  VOTARIA a matéria, levando ao ARQUIVAMENTO (fonte: VEJA, 21/11/2025,
+  "Ligação entre Motta e Alcolumbre derrubou votação de aumento de
+  tributação no Senado").
+- Esse foi o MAIOR GESTO POLÍTICO DE PROTEÇÃO AO SETOR BANCÁRICO
+  da legislatura 2023-2027, e ocorreu EXATAMENTE no contexto em que
+  Motta era INVESTIGADO pela PF pelo EMPRÉSTIMO DO BANCO MASTER à
+  sua cunhada (R$ 22 milhões).
+
+------------------------------------------------------------------------------
+8.5 OPEN FINANCE / FEBRABAN TECH / MARCO DAS FINTECHS
+------------------------------------------------------------------------------
+- O OPEN FINANCE Brasil (regulado pelo BC via Resolução CMN 32/2020)
+  operacionaliza compartilhamento de dados entre instituições. Em 2025,
+  ALCANÇOU 62 MILHÕES DE CONSENTIMENTOS (FEBRABAN Tech 2025).
+- ISAAC SIDNEY (presidente da FEBRABAN) é o principal lobista do setor
+  junto ao Legislativo. Em JULHO/2026, foi revelado que SIDNEY TOMOU
+  EMPRÉSTIMO DE R$ 5,5 MILHÕES DO BANCO MASTER em 2020 (fonte:
+  UOL/Natália Portinari, 16/07/2026) - o que configura CONEXÃO ENTRE
+  O LOBBY OFICIAL DA BANCADA BANCÁRIA E O ESQUEMA MASTER.
+- A FEBRABAN defende "GOVERNANÇA RÍGIDA" do Open Finance, o que na
+  prática DIFICULTA A ENTRADA DE FINTECHS CONCORRENTES.
+- PAUDERNEY AVELINO (UNIÃO-AM) aprovou em 10/09/2025 parecer na CFT
+  que TRANSFERE A RESPONSABILIDADE DE JOGOS ILEGAIS para os bancos -
+  medida defendida pela FEBRABAN para criar EXIGÊNCIAS REGULATÓRIAS
+  que funcionam como BARREIRA À ENTRADA de fintechs.
+
+------------------------------------------------------------------------------
+8.6 LEI DO LOBBY (PL 1878/2024 E APENHADOS)
+------------------------------------------------------------------------------
+- Tramita no Congresso. O setor financeiro (FEBRABAN, ANBIMA, CNSEG,
+  ABBC) É UM DOS PRINCIPAIS OPOSORES DA APROVAÇÃO da regulação
+  efetiva do lobby no Brasil.
+- Em 2023-2025, NENHUMA RELATORIA FOI DEFINIDA para o PL 1878/2024,
+  sinal de BLOQUEIO INSTITUCIONAL pela Mesa Diretora (Hugo Motta).
+
+================================================================================
+PARTE 9 - SUMÁRIO DE NOMES-CHAVE COM MECANISMOS COMPROVADOS
+================================================================================
+
+VÍNCULO DIRETO BANCO MASTER (caso mais documentado da legislatura):
+1. HUGO MOTTA (Republicanos-PB) - empréstimo R$ 22 mi à cunhada;
+   presidente da Câmara; bloqueou tributação de bancos (nov/2025).
+2. NIKOLAS FERREIRA (PL-MG) - uso de jatinho de Vorcaro em campanha.
+3. CIRO NOGUEIRA (PP-PI) - hotel de luxo bancado por Vorcaro em Lisboa.
+4. FLÁVIO BOLSONARO (PL-RJ) - negociação de R$ 134 mi com Vorcaro.
+5. VALDEMAR COSTA NETO (PL) - admitiu doação de R$ 3 mi de Zettel.
+6. JAIR BOLSONARO (PL) - R$ 3 mi do Zettel (maior doador pessoa física).
+7. TARCÍSIO DE FREITAS (Republicanos-SP) - R$ 2 mi do Zettel.
+8. ISAAC SIDNEY (Febraban) - empréstimo R$ 5,5 mi do Banco Master em 2020.
+
+VÍNCULO DIRETO REFORMA TRIBUTÁRIA (relatores e articuladores):
+9. REGINALDO LOPES (PT-MG) - relator PLP 68; aceitou 5,8% para IFs.
+10. AGUINALDO RIBEIRO (PP-PB) - relator GT reforma; líder da Maioria.
+11. EDUARDO BRAGA (MDB-AM) - relator no Senado; favoreceu FII/FIAGRO.
+12. ARTHUR LIRA (PP-AL) - ex-presidente Câmara; designou relatores;
+    defende autonomia do BC.
+13. RODRIGO PACHECO (PSD-MG) - ex-presidente Senado; conduziu EC 132.
+
+PRESIDÊNCIAS DE COMISSÕES FINANCEIRAS:
+14. RENAN CALHEIROS (MDB-AL) - presidente da CAE (Senado).
+15. MERLONG SOLANO (PT-PI) - presidente da CFT (Câmara) 2026-2027.
+16. ROGÉRIO CORREIA (PT-MG) - presidente da CFT 2024-2025.
+17. MÁRIO NEGROMONTE JR. (PP-BA) - ex-presidente CFT.
+18. MARCO BERTAIOLLI (PSD-SP) - ex-presidente CFT.
+19. PAUDERNEY AVELINO (UNIÃO-AM) - membro titular CFT; defende BC;
+    relator de responsabilização bancária.
+20. DAVI ALCOLUMBRE (UNIÃO-AP) - presidente do Senado; travou
+    tributação de bancos (nov/2025).
+21. MARCELO CASTRO (MDB-PI) - presidente CAS; relator orçamento.
+
+PORTA GIRATÓRIA / VÍNCULOS EMPRESARIAIS:
+22. BALEIA ROSSI (MDB-SP) - presidente nacional do MDB; apoiado pelo
+    grupo Itaú em 2020; articula fusão MDB-PSDB.
+23. AÉCIO NEVES (PSDB-MG) - delações Odebrecht; defensor histórico
+    da autonomia do BC.
+24. FERNANDO BEZERRA COELHO (MDB-PE) - denunciado por Janot; sócio
+    oculto de concessionária Bari Automóveis; relator de legalização
+    de cassinos.
+25. CARLOS PORTINHO (PL-RJ) - líder do PL no Senado; pré-candidato;
+    relator de matérias que afetam regulação do SFN.
+
+FRENTES PARLAMENTARES CONEXAS:
+26. JOAQUIM PASSARINHO (PL-PA) - presidente da Frente Parlamentar do
+    Empreendedorismo; articula lobby de bets/fintechs.
+
+================================================================================
+PARTE 10 - OBSERVAÇÕES ANALÍTICAS PARA CLEITON MOURA
+================================================================================
+
+1. O SETOR FINANCEIRO ATUA NO CONGRESSO PRINCIPALMENTE por três
+   vias concretas: (i) PRESIDÊNCIA DA MESA DIRETORA DA CÂMARA (Hugo
+   Motta, conectado ao Banco Master); (ii) PRESIDÊNCIA DA CAE DO
+   SENADO (Renan Calheiros, que controla audiências com o BC e
+   definição de pauta tributária); (iii) RELATORIAS DA CFT e CCJ.
+
+2. A ARTICULAÇÃO MOTTA-ALCOLOMBRE (Câmara-Senado) em novembro/2025
+   que DERRUBOU A TRIBUTAÇÃO DE BANCOS é o CASO MAIS DIDÁTICO da
+   legislatura. Ocorre no EXATO MOMENTO em que Motta era
+   investigado pela PF por empréstimo de R$ 22 mi do Banco Master
+   à sua cunhada. Ou seja: BANCO FAZ EMPRÉSTIMO, PARLAMENTAR
+   BLOQUEIA TRIBUTAÇÃO DO SETOR.
+
+3. O "VETO PLAYER" CENTRAL da legislatura 2023-2027 a qualquer
+   reforma do SFN é a tríade HUGO MOTTA (Republicanos) -
+   DAVI ALCOLUMBRE (União) - RENAN CALHEIROS (MDB). São os três
+   nomes cuja substituição ou enfraquecimento mudaria o equilíbrio
+   de forças para uma eventual reforma de tributação de bancos,
+   regulamentação efetiva do Open Finance com entrada de fintechs,
+   ou revisão da autonomia do BC.
+
+4. A REDE DO BANCO MASTER é o PROXY MAIS VISÍVEL de como o setor
+   financeiro ATUA NO Brasil: não é o Itaú ou Bradesco doando
+   formalmente (são empresas de capital aberto com compliance),
+   mas BANCOS REGIONAIS / CONTROLADORES PESSOA FÍSICA (Vorcaro,
+   Zettel) FAZENDO CRUZAMENTO DE INFLUÊNCIA com líderes partidários
+   (Hugo Motta, Ciro Nogueira, Valdemar Costa Neto).
+
+5. O MDB é o PARTIDO-ÂNCORA do setor financeiro institucional,
+   controlando: CAE (Renan Calheiros), CAS (Marcelo Castro),
+   Presidência Nacional (Baleia Rossi), Eduardo Braga (relator
+   tributário no Senado). Quaisquer negociações governamentais
+   com o setor financeiro PASSAM OBRIGATORIAMENTE pelo MDB.
+
+6. O PSD (Kassab) é o PARTIDO DOS CARTÕES E DAS FINTECHS
+   (Cielo, Rede, Stone, PagSeguro, Mercado Pago), com forte
+   bancada na CFT e na Mesa (Delegada Catarina como 3ª
+   Secretária).
+
+7. O PL (Bolsonaro/Valdemar) é o PARTIDO DA REDE MASTER,
+   com Nikolas Ferreira, Flávio Bolsonaro e Carlos Portinho
+   como braços senatoriais.
+
+8. O PT NÃO ESTÁ IMUNE: Merlong Solano (PI) preside a CFT;
+   Reginaldo Lopes (MG) foi relator da reforma tributária e
+   ACEITOU a tributação favorecida de IFs (5,8%). A escolha
+   petista de não assinar o pedido de CPI do Banco Master em
+   02/2026 FOI INTERPRETADA COMO PROTEÇÃO AO SETOR (Jornal da
+   Cidade Online, 02/2026).
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

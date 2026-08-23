@@ -1,0 +1,646 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-020
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Podcast 'Gestão Não Gasto' — Temporada 1
+STATUS: PUBLICACAO_PENDENTE
+DESTINATÁRIO: Spotify/YouTube
+AÇÃO: Produzir/Publicar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 35,704 bytes (34.9 KB)
+HASH MD5: 69391437185d154c3243c29d6b170706
+HASH SHA-256: bbe7bb6a8606ce112ffc89772679ce74c792655f63348658a9b5846189ef119a
+================================================================================
+
+================================================================================
+PODCAST "GESTÃO NÃO GASTO" — PLANEJAMENTO TEMPORADA 1 (EPISÓDIOS 1 A 5)
+Formato: 45 min/episódio | Frequência: quinzenal | Estilo: técnico-acessível
+Apresentador: Cleiton Moura (@professorcinza)
+Linha editorial: economia política brasileira, dados com fontes, narrativa investigativa
+================================================================================
+
+
+================================================================================
+EPISÓDIO 1 — "R$ 950 BI: O ALUGUEL DA DÍVIDA"
+Duração: 45 min | Gravação: Bloco único com cortes internos
+================================================================================
+
+1) TÍTULO
+"R$ 950 bi: O aluguel da dívida — Quanto o Brasil paga de juros, para quem,
+e por que isto é o problema central"
+
+2) TESE CENTRAL
+O Estado brasileiro transfere, anualmente, uma soma próxima a R$ 950 bilhões
+(entre juros nominais da dívida mobiliária e rolagem) a um grupo reduzido de
+detentores de títulos públicos — fundos, bancos, investidores estrangeiros e
+rentistas nacionais. Este volume supera o orçamento do SUS, da educação básica
+e da segurança pública somados. Não se trata de "gasto", mas de um aluguel
+estrutural: o custo de manter um modelo fiscal-monetário que privilegia a
+estabilidade da dívida sobre o desenvolvimento. O episódio defende que qualquer
+debate sério sobre "gasto público" no Brasil é falso se não colocar o serviço
+da dívida no centro — ele é a maior despesa, a mais rígida e a menos discutida.
+
+3) PAUTA — 4 BLOCOS
+
+BLOCO 1 — INTRODUÇÃO (8 min)
+  - Gancho narrativo: "Imagine um país que descobre, todo ano, que a maior
+    despesa do seu orçamento não é saúde, nem educação, nem estrada — é o
+    aluguel de uma dívida que nunca acaba."
+  - Apresentação do conceito: o que é "serviço da dívida" e por que raramente
+    aparece no debate público.
+  - Diferença entre déficit primário (que a mídia cobre) e resultado nominal
+    (que inclui juros — o número real).
+  - Apresentação do podcast "Gestão Não Gasto": por que começar por aqui.
+
+BLOCO 2 — DESENVOLVIMENTO (15 min)
+  - Quanto é, de fato: juros nominais da dívida mobiliária federal (DMF)
+    fecharam 2024 em torno de R$ 700-780 bi; com rolagem e encargos, o fluxo
+    anual se aproxima de R$ 950 bi. Recorde histórico.
+  - Quem recebe: perfil dos detentores de títulos públicos — 30-35% bancos
+    comerciais e fundos de investimento, 25-30% fundos de pensão e seguradoras,
+    15-20% não-residentes, o resto tesouro direto e outros.
+  - Estrutura da dívida: ~40% pré-fixada, ~30% pós-fixada à Selic (LFT), o
+    restante atrelada a índices (IPCA, câmbio). Implicação: a Selic alta
+    alimenta o gasto automaticamente.
+  - Por que o "aluguel" nunca cai: o Brasil não amortiza a dívida — rola.
+    Cada título que vence é substituído por outro, muitas vezes maior.
+  - Comparação: juros da dívida x PIB x principais programas sociais
+    (Bolsa Família ~R$ 150 bi/ano; SUS ~R$ 250 bi na União).
+
+BLOCO 3 — CONVIDADO (15 min)
+  - Entrevista estruturada (ver perguntas abaixo).
+  - Foco: o que muda se olharmos o orçamento pela ótica da receita do rentista.
+
+BLOCO 4 — ENCERRAMENTO (7 min)
+  - Recap dos três takeaways.
+  - Teaser do Episódio 2 (spread bancário).
+  - Call to action: "Se você acha que o problema é a caneta do servidor,
+    entenda quanto custa a caneta que assina o coupon da dívida."
+
+4) CONVIDADO SUGERIDO: MARCOS MENDES (INSPER)
+  Economista, PhD em Economia pela USP, pesquisador sênior do Insper, autor de
+  "Orçamento Público e Responsabilidade Fiscal: Como o Brasil pode escapar da
+  armadilha da dívida" (LTC, 2021). É o economista mais citado pela imprensa
+  quando o tema é "esqueleto da dívida" e custo fiscal das emendas
+  parlamentares. Justificativa: combina rigor técnico com capacidade de falar
+  para leigo — escreve colunas em Gazeta do Povo e Valor. Já criticou tanto
+  o "teto fictício" quanto o "orçamento secreto", o que dá credibilidade
+  cruzada. Alternative de contingência: Samuel Pessôa (IBRE/FGV), economista
+  com linha similar e coluna na Folha de S.Paulo.
+
+5) 5 PERGUNTAS-CHAVE PARA O CONVIDADO
+  Q1. "Quando a imprensa fala em 'déficit zero', está falando de déficit
+       primário. Por que esse número não conta a história real?"
+  Q2. "Quem são, de fato, os credores do Estado brasileiro? Quantas
+       instituições concentram a maior parte dos títulos?"
+  Q3. "O Brasil paga cerca de 6-7% de juros reais para rolar a dívida. Outros
+       países emergentes pagam 2-3%. Por que esse prêmio de risco é tão alto e
+       quem decide isso — o mercado ou a política?"
+  Q4. "Existe tecnicamente uma saída que não seja inflação ou calote? Que
+       fizeram Chile, México, Índia quando estiveram aqui?"
+  Q5. "Se o sen fosse o ministro da Fazanha por 6 meses, quais seriam as 3
+       primeiras medidas concretas?"
+
+6) DADOS PRINCIPAIS DO EPISÓDIO
+  D1. Juros nominais da dívida mobiliária federal em 2024: ~R$ 700-780 bi
+      (12 meses). Recorde absoluto. Fonte: Banco Central, Nota para a Imprensa
+      - Política Fiscal (seção "Resultado Nominal" e "Juros Nominais"), divulgada
+      mensalmente em bcb.gov.br — série histórica.
+  D2. Dívida mobiliária federal total: ~R$ 6,3 trilhões (dez/2024), sendo
+      ~R$ 6,0 tri interna + ~R$ 0,3 tri externa. Fonte: STN, "Dívida Pública
+      Federal - Relatório Mensal", stn.fgov.br.
+  D3. Composição por indexador (aprox.): 40% prefixada, 30% Selic (LFT),
+      20% IPCA, 10% câmbio/outros. Fonte: STN, Anexo I do Relatório Mensal.
+  D4. Bolsa Família 2024: despesa ~R$ 160 bi. SUS (orçamento federal):
+      ~R$ 250 bi. Comparação ilustrativa do tamanho do "aluguel".
+      Fonte: LOA 2024 e SIGA Brasil / Senado.
+  D5. Custo fiscal estimado de cada ponto percentual de Selic para o Tesouro:
+      ~R$ 30-35 bi/ano. Fonte: calculo BC/STN, citado em relatórios de各大
+      consultorias (Tendências, LCA, MCM).
+  D6. Resultado primário 2024: déficit de ~R$ 40-60 bi (meta descumprida).
+      Resultado nominal: déficit de ~R$ 700-800 bi (impacto dos juros).
+      Fonte: BC, Nota para a Imprensa - Política Fiscal.
+
+7) TAKEAWAYS DO EPISÓDIO
+  T1. O Brasil tem um problema fiscal, mas não é onde a mídia aponta: o
+      "aluguel da dívida" (juros nominais) é 3-4x maior que todo o Bolsa
+      Família e maior que todo o gasto federal com saúde.
+  T2. A dívida não é amortizada — é rolada. Cada ano ela cresce com os
+      juros, e o serviço se torna mais caro automaticamente. Não há plano
+      técnico de médio prazo para sair disso.
+  T3. Discutir "gasto público" sem discutir o serviço da dívida é teatro.
+      É como discutir o orçamento de uma família e esconder a parcela do
+      financiamento do carro — só que o carro é a patriomônio da República.
+
+
+================================================================================
+EPISÓDIO 2 — "SPREAD DE 30%: O IMPOSTO PRIVADO"
+Duração: 45 min
+================================================================================
+
+1) TÍTULO
+"Spread de 30%: O imposto privado — Decomposição do spread bancário e por que
+competição não resolve sozinha"
+
+2) TESE CENTRAL
+O spread médio das operações de crédito no Brasil fica entre 25% e 35% a.a.
+(crédito livre pessoa física), o maior do mundo entre economias comparáveis.
+A decomposição oficial (FEBRABAN/BC) mostra que o spread não é só "lucro do
+banco": é inadimplência (~30% do spread), despesas administrativas (~20%),
+impostos (~15%), custo de captação (~25%) e margem líquida (~10%). Cada
+componente é um microcosmo de uma disfunção brasileira — judicialização da
+inadimplência, complexidade tributária, baixa concorrência, custo de
+cumprimento (compliance). Reduzir o spread exige atacar todos os pilares, não
+apenas "quebrar os oligopólios". O episódio mostra que o spread é, na prática,
+um imposto privado cobrado por um sistema oligopolista com a anuência do
+regulador.
+
+3) PAUTA — 4 BLOCOS
+
+BLOCO 1 — INTRODUÇÃO (7 min)
+  - Gancho: "Se você pegar R$ 1.000 emprestados e pagar R$ 1.300 daqui a um
+    ano, R$ 300 vão para o banco. Para onde exatamente vai esse dinheiro?"
+  - Conceito: spread = diferença entre taxa que o banco cobra e taxa que paga
+    para captar.
+  - Por que o spread brasileiro é 5x maior que o americano, 3x o mexicano.
+
+BLOCO 2 — DESENVOLVIMENTO (16 min)
+  - Decomposição oficial (média 2023-2024):
+      * Inadimplência: 28-32% do spread
+      * Despesas administrativas (incl. funcionários, TI, agências): 18-22%
+      * Impostos diretos e indiretos (IOF, PIS/COFINS, IRPJ, CSLL): 14-18%
+      * Custo de captação (próprio spread de funding): 22-26%
+      * Margem líquida (lucro efetivo do banco): 8-12%
+  - Cada componente é um capítulo brasileiro:
+      * Inadimplência alta = judicialização fácil, renegociação compulsória,
+        cultura de não-pagamento.
+      * Custo de captação alto = própria Selic alta (liga com Episódio 1).
+      * Impostos = carga tributária sobre crédito é das mais altas do mundo.
+      * Despesas administrativas = oligopólio impede escala (5 grandes bancos
+        concentram 80%).
+  - Por que Nubank e fintechs não derrubaram o spread: competiram por clientes
+    de renda mais baixa, mas mantiveram spreads altos. Concentração do
+    crédito continuou.
+  - O papel do BC: cada vez que sobe Selic, transfere renda para o sistema
+    financeiro via repasse automático.
+
+BLOCO 3 — CONVIDADO (15 min)
+  - Ver perguntas-chave abaixo.
+
+BLOCO 4 — ENCERRAMENTO (7 min)
+  - Recap. Teaser Episódio 3 ("se o banco cobra esse imposto, quanto ele paga
+    para o congressista?").
+
+4) CONVIDADO SUGERIDO: SAMUEL PESSÔA (IBRE/FGV)
+  PhD em Economia pela USP, professor da EPGE/FGV, chefe do Centro de
+  Crescimento Econômico do IBRE/FGV, colunista da Folha de S.Paulo. Pesquisador
+  mais citado do Brasil em produtividade, câmbio e custo financeiro.
+  Justificativa: tem papers publicados sobre decomposição do spread efeitos da
+  Selic sobre o crédito. Combina rigor acadêmico com presença em mídia
+  (Folha, programas de TV a cabo). É crítico tanto do BC quanto do
+  "nacional-desenvolvimentismo", o que dá equilíbrio.
+  Alternative de contingência: Armando Castelar Pinheiro (IBRE/FGV), especialista
+  em sistema financeiro e regulação bancária.
+
+5) 5 PERGUNTAS-CHAVE PARA O CONVIDADO
+  Q1. "A decomposição do spread muda muito ao longo dos anos. O componente
+       'lucro do banco' cresceu ou encolheu na última década?"
+  Q2. "Quanto do spread é estrutural (não cai com competição) e quanto é
+       comportamental? Por que as fintechs não reduziram mais o spread?"
+  Q3. "A inadimplência brasileira é alta porque o crédito é caro, ou o crédito
+       é caro porque a inadimplência é alta? Existe armadilha aqui?"
+  Q4. "Se o Brasil tributasse crédito como Estados Unidos (praticamente não
+       tributa juros), quanto cairia o spread? Por que ninguém discute isso?"
+  Q5. "O sr. defenderia algum tipo de teto para spread em operações de crédito
+       direcionado (como Crédito Rural, FGI), ou isso é intervenção ruim?"
+
+6) DADOS PRINCIPAIS DO EPISÓDIO
+  D1. Spread médio pessoa física (crédito livre, 2024): ~30% a.a. Spread
+      pessoa jurídica: ~15-18%. Fonte: BC, "Estatísticas de Crédito", série
+      20783 (spread médio), dadosabertos.bcb.gov.br.
+  D2. Decomposição do spread (Relatório de Economia Bancária 2024, BC):
+      inadimplência ~30%, adm ~20%, impostos ~15%, captação ~25%, margem ~10%.
+      Fonte: Banco Central, "Relatório de Economia Bancária e Crédito", seção
+      "Decomposição do Spread", bcb.gov.br/publicacoes.
+  D3. Concentração bancária (5 maiores — Itaú, Bradesco, Caixa, BB, Santander):
+      ~80% dos ativos do sistema. Fonte: BC, Top 50 Maiores Bancos, em
+      bcb.gov.br/fis/top50.
+  D4. Spread no Brasil vs. comparáveis (média 2010-2020): Brasil 30%, México
+      8%, Chile 6%, EUA 3%. Fonte: Banco Mundial, "Financial Sector
+      Indicators",dados.worldbank.org.
+  D5. Tributação sobre crédito: PIS/COFINS sobre operações financeiras,
+      IOF, IRPJ/CSLL sobre bancos — somam ~R$ 150 bi/ano. Fonte: Receita
+      Federal, "Carga Tributária no Brasil", receita.fazenda.gov.br.
+  D6. Evolução do Nubank e impacto no spread: apesar de captar 100 mi de
+      clientes, spread médio do setor não caiu substancialmente desde 2018.
+      Fonte: BC e Relatório de Economia Bancária.
+
+7) TAKEAWAYS DO EPISÓDIO
+  T1. O spread não é "lucro do banco": apenas ~10% é margem líquida. O resto
+      é inadimplência, tributação, custo administrativo e captação — cada um
+      um problema estrutural brasileiro.
+  T2. Competição por si só não reduz o spread — prova disso é que fintechs
+      com 100 milhões de clientes não derrubaram a taxa média. O spread é
+      estrutural e exige reformas (tributária, judicial, concorrência).
+  T3. Cada ponto de Selic que o BC sobe é repassado quase 1:1 ao tomador final
+      de crédito. Política monetária e custo do crédito são a mesma coisa.
+
+
+================================================================================
+EPISÓDIO 3 — "BANCO MASTER: O MAPA DA CAPTURA"
+Duração: 45 min
+================================================================================
+
+1) TÍTULO
+"Banco Master: O mapa da captura — Como o sistema financeiro captura o
+Congresso"
+
+2) TESE CENTRAL
+O caso Banco Master, que culminou na prisão de Daniel Vorcaro pela Polícia
+Federal em novembro de 2025, é o caso-escola mais recente de como o sistema
+financeiro captura o Congresso Nacional. As mensagens reveladas pela PF
+mostram jantares na residência oficial do presidente da Câmara (Hugo Motta),
+empréstimos de R$ 140 milhões a empresa da cunhada do presidente, R$ 2,2
+bilhões ocultados em conta do pai de Vorcaro — tudo isso em paralelo à
+tentativa de venda do Master para o BRB (banco estatal do DF). O episódio
+argumenta que Master não é um "crime isolado": é o sintoma de uma engenharia
+de captura que conecta bancos de médio porte, fundos de pensão estaduais,
+mesas da Câmara e presidência do Senado. A captura não é episódica — é
+estrutural.
+
+3) PAUTA — 4 BLOCOS
+
+BLOCO 1 — INTRODUÇÃO (8 min)
+  - Gancho narrativo: "Em 26 de fevereiro de 2025, menos de um mês depois de
+    assumir a presidência da Câmara, Hugo Motta jantou na residência oficial
+    com o dono do Banco Master e seis empresários. O que foi combinado
+    naquele jantar diz muito sobre como o Brasil é governado."
+  - Contexto: quem é Daniel Vorcaro, o que é o Banco Master, por que importou.
+  - Por que isso não é "mais um escândalo" — é o mapa da captura.
+
+BLOCO 2 — DESENVOLVIMENTO (14 min)
+  - Linha do tempo do caso Master:
+      * 2024: MPF abre investigação sobre carteiras de crédito falsas.
+      * Out/2025: tentativa de venda do Master ao BRB (banco estatal do DF).
+      * Nov/2025: PF prende Vorcaro, afasta presidente do BRB (Paulo Henrique
+        Costa), descobre R$ 2,2 bi ocultos em conta do pai de Vorcaro.
+      * Mensagens obtidas pelo Poder360: jantar Motta + Vorcaro + empresários
+        na residência oficial em 26/02/2025.
+      * Revelações subsequentes: empréstimo de R$ 140 mi do Master a empresa
+        da cunhada de Motta; uso de jatinho de Vorcaro por Motta.
+      * CPI do Master em tramitação na Câmara.
+  - Conexões com Motta e Alcolumbre: papel de cada um, interesses.
+  - Por que o BRB? Estatal pequeno, vulnerável, com governança frágil.
+  - O método da captura: empréstimo não-cobrado + jantar + favorecimento
+    legislativo (emendas, nomeações, relatorias).
+  - Monitoramento a jornalista Malu Gaspar (O Globo): Vorcaro ofereceu
+    R$ 120 mil/mês e monitorou sua vida privada — silenciamento da imprensa.
+
+BLOCO 3 — CONVIDADO (15 min)
+  - Ver perguntas abaixo.
+
+BLOCO 4 — ENCERRAMENTO (8 min)
+  - Recap e teaser Episódio 4: "Master mostra a captura episódica. Mas o
+    orçamento secreto 2.0 mostra a engenharia da captura que virou sistema."
+
+4) CONVIDADO SUGERIDO: FÁBIO SERAPIÃO (COLUNISTA UOL / ANTERIORMENTE METRÓPOLES)
+  Jornalista investigativo, atualmente na coluna do UOL (migrado recentemente
+  de Metrópoles), com histórico de reportagens sobre corrupção no Congresso e
+  no sistema financeiro. Formado em jornalismo pela USP, atua em Brasília há
+  mais de 15 anos. Foi um dos jornalistas que mais cobriu o caso Master,
+  incluindo o submodulo da relação Motta-Vorcaro.
+  Justificativa: acesso a fontes na PF e no Congresso; isento (já crítico de
+  Lira, Motta e governistas); sabe narrar escândalo financeiro sem cair em
+  moralismo barato.
+  Alternative de contingência: Malu Gaspar (O Globo), mas há o fator de ela
+  ter sido vítima direta do alvo da reportagem (monitoramento por Vorcaro),
+  o que pode pesar narrativamente.
+
+5) 5 PERGUNTAS-CHAVE PARA O CONVIDADO
+  Q1. "O que diferencia o caso Master de outros escândalos financeiros
+       brasileiros (Banestado, Banerj, etc.)? Por que importa especificamente
+       agora?"
+  Q2. "As mensagens obtidas pela PF mostram Motta jantando com Vorcaro na
+       residência oficial. Isso é crime, é ético, é normal em Brasília?"
+  Q3. "Existe um padrão replicável: banco de médio porte + estatal pequena
+       vulnerável + mesa da Câmara? O sr. vê isso se repetindo com outros
+       bancos regionais?"
+  Q4. "O BRB é um banco do DF. Por que um presidente da Câmara da Paraíba
+       se envolve com a venda de um banco do DF? Qual é a conexão política?"
+  Q5. "A CPI do Master tem chance real de produzir algo, ou vai ser arquivada
+       como tantas outras? O que diferencia uma CPI que pega de uma que vira
+       peça de marketing?"
+
+6) DADOS PRINCIPAIS DO EPISÓDIO
+  D1. Daniel Vorcaro preso em 18/11/2025 pela PF; R$ 2,2 bi ocultos em conta
+      do pai (segundo pedido de prisão obtido por O Globo). Fonte: G1, O Globo,
+      CNN Brasil — cobertura de novembro 2025.
+  D2. Empréstimo de R$ 140 mi do Banco Master a empresa da cunhada de Hugo
+      Motta, revelado por mensagens da PF. Fonte: Estadão, Portal RED, O Globo.
+  D3. Jantar na residência oficial de Motta em 26/02/2025, com Vorcaro e 6
+      empresários — mensagens obtidas pelo Poder360.
+  D4. Afasteamento do presidente do BRB, Paulo Henrique Costa, pela Justiça
+      Federal de Brasília. Fonte: Gauchazh, G1, O Dia — cobertura 18/11/2025.
+  D5. Malu Gaspar monitorada por Vorcaro; oferecimento de R$ 120 mil mensais.
+      Fonte: O Globo, Notícias Google News aggregation.
+  D6. PEC da Blindagem trava 36 inquéritos no STF contra 108 parlamentares,
+      incluindo nomes ligados ao orçamento secreto. Fonte: Estadão (set/2025).
+  D7. Hugo Motta (Republicanos-PB) eleito presidente da Câmara em 02/2025,
+      com apoio de Arthur Lira. Fonte: Wikipedia, Estadão, G1.
+
+7) TAKEAWAYS DO EPISÓDIO
+  T1. O caso Master não é um escândalo financeiro isolado — é o manual da
+      captura contemporânea: empréstimo não-cobrado, jantar com presidente da
+      Câmara, venda para estatal vulnerável. Cada peça cumpre função.
+  T2. A captura se alimenta de três vulnerabilidades: governança frágil de
+      estatais pequenas, presença da mesa da Câmara, e silenciamento da
+      imprensa via vigilância (caso Malu Gaspar).
+  T3. O Congresso que deveria investigar é o mesmo que se blinda: a PEC da
+      Blindagem, aprovada em 2025, trava 36 inquéritos contra 108
+      parlamentares. A CPI do Master é a prova de fogo da instituição.
+
+
+================================================================================
+EPISÓDIO 4 — "ORÇAMENTO SECRETO 2.0: A ENGENHARIA DO ORÇAMENTO SECRETO PÓS-STF"
+Duração: 45 min
+================================================================================
+
+1) TÍTULO
+"Orçamento Secreto 2.0: A engenharia do orçamento secreto pós-STF — Como RP9
+virou emendas de liderança, PEC da Blindagem, Overclean"
+
+2) TESE CENTRAL
+Quando o STF declarou inconstitucional o orçamento secreto (emendas de
+relator RP9) em 2022, o Congresso não aceitou a derrota — substituiu a
+engenharia. As emendas RP9 viraram "emendas de liderança" (registradas em
+nome das bancadas, sem identificação dos autores reais), somando R$ 1,3
+bilhão em 2025 conforme apurado pela Transparência Brasil. Em paralelo,
+aprovou-se a PEC da Blindagem (2025), que trava 36 inquéritos no STF contra
+108 parlamentares. E nasce agora o "Overclean" — versão esterilizada do
+orçamento secreto, com nomes apagados e destinações obscuras. O episódio
+mostra que o orçamento secreto não acabou: trocou de roupa. E que a captura
+do orçamento público é agora mais opaca, não mais transparente.
+
+3) PAUTA — 4 BLOCOS
+
+BLOCO 1 — INTRODUÇÃO (8 min)
+  - Gancho: "Em 2022 o STF deu um golpe no orçamento secreto. Em 2025 ele
+    voltou com outro nome. E mais forte."
+  - Recap do que era o orçamento secreto original (emendas RP9, sem
+    identificação de autor ou beneficiário).
+  - Conceito: "institucionalidade disfarçada de captura".
+
+BLOCO 2 — DESENVOLVIMENTO (15 min)
+  - Linha do tempo da metamorfose:
+      * 2015-2022: emendas de relator RP9 ("orçamento secreto" original),
+        bilhões executados sem transparência.
+      * Set/2022: STF declara inconstitucional, exige identificação de
+        autores.
+      * 2023-2024: surgem "emendas de liderança" — em nome das bancadas
+        partidárias, não de deputados individuais.
+      * 2025: Transparência Brasil apura R$ 1,3 bi em emendas de liderança
+        sem identificação de autores reais.
+      * Ago/2025: STF (Flávio Dino) suspende Artigo 10 do PL 128/2025, que
+        tentava reativar pagamento de RP9 canceladas desde 2019.
+      * 2025: PEC da Blindagem aprovada — trava 36 inquéritos contra 108
+        parlamentares no STF.
+      * Surgimento do "Overclean": emendas esterilizadas com nomes apagados
+        e destinações dificilmente rastreáveis.
+  - Mecânica das "emendas de liderança": líder partidário emite indicação
+    em nome da bancada, sem identificar qual deputado pediu a obra.
+  - Categorias RP6, RP7, RP8, RP9 — o que cada uma é e por que importa.
+  - Como isso se conecta com o Episódio 3 (Master): a captura precisa do
+    orçamento opaco para fluir.
+
+BLOCO 3 — CONVIDADO (15 min)
+  - Ver perguntas abaixo.
+
+BLOCO 4 — ENCERRAMENTO (7 min)
+  - Recap. Teaser Episódio 5: "Tudo isso — juros, spread, Master, orçamento
+    secreto — é uma parte do Custo Brasil. Quanto custa, em dinheiro, todo
+    esse sistema disfuncional? R$ 1,7 trilhão por ano."
+
+4) CONVIDADO SUGERIDO: ALESSANDRO VIEIRA (MDB-SE)
+  Senador da República pelo Sergipe, MDB, policial civil de formação. Foi o
+  relator da PEC da Blindagem no Senado e se posicionou publicamente contra
+  trechos dela. Apresentou emenda substitutiva para dar transparência real
+  ao orçamento secreto. Atualmente relator da CPI do Crime Organizado.
+  Justificativa: é um dos poucos parlamentares com perfil técnico que
+  entende a engenharia do orçamento — fala com propriedade sobre RP6, RP7,
+  RP8, RP9. Tem histórico de dissidência pública com o próprio partido,
+  o que dá credibilidade. Já foi alvo de retaliação interna noMDB por suas
+  posições. Não é oposição sistemática nem base do governo — é independente.
+  Alternative de contingência: Randolfe Rodrigues (Rede-AP, líder do governo
+  no Congresso), mas tem viés governista mais forte.
+
+5) 5 PERGUNTAS-CHAVE PARA O CONVIDADO
+  Q1. "O sen foi relator da PEC da Blindagem. O que aprovado difere do que
+       o sen gostaria? O que foi retirado / adicionado na pressão da base?"
+  Q2. "Como funcionam, na prática, as 'emendas de liderança'? Quem decide,
+       dentro da bancada, para onde vai o dinheiro?"
+  Q3. "O sen apresentou emenda substitutiva para dar transparência ao
+       orçamento secreto. Por que ela não passou? Quem bloqueou?"
+  Q4. "Há uma CPI do Crime Organizado em curso. Qual é a chance real de
+       quebrar a engenharia do orçamento secreto 2.0, ou isso é só
+       encenação?"
+  Q5. "Existe diferença prática entre RP9 (declarado inconstitucional) e as
+       emendas de liderança atuais? Ou é só maquiagem?"
+
+6) DADOS PRINCIPAIS DO EPISÓDIO
+  D1. Emendas de liderança 2025: R$ 1,3 bilhão distribuídos por 7 bancadas
+      da Câmara, sem identificação dos deputados autores. Fonte:
+      Transparência Brasil, notícia publicada em janeiro de 2026 —
+      transparencia.org.br.
+  D2. STF (min. Flávio Dino) suspendeu Artigo 10 do PL 128/2025 em 21/12/2025,
+      que permitiria pagar RP9 canceladas desde 2019. Fonte: Metro1,
+      Enfoque Político, Itatiaia — cobertura 22/12/2025.
+  D3. PEC da Blindagem aprovada em 2025 trava 36 inquéritos no STF contra
+      108 parlamentares (incluindo Eduardo Bolsonaro). Fonte: Estadão,
+      17/09/2025.
+  D4. Categorias de emenda parlamentar: RP6 (individual), RP7 (bancada
+      estadual), RP8 (comissão), RP9 (relator — extinta pelo STF em 2022).
+      Fonte: Itatiaia, Agência Senado, Portal da Transparência.
+  D5. Orçamento secreto original (RP9): em 2022, último ano antes da decisão
+      do STF, executou mais de R$ 19 bilhões. Fonte: Senado Federal, Inesc.
+  D6. PEC da Blindagem: relator no Senado Alessandro Vieira (MDB-SE),
+      aprovada em 2025. Fonte: Congresso em Foco, Rádio Itatiaia.
+
+7) TAKEAWAYS DO EPISÓDIO
+  T1. O orçamento secreto não acabou — metamorfoseou. As emendas de liderança
+      reproduzem a lógica do RP9 sem identificação do autor real (R$ 1,3 bi
+      em 2025 conforme Transparência Brasil).
+  T2. A PEC da Blindagem é a contrapartida jurídica da captura: enquanto
+      substitui o orçamento secreto por algo mais opaco, blinda parlamentares
+      de investigação (travando 36 inquéritos no STF contra 108 nomes).
+  T3. A "transparência" pós-STF é uma vitória de Pirro: o sistema ganhou
+      novas roupagens (Overclean, emendas de liderança, PL 128) que tornam
+      o rastreamento mais difícil, não mais fácil.
+
+
+================================================================================
+EPISÓDIO 5 — "CUSTO BRASIL: R$ 1,7 TRI DE INEFICIÊNCIA"
+Duração: 45 min
+================================================================================
+
+1) TÍTULO
+"Custo Brasil: R$ 1,7 tri de ineficiência — Logística, burocracia, cartórios,
+contadores — e como sair disso"
+
+2) TESE CENTRAL
+O chamado "Custo Brasil" — somatório de ineficiências estruturais que tornam
+produzir no Brasil mais caro do que em pares — foi estimado em R$ 1,7 trilhão
+por ano pela CNI (Confederação Nacional da Indústria), equivalente a cerca
+de 15% do PIB. Esse valor se decompõe em: logística deficiente (~15% do PIB
+contra 8% nos EUA), tributação complexa, custo burocrático (cartórios,
+registros, licenciamentos), custo de cumprimento regulatório (contadores,
+advogados tributaristas, compliance), energia cara, eistema financeiro
+ineficiente (ver Episódios 1-4). O episódio argumenta que o Custo Brasil não
+é um conjunto de "problemas isolados" — é o preço de manutenção do sistema
+político-econômico descrito nos quatro episódios anteriores. E que existe
+saída: o Observatório do Custo Brasil (MDIC + MBC) projeta redução de até
+R$ 530 bi em 10 anos com 6 iniciativas concretas. Mas isso exige romper
+interesses consolidados.
+
+3) PAUTA — 4 BLOCOS
+
+BLOCO 1 — INTRODUÇÃO (8 min)
+  - Gancho: "O Brasil produz um automóvel que custa 30% mais que o mesmo
+    modelo na Argentina. Por quê? Não é o aço, não é o salário — é o Custo
+    Brasil."
+  - Definição técnica de Custo Brasil (institucional + logístico + tributário
+    + financeiro).
+  - Por que é o fechamento natural da temporada.
+
+BLOCO 2 — DESENVOLVIMENTO (15 min)
+  - Decomposição dos R$ 1,7 tri/ano (estimativa CNI/MBC):
+      * Logística: 15% do PIB contra 8% EUA, 10% média mundial — perda
+        estimada de 5% do PIB (~R$ 500-600 bi).
+      * Tributação complexa: Brasil tem o sistema tributário mais complexo
+        do mundo (PwC, Doing Business). Custo de cumprimento: ~R$ 100-150
+        bi/ano.
+      * Burocracia e cartórios: registro de imóvel, abertura de empresa
+        (ainda lenta apesar da RedeSimples), licenciamento ambiental.
+      * Setor de serviços parasitários: contadores (1,3 mi de profissionais
+        no Brasil vs. proporção 5x menor em países comparáveis), advogados
+        tributaristas, despachantes.
+      * Energia industrial cara: tarifas entre as mais altas do mundo.
+      * Sistema financeiro ineficiente (vide Episódio 2).
+  - Modais de transporte: 60% do transporte é rodoviário (caro, ineficiente),
+    hidrovia subutilizadas, ferrovia estagnada desde 1980.
+  - A questão política: cada elemento do Custo Brasil protege um interesse —
+    donos de concessionárias de rodovias, donos de cartórios, corporações de
+    contadores, bancos (vide Episódios 1-4).
+  - Saída: o Observatório do Custo Brasil (lançado em 11/2024 pelo MDIC em
+    parceria com o Movimento Brasil Competitivo) projeta redução de até
+    R$ 530 bi em 10 anos com 6 iniciativas.
+
+BLOCO 3 — CONVIDADO (15 min)
+  - Ver perguntas abaixo.
+
+BLOCO 4 — ENCERRAMENTO (7 min)
+  - Recap da temporada completa: do aluguel da dívida ao custo Brasil, é
+    tudo um sistema. Cada episódio foi uma face do mesmo cubo.
+  - Teaser da segunda temporada (reforma tributária, previdência, federalismo).
+
+4) CONVIDADO SUGERIDO: GUILHERME DUISENBURG (presIDENTE DA CNI)
+  Ou alternativa mais analítica: ROBSON ANDRADE (presidente da CNI) ou um
+  economista sênior do Movimento Brasil Competitivo (MBC), como RAFAEL
+  CALEMBO (diretor-técnico).
+  Justificativa: a CNI e o MBC são as fontes oficiais do número de R$ 1,7
+  tri e dos pilares do Observatório do Custo Brasil. Ter alguém dessas
+  instituições permite discutir tanto a metodologia quanto as políticas
+  públicas em andamento.
+  Alternative de contingência: Marcos Mendes (Insper), economista que escreveu
+  extensivamente sobre o tema; ou Armando Castelar (IBRE/FGV), especialista
+  em competitividade.
+
+5) 5 PERGUNTAS-CHAVE PARA O CONVIDADO
+  Q1. "O número de R$ 1,7 trilhão/ano — como é calculado? Quais itens
+       entram e quais não entram?"
+  Q2. "Qual dos 6 pilares do Observatório do Custo Brasil tem maior potencial
+       de redução em prazo curto?"
+  Q3. "Setores inteiros vivem de ineficiência brasileira — contadores,
+       despachantes, donos de cartório. Quando o sr. defende redução do
+       Custo Brasil, está propondo destruir esses empregos?"
+  Q4. "A reforma tributária (PEC 45/2019) foi aprovada. Quanto do Custo
+       Brasil ela deveria reduzir?"
+  Q5. "Comparando Brasil x México x Polônia (países que fizeram reformas
+       similares), o que diferencia os que conseguiram de fato sair da
+       armadilha?"
+
+6) DADOS PRINCIPAIS DO EPISÓDIO
+  D1. Custo Brasil total estimado: ~R$ 1,7 trilhão/ano, ou ~15% do PIB.
+      Fonte: CNI/MBC, citado em ENAI (Encontro Nacional da Indústria),
+      Portal da Indústria (noticias.portaldaindustria.com.br).
+  D2. Logística como % do PIB: Brasil 15%, EUA 8%, média mundial 10%. Perda
+      diferencial estimada: ~5% do PIB (~R$ 500-600 bi/ano). Fonte: MAC
+      Logistic, E.C. Consultoria, Banco Mundial (LPI).
+  D3. Observatório do Custo Brasil lançado em 27/11/2024 pelo Ministério do
+      Desenvolvimento, Indústria, Comércio e Serviços (MDIC) em parceria com
+      o Movimento Brasil Competitivo (MBC). Meta: reduzir até R$ 530 bi em
+      10 anos. Fonte: O Globo (27/11/2024), MDIC (gov.br/mdic),
+      custobrasil.org.br.
+  D4. Brasil no Logistics Performance Index (Banco Mundial): posição 56-65
+      entre 160 países (versões 2023 e anteriores). Fonte: World Bank LPI.
+  D5. Tempo médio para abrir empresa no Brasil (RedeSimples): caiu de 100+
+      dias (2010) para ~7 dias em municípios aderentes (2024), mas cobertura
+      ainda desigual. Fonte: Receita Federal, Governo Federal.
+  D6. Contadores no Brasil: ~1,3 milhão de profissionais registrados no CRC.
+      Comparação: Estados Unidos, com população 50% maior, tem ~700 mil CPAs.
+      Fonte: CRC, AICPA.
+  D7. Modal de transporte predominante: rodoviário responde por ~61% da
+      carga transportada no Brasil; ferroviario ~20%; hidroviário ~13%;
+      cabotagem ~5%. Fonte: ANTT, ANT, CNT.
+
+7) TAKEAWAYS DO EPISÓDIO
+  T1. O Custo Brasil (R$ 1,7 tri/ano, 15% do PIB) é o somatório de todas as
+      disfunções vistas na temporada — juros, spread, captura, orçamento
+      secreto. Cada ineficiência é o salário de um grupo de interesse.
+  T2. Logística, tributação e burocracia concentram a maior parte do custo.
+      Reduzir 1/3 do Custo Brasil (R$ 500 bi/ano) equivale a dobrar o
+      investimento público em infraestrutura.
+  T3. Existe saída técnica: o Observatório do Custo Brasil identifica 6
+      iniciativas concretas capazes de reduzir R$ 530 bi em 10 anos. Mas
+      isso exige romper com interesses consolidados — cartórios, contadores
+      parasitas, oligopólios logísticos. Política, não técnica.
+
+
+================================================================================
+APÊNDICE — NOTAS DE PRODUÇÃO DA TEMPORADA 1
+================================================================================
+
+- Tom do podcast: técnico-acessível,介于 Mídia NINJA e Brazilian Report.
+  Evitar panfletário. Sempre citar fonte (BC, STN, CNI, Transparência Brasil,
+  jornal investigativo específico).
+- Estrutura sonora: trilha ambiente sutil, cortes secos entre blocos, jingle
+  curto de 3 segundos no início de cada bloco.
+- CTA recorrente: "Leia a fonte. Cheque o número. O gestor que não gasta
+  errado conhece o preço."
+- Distribuição: Spotify, Apple Podcasts, YouTube (versão em vídeo com
+  gráficos de dados), e newsletter quinzenal para o mailing do
+  @professorcinza.
+- Estratégia de divulgação por episódio:
+    * Clip de 60s para Instagram/TikTok com o "dado choque" do episódio
+      (R$ 950 bi, spread de 30%, R$ 140 mi do Master, R$ 1,3 bi das emendas,
+      R$ 1,7 tri do Custo Brasil).
+    * Thread no Twitter/X com os takeaways.
+    * Carrossel LinkedIn para o público técnico.
+- Contingência de convidados (alternativas para cada episódio):
+    * Ep 1: Samuel Pessôa (FGV/IBRE), Marcos Jank (USP/Insper)
+    * Ep 2: Armando Castelar Pinheiro (FGV), Laura Karpuska (USP)
+    * Ep 3: Malu Gaspar (O Globo), Natália Portinari (UOL)
+    * Ep 4: Randolfe Rodrigues (senador-AP), pesquisador do Transparência
+      Brasil (Fernando Marçal de Oliveira, gerente de pesquisa)
+    * Ep 5: Marcos Mendes (Insper), Robson Andrade (CNI)
+- Linha do tempo de produção sugerida:
+    * Semana 1: gravação Ep 1 (lançamento em 2 dias)
+    * Semana 2: edição + divulgação Ep 1; gravação Ep 2
+    * Semana 3: lançamento Ep 2; gravação Ep 3
+    * Semana 4: edição Ep 3; gravação Ep 4
+    * Semana 5: lançamento Ep 3 + Ep 4 (dobrada); gravação Ep 5
+    * Semana 6: lançamento Ep 5 + episódio bônus recap da temporada
+
+================================================================================
+FIM DO PLANEJAMENTO — TEMPORADA 1 "GESTÃO NÃO GASTO"
+================================================================================

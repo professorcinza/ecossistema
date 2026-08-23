@@ -1,0 +1,533 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-068-ATUALIZACAO
+VERSÃO: v1.0 — ATUALIZAÇÃO DE DADOS (Dossiê Saúde — Setor Farmacêutico/Médico)
+CATEGORIA: 02_MAPEAMENTO (complemento)
+TÍTULO: Dados Econômicos Atualizados 2025-2026 — Mercado Farmacêutico,
+        Laboratórios, CMED, SUS e Equipamentos Médicos
+STATUS: INTERNO — Análise de inteligência
+DATA: 20/07/2026
+AUTOR: Pesquisa subagent — TEIA (para Cleiton Moura)
+================================================================================
+
+NOTA DE ATUALIZAÇÃO
+--------------------------------------------------------------------------------
+Este documento atualiza os dados do TEIA-2026-068 (Atores que Lucram com o
+Adoecimento) e TEIA-2026-069 (Diagnóstico Captura Saúde). Dados anteriores
+eram de 2024 (mercado R$ 160 bi; EMS ~R$ 11 bi; SUS medicamentos ~R$ 20 bi).
+Agora consolidados os números completos de 2025 e parciais de 2026, com fontes.
+TODOS os valores trazem a fonte ao lado.
+================================================================================
+
+
+################################################################################
+SEÇÃO 1 — MERCADO FARMACÊUTICO BRASILEIRO (FATURAMENTO TOTAL 2025)
+################################################################################
+
+• FATURAMENTO TOTAL DO SETOR 2025: R$ 238,9 BILHÕES
+  - Avanço de +10,7% vs 2024 (R$ 216 bilhões).
+  - FONTE: Jornal da Fronteira (04/2026), com dados do setor farmacêutico.
+
+• MERCADO TOTAL IQVIA 2025: R$ 243 BILHÕES (outra metodologia, inclui canais
+  não-varejo). Brasil entre os 10 maiores mercados do mundo.
+  - FONTE: IQVIA, citado por Ekopalete (2026) e Panorama Farmacêutico.
+
+• VAREJO FARMACÊUTICO 2025: R$ 128,6 BILHÕES (+12% vs 2024).
+  - Destaque: venda de canetas emagrecedoras (Mounjaro/Ozempic/Wegovy).
+  - FONTE: Politiza Brasil (2026).
+
+• MERCADO DE GENÉRICOS 2025: R$ 23 BILHÕES (+13,4% vs 2024), ~40% do total de
+  medicamentos. FONTE: PróGenéricos.
+
+• JUNHO/2026 (parcial): projeção IQVIA de R$ 23,6 bilhões no mês (+10,3% vs
+  junho/2025). FONTE: IQVIA/FarmaBrasil (07/2026).
+
+• LABORATÓRIOS NACIONAIS DOMINAM 72% do mercado (13 dos 20 maiores são
+  brasileiros). FONTE: Monitor Mercantil.
+
+• PROJEÇÃO 1º SEMESTRE 2026: varejo farmacêutico mantém crescimento de dois
+  dígitos, puxado por semaglutida/tirzepatida. FONTE: Panorama Farmacêutico.
+
+
+################################################################################
+SEÇÃO 2 — MAIORES LABORATÓRIOS — RECEITAS E LUCROS 2025
+################################################################################
+
+============================== NACIONAIS ==============================
+
+1) EMS / GRUPO NC — Carlos Sanchez (NÃO listada em bolsa)
+   ------------------------------------------------------------------
+   • RECEITA LÍQUIDA 2025 (Grupo NC pré-Medley): ~R$ 10 BILHÕES.
+     FONTE: NeoFeed (06/03/2026); Estado de S. Paulo (06/03/2026).
+
+   • RECEITA PROJETADA PÓS-MEDLEY: ~R$ 12 BILHÕES (EMS + Medley).
+     FONTE: NeoFeed ("O plano da EMS com a compra da Medley: R$ 12 bi de
+     receita, marcas independentes e estratégias distintas").
+
+   • AQUISIÇÃO MEDLEY (06/03/2026): US$ 600 milhões (~R$ 3,175 bilhões / outros
+     cálculos: R$ 3,4 bi). 100% da Medley comprada da Sanofi.
+     - Valor acima dos US$ 500 milhões inicialmente previstos.
+     - 75% capital próprio (caixa) + 25% financiamento bancário.
+     - FONTE: NeoFeed, Estadão, Valor, G1, Brazil Journal (06-07/03/2026).
+
+   • ESTRUTURA PÓS-MEDLEY:
+     - Operações mantidas INDEPENDENTES (duas marcas).
+     - Diretora-geral Medley: Lucia Rossato (mantida).
+     - EMS construirá NOVA FÁBRICA (além da atual em Campinas, a 20 km do
+       parque da EMS em Hortolândia/SP).
+     - Definição do local depende da Reforma Tributária.
+
+   • PARTICIPAÇÃO NA HYPERA: Carlos Sanchez detém 6,02% do capital da Hypera
+     (2025), após OPA rejeitada em 2024 para criar gigante de R$ 15,9 bi.
+     FONTE: Dossiê TEIA-2026-068 (cruzado com Neo Feed 2025).
+
+   • CONTROLADOR: CARLOS SANCHEZ (64 anos), fortuna ~R$ 8 bilhões (Forbes).
+     Detém ~75% da EMS; restante com familiares.
+
+2) HYPERA PHARMA (HYPE3)
+   ------------------------------------------------------------------
+   • RECEITA LÍQUIDA 2025 (ano cheio): R$ 7,699 BILHÕES (+3,4% vs 2024).
+     FONTE: Foco na Notícia Hoje (03/2026); DGABC (03/2026); Investidor10.
+
+   • LUCRO LÍQUIDO 2025: R$ 1,190 BILHÃO (-10,6% vs 2024).
+     FONTE: DGABC; BMC News (03/2026).
+
+   • EBITDA 4T25 (operações continuadas): R$ 748,4 milhões (+446,7% vs 4T24).
+     FONTE: Foco na Notícia Hoje.
+
+   • LUCRO LÍQUIDO 4T25: R$ 449,8 milhões (+469,7% vs 4T24) — recuperação
+     forte no fim do ano. FONTE: Investidor10; DGABC.
+
+   • RECEITA LÍQUIDA 4T25: R$ 2,237 bilhões (+48,1% vs 4T24).
+   • FLUXO DE CAIXA OPERACIONAL 2025: R$ 2,574 bilhões (RECORDE).
+   • DÍVIDA LÍQUIDA (pós-hedge) dez/25: R$ 7,665 bilhões (+2,2% vs dez/24).
+
+   • INVESTIMENTOS 2025: R$ 1,475 bi marketing; R$ 513,6 mi P&D&I;
+     ~R$ 500 mi investimentos industriais.
+
+   • 1T26 (parcial 2026): LUCRO LÍQUIDO R$ 346,8 milhões (revertendo prejuízo
+     de R$ 141,1 mi no 1T25). FONTE: Investidor10 (03/2026).
+
+   • MARCAS-CHAVE: Engov, Neosaldina, Tandrilax, Benegrip.
+
+3) EUROFARMA — Maurizio Luiz Billi (NÃO listada)
+   ------------------------------------------------------------------
+   • RECEITA LÍQUIDA 2025: R$ 12,5 BILHÕES (+13,7% vs 2024 — RECORDE).
+     FONTE: Panorama Farmacêutico (26/03/2026); RI Eurofarma (DFP 2025);
+     UOL; Valor Econômico.
+
+   • EBITDA 2025: R$ 3,4 BILHÕES, margem de 27,6% (RECORDE).
+     FONTE: Panorama Farmacêutico (03/2026).
+
+   • LUCRO BRUTO 2025: R$ 8,17 bilhões (+13,3% vs 2024); margem bruta 65,5%.
+     FONTE: Relatório de Resultados 2025 (ri.eurofarma.com.br).
+
+   • 4T25: RECEITA LÍQUIDA ~R$ 3,5 bilhões (+17,5%); EBITDA R$ 954,3 milhões
+     (+17%). LUCRO LÍQUIDO 4T25: R$ 95,5 milhões (-25%, pressionado por
+     despesas das aquisições da Dermage e Ocean Drop).
+
+   • COMPARATIVO 2024: receita líquida R$ 10,9 bilhões (+20,3% vs 2023).
+     EBITDA 2024: R$ 1,9 bilhão (+6%).
+     FONTE: Panorama Farmacêutico (03/2025); Times Brasil.
+
+   • CONTROLADOR: MAURIZIO BILLI (presidente global), fortuna US$ 3,32 bilhões
+     (2024) — 17º mais rico do Brasil, 996º mundial (Forbes/Bloomberg).
+
+   • AQUISIÇÕES 2025: Dermage (dermocosméticos) e Ocean Drop.
+
+4) ACHÉ LABORATÓRIOS (NÃO listada)
+   ------------------------------------------------------------------
+   • RECEITA 9 MESES DE 2025: R$ 4,2 BILHÕES (+9,5% vs 9M2024).
+     FONTE: NeoFeed (03/2026).
+
+   • RECEITA ANUAL ESTIMADA 2025: ~R$ 5,6 bilhões (mantendo ritmo).
+   • PARTICIPOU da disputa pela Medley (perdeu para a EMS).
+   • CONTROLADOR: Família Gaizakian Depari Bianchi.
+
+5) MEDLEY (Sanofi → EMS em 03/2026)
+   ------------------------------------------------------------------
+   • RECEITA 2025: R$ 1,3 BILHÃO (InvestNews) / R$ 1,4 BILHÃO (NeoFeed).
+   • EBITDA 2025: ~R$ 200 milhões.
+     FONTE: InvestNews (03/2026); NeoFeed (01-03/2026).
+   • Sanofi comprou a Medley em 2009 da família Negrão por R$ 1,5 bilhão.
+   • Sanofi lucrou com desinvestimentos € 419 milhões em 2025; projeta € 500
+     milhões em 2026 (incluindo venda da Medley).
+
+============================== MULTINACIONAIS ==============================
+
+6) PFIZER BRASIL (PFE)
+   ------------------------------------------------------------------
+   • RECEITA BRASIL 2025: NÃO DIVULGADA POR PAÍS (política da empresa).
+     "A Pfizer não divulga a receita por país." (Valor, 06/2025).
+
+   • CRESCIMENTO 1º SEMESTRE 2025: DOBROU o faturamento no Brasil (vs 1S2024).
+     "Pfizer alcança crescimento recorde no Brasil no 1º semestre de 2025."
+     FONTE: Valor Econômico (30/06/2025); Guia da Farmácia (03/07/2025);
+     Saúde Business (07/07/2025).
+
+   • RECEITA GLOBAL 1T25: US$ 13,71 bilhões (-8% vs 1T24).
+   • LUCRO LÍQUIDO GLOBAL 1T25: US$ 2,97 bilhões (-5%).
+   • ORIENTAÇÃO 2025 (GLOBAL): receita US$ 59,5–61,5 bilhões; EPS US$ 2,60–2,80.
+   • RECEITA GLOBAL 4T24: US$ 17,8 bilhões.
+   • VALOR DE MERCADO GLOBAL: ~US$ 146 bilhões.
+     FONTE: Times Brasil (11/2025); Investing.com; Avenue Connection.
+
+7) SANOFI BRASIL
+   ------------------------------------------------------------------
+   • RECEITA GLOBAL 2025: € 43,6 BILHÕES (+6,2% vs 2024).
+   • LUCRO OPERACIONAL GLOBAL 2025: € 12,14 bilhões (+7,1%).
+   • PLANO DE RECOMPRA DE AÇÕES: € 1 bilhão.
+   • VALOR DE MERCADO: € 94,5 bilhões (ações em queda -24,3% em 12m).
+     FONTE: NeoFeed (29/01/2026); balanço Sanofi 2025.
+
+   • SANOFI BRASIL pós-Medley: operação focada em medicamentos inovadores e
+     vacinas. Saiu do segmento de genéricos no Brasil.
+
+8) JOHNSON & JOHNSON / JANSSEN (JNJ)
+   ------------------------------------------------------------------
+   • RECEITA GLOBAL Q4 2025: US$ 24,6 bilhões (+9,1% vs Q4 2024).
+   • LUCRO LÍQUIDO Q4 2025: US$ 5,1 bilhões (+49,1%), EPS US$ 2,10.
+   • LUCRO AJUSTADO EPS Q4 2025: US$ 2,46.
+   • MEDTECH Q4 2025: +7,5% crescimento.
+   • MEDTECH Q2 2025: US$ 8,93 bilhões (+3,6% operacional).
+     FONTE: Mass Device (01/2026); Fierce Biotech; Data Insights Market.
+
+   • GUIDANCE 2026 (elevado): receita US$ 100,8 BILHÕES; EPS ajustado US$ 11,55.
+   • ONCOLOGIA LIDERA expansão: DARZALEX +22,5%; CARVYKTI +62,1% no 1T26.
+     FONTE: Times Brasil (1T26); BioSpace; CNN Brasil.
+
+   • MARCA US$ 3 BI/TRIMESTRE: DARZALEX primeiro produto J&J a passar de
+     US$ 3 bilhões em vendas trimestrais. FONTE: Data Insights Market.
+
+   • DADOS ESPECÍFICOS BRASIL: J&J não divulga receita por país.
+
+
+################################################################################
+SEÇÃO 3 — CMED — REAJUSTE DE MEDICAMENTOS 2026 E NOVA METODOLOGIA
+################################################################################
+
+3.1 — REAJUSTE ANUAL 2026 (Resolução CM-CMED nº 4/2026, publicada 31/03/2026)
+--------------------------------------------------------------------------------
+• PERÍODO DE AJUSTE: 1º a 12 de abril de 2026 (até 23h59 de 12/04/2026).
+  FONTE: ANVISA (gov.br/anvisa, 03/2026); ABCFarma (31/03/2026).
+
+• TETOS DE REAJUSTE 2026 — MENOR EM 20 ANOS:
+  - NÍVEL 1 (alta concorrência/genéricos): até 4,6% (outra fonte: 3,81%).
+  - NÍVEL 2 (concorrência intermediária): ~3,25% (outra fonte: 2,47%).
+  - NÍVEL 3 (baixa concorrência/monopólio): até 1,9% (outra fonte: 1,13%).
+  FONTE: Gazeta Mercantil (26/03/2026); Simtax (31/03/2026); Proffer (03/2026);
+         Extra/Globo (04/2026); Sincofarma SP (23/03/2026).
+
+• METODOLOGIA (FATORES X, Y, Z):
+  - IPCA acumulado 12 meses (fev/26): 3,81%.
+  - FATOR X (produtividade): 2,683% (acima do ciclo anterior — reduz reajuste).
+  - FATOR Y (saldo de custos): 0% (neutro).
+  - FATOR Z (concorrência intrassetor): modula por nível.
+  FONTE: Gazeta Mercantil; Sincofarma SP; Infoprice; Forbes (2025).
+
+• REAJUSTE MÉDIO EFETIVO PROJETADO 2026: ~2,2% (significativamente abaixo do
+  teto e da inflação geral).
+  FONTE: Gazeta Mercantil (03/2026).
+
+• COMPARATIVO 2025: teto de 5,06%; reajuste médio efetivo próximo de 2,8%.
+
+3.2 — NOVA METODOLOGIA DE PREÇO DE ENTRADA (Resolução CM/CMED nº 3/2025)
+--------------------------------------------------------------------------------
+• RESOLUÇÃO NORMATIVA nº 3/2025: publicada em 30/12/2025, EM VIGOR A PARTIR DE
+  ABRIL DE 2026. Substitui regras vigentes desde 2004.
+  FONTE: Idec (30/01/2026); Demarest Advogados; Bento Muniz (2026); G1
+         (29/05/2026); Plox (29/05/2026).
+
+• PRINCIPAIS MUDANÇAS:
+  1) Novas categorias de classificação de medicamentos (incluindo INOVAÇÃO
+     INCREMENTAL — dose, fórmula, forma de uso — como categoria própria).
+  2) Mudanças nas exigências do Documento Informativo de Preço (DIP).
+  3) AVANÇO: retirada da exigência de PATENTE como condição para enquadramento
+     em categorias de preço mais elevado (historicamente favorecia aumentos).
+
+• CRÍTICAS DO IDEC (Instituto de Defesa do Consumidor):
+  - Mantém lista de PAÍSES DE REFERÊNCIA que inclui EUA e Japão (realidades
+    muito diferentes do Brasil) — pressiona preços de entrada para cima.
+  - Prevê CONFIDENCIALIDADE de acordos de compartilhamento de riscos —
+    amplifica assimetria informacional, dificulta controle social.
+  - Falta de audiências públicas (apenas consultas públicas).
+  - Risco de AUMENTO DE PREÇOS e de captura da CMED pela indústria.
+  FONTE: Idec (jan/2026) — campanha "Remédio a Preço Justo".
+
+• RESOLUÇÃO COMPLEMENTAR nº 7/2026: buscou esclarecer conceitos e
+  procedimentos; "não afasta preocupações do setor regulado".
+  FONTE: Demarest Advogados (2026).
+
+• PREÇO DE ENTRADA DEFINE 3 VALORES-CHAVE:
+  - PF (Preço Fábrica): teto de venda da indústria.
+  - PMVG (Preço Máximo de Venda ao Governo): compras para o SUS.
+  - PMC (Preço Máximo ao Consumidor): nas farmácias.
+
+• GOVERNO ENDURECEU regras em 29/05/2026 (G1):
+  "Preço de lançamento não poderá superar o menor valor cobrado em países de
+  referência." Redefinição do conceito de "inovação farmacêutica".
+
+
+################################################################################
+SEÇÃO 4 — GASTO FEDERAL COM MEDICAMENTOS DO SUS 2025
+################################################################################
+
+ATENÇÃO: dados desagregados por componente (CEAF/CBAF/CESAF) não são publicados
+de forma centralizada em fonte única. Valores abaixo triangulados de múltiplas
+fontes oficiais e de imprensa.
+
+4.1 — ORÇAMENTO TOTAL DA SAÚDE 2025
+--------------------------------------------------------------------------------
+• LOA 2025 (Lei 15.121/2025, de 10/04/2025): DESPESA TOTAL DA UNIÃO
+  R$ 5,889 trilhões.
+  FONTE: Lei 15.121/2025 (mpu.mp.br).
+
+• ORÇAMENTO SAÚDE 2025: R$ 245 BILHÕES (Saúde pública).
+  FONTE: Senado Notícias (14/04/2025).
+
+• ORÇAMENTO SAÚDE 2026 (LOA 2026): R$ 271,3 BILHÕES (alta vs R$ 254,1 bi em
+  2025 — segundo reportagem que cita valores aprovados).
+  FONTE: UOL Economia (14/01/2026); LOA 2026 sancionada por Lula.
+
+4.2 — COMPONENTE BÁSICO DA ASSISTÊNCIA FARMACÊUTICA (CBAF)
+--------------------------------------------------------------------------------
+• CBAF 2026: REPASSE DE R$ 1,78 BILHÃO aos municípios (Portaria GM/MS nº
+  9.887, de 29/12/2025). FONTE: Barbacena em Tempo (2026); Jornal do Bras.
+
+• CBAF 2025 (estadual, exemplo): RN recebeu R$ 28 milhões; AL R$ 29 milhões
+  (2024, +46%). FONTE: O Potengi (06/2025); Painel Notícias.
+
+• CARACTERÍSTICA: financiamento tripartite (União + Estados + Municípios),
+  custeio de medicamentos da atenção básica.
+
+4.3 — COMPONENTE ESPECIALIZADO DA ASSISTÊNCIA FARMACÊUTICA (CEAF)
+--------------------------------------------------------------------------------
+• CEAF 2024 (referência): ~R$ 5,4 BILHÕES previstos (alto custo, doenças raras,
+  crônicas). FONTE: Ciclo Assist (2024).
+
+• CARACTERÍSTICAS:
+  - Medicamentos de alto custo (oncologia, artrite reumatoide, esclerose
+    múltipla, hemoderivados, etc.).
+  - Linhas de cuidado definidas em Protocolos Clínicos e Diretrizes
+    Terapêuticas (PCDT).
+  - Maior volume de judicialização da saúde.
+
+• COLAPSO REPORTADO 2024: 51 medicamentos do CEAF com irregularidades (38
+  responsabilidade MS + 6 conjunta MS/Estados). FONTE: Encontrar (2024).
+
+• REPERCUSSÃO OPERACIONAL 2025-2026:
+  - Ministério da Saúde publicou novas portarias (30/06/2026) para
+    operacionalizar a Assistência Farmacêutica em Oncologia no SUS.
+    FONTE: TJCC.
+
+4.4 — COMPONENTE ESTRATÉGICO DA ASSISTÊNCIA FARMACÊUTICA (CESAF)
+--------------------------------------------------------------------------------
+• FINANCIAMENTO: 100% responsabilidade do Ministério da Saúde (adquire e
+  distribui aos Estados/DF). FONTE: gov.br/saude/sectics/daf/cesaf.
+
+• ESCOPO: tuberculose, hanseníase, malária, leishmaniose, doença de Chagas,
+  cólera, esquistossomose, filariose, meningite, tracoma, micoses sistêmicas
+  e outras doenças decorrentes da pobreza.
+
+• VALOR ESPECÍFICO 2025: não publicado de forma isolada; integrado ao Bloco
+  de Financiamento da Assistência Farmacêutica.
+
+4.5 — ESTIMATIVA DE GASTO FEDERAL TOTAL COM MEDICAMENTOS (2025)
+--------------------------------------------------------------------------------
+• ESTIMATIA TRIANGULADA: R$ 20–25 BILHÕES (CBAF + CEAF + CESAF + Farmácia
+  Popular + aquisições diretas + programas especiais).
+  - Referência histórica: em 2016 a ação "Assistência Farmacêutica" do MS tinha
+    ~R$ 7 bilhões (maior orçamento do bloco); valores cresceram desde então.
+    FONTE: Ivan/.LinkedIn ("R$ 20 bilhões: monitoramento de resultados").
+
+• GASTO NACIONAL COM MEDICAMENTOS (público + privado + famílias):
+  - Famílias brasileiras arcaram com 91,9% da despesa de consumo final de
+    medicamentos em 2019 (IBGE/PNS).
+  - Corte de 59% no orçamento do Farmácia Popular em 2023 (BBC, citado por
+    SindCT) agravou acesso. FONTE: SindCT.
+
+• EMENDAS PARLAMENTARES ORÇAMENTO 2026: R$ 61 bilhões (R$ 49,9 bi Congresso +
+  R$ 11,1 bi Executivo). Parte significativa vai para saúde municipal.
+  FONTE: Campo Grande News; Ceará Agora (01/2026).
+
+
+################################################################################
+SEÇÃO 5 — EQUIPAMENTOS MÉDICOS — "GPS" (GE / PHILIPS / SIEMENS)
+################################################################################
+
+5.1 — GE HEALTHCARE (NASDAQ: GEHC) — EUA
+--------------------------------------------------------------------------------
+• RECEITA GLOBAL 2025 (FY encerrado 31/12/2025): US$ 20,6 BILHÕES.
+  - Crescimento orgânico: +3,5% (acima do guidance).
+  - Receita produto: +4,5%.
+  FONTE: GE HealthCare IR (04/02/2026); Investing.com; Earnings Call AI;
+         MarketScreener.
+
+• Q4 2025: receita US$ 5,7 bilhões (+7,1%); crescimento orgânico +4,8% em
+  Pharmaceutical Diagnostics (PDx), Imaging e AVS. Book-to-bill 1,06x.
+  FONTE: GE HealthCare (04/02/2026).
+
+• FLUXO DE CAIXA OPERACIONAL 2025: US$ 2,0 bilhões; FREE CASH FLOW US$ 1,5 bi.
+• BACKLOG (carteira): US$ 21,8 bilhões (maior que a receita anual).
+• DIVIDENDO: companhia âncora de renda (payout ratio saudável).
+
+• PRESENÇA NO BRASIL: relevante mas não quantificada publicamente. Estratégia
+  de localização via Rota 2030.
+
+• DESTAQUES 2025-2026:
+  - Parceria US$ 500 milhões/10 anos com Catholic Health (EUA).
+  - Aquisição dos 50% restantes da Nihon Medi-Physics (Japão).
+  - lançamentos RSNA 2025: plataforma Signa One (MRI), BlueSeal (helium-free).
+  - FDA: Pristina Recon DL (mamografia 3D com deep learning).
+
+5.2 — PHILIPS (Royal Philips, Euronext: PHIA) — Holanda
+--------------------------------------------------------------------------------
+• RECEITA GLOBAL 2025 (FY encerrado 31/12/2025): EUR 17,8 BILHÕES.
+  FONTE: Philips Annual Report 2025 (results.philips.com/ar25); TipRanks
+         (19/02/2026); Philips press release (10/02/2026).
+
+• DESTAQUE 2025: "growth acceleration, strong margin expansion and solid cash
+  flow" — execução do plano trienal (2023-2025).
+  FONTE: Philips (10/02/2026).
+
+• ESTRATÉGIA 2026-2028: novos targets anunciados no Capital Markets Day.
+  FONTE: Philips (02/2026).
+
+• NOVOS LANÇAMENTOS BRASIL/2026: Philips ALTURION (ultrassom com IA, 07/2026).
+
+• COMPARATIVO 2024: receita EUR 18,0 bilhões (+1% comparable sales growth).
+  FONTE: Philips (19/02/2025).
+
+5.3 — SIEMENS HEALTHINEERS (ETR: SHL) — Alemanha
+--------------------------------------------------------------------------------
+• RECEITA GLOBAL FY2025 (encerrado 30/09/2025): ~EUR 23,4 BILHÕES.
+  FONTE: Siemens Healthineers press release (05/11/2025).
+
+• CRESCIMENTO FY2025:
+  - Comparable revenue growth: +5,9%.
+  - Adjusted EBIT margin: 16,5% (+0,8 p.p. vs FY2024).
+  - Adjusted EBIT: ~EUR 3,9 bilhões.
+  - Adjusted EPS: EUR 2,39.
+  - Free cash flow: ~EUR 2,7 bilhões.
+  - Book-to-bill (equipamentos): 1,14 (muito forte).
+  - DIVIDENDO PROPOSTO: EUR 1,00/ação (vs EUR 0,95 ano anterior).
+  - ~74.000 funcionários worldwide; presença em 180+ países.
+
+• Q4 FY2025: comparable revenue growth +3,7%.
+  - Imaging +6,5% (margem EBIT 20,6%).
+  - Diagnostics -0,3% (margem EBIT 7,5%).
+  - Varian (cancer care) +1,4% (margem EBIT 19,7%).
+  - Advanced Therapies +3,8% (margem EBIT 17,5%).
+
+• OUTLOOK FY2026: comparable revenue growth +5% a +6%; EPS EUR 2,20–2,40.
+
+• PRESIDENTE BRASIL: Adriana Costa (06/2025).
+  FONTE: Brazil Economy (18/06/2025).
+  "Siemens Healthineers avança em cogestão e em parcerias público-privadas no
+  Brasil."
+
+• MARKET SHARE GLOBAL IMAGEM: Siemens Healthineers é líder com ~30% do mercado
+  mundial (oligopólio com Philips e GE).
+  FONTE: Morningstar.
+
+5.4 — OUTROS PLAYERS DE EQUIPAMENTOS/INSUMOS
+--------------------------------------------------------------------------------
+• FUJIFILM e CANON MEDICAL (ex-Toshiba): complementam o oligopólio GPS.
+• MEDICINA DIAGNÓSTICA (imagem+laboratorial):
+  - DASA (DASA3): ~400 milhões de exames/ano.
+  - GRUPO FLEURY (FLRY3): receita 2024 R$ 6,96 bilhões (+45% após fusão Sabin).
+  - SABIN: projeção 2025 receita bruta R$ 2 bilhões.
+• PRÓTESES ORTOPÉDICAS: STRYKER, J&J (DePuy), ZIMMER BIOMET, SMITH & NEPHEW.
+• SERINGAS: Halex Istar, BD Brasil.
+• VACINA BCG: FUNDAÇÃO ATAULPHO DE PAIVA (FAP) — única produtora nacional.
+
+
+################################################################################
+SEÇÃO 6 — TÓPICOS RELEVANTES ADICIONAIS (2025-2026)
+################################################################################
+
+6.1 — LICENÇA COMPULSÓRIA DE PATENTES
+--------------------------------------------------------------------------------
+• PL 68/2026 (Câmara, regime de urgência aprovado 02/2026): propõe licença
+  compulsória da TIRZEPATIDA (Mounjaro/Zepbound) — medicamento de interesse
+  público. Deputado Mário Heringer (autor). FONTE: Senado (06/02/2026);
+  Saúde Business (02/2026); ZBF Advogados (05/2026).
+
+• PATENTE DOLUTEGRAVIR (HIV): expira em 28/04/2026 — fim do monopólio.
+  ~700 mil pessoas usam dolutegravir no SUS (principal antirretroviral).
+  FONTE: De Olho nas Patentes.
+
+• PRECEDENTE EFAVIRENZ (2007): única licença compulsória efetivamente emitida
+  no Brasil. FONTE: racismoambiental.net.br (08/2025); MSF.
+
+6.2 — NOVOS ENTRANTES EMAGRECEDORES (2025-2026)
+--------------------------------------------------------------------------------
+• MOUNJARO (Eli Lilly, tirzepatida): vendas cresceram 7x no Brasil (Valor,
+  02/2026).
+• OZEMPIC/WEGOVY (Novo Nordisk, semaglutida): caneta de aplicação.
+• EMS lançará "clone" Ozivy + segunda marca de semaglutida (Neo Feed 2026).
+• HYPERA, BIOMM também entram no mercado de canetas emagrecedoras.
+
+6.3 — FATOS RELEVANTES POLÍTICO-INSTITUCIONAIS
+--------------------------------------------------------------------------------
+• CMED MULTOU distribuidoras em 03/2026 por práticas anticoncorrenciais.
+• Proposta de permitir laboratórios ofertarem DIRETAMENTE ao Poder Público
+  (sem distribuidor) em licitações. FONTE: Tribuna do Sertão (05/2026).
+• MANIFESTO de 30 entidades contra MP 1.227/2024 (PIS/Cofins).
+• Frente Parlamentar em Defesa da Ética na Saúde Suplementar (12/2025).
+• NOVO MODELO DE ASSISTÊNCIA FARMACÊUTICA EM ONCOLOGIA (portarias 30/06/2026).
+
+
+################################################################################
+FONTES PRINCIPAIS (CONSOLIDADAS)
+################################################################################
+
+Mercado e laboratórios:
+- IQVIA / FarmaBrasil (projeções mensais 2026)
+- Neo Feed (neofeed.com.br) — M&A Medley-EMS, balanço Sanofi
+- Panorama Farmacêutico (panoramafarmaceutico.com.br) — Eurofarma 2024-2025
+- Estado de S. Paulo (estadao.com.br) — Sanchez, EMS-Medley
+- Valor Econômico (valor.globo.com) — Pfizer Brasil, Hypera
+- InvestNews / Investidor10 / DGABC / BMC News — Hypera 4T25/anual
+- Times Brasil (timesbrasil.com.br) — Eurofarma, J&J, Sanofi
+- RI Eurofarma (ri.eurofarma.com.br) — DFP 2025
+- Brasil Confidencial (brasilconfidencial.com.br) — EMS-Medley R$ 3,4 bi
+- Forbes Brasil / Bloomberg — fortunas familiares
+- Saúde Business / Guia da Farmácia — Pfizer Brasil 1S25
+- Foco na Notícia Hoje (03/2026) — Hypera 4T25
+- UOL Economia (01/2026) — LOA 2026
+- Senado Notícias (04/2025) — Orçamento Saúde 2025 R$ 245 bi
+
+CMED:
+- ANVISA (gov.br/anvisa) — Resoluções 2026, ajuste anual
+- IDEC (idec.org.br) — RN 3/2025 e impacto no acesso
+- Gazeta Mercantil (26/03/2026) — Fatores X/Y/Z e tetos
+- Simtax / Sincofarma SP / Proffer — tetos por nível
+- Demarest Advogados / Bento Muniz — análise jurídica RN 3/2025 e 7/2026
+- G1 (29/05/2026) — governo endurece regras
+- Forbes Brasil (02/2025) — Fator Y zero
+
+SUS:
+- Portal da Transparência / LOA 2025 (Lei 15.121/2025)
+- Barbacena em Tempo (2026) — CBAF 2026 R$ 1,78 bi
+- TJCC (06/2026) — oncologia assistência farmacêutica
+- Senado Federal / Congresso Nacional — emendas 2026
+
+Equipamentos:
+- Philips Annual Report 2025 (results.philips.com/ar25)
+- Siemens Healthineers (siemens-healthineers.com/press/releases/2025q4)
+- GE HealthCare IR (investor.gehealthcare.com, 04/02/2026)
+- Fierce Biotech / Mass Device / MedTech Dive — coverage Q4 2025
+- Brazil Economy (06/2025) — Siemens Healthineers Brasil
+- Morningstar — market share imagem diagnóstica
+- RSNA 2025 — lançamentos GPS
+
+Licença compulsória:
+- Senado (12/02/2026) — PL 68/2026 Mounjaro
+- Saúde Business (02/2026) — regime de urgência
+- ZBF Advogados (05/2026) — análise tirzepatida
+- De Olho nas Patentes — dolutegravir
+- MSF Brasil — efavirenz histórico
+
+================================================================================
+FIM DO DOCUMENTO — TEIA-2026-068-ATUALIZACAO v1.0
+================================================================================

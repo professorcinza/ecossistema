@@ -1,0 +1,39 @@
+================================================================================
+SOPBRA — MAPEAMENTO DE ATORES POLÍTICOS v22.0
+================================================================================
+Para cada ator relevante, atribua:
+
+SCORES DE VETO (0-10 cada):
+  PRG — Poder de Regra (legislar/regulamentar)
+  VJU — Veto Jurídico (bloquear via Judiciário)
+  VEL — Veto Eleitoral (influenciar votação)
+  VFI — Veto Financeiro (cortar funding)
+  POD — Poder de Mobilização (rua/mídia)
+  IDE — Coesão Ideológica (dificuldade de cooptar)
+  MUD — Disposição para Mudar (abertura a reforma)
+  ALI — Densidade de Aliados (rede de suporte)
+
+TIPOLOGIA DOMÉSTICA:
+  VULNERÁVEL — baixa coesão + alta disposição = ALVO PRIORITÁRIO
+  PRAGMÁTICO — alto poder + baixa ideologia = NEGOCIÁVEL COM CONCESSÕES
+  IDEOLÓGICO — alta coesão + baixa disposição = CUSTO ALTÍSSIMO
+  IRREMOVÍVEL — poder máximo = CONTER, NÃO DERROTAR
+
+TIPOLOGIA TRANSNACIONAL:
+  HEGEMÔNICO / VASSALO / PARCEIRO ESTRATÉGICO / ESTADO PÁRIA / ATOR DESCENTRALIZADO
+
+COALITION BUILDER (5 camadas):
+  1. NÚCLEO — aliados irrestritos
+  2. FIÉIS — setoriais
+  3. PRAGMÁTICOS — táticos
+  4. NEUTROS — mobilizáveis
+  5. OPORTUNISTAS — converter na virada
+
+THREAT MODEL (8 ameaças):
+  Cooptação, Divisão, Infiltração, Deslegitimação, Judicialização,
+  Violência, Exaustão, Captura de Demandas.
+  Versão global: Sanções SWIFT, Bloqueio de chips, etc.
+  Para cada: contramedida.
+
+Saída mínima: tabela com scores + tipologia + coalizão + threat model + ator-alvo prioritário.
+================================================================================

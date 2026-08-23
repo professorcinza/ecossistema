@@ -1,0 +1,636 @@
+================================================================================
+TEIA FRAMEWORK v9.2 — LENTES v3.0 (INTELIGÊNCIA OPERACIONAL)
+================================================================================
+Upgrade das 16 Lentes de arsenal tático para INTELIGÊNCIA OPERACIONAL
+com 4 novos vetores práticos por lente.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-056
+Versão: v9.2
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v9.1 → v9.2)
+
+A v9.1 transformou as lentes em arsenal tático (5 camadas).
+A v9.2 integra a teoria à PRÁTICA DE DADOS. Cada lente agora tem
+9 camadas completas:
+
+CAMADAS v2.0 (mantidas):
+  1. Conceito-Âncora
+  2. Dimensão de Poder Alvo
+  3. Pergunta-Chave
+  4. Anti-Padrão
+  5. Técnica Avançada
+
+NOVAS CAMADAS v3.0:
+  6. VETORES DE DADOS (Inputs): de onde extrair a informação bruta
+  7. ARTEFATO GERADO (Output): o produto tangível da análise
+  8. INTEROPERABILIDADE: como esta lente se conecta com outras
+  9. TÉCNICA DE ESTADO DA ARTE: o método mais avançado disponível hoje
+
+A diferença:
+  v1.0 = categorias ("qual teoria?")
+  v2.0 = arsenal tático ("qual arma, qual mira?")
+  v3.0 = inteligência operacional ("qual dado entra, qual produto sai,
+         como conecta com as outras lentes, qual técnica de ponta usar?")
+
+
+================================================================================
+AS 16 LENTES ANALÍTICAS v3.0 (INTELIGÊNCIA OPERACIONAL)
+================================================================================
+
+------------------------------------------------------------------------
+LENSE 7 — ESTATÍSTICA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A verdade numérica esconde-se na variância, não na
+  média.
+DIMENSÃO ALVO: Econômica (90%)
+PERGUNTA-CHAVE: Qual a assinatura estatística de um esquema de captura
+  que difere do ruído natural?
+ANTI-PADRÃO: Otimização de média (ignorar outliers = onde está a captura)
+TÉCNICA AVANÇADA: Inferência Causal (DiD) para provar causalidade
+
+VETORES DE DADOS (INPUTS):
+  - Portal da Transparência (CGU) — execução orçamentária
+  - SIAFI (Tesouro) — gastos federais
+  - BCB SGS — séries estatísticas
+  - API de Licitações (Compras.gov.br)
+  - PNCP (Portal Nacional de Contratações Públicas)
+
+ARTEFATO GERADO (OUTPUT):
+  MATRIZ DE ANOMALIAS FISCAIS
+    Ranking de contratos e gastos fora da curva estatística.
+    Cada anomalia classificada por severidade (z-score) e cruzada
+    com dados de CNPJ/CPF do contratado.
+
+INTEROPERABILIDADE:
+  → Alimenta SIMULAÇÃO (8) com anomalias detectadas para modelar
+    cenários de colapso
+  → Alimenta DIREITO (22) para ações de jurimetria (processar
+    anomalias com maior probabilidade de sucesso)
+  → Alimenta GEOGRAFIA (17) para mapear onde anomalias concentram
+
+TÉCNICA DE ESTADO DA ARTE:
+  Inferência Causal Contrafatual (Synthetic Control) — constrói um
+  "gêmeo sintético" do município/orgão que não recebeu a política
+  capturada e compara com o real. Se a diferença for estatisticamente
+  significativa (p < 0.05), PROVA que a política causou o rombo.
+
+------------------------------------------------------------------------
+LENSE 8 — SIMULAÇÃO
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Sistemas complexos falham em caudas gordas.
+DIMENSÃO ALVO: Social (25%) e Econômica (90%)
+PERGUNTA-CHAVE: Qual o ponto de ruptura antes do colapso em cascata?
+ANTI-PADRÃO: Previsão linear (o futuro não é projeção reta)
+TÉCNICA AVANÇADA: ABM (Agent-Based Modeling)
+
+VETORES DE DADOS:
+  - Séries históricas do SUS (DATASUS)
+  - Dados demográficos (IBGE)
+  - Projeções de arrecadação (Receita Federal)
+  - Dados de emendas pagas (CGU)
+
+ARTEFATO GERADO:
+  PAINEL DE STRESS-TEST ORÇAMENTÁRIO
+    Cenários de colapso em 5/10/20 anos sob diferentes condições.
+    Mostra: "se Selic mantiver 14,25% por 5 anos, Saúde perde R$ X bi"
+
+INTEROPERABILIDADE:
+  → Usa dados da ESTATÍSTICA (7) para alimentar modelos
+  → Alimenta SISTEMAS COMPLEXOS (11) com parâmetros de simulação
+  → Fornece cenários para DIREITO (22) — "inconstitucionalidade
+    por omissão" baseada em projeção de colapso
+
+TÉCNICA DE ESTADO DA ARTE:
+  ABM com heterogeneidade espacial — simula como 10.000 prefeitos
+  otimizando reeleição criam um colapso fiscal emergente que nenhum
+  prefeito individual pretendia. Usa dados reais de comportamento
+  político para calibrar agentes.
+
+------------------------------------------------------------------------
+LENSE 9 — CIÊNCIA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Instituições são equilíbrios de poder cristalizados.
+DIMENSÃO ALVO: Institucional (60%)
+PERGUNTA-CHAVE: Quem são os veto players ocultos?
+ANTI-PADRÃO: Focar no Executivo, ignorar comissões
+TÉCNICA AVANÇADA: Coalizões de Defesa (Sabatier)
+
+VETORES DE DADOS:
+  - Dados abertos da Câmara (votações nominais, comissões, presença)
+  - Dados abertos do Senado
+  - Atas de comissões
+  - Histórico de votações nominais (1988-2026)
+
+ARTEFATO GERADO:
+  MAPA DE VETO PLAYERS OCULTOS + RADAR DE JANELAS
+    Identifica não apenas quem bloqueia, mas as COALIZÕES INFORMAIS
+    que sustentam o bloqueio. Detecta janelas de oportunidade
+    (Kingdon) em tempo real.
+
+INTEROPERABILIDADE:
+  → Cruza com PUBLIC CHOICE (10) para entender motivação econômica
+  → Alimenta INFORMAÇÃO/REDES (15) com topologia de poder
+  → Fornece alvos para DIREITO (22) — quem litigar contra
+
+TÉCNICA DE ESTADO DA ARTE:
+  Algoritmos de COMMUNITY DETECTION aplicados ao voto parlamentar —
+  revela "bancadas de bastidor" não oficiais. Exemplo: deputados
+  que sempre votam juntos em pauta financeira mas não aparecem como
+  "bancada financeira" formal. Cluster hierárquico de votação.
+
+------------------------------------------------------------------------
+LENSE 10 — PUBLIC CHOICE
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Políticos maximizam votos; burocratas maximizam
+  orçamento; empresas maximizam lucro via Estado.
+DIMENSÃO ALVO: Institucional (60%) e Econômica (90%)
+PERGUNTA-CHAVE: Qual matriz de benefícios concentrados e custos
+  difusos sustenta o esquema?
+ANTI-PADRÃO: Analisar política como "bem comum"
+TÉCNICA AVANÇADA: Matriz de Olson
+
+VETORES DE DADOS:
+  - Prestações de contas do TSE (DivulgaCandContas)
+  - Mapas de emendas parlamentares (CGU)
+  - ISOs e isenções fiscais (Receita Federal)
+  - Registro de lobby (quando disponível)
+
+ARTEFATO GERADO:
+  ÍNDICE DE RETORNO DE CAPTURA (IRC)
+    Quanto R$ 1 de doação retorna em isenção/emenda/contrato.
+    Exemplo: R$ 100 mil em doação → R$ 20 mi em emenda = IRC de 200x
+
+INTEROPERABILIDADE:
+  → Conecta com GEOGRAFIA (17) para georreferenciar retorno
+  → Alimenta CIÊNCIA POLÍTICA (9) com motivação dos veto players
+  → Fornece evidência para DIREITO (22) — correlação financeira
+
+TÉCNICA DE ESTADO DA ARTE:
+  Teoria dos Jogos Não-Cooperativos de Informação Assimétrica —
+  modela o "leilão" de alocação de emendas. Cada parlamentar é um
+  agente que maximiza utilidade (reeleição) sob restrição de
+  informação (o eleitor não sabe o quanto capturou). Permite PREVER
+  votações antes que aconteçam.
+
+------------------------------------------------------------------------
+LENSE 11 — SISTEMAS COMPLEXOS
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Causa e efeito raramente estão próximos no tempo
+  e espaço.
+DIMENSÃO ALVO: Ambiental (50%) e Social (25%)
+PERGUNTA-CHAVE: Onde está o ponto de alavanca sistêmico?
+ANTI-PADRÃO: Tratar sintomas em vez de arquitetura
+TÉCNICA AVANÇADA: Loop de Reforço (Meadows)
+
+VETORES DE DADOS:
+  - Bases integradas (Saúde + Segurança + Educação + Orçamento)
+  - Dados longitudinais de indicadores sociais
+  - Dados do TCU (auditoria de sistemas)
+
+ARTEFATO GERADO:
+  MAPA DE PONTOS DE ALAVANCA SISTÊMICOS
+    Onde intervir para destravar o sistema todo. Os 12 níveis de
+    Meadows aplicados a cada problema.
+
+INTEROPERABILIDADE:
+  → Fornece estrutura macro para PSICOLOGIA (12) atuar em micro
+  → Usa SIMULAÇÃO (8) para modelar loops
+  → Alimenta FILOSOFIA (16) com a arquitetura do sistema
+
+TÉCNICA DE ESTADO DA ARTE:
+  Dinâmica de Sistemas (Modelagem Vensim) com feedback loops
+  não-lineares. Exemplo: modelar o loop "encarceramento em massa →
+  custo prisional → menos educação → mais crime → mais encarceramento"
+  e calcular o ponto de colapso fiscal deste loop.
+
+------------------------------------------------------------------------
+LENSE 12 — PSICOLOGIA COGNITIVA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Mente humana é programada para economia de energia
+  (Sistema 1) e aversão à perda.
+DIMENSÃO ALVO: Cultural (5%) e Tecnológica (55%)
+PERGUNTA-CHAVE: Quais vieses cognitivos estão sendo explorados?
+ANTI-PADRÃO: Acreditar que público processa dados racionalmente
+TÉCNICA AVANÇADA: Teste de Aversão à Perda
+
+VETORES DE DADOS:
+  - Métricas de engajamento digital (YouTube, TikTok Analytics)
+  - Testes A/B em campanhas
+  - Enquetes de opinião (Datafolha, Quaest)
+  - Dados de comportamento eleitoral (TSE)
+
+ARTEFATO GERADO:
+  MATRIZ DE VIESES EXPLORADOS PELO FRAME DOMINANTE
+    Qual viés cognitivo está sendo ativado? Como substituí-lo?
+
+INTEROPERABILIDADE:
+  → Subsidia DISCURSO (14) com gatilhos cognitivos eficazes
+  → Alimenta INFORMAÇÃO/REDES (15) com padrões de engajamento
+  → Guia PRODUÇÃO DE CONTEÚDO (skill 6) sobre como comunicar
+
+TÉCNICA DE ESTADO DA ARTE:
+  Neurociência Computacional aplicada ao consumo de notícias políticas —
+  como o cérebro ignora dados de juros compostos da dívida. Eye-tracking
+  e EEG para medir atenção e carga cognitiva em conteúdo político.
+
+------------------------------------------------------------------------
+LENSE 13 — PSICOLOGIA SOCIAL
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Obediência à autoridade e pressão do grupo superam
+  moralidade individual.
+DIMENSÃO ALVO: Institucional (60%) e Social (25%)
+PERGUNTA-CHAVE: Como o efeito Asch impede denúncias internas?
+ANTI-PADRÃO: Culpar indivíduo ("maçã podre") por falha sistêmica
+TÉCNICA AVANÇADA: Dissonância Cognitiva
+
+VETORES DE DADOS:
+  - Relatos de whistleblowers (CGU canal de denúncias)
+  - Dados de rotatividade no serviço público
+  - Processos administrativos disciplinares
+  - Dados de sindicatos sobre assédio moral
+
+ARTEFATO GERADO:
+  MATRIZ DE PRESSÃO E CONFORMIDADE INSTITUCIONAL
+    Mapeia quais instituições têm cultura de silêncio e quais têm
+    cultura de denúncia. Identifica pontos de ruptura.
+
+INTEROPERABILIDADE:
+  → Combinada com ANTROPOLOGIA (20) para decifrar cultura do silêncio
+  → Alimenta ACCOUNTABILITY (mecanismos) com pontos de intervenção
+  → Guia proteção de whistleblowers
+
+TÉCNICA DE ESTADO DA ARTE:
+  Modelagem de Dinâmica de Obediência (Milgram adaptado via ML) —
+  prever em quais instituições a corrupção estoura vs é absorvida.
+  Usa dados de processos disciplinares para treinar classificador.
+
+------------------------------------------------------------------------
+LENSE 14 — DISCURSO
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Quem controla os frames controla o debate.
+DIMENSÃO ALVO: Cultural (5%)
+PERGUNTA-CHAVE: Qual metáfora central estrutura o imaginário público?
+ANTI-PADRÃO: Fazer fact-check de um frame (não se combate frame com dado)
+TÉCNICA AVANÇADA: Engenharia de Frames (Lakoff)
+
+VETORES DE DADOS:
+  - Transcrições de plenário (Câmara/Senado)
+  - Releases governamentais (gov.br)
+  - Editoriais de grande mídia (Estadão, Folha, Valor, O Globo)
+  - Discursos presidenciais
+  - Conteúdo de TikTok/YouTube politico
+
+ARTEFATO GERADO:
+  DICIONÁRIO DE FRAMES DOMINANTES E CONTRA-FRAMES
+    Mapeia: qual frame domina, qual metáfora estrutura, qual
+    contra-frame TEIA oferece, qual gatilho cognitivo ativa.
+
+INTEROPERABILIDADE:
+  → Usa métricas de INFORMAÇÃO/REDES (15) para medir viralização
+  → Conecta com PSICOLOGIA COGNITIVA (12) para gatilhos
+  → Guia toda PRODUÇÃO DE CONTEÚDO TEIA
+
+TÉCNICA DE ESTADO DA ARTE:
+  Processamento de Linguagem Natural (PLN/NLP) e Análise de Sentimento —
+  rastrear em tempo real a MUTAÇÃO SEMÂNTICA do discurso do "teto de
+  gastos". Como o frame evolui? Quem o introduziu? Como se espalhou?
+
+------------------------------------------------------------------------
+LENSE 15 — INFORMAÇÃO/REDES
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Informação se difunde em topologias de rede com
+  atores de alto betweenness.
+DIMENSÃO ALVO: Tecnológica (55%)
+PERGUNTA-CHAVE: Quem são os nós de alto betweenness que disparam
+  viralização?
+ANTI-PADRÃO: Olhar apenas seguidores (centralidade de grau)
+TÉCNICA AVANÇADA: Detecção de Comunidades (Louvain)
+
+VETORES DE DADOS:
+  - Metadados do Twitter/X
+  - Mapeamento de grupos do Telegram/WhatsApp
+  - Histórico de fact-checking (Agência Lupa, Comprova)
+  - Dados de propagação viral
+
+ARTEFATO GERADO:
+  GRAFO DE PROPAGAÇÃO DE DESINFORMAÇÃO + MAPA DE GATEKEEPERS
+    Visualização da rede de propagação. Identifica super-
+    disseminadores e gatekeepers (pontes entre comunidades).
+
+INTEROPERABILIDADE:
+  → Alimenta DIREITO (22) para identificar responsabilidades
+  → Conecta com DISCURSO (14) para rastrear frame propagation
+  → Fornece alvos para CONTRA-NARRATIVA
+
+TÉCNICA DE ESTADO DA ARTE:
+  Graph Neural Networks (GNNs) — prever a próxima fake news a viralizar
+  ANTES que atinja massa crítica. Modelos SIR adaptados (Suscetível-
+  Infectado-Recuperado) com dados de rede real brasileira.
+
+------------------------------------------------------------------------
+LENSE 16 — FILOSOFIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O poder define o que é "verdadeiro" no discurso público.
+DIMENSÃO ALVO: Econômica (90%) e Social (25%)
+PERGUNTA-CHAVE: A quem serve a categorização atual do que é
+  "deficitário" vs "investimento"?
+ANTI-PADRÃO: Aceitar contabilidade estatal como neutra
+TÉCNICA AVANÇADA: Necropolítica (Mbembe) / Biopolítica (Foucault)
+
+VETORES DE DADOS:
+  - Textos constitucionais
+  - Relatórios de agências multilaterais (FMI, BM, OCDE)
+  - Pareceres técnicos (Tesouro, BCB)
+  - Projetos de lei e exposição de motivos
+
+ARTEFATO GERADO:
+  MATRIZ DE LEGITIMIDADE ÉTICA DO ORÇAMENTO
+    Avalia: o orçamento é eticamente legítimo sob o véu da ignorância?
+    Quantas mortes evitáveis ele produz?
+
+INTEROPERABILIDADE:
+  → Fornece base ética para LITIGÂNCIA no DIREITO (22)
+  → Alimenta DISCURSO (14) com fundamentação filosófica
+  → Conecta com BIOPOLÍTICA (Dim 11) para impacto vital
+
+TÉCNICA DE ESTADO DA ARTE:
+  Modelos de Linguagem Grandes (LLMs) treinados em Teoria Crítica para
+  fazer "AUDITORIA ÉTICA AUTOMATIZADA" de projetos de lei — apontando
+  violações ao véu da ignorância (Rawls) em cada artigo.
+
+------------------------------------------------------------------------
+LENSE 17 — GEOGRAFIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O espaço é produto e produtor de relações de poder.
+DIMENSÃO ALVO: Ambiental (50%) e Econômica (90%)
+PERGUNTA-CHAVE: Como a distância geográfica mascara impactos da captura?
+ANTI-PADRÃO: Analisar dados nacionais agregados (esconde fronteiras)
+TÉCNICA AVANÇADA: Regressão Espacial (GIS)
+
+VETORES DE DADOS:
+  - Shapefiles (IBGE, INCRA)
+  - Satélite (PRODES, DETER — INPE)
+  - Dados de financiamento eleitoral (TSE)
+  - Dados de emendas por município (CGU)
+  - MapBiomas
+
+ARTEFATO GERADO:
+  MAPAS DE CALOR DE CAPTURA SOCIOESPACIAL
+    Sobreposição de vetores: desmatamento + emenda + doação +
+    IDH-M + cobertura bancária. Mapa "Sangue por Voto".
+
+INTEROPERABILIDADE:
+  → Funde dados ambientais com PUBLIC CHOICE (10)
+  → Alimenta ESTATÍSTICA (7) com dados espaciais para regressão
+  → Fornece visualização para PRODUÇÃO DE CONTEÚDO
+
+TÉCNICA DE ESTADO DA ARTE:
+  Modelagem de Autocorrelação Espacial (Índice de Moran) — prova
+  estatisticamente que desmatamento ocorre em CLUSTERS determinados
+  por financiamento político (não aleatório).
+
+------------------------------------------------------------------------
+LENSE 18 — HISTÓRIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Estruturas de longa duração determinam eventos
+  de curto prazo.
+DIMENSÃO ALVO: Cultural (5%) e Institucional (60%)
+PERGUNTA-CHAVE: Qual inércia patrimonialista do Brasil Colônia ainda
+  determina o orçamento de hoje?
+ANTI-PADRÃO: Contextualismo (tratar escândalo como fato isolado)
+TÉCNICA AVANÇADA: Path Dependence
+
+VETORES DE DADOS:
+  - Arquivos nacionais
+  - Séries históricas de inflação e dívida (IPEA)
+  - Anuários estatísticos (IBGE histórico)
+  - Coleções de leis (Planalto)
+
+ARTEFATO GERADO:
+  LINHA DO TEMPO DE PATH DEPENDENCE
+    Trajetória estrutural: como decisões de 1808/1889/1964/1994 ainda
+    determinam a arquitetura fiscal de 2026.
+
+INTEROPERABILIDADE:
+  → Conecta com SOCIOLOGIA (19) para explicar origem do habitus
+  → Alimenta DISCURSO (14) com narrativa histórica de longa duração
+  → Fornece profundidade temporal para todas as lentes
+
+TÉCNICA DE ESTADO DA ARTE:
+  Process Tracing algorítmico + Análise de Séries Temporais Longas
+  (séculos XIX-XXI) — provar que captura econômica via dívida é
+  CONSTANTE ESTRUTURAL, independentemente do regime político.
+
+------------------------------------------------------------------------
+LENSE 19 — SOCIOLOGIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Classes dominantes impõem habitus cultural legítimo
+  que naturaliza desigualdade.
+DIMENSÃO ALVO: Social (25%) e Institucional (60%)
+PERGUNTA-CHAVE: Como a lógica da Casa captura a Rua no Brasil?
+ANTI-PADRÃO: Analisar Estado como ente autônomo
+TÉCNICA AVANÇADA: Mapeamento de Campos (Bourdieu)
+
+VETORES DE DADOS:
+  - Dados sociodemográficos de elites (CNPJ, conselhos administrativos)
+  - Genealogias de famílias políticas
+  - Escolas de elite (dados de matrícula)
+  - Dados de mobilidade social (IBGE)
+
+ARTEFATO GERADO:
+  MAPA DE CAMPOS DE PODER E REPRODUÇÃO DE ELITES
+    Identifica quem é elite, como se reproduz, qual o capital
+    necessário para pertencer.
+
+INTEROPERABILIDADE:
+  → Base para ANTROPOLOGIA (20) entender rituais destes grupos
+  → Alimenta CIÊNCIA POLÍTICA (9) com composição social do poder
+  → Conecta com HISTÓRIA (18) para origem das elites
+
+TÉCNICA DE ESTADO DA ARTE:
+  Análise de Correspondência Múltipla (ACM) — mapear a distância
+  simbólica e social entre burocratas de alto escalão e população
+  geral. Visualiza o "espaço social" bourdieuano.
+
+------------------------------------------------------------------------
+LENSE 20 — ANTROPOLOGIA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O poder se legitima através de rituais públicos.
+DIMENSÃO ALVO: Institucional (60%) e Cultural (5%)
+PERGUNTA-CHAVE: Que rituais servem apenas para performar democracia?
+ANTI-PADRÃO: Levar discurso performativo ao pé da letra
+TÉCNICA AVANÇADA: Análise Dramatúrgica (Goffman)
+
+VETORES DE DADOS:
+  - Filmagens de plenário (Câmara TV, Senado TV)
+  - Atas de audiências públicas
+  - Observação etnográfica em órgãos públicos
+  - Redes sociais de parlamentares
+
+ARTEFATO GERADO:
+  ETNOGRAFIA DA PERFORMANCE INSTITUCIONAL
+    Separar PALCO (discurso em plenário) de BASTIDOR (decisão real).
+    Expor a fachada ritualística.
+
+INTEROPERABILIDADE:
+  → Valida dados duros da CIÊNCIA POLÍTICA (9)
+  → Conecta com PSICOLOGIA SOCIAL (13) para cultura do silêncio
+  → Fornece conteúdo para PRODUÇÃO (skill 6)
+
+TÉCNICA DE ESTADO DA ARTE:
+  Análise de Microexpressões (FACS — Facial Action Coding System)
+  aplicada a debates políticos — detectar alinhamentos ocultos
+  (o "piscar de olho" institucional, microexpressões de decepção).
+
+------------------------------------------------------------------------
+LENSE 21 — EPI
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Estado nacional atua como gerente local do capital
+  financeiro transnacional.
+DIMENSÃO ALVO: Econômica (90%)
+PERGUNTA-CHAVE: Como rating agencies e tratados limitam soberania?
+ANTI-PADRÃO: Analisar política fiscal isoladamente
+TÉCNICA AVANÇADA: Strange — poder estrutural
+
+VETORES DE DADOS:
+  - Relatórios de rating (Fitch, S&P, Moody's)
+  - Fluxos de capitais (BIS — Bank for International Settlements)
+  - Registros de lobby internacional
+  - Tratados tributários e de investimento
+
+ARTEFATO GERADO:
+  MATRIZ DE VULNERABILIDADE EXTERNA E VETOS TRANSNACIONAIS
+    Como o poder externo (fuga de capital, downgrade) funciona como
+    VETO PLAYER INVISÍVEL.
+
+INTEROPERABILIDADE:
+  → Explica o teto da DIMENSÃO ECONÔMICA (1)
+  → Alimenta SIMULAÇÃO (8) com cenários externos
+  → Fornece argumento para DISCURSO (14) — "quem manda no Brasil?"
+
+TÉCNICA DE ESTADO DA ARTE:
+  Modelagem de Redes Financeiras Complexas (BIS) — rastrear como o
+  downgrade de um país periférico injeta bilhões nos fundos de hedge
+  do centro. Mostrar quem lucra com o medo.
+
+------------------------------------------------------------------------
+LENSE 22 — DIREITO
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Direito é tecnologia de poder que estrutura a
+  economia política.
+DIMENSÃO ALVO: Institucional (60%)
+PERGUNTA-CHAVE: Quais brechas hermenêuticas permitem a juridificação
+  da captura?
+ANTI-PADRÃO: Dogmatismo jurídico ingênuo (letra da lei ≠ prática)
+TÉCNICA AVANÇADA: Litigância Estratégica Sistêmica
+
+VETORES DE DADOS:
+  - APIs do STF/TST/TJs
+  - Diário Oficial da União (DOU)
+  - Histórico de ADIs, ADPFs, ACPs
+  - Jurisprudência consolidada
+
+ARTEFATO GERADO:
+  MAPA DE BRECHAS JURÍDICAS + TESE DE LITIGÂNCIA ESTRATÉGICA
+    Identifica onde a lei PERMITE captura e formula a tese jurídica
+    para FECHAR a brecha.
+
+INTEROPERABILIDADE:
+  → Braço armado contra anomalias da ESTATÍSTICA (7)
+  → Usa fundamentação da FILOSOFIA (16) para base ética
+  → Conecta com CIÊNCIA POLÍTICA (9) para timing estratégico
+
+TÉCNICA DE ESTADO DA ARTE:
+  JURIMETRIA PREDITIVA — Machine Learning sobre jurisprudência passada
+  para PREVER com 85%+ de assertividade o resultado de uma ADI contra
+  a PEC da Blindagem. Formula a tese ideal para maximação de sucesso.
+
+
+================================================================================
+PROTOCOLO DE QUALIDADE v9.2 (32 ITENS)
+================================================================================
+
+Adicionados 2 itens ao Protocolo de Qualidade:
+
+[ ] 31. VETORES DE DADOS identificados (de onde vem a informação?)
+[ ] 32. ARTEFATO GERADO definido (qual produto tangível a análise produz?)
+
+O protocolo agora exige não apenas TEORIA (lente selecionada) mas
+também PRÁTICA (qual dado entra, qual produto sai).
+
+
+================================================================================
+FLUXO OPERACIONAL COMPLETO DAS LENTES v3.0
+================================================================================
+
+Para cada investigação TEIA:
+
+PASSO 1 — DIAGNÓSTICO (qual problema?)
+  → Identificar DIMENSÃO DE PODER capturada (das 36)
+  → Selecionar LENTE PRIMÁRIA (das 16 v3.0)
+  → Formular PERGUNTA-CHAVE
+
+PASSO 2 — COLETA (que dados buscar?)
+  → Identificar VETORES DE DADOS (inputs da lente selecionada)
+  → Coletar via APIs/scrapers/OSINT
+
+PASSO 3 — ANÁLISE (como processar?)
+  → Aplicar TÉCNICA AVANÇADA (método de ponta)
+  → Evitar ANTI-PADRÃO (armadilha conhecida)
+  → Cruzar com INTEROPERABILIDADE (conectar lentes)
+
+PASSO 4 — PRODUÇÃO (o que gerar?)
+  → Produzir ARTEFATO GERADO (output tangível)
+  → Matriz de anomalias, mapa de veto players, grafo de propagação...
+
+PASSO 5 — AÇÃO (o que fazer com o produto?)
+  → Converter artefato em documento de ação (PKG)
+  → Protocolar/publicar/executar
+  → Medir impacto (KPI)
+
+Este fluxo transforma CADA LENTE em um PIPELINE DE INTELIGÊNCIA
+com input → processamento → output → ação.
+
+
+================================================================================
+RESUMO DA EVOLUÇÃO DAS LENTES
+================================================================================
+
+v1.0 = CATEGORIAS ("qual teoria se aplica?")
+v2.0 = ARSENAL TÁTICO ("qual arma, qual mira, qual defeito?")
+v3.0 = INTELIGÊNCIA OPERACIONAL ("qual dado entra, qual produto sai,
+       como conecta, qual técnica de ponta?")
+
+Cada lente agora tem 9 CAMADAS:
+  1. Conceito-Âncora
+  2. Dimensão de Poder Alvo
+  3. Pergunta-Chave
+  4. Anti-Padrão
+  5. Técnica Avançada
+  6. Vetores de Dados (Inputs)       ← NOVO
+  7. Artefato Gerado (Output)        ← NOVO
+  8. Interoperabilidade              ← NOVO
+  9. Técnica de Estado da Arte       ← NOVO
+
+O operador do TEIA não apenas ESCOLHE uma lente — ele OPERACIONALIZA
+um pipeline de inteligência completo: dado entra, produto sai.
+
+================================================================================
+FIM — TEIA Framework v9.2 (LENTES v3.0)
+================================================================================
+Protocolo: TEIA-2026-056
+https://github.com/mouracleiton/TEIA
+
+36 dimensões × 16 lentes v3.0 (9 camadas cada) = 576 perspectivas
+51 skills metodológicas
+7 níveis de profundidade
+Protocolo de Qualidade: 32 itens
+
+Cada lente agora é um PIPELINE DE INTELIGÊNCIA:
+  Input → Processamento → Output → Ação
+
+================================================================================

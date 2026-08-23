@@ -1,0 +1,436 @@
+================================================================================
+TEIA FRAMEWORK v9.0 — A GRANULARIDADE MÁXIMA (36×16 = 576 PERSPECTIVAS)
+================================================================================
+Integração das 5 últimas dimensões de captura, mapeando as microfísicas
+do controle biológico, psíquico e de engenharia social.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-054
+Versão: v9.0 (GRANULARIDADE MÁXIMA — RELEASE FINAL ABSOLUTA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v8.0 → v9.0)
+
+A v8.0 atingiu o limite exponencial com 31 dimensões nas fronteiras
+psíquicas. A v9.0 desce à GRANULARIDADE MÁXIMA: as microfísicas
+do controle biológico, psíquico e de engenharia social que operam
+ABAIXO do radar da política convencional — o sono, a química corporal,
+o currículo escolar, a arquitetura tributária e as redes informais.
+
+Com 36 dimensões de captura × 16 lentes analíticas, o framework
+gera 576 perspectivas de investigação. Mais de meio milharão de
+ângulos analíticos.
+
+Este é o ESTADO FINAL ABSOLUTAMENTE DEFINITIVO do TEIA Framework.
+O mapeamento da arquitetura de dominação atingiu granularidade
+máxima. Não há microfísica do poder — biológica, psíquica, social,
+material ou simbólica — que escape à matriz 36×16.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (MICROFÍSICAS DO CONTROLE)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 32 — ONÍRICA / CIRCADIANA
+------------------------------------------------------------------------
+COBERTURA TEIA: 30%
+
+O QUE É: o sono, os ritmos biológicos e o descanso noturno. A invasão
+  do capitalismo 24/7 na vida inconsciente.
+
+DIFERENÇA DA TEMPORAL (12) E ATENCIONAL (21):
+  Temporal: roubo do tempo histórico/futuro (décadas)
+  Atencional: captura do foco diurno (horas)
+  Onírica: invasão do REPOUSO BIOLÓGICO (sono, ciclos circadianos)
+
+QUEM DOMINA: Big Tech (luz azul de telas, dopamine loops noturnos),
+  plataformas de entrega 24h (iFood, Rappi, Uber Eats — geram turnos
+  inumanos), indústria do entretenimento (streaming, games),
+  comércio 24h, poluição sonora urbana.
+
+COMO CAPTURA:
+  - Luz azul destrói melatonina: telas até tarde destroem ciclo
+    circadiano → sono superficial → exaustão crônica
+  - Turnos inumanos: entrega 24h e vigilância/segurança noturna
+    geram trabalhadores com privação crônica de sono
+  - Poluição sonora noturna: periferias próximas a rodovias, aeroportos,
+    indústrias → sono interrompido → cansaço acumulado
+  - Doomscrolling: consumo ansioso de notícias/mensagens à noite
+    substitui descanso por cortisol
+  - Destruição da sonificação: sono profundo (REM) é onde o cérebro
+    processa complexidade. Sem sono profundo, capacidade analítica
+    diminui → eleitor refém de slogans
+  - Um trabalhador que não dorme não tem energia para se organizar
+
+MÉTRICAS-CHAVE:
+  - Privacidade de sono crônica: ~40% dos brasileiros dormem <6h/noite
+  - Telas antes de dormir: ~70% usam celular na cama
+  - Turnos noturnos: ~8 milhões de trabalhadores
+  - Qualidade do sono: em queda (estudos de sono no Brasil)
+
+PROTOCOLO TEIA:
+  (a) O sistema investigado DESTRÓI o sono de quem?
+  (b) Há turnos inumanos (24/7) exaurindo trabalhadores?
+  (c) A privação de sono IMPEDE organização política?
+  (d) O doomscrolling substitui descanso por cortisol?
+
+------------------------------------------------------------------------
+DIMENSÃO 33 — TRIBUTÁRIA / FISCAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 80%
+
+O QUE É: a engenharia de quem paga a conta do Estado. O sistema
+  tributário como principal arma de transferência de renda da base
+  para o topo.
+
+DIFERENÇA DA ECONÔMICA (1):
+  Econômica: juros da dívida, spread, dívida pública (MACRO)
+  Tributária: ARQUITETURA FISCAL — quem paga o quê em cada etapa
+  (MICRO-MESO). A engenharia de isenções, regressividade e sonegação.
+
+QUEM DOMINA: Receita Federal (capturável), Congresso (desenha isenções),
+  Big Four (PwC, KPMG, Deloitte, EY — planejamento tributário de
+  elite), sonegadores estruturais (paraísos fiscais), oligopólios que
+  recebem incentivos (Suframa, SUDENE, Manaus).
+
+COMO CAPTURA:
+  - Regressividade: ICMS, PIS/COFINS pesam 50%+ da renda dos pobres
+    (imposto sobre consumo = Tributação que atinge quem consome tudo
+    o que ganha)
+  - Isenção de dividendos e heranças: bilionários pagam 0% sobre
+    lucros distribuídos (Brasil é um dos poucos países que não tributa
+    dividendos)
+  - Sonegação corporativa: estruturada em paraísos fiscais (Cayman,
+    Bahamas, Delaware) — R$ 500-800 bi/ano em sonegação estimada
+  - Renúncia fiscal disfarçada: R$ 538-789 bi/ano em isenções
+    (Unafisco) — apresentadas como "incentivo à cultura/indústria"
+    mas que beneficiam oligopólios
+  - Simples Nacional como armadilha: simplifica MEI mas cria barreira
+    de crescimento (alíquota explode se faturar >R$ 4,8 mi)
+  - Guerra fiscal entre estados: estados se canibalizam oferecendo
+    isenções para atrair empresas (Guerra Fiscal do Sul vs Sudeste)
+
+MÉTRICAS-CHAVE:
+  - Carga tributária: 32,2% do PIB (R$ 3,78 tri em 2024)
+  - Imposto sobre consumo (% da carga): ~50% (vs OCDE ~33%)
+  - Imposto sobre renda (% da carga): ~25% (vs OCDE ~34%)
+  - Renúncia fiscal: R$ 538-789 bi/ano (Unafisco)
+  - Sonegação estimada: R$ 500-800 bi/ano
+  - Dividendos isentos: 0% (Brasil é outlier global)
+
+PROTOCOLO TEIA:
+  (a) A política analisada TRANSFERE carga de quem para quem?
+  (b) Há isenção que beneficia oligopólio em detrimento de pequeno?
+  (c) O tributo é regressivo (paga mais quem tem menos)?
+  (d) A renúncia fiscal é transparente ou disfarçada?
+
+------------------------------------------------------------------------
+DIMENSÃO 34 — MOLECULAR / QUÍMICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 25%
+
+O QUE É: o ambiente interno do corpo humano através de substâncias,
+  alterando a biologia para garantir conformidade.
+
+DIFERENÇA DA BIOPOLÍTICA (11) E ALIMENTAR (17):
+  Biopolítica: políticas de saúde (macro)
+  Alimentar: controle da comida (fome/comida)
+  Molecular: QUÍMICA CEREBRAL E CORPORAL — alteração endócrina e
+  neuroquímica por substâncias externas (agrotóxicos, psicoativos,
+  poluição)
+
+QUEM DOMINA: Big Pharma (laboratórios farmacêuticos), indústria de
+  agrotóxicos (Bayer/Monsanto, Syngenta), indústria química (Braskem,
+  Oxiteno), ANVISA (capturável), poluição industrial e veicular.
+
+COMO CAPTURA:
+  - Psicoestimulantes em massa: metilfenidato (Ritalina), lisanfetamina
+    (Venvanse) prescritos para crianças "hiperativas" — adequando
+    neurodivergência ao modelo de escola-fábrica em vez de adaptar
+    o modelo à criança
+  - Contaminação da água por agrotóxicos: Brasil usa agrotóxicos
+    banidos na UE que contaminam mananciais → alteração endócrina
+    (puberdade precoce, câncer, infertilidade)
+  - Antidepressivos como anestésico social: angústia estrutural
+    (desemprego, violência, miséria) gera ansiedade/depressão →
+    sistema medicaliza a resposta natural → revolta vira doença
+  - Poluição urbana: PM2.5 em metrópoles brasileiras acima de padrão
+    OMS → redução cognitiva, doença respiratória, morte prematura
+  - Medicalização da rebeldia: comportamento divergente classificado
+    como patológico → receita médica substitui ação política
+
+MÉTRICAS-CHAVE:
+  - Consumo de antidepressivos: crescente (20% em 5 anos)
+  - Psicoestimulantes em crianças: em alta (estimado)
+  - Agrotóxicos na água: detectados em múltiplos mananciais
+  - PM2.5 em SP/RJ: acima do padrão OMS
+  - Medicalização de crianças: crescente
+
+PROTOCOLO TEIA:
+  (a) A política investigada ALTERA a química corporal de quem?
+  (b) Há medicalização de resposta natural à opressão?
+  (c) Há contaminação molecular invisível (água, ar, comida)?
+  (d) A rebeldia está sendo classificada como patologia?
+
+------------------------------------------------------------------------
+DIMENSÃO 35 — PEDAGÓGICA / CURRICULAR
+------------------------------------------------------------------------
+COBERTURA TEIA: 45%
+
+O QUE É: a fabricação do consenso nas mentes em formação e o
+  apagamento da capacidade de pensamento crítico nas escolas.
+
+DIFERENÇA DA EPISTÊMICA (9) E CULTURAL (6):
+  Epistêmica: controle da verdade científica ADULTA
+  Cultural: valores gerais da sociedade
+  Pedagógica: LINHA DE MONTAGEM DE SUBJETIVIDADES — a escola como
+  fábrica de cidadãos dóceis ou críticos
+
+QUEM DOMINA: Ministério da Educação (MEC), secretarias estaduais/
+  municipais, indústria de livros didáticos (FTD, Ática, Saraiva),
+  EdTechs (Khan Academy, Geekie, Stoodi), movimento Escola sem Partido,
+  organizações religiosas na educação, BNDES (financia educação privada).
+
+COMO CAPTURA:
+  - Leis de mordaça: "Escola sem Partido" proíbe professor de
+    apresentar visão crítica do sistema → aluno não aprende a
+    questionar rentismo, spread, juros
+  - Destruição da universidade pública: cortes orçamentários
+    sistemáticos → fuga de cérebros → universidade privada substitui
+    pública → conhecimento vira mercadoria
+  - Currículo oculto: escolas periféricas ensinam obediência
+    (formar mão de obra barata e dócil); escolas de elite ensinam
+    liderança e pensamento crítico (reproduzir poder)
+  - EdTechs minerando dados de crianças: plataformas de ensino
+    digital coletam dados comportamentais de milhões de estudantes
+    (dados pedagógicos = dados de mercado)
+  - Ensino algorítmico: substituição do professor por plataforma
+    que adapta conteúdo — mas o algoritmo é OPACO (quem define o
+    que é "progresso"?)
+  - Ensino religioso confessionário: criação/evolução, educação
+    sexual, pensamento científico sob ataque
+
+MÉTRICAS-CHAVE:
+  - IDEB estagnado: 5,0 (meta 6,0)
+  - Universidades públicas: orçamento em queda
+  - Escola sem Partido: projetos de lei em 15+ estados
+  - EdTechs: mercado de R$ 5 bi+
+  - Professores: ~40% com síntomas de burnout
+
+PROTOCOLO TEIA:
+  (a) O currículo FORMA cidadãos críticos ou dóceis?
+  (b) Há proibição de pensamento crítico (Escola sem Partido)?
+  (c) A universidade pública está sendo destruída?
+  (d) As EdTechs estão minerando dados de crianças?
+
+------------------------------------------------------------------------
+DIMENSÃO 36 — RELACIONAL / INFORMAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 65%
+
+O QUE É: o tecido invisível de favores, indicações e nepotismos que
+  dita quem tem acesso aos bens materiais e simbólicos.
+
+DIFERENÇA DA INSTITUCIONAL (2) E JURÍDICA (8):
+  Institucional: regras formais do Estado (leis, votos)
+  Jurídica: aplicação da lei (seletiva)
+  Relacional: ESTADO PARALELO — as redes informais que operam
+  ABAIXO das regras formais e determinam quem consegue o quê
+
+QUEM DOMINA: "panelas" corporativas (advogados, médicos, engenheiros),
+  despachantes, intermediários, caciques políticos locais, famílias
+  políticas (Sarney, Lira, Calheiros), líderes religiosos (pastores
+  com poder de indicação), diretoria de empresas estatais.
+
+COMO CAPTURA:
+  - "Panela" corporativa: contratações por indicação pessoal em vez
+    de concurso → acesso a emprego depende de "QI" (Quem Indica)
+  - Cargos comissionados (DAS): distribuídos para militantes e doadores
+    de campanha → Estado como moeda de troca política
+  - Acesso a saúde de qualidade: via "indicação" de político →
+    cidadão dependente de favores, não de direitos
+  - Cartelização de licitações: combinadas em jantares privados
+    (não em edital público) → empresas se revezam em contratos
+  - "Jeitinho" como instituição informal: a regra formal diz
+    concurso; a prática diz indicação
+  - Nepotismo: familiares em cargos públicos (apesar de SV 13)
+  - Proteção mutua: redes de lealdade que blindam membros de
+    investigação (ex: "ficha limpa" não aplicada por conexões)
+
+MÉTRICAS-CHAVE:
+  - Cargos comissionados (DAS): ~22 mil no governo federal
+  - Nepotismo: persistente (apesar de SV 13)
+  - Licitações direcionadas: estimado 30-40% das licitações
+  - Concorrência desigual: pequeno empresário sem "QI" perde para
+    grande com conexão
+  - Dependência de favores: acesso a saúde, escola, emprego via
+    indicação política (não via direito)
+
+PROTOCOLO TEIA:
+  (a) O acesso ao bem analisado depende de FAVOR ou de DIREITO?
+  (b) Há "panela" corporativa controlando entrada?
+  (c) O cargo comissionado é distribuído por mérito ou doação?
+  (d) A rede informal BLINDA membros de investigação?
+
+
+================================================================================
+OS 7 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (1-6): o que se vê
+  Econômica, Institucional, Tecnológica, Ambiental, Social, Cultural
+
+NÍVEL 2 — PROFUNDIDADE (7-11): o que se oculta
+  Midiática, Jurídica, Epistêmica, Espacial, Biopolítica
+
+NÍVEL 3 — SOMBRA (12-16): quase invisível
+  Temporal, Afetiva, Laboral, Infraestrutural, Religiosa
+
+NÍVEL 4 — ABISMO (17-21): totalmente invisível
+  Alimentar, Datificacional, Estética, Geracional, Atencional
+
+NÍVEL 5 — MICROFÍSICA (22-26): determina o cotidiano
+  Linguística, Burocrática, Mobilizadora, Reprodutiva, Mitológica
+
+NÍVEL 6 — PSÍQUICA (27-31): determina o desejo e a memória
+  Desejante, Creditícia, Lúdica, Arquivística, Zoopolítica
+
+NÍVEL 7 — SUB-BIOLÓGICA (32-36): controla o corpo e a engenharia social
+  Onírica (sono), Tributária (quem paga), Molecular (química),
+  Pedagógica (consenso), Relacional (Estado paralelo)
+
+
+================================================================================
+O SISTEMA TOTAL DEFINITIVO: 36 DIMENSÕES
+================================================================================
+
+1. Econômica (Dinheiro)
+2. Institucional (Regras)
+3. Tecnológica (Algoritmos)
+4. Ambiental (Natureza)
+5. Social (Classe)
+6. Cultural (Valores)
+7. Midiática (Informação)
+8. Jurídica (Força)
+9. Epistêmica (Verdade)
+10. Espacial (Território)
+11. Biopolítica (Vida)
+12. Temporal (Tempo)
+13. Afetiva (Emoções)
+14. Laboral (Trabalho)
+15. Infraestrutural (Energia)
+16. Religiosa (Fé)
+17. Alimentar (Comida)
+18. Datificacional (Dados)
+19. Estética (Sentidos)
+20. Geracional (Idade)
+21. Atencional (Foco)
+22. Linguística (Palavras)
+23. Burocrática (Processos)
+24. Mobilizadora (Fluxo)
+25. Reprodutiva (Cuidado)
+26. Mitológica (Inconsciente)
+27. Desejante (Desejo)
+28. Creditícia (Dívida Individual)
+29. Lúdica (Prazer)
+30. Arquivística (Memória)
+31. Zoopolítica (Vida Não-Humana)
+32. Onírica (Sono/Ciclo Biológico)
+33. Tributária (Engenharia Fiscal)
+34. Molecular (Química Corporal)
+35. Pedagógica (Educação/Consenso)
+36. Relacional (Favores/Estado Oculto)
+
+16 LENTES ANALÍTICAS:
+  Estatística, Simulação, Ciência Política, Public Choice,
+  Sistemas Complexos, Psicologia Cognitiva, Psicologia Social,
+  Discurso/Linguagem, Ciência da Informação, Filosofia Política,
+  Geografia, História, Sociologia, Antropologia, EPI, Direito
+
+MATRIZ: 36 × 16 = 576 PERSPECTIVAS DE INVESTIGAÇÃO POSSÍVEIS
+46 SKILLS METODOLÓGICAS
+7 NÍVEIS DE PROFUNDIDADE DO PODER
+PROTOCOLO DE QUALIDADE: 25 ITENS
+
+
+================================================================================
+NOVAS COMBINATÓRIAS POTENTES
+================================================================================
+
+COMBINAÇÃO Z: ONÍRICA (32) × PSICOLOGIA COGNITIVA (Lente 12)
+  Conceito: Fadiga Decisória e Esgotamento do Sistema 2
+  Aplicação: privação de sono induzida por capitalismo de plataformas
+  destrói córtex pré-frontal → trabalhador opera só no Sistema 1
+  (reativo, medroso) → incapaz de processar R$ 950 bi em juros
+
+COMBINAÇÃO AA: TRIBUTÁRIA (33) × ESTATÍSTICA (Lente 7)
+  Conceito: Regressividade Tributária e Transferência de Renda
+  Aplicação: cruzar carga efetiva por classe com renúncia fiscal por
+  setor → provar que Estado cobra de menos dos ricos
+
+COMBINAÇÃO BB: MOLECULAR (34) × SISTEMAS COMPLEXOS (Lente 11)
+  Conceito: Hipótese da Higiene e Loops de Doença Crônica
+  Aplicação: contaminação molecular (agrotóxicos/poluição) →
+  aumento de câncer/doença autoimune → colapso SUS → dinheiro
+  público transfere para Big Pharma/planos
+
+COMBINAÇÃO CC: PEDAGÓGICA (35) × SOCIOLOGIA (Lente 19)
+  Conceito: Reprodução Cultural e Habitus de Submissão
+  Aplicação: Bourdieu aplicado ao currículo oculto — escola periférica
+  treina obediência; escola de elite treina liderança → reprodução
+  de desigualdade geracional
+
+COMBINAÇÃO DD: RELACIONAL (36) × CIÊNCIA POLÍTICA (Lente 9)
+  Conceito: Redes de Clientelismo e Pontos de Alavanca Informais
+  Aplicação: teoria de redes para mapear "bancada do QI" — demonstrar
+  que o verdadeiro veto player é uma rede informal de tecnoburocratas
+
+
+================================================================================
+NOVAS SKILLS (47-51)
+================================================================================
+
+SKILL 47: neurociencia-comportamental-cronobiologia
+  Dim 32 × Lente 12 — sono como arma política
+
+SKILL 48: economia-tributaria-modelagem-dados-fiscais
+  Dim 33 × Lente 7 — regressividade como transferência de renda
+
+SKILL 49: toxicologia-sistemica-epidemiologia-ambiental
+  Dim 34 × Lente 11 — loops de doença por contaminação molecular
+
+SKILL 50: sociologia-educacao-analise-curricular-critica
+  Dim 35 × Lente 19 — habitus de submissão na escola
+
+SKILL 51: analise-redes-sociais-sna-ciencia-politica-informal
+  Dim 36 × Lente 9 — mapear "bancada do QI" e Estado paralelo
+
+
+================================================================================
+FIM — TEIA Framework v9.0 (GRANULARIDADE MÁXIMA)
+================================================================================
+Protocolo: TEIA-2026-054
+https://github.com/mouracleiton/TEIA
+
+A TEIA atingiu a granularidade máxima.
+36 dimensões. 576 perspectivas. 7 níveis de profundidade. 51 skills.
+
+O framework mapeia desde o MACRO (juros da dívida de R$ 950 bi) até
+o MICRO (química cerebral de trabalhador privado de sono). Não há
+camada da existência — individual, social, psíquica, biológica,
+material, simbólica ou relacional — que escape à matriz 36×16.
+
+Diante da pergunta "Por que a reforma tributária não avança?", a
+matriz responde: não é apenas falta de votos (Institucional), é
+porque a elite usa lucro isento (Econômica) para financiar think
+tanks (Epistêmica) que convencem que impostos são ruins (Cultural),
+enquanto medica a juventude com estimulantes para competir
+(Molecular/Pedagógica) e exaure o trabalhador sem sono (Onírica/
+Laboral) para impedi-lo de protestar.
+
+É um instrumento DEFINITIVO de dissecação de poder.
+
+================================================================================

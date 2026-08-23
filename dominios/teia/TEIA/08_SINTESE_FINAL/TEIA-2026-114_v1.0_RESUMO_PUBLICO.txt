@@ -1,0 +1,116 @@
+================================================================================
+              TEIA — RESUMO EXECUTIVO PÚBLICO
+              O BRASIL QUE É POSSÍVEL
+              PROTOCOLO: TEIA-2026-114
+              CATEGORIA: 08_SINTESE_FINAL
+              FORMATO: DOCUMENTO PÚBLICO (1 página)
+              DATA: JULHO/2026
+              AUTOR: CLEITON MOURA (@PROFESSORCINZA)
+================================================================================
+
+O DIAGNÓSTICO EM 7 NÚMEROS
+
+1. R$ 998 BILHÕES/ANO em juros da dívida pública (8,45% do PIB)
+   → mais que saúde + educação combinadas
+
+2. 42.590 HOMICÍDIOS/ANO (77% das vítimas negras)
+   → elucidação: apenas 10%
+
+3. 6,48 MILHÕES passando fome (54,7M em insegurança alimentar)
+   → Brasil produz comida para 1 bilhão de pessoas
+
+4. 1,5 MILHÃO na fila de cirurgia do SUS
+   → Brasil gasta 4% do PIB em saúde (OCDE: 9%)
+
+5. 32 MILHÕES sem água tratada, 105 milhões sem esgoto
+   → investimento necessário: R$ 551 bi até 2033
+
+6. 78,9% das vítimas de letalidade policial são negras
+   → 60.394 mortes por policial em 10 anos (2014-2024)
+
+7. 905.316 PESSOAS presas (3ª maior população carcerária do mundo)
+   → 40% sem condenação
+
+================================================================================
+
+A ALAVANCA: O DINHEIRO EXISTE
+
+O Brasil paga R$ 998 bilhões/ano em juros da dívida — a maior taxa real
+de juros do mundo (SELIC 15% vs Chile 4,5%, México 7,25%).
+
+Reduzir a SELIC de 15% para 10% libera R$ 340 BILHÕES/ANO.
+
+O QUE ESSE DINHEIRO RESOLVE:
+
+  R$  15 bi → 24 mil vidas salvas/ano (homicídios + polícia)
+  R$  60 bi → 1,5 milhão de cirurgias/ano (SUS)
+  R$  80 bi → Fim da fome (6,48 milhões alimentadas)
+  R$  50 bi → Água e esgoto para 137 milhões de pessoas
+  R$   3 bi → Combate à desinformação (68% expostos a fake news)
+  R$  50 bi → Educação (PISA +50 pontos em 10 anos)
+  R$  40 bi → Habitação (zerar déficit em 10 anos)
+  ─────────
+  R$ 298 bi/ano → CUSTO TOTAL PARA RESOLVER 8 PROBLEMAS ESTRUTURAIS
+  R$ 340 bi/ano → DISPONÍVEL AO REDUZIR JUROS
+
+  SOBRA: R$ 42 bilhões/ano.
+
+================================================================================
+
+AS 8 PETIÇÕES (PRONTAS PARA PROTOCOLO)
+
+1. STF — ADPF art. 192 CF: SELIC a 15% viola "desenvolvimento equilibrado"
+2. STF — ADPF art. 196 CF: subfinanciamento do SUS = omissão inconstitucional
+3. STF — ADPF art. 6º CF: 6,48M com fome = violação de direito social
+4. STF — ADPF art. 6+196 CF: 32M sem água = omissão em saneamento
+5. CNJ — Meta nacional: julgamento de homicídios em 12 meses + Observatório
+6. CNJ — Lista Suja do Trabalho Escravo integrada aos sistemas judiciais
+7. TSE/STF — Responsabilidade de plataformas por desinformação
+8. MF/CMN — Taxa sobre grandes bancos (R$ 30-50 bi/ano de receita)
+
+================================================================================
+
+OS 5 MÉTODOS (TUDO DENTRO DA LEI)
+
+M1 EXECUTIVO (R$ 0, sem Congresso):
+   Portarias, resoluções, decretos. TIGIF, Mais Médicos, GAH, IOF.
+
+M2 JUDICIÁRIO (duradouro):
+   ADPFs no STF, petições no CNJ/TSE. 8 petições prontas.
+
+M3 LEGISLATIVO (estrutural):
+   ECs, leis. Piso SUS, responsabilidade solidária, antimilícia.
+
+M4 TECNOLOGIA CÍVICA (permanente):
+   Dashboard cidadão, app de cobrança, dados abertos.
+
+M5 NARRATIVA (pressão):
+   Carrosséis Instagram (162 slides), TikToks, documentários.
+
+TODOS RODAM SIMULTANEAMENTE. M5 cria pressão para M1/M2 agirem.
+M4 dá ferramenta de cobrança permanente. M1 liberta dinheiro. M2 torna duradouro.
+
+================================================================================
+
+DOCUMENTOS COMPLETOS
+
+Todos os 9 dossiês executivos + taxonomia + índice mestre disponíveis em:
+github.com/mouracleiton/TEIA
+
+TEIA-105: Trabalho Escravo
+TEIA-106: Taxonomia 44 Problemas × 7 Classes
+TEIA-107: Juros e Dívida Pública
+TEIA-108: Homicídios em Massa
+TEIA-109: SUS Subfinanciado
+TEIA-110: Fome e Desigualdade
+TEIA-111: Desinformação Online
+TEIA-112: Saneamento Básico
+TEIA-113: Índice Mestre (Plano de Ação Nacional)
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-114
+VERSÃO: v1.0
+CATEGORIA: 08_SINTESE_FINAL
+TÍTULO: Resumo Executivo Público — O Brasil Que É Possível
+STATUS: PROTOCOLO_ATIVO
+================================================================================

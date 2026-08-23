@@ -1,0 +1,811 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-035
+VERSÃO: v1.0
+CATEGORIA: 11_INSTITUCIONAL
+TÍTULO: Sistema Eleitoral e Captura de Poder no Brasil
+STATUS: INTERNO — Análise técnica
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: 39,901 bytes (39.0 KB)
+HASH MD5: f0cea88baae5c27d3cc10ef515276fab
+================================================================================
+
+================================================================================
+SOPBRA / TEIA — CENTRO DE ESTUDOS EM HACKER CULTURA PERIFÉRICA
+MÓDULO INSTITUCIONAL: SISTEMA ELEITORAL E CAPTURA DE PODER NO BRASIL
+Diagnóstico técnico — versão 1.0 — julho/2026
+Autor: Cleiton Moura (analista geopolítico/econômico)
+================================================================================
+
+ÍNDICE
+1. SISTEMA ELEITORAL: arquitetura técnica do voto brasileiro
+2. PARTIDOS E REPRESENTATIVIDADE: quem chega ao Congresso
+3. CAPTURA INSTITUCIONAL: como o sistema se autopreserva
+4. PROPOSTAS DE REFORMA: o que efetivamente mudaria o jogo
+5. FONTES E NOTAS METODOLÓGICAS
+
+================================================================================
+1. SISTEMA ELEITORAL — ARQUITETURA TÉCNICA DO VOTO BRASILEIRO
+================================================================================
+
+1.1 — OS TRÊS MODELOS EM DISPUTA CONCEITUAL
+------------------------------------------------------------------------
+O Brasil opera hoje com um SISTEMA MISTO DE FATO, mas não por desenho:
+combina, sem coerência, três lógicas diferentes para cargos diferentes:
+
+(a) MAJORITÁRIO (1 turno ou 2 turnos):
+    - Presidente da República: 2 turnos se nenhum candidato atinge 50%+1.
+    - Governadores: 2 turnos (exceto em casos de maioria absoluta no 1º).
+    - Senadores: 1 turno, maioria simples — o mais votado leva.
+    - Prefeitos: 2 turnos apenas em municípios com +200 mil eleitores.
+    Característica: o vencedor leva tudo; desperdício de votos altos;
+    favorece personalização e polos binários (esquerda x direita).
+
+(b) PROPORCIONAL DE LISTA ABERTA:
+    - Deputados Federais (513 cadeiras).
+    - Deputados Estaduais e Distritais.
+    - Vereadores.
+    Característica: o eleitor vota em candidato OU em legenda (voto de
+    legenda); cadeiras distribuídas pelo Quociente Eleitoral; lista é
+    aberta (o eleitor define a ordem de eleição dentro do partido).
+
+(c) DISTRICTAL PURO (distritão) — PROPOSTA REJEITADA EM 2015 E 2021:
+    - Brasil dividido em 513 distritos (ou unidades eleitorais menores);
+    - o mais votado em cada distrito leva a cadeira;
+    - equivalente a 513 eleições majoritárias locais;
+    - simplifica o voto, mas destrói representação proporcional e
+      pulveriza minorias.
+
+A tensão central do debate eleitoral brasileiro desde 1993 é entre
+manter o proporcional de lista aberta (status quo), migrar para o
+distritão (modelo anglo-americano) ou adotar o DISTRICTAL MISTO
+(modelo alemão/escocês — Mixed-Member Proportional, MMP).
+
+1.2 — COMO FUNCIONA A ELEIÇÃO PARA DEPUTADO FEDERAL (O CORAÇÃO DO SISTEMA)
+------------------------------------------------------------------------
+A Câmara dos Deputados tem 513 cadeiras distribuídas entre os 27
+unidades da federação (26 estados + DF) pelo PRINCÍPIO DA
+PROPORCIONALIDADE POPULACIONAL, com piso mínimo de 8 e teto máximo
+de 70 deputados por estado. São Paulo: 70; Minas Gerais: 53; Roraima,
+Amapá, Acre, Tocantins: 8 (piso mínimo).
+
+CÁLCULO PASSO A PASSO (Lei 9.504/97 + Emenda Constitucional 96/2019
+após a decisão do STF que proibiu coligações proporcionais):
+
+PASSO 1 — QUOCIENTE ELEITORAL (QE):
+    QE = votos válidos do estado ÷ número de cadeiras do estado
+    Exemplo: estado com 10.000.000 votos válidos e 20 cadeiras
+    → QE = 500.000 votos por cadeira.
+
+PASSO 2 — QUOCIENTE PARTIDÁRIO (QP):
+    QP = votos do partido (ou federação) ÷ QE
+    Partido A com 2.100.000 votos → QP = 4 cadeiras (resto 100.000).
+    Partido B com 480.000 votos → QP = 0 cadeiras diretas.
+
+PASSO 3 — DISTRIBUIÇÃO DE SOBRAS (média de Hare/Hagenbach-Bischoff):
+    Vagas não preenchidas na fase anterior são distribuídas entre
+    partidos com "resto" significativo, pela maior média — dividindo
+    votos do partido pelo número de cadeiras já obtidas + 1.
+    NOVIDADE 2026 (após decisão STF de 2024): TODOS os partidos
+    participam dessa fase, mesmo os que não atingiram a cláusula de
+    barreira — revertendo parte do efeito da cláusula.
+
+PASSO 4 — DENTRO DO PARTIDO, OS MAIS VOTADOS OCUPAM AS CADEIRAS:
+    Ordem definida por votação nominal individual (lista aberta).
+    O voto de legenda é somado ao total do partido mas não elege
+    ninguém específico.
+
+PROBLEMAS CRÔNICOS DESTE MODELO:
+- "Puxadinho" / voto de rastro: candidato com muitos votos puxa
+  candidatos do mesmo partido com poucos votos (1.000-5.000 votos).
+- Distorsão: candidato pode ter 500.000 votos e outro do mesmo partido
+  se eleger com 5.000 votos. É o famoso caso de Tiririca (PR-SP) em
+  2010 com 1.348.295 votos que puxou vários correligionários.
+- Fragmentação: cada partido pode eleger deputado com fração do QE.
+- Campanha centrada na PESSOA, não no programa partidário.
+
+1.3 — DISTRICTAL MISTO (MMP) — O MODELO ALEMÃO/ESCOCÊS
+------------------------------------------------------------------------
+Modelo defendido por juristas como Luís Roberto Barroso (STF), que
+chegou a dizer em 2017 que o MMP seria "a redenção da política no
+Brasil". Adotado na Alemanha (desde 1949), Escócia, Nova Zelândia,
+País de Gales e em reformas recentes no Chile.
+
+COMO FUNCIONA O MMP:
+- Eleitor tem 2 votos: (1) no CANDIDATO do seu distrito; (2) no PARTIDO.
+- Metade das cadeiras vai para vencedores de distritos uninominais.
+- Outra metade é preenchida por LISTA FECHADA partidária para corrigir
+  a proporcionalidade final (o resultado final reflete o voto no partido).
+- Garante representação local (deputado com distrito) + coerência
+  partidária (lista fechada reduz personalismo).
+
+ESTUDO CLP (Centro de Liderança Pública): se a eleição de 2018 fosse
+sob MMP, teria custado 10% menos e gerado Câmara mais coesa.
+
+OBSTÁCULOS À ADOÇÃO NO BRASIL:
+- exige emenda constitucional (3/5 = 308 deputados + 49 senadores);
+- pressão de bancadas pequenas e personalistas (maioria do Centrão);
+- dificuldade de desenho dos distritos (gerrymandering);
+- não há consenso sobre lista fechada (cultura do voto pessoal).
+
+1.4 — CLÁUSULA DE BARREIRA / CLÁUSULA DE DESEMPENHO
+------------------------------------------------------------------------
+Instituída pela Emenda Constitucional 97/2017 (governo Temer), com
+escalonamento progressivo:
+- 2018: 1,5% dos votos válidos para Câmara (mínimo 9 estados com 1%).
+- 2022: 2% (mínimo 9 estados com 1%).
+- 2026: 2,5% (mínimo 9 estados com 1,5%).
+- 2030 em diante: 3% (mínimo 9 estados com 2%).
+
+Partidos que não atingem PERDEM: acesso a tempo de TV/rádio, recursos
+do Fundo Partidário, funcionamento administrativo, direito a liderança
+na Câmara. Não perdem registro nem direito de concorrer.
+
+RESULTADO PRÁTICO 2022: 14 partidos não atingiram 1,5-2%; alguns
+buscaram federações para escapar. Rede Sustentabilidade, Patriota,
+Pros, DC, PMN, PMB foram os mais atingidos. Cerca de 5 partidos
+negociaram fusões (Congreso em Foco, 2023).
+
+PROBLEMA — DECISÃO STF (RE 1398529, 2024): definiu que TODOS os
+partidos participam da distribuição de sobras, mesmo os abaixo da
+cláusula — o que DILUI o efeito coercitivo da barreira e mantém a
+fragmentação. Em 2026 espera-se que cerca de 9 partidos ainda
+estejam em risco de extinção (Correio do Estado, 2024).
+
+EFICÁCIA: PARCIAL. Reduziu propaganda de nanicos, mas não consolidou
+o sistema partidário como esperado. Persistem 27-29 legendas com
+representação no Congresso.
+
+1.5 — FEDERAÇÕES PARTIDÁRIAS (CRIADAS EM 2022 — LEI 14.208/2021)
+------------------------------------------------------------------------
+Mecanismo pelo qual dois ou mais partidos se unem para atuar como
+uma única agremiação em PRAZO MÍNIMO DE 4 ANOS (uma legislatura),
+com programa comum e divisão de cargos. Diferente da coligação
+(que era apenas para uma eleição), a federação obriga os partidos
+a atuar juntos em todas as eleições daquele ciclo.
+
+EM 2022, APENAS 3 FEDERAÇÕES FORAM REGISTRADAS:
+1. BRASIL DA ESPERANÇA (FE Brasil): PT + PCdoB + PV
+   - Presidenta: Gleisi Hoffmann (PT); Vice: Luciana Santos (PCdoB).
+   - Elegeu Lula presidente; manteve bancada expressiva (~80 deputados).
+2. SEMPRE PRÊ-FRONT: PSDB + Cidadania (ex-PPS)
+   - Fracasso político: PSDB perdeu relevância elegeu poucos deputados.
+3. PSOL + REDE Sustentabilidade
+   - Elegia 12 deputados; consolidou bancada de esquerda.
+
+RESULTADO 2022-2024:
+- Federação PT/PCdoB/PV: SUCESSO — manteve Lula competitivo e
+  garantiu coordenação em segundo turno. A federação foi DISSOLVIDA
+  formalmente em 2025 após PCdoB anunciar saída para disputar 2026
+  como legenda independente (apoiando Lula externamente).
+- PSDB/Cidadania: FRACASSO — PSDB foi engolido pela guinada à direita
+  de Tarcísio (SP) e Marçal (RJ); perdeu bancada.
+- PSOL/REDE: PARCIAL — PSOL cresceu na esquerda, Rede entrou em crise
+  com saída de Marina Silva e fusão讨论.
+
+AVALIAÇÃO: instrumento útil mas CIRCUNSTANCIAL — funciona quando há
+convergência ideológica real; não substitui reforma estrutural.
+
+1.6 — VOTO EM LISTA FECHADA vs ABERTA
+------------------------------------------------------------------------
+- BRASIL usa LISTA ABERTA desde 1945 (com interrupções): o eleitor
+  vota no candidato; a ordem de eleição é definida pela votação nominal.
+- LISTA FECHADA (Portugal, Espanha, Israel, África do Sul): o eleitor
+  vota no partido; a ordem dos candidatos é pré-definida pela cúpula.
+- LISTA FLEXÍVEL (Finlândia, Brasil em 1933-1945): eleitor vota em
+  candidato OU partido; votos de legenda podem alterar ordem.
+
+VANTAGENS DA LISTA FECHADA:
+- fortalece programa partidário;
+- facilita cotas de gênero (mulheres no topo da lista);
+- reduz custo de campanha;
+- reduz personalismo e "compra" de votos.
+
+DESVANTAGENS:
+- concentrar poder em cúpulas partidárias;
+- reduzir vínculo eleitor-deputado;
+- em países com partidos fracos institucionalmente como Brasil, gera
+  risco de cooptação por caciques.
+
+A COMBINAR COM DISTRICTAL MISTO: no MMP alemão, a metade proporcional
+é em lista fechada — modelo adequado ao Brasil segundo Barroso.
+
+1.7 — FINANCIAMENTO: FUNDO ELEITORAL (FEFC)
+------------------------------------------------------------------------
+O FUNDO ESPECIAL DE FINANCIAMENTO DE CAMPAHNHA (FEFC) foi criado pela
+Lei 13.487/2017 em substituição ao financiamento empresarial de
+candidatos (proibido pela Lei 13.165/2015 após Operação Lava Jato).
+
+ORIGEM DOS RECURSOS: dotação do Orçamento da União (recursos públicos).
+
+VALORES HISTÓRICOS:
+- 2018: R$ 1,788 bilhão.
+- 2020: R$ 2,040 bilhões (municipais).
+- 2022: R$ 4,9 bilhões (gerais).
+- 2024: R$ 4,9 bilhões (municipais) — aprovado em LDO 2024.
+- 2026: R$ 4,96 bilhões (aprovado pela CMO em 2025 — mesmo patamar).
+
+DISTRIBUIÇÃO: 5 critérios (Lei 9.504/97 art. 16-C):
+1. 35% — distribuído igualitariamente entre todos os partidos com
+   registro (atualmente 29 legendas ativas no TSE para 2024).
+2. 48% — proporcional à representação na Câmara dos Deputados.
+3. 5% — proporcional à representação no Senado.
+4. 10% — distribuído proporcionalmente aos votos obtidos na última
+   eleição geral para a Câmara.
+5. 2% — distribuído proporcionalmente aos votos obtidos na última
+   eleição para o Senado.
+
+PRINCIPAIS BENEFICIÁRIOS (2024):
+- PL (Partido Liberal): ~R$ 385 milhões (maior bancada + votos).
+- PT (Partido dos Trabalhadores): ~R$ 370 milhões.
+- União Brasil: ~R$ 330 milhões.
+- PP (Progressistas): ~R$ 220 milhões.
+- MDB: ~R$ 220 milhões.
+- PSD: ~R$ 215 milhões.
+Partidos nanicos recebem o piso de R$ 8-12 milhões.
+
+DADOS 2026: o PT aprovou em julho/2026 destinar R$ 127 milhões do
+Fundo Eleitoral diretamente à campanha de reeleição de Lula (G1,
+03/07/2026). A resolução do diretório define congressistas que
+buscam reeleição como "prioridades natas" — confirma a lógica de
+incumbência protegida.
+
+CRÍTICAS:
+- Fundo é financiado pelo contribuinte sem consulta;
+- Concentra recursos nos dois polos (PT/PL) e no Centrão;
+- Em 2026, R$ 4,96 bi = R$ 23,50 por eleitor (146 milhões aptos);
+- Comparado a SUS/Fundeb subfinanciados, é politicamente explosivo.
+
+1.8 — HORÁRIO GRATUITO DE RÁDIO E TV (HGRT)
+------------------------------------------------------------------------
+Previsto na Lei 9.504/97. Transmissão obrigatória em emissoras de
+TV aberta e rádio, inclusive comunitárias.
+
+PERÍODO 2024: 30 de agosto a 3 de outubro (35 dias antes da antevéspera
+do 1º turno). 2 inserções diárias de 30 minutos (uma no rádio, outra
+na TV, em horário nobre).
+
+DISTRIBUIÇÃO: calculada pelo critério de "banco de horas" — peso
+da bancada na Câmara + performance eleitoral anterior. Partidos sem
+representação recebem tempo mínimo (cerca de 10 segundos por dia).
+
+EFICÁCIA PARA GRANDES PARTIDOS:
+- PT e PL: cada um com cerca de 7-10 minutos diários em 2024;
+- Centrão (PP/MDB/União/PSD): 4-6 minutos cada;
+- Nanicos (PMB, DC, Pros, Patriota): segundos.
+
+QUEM BENEFICIA:
+1. Partidos com bancada federal grande (efeito incumbência).
+2. Candidatos majoritários (governador/prefeito) já conhecidos.
+3. Tira competitividade de outsiders sem tempo de TV.
+4. Em cidades pequenas, TV é o principal veículo — HGRT é decisivo.
+
+CUSTO: o "subsídio" ao HGRT é estimado em R$ 2-3 bilhões/ano em
+espaço gratuito (não-contabilizado no Fundo Eleitoral).
+
+================================================================================
+2. PARTIDOS E REPRESENTATIVIDADE — QUEM CHEGA AO CONGRESSO
+================================================================================
+
+2.1 — 27 PARTIDOS REGISTRADOS NO TSE — FRAGMENTAÇÃO EXTREMA
+------------------------------------------------------------------------
+O TSE tinha, em meados de 2024, 29 legendas com registro ativo (algumas
+em processo de dissolução pela cláusula de barreira). O número caiu
+para ~27 com registro válidos em 2025, mas o Congresso ainda comporta
+bancadas de 22-25 partidos simultaneamente.
+
+TENDÊNCIA:
+- 2018: 30 partidos elegeram deputados federais.
+- 2022: 22 partidos elegeram deputados federais.
+- 2026: projeção de 18-20 partidos após cláusula de barreira (2,5%).
+
+PARTEIS MAIORES EM BANCADA (2023-2026):
+1. PL: 99 deputados (direita, bolsonarismo).
+2. PT: 68 deputados (centro-esquerda, lulismo).
+3. União Brasil: 59 deputados (centro-direita).
+4. PP (Progressistas): 47 deputados (Centrão, Lira).
+5. PSD: 42 deputados (Centrão, Gilberto Kassab).
+6. MDB: 43 deputados (Centrão).
+7. Republicanos: 47 deputados (Centrão, Igreja Universal).
+8. Podemos: 11 deputados.
+9. PDT: 11 deputados.
+10. PSOL: 13 deputados.
+
+FRAGMENTAÇÃO: são necessários pelo menos 6-8 partidos para formar
+maioria (256). Nenhuma legislação importante passa sem Centrão.
+
+2.2 — BANCADA FEMININA: 18% DA CÂMARA (91/513) vs 52% DA POPULAÇÃO
+------------------------------------------------------------------------
+- 2022: eleitas 91 deputadas federais (17,7% da Câmara) — maior número
+  histórico. Crescimento de 18% em relação às 77 de 2018.
+- 2022 Senado: 16 senadoras (19,8%) — retrocesso em relação a 2018.
+- Brasil: PIOR ÍNDICE DE REPRESENTAÇÃO FEMININA NA AMÉRICA LATINA.
+- Ranking Interparlamentar (IPU 2024): Brasil em 143º lugar entre 185
+  países (caiu de 140º em 2022).
+
+DESIGUALDADE ELEITORAL:
+- Mulheres são 52,5% do eleitorado (IBGE 2022).
+- Mulheres são 47% das candidaturas a deputada federal (2022).
+- Mas só 17,7% eleitas — taxa de sucesso ~3x menor que a masculina.
+
+CAUSAS:
+- Sistema proporcional de lista aberta favorece quem tem mais recursos
+  e capital político prévio (mais masculino).
+- Cota de gênero (30%) é circumventada por candidaturas "laranja".
+- Financiamento: mulheres recebem em média 30% do que homens
+  recebem do Fundo Eleitoral (estudo TSE/Pnud, 2022).
+- Violência política de gênero: 41% das candidatas reportaram ataques
+  em 2022 (TSE — Observatório da Violência Política).
+
+DESEMPENHO LEGISLATIVO: em 2023, deputadas foram relatoras de 41% das
+propostas aprovadas no plenário da Câmara (18% da Casa, mas 41% das
+relatorias de aprovação — indicador de competência e sobrecarga).
+
+2.3 — BANCADA NEGRA: ~26% DA CÂMARA vs 56% DA POPULAÇÃO
+------------------------------------------------------------------------
+Dados consolidados (Câmara dos Deputados + IPRI):
+- 2023-2026: 124-135 deputados se declaram pretos (31) ou pardos (91-104).
+- Percentual: 24-26% da Câmara (oscila conforme autodeclaração e
+  filiação partidária).
+- Senado: 13 senadores negros (16%).
+- População negra (IBGE 2022): 56,1% (pretos + pardos).
+- Candidaturas negras: 47% do total em 2022 (vs 42% em 2018 — crescimento
+  de 36,25% em quatro anos).
+- TAXA DE SUCESSO: 26% eleitos vs 47% candidatos — gap de 21 pontos.
+
+BANCADA NEGRA DA CÂMARA: criada oficialmente em novembro/2023 por
+proposição de Antonio Brito (PSD-BA), com 122 integrantes (~25% da
+Casa). Surgiu como força para combater a "PEC da Anistia" às fraudes
+de cota de gênero e exigir punição a partidos que descumpriram cota.
+
+2.4 — TEMPO DE MANDATO MÉDIO (REELEIÇÃO)
+------------------------------------------------------------------------
+- 2018: recorde histórico — 47,37% de renovação (243 estreantes).
+- 2022: CAIU para a menor renovação desde 1998: apenas 37% de novatos.
+  60% dos que tentaram reeleição conseguiram (cerca de 300 dos 446).
+- 2022: 86,9% dos deputados (446 de 513) tentaram reeleição — recorde
+  histórico, superando 1998 (443) e 2006.
+- 2024 vereadores: taxa de reeleição típica ~40-45%.
+
+CÂMARA BRASILEIRA É DE "INCUMBENTES PROTEGIDOS":
+- 7 de cada 10 deputados federais tentam reeleição.
+- 6 em 10 conseguem (60% sucesso).
+- Mandato médio dos congressistas: 2,5 legislaturas (~12 anos).
+
+CAUSAS DA ALTA REELEIÇÃO:
+- Acesso a emendas parlamentares (R$ 40,8 bilhões em 2026).
+- Visibilidade no HGRT proporcional à bancada.
+- Máquina de cassação (gabinetes, assessores, ~70 funcionários).
+- Fisiologismo regional: deputado "traz recursos" ao estado.
+
+2.5 — "ATIRADORES" — PARLAMENTARES SEM BASE ELEITORAL SIGNIFICATIVA
+------------------------------------------------------------------------
+Termo técnico-eleitoral para deputados eleitos com votação baixíssima
+(menos de 50.000 votos para federal, menos de 30.000 para estadual),
+frequentemente "puxados" por candidato de alto desempenho do mesmo
+partido (efeito "coattail" / "puxadinho").
+
+CASOS PARADIGMÁTICOS:
+- Tiririca (PR-SP): 1.348.295 votos em 2010 — elegeu vários
+  correligionários do PR com menos de 20.000 votos.
+- Em 2022: deputados federais eleitos com menos de 30.000 votos
+  (estados pequenos principalmente — Roraima, Acre, Amapá).
+- Em estados maiores: "atirador" é quem se elege com menos de 1/3
+  do quociente eleitoral.
+
+CARACTERÍSTICAS DOS "ATIRADORES":
+- Sem base territorial consistente;
+- Dependem de cacique partidário e de coligações (extintas em 2022
+  para federal, mas o efeito "puxadinho" dentro do partido persiste);
+- Costumam votar com a liderança partidária (preservar mandato futuro);
+- Composição de bancadas evangélicas, da bala (CAC's), da bola
+  (esportistas), etc.
+
+NÃO CONFUNDIR com "atiradores esportivos" (caçadores, colecionadores
+e atiradores — CAC's) que formam a "Bancada da Bala" (~40 deputados).
+
+2.6 — FIDELIDADE PARTIDÁRIA (OU FALTA DELA)
+------------------------------------------------------------------------
+Regra: Resolução TSE 22.610/2007 + Súmula TSE. Parlamentar que troca
+de partido sem "justa causa" PERDE O MANDATO.
+
+JUSTA CAUSA (Lei 9.096/95, art. 16):
+1. Mudança ou desvio reiterado do programa partidário;
+2. Grave discriminação pessoal;
+3. "Janela partidária" — período legal para troca (6 meses antes
+   da eleição, março-abril do ano eleitoral).
+
+NA PRÁTICA — INFIDELIDADE É REGRA, NÃO EXCEÇÃO:
+- 2022-2026 (até abril/2026): quase 1 em cada 4 deputados federais
+  (~25%, ou ~125 parlamentares) já trocou de partido pelo menos uma vez
+  desde a eleição (Inteligov, 2026).
+- 2020-2022: 27 deputados trocaram de partido um ano antes da eleição,
+  às vésperas da "janela partidária" (Estadão/Veja, 2021).
+- A pena é raramente aplicada: processo longo, depende de iniciativa
+  do partido de origem, e juízes eleitorais interpretam "justa causa"
+  de forma ampla.
+
+EFEITO PRÁTICO: partidos são "carcasses" jurídicas, não organismos
+com programa coerente. Bancadas mudam de composição entre eleições.
+
+================================================================================
+3. CAPTURA INSTITUCIONAL — COMO O SISTEMA SE AUTOPRESERVA
+================================================================================
+
+3.1 — PEC DA BLINDAGEM (SETEMBRO/2025) — 353x134
+------------------------------------------------------------------------
+Formalmente: PEC 3/2021 (originada da PEC 134/2019), apelidada "PEC
+da Blindagem" por ampliar proteção a parlamentares.
+
+VOTAÇÃO 1º TURNO: 16/09/2025 — 353 votos favor, 134 contra, 1
+abstenção (acima dos 308 necessários = 3/5). 2º turno aprovado em
+17/09/2025 em votação relâmpago sob protestos.
+
+PRINCIPAIS DISPOSITIVOS APROVADOS:
+1. VOTO SECRETO para autorizar abertura de processo criminal contra
+   parlamentar (quebra do voto aberto histórico).
+2. AMPLIAÇÃO DO FORO PRIVILEGIADO a presidentes nacionais de partidos,
+   mesmo sem cargo eletivo.
+3. EXIGÊNCIA de autorização da Casa para prisões em flagrante de
+   parlamentares por crimes não inafiançáveis.
+4. IMUNIDADE AMPLIADA a opiniões e votos em CPI's.
+5. Retomada do voto secreto em sessões de cassação (revogação da
+   emenda constitucional anterior de 2009 que o extinguiu).
+
+QUEM APROVOU:
+- Centrão (PP, MDB, União, PSD, Republicanos, Podemos, Avante): votou
+  massivamente a favor.
+- PL: apoio quase unânime (~95% a favor).
+- PT: apoio majoritário (mais de 60% dos petistas).
+- PSOL, PSOL/REDE, PDT, PSDB e parcela do Novo: contrários.
+
+IMPACTO:
+- Torna impossível processo criminal de parlamentar sem apoio
+  majoritário da própria Casa (3/5);
+- Desestimula investigações da Polícia Federal contra congressistas;
+- Amplia poder de barganha das lideranças partidárias sobre membros.
+
+3.2 — ORÇAMENTO SECRETO 2.0: EMENDAS DE LIDERANÇA SEM IDENTIFICAÇÃO
+------------------------------------------------------------------------
+HISTÓRICO:
+- ORÇAMENTO SECRETO ORIGINAL (2020-2022): emendas parlamentares
+  executadas sem identificação do autor, sob relatório de Relator
+  Geral (Relator Remido). Governo Bolsonaro usou para cooptar base
+  (~R$ 30 bilhões/ano). STF declarou inconstitucional em 2022 (MS
+  34.721), mas mecanismos similares persistem.
+
+ORÇAMENTO SECRETO 2.0 (2024-2026):
+- "EMENDAS DE LIDERANÇA" — assinadas por líderes partidários "em nome
+  da bancada", sem identificar o parlamentar que de fato as solicitou.
+- Transparência Brasil (estudo 2025): analisou 1.341 emendas de
+  liderança; R$ 1,3 bilhão (16% do total de emendas de liderança) tem
+  AUTOR OCULTO — equivalente lógico ao orçamento secreto original.
+- Orçamento 2025: R$ 11,5 bilhões para emendas de comissão (paralelas).
+- Orçamento 2026: R$ 40,8 bilhões em emendas parlamentares totais.
+
+QUEM BENEFICIA:
+- Mesa Diretora (Arthur Lira — PP-AL distribui via "emendas de comissão");
+- Líderes partidários do Centrão (negociam cargos e apoio);
+- Parlamentares sob investigação (menos rastreabilidade = menos prova).
+
+3.3 — CONTROLE DE COMISSÕES PELA MESA DIRETORA
+------------------------------------------------------------------------
+A Mesa Diretora da Câmara (presidente Arthur Lira, PP-AL; 2 vices;
+4 secretários) controla:
+1. PAUTA da Câmara (o que vota e quando).
+2. COMPOSIÇÃO DAS COMISSÕES PERMANENTES (24 no total) — por
+   representação proporcional, mas com poder de veto sobre presidências.
+3. RELATORIAS DOS PROJETOS mais sensíveis (orçamento, reforma
+   administrativa, etc.).
+4. SUSPENSÃO CAUTELAR de mandatos (novo poder regimental de 2024).
+
+ALTERAÇÕES REGIMENTAIS 2024 (5 mudanças aprovadas sob Lira):
+- Aumento do poder de suspender mandatos por "quebra de decoro";
+- Concentração de decisão sobre pauta no presidente;
+- Redução de prazos para emendas a projetos prioritários;
+- Criação de "urgência urgentíssima" para votação em 1 sessão;
+- Restrição a requerimentos de CPI (agora dependem de despacho
+  da Mesa, não apenas de assinaturas).
+
+EFEITO: Lira tornou-se o presidente da Câmara com maior poder
+pessoal desde Ulysses Guimarães. Controla o destino de qualquer
+projeto do Executivo.
+
+3.4 — CPI COMO INSTRUMENTO POLÍTICO
+------------------------------------------------------------------------
+As Comissões Parlamentares de Inquérito (CPIs) são previstas no art.
+58 da Constituição. Requerem assinatura de 1/3 da Casa (171 deputados
+ou 14 senadores). Prazo de 120 dias, prorrogável.
+
+CPIs COMO ARMA POLÍTICA — CASOS HISTÓRICOS:
+- CPI DA PETROBRÁS (2014-2015) — "Petrolão": instrumentalizada para
+  desgastar PT antes do impeachment de Dilma (2016).
+- CPI DA COVID (2021): investigou Bolsonaro; quase levou a impeachment;
+  terminou em denúncia ao STF por crimes contra a humanidade.
+- CPI DAS FAKE NEWS (2019-2022): investigou gabinete do ódio e
+  Bolsonaro; gerou 2.300 páginas; denúncia em 2022.
+- CPI DAS CAPITAIS (2023): investigou invasão de 8 de janeiro.
+- CPI DO MASCIMENTO (2023): proposta, não instalada — governo Lula
+  articulou para impedir.
+- CPI DO ORÇAMENTO SECRETO (2022): instalada sob pressão do STF;
+  relator de oposição, mas arquivada em 2023.
+
+SELETIVIDADE DA INSTALAÇÃO:
+- CPIs contra governo em fase de popularidade baixa: aprovadas.
+- CPIs contra base do governo: arquivadas na Mesa.
+- CPI contra Marco Feliciano (2024): negada por Lira sob pretexto formal.
+
+3.5 — STF COMO ARENA POLÍTICA (JUDICIALIZAÇÃO)
+------------------------------------------------------------------------
+O STF tornou-se, desde 1988, o principal árbitro político do país.
+Concentra competência para: ADI (ação direta de inconstitucionalidade),
+ADC (ação declaratória de constitucionalidade), ADPF (arguição de
+descumprimento de preceito fundamental), MI (mandado de injunção),
+RE com repercussão geral.
+
+JUDICIALIZAÇÃO DE POLÍTICAS:
+- STF definiu: financiamento empresarial de campanha (2015);
+  coligações proporcionais proibidas (2017); prisão após 2ª instância
+  (2019); votação digital de PEC da Anistia (2023); marcos de
+  pandemia (2020-2021); vacinas obrigatórias (2021); etc.
+
+MINISTRO ALEXANDRE DE MORAES (2017-) — figura central:
+- Relator da "Operação Fake News" (2020-);
+- Relator das investigações contra Bolsonaro (tentativa de golpe,
+  joias, abuso de poder, ataques ao STF);
+- Concentra em seu gabinete decisões monocráticas que afetam
+  dezenas de inquéritos;
+- Críticos: ativismo judicial, ausência de contraditório amplo,
+  instrumentalização política. Defensores: garantia do Estado de
+  Direito contra autoritarismo.
+
+JUDICIALIZAÇÃO COMO DESLOCAMENTO DE PODER:
+- STF julga matérias que seriam do Legislativo (cláusula de barreira,
+  direitos indígenas, Marco Temporal, reforma administrativa).
+- Políticos preferem levar a STF matérias polêmicas (evita custo
+  eleitoral de votação).
+- STF legitimado por maioria da opinião pública mas atacado por
+  bolsonaristas e centro-direita.
+
+3.6 — TSE: REGULAÇÃO DE FAKE NEWS EM ELEIÇÕES
+------------------------------------------------------------------------
+O TSE (Tribunal Superior Eleitoral) — instância máxima da Justiça
+Eleitoral — ampliou seu papel regulatório após as eleições de 2018.
+
+RESOLUÇÕES-CHAVE:
+- Resolução TSE 23.732/2024 — combate à desinformação nas Eleições
+  Municipais 2024: ampliou poderes do TSE para determinar remoção
+  de conteúdos das plataformas digitais (Google, Meta, TikTok, X).
+- Resolução TSE 23.731/2024 — proibição de DEEPFAKE e regulação de
+  IA generativa na propaganda eleitoral. Vetou: deepfakes; uso de IA
+  para simular adversário; bots sem identificação.
+
+PODERES AMPLIADOS:
+- TSE determina remoção de conteúdo "potencialmente danoso ao pleito";
+- Plataformas têm prazo de 2 horas para cumprir decisões liminares;
+- Multas: R$ 100 mil a R$ 500 mil por descumprimento, podendo chegar
+  a milhões em caso de reiteração.
+
+CRÍTICAS:
+- "Censura prévia" (liberdade de expressão);
+- Ausência de contraditório amplo nas decisões monocráticas;
+- Concentração em presidente do TSE (Cármen Lúcia, 2024-2026);
+- Eleições 2024: 13 decisões de remoção, 9 delas contra bolsonaristas;
+  3 contra petistas; 1 neutra — seletividade questionada.
+
+IMPACTO POSITIVO:
+- Reduz desinformação em momentos críticos (2º turno);
+- Inibe campanhas coordenadas de bots;
+- Padrão internacional reconhecido (UE, OSCE/ODIHR elogiaram).
+
+================================================================================
+4. PROPOSTAS DE REFORMA — O QUE EFETIVAMENTE MUDARIA O JOGO
+================================================================================
+
+4.1 — DISTRICTAL MISTO (MMP) — MODELO ALEMÃO/ESCOCÊS
+------------------------------------------------------------------------
+Diagnóstico: o sistema proporcional de lista aberta brasileiro, embora
+justo em teoria, gera fragmentação extrema, personalismo, baixa
+fidelidade partidária e dificuldade de coordenação majoritária.
+
+PROPOSTA TÉCNICA (Barroso, Bolsonaro 2021, Congresso em Foco):
+- 250 cadeiras por DISTRICTAL UNINOMINAL (estados divididos em
+  distritos; mais votado em cada um leva a cadeira);
+- 263 cadeiras por LISTA FECHADA partidária (correção proporcional);
+- eleitor tem 2 votos (candidato + partido);
+- fim do voto de legenda;
+- preserva proporção estado/população;
+- prazo de transição: 2 eleições (2026 + 2030).
+
+VANTAGENS:
+- Reduz custo de campanha (50% distrital = eleitor local);
+- Fortalece partidos (lista fechada = programa);
+- Viabiliza cotas de gênero efetivas (lista paritária);
+- Reduz atiradores e puxadinhos;
+- Maior accountability local (deputado responsável pelo distrito).
+
+VIABILIDADE POLÍTICA (2026):
+- APOIO: Novo, PSDB, parte do PL (Bolsonaro em 2021), setores técnicos;
+- OPOSIÇÃO: Centrão (Lira, Kassab), partidos nanicos, bancada evangélica;
+- EM 2015 e 2021, Câmara rejeitou distritão por 388x36 e por 339x123
+  respectivamente; mas aprovou coligações proporcionais (depois revogadas
+  pelo STF).
+- PROBABILIDADE DE APROVAÇÃO ATÉ 2030: ~30%.
+
+4.2 — FIM OU REFORMULAÇÃO DO FUNDO ELEITORAL
+------------------------------------------------------------------------
+Opções em debate:
+
+OPÇÃO A — EXTINÇÃO PURA (NOVO, PSL históricos):
+- Volta de doações privadas limitadas (até R$ 1.064 por eleitor —
+  teto mantido pela Lei 13.165/2015).
+- Pró: alivia Orçamento (R$ 4,9 bi → 0).
+- Contra: volta da influência empresarial; vantagem para candidatos
+  ricos; fragiliza democracia interna de partidos.
+
+OPÇÃO B — REDUÇÃO GRADUAL (PSDB/MDB):
+- Teto de R$ 1 bilhão/ano (20% do atual).
+- Distribuição 100% atrelada a performance eleitoral prévia.
+- Pró: mantém competição, reduz custo.
+- Contra: concentra recursos em PL/PT ainda mais.
+
+OPÇÃO C — REFORMULAÇÃO COM TRANSPARÊNCIA (PSOL, Transparência Brasil):
+- Manter valor, mas com:
+  - 50% dos recursos obrigatoriamente para candidaturas femininas
+    e negras (cota efetiva);
+  - Prestação de contas em tempo real (blockchain de doações);
+  - Proibição de transferência entre comitês;
+  - Auditoria externa anual.
+
+CONSENSO MÍNIMO: reformulação com transparência + cota efetiva de
+gênero e raça, sem extinção imediata.
+
+4.3 — VOTO DISTRICTAL PARA SENADOR
+------------------------------------------------------------------------
+O Senado brasileiro (81 cadeiras, 3 por estado) é eleito por
+MAJORITÁRIO de 1 turno — o problema é o "efeito колесo": o mesmo
+senador pode se reeleger por décadas (ex.: Renan Calheiros — 5 mandatos,
+Sarney — 4, Flexa Ribeiro — 4, Kátia Abreu — 4).
+
+PROPOSTAS:
+- LIMITE DE REELEIÇÃO (2 mandatos = 16 anos, conforme PEC 23/2022);
+- VOTO DISTRICTAL dentro do estado (cada senador representa uma
+  região, não todo o estado) — evita dominação da capital;
+- ROTAÇÃO OBRIGATÓRIA das 2 vagas eleitas a cada 8 anos entre
+  regiões do estado (Norte, Sul, Leste, Oeste, Capital).
+
+4.4 — REDUÇÃO DE PARTIDOS — CLÁUSULA MAIS FORTE
+------------------------------------------------------------------------
+Cláusula atual (EC 97/2017): progressiva até 3% em 2030.
+
+PROPOSTA DE ENDURECIMENTO:
+- TETO DE 5% para 2034 (modelo alemão: 5%);
+- FUSÃO OBRIGATÓRIA de partidos abaixo de 1% em federação ou extinção;
+- Proibição de partidos com menos de 5 anos de registro concorrerem
+  isoladamente (já existe para federação — Lei 9.096/95 art. 16-A);
+- REGISTRO NO TSE condicionado a filiação mínima de 0,5% do eleitorado
+  distribuído em 1/3 dos estados.
+
+RESULTADO ESPERADO: redução de 27 para 8-10 partidos efetivos até 2034,
+alinhando Brasil à média OCDE (10-12 partidos efetivos).
+
+DECISÃO STF 2024 (RE 1398529) que permitiu sobras a partidos abaixo
+da cláusula DEVE SER REVERTIDA — foi um golpe na lógica da barreira.
+
+4.5 — COTAS DE GÊNERO EFETIVAS (NÃO APENAS CANDIDATURAS LARANJA)
+------------------------------------------------------------------------
+PROBLEMA ATUAL:
+- Lei 12.034/2009 + Resolução TSE 23.609/2019: mínimo 30% de
+  candidaturas femininas em eleições proporcionais.
+- NA PRÁTICA: 30% são "laranja" — mulheres sem campanha, sem recursos,
+  sem estrutura, registradas apenas para cumprir cota.
+- 2022: 47% das candidatas a deputada federal foram mulheres; mas só
+  17,7% eleitas; 1/3 das candidatas femininas fez menos de 1.000 votos.
+
+RESOLUÇÃO TSE 2024 (combate ao "laranjal"):
+- Critérios objetivos para caracterizar fraude: candidata com menos
+  de 10% dos votos médios do partido; candidata sem gasto de campanha
+  superior a 20% do recebido; candidata sem estrutura mínima.
+- Sanções: cassação de registros do partido; devolução de Fundo
+  Eleitoral; inelegibilidade por 8 anos.
+
+PROPOSTAS DE REFORMA:
+1. PARIDADE REAL: 50% de candidaturas femininas (não mais 30%) —
+   México, Argentina, Bolívia já adotam.
+2. TRANSFERÊNCIA OBRIGATÓRIA: 30% do Fundo Eleitoral destinado a
+   candidaturas femininas — Resolução TSE 23.609 exige, mas é pouco
+   fiscalizada. Em 2022 só 12% dos partidos cumpriram.
+3. COTA EM LISTA FECHADA: se adotado MMP, lista partidária deve ser
+   "zipada" (homem-mulher-homem-mulher) — modelo Espanha, Argentina.
+4. FINANCIAMENTO PÚBLICO EXCLUSIVO PARA MULHERES (Chile): mulheres
+   recebem 50% do fundo independente de candidatas masculinas.
+5. ELEIÇÃO EM 2 VOLTAGENS (Suécia): listas partidárias com 50% de
+   mulheres, alternadas; eleitor vota em partido; dentro da lista,
+   pode marcar preferência pessoal — sem puxadinho.
+
+================================================================================
+5. FONTES E NOTAS METODOLÓGICAS
+================================================================================
+
+FONTES PRIMÁRIAS CONSULTADAS:
+- Tribunal Superior Eleitoral (TSE) — Resoluções 23.609/2019,
+  23.732/2024, 23.731/2024; calendário eleitoral 2024 e 2026;
+  notas oficiais sobre federações partidárias e fundo eleitoral.
+- Câmara dos Deputados — dados sobre composição partidária, bancada
+  feminina, bancada negra, emendas parlamentares.
+- Supremo Tribunal Federal (STF) — decisões sobre cláusula de
+  barreira (RE 1398529/2024), financiamento empresarial, etc.
+- Senado Federal — composição e PECs ativas.
+
+FONTES SECUNDÁRIAS:
+- O Globo (cobertura PEC da Blindagem 2025, listas de votação).
+- G1/GloboNews (resultados eleições, bancada feminina, Fundo Eleitoral
+  2026, candidaturas femininas).
+- CNN Brasil (Fundo Eleitoral 2024, Mesa Diretora).
+- Estadão (PEC da Blindagem por partido; infidelidade partidária).
+- Poder360 (bancada feminina; votações detalhadas).
+- Congresso em Foco (orçamento secreto; cláusula de barreira).
+- Veja (infidelidade partidária; distritão).
+- Transparência Brasil (estudo sobre emendas de liderança 2025;
+  relatórios de ocultação).
+- Brasil de Fato (TSE 2024 regras contra candidaturas laranja;
+  representatividade negra).
+- UOL (renovação Câmara 2022; candidaturas fictícias 2024).
+- Agência Brasil (reeleição; fundo eleitoral).
+- Deutsche Welle (modelo eleitoral alemão; distritão).
+- JusBrasil (judicialização STF, infidelidade partidária).
+- ConJur (voto distrital; TSE plataformas digitais).
+- Estudo CLP (Centro de Liderança Pública) sobre distrital misto.
+- Inteligov (Janela partidária 2026).
+- Lei 9.096/1995 (Lei dos Partidos Políticos).
+- Lei 9.504/1997 (Lei das Eleições).
+- Lei 14.208/2021 (Federações partidárias).
+- Emenda Constitucional 97/2017 (Cláusula de barreira).
+- Emenda Constitucional 96/2019 (Fim das coligações proporcionais).
+
+DADOS VERIFICADOS — JULHO/2026:
+- Bancada feminina: 91/513 deputadas (17,7%) — fonte Câmara 2023.
+- Bancada negra: 122-135 deputados (24-26%) — fonte Câmara/EM 2023.
+- Fundo Eleitoral 2024 e 2026: R$ 4,9 bilhões — fonte TSE/CMO.
+- PEC da Blindagem: 353x134 (1º turno, 16/09/2025) — fonte O Globo,
+  Poder360, G1.
+- Orçamento secreto 2.0: R$ 1,3 bi oculto — fonte Transparência Brasil.
+- Taxa de reeleição 2022: ~60% dos que tentaram (37% renovação) —
+  fonte UOL, Agência Brasil.
+- Federações 2022: apenas 3 (PT/PCdoB/PV, PSDB/Cidadania, PSOL/REDE)
+  — fonte TSE, Wikipedia.
+- 86,9% (446/513) tentaram reeleição em 2022 — recorde histórico.
+
+NOTAS METODOLÓGICAS:
+1. Dados de bancada podem oscilar ao longo da legislatura devido a
+   trocas partidárias, licenças, cassações, renúncias.
+2. Cálculos de quociente eleitoral são feitos estado por estado em
+   cada pleito; os exemplos são ilustrativos.
+3. A cláusula de barreira foi parcialmente descaracterizada pelo STF
+   em 2024 (RE 1398529) — verificar evolução até 2030.
+4. Os dados de "atiradores" são estimativas; não há classificação
+   oficial.
+5. Os dados de "laranjas" dependem de análise caso a caso; TSE 2024
+   estabeleceu critérios objetivos mas aplicação ainda incipiente.
+
+================================================================================
+RESUMO EXECUTIVO (1 PARÁGRAFO)
+================================================================================
+O sistema eleitoral brasileiro opera em lógica híbrida sem coerência:
+proporcional de lista aberta para deputados/vereadores; majoritário
+para presidente/governadores/senadores/prefeitos. Esta arquitetura
+produz fragmentação extrema (27 partidos registrados, 22+ com bancada),
+baixa representatividade demográfica (18% mulheres, 26% negros vs 52% e
+56% da população), e vulnerabilidade à captura institucional — visível
+na PEC da Blindagem (353x134, set/2025), no Orçamento Secreto 2.0 (R$ 1,3
+bi oculto em emendas de liderança), e na concentração de poder na Mesa
+Diretora de Arthur Lira (PP-AL). A reforma necessária passa por
+DISTRITAL MISTO (MMP alemão) com lista fechada paritária, cláusula de
+barreira mais forte (5% até 2034), reformulação do Fundo Eleitoral de
+R$ 4,9 bi com cotas efetivas, fim do voto secreto em cassações, e
+fortalecimento da fidelidade partidária com punição automática.
+Sem reforma estrutural até 2030, o Brasil caminha para a consolidação
+de uma democracia capturada por oligarquias partidárias fisiológicas.
+================================================================================
+FIM DO DOCUMENTO — SOPBRA/TEIA — V.1.0 — JULHO/2026
+================================================================================

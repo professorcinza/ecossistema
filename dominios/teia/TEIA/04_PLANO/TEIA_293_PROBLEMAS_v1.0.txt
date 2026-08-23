@@ -1,0 +1,231 @@
+================================================================================
+TEIA v17.0 — APLICAÇÃO DA METODOLOGIA INTEGRAL AOS 293 PROBLEMAS DO BRASILEIRO
+================================================================================
+Sistema: TEIA Metodologia v17.0 (Sistema Integral)
+Matriz: 66 dimensões × 24 lentes = 1.584 perspectivas
+Protocolo: TEIA-2026-084
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA — Centro de Estudos em Hacker Cultura Periférica
+Data: 20/Julho/2026
+================================================================================
+
+METODOLOGIA APLICADA (condensada por problema):
+
+Cada problema recebe:
+  CAMADA 1 — PIPELINE DIALÉTICO (tese → fact-check → refutação → contra → síntese)
+  CAMADA 2 — PET FASES 1-3 (superfície → lentes → abismo)
+  CAMADA 3 — SOPBRA (atores, veto players, coalizões)
+  CAMADA 4 — LOOP CAUSAL + PONTO DE ALAVANCA
+  CAMADA 5 — SÍNTESE DISJUNTIVA (a MÁQUINA diagnosticada)
+  SCORE DE COMPLEXIDADE (1-5)
+  SOLUÇÃO TEIA (intervenção executável)
+
+FONTE DE DADOS (por nível de profundidade):
+  Nível 1-2: Atlas da Violência 2026 (Ipea/FBSP), SIAFI, IBGE, TSE, BCB
+  Nível 3-4: INPE, IBAMA, SNIS, MapBiomas, IPEA
+  Nível 5-7: DATASUS, SIM, SINASC, INFOPEN, ANS
+  Nível 8-9: FBSP, CPRM, BEPI, ANA
+  Nível 10-12: Pandora Papers, B3, CNV, WIPO, ANPD
+
+================================================================================
+PROBLEMA #1 — HOMICÍDIOS EM MASSA (42.590/ano)
+================================================================================
+
+DADOS PRIMÁRIOS:
+  42.590 homicídios em 2024 (queda 7,4% vs 2023) — Atlas 2026
+  77% das vítimas são negras (taxa 27,3/100mil vs 10/100mil não-negros)
+  91% são homens; 50% têm 15-29 anos
+  ~7 mil homicídios ocultos (subnotificação estimada)
+  Letalidade policial: 6.200 mortes/ano (2024)
+  Elucidação: apenas ~10% dos casos resolvidos
+  Arma de fogo: 77% dos casos
+
+CAMADA 1 — PIPELINE DIALÉTICO
+
+  TESE: "O Brasil tem 42.590 homicídios/ano porque há falta de segurança
+  pública e as polícias são insuficientes."
+
+  FACT-CHECK:
+    - Queda de 7,4% em 2024 mostra que NÃO é apenas falta de polícia
+    - SP tem menor taxa (6,6/100mil) mas letalidade policial altíssima
+    - Países com MENOS polícia/mil habitantes têm MENOS homicídios
+    - Encarceramento em massa NÃO reduz homicídios (EUA prova isso)
+    - A correlação é com DESIGUALDADE, não com número de policiais
+    - 77% das vítimas negras indica SELEÇÃO, não aleatoriedade
+    - A arma de fogo em 77% dos casos indica ACESSO, não intenção
+
+  REFUTAÇÃO (escrutínio hostil):
+    "A tese ignora que a criminalidade é uma escolha individual. Pessoas
+    matam porque querem matar, não porque o sistema as obriga. Culpar
+    desigualdade é desresponsabilizar o criminoso. Países pobres como
+    Costa Rica têm taxas menores. A violência é cultural, brasileira,
+    não estrutural."
+
+  CONTRA-REFUTAÇÃO:
+    - Se fosse escolha individual livre, a distribuição seria aleatória
+    - Mas é CONCENTRADA: jovem negro, periferia, Norte/Nordeste
+    - Isso não é escolha — é ARQUITETURA
+    - Costa Rica investiu em EDUCAÇÃO e SAÚDE, não em encarceramento
+    - O custo do homicídio (R$ 100 mil/investigação + processo + presídio)
+    - excede o custo de PREVENIR (escola + esporte + emprego: R$ 15 mil/ano)
+    - A 'cultura violenta' é PRODUZIDA pela ausência de alternativa
+
+  SÍNTESE (V4.0 — sobrevivente de refutação):
+    Os 42.590 homicídios/ano não são falhas individuais. São OUTPUT
+    OBRIGATÓRIO de um sistema que: (a) concentra pobreza em territórios
+    específicos, (b) remove alternativas legais de sobrevivência,
+    (c) facilita armas, (d) garante impunidade (90% não resolvidos),
+    (e) seleciona corpos negros como descartáveis. A violência é
+    ENGENHARIA, não acidente.
+
+CAMADA 2 — PET (Fases 1-5)
+
+FASE 1 — SUPERFÍCIE (o que se vê):
+  Dim 5 (Social): criminalização da pobreza
+  Dim 1 (Econômica): crime como economia de sobrevivência
+  Dim 37 (Militar): facções armadas + letalidade policial
+  Dim 8 (Jurídica): impunidade (90% não elucidados)
+  Dim 10 (Espacial): periferia como zona de sacrifício
+
+FASE 2 — TRIAGEM ÓPTICA (lentes que rasgam o óbvio):
+  Lente 25 (Interseccional): raça × classe × idade × território
+    → Pergunta-chave: "Quem morre é sempre o MESMO perfil?"
+    → Resposta: jovem negro, periferia, 15-29 anos — TODOS OS ANOS
+  Lente 23 (Decolonial): legado escravocrata no corpo descartável
+    → Pergunta-chave: "De onde vem a ideia de que alguns corpos valem menos?"
+    → Resposta: escravidão (1888) → favela (1900s) → presídio (hoje)
+  Lente 11 (Sistemas Complexos): loops de retroalimentação
+    → Pergunta-chave: "O que alimenta a violência de volta?"
+    → Resposta: pai preso → filho sem rede → crime → prisão → ciclo
+
+FASE 3 — MERGULHO NO ABISMO (dimensões invisíveis):
+
+  Dim 47 (Tanatopolítica): o Estado decide quem é matável
+    — A distribuição NÃO é aleatória. É POLÍTICA. Zonas onde a polícia
+      mata com impunidade são zonas onde o Estado decidiu que a vida
+      vale menos. Tanatopolítica = gestão da morte como ferramenta
+      de governo. Não é excesso — é DESIGN.
+
+  Dim 51 (Traumática): trauma geracional como combustível
+    — Filho de pai assassinado tem 4x mais chance de ser vítima ou
+      autor. O trauma não fica no passado — ele se replica. Comunidades
+      inteiras vivem em estado de alerta hiperativo (cortisol alto,
+      decisão impulsiva, violência reativa). O trauma é HERANÇA.
+
+  Dim 65 (Farmacológica): quais drogas são permitidas a quem
+    — Álcool legal para elite; crack ilegal mas controlado por milícias
+      na periferia. A 'guerra às drogas' não é sobre drogas — é sobre
+      CONTROLE TERRITORIAL. Quem lucra com a droga ilegal é quem
+      vende a droga legal? Não — é quem controla o território onde
+      ela circula. Milícia = distribuidor + cobrador + justiceiro.
+
+  Dim 61 (Panóptica): auto-vigilância do jovem periférico
+    — O jovem negro internaliza que é suspeito. Cruzou no posto?
+      Mão no bolso, documento na mão. A facção controla? Ele sabe
+      que não pode passar em certas ruas. Auto-vigilância = perda
+      de liberdade = NORMALIZAÇÃO da violência como ambiente.
+
+  Dim 26 (Mitológica): "jovem negro = bandido"
+    — O mito mais letal do Brasil. Quando a sociedade acredita que
+      jovem negro é ameaça, a morte dele não causa indignação.
+      42.590 mortes/ano sem comoção nacional = o mito funcionando.
+      A mitologia legitima a engenharia.
+
+  Dim 40 (Patológica): homicídio como doença epidemiológica
+    — A OMS classifica homicídio como problema de SAÚDE PÚBLICA.
+      Concentração geográfica, perfil de vítima, padrão de transmissão
+      (violência gera violência). Tratar como policial é erro médico:
+      é tratar sintoma, não causa. Causa = desigualdade + impunidade.
+
+  Dim 66 (Cartográfica): mapeamento da morte
+    — Apps de navegação desviam trânsito de "áreas vermelhas" =
+      favelas. O homicídio é GEOGRAFICAMENTE PREDITÍVEL. Se você
+      sabe o CEP, sabe a probabilidade de ser vítima. A morte tem
+      CEP, cor e idade. O mapa da morte é o mapa da segregação.
+
+FASE 4 — LOOP CAUSAL (a engenharia):
+
+  LOOP PRINCIPAL (Refinamento):
+    Desigualdade territorial → periferia sem serviço → economia
+    informal → crime como sobrevivência → facção recruta jovem →
+    guerra entre facções → homicídios → pai morto/preso → família
+    desestruturada → filho sem rede → vulnerabilidade → crime (+)
+
+  LOOP DA IMPUNIDADE (Refinamento):
+    Homicídio → investigação precária → 90% não elucidados →
+    sensação de que matar não tem consequência → mais homicídios →
+    sobrecarga investigativa → menos elucidação (+)
+
+  LOOP DA LETALIDADE POLICIAL (Refinamento):
+    Polícia mata → comunidade teme/odeia polícia → não colabora →
+    polícia sem inteligência → opera por assunção/suspeita → mata
+    mais → mais medo → menos colaboração (+)
+
+  LOOP DA MILITARIZAÇÃO (Refinamento):
+    Homicídios sobem → pânico público → demanda por "mão dura" →
+    eleição de político law-and-order → política de confronto →
+    letalidade policial sobe → mais mortes → pânico (+)
+
+  LOOP ECONÔMICO-ARMAMENTISTA (Refinamento):
+    Medo → demanda por armas → lobby armamentista financia político
+    → flexibilização de armas → mais armas em circulação → mais
+    homicídios → mais medo (+)
+
+FASE 5 — SÍNTESE DISJUNTIVA:
+
+  DIAGNÓSTICO DA MÁQUINA:
+  O homicídio em massa no Brasil não é falha de segurança. É uma
+  MÁQUINA DE PRODUÇÃO DE MORTE com 5 engrenagens:
+
+  Engrenagem 1 — SELEÇÃO: o sistema seleciona quem morre (jovem
+    negro, periferia, 15-29). Não é aleatório. É tanatopolítica.
+  Engrenagem 2 — ARMAMENTO: 77% por arma de fogo. A bala é a moeda
+    da morte. Sem arma, a escala despenca.
+  Engrenagem 3 — IMPUNIDADE: 90% não resolvidos. Matar é grátis.
+  Engrenagem 4 — LUCRO: facção, milícia, indústria da segurança,
+    político law-and-order, lobby armamentista — TODOS lucram.
+  Engrenagem 5 — NORMALIZAÇÃO: 42.590/ano sem comoção. O mito
+    "jovem negro = bandido" desativa a indignação.
+
+  NÓ CRÍTICO (onde intervir para colapsar a máquina):
+  A impunidade (90% não elucidados) é o NÓ MESTRE. Se matar passa
+  a ter consequência (elucidação >50%), TODOS os loops se rompem:
+    - Facção perede poder de recrutamento (ser membro = prisão certa)
+    - Milícia perede extorsão (denúncia leva a investigação)
+    - Polícia para de matar (cada morte é investigada)
+    - Vingança privada cai (Estado processa em vez do particular)
+
+  INTERVENÇÃO TEIA (Solução Executável):
+  1. INVESTIGAÇÃO 360: criar Grupo de Análise de Homicídios (GAH)
+     em cada município >500mil hab, com meta de elucidação >50%
+     em 4 anos (modelo: Filadélfia, -60% homicídios)
+  2. DESARMAMENTO ATIVO: programa de compra de armas + anistia
+     (modelo Austrália, -59% homicídios armados)
+  3. PREVENÇÃO PRIMÁRIA: programa Cuŕncia (Bogotá) — transferência
+     condicionada para jovens 15-24 em zonas quentes
+  4. INTELIGÊNCIA TERRITORIAL: saturação policial comunitária
+     (modelo Newark, -35% homicídios em 3 anos)
+  5. REFORMA POLICIAL: fim da PM como força militarizada; transição
+     para polícia comunitária cíclica (modelo Noruega)
+
+  SCORE COMPLEXIDADE: 5/5
+  IMPACTO: MÁXIMO (42.590 vidas/ano)
+  FACTIBILIDADE: MÉDIA (requer vontade política + investimento)
+  PRIORIDADE: *** URGENTE ***
+
+  LENTE DA MISERICÓRDIA (Edgard Abbehusen):
+  "Misericórdia que não guarda rancor dos erros de ontem, não cobra
+  juros das falhas, não fecha a porta quando se demora a chegar."
+  O sistema penal brasileiro faz EXATAMENTE O OPOSTO: cobra juros
+  compostos sobre o crime (ficha criminal eterna), guarda rancor
+  perpétuo (presidiário marcado), fecha a porta (ex-presidiário
+  sem emprego = reincidência garantida). A misericórdia como política
+  pública = justiça restaurativa + selo de reinserção + extinção da
+  punibilidade para crimes sem violência. PREVENIR é misericórdia
+  institucional. MATAR é sua ausência.
+
+================================================================================
+FIM DO PROBLEMA #1 — MODELO TEIA v17.0 APLICADO
+================================================================================
+RESTANTE: 292 PROBLEMAS EM PRODUÇÃO VIA SUBAGENTES PARALELOS
+================================================================================

@@ -1,0 +1,306 @@
+================================================================================
+              TEIA — ROTEIROS TIKTOK/REELS — "O BRASIL QUE É POSSÍVEL"
+              PROTOCOLO: TEIA-2026-115
+              CATEGORIA: 05_ACAO
+              ESCOPO: 8 EPISÓDIOS BASEADOS NO TEIA-114
+              DATA: JULHO/2026
+              AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+PERSONA: Professor Cinza — 28 anos, BR, estilo Cyberpunk 2077.
+Voz: grave, calma, cínica. Olhar direto para câmera.
+Visual: fundo escuro, texto neon verde/cyan, números em vermelho.
+Duração: 45-90 segundos por episódio.
+BGM: dark synthwave baixo (opcional, só se solicitado).
+
+================================================================================
+EPISÓDIO 1 — "O NÚMERO QUE MATA O BRASIL"
+(Duração: 60s | Gancho: choque numérico)
+================================================================================
+
+[CÂMERA: close no rosto, luz lateral]
+
+PROFESSOR CINZA:
+"R$ 998 bilhões."
+
+[PAUSA 2s]
+
+"Por ano. Em juros da dívida pública."
+
+"Isso é mais que saúde e educação... combinadas."
+
+"O Brasil tem a maior taxa de juros real do mundo. SELIC a 15%."
+
+"Chile: 4,5%. México: 7,25%. Brasil: QUINZE por cento."
+
+[TEXTO NA TELA: SELIC 15% vs Chile 4,5% = 10 pontos de diferença]
+
+"Quem recebe esses R$ 998 bilhões? Cinco bancos."
+
+"Itaú sozinho lucrou R$ 40 bilhões em 2024. Recorde histórico."
+
+"A pergunta não é se o Brasil tem dinheiro. A pergunta é: pra quem ele vai."
+
+[TEXTO: github.com/mouracleiton/TEIA | @professorcinza]
+
+================================================================================
+EPISÓDIO 2 — "A ALAVANCA"
+(Duração: 75s | Gancho: solução simples)
+================================================================================
+
+PROFESSOR CINZA:
+"Se eu te dissesse que dá pra resolver fome, saúde e segurança...
+sem aumentar impostos... sem mágica... com UMA decisão?"
+
+[TEXTO: UMA decisão]
+
+"Reduzir a SELIC de 15% para 10%."
+
+"Isso libera R$ 340 BILHÕES por ano."
+
+[TEXTO ANIMADO: R$ 340.000.000.000/ano]
+
+"Com esse dinheiro:
+- 24 mil vidas salvas por ano (segurança)
+- 1,5 milhão de cirurgias (SUS)
+- Fim da fome (6,5 milhões alimentadas)
+- Água e esgoto para 137 milhões de pessoas"
+
+"Ainda sobram R$ 42 bilhões."
+
+[PAUSA]
+
+"O Brasil não tem problema de dinheiro. Tem problema de ALOCAÇÃO."
+
+"Quem decidiu que 5 bancos são mais importantes que 42 mil vidas?"
+
+[TEXTO: Art. 192 CF: 'promover o desenvolvimento equilibrado']
+
+================================================================================
+EPISÓDIO 3 — "42 MIL CORPOS"
+(Duração: 90s | Gancho: tanatopolítica)
+================================================================================
+
+PROFESSOR CINZA:
+"42.590."
+
+"É o número de homicídios no Brasil... por ano."
+
+"77% são negros. 91% homens. Metade entre 15 e 29 anos."
+
+[TEXTO: sempre o MESMO perfil — todo ano]
+
+"Isso não é aleatório. É SELEÇÃO."
+
+"Sabe quantos casos são resolvidos? Dez por cento."
+
+"Matar no Brasil é GRÁTIS."
+
+[PAUSA]
+
+"6.243 pessoas mortas pela polícia em 2024. 78,9% negras."
+
+"Em 10 anos: 60.394 pessoas mortas pela polícia."
+
+"A polícia militar foi criada em 1831 para reprimir escravos. 195 anos depois..."
+
+"Se a elucidação passasse de 10% para 50%, facção perde poder. Milícia perde extorsão. Polícia para de matar."
+
+"O nó mestre é a IMPUNIDADE. Tudo gira em torno dele."
+
+[TEXTO: TEIA-108 | github.com/mouracleiton/TEIA]
+
+================================================================================
+EPISÓDIO 4 — "6,5 MILHÕES DE ESTÔMAGOS VAZIOS"
+(Duração: 60s | Gancho: paradoxo)
+================================================================================
+
+PROFESSOR CINZA:
+"O Brasil produz comida suficiente para alimentar 1 bilhão de pessoas."
+
+[PAUSA]
+
+"6,48 milhões passam fome."
+
+"Como?"
+
+[TEXTO: produz para 1 bilhão → 6,5 mi com fome]
+
+"Fome não é problema de produção. É problema de DISTRIBUIÇÃO."
+
+"O Gini brasileiro é 0,506. Parece melhor que antes, mas os 10% mais ricos
+ainda ganham 13 vezes mais que os 40% mais pobres."
+
+"Quer acabar com a fome? R$ 30 bilhões por ano."
+
+"Quanto custam os juros da dívida? R$ 998 bilhões."
+
+"A fome custa 3% do que pagamos de juros."
+
+"Não é questão de recurso. É questão de PRIORIDADE."
+
+[TEXTO: TEIA-110 | github.com/mouracleiton/TEIA]
+
+================================================================================
+EPISÓDIO 5 — "A FILA QUE NÃO ANDA"
+(Duração: 75s | Gancho: absurdo cotidiano)
+================================================================================
+
+PROFESSOR CINZA:
+"1,5 milhão de brasileiros esperando na fila do SUS por uma cirurgia."
+
+"O Brasil gasta 4% do PIB em saúde. A OCDE gasta 9%."
+
+[TEXTO: 4% vs 9%]
+
+"O SUS atende 75% da população. Os planos de saúde atendem 25% e lucram
+R$ 4,4 bilhões por ano."
+
+"Sabe como funciona o subsídio cruzado?"
+
+"O SUS trata os casos caros — UTI, câncer, transplante. O plano fica com
+os baratos — consulta, exame. E quando o plano nega? Volta pro SUS."
+
+"Você paga duas vezes: imposto pro SUS e mensalidade pro plano."
+
+"O Senado já confirmou: o SUS vai colapsar fiscalmente a partir de 2026."
+
+"A solução existe: R$ 60 bilhões por ano. Menos de 6% dos juros."
+
+[TEXTO: Art. 196 CF: 'Saúde é dever do Estado' | TEIA-109]
+
+================================================================================
+EPISÓDIO 6 — "A ÁGUA QUE NÃO CHEGA"
+(Duração: 60s | Gancho: desigualdade invisível)
+================================================================================
+
+PROFESSOR CINZA:
+"32 milhões de brasileiros não têm água tratada."
+
+"105 milhões não têm coleta de esgoto."
+
+[TEXTO: 2026 e ainda assim]
+
+"Perdemos 37,78% da água tratada na distribuição. Quase 4 em cada 10 litros
+vazam no caminho."
+
+"O Norte do Brasil recebeu 4,7% dos investimentos em saneamento nos últimos
+5 anos. Enquanto isso, o Sudeste ficou com 51%."
+
+"A lei diz: universalização até 2033. Mas não tem dinheiro."
+
+"R$ 551 bilhões. É o que falta. A 50 bilhões por ano, em 11 anos resolve."
+
+"Quanto pagamos de juros por ano? R$ 998 bilhões."
+
+"Ou seja: 5 anos de juros pagam TODO o saneamento do Brasil."
+
+[TEXTO: TEIA-112 | github.com/mouracleiton/TEIA]
+
+================================================================================
+EPISÓDIO 7 — "A MÁQUINA DE TRABALHO ESCRAVO"
+(Duração: 75s | Gancho: escândalo JBS)
+================================================================================
+
+PROFESSOR CINZA:
+"65.598 pessoas foram resgatadas de trabalho escravo no Brasil nos últimos
+30 anos."
+
+"Em 2025: 2.772 pessoas. 83% negras. Pela primeira vez, 68% no meio urbano."
+
+[TEXTO: escravidão urbana > rural em 2025]
+
+"Sabe como funciona a blindagem?"
+
+"A JBS foi flagrada com trabalho escravo em granja. O ministro do Trabalho
+AVOCOU o processo a pedido da empresa. Depois ANULOU os autos."
+
+"A terceirizada entrou na Lista Suja. A JBS não."
+
+"19 fiscais foram demitidos em retaliação."
+
+"Em 30 anos do grupo móvel de fiscalização, NUNCA isso tinha acontecido."
+
+"A Lista Suja tem 745 empregadores. Inclui BYD e Amado Batista."
+
+"A Lei existe. A Constituição existe (art. 243, expropriação sem indenização).
+O problema é: 12 anos depois da emenda, ZERO expropriações."
+
+[TEXTO: TEIA-105 | github.com/mouracleiton/TEIA]
+
+================================================================================
+EPISÓDIO 8 — "O BRASIL QUE É POSSÍVEL"
+(Duração: 90s | Gancho: esperança concreta)
+================================================================================
+
+PROFESSOR CINZA:
+"Eu sei que parece impossível. Mas não é."
+
+[PAUSA, tom mais suave]
+
+"Os números não mentem. O Brasil tem R$ 998 bilhões que vão pra juros."
+
+"Se a gente redirecionar R$ 340 bilhões por ano... tudo muda."
+
+[TEXTO aparecendo um por um:]
+
+"24 mil vidas por ano."
+"Fim da fome."
+"1,5 milhão de cirurgias."
+"Água e esgoto pra 137 milhões."
+"Educação entre as melhores da América Latina."
+"Moradia pra quem precisa."
+
+"Tudo isso com UMA decisão: reduzir juros."
+
+"Não é utopia. É matemática."
+
+"O dinheiro existe. A lei existe. O que falta é PRESSÃO."
+
+[TEXTO FINAL grande:]
+
+"Compartilha. Cobrança pública move mais que política."
+
+"github.com/mouracleiton/TEIA"
+"@professorcinza"
+
+================================================================================
+NOTAS DE PRODUÇÃO
+================================================================================
+
+ESTILO VISUAL:
+- Fundo preto/azul-escuro
+- Texto em monospace (terminal)
+- Verde neon (#00ff41) para dados positivos
+- Vermelho (#ff3333) para dados de impacto
+- Cyan (#33ccff) para soluções/propostas
+- Fonte: sans-serif condensada (impacto)
+
+CORTE:
+- Cortes rápidos entre frases (2-3 segundos por take)
+- Zoom in nos números críticos
+- B-roll opcional: fotos de arquivo (periferia, fila SUS, etc.)
+
+ÁUDIO:
+- Narração grave e calma
+- Silêncio antes de números de impacto (2s pause)
+- Sem música (conforme preferência do usuário: CLEAN narration)
+
+HASHTAGS SUGERIDAS:
+#BrasilQueÉPossível #TEIA #JurosDaDívida #ProfessorCinza
+#FomeZero #SUS #ReformaPolicial #TrabalhoEscravo
+#SaneamentoParaTodos #Desinformação
+
+PUBLICAÇÃO:
+- 1 episódio por dia (não agrupar)
+- Horário: 19h-21h (pico de engajamento)
+- Cross-post: TikTok + Reels + Shorts (mesmo vídeo, 3 plataformas)
+- Legenda: link github.com/mouracleiton/TEIA + @professorcinza
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-115
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Roteiros TikTok/Reels — O Brasil Que É Possível (8 episódios)
+STATUS: PROTOCOLO_ATIVO
+================================================================================

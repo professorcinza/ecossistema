@@ -1,0 +1,184 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-011
+VERSÃO: v2.0
+CATEGORIA: 03_SIMULACAO
+TÍTULO: Simulação Monte Carlo Final Corrigida (1.260.000 cálculos)
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 10,953 bytes (10.7 KB)
+HASH MD5: 238d969dab4f40da2ce9b8db030c7eb2
+HASH SHA-256: 3e8543c8fc239e1cc1de7ae62e9953c451c3041fdf3e6363cb4b2d9549ee1e4b
+================================================================================
+
+================================================================================
+SIMULAÇÃO MONTE CARLO FINAL — V3.0 CORRIGIDA
+================================================================================
+1.260.000 cálculos probabilísticos
+14 atores × 9 estratégias × 10.000 iterações com ruído gaussiano (σ=0,2)
+Data: Julho/2026
+Autor: Cleiton Moura
+================================================================================
+
+PROBABILIDADE DE APROVAÇÃO DOS 4 VETORES (10.000 simulações)
+
+┌─────────────────────────────────┬──────────────┬──────────────┬─────────────┐
+│ VETOR                           │ STATUS QUO   │ COMBO ÓTIMO  │ GANHO       │
+├─────────────────────────────────┼──────────────┼──────────────┼─────────────┤
+│ V1: Gestão da Dívida            │    88,2%     │    97,7%     │ + 9,5 p.p.  │
+│ V2: Spread Bancário (4 Frentes) │    61,2%     │    85,1%     │ +23,9 p.p.  │
+│ V3: Desburocratização           │    81,9%     │    93,8%     │ +11,9 p.p.  │
+│ V4: Transparência Punitiva      │    88,7%     │    97,2%     │ + 8,5 p.p.  │
+├─────────────────────────────────┼──────────────┼──────────────┼─────────────┤
+│ MÉDIA                           │    80,0%     │    93,5%     │ +13,5 p.p.  │
+└─────────────────────────────────┴──────────────┴──────────────┴─────────────┘
+
+COMBO ÓTIMO = CPI Master + STF + Via Planalto + Via CNJ + Narrativa Pública
+
+
+================================================================================
+PROBABILIDADE POR CENÁRIO
+================================================================================
+
+CENÁRIO              |  V1 Dívida | V2 Spread | V3 Desburo | V4 Transp |  MÉDIA
+---------------------|------------|-----------|------------|-----------|--------
+Status Quo           |     88,2%  |    61,2%  |    81,9%   |    88,7%  |  80,0%
+Só Narrativa         |     90,7%  |    67,2%  |    84,7%   |    90,3%  |  83,2%
+CPI Master           |     95,5%  |    78,1%  |    83,7%   |    95,4%  |  88,2%
+Judiciário           |     89,9%  |    65,3%  |    83,7%   |    89,8%  |  82,2%
+Via Planalto (Lula)  |     95,2%  |    76,5%  |    93,8%   |    91,7%  |  89,3%
+Via CNJ              |     95,2%  |    76,5%  |    87,4%   |    91,7%  |  87,7%
+CPI + STF            |     97,7%  |    85,1%  |    83,7%   |    97,2%  |  90,9%
+COMBO ÓTIMO          |     97,7%  |    85,1%  |    93,8%   |    97,2%  |  93,5%
+
+
+================================================================================
+RANKING FINAL DE ATORES — P_COMBINADA MÁXIMA
+================================================================================
+
+ATOR                   CARGO                      MELHOR ESTRATÉGIA     P_COMB   TIPO
+---------------------- -------------------------- --------------------- ------- ------------
+Hugo Motta             Presidente Câmara          CPI+STF Combinado      98,9%  VULNERÁVEL
+Arthur Lira            Ex-pres. Câmara            CPI+STF Combinado      97,9%  VULNERÁVEL
+Davi Alcolumbre        Presidente Senado          Compensação Cartórios  97,7%  PRAGMÁTICO
+Renan Calheiros        Presidente CAE             Via Planalto           97,2%  VULNERÁVEL
+Ricardo Barros         Líder Governo Câmara       Via Planalto           97,0%  PRAGMÁTICO
+Ângelo Coronel         Relator LOA 2025           CPI+STF Combinado      96,7%  VULNERÁVEL
+Baleia Rossi           Presidente MDB             Via Planalto           96,4%  PRAGMÁTICO
+Eduardo Braga          Relator tributário         Via Planalto           95,2%  PRAGMÁTICO
+Valdemar Costa Neto    Presidente PL              CPI+STF Combinado      90,1%  VULNERÁVEL
+Ciro Nogueira          Ex-Casa Civil              CPI+STF Combinado      88,7%  VULNERÁVEL
+Júlio César            Frente Contabilidade       Via Planalto           87,5%  NEUTRALIZÁVEL
+Luiz Carlos Motta      Relator LOA + Sistema S    Via Planalto           87,2%  NEUTRALIZÁVEL
+Zé Neto                Frente Cartórios           Via Planalto           79,0%  NEUTRALIZÁVEL
+André Figueiredo       Frente Servir Brasil       Via CNJ                33,2%  IDEOLÓGICO*
+
+
+================================================================================
+EFICÁCIA DAS ESTRATÉGIAS NO AGREGADO (média em 14 atores)
+================================================================================
+
+Via Planalto           87,1%  ███████████████████████████████████████████
+Compensação Cartórios  77,2%  ██████████████████████████████████████
+CPI+STF Combinado      75,0%  █████████████████████████████████████
+Via CNJ                73,7%  ████████████████████████████████████
+CPI Master isolada     70,7%  ███████████████████████████████████
+Narrativa Pública      63,7%  ███████████████████████████████
+Aliança Judiciário     60,9%  ██████████████████████████████
+Pressão OCDE           57,3%  ████████████████████████████
+Coalizão Ganhadores    55,7%  ███████████████████████████
+
+
+================================================================================
+CUSTO-BENEFÍCIO POR ESTRATÉGIA
+================================================================================
+
+ESTRATÉGIA              CUSTO R$          CUSTO POL. PRAZO        P_MÉDIA
+----------------------- ----------------- ---------- ------------ -------
+Via Planalto (Lula)     R$ 0              Médio      3-6 meses    87,1% ← GRATUITO
+Via CNJ                 R$ 0,5-1 mi       Baixo      6-12 meses   73,7%
+Pressão OCDE            R$ 0,3-0,5 mi     Baixo      Contínuo     57,3%
+Aliança Judiciário      R$ 0,5-1 mi       Baixo      12-24 meses  60,9%
+Compensação Cartórios   R$ 2-3 mi         Médio      6-12 meses   77,2%
+CPI Master              R$ 2-5 mi         Médio      6-12 meses   70,7%
+CPI+STF Combinado       R$ 3-6 mi         Alto       6-12 meses   75,0%
+Narrativa Pública       R$ 3-5 mi/ano     Baixo      Contínuo     63,7%
+Coalizão Ganhadores     R$ 10-15 mi/ano   Médio      Contínuo     55,7%
+
+
+================================================================================
+SEQUÊNCIA ÓTIMA DE EXECUÇÃO
+================================================================================
+
+1º  Via CNJ              (R$ 0,5-1 mi)    → libera Vetor 3 (cartórios)
+2º  Via Planalto         (R$ 0)           → coopta Zé Neto + Ricardo Barros
+3º  Aliança Judiciário   (R$ 0,5-1 mi)    → STF/MPF/TCU ativos
+4º  CPI Master           (R$ 2-5 mi)      → pressão sobre Motta, Lira, Coronel
+5º  Narrativa Pública    (R$ 3-5 mi/ano)  → amplifica tudo
+
+TOTAL: R$ 6-12 milhões em 12 meses
+
+O COMBO ÓTIMO CUSTA R$ 6-12 MILHÕES.
+O V2.0 PREVIA R$ 17,5 MILHÕES.
+O V3.0 PREVIA R$ 45 MILHÕES.
+
+O COMBO ÓTIMO É MAIS BARATO QUE O V2.0 ORIGINAL E ENTREGA MAIS RESULTADO.
+
+
+================================================================================
+CORREÇÕES APLICADAS vs SIMULAÇÃO ANTERIOR
+================================================================================
+
+1. ANDRÉ FIGUEIREDO: removido como bloqueante universal do Vetor 3.
+   Razão: ele bloqueia reforma administrativa neoliberal (PEC 32/2020), NÃO
+   o que o V3.0 propõe (silêncio admin, simplificação tributária). 3 de 4
+   componentes do Vetor 3 saem via executivo/Judiciário sem tocar a CTASP.
+   Reclassificado de IRREMOVÍVEL (8,4%) para aliado potencial (Via CNJ atinge
+   33,2% porque é a única estratégia que não depende de convencê-lo).
+
+2. ZÉ NETO: adicionadas 3 estratégias específicas (Via Planalto, Compensação,
+   Via CNJ). A simulação anterior dava 45,7% — a corrigida dá 79,0% porque
+   identificou que seu cargo de líder do governo depende de Lula (alavanca
+   externa que André Figueiredo não tem).
+
+3. MAPEAMENTO DE BLOQUEANTES CORRIGIDO: cada ator só bloqueia componentes
+   específicos dentro da sua comissão/bancada, não o vetor inteiro.
+   A maioria das ações do V3.0 sai via executivo (70% Vetor 1, 75% Vetor 3,
+   85% Vetor 4) ou Judiciário, sem precisar de Congresso.
+
+4. RESULTADO: a P média dos 4 vetores subiu de ~50% (simulação anterior
+   com erros) para 80% no status quo e 93,5% no combo ótimo. O salto não
+   é porque o Congresso ficou mais cooperativo — é porque a maioria das
+   ações NÃO PASSA pelo Congresso.
+
+
+================================================================================
+A DESCOBERTA MAIS IMPORTANTE DA SIMULAÇÃO
+================================================================================
+
+A Via Planalto (Lula) é a estratégia MAIS EFICAZ de todas (87,1% média),
+custa R$ ZERO e tem prazo de 3-6 meses.
+
+Isso muda toda a estratégia do V3.0. O documento original previa construir
+um Think Tank para pressionar o Congresso. A simulação mostra que o maior
+ganho marginal vem de UMA CONVERSA com Haddad/Fazenda alinhando 3 coisas:
+
+1. Nota Técnica de Impacto Fiscal (Vetor 1) — sai por portaria do Tesouro
+2. Ordem a Zé Neto para articular digitalização de cartórios (Vetor 3)
+3. Ordem a Ricardo Barros para votar expansão de Open Finance (Vetor 2)
+
+O executivo JÁ TEM os instrumentos. Não precisa de Think Tank para isso.
+Precisa de TÉCNICA que mostre ao Planalto que a pauta é eleitoralmente
+vantajosa e fiscalmente responsável.
+
+A função do Think Tank não é pressionar o Congresso.
+É produzir a EVIDÊNCIA TÉCNICA que convence o EXECUTIVO a agir.
+
+O executivo age → o Congresso obedece (líder do governo articula).
+Não é preciso convencer 257 deputados. É preciso convencer 1 ministro.
+
+================================================================================
+FIM DA SIMULAÇÃO FINAL
+================================================================================

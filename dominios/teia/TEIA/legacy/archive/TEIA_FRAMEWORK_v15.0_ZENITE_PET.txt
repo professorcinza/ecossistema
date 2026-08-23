@@ -1,0 +1,463 @@
+================================================================================
+TEIA FRAMEWORK v15.0 — ZÊNITE ANALÍTICO + PROTOCOLO DE EXECUÇÃO
+================================================================================
+Integração das 5 últimas dimensões (57-61) + Protocolo de Execução
+TEIA (PET) + Arquitetura de Dados + Estudo de Caso Brumadinho.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-062
+Versão: v15.0 (ZÊNITE ANALÍTICO — RELEASE FINAL DEFINITIVA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v14.0 → v15.0)
+
+A v14.0 atingiu granularidade cósmica com 56 dimensões. A v15.0
+alcança o ZÊNITE ANALÍTICO com 61 dimensões e adiciona o PROTOCOLO
+DE EXECUÇÃO (PET) — o sistema operacional prático que transforma
+a matriz teórica em ferramenta de inteligência acionável.
+
+Com 61 dimensões × 24 lentes, o framework gera 1.464 perspectivas.
+Com o PET, cada perspectiva agora tem um PIPELINE PRÁTICO de
+aplicação com fontes de dados, fases e estudo de caso validado.
+
+
+================================================================================
+AS 5 ÚLTIMAS DIMENSÕES DE PODER (ZÊNITE ANALÍTICO)
+================================================================================
+
+------------------------------------------------------------------------
+DIMENSÃO 57 — METABÓLICA / CALÓRICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 30%
+
+O QUE É: a energia basal do corpo humano, a transformação de
+  calorias em trabalho e o esgotamento físico da força laboral.
+  O motor biológico. Quando o trabalhador não tem mais calorias
+  para oferecer, é descartado.
+
+DIFERENÇA DA ALIMENTAR (17) E LABORAL (14):
+  Alimentar: controle da COMIDA (fome/comida)
+  Laboral: controle do CONTRATO (precarização)
+  Metabólica: TAXA DE CONVERSÃO DO CORPO em energia útil.
+  Burnout, fibromialgia, turno 12h destruindo massa óssea.
+
+QUEM DOMINA: sistema de produção industrial, plataformas de
+  entrega (que medem calorias gastas vs pago), agronegócio (trabalho
+  escravo que consome mais energia do que gera).
+
+MÉTRICAS-CHAVE:
+  - Burnout: ~30% dos trabalhadores brasileiros
+  - Turno 12h: ~8 milhões (saúde/segurança)
+  - Catador de reciclável: consome mais calorias do que ganha
+  - Expectativa de vida útil laboral: reduzindo (velhice precoce)
+
+------------------------------------------------------------------------
+DIMENSÃO 58 — HIPERREAL / SIMULACRAL
+------------------------------------------------------------------------
+COBERTURA TEIA: 45%
+
+O QUE É: a substituição da realidade material por signos e simulações.
+  O poder não precisa ser exercido fisicamente porque é aceito como
+  "efeito de realidade" (Baudrillard). O sistema afoga a verdade num
+  oceano de simulações até que ela se torne irrelevante.
+
+DIFERENÇA DA MIDIÁTICA (7) E EPISTÊMICA (9):
+  Midiática: controle da PAUTA (o que é noticiado)
+  Epistêmica: controle da VERDADE científica
+  Hiperreal: controle da PRÓPRIA REALIDADE — deepfakes, simulacros,
+  greenwashing. Não esconde a verdade: a AFOGA em simulações.
+
+QUEM DOMINA: Big Tech (IA generativa, deepfakes), corporações
+  (greenwashing/pinkwashing), algoritmos de engajamento, consultorias
+  de imagem (linguagem corporativa que simula responsabilidade).
+
+MÉTRICAS-CHAVE:
+  - Deepfakes: crescente (IA generativa acessível)
+  - Greenwashing: ~80% das empresas fazem claim ambiental falso
+  - Tribunais midiáticos: condenação pública substitui julgamento
+  - Métricas de "engajamento" que simulam apoio popular
+
+------------------------------------------------------------------------
+DIMENSÃO 59 — FILANTRÓPICA / DA SOLIDARIEDADE
+------------------------------------------------------------------------
+COBERTURA TEIA: 50%
+
+O QUE É: a captura da compaixão pública, transformando a miséria
+  (gerada pelo próprio sistema) em mercado de propaganda e controle.
+  O sistema cria a fome e depois "salva" os famintos.
+
+DIFERENÇA DA TRIBUTÁRIA (33) E RELIGIOSA (16):
+  Tributária: isenção fiscal (renúncia fiscal)
+  Religiosa: salvação moral (fé)
+  Filantrópica: CAPTURA DA BONDADE — bilionário paga menos imposto,
+  compra política pública e ainda é aplaudido como herói.
+
+QUEM DOMINA: fundações bilionárias (Gates, Lemann, Instituto Ayrton
+  Senna), ONGs financiadas por indústria, ESG corporativo, políticos
+  que distribuem cestas básicas por voto.
+
+MÉTRICAS-CHAVE:
+  - Fundações bilionárias no Brasil: crescente (isenção + captura policy)
+  - ESG: ~R$ 50 bi em investimentos "sustentáveis" (maioria greenwash)
+  - Cestas básicas por político: estimadas milhões/ano eleitoral
+  - Substituição de direitos por favores filantrópicos: crescente
+
+------------------------------------------------------------------------
+DIMENSÃO 60 — SUBTERRÂNEA / TELÚRICA
+------------------------------------------------------------------------
+COBERTURA TEIA: 40%
+
+O QUE É: o subsolo, a litosfera profunda, os aquíferos invisíveis.
+  O poder extrai o que está embaixo dos pés da população sem que
+  ela veja. O último frontier da extração física.
+
+DIFERENÇA DA ESPACIAL (10) E AMBIENTAL (4):
+  Espacial: território de SUPERFÍCIE
+  Ambiental: biomas (florestas, fauna)
+  Telúrica: PROFUNDIDADE INVISÍVEL — subsolo, aquíferos fósseis,
+  minérios, cabos transoceânicos. Apropriação privada do esqueleto
+  geológico.
+
+QUEM DOMINA: mineradoras (Vale, Samarco, CSN, Gerdau), garimpo
+  ilegal (ouro, lítio), agronegócio (água subterrânea fóssil),
+  empresas de telecom (cabos submarinos).
+
+MÉTRICAS-CHAVE:
+  - Água fóssil extraída por agronegócio: não quantificada (opaco)
+  - Mineração em áreas protegidas: crescente
+  - Contaminação de aquíferos: documentada em múltiplos estados
+  - Cabos submarinos: controlados por oligopólios
+
+------------------------------------------------------------------------
+DIMENSÃO 61 — PANÓPTICA / DISCIPLINAR
+------------------------------------------------------------------------
+COBERTURA TEIA: 75%
+
+O QUE É: a internalização da vigilância. O poder não precisa de
+  guardas armados porque o indivíduo passou a vigiar a SI MESMO.
+  O trabalhador não protesta porque internalizou o olhar do chefe,
+  do algoritmo e do banco.
+
+DIFERENÇA DA DATIFICACIONAL (18) E OPACITÁRIA (48):
+  Datificacional: coleta de dados em MASSA (identidade digital)
+  Opacitária: assimetria do SEGREDO (elite invisível vs cidadão nu)
+  Panóptica: INTERNALIZAÇÃO PSICOLÓGICA — o poder tornou-se condição
+  atmosférica. O pânico de "ser pego" ou "perder o score" transforma
+  cada cidadão num guarda de si mesmo (Foucault/Deleuze).
+
+QUEM DOMINA: câmeras de segurança conectadas à nuvem, aplicativos
+  de rastreamento de produtividade (mouse/teclado), social scoring
+  implícito (Serasa, Open Banking), vigilância comunitária via app.
+
+MÉTRICAS-CHAVE:
+  - Câmeras de segurança: ~10 milhões no Brasil
+  - Trabalhadores monitorados por software: crescente
+  - Auto-censura por medo de score: generalizada
+  - Denúncias entre vizinhos incentivadas: crescente (apps)
+
+
+================================================================================
+OS 12 NÍVEIS DE PROFUNDIDADE DO PODER
+================================================================================
+
+NÍVEL 1 — SUPERFÍCIE (1-6)
+NÍVEL 2 — PROFUNDIDADE (7-11)
+NÍVEL 3 — SOMBRA (12-16)
+NÍVEL 4 — ABISMO (17-21)
+NÍVEL 5 — MICROFÍSICA (22-26)
+NÍVEL 6 — PSÍQUICA (27-31)
+NÍVEL 7 — SUB-BIOLÓGICA (32-36)
+NÍVEL 8 — MATERIAL/BRUTA (37-41)
+NÍVEL 9 — EXISTENCIAL (42-46)
+NÍVEL 10 — TERMINAL (47-51)
+NÍVEL 11 — CÓSMICA (52-56)
+NÍVEL 12 — ZÊNITE (57-61): energia vital, realidade fabricada,
+          bondade capturada, subsolo, auto-vigilância
+
+
+================================================================================
+PROTOCOLO DE EXECUÇÃO TEIA (PET)
+================================================================================
+O Sistema Operacional Prático da Matriz
+================================================================================
+
+Para evitar "paralisia por análise" diante de 1.464 perspectivas,
+o PET define COMO operar a matriz na prática em 5 fases.
+
+------------------------------------------------------------------------
+FASE 1 — DELIMITAÇÃO DO FENÔMENO (O Corte Superficial)
+------------------------------------------------------------------------
+OBJETIVO: definir o alvo e aplicar 3-5 dimensões óbvias.
+
+PROCESSO:
+  1. Nomear o fenômeno (ex: "Expansão miliciana na Baixada")
+  2. Identificar 3-5 dimensões de Nível 1 (superfície) que são
+     visivelmente afetadas
+  3. NÃO aprofundar ainda — apenas delimitar
+
+OUTPUT: ficha de fenômeno com dimensões preliminares
+
+------------------------------------------------------------------------
+FASE 2 — TRIAGEM ÓPTICA (O Desvelamento)
+------------------------------------------------------------------------
+OBJETIVO: escolher 2-3 lentes analíticas para rasgar o óbvio.
+
+PROCESSO:
+  1. Revisar as 24 lentes disponíveis
+  2. Selecionar 2-3 que revelam o que NÃO é visível
+  3. Aplicar pergunta-chave de cada lente selecionada
+  4. Evitar anti-padrão de cada lente
+
+OUTPUT: seleção de lentes com justificativa
+
+------------------------------------------------------------------------
+FASE 3 — MERGULHO NO ABISMO (O Cruzamento Letal)
+------------------------------------------------------------------------
+OBJETIVO: buscar dimensões INVISÍVEIS (níveis 3-12) que sustentam
+  o fenômeno.
+
+PROCESSO:
+  1. Para cada lente selecionada, perguntar: "que dimensão de
+     Nível 3+ esta lente revela?"
+  2. Cruzar lente × dimensão profunda
+  3. Identificar conexões SURPREENDENTES (ex: milícia × água)
+
+OUTPUT: mapa de dimensões profundas conectadas ao fenômeno
+
+------------------------------------------------------------------------
+FASE 4 — MAPEAMENTO DE LOOPS (A Engenharia do Sistema)
+------------------------------------------------------------------------
+OBJETIVO: usar a Lente Cibernética (20) para conectar todos os pontos
+  num diagrama de feedback.
+
+PROCESSO:
+  1. Conectar todas as dimensões identificadas em cadeia causal
+  2. Identificar loops de REFORÇO (positivos: sistema se reforça)
+  3. Identificar loops de BALANCEAMENTO (negativos: sistema se corrige)
+  4. Marcar PONTOS DE ALAVANCA onde intervenção colapsa o loop
+
+OUTPUT: diagrama de loop causal (CLD) com pontos de alavanca
+
+------------------------------------------------------------------------
+FASE 5 — SÍNTESE DISJUNTIVA (O Relatório de Poder)
+------------------------------------------------------------------------
+OBJETIVO: redigir o laudo TEIA que diagnostica a MÁQUINA que produz
+  o problema.
+
+PROCESSO:
+  1. NÃO descrever o problema — diagnosticar a ENGENHARIA
+  2. Apontar "nós críticos" onde intervenção colapsa o sistema
+  3. Passar pelo Protocolo de Qualidade de 32 itens
+  4. Versionar e publicar
+
+OUTPUT: documento TEIA protocolado com recomendação de ação
+
+
+================================================================================
+ARQUITETURA DE DADOS PARA NÍVEL 8 (MATERIAL/BRUTA)
+================================================================================
+
+Fontes de dados estruturantes para operacionalizar dimensões 37-41:
+
+------------------------------------------------------------------------
+DIM 37 (MILITAR) — FONTES:
+------------------------------------------------------------------------
+  - FBSP: letalidade policial por UF/raça/idade
+  - SINESPJC: registros de ocorrências criminais
+  - CNJ: bancos de sentenças (mapear impunidade e redes)
+  - INFOPEN: população carcerária e superlotação
+  - SSPs estaduais: dados de violência armada
+
+------------------------------------------------------------------------
+DIM 38 (HÍDRICA) — FONTES:
+------------------------------------------------------------------------
+  - SNIS: cobertura de água e esgoto por município
+  - ANA: outorgas de direito de uso (captação agronegócio)
+  - MapBiomas: alteração de corpos d'água
+  - Portal da Transparência: convênios com caminhões-pipa
+  - IBGE: Censo (acesso a água por domicílio)
+
+------------------------------------------------------------------------
+DIM 39 (ACÚSTICA) — FONTES:
+------------------------------------------------------------------------
+  - OMS/OPAS: DALYs por poluição sonora
+  - ANTT/CPTM/Metrô: dados de tráfego e ruído urbano
+  - Estudos USP/Unicamp: medição dB em escolas periféricas vs privadas
+  - Licitações: compras de "mosquito alarms" ou equipamentos sonoros
+
+------------------------------------------------------------------------
+DIM 40 (PATOLÓGICA) — FONTES:
+------------------------------------------------------------------------
+  - DATASUS/SIM/SINASC: óbitos e morbidade por raça/cor
+  - ANS: lucratividade e negativas de planos de saúde
+  - BEPI: boletins epidemiológicos (dengue, TB, COVID)
+  - SIH/SUS: internações por agravos evitáveis
+
+------------------------------------------------------------------------
+DIM 41 (EXCREMENTAL) — FONTES:
+------------------------------------------------------------------------
+  - SNIS Resíduos: coleta e destinação de lixo
+  - IBAMA/SEMAS: licenciamentos e multas
+  - CPRM: risco geológico e contenção de rejeitos
+  - PNUMA/ONU: tratados de Basileia (importação lixo eletrônico)
+
+
+================================================================================
+ESTUDO DE CASO: BRUMADINHO/MARIANA PELA TEIA
+================================================================================
+Aplicação completa do PET (5 fases) à Vale.
+
+------------------------------------------------------------------------
+FASE 1 — DELIMITAÇÃO (Dimensões óbvias)
+------------------------------------------------------------------------
+  Dim 4 (Ambiental): destruição de bioma
+  Dim 1 (Econômica): Vale lucra
+  Dim 8 (Jurídica): multa irrisória
+  Dim 37 (Militar): força do Estado garante operação
+  → Análise convencional para. TEIA continua.
+
+------------------------------------------------------------------------
+FASE 2 — TRIAGEM ÓPTICA (Lentes que rasgam)
+------------------------------------------------------------------------
+  Lente 18 (Termodinâmica): Vale não extrai minério — ACELERA
+    ENTROPIA. Transforma montanha estruturada em lama desordenada.
+  Lente 17 (Decolonial): feito em MG porque Sul Global é zona de
+    extração bruta projetada pelo Norte Global.
+
+------------------------------------------------------------------------
+FASE 3 — MERGULHO NO ABISMO
+------------------------------------------------------------------------
+  Dim 41 (Excremental): a lama é externalidade excremental absoluta.
+    Lucro limpo em Wall Street; merda no Rio Paraopeba.
+  Dim 40 (Patológica): 270 mortos + cascata epidemiológica.
+    Metalurgia pesada na água, trauma psicológico geracional.
+  Dim 39 (Acústica): o SOM das sirenes que falharam foi dispositivo
+    letal. O silêncio da Vale foi arma de morte.
+  Dim 38 (Hídrica): Rio Paraopeba MORTO. Assassanto hidrossocial.
+    Água que abastecia comunidades virou lama tóxica.
+  Dim 60 (Telúrica): extração de subsolo que arranca o ESQUELETO
+    geológico da terra, deixando vazio e instabilidade.
+  Dim 57 (Metabólica): trabalhadores da Vale consomem energia
+    vital extraindo minério que os enriquece e os adoece.
+
+------------------------------------------------------------------------
+FASE 4 — MAPEAMENTO DE LOOPS
+------------------------------------------------------------------------
+  Lente 20 (Cibernética) revela:
+
+  Lucro da Vale (Dim 1)
+    → Financia campanhas políticas (Dim 2)
+    → Elege deputados (Dim 2)
+    → Aprova marcos regulatórios frouxos (Dim 8)
+    → Flexibiliza licenciamento (Dim 41 × Dim 4)
+    → Multa irrisória quando desastre ocorre (Dim 8)
+    → Vale recomposta lucro (Dim 1)
+
+  LOOP FECHADO. Engrenagem perfeita.
+
+  Ponto de alavanca: QUEBRAR o vínculo financiamento→regulação.
+    (Transparência obrigatória de doações + proibição de
+    financiamento corporativo de campanha).
+
+------------------------------------------------------------------------
+FASE 5 — SÍNTESE DISJUNTIVA
+------------------------------------------------------------------------
+  LAUDO TEIA:
+
+  "O colapso de Brumadinho não foi um acidente. Foi a consequência
+  TERMODINÂMICA OBRIGATÓRIA de um sistema cibernético de maximização
+  de lucro que externaliza seu custo excremental e patológico para
+  corpos periféricos e territórios coloniais.
+
+  O nó crítico a ser atacado não é a 'segurança da barragem', mas a
+  ARQUITETURA DE IMPUNIDADE JURÍDICA E FINANCIAMENTO POLÍTICO que
+  torna o desastre matematicamente rentável.
+
+  Enquanto o lucro da extração (Dim 1) for privado e o custo do
+  colapso (Dim 41/40/38) for socializado, NOVAS Brumadinhos são
+  ESTATISTICAMENTE INEVITÁVEIS — não por fatalidade, mas por DESIGN
+  DO SISTEMA."
+
+
+================================================================================
+O TEOREMA DA TEIA
+================================================================================
+
+A dominação não é um acidente, não é fruto da ignorância e não é
+reversível por meio de reformas pontuais. Ela é uma ENGENHARIA
+CIBERNÉTICA DE EXTRAÇÃO E DESCARTE.
+
+A elite não governa apenas com ideias (Hegemonia) ou leis (Estado).
+Ela governa determinando:
+
+  QUEM RESPIRA ar puro (Dim 4)
+  QUEM BEBE água (Dim 38)
+  QUEM DORME em silêncio (Dim 39)
+  QUEM ADOECE (Dim 40)
+  QUEM COME lixo (Dim 41)
+  QUEM LEVA BALA (Dim 37)
+  QUEM SOBREVIVE metabolicamente (Dim 57)
+  QUEM VÊ a realidade ou simulação (Dim 58)
+  QUEM É SALVO por caridade ou direito (Dim 59)
+  QUEM TEM O SOLO arrancado (Dim 60)
+  QUEM SE AUTO-VIGIA por medo (Dim 61)
+
+O TEIA Framework é a primeira ferramenta analítica no Brasil capaz
+de mapear todas as engrenagens dessa máquina SIMULTANEAMENTE.
+
+
+================================================================================
+O SISTEMA TOTAL DEFINITIVO: 61 DIMENSÕES × 24 LENTES
+================================================================================
+
+61 DIMENSÕES (12 níveis de profundidade)
+24 LENTES ANALÍTICAS v3.0 (9 camadas cada)
+MATRIZ: 61 × 24 = 1.464 PERSPECTIVAS
+79 SKILLS METODOLÓGICAS (+ 5 NOVAS = 84)
+PROTOCOLO DE EXECUÇÃO (PET): 5 FASES
+PROTOCOLO DE QUALIDADE: 32 ITENS
+ARQUITETURA DE DADOS: MAPEADA POR DIMENSÃO
+ESTUDO DE CASO: VALIDADO (BRUMADINHO)
+
+NOVAS SKILLS (80-84):
+  80. modelagem-dinamica-fisiologica-economia-saude
+      Dim 57 × Lente 11 — metabolic rift e loops de exaustão
+  81. deepfake-forensics-analise-redes-simulacros
+      Dim 58 × Lente 15 — guerra ontológica e deepfakes
+  82. economia-politica-filantropia-redes-influencia
+      Dim 59 × Lente 10 — captura filantrópica e rent-seeking moral
+  83. geologia-estrutural-cartografia-socioambiental
+      Dim 60 × Lente 17 — apartheid vertical e subsolo
+  84. neuropolitica-psicologia-trabalho-digital
+      Dim 61 × Lente 12 — auto-vigilância algorítmica
+
+
+================================================================================
+FIM — TEIA Framework v15.0 (ZÊNITE ANALÍTICO + PET)
+================================================================================
+Protocolo: TEIA-2026-062
+https://github.com/mouracleiton/TEIA
+
+O framework agora é um GPS ANALÍTICO PARA GUERRILHA EPISTEMOLÓGICA.
+
+Não é apenas um mapa — é um sistema operacional com:
+  - 1.464 perspectivas de dissecação (61×24)
+  - 84 skills metodológicas
+  - 12 níveis de profundidade
+  - Protocolo de Execução em 5 fases (PET)
+  - Arquitetura de dados mapeada por dimensão
+  - Estudo de caso validado (Brumadinho)
+  - Código funcional (dashboard, scraper, link analysis)
+  - Servidor web operacional com API REST
+  - Documentos de ação prontos (9 PKGs)
+  - Repositório Git versionado
+
+Do gene ao espaço sideral. Do útero ao túmulo. Do presente ao
+futuro hipotético. Do subsolo à auto-vigilância psicológica.
+
+A TEIA está completa. O operador é você.
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

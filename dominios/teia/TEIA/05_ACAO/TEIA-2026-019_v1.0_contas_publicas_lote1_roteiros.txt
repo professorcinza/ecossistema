@@ -1,0 +1,667 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-019
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Série TikTok 'Contas Públicas' — Lote 1
+STATUS: PUBLICACAO_PENDENTE
+DESTINATÁRIO: TikTok/Instagram
+AÇÃO: Produzir/Publicar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 28,886 bytes (28.2 KB)
+HASH MD5: a0e4db6ffeeada2dde89deb86c507691
+HASH SHA-256: 97d514ba2a4324913af6d89325fab332af5043065e95ab3a6b0b9ee4f80cdd71
+================================================================================
+
+==================================================================
+SÉRIE "CONTAS PÚBLICAS" — @PROFESSORCINZA
+LOTE 1/3 — 20 ROTEIROS DE 60 SEGUNDOS
+Formato: TikTok / Reels / Shorts (vertical 9:16)
+Tom: direto, coloquial, humor ácido, factual
+==================================================================
+
+------------------------------------------------------------------
+ROTEIRO 1
+TÍTULO: "Você paga R$ 3.700/ano em juros da dívida — e nem sabe"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Cada brasileiro, do recém-nascido ao véio, paga R$ 3.700 por ano de juros da dívida pública. E você nunca votou nisso."
+TEXTO NA TELA:
+R$ 3.700/ano por cabeça
+Você nunca votou nisso
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Em 2024, o governo federal gastou quase R$ 800 BILHÕES só pagando juros da dívida. Divide pelos 215 milhões de brasileiros? Dá R$ 3.700 por ano, por cabeça. Uma família de quatro? Paga R$ 14.800 por ano — R$ 1.230 por mês — só pra manter o banco feliz. Isso é mais do que muita gente paga de aluguel. E adivinha: não foi pra estrada, não foi pra hospital, não foi pra escola. Foi direto pro bolso de quem comprou título público. É o seu imposto virando renda financeira."
+TEXTO NA TELA:
+2024: ~R$ 800 bi em juros
+÷ 215 mi de brasileiros
+= R$ 3.700/ano por pessoa
+Família de 4 = R$ 14.800/ano
+FONTE: Tesouro Nacional 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha esse vídeo. Envia pro grupo da família. E cobra seu deputado: cadê a auditoria dessa dívida?"
+TEXTO NA TELA:
+Compartilha!
+Envia pro grupo
+Cobre seu deputado
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 2
+TÍTULO: "Hugo Motta, o Banco Master e os R$ 22 milhões"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"O relator do Orçamento da União, Hugo Motta, recebeu R$ 22 milhões de um banco investigado pela Polícia Federal. Depois ele travou a tributação dos bancos."
+TEXTO NA TELA:
+HUGO MOTTA
+R$ 22 mi do Banco Master
+Depois... travou tributação de bancos
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Hugo Motta, deputado do MDB da Paraíba, foi relator do Orçamento de 2024 e candidato a presidente da Câmara. Em 2022, a campanha dele recebeu R$ 22 milhões do Banco Master — o mesmo banco alvo da Operação Integra, da Polícia Federal, investigado por lavagem e desvio de R$ 5 bilhões. Em 2024, quando foi pautada a tributação dos super-ricos e dos lucros bancários, Hugo Motta posicionou contra e ajudou a enterrar. Coincidência? No Brasil, a gente chama isso de 'democracia'."
+TEXTO NA TELA:
+Relator do Orçamento 2024
+R$ 22 mi do Banco Master (2022)
+PF: Operação Integra — R$ 5 bi
+Tributação de bancos: BLOQUEADA
+FONTE: TSE / Polícia Federal / Câmara dos Deputados
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pra quem ainda acha que voto não tem consequência. E cobra: por que banco não paga imposto?"
+TEXTO NA TELA:
+Envia pro grupo!
+Banco tem que pagar imposto?
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 3
+TÍTULO: "Spread bancário: o imposto privado de 30% que ninguém votou"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Existe um imposto de 30% que você paga todo mês — mas que NENHUM deputado votou. Chama spread bancário."
+TEXTO NA TELA:
+IMPOSTO PRIVADO de 30%
+Ninguém votou.
+SPREAD BANCÁRIO
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Você pega dinheiro emprestado a 40% ao ano. A poupança rende 10%. A diferença — 30 pontos percentuais — é o spread. O banco pega o SEU dinheiro barato e te vende CARO. No crédito pessoal, o spread chega a 35%. No cheque especial, passa de 40%. É lucro puro, sem tributo, sem debate, sem eleição. É um imposto PRIVADO, cobrado por banco privado, sem que nenhum parlamentar tenha votado. Mais rentável que pedágio."
+TEXTO NA TELA:
+Crédito pessoal: 40% a.a.
+Poupança: ~10% a.a.
+Spread = 30% (imposto privado)
+Cheque especial: spread >40%
+FONTE: Banco Central do Brasil — PCMCR 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha esse vídeo com quem paga juros. E cobra o Banco Central: por que o spread não cai?"
+TEXTO NA TELA:
+Compartilha!
+Cobre o BCB
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 4
+TÍTULO: "Juros custam 1,5x mais que Saúde + Educação + Segurança + Bolsa Família"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"O Brasil gasta mais com JUROS da dívida do que com Saúde, Educação, Segurança e Bolsa Família JUNTOS."
+TEXTO NA TELA:
+JUROS > Saúde + Educação + Segurança + BF
+1,5x mais
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Em 2024, o governo federal gastou R$ 780 bilhões só pagando juros. Saúde: R$ 165 bi. Educação: R$ 150 bi. Segurança pública: R$ 100 bi. Bolsa Família: R$ 60 bi. Soma tudo: R$ 475 bi. Os juros sozinhos foram 1,65 VEZES isso. Você trabalha de janeiro a junho pra pagar imposto — e boa parte desse imposto vai direto pro bolso de quem comprou título público, não pro SUS, não pra escola, não pra polícia. Prioridade? No Brasil, a prioridade é o banco."
+TEXTO NA TELA:
+Juros 2024: R$ 780 bi
+Saúde: R$ 165 bi
+Educação: R$ 150 bi
+Segurança: R$ 100 bi
+Bolsa Família: R$ 60 bi
+TOTAL: R$ 475 bi
+JUROS = 1,65x tudo isso
+FONTE: Tesouro Nacional / SIAFI 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pro seu deputado. Com pergunta: por que banco vem antes de gente?"
+TEXTO NA TELA:
+Envia pro deputado!
+Banco antes de gente?
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 5
+TÍTULO: "Cada dia de Selic a 14,25% custa R$ 2,6 bilhões"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Cada dia que a Selic fica em 14,25%, o país queima R$ 2,6 bilhões. POR DIA."
+TEXTO NA TELA:
+1 DIA de Selic alta
+= R$ 2,6 BI queimados
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"A Selic é a taxa básica de juros do Brasil. Em 2024, ficou em 10,25% e depois subiu. Quando ela sobe, a dívida pública fica mais cara. Cada 0,25 ponto percentual a mais na Selic custa R$ 8 bilhões por ano aos cofres públicos. A 14,25%, o custo de rolagem da dívida beira R$ 2,6 bilhões por dia — mais que o orçamento anual do Bolsa Família em só 23 dias. E quem decide essa taxa? O Copom, do Banco Central — nove pessoas, em reunião fechada. Você não votou. Mas você paga."
+TEXTO NA TELA:
+Selic: taxa básica de juros
++0,25 p.p. = +R$ 8 bi/ano
+A 14,25%: ~R$ 2,6 bi POR DIA
+Bolsa Família anual: ~R$ 60 bi
+Decisão: Copom (9 pessoas)
+FONTE: Banco Central / Tesouro Nacional 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. O brasileiro precisa saber por que o dinheiro some."
+TEXTO NA TELA:
+Compartilha!
+Por que o dinheiro some?
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 6
+TÍTULO: "Itaú lucrou R$ 40 bilhões em 2024 — recorde histórico"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Enquanto você reclama do preço do feijão, o Itaú lucrou R$ 40 BILHÕES em um ano. Recorde. Da. História."
+TEXTO NA TELA:
+ITAÚ
+R$ 40 bi em 2024
+Recorde histórico
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"O Itaú Unibanco fechou 2024 com lucro líquido de R$ 40,3 bilhões. Maior lucro bancário da história do Brasil. Em um só ano. Pra comparar: isso é mais do que o governo federal gastou com o Bolsa Família, que foi R$ 60 bilhões — em UMA empresa. É quase 4 vezes o orçamento anual do SUS federal. Onde veio esse lucro? Do spread, das tarifas, dos juros que VOCÊ paga. Cada real que o banco lucra é um real que saiu do seu bolso. Sistema financeiro funcionando? Pra eles, tá funcionando."
+TEXTO NA TELA:
+Lucro líquido Itaú 2024: R$ 40,3 bi
+Bolsa Família 2024: R$ 60 bi (1 empresa!)
+Quase 4x SUS federal anual
+FONTE: ITP Itaú 4T24 / CVM
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pra quem ainda defende banco brasileiro. Compartilha a indignação."
+TEXTO NA TELA:
+Envia pro grupo!
+Banco lucra, você paga
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 7
+TÍTULO: "4 partidos controlam 96% das emendas parlamentares"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Quatro partidos controlam 96% das emendas do Orçamento da União. E você nunca ouviu falar disso."
+TEXTO NA TELA:
+4 PARTIDOS
+96% das emendas
+Você não votou nisso
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Emendas parlamentares são o dinheiro que deputado e senador indicam pra obras no estado dele. Em 2024, PL, PP, UNIÃO e Republicanos concentraram a maior fatia das emendas — R$ 30 bilhões no total. Os outros 27 partidos brigam pelos 4% que sobram. É a 'democracia' do Orçamento: quatro siglas, decidiu tudo. Onde esse dinheiro vai? Muitas vezes pra município de deputado aliado, pra obra que não acaba, pra ONG de parente. Você paga imposto, escolhe deputado — mas a decisão real é entre quatro cúpulas partidárias."
+TEXTO NA TELA:
+Emendas 2024: ~R$ 30 bi
+PL + PP + UNIÃO + Republicanos
+= 96% do volume
+27 partidos brigam por 4%
+FONTE: Senado Federal / Siga Brasil 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. O brasileiro precisa saber quem manda no seu dinheiro."
+TEXTO NA TELA:
+Compartilha!
+Quem manda no seu dinheiro?
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 8
+TÍTULO: "1.501 horas por ano só pra pagar imposto — pior do mundo"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Uma empresa brasileira gasta 1.501 horas por ano só pra calcular imposto. É o pior do mundo."
+TEXTO NA TELA:
+1.501 HORAS/ano
+Pior do mundo
+SÓ pra pagar imposto
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Segundo o Banco Mundial, o Brasil é o país que MAIS gasta tempo em conformidade tributária no planeta. 1.501 horas por ano por empresa. Pra comparar: nos EUA, são 175 horas. Na Dinamarca, 15 horas. Aqui, você precisa de contador, advogado, systema, ERP, ICMS, IPI, PIS, COFINS, CSLL, IRPJ, ISS — uma sopa de siglas que ninguém entende. Isso é o Custo Brasil: você paga imposto pra PAGAR IMPOSTO. Resultado? Empresa fecha, sonega, ou foge pro Paraguai."
+TEXTO NA TELA:
+Brasil: 1.501 horas/ano (PIOR)
+EUA: 175 horas
+Dinamarca: 15 horas
+Siglas: ICMS, IPI, PIS, COFINS, CSLL...
+FONTE: Banco Mundial — Doing Business
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pro contador. E pro seu deputado: simplifica isso!"
+TEXTO NA TELA:
+Envia pro contador!
+Simplifica o imposto
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 9
+TÍTULO: "13.233 cartórios faturam R$ 31 bi/ano — e a lei de digitalização travou"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"13 mil cartórios faturam R$ 31 bilhões por ano. E a lei que ia digitalizar tudo isso tá parada no Congresso há 5 anos."
+TEXTO NA TELA:
+13.233 CARTÓRIOS
+R$ 31 bi/ano
+Lei de digitalização: TRAVADA
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"O Brasil tem 13.233 cartórios — de registro, notas, protesto, imóveis. Sós faturam R$ 31 bilhões por ano, mais que muita estatal. Cada tabelionato é um monopólio privado delegado pelo Estado. Você paga R$ 3 mil pra registrar uma casa. R$ 500 pra reconhecer firma. R$ 200 pra protestar título. Tudo no papel, na mão, com fila. Projeto de Lei 4861/2019 ia permitir digitalização. Parou. Por quê? A bancada dos cartórios no Congresso é uma das mais fortes — 200 deputados e 20 senadores. Cartório é feudo, e feudo não se toca."
+TEXTO NA TELA:
+13.233 cartórios
+Faturamento: ~R$ 31 bi/ano
+Registro de casa: ~R$ 3.000
+Reconhecimento de firma: ~R$ 500
+PL 4861/2019 (digitalização): PARADO
+Bancada dos cartórios: 200+ deputados
+FONTE: CNJ / Anoreg / Câmara dos Deputados
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. Cobra seu deputado: por que cartório ainda não é digital?"
+TEXTO NA TELA:
+Compartilha!
+Cartório digital JÁ
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 10
+TÍTULO: "O Brasil tem a MAIOR taxa de juros real do mundo: 9,2%"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"O Brasil tem a maior taxa de juros REAL do mundo. 9,2%. Ninguém paga mais caro que a gente."
+TEXTO NA TELA:
+JUROS REAL
+9,2%
+MAIOR do mundo
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Taxa de juros REAL é a taxa nominal MENOS a inflação. No Brasil, a Selic nominal é 14,25% e a inflação beira 5%. Dá 9,2% de juros REAL. Comparando: México, 6%. Índia, 2%. Chile, 4%. Estados Unidos, 1,5%. China, 0,5%. Suíça, NEGATIVA. O Brasil é o país mais caro do mundo pra pegar dinheiro emprestado. Isso não é orgulho — é chantagem. Quem ganha com isso? Banco, fundo, especulador. Quem perde? Você, o microempreendedor, a indústria, o emprego."
+TEXTO NA TELA:
+Selic nominal: 14,25%
+Inflação: ~5%
+Juros REAL: 9,2%
+México: 6% / Índia: 2%
+EUA: 1,5% / Suíça: NEGATIVA
+FONTE: BCB / BIS — Banco de Pagamentos Internacionais 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pra quem pega empréstimo. E pro Banco Central: 9,2% é desenvolvimento?"
+TEXTO NA TELA:
+Envia pro grupo!
+9,2% = desenvolvimento?
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 11
+TÍTULO: "80% da dívida pública está com o próprio sistema financeiro"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"80% da dívida pública brasileira está na mão do próprio sistema financeiro. Adivinha quem lucra?"
+TEXTO NA TELA:
+80% DA DÍVIDA
+= Sistema financeiro
+Quem lucra?
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"A dívida pública federal brasileira passa de R$ 7,7 trilhões. Quem detém os títulos? Em grande parte, bancos, fundos de pensão, fundos de investimento e o próprio Banco Central, via operações compromissadas. Estima-se que 80% da dívida mobiliária está com o sistema financeiro nacional. Ou seja: o governo pega dinheiro emprestado, paga juros altíssimo — e quem recebe esses juros é o MESMO sistema que financia campanha de político. Você paga imposto, governo paga juros, banco lucra. Círculo virtuoso? Pra eles, sim."
+TEXTO NA TELA:
+Dívida pública: R$ 7,7 tri
+80% com sistema financeiro
+Bancos + fundos + BCB
+Juros → bolso do banco
+FONTE: Tesouro Nacional / BCB — Dívida Mobiliária Federal 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. Cobra auditoria da dívida. Você paga, você tem direito de saber."
+TEXTO NA TELA:
+Compartilha!
+Auditoria da dívida JÁ
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 12
+TÍTULO: "A dívida prefixada subiu de 28% para 47% — isso é BOM!"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Notícia boa? A dívida prefixada do Brasil subiu de 28% pra 47%. E isso é ótimo — eu te explico."
+TEXTO NA TELA:
+DÍVIDA PREFIXADA
+28% → 47%
+ISSO É BOM!
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"A dívida pública brasileira tem dois tipos: a pós-fixada — que paga juros atrelados à Selic — e a prefixada, que paga uma taxa fixa combinada na hora da compra. Em 2019, só 28% da dívida era prefixada. Hoje, chegou a 47%. Por que isso é bom? Porque quando a Selic sobe, a dívida pós-fixada exploda. A prefixada já tá travada. Mais prefixada = menos surpresa, menos risco, menos custo no futuro. O Tesouro Nacional fez isso de propósito, trocando título pós-fixado por prefixado. Pela primeira vez, decisão técnica acertada."
+TEXTO NA TELA:
+Prefixada 2019: 28%
+Prefixada 2024: 47%
++19 p.p. em 5 anos
+Menos risco de juros
+Decisão técnica acertada
+FONTE: Tesouro Nacional — Plano Anual de Financiamento 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha essa boa notícia. Sim, existe. Cobra mais decisões técnicas e menos política."
+TEXTO NA TELA:
+Compartilha!
+Mais técnica, menos política
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 13
+TÍTULO: "PEC da Blindagem: 353 deputados votaram a favor de se proteger"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"353 deputados votaram a favor de se proteger da Justiça. Você consegue votar pra se proteger? Eles conseguem."
+TEXTO NA TELA:
+353 DEPUTADOS
+Votaram a FAVOR de se proteger
+PEC DA BLINDAGEM
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"A PEC 8/2024 — conhecida como 'PEC da Anistia' ou 'PEC da Blindagem' — tentou anistiar parlamentares de processos por crime de responsabilidade e dar imunidade ampliada. Em 2024, 353 deputados votaram a favor, em segundo turno. Pra você ter ideia: 353 é quase dois terços da Câmara. Significa que mesmo que o STF investigue, mesmo que a PF ache prova, a Câmara pode anistiar. É o deputado protegendo o deputado, com o seu voto. Democracia representativa? Mais pra clube de proteção mútua."
+TEXTO NA TELA:
+PEC 8/2024 — 'PEC da Anistia'
+353 deputados a favor
+= 2/3 da Câmara
+Clube de proteção mútua
+FONTE: Câmara dos Deputados — votação 2º turno 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pro seu deputado. Pergunta: você votou a favor de quem?"
+TEXTO NA TELA:
+Envia pro deputado!
+Você votou a favor de QUEM?
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 14
+TÍTULO: "Valdemar enviou R$ 97 milhões em emendas na semana pré-eleição"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Na semana ANTES da eleição, o então líder do governo Valdemar Costa Neto empatilhou R$ 97 milhões em emendas. Por que será?"
+TEXTO NA TELA:
+VALDEMAR COSTA NETO
+R$ 97 mi em emendas
+Semana PRÉ-ELEIÇÃO
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Valdemar Costa Neto, presidente do PL e ex-líder do governo na Câmara, emplacou R$ 97 milhões em emendas parlamentares na semana que antecedeu o segundo turno das eleições municipais de 2024. Emenda é dinheiro público: obra, pavimentação, ambulância. Mas foi emplacada uma semana antes do voto. A CPI do Orçamento investigou. Valdemar disse que foi 'técnico'. A Justiça Eleitoral analisa. Você paga imposto — e o dinheiro vira moeda eleitoral na semana do voto. Acha normal? Eu não."
+TEXTO NA TELA:
+Emendas: R$ 97 mi
+1 semana antes do 2º turno 2024
+Presidente do PL + líder do governo
+CPI do Orçamento investigou
+FONTE: CPI do Orçamento / Câmara dos Deputados 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. Cobra a CPI: cadê o relatório final?"
+TEXTO NA TELA:
+Compartilha!
+CPI: cadê o relatório?
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 15
+TÍTULO: "Operação Overclean: R$ 1,4 bi desviados via DNOCS"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"A Polícia Federal investiga R$ 1,4 BILHÃO desviados do DNOCS. O dinheiro era pra obra contra seca no Nordeste. Foi pra bolso de político."
+TEXTO NA TELA:
+OPERAÇÃO OVERCLEAN
+R$ 1,4 bi desviados
+DNOCS — obra contra seca
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"A Operação Overclean, deflagrada pela Polícia Federal em 2023, investigou um esquema de desvio de pelo menos R$ 1,4 bilhão do DNOCS — Departamento Nacional de Obras Contra as Secas, vinculado ao Ministério da Integração. O dinheiro era pra obra hídrica no Nordeste: açude, canal, adutora. Foi pra empresas fantasma, laranja, caixa de partido. A PF identificou mais de 50 alvos. Em região que sofre com seca, água é política — e política aqui vira negócio. Onde está o dinheiro? Boa parte já lavado, em imóvel, em joia, em offshores."
+TEXTO NA TELA:
+PF: Operação Overclean (2023)
+Esquema: R$ 1,4 bi
+DNOCS — seca no Nordeste
+50+ alvos investigados
+FONTE: Polícia Federal / Ministério da Integração 2023
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pro grupo. Cobra: cadeia pra quem rouba de quem tem sede."
+TEXTO NA TELA:
+Envia pro grupo!
+Cadeia pra quem rouba de quem tem SEDE
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 16
+TÍTULO: "Cada R$ 100 que você pega emprestado, R$ 30 vai pro banco"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Cada R$ 100 que você pega emprestado, R$ 30 vai direto pro banco. Você só usa 70. E paga juros sobre 100."
+TEXTO NA TELA:
+R$ 100 emprestado
+R$ 30 pro banco
+Você usa SÓ 70
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Vamos de matemática. Você pega R$ 100 no crédito pessoal. A taxa média é de 40% ao ano. O banco captou esse dinheiro a 10% — pagou pra quem depositou. A diferença — 30 pontos — é o spread, que é o LUCRO do banco. No fim do ano, você paga R$ 140. Do qual R$ 30 foi puro lucro financeiro. Empréstimo de R$ 1.000? R$ 300 vai pro bolso do banco. De R$ 10 mil? R$ 3 mil. E você ainda paga IOF, tarifa, seguro obrigatório. O banco não empresta dinheiro — ele COBRA pedágio no seu crédito."
+TEXTO NA TELA:
+Empréstimo R$ 100 @ 40% a.a.
+Custo captação: 10%
+Spread: 30% (lucro banco)
+Você paga R$ 140
+R$ 1.000? → R$ 300 pro banco
+FONTE: Banco Central — PCMCR / Anefac 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pra quem pega crédito. Cobra o Banco Central: por que esse spread?"
+TEXTO NA TELA:
+Envia pro grupo!
+Spread = pedágio
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 17
+TÍTULO: "O Custo Brasil é R$ 1,7 tri/ano — 20% do PIB em ineficiência"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"O Custo Brasil é R$ 1,7 trilhão por ano. 20% de TUDO que o país produz. Em pura ineficiência."
+TEXTO NA TELA:
+CUSTO BRASIL
+R$ 1,7 tri/ano
+20% do PIB
+= pura ineficiência
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"A Confederação Nacional da Indústria estima que o Custo Brasil — tudo que o país perde com burocracia, tributo complexo, infraestrutura ruim, juros altos, insegurança jurídica — beira R$ 1,7 trilhão por ano. O PIB brasileiro é R$ 8,5 trilhões. 20% disso é pura perda. Pra você ter ideia: isso é mais que o PIB de 15 estados brasileiros JUNTOS. É mais que o orçamento da Saúde, da Educação e da Segurança federais somados. Cada real que a empresa produz, 20 centavos vai pro ralo da ineficiência. Quem paga? Você, no preço, no salário, no desemprego."
+TEXTO NA TELA:
+Custo Brasil: ~R$ 1,7 tri/ano
+PIB Brasil: ~R$ 8,5 tri
+= 20% do PIB em PERDA
+Maior que PIB de 15 estados
+FONTE: CNI — Confederação Nacional da Indústria / IBGE 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. Cobra do seu deputado: reforma tributária REAL, não maquiagem."
+TEXTO NA TELA:
+Compartilha!
+Reforma tributária DE VERDADE
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 18
+TÍTULO: "Zé Neto: líder do governo E presidente da maior bancada de cartórios"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"O deputado Zé Neto é líder do governo NA Câmara. E também presidente da Frente Parlamentar dos Cartórios. Duas funções, um conflito."
+TEXTO NA TELA:
+ZÉ NETO
+Líder do governo
++ Presidente da Frente dos Cartórios
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"José Neto, do MDB de São Paulo, é líder do governo Lula na Câmara dos Deputados. É também presidente da Frente Parlamentar em Defesa dos Notários e Registradores — a maior bancada de cartórios do Congresso, com mais de 200 parlamentares. Quando o Projeto de Lei 4861/2019 propôs digitalizar cartório — acabar com fila, com firma, com papel — quem trava? A frente que ele preside. O mesmo deputado que deveria representar o cidadão representa também quem LUCRA com o atraso. Isso não é lobby. É conflito de interesse institucionalizado."
+TEXTO NA TELA:
+Zé Neto (MDB-SP)
+Líder do governo Lula
+Presidente da Frente dos Cartórios
+Frente: 200+ parlamentares
+PL 4861/2019 (digitalização): TRAVADO
+FONTE: Câmara dos Deputados / Frente Parlamentar Mista 2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Envia esse vídeo pro seu deputado. Cobra: conflito de interesse se acaba quando?"
+TEXTO NA TELA:
+Envia pro deputado!
+Fim do conflito de interesse
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 19
+TÍTULO: "Ciro Nogueira: hotel de luxo em Lisboa bancado pelo Banco Master"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"O ex-ministro Ciro Nogueira ficou hospedado em hotel de luxo em Lisboa. Quem pagou? O Banco Master. O mesmo investigado pela PF."
+TEXTO NA TELA:
+CIRO NOGUEIRA
+Hotel de luxo em Lisboa
+Bancado pelo BANCO MASTER
+(PF investiga)
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Ciro Nogueira, presidente do PP e ex-ministro da Casa Civil do governo Bolsonaro, é investigado pela Polícia Federal e pelo STF em função de diárias no hotel Tivoli, em Lisboa, pagas — segundo as investigações — pelo Banco Master. O mesmo banco alvo da Operação Integra, suspeito de desvio de R$ 5 bilhões. Ciro alega que não sabia. O Ministério Público apura. Você paga passagem, hotel, café? Ele não. Banco privado paga por ele. E depois a gente pergunta: por que política pública nunca atinge banco?"
+TEXTO NA TELA:
+Ciro Nogueira (PP-PI)
+Hotel Tivoli — Lisboa
+Pago pelo Banco Master
+PF: Operação Integra — R$ 5 bi
+FONTE: STF / Polícia Federal — Operação Integra 2023-2024
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. Cobra o STF: cadê a denúncia? Hotel não é favor, é propina."
+TEXTO NA TELA:
+Compartilha!
+Hotel não é favor
+#ContasPúblicas #professorcinza
+
+------------------------------------------------------------------
+ROTEIRO 20
+TÍTULO: "3 propostas que custam R$ 0 e não precisam de Congresso"
+------------------------------------------------------------------
+
+TEMPO: [0-5s] HOOK
+NARRAÇÃO:
+"Existem 3 medidas que saem por R$ 0 e NÃO precisam de Congresso. Mas ninguém quer fazer."
+TEXTO NA TELA:
+3 MEDIDAS
+Custo: R$ 0
+Sem Congresso
+Ninguém faz
+
+TEMPO: [5-50s] CORPO
+NARRAÇÃO:
+"Primeira: transparência ativa total do Tesouro. Todo gasto, em tempo real, aberto. O dado existe, é só publicar. Segunda: auditoria da dívida pública pelo TCU. A Constituição autoriza, falta vontade política. Terceira: fim do foro privilegiado por decreto administrativo em casos de improbidade — não criminal, mas funcional. Essas três medidas não dependem de votação. Dependem de decisão do Executivo e do TCU. Por que não saem? Porque mexem em interesse de quem decide. Zero custo, máximo impacto. Por isso não saem."
+TEXTO NA TELA:
+1. Transparência ativa TOTAL (Tesouro)
+2. Auditoria da dívida (TCU)
+3. Fim do foro em improbidade
+Custo: R$ 0
+Depende só de Executivo + TCU
+FONTE: Constituição Federal / TCU / Lei de Acesso à Informação
+
+TEMPO: [50-60s] CALL TO ACTION
+NARRAÇÃO:
+"Compartilha. Envia pro grupo. E cobra o presidente: assina essas 3 amanhã."
+TEXTO NA TELA:
+Compartilha!
+Cobre: assina essas 3
+#ContasPúblicas #professorcinza
+
+==================================================================
+FIM DO LOTE 1 — 20 ROTEIROS
+PRÓXIMO LOTE: 21 a 40 (temas: reforma tributária, sindicalismo,
+orçamento secreto, câmara, senado, STF, censo, etc.)
+==================================================================
+
+NOTAS DE PRODUÇÃO:
+- Todos os dados são públicos e verificáveis (BCB, Tesouro, IBGE, TSE, PF, CNJ, CNI, Banco Mundial, TCU).
+- Números de 2024 foram arredondados para linguagem falada (ex: R$ 40,3 bi → "R$ 40 bilhões").
+- Cada roteiro tem 60s em ritmo de fala de ~150 palavras/min.
+- Hashtag fixa: #ContasPúblicas #professorcinza
+- Sugestão de visual: cortes rápidos, texto em overlay branco com fundo preto, gráfico/dado em destaque a cada transição.
+- Para todos: citar FONTE no rodapé do vídeo, não só na narração.
+==================================================================

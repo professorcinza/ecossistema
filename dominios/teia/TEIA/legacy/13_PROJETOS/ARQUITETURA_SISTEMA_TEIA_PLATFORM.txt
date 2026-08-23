@@ -1,0 +1,639 @@
+================================================================================
+ARQUITETURA DE SISTEMA — TEIA PLATFORM
+================================================================================
+Sistema unificado: API REST + Web + Mobile + IA + Scraping + Alertas
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Protocolo: TEIA-2026-064
+Data: Julho/2026
+================================================================================
+
+VISÃO GERAL
+
+A TEIA Platform é o sistema operacional completo que transforma o
+metodologia analítico (66 dimensões × 24 lentes × 1.584 perspectivas)
+em uma plataforma de inteligência acessível via web, mobile, API e IA.
+
+O sistema já tem componentes funcionais:
+- Dashboard web Flask (localhost:5000) — OPERACIONAL
+- API REST com 9 endpoints — OPERACIONAL
+- Scraper de emendas (CGU API) — OPERACIONAL
+- Link analysis (grafo de poder) — OPERACIONAL
+- JSON Schema do metodologia — OPERACIONAL
+
+A arquitetura abaixo integra tudo num SISTEMA ÚNICO coeso.
+
+
+================================================================================
+ARQUITETURA EM 5 CAMADAS
+================================================================================
+
+┌──────────────────────────────────────────────────────┐
+│              CAMADA 5: CLIENTES                       │
+│   Web (React/Next) · Mobile (Flutter) · Bot (TG)     │
+├──────────────────────────────────────────────────────┤
+│              CAMADA 4: API GATEWAY                    │
+│   REST (FastAPI) · WebSocket · Auth (JWT) · Rate Lim │
+├──────────────────────────────────────────────────────┤
+│              CAMADA 3: SERVIÇOS                       │
+│   IA Analítica · Scraper · Alertas · PET Engine       │
+├──────────────────────────────────────────────────────┤
+│              CAMADA 2: DADOS                          │
+│   PostgreSQL · Redis (cache) · S3 (arquivos)          │
+├──────────────────────────────────────────────────────┤
+│              CAMADA 1: COLETORES                      │
+│   CGU · BCB · TSE · IBGE · INPE · DATASUS · STF      │
+└──────────────────────────────────────────────────────┘
+
+
+================================================================================
+CAMADA 1 — COLETORES (Data Ingestion)
+================================================================================
+
+Módulos Python que coletam dados de fontes públicas automaticamente.
+
+------------------------------------------------------------------------
+1.1 COLETOR CGU (Portal da Transparência)
+------------------------------------------------------------------------
+ARQUIVO: collectors/cgu_collector.py
+FONTE: https://portaldatransparencia.gov.br/api-de-dados
+DADOS: emendas parlamentares, convênios, sanções, servidores
+FREQUÊNCIA: diária
+STATUS: scraper_emendas.py JÁ EXISTE (funcional)
+
+ENDPOINTS DA API CGU:
+  GET /emendas?ano=2024&municipio=X
+  GET /convenios?municipio=X
+  GET /despesas?orgao=X&ano=2024
+  GET /servidores?orgao=X
+
+OUTPUT: JSON normalizado → PostgreSQL (tabela: emendas, convenios)
+
+------------------------------------------------------------------------
+1.2 COLETOR BCB (Banco Central)
+------------------------------------------------------------------------
+ARQUIVO: collectors/bcb_collector.py
+FONTE: https://olinda.bcb.gov.br/olinda/servico/SGS
+DADOS: Selic, spread (SGS 20783), crédito, inadimplência
+FREQUÊNCIA: diária (séries diárias) / mensal
+STATUS: A CONSTRUIR
+
+ENDPOINTS:
+  GET /sgs/{codigo_serie}?dataInicial=YYYY-MM-DD
+  Códigos: 11 (Selic), 20783 (spread), 20542 (crédito)
+
+OUTPUT: JSON → PostgreSQL (tabela: series_bcb)
+
+------------------------------------------------------------------------
+1.3 COLETOR TSE (Justiça Eleitoral)
+------------------------------------------------------------------------
+ARQUIVO: collectors/tse_collector.py
+FONTE: https://divulgacandcontas.tse.jus.br/
+DADOS: candidaturas, doações, prestação de contas, resultados
+FREQUÊNCIA: ciclo eleitoral + atualizações
+STATUS: A CONSTRUIR
+
+OUTPUT: JSON → PostgreSQL (tabela: candidatos, doacoes)
+
+------------------------------------------------------------------------
+1.4 COLETOR IBGE
+------------------------------------------------------------------------
+ARQUIVO: collectors/ibge_collector.py
+FONTE: https://servicodados.ibge.gov.br/api
+DADOS: PIB, IPCA, população, Censo, IDH-M
+FREQUÊNCIA: mensal/anual
+STATUS: A CONSTRUIR
+
+------------------------------------------------------------------------
+1.5 COLETOR STF
+------------------------------------------------------------------------
+ARQUIVO: collectors/stf_collector.py
+FONTE: https://portal.stf.jus.br/api/
+DADOS: ADIs, ADPFs, decisões, andamento processual
+FREQUÊNCIA: diária
+STATUS: A CONSTRUIR
+
+------------------------------------------------------------------------
+1.6 COLETOR INPE
+------------------------------------------------------------------------
+ARQUIVO: collectors/inpe_collector.py
+FONTE: http://www.inpe.br/deter/ / http://www.obt.inpe.br/PRODES
+DADOS: desmatamento PRODES, DETER, focos de queimada
+FREQUÊNCIA: diária (DETER) / anual (PRODES)
+STATUS: A CONSTRUIR
+
+------------------------------------------------------------------------
+1.7 COLETOR DATASUS
+------------------------------------------------------------------------
+ARQUIVO: collectors/datasus_collector.py
+FONTE: ftp.datasus.gov.br / API TABNET
+DADOS: SIM, SINASC, SIH, morbidade por município/raça
+FREQUÊNCIA: mensal
+STATUS: A CONSTRUIR
+
+------------------------------------------------------------------------
+1.8 ORQUESTRADOR (Agendador)
+------------------------------------------------------------------------
+ARQUIVO: collectors/orchestrator.py
+FERRAMENTA: APScheduler ou Celery Beat
+FUNÇÃO: executar cada coletor na frequência definida
+  - Diário: CGU, BCB, STF, INPE
+  - Mensal: IBGE, DATASUS
+  - Ciclo: TSE
+OUTPUT: logs de execução + alertas se coletor falhar
+
+
+================================================================================
+CAMADA 2 — DADOS (Storage)
+================================================================================
+
+------------------------------------------------------------------------
+2.1 POSTGRESQL (banco principal)
+------------------------------------------------------------------------
+DATABASE: teia_db
+
+TABELAS PRINCIPAIS:
+  dim_emendas (id, parlamentar, partido, uf, municipio, valor, ano, status)
+  dim_series_bcb (id, serie_codigo, valor, data)
+  dim_candidatos (id, nome, partido, cargo, ano, uf)
+  dim_doacoes (id, candidato_id, doador, valor, tipo, ano)
+  dim_desmatamento (id, municipio, uf, area_km2, ano, fonte)
+  dim_mortalidade (id, municipio, causa, faixa_etaria, raca, ano)
+  dim_stf_decisoes (id, tipo, numero, relator, data, ementa)
+  dim_licitacoes (id, orgao, municipio, valor, fornecedor, cnpj, data)
+  veto_players (id, nome, partido, uf, cargo, prg, vju, vel, vfi, pod, ide, mud, ali)
+  metodologias_docs (id, protocolo, titulo, versao, categoria, hash_md5, caminho)
+
+ÍNDICES:
+  - GIST para dados geográficos (PostGIS)
+  - B-tree para consultas por parlamentar/município/ano
+  - Full-text search para documentos e decisões
+
+------------------------------------------------------------------------
+2.2 REDIS (cache + filas)
+------------------------------------------------------------------------
+  - Cache de resultados de API (TTL 1h para dados que mudam diariamente)
+  - Fila de tarefas (Celery) para scrapers e análises
+  - Pub/Sub para alertas em tempo real (WebSocket)
+
+------------------------------------------------------------------------
+2.3 S3 / FILESYSTEM (arquivos)
+------------------------------------------------------------------------
+  - Documentos TEIA (PDFs, dossiês, petições)
+  - Grafos exportados (PNG, GraphML)
+  - Screenshots de licitações
+  - Backups do banco
+
+
+================================================================================
+CAMADA 3 — SERVIÇOS (Business Logic)
+================================================================================
+
+------------------------------------------------------------------------
+3.1 IA ANALÍTICA (TEIA Intelligence Engine)
+------------------------------------------------------------------------
+ARQUIVO: services/ia_engine.py
+INPUT: pergunta em linguagem natural ou parâmetros estruturados
+OUTPUT: análise estruturada aplicando a matriz 66×24
+
+ENDPOINTS:
+  POST /api/ia/analyze
+    Body: {"fenomeno": "Expansão miliciana na Baixada",
+           "dims": [37, 10, 1],
+           "lentes": [23, 17]}
+    Response: análise com PET de 5 fases
+
+  POST /api/ia/pet
+    Body: {"fenomeno": "X", "fase": 1}
+    Response: sugestão de dimensões e lentes
+
+FUNIONAMENTO:
+  1. Recebe fenômeno + parâmetros
+  2. Consulta JSON Schema para mapear dimensões e lentes
+  3. Busca dados no PostgreSQL
+  4. Aplica técnicas (z-score, Monte Carlo, link analysis)
+  5. Retorna análise estruturada
+
+------------------------------------------------------------------------
+3.2 PET ENGINE (Protocolo de Execução)
+------------------------------------------------------------------------
+ARQUIVO: services/pet_engine.py
+FUNÇÃO: executar as 5 fases do PET automaticamente
+
+  fase_1(fenomeno) → seleciona 3-5 dimensões de superfície
+  fase_2(dims) → seleciona 2-3 lentes que rasgam
+  fase_3(dims, lentes) → mergulha em dimensões profundas
+  fase_4(dims_profundas) → mapeia loops e pontos de alavanca
+  fase_5(tudo) → gera laudo TEIA
+
+------------------------------------------------------------------------
+3.3 DETECTOR DE ANOMALIAS
+------------------------------------------------------------------------
+ARQUIVO: services/anomaly_detector.py
+FUNÇÃO: rodar z-score + Isolation Forest nos dados coletados
+
+  detect_anomalies(table="dim_emendas", column="valor", method="zscore")
+  → retorna ranking de anomalias
+
+  detect_anomalies(table="dim_licitacoes", method="isolation_forest")
+  → retorna licitações com padrão anômalo
+
+ALERTAS:
+  Se anomalia > threshold → dispara alerta (Redis pub/sub)
+
+------------------------------------------------------------------------
+3.4 MONTE CARLO ENGINE
+------------------------------------------------------------------------
+ARQUIVO: services/monte_carlo.py
+FUNÇÃO: calcular probabilidade de cooptação/neutralização
+
+  simulate(actor="Hugo Motta", strategy="S6_CPI_STF", n=10000)
+  → retorna {coop: 0.87, neut: 0.90, comb: 0.987, p10: 0.985, p90: 0.989}
+
+------------------------------------------------------------------------
+3.5 LINK ANALYSIS ENGINE
+------------------------------------------------------------------------
+ARQUIVO: services/link_analysis.py
+FUNÇÃO: construir e analisar grafos de poder
+JÁ EXISTE: link_analysis.py (funcional com networkx)
+
+  build_graph(data_source="tse_doacoes")
+  → grafo de conexões político-empresariais
+
+  find_critical_nodes(graph)
+  → hubs com alta centralidade/betweenness
+
+------------------------------------------------------------------------
+3.6 SISTEMA DE ALERTAS
+------------------------------------------------------------------------
+ARQUIVO: services/alert_system.py
+FUNÇÃO: monitorar mudanças e disparar notificações
+
+GATILHOS:
+  - Emenda com valor > 3 desvios-padrão da média do parlamentar
+  - Spread bancário muda > 0,5 p.p. em um mês
+  - Nova decisão STF sobre ADPF 854
+  - Nova operação PF deflagrada
+  - Desmatamento > threshold mensal
+  - Votação nominal agendada para tema monitorado
+
+CANAIS:
+  - WebSocket (dashboard em tempo real)
+  - Telegram bot (alertas no celular)
+  - Email (resumo diário)
+
+
+================================================================================
+CAMADA 4 — API GATEWAY
+================================================================================
+
+------------------------------------------------------------------------
+4.1 REST API (FastAPI)
+------------------------------------------------------------------------
+ARQUIVO: api/main.py
+METODOLOGIA: FastAPI (substitui Flask para produção)
+DOC AUTO: /docs (Swagger/OpenAPI)
+
+ENDPOINTS ORGANIZADOS POR MÓDULO:
+
+  === DADOS ===
+  GET  /api/juros               — juros da DPF
+  GET  /api/spread              — spread bancário + decomposição
+  GET  /api/selic               — impacto fiscal da Selic
+  GET  /api/emendas             — emendas parlamentares
+  GET  /api/custo               — Custo Brasil
+  GET  /api/bigtech             — gasto Big Tech
+  GET  /api/all                 — todos os dados
+
+  === POLÍTICA ===
+  GET  /api/estado               — estado do sistema político
+  GET  /api/veto-players         — lista de veto players + scores
+  GET  /api/veto-player/{nome}   — perfil completo de um ator
+  GET  /api/pauta                — pauta da Câmara/Senado hoje
+  GET  /api/parlamentares         — lista filtrável
+
+  === ANÁLISE ===
+  POST /api/ia/analyze           — análise com IA (PET)
+  POST /api/monte-carlo          — simulação de probabilidade
+  POST /api/anomaly-detect       — detecção de anomalias
+  GET  /api/link-analysis        — grafo de poder
+  GET  /api/dashboard            — dashboard completo
+
+  === METODOLOGIA ===
+  GET  /api/metodologia/schema     — JSON Schema completo
+  GET  /api/metodologia/dims       — lista de 66 dimensões
+  GET  /api/metodologia/lentes     — lista de 24 lentes
+  GET  /api/metodologia/dim/{id}   — detalhe de uma dimensão
+  GET  /api/metodologia/lente/{id} — detalhe de uma lente
+
+  === SISTEMA ===
+  GET  /api/health               — health check
+  GET  /api/status               — status do sistema
+
+------------------------------------------------------------------------
+4.2 AUTENTICAÇÃO
+------------------------------------------------------------------------
+  JWT (JSON Web Token)
+  - Login: POST /api/auth/login (email + senha)
+  - Register: POST /api/auth/register
+  - Refresh: POST /api/auth/refresh
+  - Níveis: public (leitura), analyst (escrita), admin (gestão)
+
+------------------------------------------------------------------------
+4.3 RATE LIMITING
+------------------------------------------------------------------------
+  - Público: 100 req/hora
+  - Autenticado: 1000 req/hora
+  - Premium: 10000 req/hora
+
+------------------------------------------------------------------------
+4.4 WEBSOCKET
+------------------------------------------------------------------------
+  WS /ws/alerts — alertas em tempo real
+  WS /ws/dashboard — atualização do dashboard ao vivo
+
+
+================================================================================
+CAMADA 5 — CLIENTES (Interfaces)
+================================================================================
+
+------------------------------------------------------------------------
+5.1 WEB (React/Next.js)
+------------------------------------------------------------------------
+ARQUIVO: web/ (repositório separado ou monorepo)
+
+PÁGINAS:
+  /                — Dashboard principal (dark neon)
+  /emendas         — mapa de calor de emendas por município
+  /juros           — custo fiscal da Selic ao vivo
+  /veto-players    — perfis e scores de veto players
+  /grafo           — visualização interativa do grafo de poder
+  /pet             — interface do Protocolo de Execução
+  /framework       — navegador da matriz 66×24
+  /alertas         — centro de alertas
+  /docs            — documentação da API
+
+TECNOLOGIAS:
+  - Next.js 14+ (SSR + static)
+  - TailwindCSS (dark theme)
+  - D3.js / vis.js (grafos interativos)
+  - MapBox / Leaflet (mapas)
+  - Chart.js (gráficos)
+  - WebSocket client (alertas em tempo real)
+
+------------------------------------------------------------------------
+5.2 MOBILE (Flutter)
+------------------------------------------------------------------------
+ARQUIVO: mobile/ (app "Minha Cidade, Meu Dinheiro")
+
+TELAS:
+  - Home: dashboard compacto (juros/minuto, spread, estado político)
+  - Minha Cidade: emendas do município do usuário (GPS)
+  - Alertas: notificações push de mudanças
+  - Parlamentar: ficha do deputado/senador (votações, emendas, doações)
+  - Denúncia: foto-denúncia de obra abandonada
+  - Metodologia: navegador da matriz (simplificado)
+
+TECNOLOGIAS:
+  - Flutter 3.x (Android + iOS)
+  - Push notifications (Firebase Cloud Messaging)
+  - Offline-first (SQLite local + sync)
+  - GPS (localização do município)
+
+------------------------------------------------------------------------
+5.3 BOT TELEGRAM
+------------------------------------------------------------------------
+ARQUIVO: bots/telegram_bot.py
+
+COMANDOS:
+  /start — boas-vindas + menu
+  /juros — custo da Selic hoje
+  /spread — spread bancário atual
+  /emendas {municipio} — emendas do município
+  /parlamentar {nome} — perfil do parlamentar
+  /alerta — configurar alertas
+  /pet {fenomeno} — iniciar análise PET
+  /estado — estado do sistema político
+
+TECNOLOGIAS:
+  - python-telegram-bot
+  - Webhook (modo produção) ou polling (desenvolvimento)
+
+------------------------------------------------------------------------
+5.4 CLI (Terminal)
+------------------------------------------------------------------------
+ARQUIVO: cli/teia_cli.py
+
+COMANDOS:
+  teia scan estado           — estado do sistema político
+  teia scan pauta            — pauta de hoje
+  teia scan vetoplayer {nome}— perfil de ator
+  teia scan emendas {cidade} — emendas do município
+  teia scan selic            — custo da Selic
+  teia exec pet {tema}       — executar PET
+  teia exec montecarlo {ator} {estrategia}
+  teia analise anomaly {tabela}
+  teia system status        — status do repositório
+  teia system protocol {novo} — gerar protocolo
+
+TECNOLOGIAS:
+  - Click (Python CLI metodologia)
+  - Rich (terminal formatting)
+
+
+================================================================================
+INFRAESTRUTURA DE DEPLOY
+================================================================================
+
+------------------------------------------------------------------------
+OPÇÃO A: DOCKER COMPOSE (self-hosted no servidor i5)
+------------------------------------------------------------------------
+ARQUIVO: docker-compose.yml
+
+SERVIÇOS:
+  - api: FastAPI (porta 8000)
+  - web: Next.js (porta 3000)
+  - db: PostgreSQL 16 + PostGIS (porta 5432)
+  - redis: Redis 7 (porta 6379)
+  - collector: scheduler (background)
+  - telegram_bot: polling (background)
+
+RECURSOS MÍNIMOS:
+  - CPU: 2 cores (i5-3210M Ivy Bridge)
+  - RAM: 8GB dedicados (16GB total)
+  - Disco: 20GB disponíveis
+
+------------------------------------------------------------------------
+OPÇÃO B: CLOUD (Render/Railway + Neon + Upstash)
+------------------------------------------------------------------------
+  API: Render Web Service (FastAPI)
+  Web: Render Static Site (Next.js export)
+  DB: Neon (PostgreSQL serverless)
+  Redis: Upstash (Redis serverless)
+  Bot: Render Background Worker
+
+VANTAGEM: deploy automático do GitHub
+CUSTO: tier gratuito disponível
+
+
+================================================================================
+MODELO DE DADOS (PostgreSQL Schema)
+================================================================================
+
+```sql
+-- Tabela: emendas_parlamentares
+CREATE TABLE emendas_parlamentares (
+    id SERIAL PRIMARY KEY,
+    parlamentar VARCHAR(255),
+    partido VARCHAR(10),
+    uf VARCHAR(2),
+    municipio VARCHAR(255),
+    valor DECIMAL(15,2),
+    ano INTEGER,
+    tipo VARCHAR(50),
+    status VARCHAR(50),
+    data_pagamento DATE,
+    empresa_cnpj VARCHAR(18),
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tabela: veto_players
+CREATE TABLE veto_players (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(255) UNIQUE,
+    partido VARCHAR(10),
+    uf VARCHAR(2),
+    cargo VARCHAR(255),
+    prg INTEGER, vju INTEGER, vel INTEGER, vfi INTEGER,
+    pod INTEGER, ide INTEGER, mud INTEGER, ali INTEGER,
+    p_cooptacao DECIMAL(5,4),
+    p_neutralizacao DECIMAL(5,4),
+    p_combinada DECIMAL(5,4),
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tabela: series_temporais
+CREATE TABLE series_temporais (
+    id SERIAL PRIMARY KEY,
+    codigo VARCHAR(20),
+    fonte VARCHAR(50),
+    valor DECIMAL(15,4),
+    data DATE,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tabela: alertas
+CREATE TABLE alertas (
+    id SERIAL PRIMARY KEY,
+    tipo VARCHAR(50),
+    severidade VARCHAR(20),
+    titulo TEXT,
+    descricao TEXT,
+    dados JSONB,
+    data TIMESTAMP DEFAULT NOW(),
+    lido BOOLEAN DEFAULT FALSE
+);
+
+-- Tabela: documentos_teia
+CREATE TABLE documentos_teia (
+    id SERIAL PRIMARY KEY,
+    protocolo VARCHAR(20) UNIQUE,
+    titulo TEXT,
+    versao VARCHAR(10),
+    categoria VARCHAR(50),
+    status VARCHAR(30),
+    hash_md5 VARCHAR(32),
+    caminho TEXT,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+```
+
+
+================================================================================
+ROADMAP DE IMPLEMENTAÇÃO
+================================================================================
+
+FASE 1 (SEMANA 1-2): MIGRAR FLASK → FASTAPI
+  [ ] Instalar FastAPI + uvicorn
+  [ ] Migrar endpoints existentes (9 endpoints)
+  [ ] Adicionar Swagger/OpenAPI automático
+  [ ] Adicionar autenticação JWT
+  [ ] Docker compose básico (api + db)
+
+FASE 2 (SEMANA 3-4): BANCO DE DADOS + COLETORES
+  [ ] Criar schema PostgreSQL
+  [ ] Migrar scraper_emendas.py para coletor com DB
+  [ ] Construir coletor BCB
+  [ ] Construir coletor TSE (básico)
+  [ ] Implementar orquestrador (APScheduler)
+
+FASE 3 (SEMANA 5-6): SERVIÇOS DE ANÁLISE
+  [ ] IA Engine (consulta JSON Schema + DB)
+  [ ] PET Engine (5 fases automatizadas)
+  [ ] Detector de anomalias (z-score + Isolation Forest)
+  [ ] Monte Carlo como serviço
+  [ ] Link analysis como serviço
+
+FASE 4 (SEMANA 7-8): WEB FRONTEND
+  [ ] Setup Next.js + TailwindCSS
+  [ ] Dashboard principal (dark neon)
+  [ ] Mapa de emendas (Leaflet)
+  [ ] Grafo de poder (D3.js)
+  [ ] Metodologia browser (66×24)
+  [ ] Login + auth
+
+FASE 5 (SEMANA 9-10): MOBILE + BOT
+  [ ] Flutter app (básico)
+  [ ] Telegram bot
+  [ ] Push notifications
+  [ ] CLI tool
+
+FASE 6 (SEMANA 11-12): DEPLOY + MONITORAMENTO
+  [ ] Docker compose completo
+  [ ] Deploy (cloud ou self-hosted)
+  [ ] Monitoramento (health checks)
+  [ ] Backup automático
+  [ ] Documentação final
+
+
+================================================================================
+STACK TECNOLÓGICA RESUMO
+================================================================================
+
+BACKEND:
+  - Python 3.11+
+  - FastAPI (REST + WebSocket)
+  - SQLAlchemy (ORM)
+  - APScheduler/Celery (background)
+  - PyTorch/scikit-learn (IA + anomalias)
+  - NetworkX (grafos)
+
+DADOS:
+  - PostgreSQL 16 + PostGIS
+  - Redis 7
+  - S3 (arquivos)
+
+FRONTEND WEB:
+  - Next.js 14+
+  - TailwindCSS
+  - D3.js / vis.js
+  - Leaflet / MapBox
+  - Chart.js
+
+MOBILE:
+  - Flutter 3.x
+  - SQLite (offline)
+  - Firebase (push)
+
+INFRA:
+  - Docker Compose
+  - Nginx (reverse proxy)
+  - Let's Encrypt (SSL)
+  - GitHub Actions (CI/CD)
+
+
+================================================================================
+FIM — ARQUITETURA TEIA PLATFORM
+================================================================================
+Protocolo: TEIA-2026-064
+================================================================================

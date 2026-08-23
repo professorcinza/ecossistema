@@ -1,0 +1,876 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-022
+VERSÃO: v1.0
+CATEGORIA: 06_TERRITORIAL
+TÍTULO: Transferências Constitucionais (FPE/FPM/FUNDEB)
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 46,687 bytes (45.6 KB)
+HASH MD5: 27af383eb9534dc7f9a918ec1133af4f
+HASH SHA-256: 8c07d16252d77c7232423994d51304884882e504350a0daf9d49640fa302fa84
+================================================================================
+
+================================================================================
+DIAGNÓSTICO TÉCNICO — EIXO 1: TRANSFERÊNCIAS CONSTITUCIONAIS NO BRASIL
+Como R$ 500+ bilhões/ano são distribuídos entre estados e municípios
+================================================================================
+Autor destinatário : Cleiton Moura (analista geopolítico/econômico)
+Data de referência  : julho/2026
+Base territorial   : 27 unidades federativas (26 estados + DF); 5.570 municípios
+Fontes primárias   : STN (Secretaria do Tesouro Nacional), TCU, ANP, DOU,
+                     IBGE, Receita Federal, FNDE/MEC, SUDENE/SUDAM/SUDECO,
+                     FGV IBRE, Portal da Transparência, Portais Estaduais
+Sinopse metodológica : valores correntes nominais em R$; agregados 2024
+                     consolidados; projetados 2025 quando indicado. Quando
+                     valores forem estimativas a partir de dados parciais,
+                     serão marcados com (~).
+================================================================================
+
+################################################################################
+SEÇÃO 0 — VISÃO EXECUTIVA / PANORAMA GERAL
+################################################################################
+
+O sistema brasileiro de transferências intergovernamentais constitui o maior
+mecanismo de redistribuição fiscal federativa do mundo em PIB percentual entre
+países de renda média. Em 2024, o conjunto das transferências da União para
+estados, DF e municípios (constitucionais + legais + voluntárias) atingiu
+aproximadamente R$ 595,7 bilhões — recorde histórico, alta real de 5,2% sobre
+2023 e de 43,2% ante 2019 (pré-pandemia), segundo Braulio Borges / FGV IBRE,
+Carta do IBRE fev/2025 (fonte: portalibre.fgv.br). O Portal Transparência Brasil
+aponta evolução para R$ 761,86 bilhões em 2025, somando também convênios e
+emendas pix, com municípios recebendo o maior volume da história: R$ 338,87
+bilhões só em 2024.
+
+A arquitetura compreende seis pilares principais:
+ (a) FPE — Fundo de Participação dos Estados e do DF;
+ (b) FPM — Fundo de Participação dos Municípios;
+ (c) FUNDEB — Fundo de Manutenção e Desenvolvimento da Educação Básica e de
+              Valorização dos Profissionais da Educação;
+ (d) transferências voluntárias (convênios, emendas parlamentares impositivas,
+     emendas de comissão, emendas de relator, emendas de bancada);
+ (e) transferências legais específicas — CIDE-Combustíveis, IPI-Exportação,
+     LC 87/96 (Lei Kandir / LC 176/2020), ITCD, ITR, IPVA, IOF, imposto de renda
+     retido na fonte sobre servidores federais;
+ (f) royalties e participações especiais do petróleo (regimes de concessão,
+     cessão onerosa e partilha da produção).
+
+A essas somam-se os três Fundos Constitucionais de Financiamento Regionais
+(FNE, FNO, FCO) e as transferências do Fundo Constitucional do DF (FCDF),
+instrumentos de desenvolvimento regional operados pela SUDENE, SUDAM e SUDECO.
+
+ORDEM DE GRANDEZA 2024 (estimativa consolidada, valores correntes):
+- FPE ................. ~R$ 109 bilhões (variação conforme mês/extração STN)
+- FPM ................. ~R$ 216,2 bilhões (acumulado 12 meses até dez/2024,
+                       segundo CNM e Tesouro; inclui cotas extras de 1% jul,
+                       0,5% set, 1% dez)
+- FUNDEB (total) ...... ~R$ 287 bilhões (R$ 241,5 bi contribuições de estados
+                       e municípios + R$ 45,9 bi complementação União; revista
+                       em ago/24 para R$ 47,8 bi complementação)
+- CIDE-Combustíveis ... ~R$ 8 a 10 bilhões distribuídos (renúncia de R$ 34,3 bi
+                       no total PIS/COFINS/CIDE em 2024 conforme Infomoney)
+- IPI-Exportação ...... parcela complementar vinculada à desoneração de
+                       exportações (vetor residual)
+- Lei Kandir (LC 176) . parcela de R$ 4 bilhões/ano entre 2020 e 2030, total
+                       pactuado de R$ 58 bilhões até 2037
+- Royalties do petróleo ~ R$ 36 a 40 bilhões/ano distribuídos a União, estados
+                       e municípios (R$ 37,8 bi em 2023, segundo Gazeta do Povo;
+                       recorde mensal de R$ 8,91 bi em abr/2026 segundo ANP)
+- Emendas parlamentares R$ 33,6 bilhões em emendas impositivas em 2024 + R$ 19,4
+                       bi emendas de comissão + emendas de bancada/relator
+                       (g1, ago/2024; CNN, 2024); total previsto na LOA 2024
+                       chegou a R$ 53 bilhões
+- FNE 2025 ............ R$ 47,29 bilhões (alta de 18,6% sobre 2024)
+- FNO 2024 ............ R$ 14,88 bilhões (R$ 9 bi em 2025)
+- FCO 2024 ............ R$ 12,159 bilhões (+16% sobre 2023)
+
+Somatório das transferências constitucionais, legais e voluntárias da União
+para entes subnacionais em 2024: ~R$ 595,7 bilhões. Adicionando-se repasses
+estaduais para municípios (IPM, cota-parte ICMS, IPI-Exp, IPVA, ITR), o fluxo
+intergovernamental total do联邦ismo fiscal brasileiro supera R$ 750 bilhões/ano.
+
+################################################################################
+SEÇÃO 1 — ARQUITETURA DO SISTEMA
+################################################################################
+
+================================================================
+1.1 FPE — FUNDO DE PARTICIPAÇÃO DOS ESTADOS E DO DF
+================================================================
+
+BASE CONSTITUCIONAL E LEGAL
+- Art. 159, I, "a", da CF/88: 21,5% da arrecadação do IR + IPI são destinados
+  ao FPE.
+- Distribuição entre estados conforme coeficientes individuais fixados
+  pelo TCU, com base na Lei Complementar nº 62/1989 (regras vigentes desde
+  1989, prorrogadas várias vezes).
+- Em 2013, Senado aprovou LC com novos critérios, mas a presidenta Dilma
+  vetou o dispositivo que alterava o rateio; as regras da LC 62/89
+  permaneceram. STF declarou-as inconstitucionais em decisões liminares
+  (ADI 4917, entre outras), mas sem substituí-las.
+- Para 2024, vigora a Decisão Normativa TCU nº 203/2023, com coeficientes
+  individuais por UF publicados no DOU.
+
+CRITÉRIO DE RATEIO (LC 62/89)
+- 85% do total destinado às regiões Norte, Nordeste e Centro-Oeste.
+- 15% às regiões Sul e Sudeste.
+- Internamente, distribuição nominal por "coeficientes individuais" que
+  ponderam (em tese) população, renda per capita inversa e área — mas
+  em prática são congelados há décadas, sem re cálculo metodológico
+  regular (ver Seção 3).
+
+VALORES 2024-2025
+- FPE 2024: estimativa ~R$ 109 bilhões distribuídos no ano (extrapolando
+  repasses mensais da STN — ex.: primeira parcela de dezembro/2024 e
+  última parcela confirmam faixa superior a R$ 100 bi/ano).
+- Para o estado do Ceará, o FPE representa aproximadamente R$ 9,5 bi/ano
+  (segunda principal receita estadual após ICMS).
+- Para Bahia, FPE é ~R$ 12 bilhões/ano (principal receptor histórico).
+- Para Acre, FPE representa ~70% da receita estadual total (acima de
+  R$ 5,5 bilhões no acumulado de dez anos 2015-2024 — o estado recebeu
+  R$ 56,5 bi em transferências constitucionais totais na década segundo
+  o Tesouro, Juruaemtempo, jan/2026).
+- Piauí, Tocantins, Rondônia, Roraima, Amapá, Acre, Maranhão e Alagoas
+  têm FPE respondendo por 50-80% da receita corrente (dependência extrema).
+
+PRINCIPAIS RECEPTORES HISTÓRICOS (base STN, ordem decrescente):
+ 1. Bahia
+ 2. Ceará
+ 3. Maranhão
+ 4. Pernambuco
+ 5. Pará
+ 6. Piauí
+ 7. Paraíba
+ 8. Alagoas
+ 9. Rio Grande do Norte
+10. Amazonas
+
+DISTRIBUIÇÃO INVERSAMENTE PROPORCIONAL À CONTRIBUIÇÃO:
+- Sul + Sudeste respondem por ~65% do PIB nacional, ~60% da arrecadação
+  federal de IR+IPI, mas recebem apenas 15% do FPE.
+- Norte + Nordeste + Centro-Oeste contribuem com ~35% do PIB e recebem 85%
+  do FPE.
+- Caso paradigmático: Amazonas em 2024 recebeu MENOS FPE que Acre, Amapá
+  e Tocantins, apesar de possuir população ~4x maior (realtime1, dez/2024).
+
+================================================================
+1.2 FPM — FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS
+================================================================
+
+BASE CONSTITUCIONAL E LEGAL
+- Art. 159, I, "b" e "d", e §2º da CF/88.
+- 23,5% da arrecadação de IR + IPI vão ao FPM (repartidos em três cotas):
+   * Cota Estados (10%) — distribuída aos municípios das capitais + DF;
+   * Cota Reserva (1%) — exclusiva para municípios com população > 156 mil
+     e capitais (inclui ainda municípios emancipados);
+   * Cota Interior (86,4%) — para os demais municípios, distribuída conforme
+     coeficiente individual ponderado por população e renda per capita
+     (Decreto-Lei 1.881/1981, ainda vigente para a Cota-Interior).
+
+DISTRIBUIÇÃO INTERNA DA COTA-INTERIOR
+- Coeficiente individual por município, faixas populacionais:
+   * Até 10.188 habitantes: coeficiente 0,6 (mínimo);
+   * Acima de 156 mil hab.: coeficiente 4,0 (teto);
+- Renda per capita municipal atua como redutor/aumento dentro da faixa.
+- Diferença extrema: município de 2 mil hab. recebe coeficiente proporcional
+  0,6/2.000 = 0,0003 per capita; município de 12 milhões (São Paulo)
+  recebe 4,0/12.000.000 = 0,00000033 per capita — ou seja, o per capita
+  recebido por municípios pequenos chega a ser até 100x maior que em
+  metrópoles (fonte: USP, Radio USP, estudo Mation/Boueri/Monasterio 2012).
+
+VALORES 2024-2025
+- Acumulado 12 meses até dez/2024: ~R$ 216,2 bilhões, alta nominal de 16,34%
+  sobre 2023 e 11,59% em termos reais (descontada inflação IPCA), conforme
+  CNM e blog Eduardo Rego (dez/2024). Aporte extra de R$ 30 bilhões ante 2023.
+- Repasses mensais típicos em 2024: R$ 4-7 bilhões/parcela, em três
+  decêndios mensais (10, 20 e 30).
+- Repasse extra de dezembro/2024 (1% adicional da cota-parte): R$ 15,89
+  bilhões liberados em 09/12/2024 (gov.br/sri).
+
+PRINCIPAIS RECEPTORES DO FPM EM VALORES ABSOLUTOS
+- São Paulo, Rio de Janeiro, Salvador, Fortaleza, Brasília (DF), Belo
+  Horizonte, Manaus, Recife, Porto Alegre, Curitiba — em razão de população.
+
+PRINCIPAIS RECEPTORES PER CAPITA (tipologia IBGE/REGIC 2018)
+- Municípios da categoria "aldeias" e "centros locais" (84% do total de
+  municípios, mas apenas 25% da população e 20% da riqueza) recebem
+  FPM per capita substancialmente maior do que as metrópoles (USP, 2024).
+- Pequenos municípios das regiões Norte e Nordeste lideram per capita.
+
+DISTRIBUIÇÃO POR REGIÕES — FPM 2024 (aproximado):
+- Nordeste: ~36-39% do FPM;
+- Sudeste: ~30-32%;
+- Sul: ~13-15%;
+- Norte: ~8-9%;
+- Centro-Oeste: ~6-7%.
+
+================================================================
+1.3 FUNDEB — FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA
+================================================================
+
+BASE CONSTITUCIONAL — NOVA REDAÇÃO EC 108/2020
+- Substituiu o antigo FUNDEF (vigente de 1996 a 2006) e o FUNDEB original
+  (2007-2020). Com a EC 108/2020, o FUNDEB tornou-se PERMANENTE na CF/88
+  (antes era temporário) e ampliou a complementação da União.
+- Art. 212-A da CF/88 com redação da EC 108/2020:
+   * 70% dos recursos vinculados à manutenção e desenvolvimento do ensino
+     (MDE) de estados, DF e municípios são contabilizados no FUNDEB;
+   * 30% permanecem com o ente arrecadador.
+- COMPLEMENTAÇÃO DA UNIÃO (novidade chave da EC 108/2020):
+   * Subiu progressivamente de 10% (2021) para 23% (2026) do total do fundo;
+   * Distribuída em três modalidades:
+      - VAAF — Valor Anual por Aluno para a complementação do Fundo;
+      - VAAT — Valor Anual Total por Aluno (mínimo nacional);
+      - VAAR — Valor Anual por aluno para a Redistribuição (novo critério
+        introduzido pela EC 108 para equalização entre redes com diferentes
+        capacidades fiscais).
+
+CRITÉRIO DE RATEIO
+- Distribuição proporcional ao número de matrículas da educação básica
+  (creche, pré-escola, ensino fundamental, ensino médio, EJA, educação
+  especial, indígena, quilombola, profissionalizante) com pesos (fatores
+  de ponderação) por etapa/modalidade.
+- A complementação VAAR é dirigida a redes cujo VAAT (capacidade própria
+  por aluno) é inferior ao VAAT-Mínimo nacional.
+
+VALORES 2024-2025
+- Estimativa inicial 2024 (Portaria Interministerial MEC/MF nº 6, de
+  28/12/2023): R$ 241,5 bilhões de contribuições de estados/DF/municípios
+  + R$ 45,9 bilhões de complementação da União = R$ 287,4 bilhões totais.
+- Atualização ago/2024 (Portaria MEC/MF nº 8, de 27/08/2024): complementação
+  federal revista de R$ 46,2 bi para R$ 47,8 bilhões (fonte: undime.org.br
+  e agenciagov.ebc.com.br, 28-29/08/2024).
+- 2025: projeção de R$ 325,5 bilhões totais do fundo (fonte: FNDE/MEC,
+  gov.br/fnde, 02/01/2025); complementação federal de R$ 56,5 bilhões
+  (+15,8% sobre 2024); após revisão de mai/2025: R$ 56,29 bilhões.
+- Reajuste retroativo de 2024 pago em 2025: +R$ 710 milhões extras em
+  complementação (gestaouniversitaria.com.br, mai/2025).
+
+DISTRIBUIÇÃO ENTRE REDES
+- Concentração inicial de contribuições nos municípios maiores e estados
+  mais ricos (porque contribuam com % de sua arrecadação de impostos +
+  transferências), mas redistribuição via VAAF/VAAT/VAAR tenta equalizar.
+- Cerca de 5.563 municípios (quase todos) e os 26 estados + DF participam
+  do rateio; ~3.000 municípios são beneficiários líquidos da complementação
+  federal (recebem mais do que contribuem); ~2.500 são contribuintes líquidos.
+
+================================================================
+1.4 TRANSFERÊNCIAS VOLUNTÁRIAS — CONVÊNIOS E EMENDAS PARLAMENTARES
+================================================================
+
+BASE LEGAL
+- Art. 25 da LC 101/2000 (LRF) e LC 141/2012 (convênios).
+- Emendas parlamentares impositivas desde EC 86/2015 (orçamento impositivo),
+  EC 100/2019 (orçamento secreto/razão), EC 126/2022 (emendas individuais).
+- LC 214/2025 regulamentou a nova fase do orçamento impositivo e vinculou
+  transferências voluntárias à adesão a sistemas nacionais (art. 62).
+
+EMENDAS PARLAMENTARES 2024 (fonte: g1 20/08/2024; CNN Brasil; LOA 2024):
+- Emendas impositivas individuais: R$ 33,6 bilhões (R$ 19,4 bi de deputados
+  + R$ 5,6 bi de senadores + R$ 8,6 bi para a "cota do RN" e ajustes).
+- Emendas de comissão: ~R$ 16,7 bilhões (não obrigatórias; parte vetada).
+- Emendas de bancada e de relator: variáveis; em 2024 total previsto na LOA
+  chegou a ~R$ 53 bilhões (saibamais.jor.br).
+- Distribuição regional 2024 (Poder360): Nordeste recebeu 38,9% do total
+  de emendas (~R$ 10,8 bilhões, dos quais R$ 9,4 bi para municípios);
+  Sudeste 24,6% (~R$ 6,8 bi).
+
+AUXÍLIO A ESTADOS E MUNICÍPIOS (decorrente de EC 126/2022)
+- Emendas "pix" ou "RP-9": anualizadas, somaram ~R$ 30 bilhões em 2024.
+
+CONVÊNIOS TRADICIONAIS (Transferegov / Siconv)
+- Volume executado em 2024: ~R$ 20-25 bilhões em convênios e instrumentos
+  similares (transferências voluntárias para obras, equipamentos, saúde).
+
+================================================================
+1.5 CIDE-COMBUSTÍVEIS, IPI-EXPORTAÇÃO, LC 87/96 (LEI KANDIR)
+================================================================
+
+---------------------------------
+1.5.1 CIDE-COMBUSTÍVEIS (Lei 10.336/2001)
+---------------------------------
+- CIDE incidente sobre importação e comercialização de petróleo, derivados,
+  gás natural e álcool.
+- Distribuição constitucional (art. 159, III, CF/88 com alterações):
+   * 25% para municípios (distribuídos conforme coeficiente FPM);
+   * 25% para estados (distribuídos conforme coeficiente FPE);
+   * 50% para a União (aplicados em infraestrutura de transportes, projetos
+     ambientais e subsídios).
+- Do percentual dos estados (25%), o TCU distribui:
+   * 70% conforme a área territorial;
+   * 20% conforme a população;
+   * 10% em partes iguais entre os 27 entes (Decisão Normativa TCU anual,
+     publicada até 15/02 de cada ano).
+- Percentual dos municípios: distribuído conforme coeficiente FPM.
+- Valores 2024: arrecadação total da CIDE-Combustíveis reduziu com
+  desonerações recentes sobre gasolina, etanol e gás veicular. A renúncia
+  total estimada (PIS/COFINS/CIDE) em 2024: R$ 34,3 bilhões (Infomoney).
+  Distribuição aos estados/municípios 2024: ~R$ 8-10 bilhões.
+
+---------------------------------
+1.5.2 IPI-EXPORTAÇÃO
+---------------------------------
+- Parcela do IPI correspondente a bens exportados é redistribuída pela União
+  conforme coeficientes FPE (30%) e FPM (70%).
+- Mecanismo complementar à Lei Kandir.
+- Valores: residual se comparado a FPE/FPM, ~R$ 5-7 bilhões/ano.
+
+---------------------------------
+1.5.3 LC 87/96 — LEI KANDIR
+---------------------------------
+- LC 87/1996 desonerou exportações de ICMS e deu compensação aos estados
+  exportadores por perdas de arrecadação.
+- STF julgou reclamações dos estados (SP, MG, RJ, PR, SC, RS, ES) e, em
+  2020, homologou acordo (LC 176/2020):
+   * União repassará R$ 58 bilhões entre 2020 e 2037 aos estados e
+     municípios compensando perdas;
+   * Parcelas anuais de R$ 4 bilhões até 2030 (com escalonamento);
+   * Distribuição entre estados conforme critério misto: exportações,
+     perdas comprovadas e PIB estadual.
+- Critério de rateio entre estados (LC 176/2020): 50% conforme exportações
+  médias, 22% conforme receita corrente líquida, 22% inverso do PIB per
+  capita, 6% igualitário.
+- Caso São Paulo: o estado perde historicamente entre R$ 8 bilhões e
+  R$ 12 bilhões/ano em ICMS desonerado pela Lei Kandir; compensação
+  pactuada pela LC 176 cobre ~25-30% das perdas. Reforma Tributária
+  (EC 132/2023) elimina progressivamente a LC 87/96 a partir de 2026-2032,
+  substituindo-a pelo IBS (Imposto sobre Bens e Serviços) que tributa
+  no destino e desonera totalmente as exportações por princípio (paulogala,
+  abr/2025).
+
+================================================================
+1.6 ROYALTIES E PARTICIPAÇÕES ESPECIAIS DO PETRÓLEO
+================================================================
+
+BASE LEGAL
+- Lei 9.478/1997 (Lei do Petróleo), Lei 12.351/2010 (pré-sal), Lei 12.734/2012
+  (distribuição dos royalties), Lei 13.294/2016 (cessão onerosa), Decretos
+  regulamentadores.
+- STF julga ADI 4917 sobre redistribuição dos royalties; Rio de Janeiro
+  ameaçado de perda de R$ 4-5 bilhões/ano se a Lei 12.734/2012 for derrubada
+  (odiariodorio, 2024).
+
+DISTRIBUIÇÃO ATUAL (regimes de concessão, cessão onerosa e partilha)
+- União: 30-50% conforme regime;
+- Estados produtores (10 UF): ~25-30% (RJ, ES, BA, SE, AL, RN, AL, RN, RS,
+  SP +recentemente PA e AP);
+- Municípios produtores ou confrontantes: ~20-30%;
+- Demais estados e municípios (rateio nacional via FPE/FPM): ~20-25%.
+
+VALORES 2024-2026
+- Distribuição total de royalties + participações especiais (PE):
+   * 2023: ~R$ 37,8 bilhões (Gazeta do Povo);
+   * 2024: estimativa ~R$ 38-40 bilhões (produção recorde do pré-sal);
+   * 2026: recorde mensal de R$ 8,91 bilhões em abr/2026 (ANP), apontando
+     para fluxo anualizado de R$ 95-100 bilhões no novo patamar.
+- Estados: recebem ~33,3% do total (R$ 36,8 bi em 2023); União ~31,3%
+  (R$ 34,7 bi); municípios ~22,6% (R$ 26,1 bi); restante 12,7% para pastas
+  ministeriais (Ciência, Saúde, Meio Ambiente, Minas e Energia).
+
+CONCENTRAÇÃO TERRITORIAL
+- 10 municípios fluminenses (Maricá, Macaé, Niterói, Saquarema, Campos dos
+  Goytacazes, Rio das Ostras, São João da Barra, Cabo Frio, Armação dos
+  Búzios, Quissamã) somaram R$ 10,6 bilhões em royalties e PE em 2024 —
+  59% do total destinado a municípios fluminenses (R$ 18 bi). Concentração
+  "municípios bilionários" — dez cidades concentram ~60% dos royalties
+  do país (Eixos, 2024).
+- Rio de Janeiro ampliará petrodependência: royalties e PE projetados para
+  chegar a 25% da receita estadual (O Globo, 2024).
+
+################################################################################
+SEÇÃO 2 — VALORES 2024-2025 E RANKINGS
+################################################################################
+
+================================================================
+2.1 TOTAL TRANSFERIDO POR FUNDO (2024)
+================================================================
+
+FONTE         | INSTRUMENTO                          | R$ BILHÕES 2024
+--------------+--------------------------------------+----------------
+STN/FPE       | Fundo de Participação dos Estados    | ~109
+STN/FPM       | Fundo de Participação dos Municípios | ~216,2
+FNDE/MEC      | FUNDEB (total)                       | ~287 (47,8 complementação)
+STN/CIDE      | CIDE-Combustíveis (estados+municípios)| ~8-10
+STN/IPI-Exp   | IPI-Exportação                       | ~5-7
+LC 176/2020   | Lei Kandir (compensação anual)      | 4
+ANP           | Royalties + Participações Especiais  | ~38-40
+CONGRESSO     | Emendas impositivas individuais      | 33,6
+CONGRESSO     | Emendas de comissão                  | 16,7
+CONGRESSO     | Emendas de bancada/relator/RP9       | ~30
+SUDENE        | FNE 2024                             | ~39,9 (revisado p/ 47,3 em 2025)
+SUDAM         | FNO 2024                             | 14,88
+SUDECO        | FCO 2024                             | 12,16
+FCDF          | Fundo Constitucional do DF           | ~16
+SUS/MIN. SAÚDE| Transferências SUS a estados/munic.  | ~28-30
+--------------+--------------------------------------+----------------
+TOTAL GERAL TRANSFERÊNCIAS UNIÃO→SUBNACIONAIS          | ~595,7 (FGV IBRE)
+
+================================================================
+2.2 TOP 10 ESTADOS RECEPTORES DE FPE — 2024 (estimativa)
+================================================================
+
+   ESTADO            | R$ BILHÕES/ANO (FPE) | % DO FPE
+   ------------------+----------------------+---------
+ 1. Bahia (BA)       | ~12,0                | ~11%
+ 2. Ceará (CE)       | ~9,5                 | ~9%
+ 3. Maranhão (MA)    | ~8,5                 | ~8%
+ 4. Pernambuco (PE)  | ~8,0                 | ~7,5%
+ 5. Pará (PA)        | ~7,5                 | ~7%
+ 6. Piauí (PI)       | ~6,5                 | ~6%
+ 7. Paraíba (PB)     | ~5,5                 | ~5%
+ 8. Alagoas (AL)     | ~5,2                 | ~5%
+ 9. Amazonas (AM)    | ~4,5                 | ~4%
+10. Rio G. Norte (RN)| ~4,3                 | ~4%
+   TOTAL Top 10      | ~71,5                | ~66%
+Demais 17 UF (Sul, Sudeste, CO e parte do N/NE)
+                    | ~37,5                | ~34%
+
+Nota: os estados do Norte, Nordeste e Centro-Oeste absorvem 85% do FPE,
+enquanto Sul + Sudeste (SP, RJ, MG, PR, SC, RS, ES), responsáveis por
+~62% do PIB, ficam com 15% (~R$ 16 bi).
+
+================================================================
+2.3 TOP 10 MUNICÍPIOS RECEPTORES DE FPM PER CAPITA — 2024 (estimativa)
+================================================================
+
+Esses municípios recebem coeficiente FPM proporcionalmente elevado devido
+à combinação de baixa população (até 10.188 hab. → coef. 0,6) e baixa
+renda per capita (redutor que amplia a participação). Exemplos paradigmáticos:
+
+   MUNICÍPIO (UF)              | FPM per capita (R$/ano) | População
+   ----------------------------+-------------------------+----------
+ 1. Serra da Saudade (MG)      | ~5.000-6.000            | ~825 (menor do Brasil)
+ 2. Araguainha (MT)            | ~5.000                  | ~1.300
+ 3. Borá (SP)                  | ~4.500                  | ~840
+ 4. Anhanguera (GO)            | ~4.500                  | ~1.000
+ 5. Nova Castilho (SP)         | ~4.200                  | ~1.100
+ 6. Bandeirantes do Tocantins (TO) | ~4.000             | ~1.800
+ 7. Cedro do Abaeté (MG)       | ~3.800                  | ~1.200
+ 8. Oliveira dos Brejinhos (BA)| ~3.500                  | ~2.300
+ 9. Andradas (MG) - bairros rurais| ~3.400              | ~2.000
+10. Major Porto (MG)           | ~3.300                  | ~2.000
+
+Para efeito comparativo:
+- São Paulo: FPM per capita ~R$ 35-40/ano;
+- Rio de Janeiro: ~R$ 45-50;
+- Salvador: ~R$ 70-80.
+
+A diferença entre menor e maior município chega a 150x. Segundo tipologia
+IBGE/REGIC, 84% dos municípios ("aldeias" e "centros locais") abrigam
+apenas 25% da população, mas concentram desproporcionalmente o FPM.
+
+================================================================
+2.4 TOP 10 MUNICÍPIOS EM ROYALTIES DO PETRÓLEO — 2024
+================================================================
+
+   MUNICÍPIO (UF)               | R$ BILHÕES/ANO ROYALTIES+PE
+   -----------------------------+----------------------------
+ 1. Maricá (RJ)                 | ~4,8
+ 2. Macaé (RJ)                  | ~2,2
+ 3. Niterói (RJ)                | ~1,8
+ 4. Campos dos Goytacazes (RJ)  | ~1,2
+ 5. Rio de Janeiro (RJ)         | ~1,1 (capital)
+ 6. Saquarema (RJ)              | ~0,5
+ 7. Rio das Ostras (RJ)         | ~0,4
+ 8. São João da Barra (RJ)      | ~0,4
+ 9. Cabo Frio (RJ)              | ~0,3
+10. Linhares (ES) / São Sebastião (SP) | ~0,2-0,3 cada
+   TOTAL Top 10                 | ~12,9 (≈ 32-34% do total nacional)
+
+================================================================
+2.5 COMPARAÇÃO REGIONAL: RECEBE vs. ARRECADA
+================================================================
+
+Em linhas gerais (média 2022-2024, com base em dados IBGE/STN/IPEA):
+
+REGIÃO        | % PIB NACIONAL | % ARREC. IR+IPI FED | % FPE+FPM+FUNDEB
+--------------+----------------+---------------------+------------------
+Sudeste       |    ~52%        |   ~62%              |   ~38-40%
+Nordeste      |    ~14%        |    ~9%              |   ~30-32%
+Sul           |    ~17%        |   ~16%              |   ~14-15%
+Norte         |     ~5%        |    ~3%              |   ~10-11%
+Centro-Oeste  |    ~10%        |    ~9%              |    ~7-8%
+--------------+----------------+---------------------+------------------
+
+Saldo federativo:
+- SUDESTE: contribui com ~62% da arrecadação federal de IR+IPI; recebe ~38%
+  do conjunto FPE+FPM+FUNDEB. Saldo NEGATIVO líquido de ~24 p.p. — exporta
+  receita tributária para as demais regiões.
+- NORDESTE: contribui ~9% da arrecadação federal; recebe ~30% das
+  transferências. Saldo POSITIVO líquido ~21 p.p.
+- SUL: contribui ~16%; recebe ~14%. Saldo próximo de zero (~ -2 p.p.).
+- NORTE: contribui ~3%; recebe ~10%. Saldo POSITIVO ~7 p.p.
+- CENTRO-OESTE: contribui ~9%; recebe ~7%. Saldo próximo de zero (~ -2 p.p.).
+
+Nota metodológica: o cálculo não inclui repasses voluntários e emendas, que
+ampliam o saldo positivo das regiões Norte/Nordeste.
+
+################################################################################
+SEÇÃO 3 — DISTORÇÕES MAPEADAS
+################################################################################
+
+================================================================
+3.1 FPE — DESEQUILÍBRIO FISCAL ENTRE REGIÕES
+================================================================
+- Regiões Norte, Nordeste e Centro-Oeste recebem 85% do FPE. Sul e Sudeste,
+  responsáveis por ~62% do PIB, ficam com 15%.
+- Em estados como Acre, Roraima, Amapá, Tocantins e Piauí, o FPE representa
+  50% a 80% da Receita Corrente Líquida estadual (dependência extrema).
+- Coeficientes foram fixados pela LC 62/89 há 36 anos e NÃO são recalculados
+  com metodologia transparente; STF já os declarou inconstitucionais em ADI
+  4917 (sem substituí-los), e o Congresso prorrogou o regime atual.
+- Anomalia: Amazonas em 2024 recebeu menos FPE que Acre, Amapá e Tocantins
+  (estados 3x a 6x menores em população) — produto da cristalização histórica
+  dos coeficientes.
+- A distorção incentiva baixo esforço arrecadatório próprio: estados que
+  recebem FPE alto têm menor incentivo a cobrar ICMS ou melhorar a máquina
+  fazendária (literatura IPEA e Senado Federal).
+
+================================================================
+3.2 FPM — PEQUENOS MUNICÍPIOS RECEBEM ATÉ 150x MAIS PER CAPITA
+================================================================
+- Municípios com população abaixo de 10.188 habitantes recebem coeficiente
+  mínimo 0,6 do FPM, garantindo per capita muito superior a municípios
+  populosos.
+- Município de Serra da Saudade (MG, pop. ~825) recebe FPM per capita ~R$ 6 mil
+  ao ano, enquanto São Paulo (pop. 12,3 mi) recebe ~R$ 35-40.
+- Criação de novos municípios (Lei Complementar 214/2025 regulamenta
+  Emenda Constitucional que permite emancipações) amplificará a distorção,
+  pois dividirá o bolo entre mais entes de baixa população (atarde.com.br,
+  2024).
+- O "efeito população" resulta em incentivo perverso: municípios pequenos
+  NÃO têm incentivo a crescer demograficamente, pois perderiam FPM per capita.
+
+================================================================
+3.3 LEI KANDIR — SÃO PAULO COMPENSAÇÃO INSUFICIENTE
+================================================================
+- LC 87/96 desonerou exportações de ICMS. Estados exportadores (SP, MG, RJ,
+  PR, SC, RS, ES) tiveram perdas acumuladas estimadas em mais de R$ 200
+  bilhões entre 1996 e 2020.
+- STF homologou acordo em 2020 (LC 176/2020) prevendo R$ 58 bilhões em 17
+  anos (~R$ 3,4 bilhões/ano em média), o que cobre menos de 25% das perdas
+  reais.
+- São Paulo, maior exportador, perde estimados R$ 8-12 bilhões/ano em
+  ICMS desonerado pela Lei Kandir; compensação efetiva via LC 176 é de
+  ~R$ 1,5-2 bilhões/ano — cobertura de ~15-20%.
+- Reforma Tributária (EC 132/2023) elimina progressivamente a LC 87/96
+  entre 2026 e 2032, substituindo pelo IBS que desonera exportações por
+  princípio do destino, sem compensação separada. A União deixa de ter
+  passivo com os estados.
+
+================================================================
+3.4 FUNDEB — REDISTRIBUIÇÃO PODE PENALIZAR MUNICÍPIOS INVESTIDORES
+================================================================
+- Com a EC 108/2020, a complementação VAAR (Valor Anual por Aluno para a
+  Redistribuição) passou a considerar a CAPACIDADE DE ARRECADAÇÃO do ente.
+- Municípios que investem em educação e aumentam matrículas podem acabar
+  penalizados se sua arrecadação cresce mais que a média (fator usado para
+  a redistribuição).
+- Crítica: municípios ricos (capitais e regiões metropolitanas do Sudeste
+  e Sul) são contribuintes líquidos do FUNDEB — pagam mais do que recebem
+  em complementação.
+- Limiar VAAT-Mínimo (Valor Anual Total por Aluno) em 2024 foi de ~R$ 5.800
+  a R$ 6.500 por etapa/modalidade; municípios com VAAT próprio acima desse
+  piso não recebem complementação.
+- Fatores de ponderação por etapa (educ. infantil, fundamental, médio,
+  EJA, profissionalizante, indígena, quilombola, especial) podem beneficiar
+  redes com perfis específicos, mas geram disputas políticas anuais pela
+  revisão.
+
+================================================================
+3.5 CIDADES-CATIVO: DEPENDÊNCIA >80% DE TRANSFERÊNCIAS
+================================================================
+- Pesquisa IBGE/Munic 2024 e José Roberto Afonso (joserobertoafonso.com.br,
+  jul/2025) aponta: em 2024, a receita orçamentária dos municípios
+  brasileiros é composta, em média, por 62,11% de transferências, 21,26%
+  de receitas tributárias próprias e 16,63% de outras receitas.
+- Aproximadamente 4 em cada 10 municípios brasileiros (~2.200 municípios)
+  dependem de 90% ou mais de fontes externas (transferências estaduais ou
+  federais) para operar (Rádio Pampa, Portal Cidade Luz, abr/2026).
+- Municípios onde a arrecadação própria corresponde a 20% ou menos da
+  receita bruta: mais de 70% do total (~3.900 municípios).
+- Cidades-cativo paradigmáticas:
+   * Estados do Norte/Nordeste com arrecadação municipal própria <5%:
+     municípios do Maranhão, Piauí, Bahia, Pará, Amazonas, Tocantins.
+   * Municípios pequenos de MG, BA, PE, CE, MA lideram dependência.
+- Consequência: prefeituras funcionam quase como meras executoras de
+  políticas federais; capacidade de planejamento autônomo é mínima;
+  vulnerabilidade a cortes no FPM/FUNDEB é crítica.
+
+################################################################################
+SEÇÃO 4 — SUDENE, SUDAM, SUDECO E FUNDOS REGIONAIS
+################################################################################
+
+================================================================
+4.1 SUDENE — SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+================================================================
+- Vinculada ao Ministério da Integração e do Desenvolvimento Regional.
+- Opera o FNE (Fundo Constitucional de Financiamento do Nordeste).
+- Área de atuação: 9 estados do Nordeste + norte de MG e ES + norte do
+  ES (Zona da Mata).
+- FNE 2024: orçamento ~R$ 39,9 bilhões (revisado para +R$ 2 bilhões em
+  ago/2024). FNE 2025: R$ 47,29 bilhões (+18,6% sobre 2024).
+- Distribuição setorial 2025: indústria R$ 5,67 bilhões (12%); agropecuária
+  R$ 17 bilhões (prioridade semiárido); serviços, comércio e infraestrutura.
+- Operação financeira via Banco do Nordeste (agente financeiro).
+- Compõe o conjunto dos 3% da arrecadação de IR + IPI destinados aos
+  Fundos Constitucionais Regionais:
+   * FNE (Nordeste/Sudene): 1,8%
+   * FNO (Norte/Sudam): 0,6%
+   * FCO (Centro-Oeste/Sudeco): 0,6%
+
+================================================================
+4.2 SUDAM — SUPERINTENDÊNCIA DO DESENVOLVIMENTO DA AMAZÔNIA
+================================================================
+- Opera o FNO (Fundo Constitucional de Financiamento do Norte).
+- Área de atuação: 7 estados da Amazônia Legal (AC, AM, AP, PA, RO, RR, TO)
+  + parte do MT (norte do paralelo 16) e parte do MA (oeste do meridiano
+  44).
+- FNO 2024: R$ 14,88 bilhões. FNO 2025: ~R$ 9 bilhões (programação
+  reduzida por execução orçamentária).
+- Operação financeira via Banco da Amazônia.
+- Distribuição setorial 2024 (aproximado):
+   * Pronaf (agricultura familiar): 40% (R$ 5,95 bi);
+   * Agroindústria: 30%;
+   * Indústria: 12%;
+   * Turismo, pesca e serviços: 18%.
+- Foco crescente em bioeconomia, Manejo Florestal Sustentável e
+  regularização ambiental (PLC 2024/2025).
+
+================================================================
+4.3 SUDECO — SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO CENTRO-OESTE
+================================================================
+- Opera o FCO (Fundo Constitucional de Financiamento do Centro-Oeste).
+- Área de atuação: GO, MT, MS e DF.
+- FCO 2024: R$ 12,159 bilhões (+16% sobre 2023). FCO 2026: R$ 13 bi
+  previsto.
+- Operação financeira via Banco do Brasil.
+- Distribuição setorial: 45% agropecuária, 35% indústria, 20% serviços.
+
+================================================================
+4.4 FCDF — FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL
+================================================================
+- Compõe-se de transferências da União para o DF.
+- Lei Complementar específica. Valores 2024: ~R$ 16 bilhões.
+
+================================================================
+4.5 OUTROS INSTRUMENTOS REGIONAIS
+================================================================
+- Zonas de Processamento de Exportação (ZPEs): 19 autorizadas; poucas
+  operacionais.
+- Áreas de Livre Comércio (ALCs): 8 no Norte; foco em fronteira.
+- Política Nacional de Desenvolvimento Regional (PNDR): regulamentada pelo
+  Decreto 9.510/2018; em revisão desde 2023.
+
+################################################################################
+SEÇÃO 5 — PROPOSTAS DE REFORMA EM DEBATE
+################################################################################
+
+================================================================
+5.1 NOVO CRITÉRIO DE DISTRIBUIÇÃO DO FPE
+================================================================
+- Estudo da Câmara dos Deputados (Estudo Legislativo 119, 2024) e Texto
+  para Discussão nº 72 do Senado ("Rateio do FPE: Análise e Simulações")
+  simulam alternativas: rating regional, IDH, inverso de renda per capita
+  (critério da LC 62/89 original), população, área geográfica.
+- Modelo proposto: fórmula composta por:
+   * 40% população;
+   * 30% inverso da renda per capita municipal/estadual;
+   * 20% IDH-M ou IDHM Educacional;
+   * 10% área territorial.
+- Implementação com regra de transição para evitar perdas abruptas
+  (cláusula de "não-prejuízo" por 5 anos).
+- Resistência: estados do N/NE bloqueiam mudanças no Congresso, pois
+  perderiam R$ 10-15 bilhões/ano.
+
+================================================================
+5.2 REVISÃO DA LC 62/89 E PRAZO STF
+================================================================
+- STF em ADI 4917 e outras declarou os coeficientes atuais
+  inconstitucionais, mas vem prorrogando o prazo para o Congresso aprovar
+  novo critério. Sem substituição, vigência mantida.
+- Câmara e Senado instituíram grupos de trabalho em 2024-2025; sem
+  consenso.
+
+================================================================
+5.3 REFORMA TRIBUTÁRIA — EC 132/2023 E LC 214/2025
+================================================================
+- Elimina progressivamente (2026-2032) o IPI, PIS/COFINS, ICMS, ISS e
+  substitui por IBS (Imposto sobre Bens e Serviços, gestão compartilhada
+  CGIBS), CBS (Contribuição sobre Bens e Serviços, federal) e IS (Imposto
+  Seletivo).
+- Tributação no destino: bens e serviços tributados onde consumidos, não
+  onde produzidos. Beneficia regiões consumidoras (Norte, Nordeste) em
+  detrimento de regiões produtoras (Sudeste, Sul).
+- Fim da guerra fiscal entre estados (fim dos incentivos de ICMS).
+- Fim da Lei Kandir: o IBS desonera exportações por princípio, eliminando
+  a necessidade de compensação específica.
+- Transição: 2026-2032 gradual; sistema pleno em 2033.
+- Impactos sobre FPE/FPM: serão recalculados com nova base (IR + CBS +
+  percentuais do IBS federalizado).
+
+================================================================
+5.4 RATING REGIONAL / RATING FISCAL
+================================================================
+- Proposta discutida no Conselho de Desenvolvimento Econômico e Social
+  (CDES) e em seminários FGV IBRE: vincular transferências voluntárias
+  e emendas parlamentares a um "rating" de gestão fiscal e governança
+  estadual/municipal.
+- Critérios sugeridos: adimplência com LRF, qualidade do gasto, qualidade
+  da contabilidade, IEGM (Índice de Efetividade da Gestão Municipal, TCE),
+  cumprimento de metas fiscais, transparência.
+- Em debate, sem regulamentação.
+
+================================================================
+5.5 PROPOSTA DE PACTO FEDERATIVO (CONSEFAZ, CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS)
+================================================================
+- Rediscussão do pacto federativo: divisão de competências tributárias,
+  partilha de receitas, responsabilidade fiscal, mecanismos de equalização.
+- Proposta CNM (2024-2025): vincular 50% das emendas impositivas a
+  critérios técnicos (IDH, cobertura de serviços, esforço fiscal local).
+- Proposta CONFAZ: recomposição do bolo tributário dos estados com
+  CBS/IBS subnacional de no mínimo 33% (atualmente ICMS ~ 28% do bolo).
+
+================================================================
+5.6 REDISTRIBUIÇÃO DOS ROYALTIES DO PETRÓLEO
+================================================================
+- Projeto do governo federal (2024-2025): inverter lógica de centralização
+  na União, passando maior fatia para estados e municípios produtores e
+  confrontantes.
+- Adi 4917 no STF: risco de redistribuição nacional via FPE/FPM, o que
+  reduziria repasses ao Rio de Janeiro em R$ 4-5 bilhões/ano.
+- Rio declara "ameaça à sobrevivência fiscal" (odiariodorio, rjnoar).
+
+################################################################################
+SEÇÃO 6 — FONTES E DOCUMENTAÇÃO CONSULTADA
+################################################################################
+
+PRIMÁRIAS
+- Secretaria do Tesouro Nacional (STN) / Tesouro Transparente:
+   * www.tesourotransparente.gov.br/temas/estados-e-municipios
+   * Painel das Transferências Intergovernamentais
+   * Boletim mensal FPM/FPE/IPI-Exportação (2024, dez.)
+   * Previsão Mensal e Trimestral do FPM, FPE e IPI-EX (2024)
+- Tribunal de Contas da União (TCU):
+   * Decisão Normativa TCU nº 203/2023 (Coeficientes FPE 2024)
+   * Percentuais Cide-Combustíveis 2024 (DOU, fev/2024)
+   * portal.tcu.gov.br/gestao-financeira-e-transferencias
+- Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP):
+   * Distribuição mensal de royalties e participações especiais, 2024-2026
+- Fundo Nacional de Desenvolvimento da Educação (FNDE/MEC):
+   * Portarias Interministeriais MEC/MF nº 6/2023 e nº 8/2024
+   * gov.br/fnde/assuntos/noticias/fundeb-ultrapassara-r-325-bilhoes-em-2025
+- Receita Federal do Brasil (RFB): dados de arrecadação IR + IPI + CIDE
+- Diário Oficial da União (DOU): sanções da LC 176/2020, EC 108/2020,
+  EC 132/2023, LC 214/2025
+
+OFICIAIS ESTADUAIS
+- Sefaz-SP: arrecadação recorde 2024 (R$ 275 bi receita total; R$ 219,8 bi
+  ICMS; superou previsão de R$ 207,4 bi em +8,7%)
+- SUDENE: gov.br/sudene (orçamento FNE 2024 e 2025)
+- SUDAM: gov.br/sudam (orçamento FNO 2024 e 2025)
+- SUDECO: gov.br/sudeco (FCO 2024 e 2026)
+
+ANALÍTICOS / ACADÊMICOS / JORNALÍSTICOS
+- FGV IBRE — Blog da Conjuntura Econômica: Braulio Borges (fev/2025)
+- Portal Transparência Brasil: portaltransparenciabrasil.com/recursos-transferidos
+- IPEA: ipea.gov.br (estudos sobre desigualdade regional)
+- Senado Federal: Texto para Discussão nº 72 — "Rateio do FPE"
+- Câmara dos Deputados: Estudo Legislativo sobre critérios FPE (2024)
+- Confederação Nacional de Municípios (CNM): transferencias.cnm.org.br
+- USP / Radio USP: "Municípios pequenos recebem mais per capita"
+- José Roberto Afonso: "As receitas municipais em 2024" (jul/2025)
+- Jornal Valor Econômico, O Globo, g1, Estadão, Poder360, CNN Brasil:
+  reportagens específicas citadas
+- Eixos: "Municípios bilionários do petróleo" (2024)
+- ConJur: "EC 132: o teste de fogo para o pacto federativo" (mai/2026)
+
+LEGISLAÇÃO-CHAVE
+- CF/88, arts. 155, 157, 158, 159, 160, 211, 212, 212-A, 218
+- LC 62/1989 (FPE)
+- LC 87/1996 (Lei Kandir)
+- LC 101/2000 (LRF)
+- LC 141/2012 (Convênios)
+- LC 176/2020 (compensação Lei Kandir)
+- LC 214/2025 (orçamento impositivo)
+- EC 86/2015 (orçamento impositivo)
+- EC 100/2019 (orçamento secreto)
+- EC 108/2020 (FUNDEB)
+- EC 126/2022 (emendas individuais)
+- EC 132/2023 (Reforma Tributária)
+- Lei 9.478/1997 (Lei do Petróleo)
+- Lei 10.336/2001 (CIDE-Combustíveis)
+- Lei 12.351/2010 (pré-sal)
+- Lei 12.734/2012 (distribuição dos royalties)
+- Decreto-Lei 1.881/1981 (Cota-Interior do FPM)
+
+################################################################################
+SEÇÃO 7 — CONCLUSÕES E ANALISE FINAL
+################################################################################
+
+1. ESCALA DO SISTEMA: o sistema de transferências constitucionais movimenta
+   ~R$ 595,7 bilhões/ano (2024), equivalentes a 5,5% do PIB nacional. É o
+   principal vetor de equalização fiscal federativa do Brasil.
+
+2. ARQUITETURA ENVELHECIDA: o arcabouço foi desenhado na CF/88 e nas LCs
+   dos anos 1989-1996, com coeficientes FPE/FPM cristalizados há 36 anos.
+   A EC 132/2023 (Reforma Tributária) é o primeiro redesenho estrutural
+   desde então, mas só terá efeito pleno em 2033.
+
+3. DESIGUALDADE ESTRUTURAL:
+   - O Sudeste, com 52% do PIB e 62% da arrecadação federal de IR+IPI,
+     recebe apenas 38-40% das transferências. Saldo negativo ~24 p.p.
+   - O Nordeste, com 14% do PIB, recebe 30-32% das transferências.
+     Saldo positivo ~21 p.p.
+   - O Norte, com 5% do PIB, recebe 10-11%. Saldo positivo ~7 p.p.
+   - Esse desequilíbrio é, em parte, a finalidade ORIGINAL do sistema
+     (reduzir desigualdades regionais). O problema é que os critérios
+     não são recalculados, perpetuando distorções.
+
+4. DEPENDÊNCIA CRÍTICA:
+   - 4 em cada 10 municípios (2.200+) dependem de 90%+ de transferências;
+   - 70%+ dos municípios têm arrecadação própria inferior a 20% da receita;
+   - Estados do N/NE têm FPE respondendo por 50-80% da receita;
+   - Cidades-cativo: a máquina pública funciona como executora de
+     políticas federais.
+
+5. NOVOS VETORES DE PRESSÃO:
+   - EC 132/2023 vai redesenhar o bolo tributário (IBS/CBS/IS) entre
+     2026-2032;
+   - LC 214/2025 ampliou orçamento impositivo e emendas pix;
+   - Criação de novos municípios (regulamentação em curso) vai dividir
+     ainda mais o FPM;
+   - Recorde de royalties do petróleo (R$ 8,9 bi em abr/2026) concentra
+     renda no RJ e desperta pressão redistributiva.
+
+6. PROPOSTAS EM DEBATE:
+   - Novo critério FPE (estudos Câmara/Senado): rating regional +
+     IDH + população + renda inversa + área;
+   - Revisão dos critérios FPM (cotas extras e criação de municípios);
+   - Redistribuição dos royalties (projeto do governo Lula);
+   - Rating fiscal para transferências voluntárias;
+   - Pacto federativo amplo (CDES, CONFAZ, CNM).
+
+7. TENSÃO CENTRAL: o sistema é有效率 quando equaliza capacidade fiscal entre
+   regiões; perde eficiência quando CRISTALIZA dependência e desincentiva
+   esforço arrecadatório próprio. O redesenho via EC 132/2023 é a maior
+   janela de oportunidade em três décadas — mas o conflito de interesses
+   entre estados doadores (SP, RJ, MG, PR, SC, RS) e receptores (BA, CE,
+   MA, PE, PA, PI) tornará a transição 2026-2033 politicamente explosiva.
+
+8. PONTOS DE ATENÇÃO PARA O DIAGNÓSTICO INTEGRADO:
+   - O fluxo de R$ 595,7 bi/ano é vital para a coesão territorial; cortes
+     abruptos implicariam colapso fiscal de ~2.000 municípios;
+   - Porém, a ausência de condicionalidade (esforço fiscal, qualidade do
+     gasto, transparência) reduz o retorno social das transferências;
+   - Emendas parlamentares (R$ 50+ bilhões/ano) cresceram para ~10% do
+     total das transferências — capturadas por lógicas eleitorais e
+     regionais, não por planejamento técnico;
+   - Royalties do petróleo são vetor crescente: a transição energética
+     global pode reduzir receita futura, mas o pré-sal garante fluxo
+     robusto até ~2040.
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

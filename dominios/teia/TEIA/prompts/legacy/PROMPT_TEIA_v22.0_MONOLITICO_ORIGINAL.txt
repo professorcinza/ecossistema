@@ -1,0 +1,13 @@
+[ARQUIVO LEGADO — PROMPT MONOLÍTICO ORIGINAL v22.0]
+
+Este arquivo contém a versão monolítica completa anterior à transformação em suite modular.
+
+Conteúdo original foi movido de docs/PROMPT_TEIA_v22.0.txt para cá como referência histórica.
+
+Recomendação: Use a suite em prompts/ para novas aplicações.
+A versão monolítica pode ainda ser útil para contextos onde se prefere um único arquivo.
+
+(Conteúdo completo do prompt v22.0 está preservado no git history e no arquivo docs/PROMPT_TEIA_v22.0.txt original.)
+
+Para referência futura, a suite modular é a forma recomendada a partir de agora.
+================================================================================

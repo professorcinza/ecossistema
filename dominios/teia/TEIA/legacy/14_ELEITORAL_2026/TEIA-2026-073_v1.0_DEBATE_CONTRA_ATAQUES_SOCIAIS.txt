@@ -1,0 +1,824 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-073
+VERSÃO: v1.0
+CATEGORIA: 14_ELEITORAL_2026
+TÍTULO: Contra-Argumentos Sociais — Segurança, Saúde e Corrupção
+STATUS: INTERNO — Análise de inteligência eleitoral
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: 40,607 bytes (39.7 KB)
+HASH MD5: 8835c34d472dd9b6edee1871a8f3e3b8
+================================================================================
+
+================================================================================
+MAPA DE ARGUMENTOS CONTRA O GOVERNO LULA — SEGURANÇA, SAÚDE E CORRUPÇÃO
+Estratégia para debates de 2026
+Formato: ARGUMENTO do opositor | DADO REAL | ERRO ASSUMIDO | SOLUÇÃO TEIA
+================================================================================
+Data de compilação: Julho/2026
+Fontes: FBSP (Anuário 2024 e 2025), Atlas da Violência Ipea/FBSP 2025,
+Ministério da Saúde, INSS, STF, PF, Transparência Brasil, Datafolha, Estadão,
+O Globo, VEJA, G1, UOL, Gazeta do Povo, BBC Brasil, Agência Brasil.
+================================================================================
+
+
+################################################################################
+#                              SEGURANÇA PÚBLICA                                #
+################################################################################
+
+--------------------------------------------------------------------------------
+1) "HOMICÍDIOS AUMENTARAM NO GOVERNO LULA"
+--------------------------------------------------------------------------------
+ARGUMENTO DO OPOSITOR: "O Brasil sangra. Os homicídios subiram sob Lula. O país
+virou matadouro."
+
+DADO REAL (FACT-CHECK): FALSO.
+- Atlas da Violência 2025 (Ipea + FBSP): homicídios CAÍRAM 7,4% em 2024, com
+  42.590 casos — MENOR taxa em 31 anos (desde 1994).
+- Redução acumulada de 20,3% desde 2013.
+- Anuário FBSP 2024 também confirmou queda de 3% nas mortes violentas
+  intencionais.
+- Continuidade de tendência de queda iniciada antes, mas mantida sob Lula.
+- DESAFIO REGIÕAL: Norte e Nordeste seguem com taxas altas e subnotificação.
+  "Homicídios ocultos" (cadáveres não identificados) praticamente dobraram,
+  gerando questionamento metodológico — mas o quadro geral é de queda.
+
+ERRO ASSUMIDO: Nenhum do ponto de vista da taxa agregada. POREM, o governo
+deve reconhecer: (a) a subnotificação no Norte/Nordeste é problema real; (b) o
+fenômeno dos "homicídios ocultos" precisa ser enfrentado. Negar isso vira
+debatedor ruim.
+
+SOLUÇÃO TEIA:
+- Apresentar a queda como conquista: "menor taxa em 31 anos".
+- Não atribuir 100% ao governo (queda começou antes) — apresentar como
+  CONTINUIDADE com aceleração via Brasil Integrado e reforço da PF.
+- Reconhecer o desafio Norte/Nordeste e apresentar plano específico.
+- Redirecionar: "Estamos dando continuidade à queda, mas a violência ainda é
+  inaceitável. Por isso lançamos o Brasil Contra o Crime Organizado (R$ 11 bi)."
+
+
+--------------------------------------------------------------------------------
+2) "FACÇÕES CRIMINOSAS DOMINAM O PAÍS — PCC, COMANDO VERMELHO, FAMÍLIA DO NORTE"
+--------------------------------------------------------------------------------
+ARGUMENTO DO OPOSITOR: "As facções tomaram conta. O PCC virou multinacional do
+crime. Lula perdeu o controle do território nacional."
+
+DADO REAL (FACT-CHECK): PARCIALMENTE VERDADEIRO — mas problema estrutural,
+não herança ou culpa exclusiva do governo.
+- Datafolha/FBSP 2025: facções e milícias já dominam bairros de 28,5 milhões
+  de brasileiros (19% da população). 41,2% dos brasileiros com 16+ anos
+  reconhecem presença de grupos criminosos no bairro.
+- PCC opera como "megaempresa transnacional", superou CV em rotas.
+- CV exterminou a Família do Norte (FDN) e dominou Amazônia (2018+).
+- PCC e CV compartilham rotas no Norte (Xeque-mate geoestratégico).
+- EUA incluíram PCC e CV na lista de organizações terroristas (2026).
+- 8% dos brasileiros (cerca de 13 milhões) têm parente/desaparecido.
+
+ERRO ASSUMIDO: O governo subdimensionou a comunicação sobre a gravidade do
+fenômeno facções. Deixou o tema ser apropriado pela oposição.
+
+SOLUÇÃO TEIA:
+- Apresentar o Programa "Brasil Contra o Crime Organizado" (lançado maio/2026,
+  R$ 11 bilhões): asfixia do caixa de facções, reforço prisional, adesão
+  obrigatória dos Estados às regras.
+- Reforçar Operação Integrada Norte/Nordeste (PF + ABIN + Forças Armadas).
+- Citar: "Foi a operação mais importante da história de 525 anos do Brasil"
+  (referência de Lula a operação que prendeu crime organizado em vários
+  setores — política, futebol, Justiça, economia).
+- Diferenciar: "O crime organizado cresceu nos últimos 20 anos, sob todos os
+  governos. O que mudou é que agora enfrentamos de frente, com União Federal +
+  Estados integrados."
+- CONTRA-ATAQUE: Bolsonaro recebeu investigados, soltou presos por decreto
+  indulto natalino (Rafael Alves, Rafael Velame, etc.), facilitou armas (14
+  decretos) que abasteceram criminosos.
+
+
+--------------------------------------------------------------------------------
+3) "CRACK E NARCOTRÁFICO FORA DE CONTROLE"
+--------------------------------------------------------------------------------
+ARGUMENTO DO OPOSITOR: "Cracolândia em SP cresceu. SP virou inferno sob Tarcísio
+e agora Lula quer federalizar o problema."
+
+DADO REAL: VERDADEIRO EM PARTE.
+- Cracolândia em SP expandiu sob gestão Tarcísio (governo estadual, não
+  federal — mas impacto nacional).
+- Auge do problema vincula-se a expansão das rotas amazônicas do CV/PCC.
+- Operação Sem Limite (Tarcísio, SP, 2025) — estadual.
+- Brasil continua sendo maior mercado de cocaína/pasta base fora da Colômbia/
+  Peru.
+
+ERRO ASSUMIDO: Fraca resposta federal coordenada ao crack urbano. Política de
+redução de danos ainda tímida.
+
+SOLUÇÃO TEIA:
+- Apresentar R$ 11 bi do Brasil Contra o Crime Organizado com foco em
+  "asfixia do caixa" das facções.
+- Reconhecer que saúde mental e redução de danos são eixos (não só segurança).
+- Diferenciar níveis: "Cracolândia SP é responsabilidade do governador
+  Tarcísio. O governo federal atua via PF (inteligência) e SUS (tratamento)."
+- Apresentar ampliação dos CAPS-AD e programas de saúde mental.
+
+
+--------------------------------------------------------------------------------
+4) "LETALIDADE POLICIAL CONTINUA ALTÍSSIMA"
+--------------------------------------------------------------------------------
+ARGUMENTO DO OPOSITOR: "A polícia mata mais que a criminalidade. Lula não fez
+nada."
+
+DADO REAL: VERDADEIRO — problema real.
+- Anuário FBSP 2024: letalidade policial subiu. "Em algumas cidades, mais da
+  metade das mortes violentas são cometidas por policiais."
+- São Paulo: letalidade policial cresceu 61% (Atlas 2025).
+- Em 10 anos, mortes por ação policial cresceram quase 200% (VEJA, 2024).
+- 65,4% das vítimas eram negras (2024).
+- Rio: 871 mortos por intervenção policial em 2023.
+- Anuário 2025: letalidade policial subiu mesmo com queda geral de homicídios.
+- Exceção: Rio Grande do Sul — letalidade caiu 43% (SINESP 2024→2025).
+
+ERRO ASSUMIDO: O governo não comunicou nem articulou política federal de redução
+da letalidade. Deixou o tema na mão dos Estados. Sem controle efetivo sobre PMs
+estaduais (competência constitucional dos governadores).
+
+SOLUÇÃO TEIA:
+- Apresentar protocolo nacional de uso da força (MJSP).
+- Reforçar que PM é estadual — governadores são responsáveis diretos. "Lula não
+  comanda a PM de SP, RJ, BA. Quem comanda é o governador."
+- Apresentar formação unificada da Senasp e intercâmbio com câmeras corporais.
+- Dado forte: RS caiu 43% — usar como caso de sucesso replicável.
+- NÃO defender bandido: reconhecer que letalidade alta indica ineficiência
+  policial (quer matar mais que prender), e isso custa a sociedade.
+
+
+--------------------------------------------------------------------------------
+5) "MILÍCIAS CRESCEM NO RIO E SE ESPALHAM"
+--------------------------------------------------------------------------------
+ARGUMENTO: "As milícias tomaram o Rio. Lula não federalizou. Bolsonaro pelo
+menos nomeou ministro do STF que combateria."
+
+DADO REAL: VERDADEIRO.
+- FBSP/Datafolha 2025: milícias e facções dominam bairros de 28,5 milhões.
+- Milícias Rio: controlam 60%+ dos bairros da Região Metropolitana.
+- CPI das Milícias (ALERJ) revelou infiltração em política, segurança, Justiça.
+- Operação Integrada de Supressão (PF + Exército, 2023-2024) — medida tímida.
+
+ERRO ASSUMIDO: Fraca coordenação com o governo do RJ (eleito Cláudio Castro,
+opositor). Desidratou o BRAVI (Brasil Contra a Violência).
+
+SOLUÇÃO TEIA:
+- Apresentar o plano de R$ 11 bi com exigência de adesão estadual às regras.
+- Reforçar: "Milícia é problema estrutural do RJ há 30 anos, agravado sob
+  Bolsonaro (aliado de milicianos como queima de arquivo de Marielle /
+  Domingos Brazão indiciado)."
+- Citar investigação Marielle: governo Lula empenhou, PF avançou, Bolsonaro
+  obstruiu (caso Flávio Bolsonaro e as rachadinhas).
+- DIFERENCIAL: Bolsonaro família tem vínculos com milicianos (Queiroz,
+  Brazilian Army, Kristiano Rosalina/confissão). Lula não tem.
+
+
+--------------------------------------------------------------------------------
+6) "SAÍDA DE FLÁVIO DINO — LULA PERDEU O MELHOR MINISTRO DA JUSTIÇA"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Flávio Dino era bom. Lula o tirou para indicar ao STF. Colocou
+Lewandowski que não entende de segurança."
+
+DADO REAL: VERDADEIRO EM PARTE.
+- Flávio Dino deixou MJSP em 2024 para assumir o STF.
+- Ricardo Lewandowski assumiu (sem perfil de segurança pública).
+- Ricardo Capelli (secretário-executivo, braço operacional) também saiu.
+- Em janeiro/2026, Lula trocou Lewandowski — chegou a 15 trocas de ministros
+  no mandato (um a cada 2 meses em média).
+- Crítica: rotatividade enfraquece pasta estratégica.
+
+ERRO ASSUMIDO: Sim — trocar ministro da Justiça duas vezes em 3 anos é erro
+político e de gestão, especialmente em pasta que exige continuidade.
+
+SOLUÇÃO TEIA:
+- Reconhecer erro: "A troca foi política para o STF (cadeira de Dino). Foi
+  custo alto. Aprendemos."
+- Apresentar o NOVO ministério com nome forte de segurança (a ser definido
+  conforme nomeação).
+- Redirecionar: "Flávio Dino está no STF julgando crime organizado. Lewandowski
+  foi ministro do STF, está no lugar certo para garantir Constituição."
+- Destacar continuidade técnica (PF, Senasp, ABIN não mudaram).
+
+
+--------------------------------------------------------------------------------
+7) "OPERAÇÕES DA PF DIMINUÍRAM VS BOLSONARO"
+--------------------------------------------------------------------------------
+ARGUMENTO: "A Polícia Federal foi engavetada. Bolsonaro fez muito mais."
+
+DADO REAL: FALSO / DEPENDE DO CRITÉRIO.
+- Em 2023-2024, PF realizou operações de grande impacto: Operação Última Milha
+  (Lava Jato), operações contra 8 de Janeiro, operações Overclean (DNOCS),
+  Operação Compliance Zero (Banco Master — 9 fases até 2026).
+- Bolsonaro, ao contrário, INTERFERIU na PF (depoimento de Anderson Torres,
+  tentativa de nomear delegado bolsonarista no RJ, exonerou Márcio Freitas).
+- Bolsonaro tentou usar a PF para blindar família (Flávio, Queiroz, Carla
+  Zambelli).
+- PF sob Lula recuperou autonomia técnica — procuradoria geral da República
+  também.
+
+ERRO ASSUMIDO: Nenhum do lado do governo. A oposição usa narrativa falsa.
+
+SOLUÇÃO TEIA:
+- Listar as grandes operações: Overclean (DNOCS), Compliance Zero (Banco
+  Master), Tempo de Colher (abuso econômico), Operações 8 de Janeiro,Operação
+  Integrada (crime organizado).
+- "Bolsonaro interferia na PF, nomeava delegado a mando, exonerava quem
+  investigava família. Nós devolvemos autonomia."
+- Citar: a PF prendeu aliados de Bolsonaro (Anderson Torres, Walter Braga
+Netto)
+  e opera contra Centrão (Ciro no caso Master).
+- CONTRA-ATAQUE: Bolsonaro, sob seu governo, indicou delegado que depois
+  virou deputado (Ramagem) e investigou adversários.
+
+
+--------------------------------------------------------------------------------
+8) "MEGA-OPERAÇÃO CONTRA CRIME ORGANIZADO — BRASIL INTEGRADO"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Lula só lançou plano na véspera da eleição (maio/2026). É
+ eleitoreiro."
+
+DADO REAL: PARCIALMENTE VERDADEIRO.
+- Plano "Brasil Contra o Crime Organizado" lançado em 12/05/2026 (véspera
+  eleição).
+- Investimento R$ 11 bilhões, foco em: asfixia do caixa de facções, reforço
+  prisional, adesão obrigatória dos Estados.
+- Construído com estados, especialistas e forças de segurança (governo alega).
+- Crítica justa: demorou 3 anos para lançar plano federal integrado.
+
+ERRO ASSUMIDO: Demora excessiva no lançamento do plano. Oposição acusa com
+razão de ter sido no ano eleitoral.
+
+SOLUÇÃO TEIA:
+- Apresentar plano como resposta a diagnóstico técnico (não jogada política).
+- "Construído junto com governadores e especialistas ao longo de 2025."
+- Apresentar RESULTADOS de operações integradas desde 2023 (PF, ABIN).
+- Reconhecer demora: "Levou tempo porque sécurité não se improvisa. Foi
+  construído com seriedade."
+- OBRIGATÓRIO: ter resultados concretos de prisões/sequestros para apresentar.
+
+
+################################################################################
+#                                  SAÚDE                                       #
+################################################################################
+
+--------------------------------------------------------------------------------
+9) "O SUS ESTÁ EM COLAPSO — FILAS, FALTA DE MÉDICO"
+--------------------------------------------------------------------------------
+ARGUMENTO: "O SUS virou bagunça. Fila de meses, posto fechado, médico cubano
+ganha mais que brasileiro."
+
+DADO REAL: PARCIALMENTE VERDADEIRO — problema crônico estrutural.
+- SUS vive crise de subfinanciamento histórico (desde anos 1990).
+- Filas para cirurgias eletivas e consultas especializadas permanecem altas.
+- Falta de médicos em regiões remotas e periferias persiste.
+- Gestão tripartite: União (repasses), Estados (hospitais) e municípios
+  (atenção básica). Culpa é compartilhada.
+- Programa Médicos pelo Brasil: 4 mil vagas para bolsistas + 595 tutores.
+- Mais Médicos reformulado — 26.414 profissionais ativos (cubanos = ~10%).
+
+ERRO ASSUMIDO: Sim — Nísia Trindade demorou a apresentar plano concreto para
+filas. Mais Especialistas decolou devagar. Falta de insulina foi escândalo
+grosseiro.
+
+SOLUÇÃO TEIA:
+- Reforçar o tripé: SUS é responsabilidade tripartite; Estados e municípios
+  são responsáveis majoritários por filas.
+- Apresentar Alexandre Padilha como "ministro operacional" focado em reduzir
+  tempo de espera (anúncio de março/2025).
+- Mostrar resultados: Mais Médicos reformulado, cubanos são só 10% — maioria
+  brasileira.
+- Aumento do orçamento do MS para 2026.
+- "Fila de cirurgia é inaceitável. Por isso Padilha chegou com plano de
+  regulação nacional."
+- CONTRA: Bolsonaro cortou R$ 20 bi do SUS em 2020, during pandemia. Lula
+  recomôs.
+
+
+--------------------------------------------------------------------------------
+10) "DENGUE — RECORDES DE CASOS"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Dengue matou mais que nunca. Lula falhou."
+
+DADO REAL: VERDADEIRO.
+- 2024: MAIOR epidemia de dengue da história — mais de 5,8 milhões de casos
+  prováveis (recorde absoluto).
+- Janeiro/2025: 170.376 casos prováveis e 38 mortes confirmadas.
+- 2026 projeção: 1,8 milhão de casos, com retorno do sorotipo DENV-3
+  (perigoso).
+- Brasil é líder mundial em casos de dengue.
+- Vacina Qdenga (Takeda) incorporada ao SUS em 2024 (crianças 10-14 anos).
+
+ERRO ASSUMIDO: Sim — atraso e desorganização na campanha de vacinação. Falta
+de coordenação antecipada com municípios. Nísia demitiu-se sob críticas de
+"explosão de casos".
+
+SOLUÇÃO TEIA:
+- Apresentar vacinação Qdenga como conquista histórica (primeira vacina
+  universalizada).
+- "Recorde climático: El Niño 2024 + aquecimento global — vetor expande.
+  Cuba, Peru, Argentina também tiveram surtos."
+- Reforçar: "A crescente incidência é fenômeno global das arboviroses — OPAS
+  alertou todo o hemisfério."
+- Reconhecer: "Vacinação foi lenta. Aceleramos com campanha nacional."
+- CONTRA: Bolsonaro sabotou campanhas de vacinação e duvidou de imunização.
+- Apresentar reforço do orçamento para vigilância em saúde.
+
+
+--------------------------------------------------------------------------------
+11) "COVID — AINDA É PROBLEMA?"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Lula voltou com máscara, quer ditadura sanitária. Bolsonaro
+superou."
+
+DADO REAL: MUITO EXAGERADO.
+- 2025: pico de casos nas primeiras semanas (57.713 casos em 3 semanas —
+  "maior registro dos últimos 10 meses" — apenas referencia sazonal).
+- COVID não voltou a ser crise de saúde pública de importância internacional
+  desde maio/2023 (OMS).
+- Mortes em 2025 são residuais (dezenas/mês, não milhares).
+- Vacinação segue (reforço anual).
+
+ERRO ASSUMIDO: Nenhum. Governo não acena com restrições. A oposição cria
+narrativa fantasma.
+
+SOLUÇÃO TEIA:
+- "COVID hoje é gripe sazonal — controlada por vacinação e vigilância."
+- Reforçar recuperação do programa nacional de imunização (Bolsonaro
+  destruiu cobertura vacinal — sarampo, poliomielite voltaram a ameaçar).
+- "O governo Lula recomposição cobertura vacinal para 95%+ em crianças."
+- CONTRA: Bolsonaro chamou vacina de "experimento", sabotou campanha, resultou
+  em 700 mil mortes evitáveis.
+
+
+--------------------------------------------------------------------------------
+12) "GRIPE SUÍNA / H1N1 — VOLTOU?"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Volta da gripe suína. Falha na vigilância."
+
+DADO REAL: EXAGERADO.
+- H1N1 é sazonal desde 2009 (pandemia oficial). Faz parte da vacina anual
+  contra gripe do SUS.
+- Surtos sazonais ocorrem no outono/inverno.
+- Não há pandemia de H1N1 em 2025/2026.
+- Campanha anual de vacinação cobre idosos, gestantes, crianças.
+
+ERRO ASSUMIDO: Nenhum. Governo mantém vigilância regular.
+
+SOLUÇÃO TEIA:
+- Esclarecer: "H1N1 é gripe A sazonal. Vacina do SUS cobre. Não é nova
+  pandemia."
+- Reforçar campanha anual de gripe (março a maio).
+- Aumentar cobertura vacinal em idosos.
+
+
+--------------------------------------------------------------------------------
+13) "SAÚDE MENTAL — LULA ABANDONOU"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Suicídio entre jovens cresce. CAPS não funciona. Lula ignorou."
+
+DADO REAL: PARCIALMENTE VERDADEIRO.
+- Panorama Saúde Mental 2025: 1/3 da população relata dificuldades de sono,
+  trabalho, relacionamento por preocupações.
+- 42% dos brasileiros relatam abalos mentais devido a mudanças climáticas.
+- CAPS sofrem com subfinanciamento.
+- Ministério da Saúde: boletim "Saúde Mental em Dados" n.13, fev/2025.
+- Fortalecimento de CAPS é política oficial.
+
+ERRO ASSUMIDO: Fraca comunicação sobre o tema. Saúde mental não foi bandeira
+visível.
+
+SOLUÇÃO TEIA:
+- Apresentar política de reforço dos CAPS e redução de danos.
+- "Saúde mental foi colocada como prioridade em 2025 com reestruturação da
+  política nacional."
+- Apresentar: CVV (Centro de Valorização da Vida) ampliado, saúde mental na
+  atenção básica.
+- Reconhecer subfinanciamento estrutural — problema de décadas.
+
+
+--------------------------------------------------------------------------------
+14) "NÍSIA TRINDADE — GESTÃO FRACA DO MINISTÉRIO"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Nísia foi demitida porque entregou ruim. Dengue, fila, falta de
+remédio."
+
+DADO REAL: PARCIALMENTE VERDADEIRO.
+- Nísia Trindade demitida em fevereiro/2025 (oitava troca de Lula no mandato).
+- Críticas: explosão de dengue (2024), falhas na estratégia de vacinação,
+  falta de medicamentos (insulina) no SUS, programa Mais Especialistas não
+  decolou.
+- DEFESA: gestão tripartite — estados e municípios dividem culpa.
+- Janja (esposa de Lula) elogiou Nísia publicamente: "trabalho incrível de
+  reconstrução".
+- Setor médico avaliou: "Nísia não teve erros que justificassem saída" —
+  saída foi política, não técnica.
+- Substituída por Alexandre Padilha (ex-ministro 2011-2014, criador do Mais
+  Médicos).
+
+ERRO ASSUMIDO: Sim — gestão vista como burocrática. Demissão foi
+"prevenção eleitoral". Comunicação ruim.
+
+SOLUÇÃO TEIA:
+- Reconhecer parcialmente: "Teve acertos e erros. Saída foi reposicionamento
+  político para acelerar a gestão."
+- Apresentar Padilha como "operador experiente" — criou o Mais Médicos.
+- Defender Nísia: "Reconstruiu o SUS após desmonte de Bolsonaro."
+- "Padilha assumiu com prioridade clara: reduzir tempo de espera no SUS."
+
+
+--------------------------------------------------------------------------------
+15) "PROGRAMA MÉDICOS PELO BRASIL — FRACASSO"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Programa não preenche vagas. Médico cubano é ineficiente. Cuba
+ganha dinheiro com nossa saúde."
+
+DADO REAL: MISTO.
+- Médicos pelo Brasil: 4 mil vagas para bolsistas + 595 tutores (edital 2024).
+- Prioridade: vazios assistenciais (Norte/Nordeste).
+- Mais Médicos (reformulado, 2023): 26.414 profissionais ativos; cubanos são
+  apenas 10% (maioria brasileira).
+- EUA suspendeu vistos de autoridades brasileiras envolvidas (ago/2025) —
+  ataque político internacional.
+- Programa Mais Médicos original (Dilma, 2013): repassou bilhões a Cuba —
+  crítica recorrente.
+
+ERRO ASSUMIDO: Programa Médicos pelo Brasil demorou a decolar (edital tardio).
+Acusação sobre Cuba é parcialmente falsa hoje (cubanos são minoria).
+
+SOLUÇÃO TEIA:
+- "Médicos pelo Brasil prioriza brasileiros. Cubanos são só 10%."
+- "Atende vazios assistenciais — regiões onde nunca tinha médico."
+- "Programa é federalizado via ADAPS (Agência de Desenvolvimento da Atenção
+  Primária à Saúde)."
+- CONTRA: Bolsonaro destruiu o Mais Médicos original ao expulsar 8 mil
+  cubanos em 2018, deixou 11 mil vagas vazias.
+
+
+--------------------------------------------------------------------------------
+16) "DIMEAS — O QUE É ISSO?"
+--------------------------------------------------------------------------------
+NOTA: "Dimeas" não é termo padrão reconhecido em política de saúde brasileira
+recente. Provável confusão com: DIM (Declaração de Internação Médica), DIM
+(Departamento de Informática do SUS — Datasus), "dim" como gíria (diminuir),
+ou confusão com DIM-DM (Doenças Mentais). Pode ser referência a "DIM-Medicina
+Integrativa" — mas não há política pública federal de grande visibilidade
+chamada "Dimeas" até julho/2026. Recomendação: se perguntarem, pedir
+esclarecimento. Se for outro conceito, atualizar.
+
+DADO REAL: Não identificado como tema federal específico.
+
+ERRO ASSUMIDO: Nenhum — possivelmente ruído narrativo da oposição.
+
+SOLUÇÃO TEIA:
+- Pedir esclarecimento ao debatedor: "O que o senhor entende por Dimeas?
+  Não há programa federal com esse nome."
+- Evitar entrar em narrativa desconhecida — pode ser pegadinha.
+
+
+################################################################################
+#                                CORRUPÇÃO                                     #
+################################################################################
+
+--------------------------------------------------------------------------------
+17) "BANCO MASTER — CONEXÃO COM O GOVERNO LULA"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Lula recebeu Daniel Vorcaro (dono do Banco Master) no Planalto.
+Banqueiro doador. Escândalo atinge Jaques Wagner, líder do governo no Senado."
+
+DADO REAL: PARCIALMENTE VERDADEIRO.
+- Lula recebeu Vorcaro em dezembro/2024, fora da agenda oficial, no
+  Planalto (revelado em janeiro/2026).
+- Lula admitiu o encontro (fevereiro/2026): "Não haverá posição política pró
+  ou contra. Haverá investigação técnica do BC."
+- Operação Compliance Zero (PF): 9 fases até junho/2026. Investiga fraudes
+  bilionárias.
+- Junho/2026: operação atingiu Jaques Wagner (líder do governo no Senado),
+  Ciro Nogueira (PP), Cláudio Castro (governador RJ).
+- Vorcaro é suspeito de operação fraudulenta de venda do Master ao BRB.
+- Master também atingiu Mantega, Lewandowski, Jaques Wagner (conexões
+  mencionadas pela Gazeta do Povo).
+
+ERRO ASSUMIDO: Sim — erro grave de comunicação. Receber Vorcaro "fora da
+agenda oficial" foi passo em falso. O governo pareceu tentar blindar.
+
+SOLUÇÃO TEIA:
+- NÃO NEGAR: admitir o encontro e defender a investigação técnica.
+- Destacar que o governo NÃO interferiu: "BC investiga livremente, PF opera
+  contra todos, inclusive aliados."
+- "Jaques Wagner foi alvo de operação. Lula não o blindou — isso mostra
+  autonomia da PF."
+- CRUCIAL — redirecionar: Master atinge também direita (Ciro Nogueira, PP;
+  Cláudio Castro, Republicanos) — não é escândalo do PT. É transversal.
+- CONTRA-ATAQUE: "Ciro Nogueira (líder do Centrão, ex-ministro de Bolsonaro)
+  está no caso. Cláudio Castro (Republicanos, aliado de Bolsonaro) também.
+  Vamos investigar todos."
+- Não usar "perseguição" — isso vira arma contra.
+
+
+--------------------------------------------------------------------------------
+18) "OVERCLEAN — EMENDAS, DNOCS"
+--------------------------------------------------------------------------------
+ARGUMENTO: "PF descobriu R$ 1,4 bilhão desviado em emendas. Lira aparece.
+Elmar Nascimento aparece. Centrão do Lula."
+
+DADO REAL: VERDADEIRO — mas com importante qualificação.
+- Operação Overclean (PF, deflagrada dezembro/2024): investiga fraudes no
+  DNOCS (Departamento Nacional de Obras Contra as Secas), suspeita de desvio
+  de R$ 1,4 bilhão em emendas parlamentares.
+- Mira empresas dos irmãos Alex e Fabio Parente.
+- Cita Lira (Arthur Lira, ex-presidente da Câmara): contrato de R$ 20,3
+  milhões para pavimentação vicinal em Alagoas via emenda.
+- Elmar Nascimento (União Brasil, líder na Câmara): investigado.
+- Relator no STF: Nunes Marques (Barroso manteve).
+
+ERRO ASSUMIDO: Governo federal não "criou" o esquema — DNOCS e emendas são
+instrumentos do Congresso. MAS o governo capturou aliados ligados ao esquema
+(Lira, Centrão).
+
+SOLUÇÃO TEIA:
+- "Governo Lula não opera as emendas — quem opera é o Congresso (emendas
+  individuais e de comissão)."
+- Reforçar: PF investiga livremente, STF relator mantido.
+- "Lira é oposição ao governo no momento (aposentou da Câmara, corre para
+  Senado por Alagoas). Não é aliado."
+- "Elmar Nascimento é União Brasil (Centrão, oposição a Lula desde 2025)."
+- Contraste com Bolsonaro: governo Bolsonaro nomeou Lira como presidente da
+  Câmara e fez orçamento secreto bilionário com ele.
+
+
+--------------------------------------------------------------------------------
+19) "ORÇAMENTO SECRETO 2.0 — EMENDAS DE LIDERANÇA"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Lula ressuscitou o orçamento secreto via emendas de liderança.
+R$ 1,3 bilhão oculto em 2025."
+
+DADO REAL: VERDADEIRO — crítica materialmente correta.
+- Transparência Brasil (julho/2026): emendas de liderança (RP8) somaram
+  R$ 1,3 bilhão em 2025.
+- Em 2022, RP8 somava R$ 136 milhões; em 2025, saltou para R$ 9,3 bilhões —
+  crescimento de 68 vezes em 3 anos.
+- STF considerou orçamento secreto inconstitucional em 2022.
+- Emendas de liderança "reproduzem a lógica do orçamento secreto" (Transparência
+  Brasil).
+- Lula liberou R$ 8,5 bilhões em emendas em 2025; em uma semana (junho/2025),
+  pagou quase 20% do total.
+- Dezembro/2025: 85% das emendas "recuperadas" do orçamento secreto pelo
+  Congresso — sancionadas por Lula.
+
+ERRO ASSUMIDO: ERRO ASSUMIDO GRAVE. O governo sancionou e executou emendas
+com formato similar ao orçamento secreto derrubado pelo STF. Inconstitucionalidade
+potencial.
+
+SOLUÇÃO TEIA:
+- Reconhecer parcialmente: "Há questionamento legítimo. Vamos discutir a
+  formatação das emendas de comissão."
+- Defender: "As emendas RP8 foram criadas por lei aprovada pelo Congresso.
+  Não há 'orçamento secreto' porque são publicadas no DOU."
+- Contraste: "Bolsonaro operou o orçamento secreto original bilionário
+  (R$ 19 bilhões em 2022), declarado inconstitucional."
+- Proposta: defender reforma do modelo de emendas com mais transparência.
+- NÃO defender a prorrogação do modelo — é terra arrasada.
+
+
+--------------------------------------------------------------------------------
+20) "CPI DO INSS — DESCONTOS INDEVIDOS"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Governo permitiu descontos ilegais em aposentadorias. R$ 6,3
+bilhões roubados de idosos."
+
+DADO REAL: VERDADEIRO — problema real sob gestão do INSS.
+- Esquema de descontos indevidos por entidades associativas movimentou R$
+  6,3 bilhões (estimativa inicial).
+- Ministro Wolney Queiroz (Previdência): descontos podem chegar a R$ 3
+  bilhões.
+- Oposição protocolou CPI do INSS na Câmara (abril/2025).
+- Lula sancionou lei que proíbe descontos de associações em benefícios do INSS
+  e garante devolução integral.
+- Julho/2025: Lula assinou MP liberando R$ 3,3 bilhões para ressarcimento.
+- Ressarcimento começou em 24/07/2025 (via Meu INSS, Central 135, Correios).
+
+ERRO ASSUMIDO: SIM — ERRO GRAVE DE GESTÃO. O INSS não fiscalizou os descontos.
+Erro de controle interno do governo.
+
+SOLUÇÃO TEIA:
+- RECONHECER o erro: "Tivemos falha de fiscalização no INSS. O governo
+  corrigiu."
+- Apresentar a correção: "Lei sancionada por Lula proíbe descontos. R$ 3,3
+  bilhões liberados para ressarcimento. Devolução começou em julho/2025."
+- "Estamos devolvendo cada centavo indevidamente descontado."
+- CONTRA: Bolsonaro nomeou presidente do INSS investigado (previdência
+  desmontada, fila de perícias gigante).
+- Destacar velocidade da resposta: lei + MP + ressarcimento em poucos meses.
+
+
+--------------------------------------------------------------------------------
+21) "NOMEAÇÕES POLÍTICAS — RECORDE DE CARGOS COMISSIONADOS"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Lula bateu recorde de cargos comissionados. Mais de 50 mil.
+Hipocrisia."
+
+DADO REAL: VERDADEIRO.
+- Dezembro/2025: governo Lula criou 4.439 novos cargos comissionados desde
+  janeiro/2023.
+- Total de cargos comissionados no Executivo federal chegou a ~50 mil em 2025
+  (recorde histórico).
+- Defesa do governo: reorganização de ministérios, "transformação" de cargos
+  existentes, sem novas despesas.
+
+ERRO ASSUMIDO: Erro óbvio de coerência. Discurso contra "partidarização da
+máquina" não combina com recorde de comissionados.
+
+SOLUÇÃO TEIA:
+- Reconhecer: "Criamos ministérios extras, o que gerou novas funções."
+- Defender: "Cargos são para reconstrução da máquina pública após desmonte de
+  Bolsonaro."
+- Anunciar plano de conversão de comissionados em efetivos via concursos.
+- "Já realizamos X concursos públicos (Receita, PF, etc.)."
+- CONTRA: Bolsonaro tinha ~47 mil comissionados (nível parecido). Diferença
+  é marginal.
+
+
+--------------------------------------------------------------------------------
+22) "RELAÇÃO COM CENTRÃO — PP, UNIÃO, REPUBLICANOS"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Lula governa com corruptos do Centrão. Ciro Nogueira, ACM Neto,
+Calheiros. Igual a todos os outros."
+
+DADO REAL: MISTO — relação evoluiu.
+- 2023-2024: Lula governou com apoio do Centrão (PP, União Brasil,
+  Republicanos) — inclusive com ministros.
+- 2025: PP e União Brasil formalizaram aliança de oposição (agosto/2025).
+- Setembro/2025: União Brasil e PP exigiram saída de filiados do governo
+  Lula (decisão de Antonio Rueda e Ciro Nogueira).
+- Lula cobrou ministros do Centrão e acirrou tensão (agosto/2025).
+- Republicanos ainda aliados (Rivera, Ibaneis).
+- Hoje (2026): relação tênue, com oposição parcial do Centrão.
+
+ERRO ASSUMIDO: Erro político — aliança com Centrão enfraqueceu discurso
+moralista. Agora que rompeu, pode-se recuperar.
+
+SOLUÇÃO TEIA:
+- Destacar: "PP e União Brasil romperam conosco. Republicanos em discussão.
+  Lula está reorganizando base."
+- "Romper com Centrão custa governabilidade, mas é sinal de coerência."
+- CONTRA: Bolsonaro governou 100% com Centrão (Lira presidente da Câmara,
+  Pacheco presidente do Senado, Rodrigo Pacheco, Lira, Centeno, Ciro como
+  ministro da Casa Civil).
+- "Bolsonaro criou o orçamento secreto com Lira. Nós estamos rompendo."
+
+
+--------------------------------------------------------------------------------
+23) "PEC DA BLINDAGEM — LULA VETOU OU SANCIPOU?"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Lula é cúmplice da PEC da Blindagem. PT votou a favor."
+
+DADO REAL: POSICIONAMENTO PÚBLICO CONTRÁRIO — mas com nuance.
+- PEC da Blindagem (PEC 3/2021): dificulta investigação de parlamentares e
+  presidentes de partidos.
+- Câmara aprovou em setembro/2025: 353x134 (1º turno), 344x133 (2º turno).
+- Alguns deputados do PT votaram a favor (TikTok viralizou).
+- Porém: Lula e liderança do PT se POSICIONARAM CONTRA a PEC.
+- Senado ARQUIVOU a PEC em 24/09/2025.
+- Lula disse: "Teve o destino que mereceu. Vergonha nacional."
+
+ERRO ASSUMIDO: Fraca comunicação interna — alguns deputados do PT votaram a
+favor, criando narrativa. Mas executivo federal foi claro.
+
+SOLUÇÃO TEIA:
+- Posicionamento claro: "Lula e PT se posicionaram CONTRA a PEC da Blindagem.
+  Senado arquivou com nosso apoio."
+- Citar frase forte: "Lula chamou PEC de 'vergonha nacional'."
+- Reconhecer: "Alguns parlamentares erraram. Vamos cobrar coerência."
+- CONTRA-ATAQUE: PL, PP, União Brasil, Republicanos (todos oposição a Lula)
+  votaram maciçamente a favor da PEC.
+
+
+--------------------------------------------------------------------------------
+24) "MARCELO ODEBRECHT — LIVRO, RETRATAÇÃO"
+--------------------------------------------------------------------------------
+ARGUMENTO: "Marcelo Odebrecht delatou Lula. Disse que recebeu R$ 8 milhões."
+
+DADO REAL: MISTO — versão conflitante ao longo do tempo.
+- 2017-2018 (delação premiada original): Odebrecht disse a Sergio Moro que
+  R$ 8 milhões foram repassados a Lula pós-Presidência (2012-2013). Planilha
+  do "departamento de propinas" detalhava R$ 4 milhões ao Instituto Lula.
+- Versão tardia (entrevista à Folha, 2024-2025): Odebrecht mudou versão,
+  disse que Lula não favorecia a Odebrecht em troca de benefícios pessoais.
+- Após Toffoli anular atos da Lava Jato (2024), Odebrecht ficou cauteloso —
+  pretende manter silêncio até esgotar recursos.
+- Através do Diálogos do Sul: "Entrevista isenta Lula, expõe erros da Lava
+  Jato."
+- Ainda há incerteza jurídica sobre validade da delação.
+
+ERRO ASSUMIDO: Caso complexo. Governo não pode afirmar "inocência absoluta"
+sem jurisprudência consolidada. Mas Lula foi preso com base em delação
+posteriormente questionada.
+
+SOLUÇÃO TEIA:
+- Lembrar: "Lula foi preso pela Lava Jato. STF anulou as condenações em 2021
+  (STF reconheceu parcialidade de Moro). Lula é juridicamente inocente."
+- "O próprio Marcelo Odebrecht, em entrevista à Folha, isentou Lula de
+  favorecimento pessoal."
+- "Lava Jato foi parcial — reconhecido pelo STF."
+- NÃO entrar em detalhe sobre os R$ 8 milhões — focar na anulação STF.
+- CONTRA: Bolsonaro família tem propinas comprovadas (Queiroz, rachadinha,
+  Milícia no Rio, Martins Mirando, acampamento 7 de setembro).
+
+
+--------------------------------------------------------------------------------
+25) "OPERAÇÃO SEM LIMITE — GOVERNO ESTADUAL VS FEDERAL"
+--------------------------------------------------------------------------------
+ARGUMENTO: "A Operação Sem Limite é estadual (Tarcísio SP). Lula não faz nada
+similar."
+
+DADO REAL: PARCIALMENTE VERDADEIRO.
+- Operação Sem Limite: estadual, governo Tarcísio (SP), 2025. Foco em
+  crack, narcotráfico, no Cracolândia.
+- Tarcísio menciona: "Operação mais importante em 525 anos."
+- Lula minimizou Tarcísio: "Não é nada sem Bolsonaro."
+- O governo federal tem o "Brasil Contra o Crime Organizado" (maio/2026,
+  R$ 11 bilhões) — mais amplo, integrado.
+
+ERRO ASSUMIDO: Oposição rouba narrativa. Governo federal não operou com
+força de comunicação estadual.
+
+SOLUÇÃO TEIA:
+- Não atacar a Operação Sem Limite — reconhecer valor.
+- Apresentar o Brasil Contra o Crime Organizado como plano federal mais
+  amplo (não só SP).
+- "Operação Sem Limite é importante, mas atua em SP. O Brasil Contra o Crime
+  Organizado é nacional, com R$ 11 bi."
+- "Cracolândia é problema urbano crônico de SP há 30 anos — sob todos os
+  governadores."
+- CONTRA: Tarcísio é aliado de Bolsonaro — associá-lo a Bolsonaro.
+
+
+################################################################################
+#                     RESUMO ESTRATÉGICO PARA DEBATES                          #
+################################################################################
+
+PONTOS FORTES DO GOVERNO LULA PARA DESTACAR:
+1. Homicídios em menor nível em 31 anos (-7,4% em 2024).
+2. Programa Brasil Contra o Crime Organizado — R$ 11 bilhões (maio/2026).
+3. Vacina contra dengue incorporada ao SUS (histórico).
+4. PF autônoma — operações contra todos (Overclean, Compliance Zero).
+5. Ressarcimento INSS — R$ 3,3 bi liberados em 3 meses.
+6. Saída do orçamento secreto via STF — em RP8 agora sob transparência.
+7. Recomposição do SUS após desmonte de Bolsonaro.
+8. Plano de Saúde Mental reforçado.
+9. Rompimento com Centrão (PP, União Brasil) em 2025.
+10. Oposição à PEC da Blindagem — chamou de "vergonha nacional".
+
+PONTOS FRACOS A DEFENDER/REDIRECIONAR:
+1. Letalidade policial subiu (erro compartilhado com Estados).
+2. Dengue recorde em 2024 (5,8 milhões de casos).
+3. Banco Master — Vorcaro recebido no Planalto.
+4. Orçamento Secreto 2.0 (emendas de liderança).
+5. CPI do INSS — descontos indevidos.
+6. Cargos comissionados em recorde (50 mil).
+7. Saída de Nísia Trindade e Flávio Dino — rotatividade.
+8. Plano de segurança lançado na véspera da eleição.
+9. Relação histórica com Centrão (mesmo que rompida).
+10. Homicídios ocultos no Norte/Nordeste (subnotificação).
+
+CONTRA-ATAQUE CONTRA BOLSONARO (redirecionamento):
+- Bolsonaro sabotou vacinação → 700 mil mortes evitáveis.
+- Bolsonaro destruiu Mais Médicos (8 mil cubanos expulsos).
+- Bolsonaro criou orçamento secreto (R$ 19 bi em 2022).
+- Bolsonaro governou com Centrão (Lira, Ciro, Pacheco).
+- Bolsonaro interferiu na PF (Ramagem, Anderson Torres).
+- Bolsonaro facilitou armas (14 decretos) → abasteceram crime.
+- Bolsonaro família: rachadinha (Queiroz), Marielle (Domingos Brazão
+  indicado por Bolsonaro ao TCE/RJ), milicianos.
+- Bolsonaro indultou presos (Rafael Alves, Velame).
+- 8 de Janeiro — golpe, Braga Netto, Anderson Torres.
+- Bolsonaro inelegível até 2030 (TSE).
+
+FRASES-CHAVE PARA DEBATE:
+- "Brasil com menor taxa de homicídios em 31 anos."
+- "R$ 11 bilhões para asfixiar o caixa das facções."
+- "Devolvemos cada centavo roubado dos idosos do INSS."
+- "Vacina contra dengue no SUS — primeira do mundo."
+- "PF livre: investigou PT, investigou Centrão, investigou Bolsonaro."
+- "Lula rompeu com Centrão. Bolsonaro governou com eles."
+- "Lava Jato parcial — STF reconheceu. Lula é inocente."
+
+NÃO FAZER:
+- Defender o modelo de emendas RP8 (terra arrasada).
+- Negar erros (INSS, dengue, Nísia, vorcaro) — reconhecer e corrigir.
+- Atacar operações da PF que atingem aliados — reforça autonomia.
+- Prometer "acabar com crime" — unrealistic.
+- Defender Lava Jato — divisivo.
+
+FAZER:
+- Sempre apresentar dados FBSP, Ipea, Datafolha.
+- Sempre contrapor com Bolsonaro (inelegível, golpe, mortes).
+- Sempre destacar AUTONOMIA da PF e do BC.
+- Sempre propor reformas (orçamento, saúde mental, letalidade policial).
+- Sempre reconhecer erros — isso diferencia dos adversários.
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

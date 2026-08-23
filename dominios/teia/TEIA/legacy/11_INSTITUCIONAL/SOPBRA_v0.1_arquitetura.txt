@@ -1,0 +1,548 @@
+================================================================================
+SOPBRA — SISTEMA OPERACIONAL POLÍTICO BRASILEIRO
+================================================================================
+Metodologia de navegação, influência e reforma da política brasileira
+================================================================================
+Autor: Cleiton Moura — TEIA
+Data: Julho/2026
+Protocolo: TEIA-2026-030
+Versão: v0.1 (arquitetura inicial)
+================================================================================
+
+O QUE É
+
+SOPBRA é um metodologia que codifica COMO a política brasileira funciona
+na PRÁTICA -- não como deveria funcionar segundo a Constituição, mas
+como realmente opera: quem tem poder, como fluxa o dinheiro, onde estão
+os pontos de alavancca, e como navegar o sistema para produzir mudança.
+
+Não é um partido. Não é uma ONG. Não é um manifesto.
+É um SISTEMA OPERACIONAL -- um conjunto de módulos, APIs, processos
+e ferramentas que qualquer ator (ativista, jornalista, parlamentar,
+servidor, empreendedor) pode usar para operar dentro do sistema
+político brasileiro com eficácia máxima.
+
+ANALOGIA: se a política brasileira é um computador legado (lento,
+capturado, cheio de bugs), SOPBRA é o manual do kernel + as APIs
++ os drivers que permitem você rodar seus programas nele.
+
+
+================================================================================
+ARQUITETURA DO SISTEMA
+================================================================================
+
+SOPBRA tem 7 camadas, inspiradas na arquitetura de sistemas operacionais:
+
+------------------------------------------------------------------------
+CAMADA 0 — KERNEL (as regras reais do jogo)
+------------------------------------------------------------------------
+A constituição informal do poder no Brasil. Como o sistema realmente
+funciona por baixo da Constituição formal.
+
+Módulos do kernel:
+  K1 — REGRA DA PAUTA: quem controla o que vota, controla tudo
+  K2 — REGRA DO ORÇAMENTO: quem controla a emenda, controla o voto
+  K3 — REGRA DO JUROS: quem controla a dívida, controla o Tesouro
+  K4 — REGRA DA BANCADA: o eixo é setorial, não ideológico
+  K5 — REGRA DO PATRIMÔNIO: política é negócio familiar, não serviço público
+  K6 — REGRA DO JUDICIÁRIO: o STF é o supra-poder quando acionado
+  K7 — REGRA DA OPACIDADE: o que não é visto, não é cobrado
+
+------------------------------------------------------------------------
+CAMADA 1 — DRIVERS (interfaces com cada Poder)
+------------------------------------------------------------------------
+Como se conecta com cada instituição do Estado:
+
+  D1 — DRIVER EXECUTIVO (Presidência, Ministérios, Casa Civil)
+  D2 — DRIVER LEGISLATIVO (Câmara, Senado, comissões)
+  D3 — DRIVER JUDICIÁRIO (STF, STJ, CNJ, Justiça Federal)
+  D4 — DRIVER MINISTÉRIO PÚBLICO (PGR, MPF, MPE)
+  D5 — DRIVER TRIBUNAL DE CONTAS (TCU, TCEs)
+  D6 — DRIVER CGU (Controladoria-Geral da União)
+  D7 — DRIVER BANCO CENTRAL (Copom, CMN, regulação)
+  D8 — DRIVER TSE (justiça eleitoral)
+  D9 — DRIVER ESTADOS (governos estaduais, assembleias)
+  D10 — DRIVER MUNICÍPIOS (prefeituras, câmaras municipais)
+
+------------------------------------------------------------------------
+CAMADA 2 — APIs (como operar cada driver)
+------------------------------------------------------------------------
+Para cada driver, um conjunto de ENDPOINTS (ações possíveis):
+
+  API EXECUTIVO:
+    POST /portaria → cria norma sem Congresso
+    POST /decreto → altera regulamentação
+    POST /medida-provisoria → força pauta (art. 62 CF)
+    GET /audiencia → solicita reunião com ministro
+    POST /ppa → insere prioridade no Plano Plurianual
+
+  API LEGISLATIVO:
+    POST /pl → apresenta projeto de lei
+    POST /emenda → propõe emenda a PL
+    POST /requerimento-cpi → solicita CPI
+    GET /pauta → verifica o que está em pauta
+    POST /audiencia-publica → convoca autoridade
+    GET /votacao-nominal → verifica como cada parlamentar votou
+
+  API JUDICIÁRIO (STF):
+    POST /adi → Ação Direta de Inconstitucionalidade
+    POST /adpf → Arguição de Descumprimento de Preceito Fundamental
+    POST /amicus-curiae → ingressa como amigo da corte
+    POST /re → Recurso Extraordinário
+
+  API MPF:
+    POST /representacao → documenta ilícito
+    POST /acao-civil-publica → coleta dano ao erário
+    GET /parecer → solicita manifestação
+
+  API TCU:
+    POST /representacao → documenta irregularidade
+    GET /auditoria → solicita fiscalização
+    POST /acordao → provoca decisão
+
+  API CGU:
+    POST /denuncia → canal de denúncia
+    GET /auditoria → solicita auditoria em município
+    POST /lai → pedido de acesso à informação
+
+  API BCB/CMN:
+    POST /consulta-publica → sugere regulamentação
+    GET /estatisticas → acessa dados (SGS, REB)
+    POST /parecer-tecnico → submete estudo
+
+  API TSE:
+    GET /prestacao-contas → acessa doações de campanha
+    GET /ficha-limpa → verifica elegibilidade
+    POST /representacao → denuncia irregularidade eleitoral
+
+  API MUNICÍPIOS:
+    GET /portal-transparencia → acessa gastos locais
+    POST /conselho → participa de conselho municipal
+    GET /licitacao → monitora licitações
+    POST /orcamento-participativo → sugere prioridade
+
+------------------------------------------------------------------------
+CAMADA 3 — PROCESSOS (workflows para tarefas comuns)
+------------------------------------------------------------------------
+Sequências de ações para objetivos específicos:
+
+  P1 — APROVAR LEI SEM CONGRESSO
+    Portaria → decreto → MP → regulamentação
+    (Quando usar: reformas que dependem só de executivo)
+
+  P2 — BLOQUEAR LEI RUIM
+    ADI no STF → liminar →audiência pública → mobilização
+    (Quando usar: quando Congresso aprova algo prejudicial)
+
+  P3 — EXPOR CAPTURA POLÍTICA
+    Mapeamento → dossiê → narrativa pública → CPI → MPF
+    (Quando usar: quando há evidência de captura documentada)
+
+  P4 — INSTALAR CPI
+    Coletar assinaturas → requerimento → votação → instalar
+    (Quando usar: quando há esquema que precisa ser investigado)
+
+  P5 — DIGITALIZAR SERVIÇO PÚBLICO
+    Lei existe → CNJ/órgão regulador → petição → implementação
+    (Quando usar: quando a lei está aprovada mas não implementada)
+
+  P6 — REDUZIR SPREAD BANCÁRIO
+    Dossiê BCB → consulta pública CMN → resolução → Open Finance
+    (Quando usar: quando precisa reduzir custo de capital sem Congresso)
+
+  P7 — EXIGIR TRANSPARÊNCIA DE EMENDAS
+    LAI → Portal da Transparência → dashboard IA → STF ADPF 854
+    (Quando usar: quando emendas são opacas)
+
+  P8 — CRIAR COALIZÃO DE GANHADORES
+    Mapear aliados → fórum → associação → co-financiamento
+    (Quando usar: quando precisa contrabalançar lobby setorial)
+
+  P9 — NEUTRALIZAR VETO PLAYER
+    Mapear vulnerabilidades → escolher estratégia → executar
+    (Quando usar: quando um ator bloqueia reforma)
+
+  P10 — PRODUZIR CONTEÚDO DE PRESSÃO
+    Dado verificado → roteiro → TikTok/YouTube/podcast → amplificação
+    (Quando usar: quando precisa criar pressão pública)
+
+------------------------------------------------------------------------
+CAMADA 4 — PACOTES (soluções pré-construídas)
+------------------------------------------------------------------------
+Os 9 documentos de ação do TEIA são "pacotes" prontos:
+
+  PKG-01: dossie-haddad (3 propostas R$ 0 via portaria)
+  PKG-02: peticao-cnj-serp (digitalização de cartórios)
+  PKG-03: amicus-curiae-adpf-854 (transparência de emendas)
+  PKG-04: representacao-mpf-conflito-interesse
+  PKG-05: dossie-banco-master (10 correlações documentadas)
+  PKG-06: roteiro-documentario-preco-selic
+  PKG-07: serie-tiktok-contas-publicas
+  PKG-08: podcast-gestao-nao-gasto
+  PKG-09: estatuto-teia (constituição institucional)
+
+------------------------------------------------------------------------
+CAMADA 5 — MONITORAMENTO (dashboards e alertas)
+------------------------------------------------------------------------
+Sistema de observação contínua do ambiente político:
+
+  MON-1 — DASHBOARD ORÇAMENTO AO VIVO
+    Monitora emendas em tempo real via Portal da Transparência
+    Alerta quando anomalia estatística é detectada
+
+  MON-2 — DASHBOARD SELIC/JUROS
+    Monitora custo fiscal de cada decisão de Copom
+    Cruza com IQD (Índice de Qualidade da Dívida)
+
+  MON-3 — DASHBOARD PARLAMENTAR
+    Monitora votações nominais, presença, propostas
+    Alerta quando pauta de interesse é agendada
+
+  MON-4 — DASHBOARD TERRITORIAL
+    Monitora fluxo de dinheiro por região
+    Alerta quando concentração anômala é detectada
+
+  MON-5 — DASHBOARD JUDICIÁRIO
+    Monitora ADIs, ADPFs, recursos no STF
+    Alerta quando decisão relevante é proferida
+
+------------------------------------------------------------------------
+CAMADA 6 — SEGURANÇA (proteção contra captura)
+------------------------------------------------------------------------
+Como proteger o operador e o sistema:
+
+  SEC-1 — ANONIMATO DE FONTE
+    Toda denúncia baseada em fonte pública verificável
+    NUNCA usar dados sigilosos ou vazados
+
+  SEC-2 — PRESUNÇÃO DE INOCÊNCIA
+    Correlação temporal ≠ causalidade
+    Sempre citar: "documentado, não condenado"
+
+  SEC-3 — PROTEÇÃO JURÍDICA
+    Todo documento protocolável revisado por advogado OAB
+    Amparo legal citado em cada afirmação
+
+  SEC-4 — INTEGRIDADE DE DADOS
+    Hash MD5 + SHA-256 em cada documento
+    Versionamento Git com histórico imutável
+
+  SEC-5 — PROTEÇÃO CONTRA RETALIAÇÃO
+    Documentos públicos baseados em fontes públicas
+    NUNCA incluir informação pessoal não pública
+
+
+================================================================================
+MAPA DO SISTEMA POLÍTICO BRASILEIRO (como realmente funciona)
+================================================================================
+
+O sistema político brasileiro tem 12 centros de poder. Cada um tem
+regras próprias, atores específicos e pontos de alavancagem.
+
+------------------------------------------------------------------------
+CENTRO 1 — PRESIDÊNCIA DA CÂMARA
+------------------------------------------------------------------------
+PODER: controla a pauta (o que vota e quando)
+ATOR ATUAL: Hugo Motta (Republicanos-PB)
+PONTO DE ALAVANCA: pressão via partido (Tarcísio), CPI Master, PF
+COMO OPERAR: não convencer Motta — criar CUSTO de não pautar
+
+------------------------------------------------------------------------
+CENTRO 2 — PRESIDÊNCIA DO SENADO
+------------------------------------------------------------------------
+PODER: controla pauta do Senado + CCJ
+ATOR ATUAL: Davi Alcolumbre (União-AP)
+PONTO DE ALAVANCA: pragmatismo (P=95,9%), via Planalto
+COMO OPERAR: cooptação via projeto para o AP ou reconhecimento
+
+------------------------------------------------------------------------
+CENTRO 3 — CAE (Comissão de Assuntos Econômicos)
+------------------------------------------------------------------------
+PODER: controla audiências com BC e pauta tributária do Senado
+ATOR ATUAL: Renan Calheiros (MDB-AL)
+PONTO DE ALAVANCA: ego/legado, pressão CPI Master
+COMO OPERAR: oferecer papel histórico (relatoria de reforma)
+
+------------------------------------------------------------------------
+CENTRO 4 — CFT (Comissão de Finanças e Tributação)
+------------------------------------------------------------------------
+PODER: controla tramitação de matéria tributária na Câmara
+ATOR ATUAL: Merlong Solano (PT-PI)
+PONTO DE ALAVANCA: via liderança do governo (Ricardo Barros)
+COMO OPERAR: via executivo (Haddad ordena, Barros articula)
+
+------------------------------------------------------------------------
+CENTRO 5 — CMO (Comissão Mista de Orçamento)
+------------------------------------------------------------------------
+PODER: controla o Orçamento da União
+ATOR ATUAL: Júlio Arcoverde (PP-PI)
+PONTO DE ALAVANCA: via Centrão (Ciro Nogueira)
+COMO OPERAR: pressão sobre composição da CMO no início da legislatura
+
+------------------------------------------------------------------------
+CENTRO 6 — MINISTÉRIO DA FAZENDA
+------------------------------------------------------------------------
+PODER: política fiscal, gestão da dívida, portarias
+ATOR ATUAL: Fernando Haddad
+PONTO DE ALAVANCA: incentivo fiscal claro (reduz custo político)
+COMO OPERAR: dossiê técnico (PKG-01) mostrando benefício mútuo
+
+------------------------------------------------------------------------
+CENTRO 7 — BANCO CENTRAL / CMN
+------------------------------------------------------------------------
+PODER: política monetária, regulação financeira, Open Finance
+ATOR ATUAL: Gabriel Galípolo (BCB)
+PONTO DE ALAVANCA: resolução CMN (não precisa de Congresso)
+COMO OPERAR: consulta pública + parecer técnico + pressão OCDE
+
+------------------------------------------------------------------------
+CENTRO 8 — STF (Supremo Tribunal Federal)
+------------------------------------------------------------------------
+PODER: pode derrubar leis, determinar transparência, bloquear atos
+ATOR RELEVANTE: Flávio Dino (relator ADPF 854)
+PONTO DE ALAVANCA: amicus curiae, ADI, ADPF
+COMO OPERAR: documento jurídico bem fundamentado (PKG-03)
+
+------------------------------------------------------------------------
+CENTRO 9 — MPF (Ministério Público Federal)
+------------------------------------------------------------------------
+PODER: investigar, denunciar, propor ações
+ATOR: Procurador-Geral da República
+PONTO DE ALAVANCA: representação documentada
+COMO OPERAR: representação com evidência pública (PKG-04)
+
+------------------------------------------------------------------------
+CENTRO 10 — TCU + CGU
+------------------------------------------------------------------------
+PODER: auditar, fiscalizar, determinar medidas
+ATOR: ministros do TCU, ministro da CGU
+PONTO DE ALAVANCA: representação + dashboard IA
+COMO OPERAR: representação + cruzamento de dados
+
+------------------------------------------------------------------------
+CENTRO 11 — TSE
+------------------------------------------------------------------------
+PODER: regulamentação eleitoral, prestação de contas
+ATOR: ministros do TSE
+PONTO DE ALAVANCA: resolução TSE (Cartão de Emendas)
+COMO OPERAR: petição + pressão pública pré-eleitoral
+
+------------------------------------------------------------------------
+CENTRO 12 — CNJ (Conselho Nacional de Justiça)
+------------------------------------------------------------------------
+PODER: regulamentar cartórios, judiciary admin
+ATOR: presidente do CNJ (min. do STF rotativo)
+PONTO DE ALAVANCA: resolução + provimento (SERP)
+COMO OPERAR: petição formal (PKG-02)
+
+
+================================================================================
+OS 7 PRINCÍPIOS DO KERNEL POLÍTICO BRASILEIRO
+================================================================================
+
+Estes são os axiomas -- as regras imutáveis que governam o sistema.
+
+K1 — REGRA DA PAUTA
+  Quem controla O QUE VOTA e QUANDO tem mais poder que quem vota.
+  O veto mais poderoso não é o NÃO. É o silêncio (não pautar).
+  IMPLICAÇÃO: para aprovar algo, não precisa convencer 257.
+  Precisa convencer 1 (quem controla a pauta) ou criar custo de não pautar.
+
+K2 — REGRA DO ORÇAMENTO
+  Emenda parlamentar = moeda política. Quem tem emenda, tem voto.
+  Reeleição de prefeito em cidade-cativo: 93-98%.
+  IMPLICAÇÃO: para quebrar o sistema de captura, precisa quebrar o
+  vínculo emenda-voto. Via: identificação nominal (ADPF 854) +
+  Cartão de Emendas no TSE.
+
+K3 — REGRA DOS JUROS
+  A dívida pós-fixada cria alinhamento entre BC e rentistas.
+  Cada ponto de Selic transfere R$ X bi do Tesouro para detentores.
+  IMPLICAÇÃO: a prefixação (já em 47%) é o instrumento de libertação.
+  Não precisa reduzir Selic — precisa reduzir SENSIBILIDADE à Selic.
+
+K4 — REGRA DA BANCADA SETORIAL
+  O eixo relevante não é esquerda/direita. É SETORIAL.
+  PL e PSOL estão igualmente na bancada do funcionalismo.
+  IMPLICAÇÃO: não tente convencer por ideologia. Tente por INTERESSE
+  MATERIAL alinhado (quem ganha com a reforma vira aliado).
+
+K5 — REGRA DO PATRIMÔNIO FAMILIAR
+  Política no Brasil é negócio familiar, não serviço público.
+  Famílias controlam estados por gerações (Sarney/MA, Lira/AL,
+  Calheiros/AL, Braga/Aziz/AM, Ciro/Eliane/PI).
+  IMPLICAÇÃO: para quebrar oligarquia, precisa de financiamento
+  público de campanha + Cartão de Emendas que exponha o fluxo.
+
+K6 — REGRA DO JUDICIÁRIO
+  O STF é o supremo poder quando acionado corretamente.
+  Pode derrubar leis (ADI), determinar transparência (ADPF),
+  bloquear atos do executivo e legislativo.
+  IMPLICAÇÃO: quando o Congresso se captura, o Judiciário é a
+  válvula de escape. Usar ADPF e amicus curiae estrategicamente.
+
+K7 — REGRA DA OPACIDADE
+  O que não é visto, não é cobrado. O sistema funciona porque
+  ninguém vê: o fluxo de emendas, o custo da Selic, o superfaturamento,
+  o conflito de interesse, a drenagem financeira inter-regional.
+  IMPLICAÇÃO: a primeira batalha é sempre pela VISIBILIDADE.
+  Nota Técnica de Impacto Fiscal, IQD, Dashboard, Cartão de Emendas —
+  todos são instrumentos de tornar o invisível visível.
+
+
+================================================================================
+MATRIZ DE PODER: O QUE CONTROLA O QUE
+================================================================================
+
+Para cada CENTRO DE PODER, o que ele controla e qual a rota de acesso:
+
+CENTRO         | CONTROLA                  | ROTA DE ACESSO              | CUSTO
+---------------|---------------------------|-----------------------------|--------
+Pres. Câmara   | Pauta, votação            | Pressão via partido/CPI     | MÉDIO
+Pres. Senado   | Pauta Senado, CCJ         | Cooptação (pragmático)     | BAIXO
+CAE            | Audiências BC, tributário | Ego/legado                  | MÉDIO
+CFT            | Matéria tributária        | Via executivo               | BAIXO
+CMO            | Orçamento                 | Via Centrão                 | ALTO
+MF (Haddad)    | Portaria, política fiscal | Dossiê técnico              | BAIXO
+BCB/CMN        | Regulação, Open Finance   | Consulta pública + OCDE     | BAIXO
+STF            | Constitucionalidade       | ADI/ADPF/amicus             | MÉDIO
+MPF            | Investigação              | Representação               | BAIXO
+TCU/CGU        | Auditoria                 | Representação + IA          | BAIXO
+TSE            | Regulação eleitoral       | Resolução + pressão pública | BAIXO
+CNJ            | Cartórios, judiciário     | Petição + provimento        | BAIXO
+
+
+================================================================================
+CICLO DE OPERAÇÃO SOPBRA
+================================================================================
+
+Toda operação no sistema político brasileiro segue um ciclo de 5 fases:
+
+FASE A — RECON (observação)
+  Mapear o ambiente: quem tem poder, qual o status quo, onde estão
+  os pontos de alavancca. Usar skills: mapeamento-veto-players,
+  diagnostico-territorial.
+
+FASE B — DIAGNÓSTICO (análise)
+  Entender o problema: causa raiz, atores envolvidos, recursos em jogo.
+  Usar skill: pipeline-dialetico, fact-check-economico.
+
+FASE C — ESTRATÉGIA (planejamento)
+  Escolher a rota de menor resistência: via executivo, legislativo,
+  judiciário ou misto. Calcular probabilidade. Usar skill:
+  simulacao-monte-carlo.
+
+FASE D — EXECUÇÃO (ação)
+  Acionar a API correspondente. Produzir o documento. Protocolar.
+  Publicar. Pressionar. Usar skills: redacao-juridica-advocacy,
+  producao-conteudo-advocacy.
+
+FASE E — MONITORAMENTO (feedback)
+  Acompanhar resultado. Medir impacto. Ajustar estratégia.
+  Usar skill: sistema-protocolo para versionar mudanças.
+
+
+================================================================================
+EXEMPLO DE OPERAÇÃO COMPLETA
+================================================================================
+
+OBJETIVO: Reduzir spread bancário de 28-30 para 22-24 p.p.
+
+FASE A — RECON:
+  Mapear: spread de 28-30 p.p. (BCB SGS 20783)
+  Decomposição: 84% custo, 16% margem (BCB REB 2023)
+  Veto players: Hugo Motta (bloqueou tributação IFs), Febraban
+  Aliados: Nubank, XP, Sicredi, CNI, Fiesp
+
+FASE B — DIAGNÓSTICO:
+  Causa raiz: spread é estrutural (Basileia + inadimplência + tributos)
+  Não é só oligopólio. Competição reduz margem mas não custo.
+  4 frentes necessárias: tributação, garantias, competição, dados
+
+FASE C — ESTRATÉGIA:
+  Via legislativo:bloqueada (Motta controle pauta, P=88% de veto)
+  Via executivo: FACTÍVEL (resolução CMN, portaria BCB)
+  Via judiciário: não aplicável
+  Melhor rota: BCB/CMN para Frentes B (garantias) e D (dados) +
+    executivo para Frente C (Open Finance)
+
+FASE D — EXECUÇÃO:
+  1. Dossiê técnico para BCB mostrando redução de inadimplência via
+     registro digital de garantias (Frente B)
+  2. Consulta pública CMN sobre Open Finance ampliado (Frente C+D)
+  3. Via Haddad: portaria expandindo dados alternativos de crédito
+  4. Conteúdo público: TikTok "O imposto privado de 30%"
+  5. Coalizão: Fórum de Competição Financeira (Nubank+XP+Sicredi)
+
+FASE E — MONITORAMENTO:
+  Dashboard: spread médio mensal (BCB SGS 20783)
+  Meta: 28-30 → 26-28 em 24 meses → 22-24 em 60 meses
+  Alerta: se spread sobe ao invés de descer, estratégia falhou
+
+
+================================================================================
+O QUE O SOPBRA NÃO É
+================================================================================
+
+NÃO é um partido político. Não apoia candidato.
+NÃO é ilegal. Todas as ações são via canais institucionais legais.
+NÃO é hacker de sistema eleitoral. Não manipula votos.
+NÃO é operação de inteligência. Usa apenas fontes públicas.
+NÃO é violence. Não usa força física ou ameaça.
+NÃO é paternalista. Não diz ao usuário o que pensar.
+
+SOPBRA é um METODOLOGIA de navegação institucional. Como um GPS:
+mostra o caminho, calcula a rota, alerta sobre obstáculos.
+Mas não dirige o carro. O usuário decide o destino.
+
+
+================================================================================
+ROADMAP DE DESENVOLVIMENTO
+================================================================================
+
+v0.1 (JUL/2026) — ARQUITETURA INICIAL [ESTE DOCUMENTO]
+  Define camadas, módulos, APIs e princípios do kernel.
+
+v0.2 (AGO/2026) — DRIVERS COMPLETOS
+  Documentação detalhada de cada um dos 10 drivers (D1-D10)
+  com fluxogramas, formulários e exemplos.
+
+v0.3 (SET/2026) — APIs DOCUMENTADAS
+  Cada endpoint documentado com: método, parâmetros, retorno,
+  custo, prazo, exemplo de uso.
+
+v0.4 (OUT/2026) — PROCESSOS TESTADOS
+  Cada um dos 10 processos (P1-P10) testado com caso real.
+
+v0.5 (NOV/2026) — MONITORAMENTO OPERACIONAL
+  Dashboards funcionais: orçamento, Selic, parlamentar, territorial.
+
+v0.6 (JAN/2027) — APP MÓVEL
+  App "Minha Cidade, Meu Dinheiro" integrado ao SOPBRA.
+
+v0.7 (MAR/2027) — API PÚBLICA
+  Desenvolvedores externos podem consumir dados do SOPBRA.
+
+v1.0 (JUL/2027) — RELEASE ESTÁVEL
+  Documentação completa, testes feitos, comunidade ativa.
+
+================================================================================
+COMO CONTRIBUIR
+================================================================================
+
+1. USE o sistema para uma operação real. Reporte o que funcionou.
+2. DOCUMENTE novos drivers, APIs e processos que descobrir.
+3. FACT-CHECK cada número. Use a skill fact-check-economico.
+4. VERSIONE cada mudança via Git (sistema-protocolo).
+5. COMPARTILHE mas mantenha integridade (hashes, fontes).
+
+O SOPBRA é open-source. Não tem dono. Tem mantenedor.
+O mantenedor atual é Cleiton Moura / TEIA.
+Qualquer pessoa pode forkar, melhorar e usar.
+
+================================================================================
+FIM DO DOCUMENTO DE ARQUITETURA SOPBRA v0.1
+================================================================================
+Protocolo: TEIA-2026-030
+O dinheiro da reforma virá do trabalho.
+================================================================================

@@ -1,0 +1,455 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-014
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Petição ao CNJ — Implementação SERP
+STATUS: PROTOCOLO_PENDENTE
+DESTINATÁRIO: Presidente do CNJ / Corregedor Nacional
+AÇÃO: Protocolar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 25,571 bytes (25.0 KB)
+HASH MD5: 165749e3e6d4da5410f7322a6fabb8f3
+HASH SHA-256: 5e8b7f6d2d666e8dba2b95308b20d3d8793d18a77c54ebcf6badc879204e26bb
+================================================================================
+
+================================================================================
+PETIÇÃO FORMAL AO CONSELHO NACIONAL DE JUSTIÇA (CNJ)
+EXIGÊNCIA DE IMPLEMENTAÇÃO INTEGRAL DO SISTEMA ELETRÔNICO DOS REGISTROS
+PÚBLICOS (SERP) — LEI Nº 14.382/2022
+================================================================================
+
+EXMO. SR. PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA
+AO CORREGEDOR NACIONAL DE JUSTIÇA
+SAF/SUL — QUADRA 5 — LOTE 1 — TRECHO III — BRASÍLIA/DF — CEP 70070-600
+
+    CLEITON MOURA, brasileiro, maior, qualificado como analista de
+    geopolítica e economia, atuante na análise de reformas institucionais
+    brasileiras, com interesse legítimo na modernização dos serviços
+    públicos de registro e na observância da legislação federal vigente,
+    vem, respeitosamente, à presença de Vossa Excelência, com fundamento
+    no art. 103-B da Constituição Federal, na Lei nº 14.382, de 27 de
+    junho de 2022, no Provimento CNJ nº 139/2023, no Provimento CNJ nº
+    149/2023 (Código Nacional de Normas da Corregedoria Nacional de
+    Justiça — Foro Extrajudicial — CNN/CN/CNJ-Extra), no Provimento CNJ
+    nº 180/2024 e nos princípios da legalidade, da eficiência e da
+    supremacia do interesse público, apresentar a presente
+
+                    REPRESENTAÇÃO / PEDIDO DE PROVIDÊNCIAS
+
+    objetivando a adoção, por este Conselho Nacional de Justiça, de
+    medidas regimentais, normativas e de fiscalização destinadas a
+    assegurar a IMPLEMENTAÇÃO INTEGRAL, OBRIGATÓRIA E COMPLETA do
+    Sistema Eletrônico dos Registros Públicos (SERP), instituído pela
+    Lei nº 14.382/2022 (conversão da Medida Provisória nº 1.085, de 27
+    de dezembro de 2021), em conformidade com os termos que passa a
+    expor, demonstrar e requerer.
+
+--------------------------------------------------------------------------------
+I. SÍNTESE DO PEDIDO
+--------------------------------------------------------------------------------
+
+    1. Trata a presente representação de exigência formal dirigida ao
+    Conselho Nacional de Justiça — órgão de controle da atividade
+    administrativa, financeira e disciplinar da Justiça brasileira (art.
+    103-B, § 4º, da CF/88) — para que adote as providências regimentais
+    e normativas aptas a (a) fixar CRONOGRAMA NACIONAL E OBRIGATÓRIO de
+    implementação do SERP em todos os entes federativos; (b) estabelecer
+    META DE DIGITALIZAÇÃO DE 100% DOS REGISTROS IMOBILIÁRIOS ATÉ 31 DE
+    DEZEMBRO DE 2028; e (c) promover a PADRONIZAÇÃO NACIONAL DOS
+    PROCEDIMENTOS NOTARIAIS E REGISTRAIS, conforme originalmente
+    desenhado pela Lei nº 14.382/2022.
+
+    2. Tal exigência encontra suporte no fato objetivo de que, transcorri-
+    dos mais de TRÊS ANOS da promulgação da Lei nº 14.382/2022 (publicada
+    no DOU de 28/06/2022, com vigência plena a partir de 31/01/2023) e
+    apesar da edição dos Provimentos CNJ nº 139/2023, nº 149/2023 e nº
+    180/2024, a implementação do SERP permanece PARCIAL, ASSIMÉTRICA E
+    INCOMPLETA, com núcleo operacional ainda limitado ao módulo SERP-Jud
+    (destinado precipuamente ao Poder Judiciário e a órgãos públicos),
+    sem que haja adesão universal das 13.233 (treze mil, duzentas e
+    trinta e três) delegações de serviços notariais e de registro em
+    funcionamento no território nacional.
+
+--------------------------------------------------------------------------------
+II. DOS FATOS
+--------------------------------------------------------------------------------
+
+    3. A Medida Provisória nº 1.085, de 27 de dezembro de 2021, foi
+    convertida na Lei nº 14.382, de 27 de junho de 2022, com a finalidade
+    precípua de instituir o Sistema Eletrônico dos Registros Públicos
+    (SERP) e modernizar a Lei nº 6.015, de 31 de dezembro de 1973 (Lei
+    de Registros Públicos), bem como as Leis nº 6.766/1979 e nº
+    13.465/2017. O art. 1º da Lei nº 14.382/2022 dispõe que ela "dispõe
+    sobre o Sistema Eletrônico dos Registros Públicos (Serp), de que
+    trata o art. 37 da Lei nº 11.977, de 7 de julho de 2009, bem como
+    moderniza e simplifica os procedimentos relativos aos registros
+    públicos de atos e negócios jurídicos".
+
+    4. O art. 3º da Lei nº 14.382/2022, ao alterar a redação do art. 37
+    da Lei nº 11.977/2009, estabeleceu que "os serviços de registros
+    públicos de que trata a Lei nº 6.015, de 31 de dezembro de 1973 (Lei
+    de Registros Públicos) promoverão a implantação e o funcionamento
+    adequado do Sistema Eletrônico dos Registros Públicos (Serp)".
+
+    5. O parágrafo único do art. 3º da Lei nº 14.382/2022 (com a redação
+    dada ao art. 6º e seguintes) impôs, de forma EXPRESSA, que é
+    OBRIGATATÓRIA a adesão ao SERP dos oficiais dos registros públicos a
+    que se refere a Lei nº 6.015/1973, ou dos responsáveis interinos pelo
+    expediente, in verbis: "§ 1º É obrigatória a adesão ao Serp dos
+    oficiais dos registros públicos de que trata a Lei nº 6.015, de 31 de
+    dezembro de 1973 (Lei de Registros Públicos), ou dos responsáveis
+    interinos pelo expediente". A obrigatoriedade legal, portanto, não
+    admite interpretação restritiva ou postergação.
+
+    6. Em cumprimento ao mandamento legal, o Conselho Nacional de Justiça
+    editou, em 1º de fevereiro de 2023, o PROVIMENTO Nº 139/2023, que
+    estabeleceu diretrizes para a organização do SERP, instituiu o
+    Operador Nacional do Sistema de Registros Públicos (ONSERP) e o
+    Fundo para a Implementação e Custeio do Sistema Eletrônico de
+    Registros Públicos (FICONSERP), dispondo, no art. 6º, que os
+    operadores nacionais manterão registros contábeis, financeiros e
+    administrativos, sob fiscalização da Corregedoria Nacional de
+    Justiça.
+
+    7. Em 30 de agosto de 2023, foi editado o PROVIMENTO Nº 149/2023,
+    que instituiu o Código Nacional de Normas da Corregedoria Nacional
+    de Justiça do Conselho Nacional de Justiça — Foro Extrajudicial
+    (CNN/CN/CNJ-Extra), buscando unificar a disciplina normativa da
+    atividade registral e notarial em âmbito nacional.
+
+    8. Em 16 de agosto de 2024, foi publicado o PROVIMENTO Nº 180/2024,
+    alterando o CNN/CN/CNJ-Extra para dispor especificamente sobre o
+    SERP. A norma inovou ao PROIBIR, de forma expressa, "a criação,
+    implantação e manutenção de centrais de serviços eletrônicos de
+    registros públicos descentralizados, sejam eles estaduais ou
+    regionais", exigindo que todas as unidades de serviço registral
+    integrem seus sistemas ao SERP. Estabeleceu, ainda, prazo FINAL para
+    desativação das centrais estaduais ou regionais ainda em
+    funcionamento: 30 DE JUNHO DE 2025.
+
+    9. Não obstante esse arcabouço normativo — lei federal em vigor há
+    mais de três anos, três provimentos CNJ específicos e um Código
+    Nacional de Normas vigente —, a implementação efetiva do SERP
+    permanece FRAGMENTADA. Conforme divulgado pelo próprio CNJ, o
+    sistema entrou em funcionamento, inicialmente, em módulo voltado ao
+    Poder Judiciário e a órgãos públicos (SERP-Jud), dispondo, nos
+    Registros de Imóveis, de funcionalidades limitadas (certidão digital,
+    visualização de matrícula, pesquisa prévia, e-Protocolo e penhora
+    online). As funcionalidades de adesão plena das delegações notariais
+    e registrais privadas, em fluxo nacional interoperável, seguem sem
+    universalização.
+
+    10. As auditorias e notícias veiculadas pelo próprio sistema CNJ
+    demonstram que parcela significativa das delegações permanece atrelada
+    a "centrais estaduais" e "sistemas regionais" próprios, em DESCUMPRIMENTO
+    frontal ao Provimento nº 180/2024, com desativação não efetivada dentro
+    do prazo estipulado (30/06/2025). O atraso decorre, conforme amplamente
+    noticiado em audiências públicas realizadas pelo próprio CNJ, de
+    RESISTÊNCIA INSTITUCIONAL por parte de segmentos representativos de
+    notários e registradores, bem como de CORREGEDORIAS ESTADUAIS que
+    relutam em extinguir as estruturas regionais próprias e em aderir
+    irrestritamente ao sistema nacional.
+
+    11. As manifestações colhidas nas audiências públicas do CNJ sobre o
+    SERP evidenciam que entidades representativas dos registradores têm
+    invocado, de forma reiterada, "questões de custeio" e "questões de
+    segurança" como justificativa para postergar a adesão plena —
+    argumentos que NÃO POSSUEM PODER DERROGATÓRIO de obrigação legal
+    expressa (art. 3º, § 1º, da Lei nº 14.382/2022) e cuja acolhida, em
+    detrimento da implementação, configura OMISSÃO INSTITUCIONAL por parte
+    dos órgãos incumbidos da fiscalização.
+
+    12. Os números do setor são eloquentes. Segundo dados do Conselho
+    Nacional de Justiça consolidados no relatório "Justiça em Números" e
+    em publicações afins, o Brasil possui 13.233 (treze mil, duzentas e
+    trinta e três) delegações de serviços notariais e de registro em
+    atividade. Em 2024, tais delegações registraram RECEITA RECORDE da
+    ordem de R$ 31,4 BILHÕES (valor consolidado pelo CNJ), com faturamento
+    acumulado no período de 2010 a setembro de 2024 superior a R$ 856,9
+    bilhões. Trata-se de um setor economicamente expressivo, altamente
+    concentrador de recursos públicos arrecadados via emolumentos, e cuja
+    ineficiência operacional é suportada, em última análise, pelo usuário
+    do serviço público — cidadão, empresa, Poder Público.
+
+    13. No plano comparado internacional, o Brasil vem experimentando
+    queda persistente nos rankings de facilidade de negócios. No Doing
+    Business do Banco Mundial, o País recuou da 109ª (2018) para a 124ª
+    posição (2019) no ranking geral de facilidade para fazer negócios,
+    com posição especialmente desfavorável no indicador "registro de
+    propriedades" (registering property), no qual os dias médios para
+    registro de imóvel e o custo associado permanecem elevados em
+    comparação a jurisdições de renda similar. A persistência de sistemas
+    analógicos e fragmentados é um dos vetores estruturais dessa
+    posição, com impacto direto sobre o custo Brasil, a formalização de
+    negócios, a segurança jurídica e a atração de investimentos.
+
+    14. A digitalização integral do registro público é, hoje, condição
+    sine qua non para a redução de custo de conformidade, a redução dos
+    prazos de registro e averbação, a maior segurança contra fraudes
+    (falsificação de matrículas, dupla alienação, grilagem), a
+    interoperabilidade com órgãos da administração pública (Receita
+    Federal, INCRA, IBGE, CREAs, CROs, Receitas Estaduais e Municipais),
+    a efetividade das penhoras eletrônicas, a celeridade das execuções
+    fiscais (tema tratado pelas Resoluções CNJ nº 547/2024 e nº
+    689/2026) e a desjudicialização de atos prevista na própria Lei nº
+    14.382/2022.
+
+--------------------------------------------------------------------------------
+III. DOS FUNDAMENTOS JURÍDICOS
+--------------------------------------------------------------------------------
+
+    15. DA COMPETÊNCIA DO CNJ. O art. 103-B, § 4º, incisos I a XIII, da
+    Constituição Federal, atribui a este Conselho Nacional de Justiça a
+    competência para, no mínimo: zelar pela autonomia e independência do
+    Poder Judiciário (inciso I); zelar pela observância do art. 5º, incisos
+    XXXV e LXXVI, da CF/88 (inciso II) — garantindo, respectivamente, o
+    acesso à jurisdição e a gratuidade dos atos processuais aos
+    hipossuficientes; elaborar relatórios anuais (inciso III); receber e
+    conhecer reclamações contra membros e órgãos do Judiciário (inciso
+    III); requisitar e fiscalizar serviços (incisos IV e V); e fiscalizar
+    a observância dos deveres funcionais e o cumprimento de prazos (incisos
+    XI e seguintes). A implementação do SERP — serviço público delegado
+    sob inspeção do Judiciário (art. 236 da CF/88) — insere-se, portanto,
+    no núcleo da competência institucional do CNJ.
+
+    16. DA LEGALIDADE E DA AUTOAPLICABILIDADE DA LEI Nº 14.382/2022.
+    Tratando-se de lei formal votada pelo Congresso Nacional e
+    promulgada em 27/06/2022, com entrada em vigor em 31/01/2023, e
+    dispondo, no art. 3º, § 1º (com a redação do art. 6º da Lei), que
+    é OBRIGATÓRIA a adesão dos oficiais de registros públicos, não há
+    margem discricionária para postergação. A obrigação é de adesão
+    IMEDIATA, cabendo ao regulamento apenas estabelecer prazos de
+    adequação técnica razoáveis, não de derrogar a obrigação legal.
+
+    17. DA INCONSTITUCIONALIDADE DA OMISSÃO. A manutenção, na prática,
+    de sistemas paralelos regionais/estaduais, em desconformidade com
+    o Provimento nº 180/2024 (que fixou prazo final de 30/06/2025),
+    configura OMISSÃO INCONSTITUCIONAL dos órgãos incumbidos da
+    fiscalização, em violação direta: (a) ao princípio da legalidade
+    (art. 5º, II, da CF/88); (b) ao princípio da eficiência (art. 37,
+    caput, da CF/88); (c) ao princípio da economicidade (art. 70,
+    parágrafo único, da CF/88); (d) ao princípio da supremacia do
+    interesse público sobre o privado; e (e) ao princípio da
+    razoável duração dos processos (art. 5º, LXXVIII, da CF/88), cuja
+    efetivação depende, no âmbito extrajudicial, da digitalização
+    integral dos atos de registro.
+
+    18. DA FUNÇÃO SOCIAL DA ATIVIDADE NOTARIAL E REGISTRAL. Conforme
+    reiteradamente firmado pelo Supremo Tribunal Federal (ADI 3.565,
+    ADI 3.625 e RE 599.739-AgR), a atividade notarial e de registro é
+    serviço público delegado, de natureza privada quanto à execução
+    mas de natureza pública quanto à finalidade, sujeita a regime
+    jurídico híbrido. Não é lícito ao delegatário opor resistência
+    à modernização imposta por lei federal, sob pena de descumprimento
+    da própria delegação, que é outorgada ad nutum e condicionada ao
+    regular exercício (art. 236, § 1º, da CF/88).
+
+    19. DA AUSÊNCIA DE JUSTIFICATIVA ECONÔMICA PARA A OMISSÃO. O setor
+    notarial e registral brasileiro arrecadou, em 2024, cerca de R$ 31,4
+    bilhões, com média mensal superior a R$ 2,6 bilhões. O arcabouço
+    financeiro é amplo e suficiente para custear a implementação plena
+    do SERP, inclusive por meio do FICONSERP — Fundo para a
+    Implementação e Custeio do Sistema Eletrônico de Registros
+    Públicos, instituído pelo Provimento CNJ nº 139/2023. Inexistem,
+    portanto, obstáculos orçamentários justificadores do atraso; o
+    que existe, em verdade, é captura regulatória de segmentos do setor
+    sobre o processo de implementação, em prejuízo manifesto do
+    interesse público.
+
+    20. DO PREJUÍZO ECONÔMICO DA OMISSÃO. A implementação plena do
+    SERP produziria, segundo as estimativas disponíveis, redução
+    substantiva dos prazos de registro (de semanas para minutos),
+    redução dos custos de conformidade empresarial, diminuição da
+    litigiosidade em matéria imobiliária (com impacto direto sobre a
+    fila processual), ampliação da arrecadação tributária (por maior
+    rastreabilidade dos atos) e fortalecimento do mercado de crédito
+    garantido (a partir de matrículas eletrônicas confiáveis). A
+    omissão, por contrapartida, tem custo de oportunidade elevado,
+    mensurável em dezenas de bilhões de reais ao longo dos próximos
+    anos, dado o tamanho do mercado imobiliário e creditício nacional.
+
+    21. DA URGÊNCIA REGULATÓRIA. A Resolução CNJ nº 547/2024, alterada
+    pela Resolução CNJ nº 689/2026, no campo das execuções fiscais,
+    evidencia a orientação institucional deste Conselho em prol da
+    racionalização e celeridade. A implementação integral do SERP é
+    instrumento necessário e indispensável ao atingimento dessa
+    orientação, sendo incompatível manter, de um lado, resoluções
+    voltadas à eficiência processual e, de outro, tolerar a
+    fragmentação registral e notarial.
+
+--------------------------------------------------------------------------------
+IV. DOS PEDIDOS
+--------------------------------------------------------------------------------
+
+    Pelo exposto, requer-se ao Conselho Nacional de Justiça, na pessoa
+    de seu ilustre Presidente e do Corregedor Nacional de Justiça, a
+    adoção DAS SEGUINTES PROVIDÊNCIAS:
+
+    I — CRONOGRAMA NACIONAL DE IMPLEMENTAÇÃO OBRIGATÓRIA DO SERP. A
+    edição de ato normativo (Provimento ou Resolução) que fixe
+    CRONOGRAMA NACIONAL, OBRIGATÓRIO e FORMALMENTE SANCTIONADO de
+    implementação do SERP em todos os estados da Federação, contendo,
+    no mínimo: (a) metas trimestrais de adesão; (b) percentual mínimo
+    obrigatório de adesão por Corregedoria-Geral de Justiça estadual;
+    (c) publicação periódica de painel público de indicadores
+    (ranking de adesão por unidade federativa e por delegação); e
+    (d) sanções administrativas aplicáveis às delegações e às
+    corregedorias estaduais que descumprirem as metas, observados o
+    art. 103-B, § 4º, IV e V, da CF/88 e o regime da delegação (art.
+    236, § 1º, da CF/88).
+
+    II — META DE DIGITALIZAÇÃO DE 100% DOS REGISTROS IMOBILIÁRIOS ATÉ
+    31/12/2028. A fixação, por Provimento ou Resolução específica, de
+    META VINCULANTE de digitalização de 100% (cem por cento) das
+    matrículas e dos livros de Registro de Imóveis existentes no
+    território nacional, com termo final em 31 de dezembro de 2028,
+    compreendendo: (a) digitalização retroativa de acervos físicos
+    (backlog); (b) integral conversão de livros físicos em matrículas
+    eletrônicas; (c) disponibilização pública e interoperável das
+    matrículas eletrônicas, ressalvadas as restrições legais (LGPD,
+    sigilos legais); e (d) relatórios anuais de progresso a serem
+    apresentados ao plenário do CNJ.
+
+    III — PADRONIZAÇÃO NACIONAL DOS PROCEDIMENTOS NOTARIAIS E
+    REGISTRAIS. A revisão e a consolidação do Código Nacional de Normas
+    (CNN/CN/CNJ-Extra) para assegurar PADRONIZAÇÃO NACIONAL EFETIVA dos
+    procedimentos notariais e de registro, com a fixação de (a) modelos
+    unificados de escrituras, procurações, certidões e atos registrais;
+    (b) tabela de emolumentos padronizada por classes de atos (em
+    observância ao princípio da proporcionalidade e da gratuidade aos
+    hipossuficientes, art. 5º, LXXVII, da CF/88); (c) prazos máximos
+    uniformes para prática de atos; e (d) regras de interoperabilidade
+    obrigatória com o ecossistema de Governo Digital (gov.br, PDPJ-Br,
+    RECEITA, INCRA, BACEN — Bacenjud, CENSEC e CENPROT).
+
+    IV — DESATIVAÇÃO EFETIVA DAS CENTRAIS ESTADUAIS/REGIONAIS PARALELAS.
+    A fiscalização rigorosa e a imposição de sanções administrativas
+    (advertência, suspensão e, em último caso, intervenção) às
+    delegações e corregedorias estaduais que, decorrido o prazo do
+    Provimento nº 180/2024 (30/06/2025), ainda não hajam procedido à
+    desativação integral das centrais eletrônicas descentralizadas e à
+    migração plena ao SERP.
+
+    V — RELATÓRIO ANUAL AO PLENÁRIO E À SOCIEDADE. A publicação, pelo
+    Conselho Nacional de Justiça, de relatório anual de
+    implementação do SERP, em complemento ao "Justiça em Números",
+    contendo indicadores quantitativos de adesão, volume de atos
+    praticados eletronicamente, prazo médio de prática de atos e
+    impacto econômico da digitalização sobre o setor.
+
+    VI — RECEPÇÃO E INSTRUÇÃO DA PRESENTE REPRESENTAÇÃO. A recepção,
+    autuação, instrução e julgamento da presente REPRESENTAÇÃO nos
+    termos regimentais, com a oitiva, se entendida necessária, do
+    Operador Nacional do Sistema de Registros Públicos (ONSERP),
+    das Associações representativas dos notários e registradores
+    (ANOREG-BR, IRIB e congêneres), do Movimento de Inovação Digital
+    e demais interessados, mediante audiência pública.
+
+--------------------------------------------------------------------------------
+V. DA CONCLUSÃO
+--------------------------------------------------------------------------------
+
+    22. A Lei nº 14.382/2022, fruto de ampla deliberação Congressual,
+    instituiu obrigatoriedade não discricionária de implementação do
+    SERP. Transcorridos mais de três anos de sua vigência, a
+    implementação permanece parcial, assimétrica e dependente de
+    adesões voluntárias, em prejuízo manifesto da sociedade brasileira.
+    A este Conselho Nacional de Justiça incumbe, por competência
+    constitucional (art. 103-B, § 4º, da CF/88), o dever de
+    implementação, de fiscalização e de sanção da omissão.
+
+    23. Os números do setor (13.233 delegações; R$ 31,4 bilhões/ano;
+    faturamento acumulado superior a R$ 856,9 bilhões no período
+    2010–2024) atestam, por si sós, a INEXISTÊNCIA de obstáculo
+    econômico à implementação plena. A resistência verificada é,
+    antes, política e corporativa, e como tal deve ser enfrentada pelo
+    regulador, sob pena de o Poder Público tornar-se cúmplice — por
+    omissão — da captura regulatória do setor.
+
+    24. A presente REPRESENTAÇÃO tem caráter público, funda-se em
+    interesse público manifesto e não postula vantagem pessoal.
+    Pugna-se, tão somente, pela observância integral da legislação
+    federal vigente e pela efetivação de direitos fundamentais dos
+    cidadãos e das empresas brasileiras (art. 5º, XXXV, LXXVIII e
+    LXXVII, da CF/88).
+
+    Pede deferimento.
+
+    Brasília/DF, 19 de julho de 2026.
+
+    _______________________________________________
+    CLEITON MOURA
+    Analista de Geopolítica e Economia
+    CPF: ____________________________________
+    E-mail para correspondência: ______________________________
+
+--------------------------------------------------------------------------------
+    FUNDAMENTAÇÃO NORMATIVA E DOCUMENTAL DE APOIO
+--------------------------------------------------------------------------------
+
+    [A] Constituição da República Federativa do Brasil de 1988:
+        — art. 5º, II (legalidade); XXXV (acesso à jurisdição); LXXVI
+          e LXXVII (gratuidade); LXXVIII (razoável duração);
+        — art. 21, XXIV (competência privativa da União para
+          organizar os registros públicos);
+        — art. 236 e § 1º (serviços notariais e de registro);
+        — art. 37, caput (legalidade, impessoalidade, moralidade,
+          eficiência);
+        — art. 70, parágrafo único (economicidade);
+        — art. 103-B, § 4º, I a XIII (competências do CNJ).
+
+    [B] Lei nº 14.382, de 27 de junho de 2022:
+        — art. 1º (objeto; SERP e modernização da Lei nº 6.015/1973);
+        — art. 3º (altera art. 37 da Lei nº 11.977/2009);
+        — art. 3º, § 1º (obrigatoriedade de adesão);
+        — arts. 6º e seguintes (disposições sobre o SERP, comunicação
+          eletrônica e interoperabilidade);
+        — conversão da Medida Provisória nº 1.085, de 27 de dezembro
+          de 2021.
+
+    [C] Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros
+        Públicos), com as alterações da Lei nº 14.382/2022.
+
+    [D] Provimento CNJ nº 139, de 1º de fevereiro de 2023:
+        diretrizes para a organização do SERP; criação do ONSERP e
+        do FICONSERP.
+
+    [E] Provimento CNJ nº 143, de 25 de abril de 2023:
+        disposições sobre registros eletrônicos.
+
+    [F] Provimento CNJ nº 149, de 30 de agosto de 2023:
+        institui o Código Nacional de Normas da Corregedoria Nacional
+        de Justiça do Conselho Nacional de Justiça — Foro
+        Extrajudicial (CNN/CN/CNJ-Extra).
+
+    [G] Provimento CNJ nº 180, de 16 de agosto de 2024:
+        altera o CNN/CN/CNJ-Extra; proíbe centrais eletrônicas
+        descentralizadas estaduais ou regionais; prazo final para
+        desativação: 30/06/2025.
+
+    [H] Resolução CNJ nº 547, de 2024, e Resolução CNJ nº 689, de
+        2026: tratamento racional e eficiente das execuções fiscais
+        (revelam a orientação institucional à eficiência).
+
+    [I] Comunicado CG 60/2025 (Corregedoria-Geral da Justiça):
+        autoriza o uso do SERP-JUD para pesquisa nacional de bens.
+
+    [J] Dados estatísticos CNJ / Justiça em Números:
+        13.233 delegações de serviços notariais e de registro; receita
+        recorde de R$ 31,4 bilhões em 2024; faturamento acumulado
+        2010–2024 superior a R$ 856,9 bilhões.
+
+    [K] Doing Business / Banco Mundial (série histórica):
+        Brasil recuou da 109ª (2018) para a 124ª posição (2019) no
+        ranking geral; baixo desempenho no indicador "registering
+        property".
+
+    [L] Jurisprudência Supremo Tribunal Federal:
+        ADI 3.565, ADI 3.625 e RE 599.739-AgR (atividade notarial e
+        registral como serviço público delegado, regime híbrido,
+        submissão ao interesse público).
+
+================================================================================
+                              FIM DO DOCUMENTO
+================================================================================

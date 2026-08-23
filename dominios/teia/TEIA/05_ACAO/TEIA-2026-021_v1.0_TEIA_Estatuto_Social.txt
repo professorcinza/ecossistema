@@ -1,0 +1,687 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-021
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+TÍTULO: Estatuto Social do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha
+STATUS: REGISTRO_PENDENTE
+DESTINATÁRIO: Cartório / Junta Comercial
+AÇÃO: Registrar
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 57,300 bytes (56.0 KB)
+HASH MD5: c9d1e912b81db9f03f64e117241c95c5
+HASH SHA-256: 1cacd9704400d6e30ee7bedf808a00ef9a388d87c291e125e68b784234e1652e
+================================================================================
+
+================================================================================
+                        ESTATUTO SOCIAL DO
+              INSTITUTO DE GESTÃO NACIONAL (TEIA)
+================================================================================
+
+
+DA CONSTITUIÇÃO, DENOMINAÇÃO, NATUREZA JURÍDICA, SEDE, FORO E PRAZO DE DURAÇÃO
+--------------------------------------------------------------------------------
+
+CAPÍTULO I
+DA DENOMINAÇÃO, DA NATUREZA JURÍDICA, DA SEDE, DO FORO E DA DURAÇÃO
+
+Art. 1º. O INSTITUTO DE GESTÃO NACIONAL (TEIA), doravante denominado simplesmente INSTITUTO, é uma pessoa jurídica de direito privado, sem fins econômicos, de natureza associativa e civil, constituída sob a forma de Organização da Sociedade Civil (OSC), nos termos da Lei nº 13.019, de 31 de julho de 2014 (Marco Legal das Organizações da Sociedade Civil), com as alterações introduzidas pela Lei nº 13.797, de 3 de janeiro de 2019, e dos artigos 44 a 61 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil Brasileiro), regendo-se pelo presente Estatuto, pelos princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade, eficiência e demais normas legais aplicáveis.
+
+Art. 2º. O INSTITUTO reger-se-á por este Estatuto Social, pelo Regimento Interno, que vier a ser aprovado, e pela legislação federal, estadual e municipal pertinentes, observando, em toda a sua atuação, os princípios da:
+   I - legalidade, impessoalidade, moralidade, publicidade, economicidade e eficiência;
+   II - autogestão, transparência, prestação de contas e responsabilidade;
+   III - voluntariedade, autonomia, pluralidade e representatividade dos associados;
+   IV - participação, cooperativismo e defesa do interesse público.
+
+Art. 3º. O INSTITUTO, com sede e foro na cidade de ____________________, no Estado de _____________, na via pública de __________________________________________, CEP ________________, atuará em todo o território nacional, podendo, mediante deliberação do Conselho Diretor, criar e manter representações, escritórios regionais, núcleos, seccionais, filiais ou unidades descentralizadas em quaisquer unidades da Federação.
+
+Art. 4º. O foro da Comarca de ____________________, no Estado de _____________, é eleito para dirimir quaisquer questões ou litígios relativos ao presente Estatuto Social e aos atos dele decorrentes, com expressa renúncia a qualquer outro, por mais privilegiado que seja ou venha a se tornar.
+
+Art. 5º. O INSTITUTO tem prazo de duração por tempo indeterminado, iniciando suas atividades a partir da data de aprovação deste Estatuto pela Assembleia Geral de Constituição e do competente registro no Registro Civil das Pessoas Jurídicas.
+
+Parágrafo único. O exercício social e o ano financeiro do INSTITUTO coincidirão com o ano civil, iniciando-se em 1º de janeiro e encerrando-se em 31 de dezembro de cada ano.
+
+
+================================================================================
+                          DAS FINALIDADES E OBJETIVOS
+--------------------------------------------------------------------------------
+
+CAPÍTULO II
+DA FINALIDADE, DOS OBJETIVOS E DAS ATRIBUIÇÕES
+
+Art. 6º. O INSTITUTO DE GESTÃO NACIONAL (TEIA) tem por finalidade precípua promover o desenvolvimento, a difusão e a aplicação de conhecimentos técnicos, científicos e políticos nas áreas de gestão pública, gestão fiscal, economia aplicada, políticas públicas e reforma do Estado, atuando como think tank de referência nacional, com atuação voltada ao interesse público e à construção de uma administração pública eficiente, transparente e republicana.
+
+Art. 7º. Constituem objetivos institucionais do INSTITUTO, observada a legislação vigente:
+   I - produzir, fomentar, articular e difundir estudos, pesquisas técnicas, diagnósticos, pareceres, publicações, indicadores, metodologias e análises nas áreas de gestão pública, gestão fiscal, gestão econômica, orçamento público, tributação, contabilidade governamental e políticas públicas;
+   II - promover a articulação política, institucional e intersectorial junto a órgãos e entidades da administração pública, da iniciativa privada, do terceiro setor, do meio acadêmico e da sociedade civil, com vistas à formulação, implementação e aperfeiçoamento de reformas institucionais, administrativas, fiscais, regulatórias e de governança;
+   III - desenvolver estratégias de comunicação, jornalismo de política pública, advocacy, mobilização social, educação cívica, formação política e capacitação de lideranças, agentes públicos e formadores de opinião;
+   IV - promover a transparência pública, o controle social, a accountability, a integridade, a responsabilidade fiscal e a accountability democrática, mediante produção e disseminação de informações, dados abertos, análises independentes e ferramentas de monitoramento de políticas;
+   V - prestar serviços técnicos, consultivos, assessórios e de apoio institucional a órgãos e entidades públicas, privadas e do terceiro setor, ressalvadas as vedações legais;
+   VI - organizar, promover, patrocinar e realizar seminários, congressos, fóruns, cursos, palestras, workshops, oficinas, debates públicos, eventos acadêmicos e culturais, presenciais ou a distância, nacionais e internacionais;
+   VII - editar, publicar, distribuir e comercializar livros, revistas, boletins, relatórios, estudos, pesquisas, periódicos, materiais audiovisuais, digitais e eletrônicos, sites, portais e quaisquer outros veículos de comunicação compatíveis com as finalidades institucionais;
+   VIII - estabelecer intercâmbio, cooperação técnica e parcerias com instituições nacionais, estrangeiras e internacionais, públicas ou privadas;
+   IX - captar, administrar e aplicar recursos financeiros, técnicos e materiais junto a organismos nacionais e internacionais, públicos e privados, para o desenvolvimento de seus projetos e atividades;
+   X - celebrar convênios, contratos de repasse, termos de fomento, termos de colaboração, termos de cooperação, acordos, ajustes e instrumentos congêneres, com órgãos da administração pública direta, indireta e fundacional, e com entidades privadas, observada a legislação específica;
+   XI - constituir consórcios, redes, coalizões, fundos, programas, núcleos e unidades temáticas para a consecução dos objetivos institucionais;
+   XII - promover o aperfeiçoamento, a modernização e a reforma das instituições, dos processos de gestão pública e dos instrumentos de planejamento governamental;
+   XIII - incentivar e desenvolver estudos sobre federalismo fiscal, pacto federativo, descentralização administrativa e governança multinível;
+   XIV - atuar em quaisquer outras áreas afins ou correlatas que venham a contribuir para o cumprimento de suas finalidades institucionais.
+
+Art. 8º. Para o cumprimento de seus objetivos, o INSTITUTO poderá:
+   I - firmar parcerias nos termos do Marco Legal das Organizações da Sociedade Civil (Lei nº 13.019/2014 e alterações posteriores);
+   II - pleitear, perante a autoridade competente, a qualificação como Organização da Sociedade Civil de Interesse Público (OSCIP), nos termos do art. 66 da referida Lei, comprometendo-se a observar o acervo de obrigações previstas em seu art. 67;
+   III - pleitear títulos, certificações, qualificações, registros, acreditações e credenciamentos junto a órgãos públicos, em todas as esferas federativas, necessários ao pleno exercício de suas atividades;
+   IV - manter cadastro, registro, filiação ou participação em redes, fóruns, conselhos, articulações e instâncias de coordenação do terceiro setor.
+
+Art. 9º. O INSTITUTO não distribui, entre os seus associados, conselheiros, diretores, empregados ou doadores, eventuais excedentes operacionais, brutos ou líquidos, dividendos, bonificações, participações ou parcelas do seu patrimônio, auferidos mediante o exercício de suas atividades, aplicando-os integralmente na consecução de suas finalidades institucionais, no País.
+
+Parágrafo único. A remuneração dos dirigentes estatutários e o pagamento de despesas a eles reembolsáveis observarão o disposto no art. 16 da Lei nº 13.019/2014 e demais normas pertinentes, sendo vedada a distribuição de lucros, bonificações ou vantagens.
+
+
+================================================================================
+                          DOS ASSOCIADOS E ASSOCIADAS
+--------------------------------------------------------------------------------
+
+CAPÍTULO III
+DA COMPOSIÇÃO, ADMISSÃO, DIREITOS E DEVERES DOS ASSOCIADOS
+
+Seção I
+Da Composição e Categorias
+
+Art. 10. O quadro associativo do INSTITUTO é aberto, ilimitado e plural, sendo compostos por pessoas físicas ou jurídicas que aceitarem as condições deste Estatuto e forem admitidas na forma regulamentar, sem distinção de raça, gênero, nacionalidade, religião, ideologia, orientação política, condição social ou econômica.
+
+Art. 11. Os associados distribuem-se nas seguintes categorias:
+   I - FUNDADORES: as pessoas físicas ou jurídicas subscritoras do presente Estatuto, participantes da Assembleia Geral de Constituição do INSTITUTO;
+   II - EFETIVOS: as pessoas físicas ou jurídicas, brasileiras ou estrangeiras, de reconhecida idoneidade e notório saber, que, após a constituição do INSTITUTO, venham a ser admitidas pelo Conselho Diretor e comprometam-se a contribuir, de forma permanente ou continuada, para a consecução dos objetivos institucionais;
+   III - COLABORADORES: as pessoas físicas ou jurídicas que, não integrando o quadro de associados efetivos, prestem serviços ou contribuam, eventual ou periodicamente, para o desenvolvimento das atividades institucionais;
+   IV - BENEMÉRITOS: as pessoas físicas ou jurídicas que, por relevantes serviços prestados ao INSTITUTO ou por contribuição de excepcional relevância, forem assim reconhecidas pelo Conselho Diretor, "ad referendum" da Assembleia Geral.
+
+Seção II
+Da Admissão, Readmissão, Suspensão e Desligamento
+
+Art. 12. A admissão de novos associados, em qualquer das categorias referidas no artigo anterior, salvo a de fundador, dar-se-á por:
+   I - manifestação de interesse, por escrito, do(a) candidato(a);
+   II - indicação por, no mínimo, dois associados efetivos ou fundadores;
+   III - análise e deliberação do Conselho Diretor, observados os requisitos de idoneidade e afinidade com os objetivos institucionais.
+
+§ 1º. O associado não responde, pessoalmente ou subsidiariamente, pelas obrigações do INSTITUTO, salvo por eventuais compromissos livremente assumidos.
+
+§ 2º. Os associados não assumem, em razão de sua condição associativa, qualquer responsabilidade solidária ou subsidiária pelos atos praticados pelo INSTITUTO ou por seus dirigentes.
+
+Art. 13. São causas de suspensão ou desligamento do quadro associativo, conforme gravidade e a critério do Conselho Diretor, assegurado o direito de ampla defesa e do contraditório:
+   I - o cometimento de ato contrário às finalidades do INSTITUTO ou ao presente Estatuto;
+   II - a prática de atos que, por sua natureza, comprometam a imagem, a reputação ou o patrimônio do INSTITUTO;
+   III - a inadimplência reiterada de obrigações financeiras ou contributivas, quando houver;
+   IV - a prática de atos dolosos que ensejem a responsabilidade civil ou criminal do associado, em prejuízo do INSTITUTO;
+   V - a perda dos requisitos legais ou estatutários para o exercício da condição de associado;
+   VI - o falecimento, no caso de pessoa física, ou a dissolução, liquidação, falência ou extinção, no caso de pessoa jurídica;
+   VII - o pedido voluntário de desligamento, mediante comunicação escrita ao Conselho Diretor.
+
+§ 1º. Nenhum associado será suspenso ou desligado sem que lhe seja assegurada ampla defesa e o contraditório, cabendo recurso, no prazo de 30 (trinta) dias, à Assembleia Geral, cuja decisão será soberana.
+
+§ 2º. O desligamento de associado não o desobriga de eventuais compromissos pecuniários, contratuais ou de outra natureza, anteriormente assumidos perante o INSTITUTO.
+
+Seção III
+Dos Direitos dos Associados
+
+Art. 14. São direitos dos associados fundadores e efetivos, desde que em pleno gozo de seus direitos estatutários:
+   I - votar e ser votado para os cargos dos órgãos sociais, observadas as exigências e os requisitos estatutários e regimentais;
+   II - participar das Assembleias Gerais, com direito a voz e a voto;
+   III - apresentar propostas, sugestões, moções e representações aos órgãos do INSTITUTO;
+   IV - fiscalizar a gestão econômico-financeira e administrativa do INSTITUTO, na forma prevista no Regimento Interno;
+   V - receber informações sobre as atividades, projetos, parcerias e contas do INSTITUTO;
+   VI - utilizar-se das instalações, serviços, publicações e acervo do INSTITUTO, observados os regulamentos internos;
+   VII - receber certificados, distinções, homenagens e comendas, quando reconhecidos;
+   VIII - retirar-se do quadro associativo, quando o desejar, mediante comunicação por escrito.
+
+Parágrafo único. Os associados colaboradores e beneméritos têm direito a voz nas Assembleias Gerais, mas não a voto, salvo deliberação em contrário do Conselho Diretor.
+
+Seção IV
+Dos Deveres dos Associados
+
+Art. 15. São deveres dos associados:
+   I - cumprir e fazer cumprir o presente Estatuto, o Regimento Interno e as deliberações dos órgãos do INSTITUTO;
+   II - comparecer às Assembleias Gerais e demais reuniões para as quais for convocado;
+   III - zelar pelo bom nome, pela imagem, pela reputação e pelo patrimônio do INSTITUTO;
+   IV - exercer, com zelo e dedicação, os cargos para os quais for eleito ou designado;
+   V - contribuir, nas formas previstas neste Estatuto, para o custeio e o desenvolvimento das atividades institucionais;
+   VI - abster-se de manifestar-se publicamente em nome do INSTITUTO sem a devida autorização;
+   VII - declarar, sempre que solicitado, eventuais conflitos de interesse em matéria que envolva o INSTITUTO;
+   VIII - manter atualizados seus dados cadastrais;
+   IX - respeitar as normas de governança, integridade e compliance do INSTITUTO.
+
+
+================================================================================
+                          DO PATRIMÔNIO
+--------------------------------------------------------------------------------
+
+CAPÍTULO IV
+DA CONSTITUIÇÃO, GESTÃO E DESTINAÇÃO DO PATRIMÔNIO
+
+Art. 16. O patrimônio do INSTITUTO será constituído por bens móveis, imóveis, semoventes, intangíveis, direitos, créditos, valores e demais universalidades de bens que vier a adquirir, a qualquer título, para o cumprimento de suas finalidades.
+
+Art. 17. Constituem fontes de constituição e incremento do patrimônio e das receitas do INSTITUTO:
+   I - as contribuições, mensalidades, anuidades e joias dos associados, quando fixadas;
+   II - as doações, em dinheiro ou em bens, com ou sem encargos, feitas por pessoas físicas ou jurídicas, nacionais ou estrangeiras;
+   III - as subvenções, dotações, auxílios e contribuições de organismos públicos, em quaisquer esferas federativas;
+   IV - os convênios, contratos de repasse, termos de parceria, termos de fomento, termos de colaboração, termos de cooperação e demais instrumentos de parceria celebrados com órgãos da administração pública, na forma da legislação vigente;
+   V - as receitas decorrentes de projetos, prestação de serviços técnicos, consultorias, assessorias, cursos, eventos, publicações e demais atividades-fim compatíveis com os objetivos institucionais;
+   VI - as rendas auferidas pela aplicação de seus recursos financeiros em aplicações de baixo risco, em instituições financeiras oficiais ou privadas, observada a legislação pertinente;
+   VII - as rendas decorrentes de cessão de direitos, licenciamento de marcas, patentes, obras intelectuais e propriedade imaterial;
+   VIII - as rendas de eventos, promoções, campanhas, financiamentos coletivos (crowdfunding), patrocínios e apoios;
+   IX - as dotações testamentárias, heranças ou legados, com ou sem encargo;
+   X - os resultados financeiros de operações realizadas em conformidade com a legislação, desde que revertidos integralmente ao INSTITUTO e ao cumprimento de suas finalidades;
+   XI - quaisquer outras fontes lícitas não vedadas pela legislação em vigor.
+
+Art. 18. Os recursos financeiros do INSTITUTO, inclusive aqueles provenientes de parcerias com o poder público, deverão ser depositados e movimentados em conta bancária específica, em instituição financeira oficial, observada a obrigatoriedade de manutenção de contas separadas por parceria ou projeto, na forma do art. 36 da Lei nº 13.019/2014.
+
+Art. 19. A gestão do patrimônio incumbirá ao Conselho Diretor, com observância das normas previstas neste Estatuto e das deliberações da Assembleia Geral, e será exercida com zelo, transparência, economicidade, eficiência e responsabilidade, observados:
+   I - os princípios da gestão democrática, participativa e transparente;
+   II - a integral aplicação dos excedentes operacionais nas finalidades institucionais;
+   III - a vedação de distribuição de lucros, dividendos ou vantagens a associados, dirigentes, conselheiros, empregados ou doadores;
+   IV - a obrigação de manutenção de escrituração contábil completa, em conformidade com as Normas Brasileiras de Contabilidade aplicáveis às entidades do terceiro setor (ITG 2000 e normas correlatas);
+   V - a obrigatoriedade de conservação da documentação contábil, fiscal e contratual pelo prazo legal.
+
+Art. 20. Os bens patrimoniais do INSTITUTO, inclusive aqueles adquiridos com recursos de parcerias, somente poderão ser alienados, gravados, onerados, dados em garantia, hipotecados, penhorados ou cedidos a terceiros mediante autorização expressa do Conselho Diretor, ouvido o Conselho Fiscal, observado, quando for o caso, o disposto na legislação específica aplicável às parcerias com o poder público.
+
+Parágrafo único. No caso de bens adquiridos com recursos decorrentes de termos de colaboração, termos de fomento, contratos de repasse ou convênios, a alienação deverá observar as normas e restrições constantes dos respectivos instrumentos e da legislação pertinente.
+
+Art. 21. O INSTITUTO manterá registro permanente, em livro próprio ou em sistema informatizado devidamente auditável, de todos os bens patrimoniais, móveis e imóveis, de sua propriedade, com indicação de origem, data de aquisição, valor e destinação.
+
+
+================================================================================
+                          DA ESTRUTURA DE GOVERNANÇA
+--------------------------------------------------------------------------------
+
+CAPÍTULO V
+DA ADMINISTRAÇÃO E DA ESTRUTURA GOVERNANCE
+
+Art. 22. São órgãos de administração e de deliberação do INSTITUTO:
+   I - a Assembleia Geral, órgão soberano de deliberação;
+   II - o Conselho Diretor, órgão superior de administração executiva;
+   III - o Conselho Técnico, órgão consultivo, propositivo e de assessoramento técnico-científico;
+   IV - o Conselho Fiscal, órgão de fiscalização financeira e contábil.
+
+Parágrafo único. Os cargos dos órgãos referidos neste artigo são de natureza não remunerada, salvo deliberação em contrário da Assembleia Geral, na forma da legislação vigente.
+
+
+--------------------------------------------------------------------------------
+Seção I
+Da Assembleia Geral
+--------------------------------------------------------------------------------
+
+Art. 23. A Assembleia Geral é o órgão soberano do INSTITUTO e nela reside o poder deliberativo máximo, constituindo-se dos associados fundadores e efetivos em pleno gozo de seus direitos estatutários, nos termos do presente Estatuto.
+
+Art. 24. Compete privativamente à Assembleia Geral:
+   I - eleger e destituir os membros dos órgãos sociais, na forma deste Estatuto;
+   II - aprovar e reformar o Estatuto Social;
+   III - aprovar o Regimento Interno e suas alterações;
+   IV - aprovar, anualmente, o relatório de atividades, a prestação de contas, o balanço patrimonial, a demonstração de resultados do exercício e demais demonstrações contábeis;
+   V - aprovar o plano anual de atividades, o orçamento e o plano de aplicação de recursos;
+   VI - deliberar sobre a extinção, fusão, incorporação ou cisão do INSTITUTO;
+   VII - deliberar sobre a alienação, oneração ou cessão de bens imóveis do INSTITUTO, ouvidos o Conselho Diretor e o Conselho Fiscal;
+   VIII - decidir, em última instância, os recursos interpostos contra decisões dos demais órgãos;
+   IX - julgar, em grau de recurso, as questões relativas à suspensão ou desligamento de associados;
+   X - decidir os casos omissos e os assuntos de relevante interesse institucional;
+   XI - deliberar sobre eventual remuneração de dirigentes, nos termos da legislação aplicável;
+   XII - aprovar a filiação do INSTITUTO a federações, confederações, redes ou organismos nacionais ou internacionais.
+
+Art. 25. A Assembleia Geral reunir-se-á, ordinariamente, uma vez por ano, no primeiro trimestre, e, extraordinariamente, sempre que necessário, sendo sua convocação feita pelo Conselho Diretor, ou pela maioria dos membros do Conselho Fiscal, ou por um quinto (1/5), no mínimo, dos associados em pleno gozo de seus direitos.
+
+§ 1º. A convocação, salvo disposição em contrário da legislação vigente, será feita mediante:
+   a) edital publicado na imprensa oficial do Estado ou Município da sede, por três vezes, com antecedência mínima de 21 (vinte e um) dias da data da realização;
+   b) circular, telegrama, fac-símile, correio eletrônico (e-mail) ou outro meio de comunicação escrito, com antecedência mínima de 8 (oito) dias;
+   c) comunicado divulgado no sítio eletrônico oficial do INSTITUTO.
+
+§ 2º. O edital de convocação deverá indicar, obrigatoriamente, o dia, a hora, o local e a ordem do dia da Assembleia, bem como a natureza (ordinária ou extraordinária) da reunião.
+
+§ 3º. Na ausência de convocação regular, qualquer Assembleia se considerará válida se todos os associados com direito a voto estiverem presentes e concordarem com sua realização.
+
+Art. 26. O funcionamento da Assembleia Geral obedecerá às seguintes normas:
+   I - em primeira convocação, com a presença da maioria absoluta dos associados com direito a voto;
+   II - em segunda convocação, com a presença de, no mínimo, um terço (1/3) dos associados com direito a voto;
+   III - em terceira convocação, com qualquer número de associados, observadas as exigências legais.
+
+§ 1º. As deliberações da Assembleia Geral serão tomadas por maioria simples de votos dos presentes, salvo nos casos previstos em lei ou neste Estatuto.
+
+§ 2º. As deliberações sobre reformas estatutárias exigem a aprovação de, no mínimo, dois terços (2/3) dos presentes à Assembleia Geral especialmente convocada para esse fim.
+
+§ 3º. As deliberações sobre a extinção do INSTITUTO exigem a aprovação qualificada de, no mínimo, dois terços (2/3) dos associados com direito a voto, conforme o art. 61 do Código Civil.
+
+§ 4º. Cada associado pessoa física tem direito a um voto. No caso de associado pessoa jurídica, o voto será exercido por seu representante legalmente constituído.
+
+Art. 27. A Assembleia Geral será presidida pelo Presidente do Conselho Diretor e, em sua falta ou impedimento, pelo Vice-Presidente, pelo Secretário ou por associado eleito para tal fim. A secretaria dos trabalhos será exercida pelo Secretário do Conselho Diretor ou por associado designado.
+
+Parágrafo único. As atas das Assembleias Gerais serão lavradas em livro próprio, lidas, aprovadas e assinadas pelos membros da mesa e pelos associados presentes que o desejarem.
+
+
+--------------------------------------------------------------------------------
+Seção II
+Do Conselho Diretor
+--------------------------------------------------------------------------------
+
+Art. 28. O Conselho Diretor, órgão superior de administração executiva, é composto por 4 (quatro) membros associados, eleitos pela Assembleia Geral, para mandato de 3 (três) anos, permitida a reeleição, sendo obrigatória a renovação mínima de um terço (1/3) do Conselho a cada eleição, observadas as disposições do art. 16 da Lei nº 13.019/2014.
+
+§ 1º. Integram o Conselho Diretor:
+   I - o Presidente;
+   II - o Vice-Presidente;
+   III - o Secretário-Geral;
+   IV - o Tesoureiro.
+
+§ 2º. No caso de vacância, renúncia, falecimento, impedimento ou destituição de qualquer membro do Conselho Diretor, o substituto será eleito pela Assembleia Geral, convocada para esse fim, para completar o mandato do substituído.
+
+§ 3º. É vedada a cumulação de cargos no Conselho Diretor, bem como a ocupação, simultânea, de cargo em Conselho Fiscal, de emprego remunerado pelo INSTITUTO, ou de cônjuge, companheiro ou parente até terceiro grau de outro conselheiro diretor, observada a norma do art. 16, § 1º, da Lei nº 13.019/2014.
+
+Art. 29. Compete ao Conselho Diretor, no exercício de suas atribuições de gestão administrativa e institucional:
+   I - cumprir e fazer cumprir o Estatuto, o Regimento Interno e as deliberações da Assembleia Geral;
+   II - elaborar e submeter à aprovação da Assembleia Geral o plano anual de atividades, o orçamento, a prestação de contas e as demonstrações financeiras do exercício;
+   III - administrar o patrimônio e os recursos do INSTITUTO, com zelo e transparência;
+   IV - deliberar sobre a admissão, suspensão e desligamento de associados, na forma do Estatuto;
+   V - representar o INSTITUTO, ativa e passivamente, em juízo ou fora dele;
+   VI - constituir procuradores, mandatários e representantes do INSTITUTO, fixando-lhes poderes e prazos;
+   VII - celebrar contratos, convênios, parcerias, termos de colaboração, termos de fomento, termos de cooperação, ajustes e instrumentos congêneres;
+   VIII - criar, organizar, estruturar e extinguir coordenadorias, departamentos, diretorias executivas, áreas técnicas, núcleos, programas e projetos;
+   IX - aprovar a contratação de empregados, consultores, prestadores de serviços, assessores e demais colaboradores, fixando-lhes remuneração e condições de trabalho;
+   X - deliberar sobre a fixação de contribuições, joias e mensalidades dos associados;
+   XI - aprovar políticas de gestão, compliance, integridade, governança, comunicação, recursos humanos e tecnologia da informação;
+   XII - aprovar o regulamento interno, regimentos de conselhos, manuais e normas operacionais;
+   XIII - deliberar sobre aquisição, alienação e oneração de bens patrimoniais, ouvido o Conselho Fiscal, observado o disposto na Assembleia Geral para bens imóveis;
+   XIV - criar conselhos consultivos, comitês, comissões e grupos de trabalho;
+   XV - convocar a Assembleia Geral, ordinária ou extraordinária;
+   XVI - propor reformas estatutárias à Assembleia Geral;
+   XVII - deliberar sobre a filiação do INSTITUTO a federações, confederações e organismos correlatos;
+   XVIII - autorizar a abertura e o encerramento de filiais, escritórios regionais, representações e unidades descentralizadas;
+   XIX - aprovar a participação societária do INSTITUTO em outras pessoas jurídicas, desde que sem fins econômicos e compatíveis com as finalidades institucionais;
+   XX - praticar todos os atos de administração necessários ao regular funcionamento do INSTITUTO.
+
+Art. 30. O Conselho Diretor reunir-se-á, ordinariamente, pelo menos uma vez por trimestre, e, extraordinariamente, sempre que convocado pelo Presidente ou pela maioria de seus membros.
+
+§ 1º. As reuniões do Conselho Diretor realizar-se-ão com a presença da maioria absoluta de seus membros e as deliberações serão tomadas por maioria de votos, tendo o Presidente, além do voto ordinário, o de qualidade, em caso de empate.
+
+§ 2º. As atas das reuniões serão lavradas em livro próprio, assinadas pelos membros presentes, e constituirão instrumento hábil para os atos de gestão.
+
+Art. 31. Ao PRESIDENTE, como autoridade executiva máxima do INSTITUTO, compete:
+   I - representar o INSTITUTO, ativa e passivamente, em juízo ou fora dele, podendo, para tanto, constituir advogados e procuradores;
+   II - presidir as reuniões do Conselho Diretor e as Assembleias Gerais;
+   III - convocar e presidir as reuniões do Conselho Diretor;
+   IV - assinar, em conjunto com o Tesoureiro, cheques, ordens de pagamento, contratos, convênios e demais instrumentos que envolvam movimentação financeira ou obrigação patrimonial;
+   V - assinar a correspondência oficial e os atos de gestão do INSTITUTO;
+   VI - rubricar os livros contábeis e sociais;
+   VII - admitir, demitir, suspender e punir empregados e colaboradores, ouvido, quando necessário, o Conselho Diretor;
+   VIII - movimentar, em conjunto com o Tesoureiro, contas bancárias do INSTITUTO;
+   IX - praticar todos os atos necessários à boa e regular administração, ad referendum do Conselho Diretor, nos casos de urgência ou relevante interesse;
+   X - apresentar, anualmente, à Assembleia Geral, o relatório de atividades, a prestação de contas, o balanço patrimonial e as demonstrações financeiras.
+
+Art. 32. Ao VICE-PRESIDENTE compete:
+   I - substituir o Presidente em suas faltas, ausências, impedimentos ou vacâncias;
+   II - assistir o Presidente em suas atribuições;
+   III - assumir a coordenação de projetos e áreas específicas, quando designado;
+   IV - desempenhar as atribuições que lhe forem cometidas pelo Conselho Diretor.
+
+Art. 33. Ao SECRETÁRIO-GERAL compete:
+   I - superintender os serviços de secretaria, arquivo, expediente e correspondência do INSTITUTO;
+   II - lavrar e subscrever as atas das reuniões do Conselho Diretor e das Assembleias Gerais;
+   III - manter sob sua guarda os livros sociais e a documentação institucional;
+   IV - expedir certidões, atestados e declarações;
+   V - organizar e manter atualizado o registro dos associados;
+   VI - preparar a correspondência oficial e providenciar as publicações legais;
+   VII - substituir o Presidente e o Vice-Presidente em suas faltas, ausências ou impedimentos;
+   VIII - desempenhar as demais atribuições que lhe forem cometidas pelo Conselho Diretor.
+
+Art. 34. Ao TESOUREIRO compete:
+   I - superintender a escrituração contábil, financeira e patrimonial do INSTITUTO;
+   II - arrecadar as receitas e promover os pagamentos devidamente autorizados;
+   III - movimentar, em conjunto com o Presidente, as contas bancárias do INSTITUTO;
+   IV - assinar, em conjunto com o Presidente, cheques, ordens de pagamento e demais instrumentos financeiros;
+   V - manter sob sua guarda os valores e os documentos contábeis do INSTITUTO;
+   VI - elaborar, mensalmente, balancetes e demonstrações de fluxo de caixa;
+   VII - preparar, anualmente, o balanço patrimonial, a demonstração de resultados do exercício e demais demonstrações contábeis;
+   VIII - providenciar a conservação dos bens patrimoniais, mantendo registro atualizado;
+   IX - apresentar ao Conselho Fiscal os documentos por ele requisitados;
+   X - desempenhar as demais atribuições financeiras que lhe forem cometidas pelo Conselho Diretor.
+
+
+--------------------------------------------------------------------------------
+Seção III
+Do Conselho Técnico
+--------------------------------------------------------------------------------
+
+Art. 35. O Conselho Técnico, órgão consultivo, propositivo e de assessoramento técnico-científico, destina-se a contribuir para a excelência, a qualidade e a relevância das atividades, pesquisas, estudos, publicações e políticas públicas desenvolvidas pelo INSTITUTO, com observância dos princípios de pluralidade ideológica, diversidade de pensamento e independência técnica.
+
+Art. 36. O Conselho Técnico será composto por, no mínimo, 5 (cinco) e, no máximo, 21 (vinte e um) membros, pessoas físicas de reconhecida notoriedade e competência em suas áreas de atuação, especialmente economistas, administradores, cientistas políticos, analistas políticos, juristas, pesquisadores, especialistas em políticas públicas e em gestão governamental, eleitos pelo Conselho Diretor, para mandato de 3 (três) anos, permitida a recondução.
+
+§ 1º. A composição do Conselho Técnico observará a pluralidade de correntes de pensamento e perspectivas disciplinares, vedada qualquer forma de discriminação.
+
+§ 2º. O Conselho Técnico elegerá, dentre seus membros, um Coordenador, para mandato coincidente com o de sua composição.
+
+Art. 37. Compete ao Conselho Técnico:
+   I - opinar, previamente, sobre o plano anual de atividades, os projetos estratégicos e as prioridades institucionais;
+   II - propor temas, agendas, linhas de pesquisa, pautas de reforma e estudos técnicos a serem desenvolvidos pelo INSTITUTO;
+   III - emitir pareceres técnicos sobre matérias de sua especialidade, quando solicitado pelo Conselho Diretor;
+   IV - revisar e validar tecnicamente as publicações, estudos, pesquisas e relatórios produzidos pelo INSTITUTO, observada a independência metodológica dos pesquisadores;
+   V - contribuir para a construção e a manutenção de redes de pesquisadores, especialistas e parceiros acadêmicos;
+   VI - representar o INSTITUTO em eventos, fóruns e debates técnicos, quando designado;
+   VII - sugerir convênios, parcerias, intercâmbios e cooperações com instituições acadêmicas, de pesquisa e organismos nacionais e internacionais;
+   VIII - propor a constituição de comitês técnicos, grupos de trabalho, comissões temáticas e conselhos setoriais;
+   IX - apreciar e emitir recomendações sobre matérias de relevância institucional;
+   X - elaborar e aprovar seu regimento interno, "ad referendum" do Conselho Diretor.
+
+Parágrafo único. Os membros do Conselho Técnico não perceberão remuneração pelo exercício de suas funções, sendo-lhes assegurado o reembolso de despesas com deslocamento e estada, quando previamente autorizadas pelo Conselho Diretor, nos termos da legislação vigente.
+
+
+--------------------------------------------------------------------------------
+Seção IV
+Do Conselho Fiscal
+--------------------------------------------------------------------------------
+
+Art. 38. O Conselho Fiscal, órgão independente de controle e fiscalização, é composto por 3 (três) membros efetivos e igual número de suplentes, eleitos pela Assembleia Geral, para mandato de 3 (três) anos, permitida uma única reeleição consecutiva.
+
+§ 1º. É vedado aos membros do Conselho Fiscal:
+   I - ter parentesco, até terceiro grau, com membros do Conselho Diretor;
+   II - manter vínculo conjugal ou união estável com dirigente do INSTITUTO;
+   III - ser empregado, sócio ou contratado permanente do INSTITUTO;
+   IV - acumular a função com cargo no Conselho Diretor ou no Conselho Técnico.
+
+§ 2º. O Conselho Fiscal elegerá, dentre seus membros efetivos, um Presidente e um Secretário.
+
+Art. 39. Compete ao Conselho Fiscal:
+   I - examinar os livros, balancetes, balanços, demonstrações contábeis e demais registros financeiros e patrimoniais do INSTITUTO;
+   II - opinar, previamente, sobre o relatório anual de atividades, o balanço patrimonial, a demonstração de resultados do exercício e demais demonstrações contábeis a serem submetidos à Assembleia Geral;
+   III - fiscalizar o cumprimento do orçamento e do plano de aplicação de recursos;
+   IV - emitir parecer sobre operações patrimoniais de relevante monta, especialmente aquisição, alienação e oneração de bens imóveis;
+   V - acompanhar e fiscalizar a execução dos termos de colaboração, termos de fomento, contratos de repasse, convênios e demais instrumentos de parceria;
+   VI - verificar a regularidade fiscal, contábil e trabalhista do INSTITUTO;
+   VII - denunciar, por escrito, ao Conselho Diretor e, em caso de omissão, à Assembleia Geral, eventuais irregularidades ou ilegalidades praticadas;
+   VIII - convocar a Assembleia Geral, nos casos previstos em lei ou neste Estatuto;
+   IX - apresentar, anualmente, à Assembleia Geral, parecer circunstanciado sobre as contas e o exercício financeiro;
+   X - elaborar e aprovar seu regimento interno.
+
+Art. 40. O Conselho Fiscal reunir-se-á, ordinariamente, uma vez por semestre, e, extraordinariamente, sempre que convocado por seu Presidente, pela maioria de seus membros, ou pelo Conselho Diretor.
+
+Parágrafo único. O Conselho Fiscal não poderá deliberar com a presença de menos de dois de seus membros efetivos, e suas decisões serão tomadas por maioria de votos.
+
+
+================================================================================
+                       DAS RECEITAS E DESPESAS
+--------------------------------------------------------------------------------
+
+CAPÍTULO VI
+DA GESTÃO FINANCEIRA, DAS RECEITAS E DESPESAS E DA PRESTAÇÃO DE CONTAS
+
+Art. 41. A gestão econômico-financeira do INSTITUTO observar-se-á os princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade e eficiência, sendo regida pelo plano anual de atividades e orçamento aprovados pela Assembleia Geral.
+
+Art. 42. Constituem receitas do INSTITUTO todas as fontes arroladas no art. 17 deste Estatuto, devendo ser escrituradas, contabilizadas e depositadas em conta bancária específica, em instituição financeira oficial ou, excepcionalmente, privada, observada a legislação pertinente.
+
+Art. 43. Constituem despesas do INSTITUTO os custos operacionais, administrativos, técnicos e de pessoal, necessários à consecução de suas finalidades institucionais, compreendendo, entre outras:
+   I - despesas com pessoal, encargos sociais e trabalhistas;
+   II - despesas com consultorias, serviços técnicos especializados e assessorias;
+   III - despesas com manutenção de sede, filiais, escritórios regionais e unidades descentralizadas;
+   IV - despesas com produção de pesquisas, estudos, publicações, eventos, capacitações e projetos;
+   V - despesas com tecnologia da informação, comunicação, marketing e difusão de conteúdos;
+   VI - despesas com viagens, deslocamentos, hospedagens e representação, previamente autorizadas;
+   VII - despesas com prestação de contas, auditorias, assessoria jurídica e contábil;
+   VIII - despesas tributárias, quando devidas, observada a imunidade e a isenção tributária aplicável;
+   IX - despesas com implementação de projetos, programas e parcerias firmadas;
+   X - despesas com inovação tecnológica, desenvolvimento institucional e capacitação de dirigentes e empregados.
+
+Art. 44. O INSTITUTO manterá escrituração contábil completa, em conformidade com as Normas Brasileiras de Contabilidade aplicáveis às entidades do terceiro setor, especialmente a ITG 2000, e com as exigências do Conselho Federal de Contabilidade, sendo obrigatório:
+   I - a elaboração anual do balanço patrimonial, da demonstração do resultado do exercício, da demonstração das mutações do patrimônio líquido, da demonstração dos fluxos de caixa e das notas explicativas;
+   II - a manutenção de livro diário, devidamente registrado e autenticado;
+   III - a conservação, em arquivo seguro, de toda a documentação comprobatória das operações realizadas, pelo prazo legal;
+   IV - a manutenção de controle específico de cada parceria, projeto ou convênio firmado com o poder público, na forma da legislação vigente.
+
+Art. 45. O INSTITUTO prestará contas de suas atividades e da aplicação de seus recursos, observadas as seguintes obrigações, sem prejuízo de outras previstas em lei:
+   I - elaborar e publicar, anualmente, relatório de atividades, demonstrações contábeis, prestação de contas e demais documentos, disponibilizando-os em seu sítio eletrônico oficial;
+   II - manter em sua sede, à disposição dos associados e do público, a documentação comprobatória das atividades e das contas;
+   III - observar, nas parcerias com o poder público, as obrigações de prestação de contas previstas na Lei nº 13.019/2014 e no Termo de Colaboração, Termo de Fomento, Acordo de Cooperação ou Contrato de Repasse, conforme o caso;
+   IV - submeter-se, quando exigido, a auditoria externa independente, especialmente nas hipóteses previstas na legislação aplicável;
+   V - fornecer informações e documentos solicitados por órgãos públicos competentes, na forma da lei;
+   VI - cumprir, caso qualificada como OSCIP, as exigências do art. 70 da Lei nº 13.019/2014, mediante a remessa, ao Ministério da Gestão e da Inovação (ou órgão que vier a sucedê-lo), do Contrato de Gestão, do balanço patrimonial e do relatório de atividades, para fins de publicação no Portal da Transparência.
+
+Art. 46. Na hipótese de o INSTITUTO vir a ser qualificado como Organização da Sociedade Civil de Interesse Público (OSCIP), obriga-se a:
+   I - observar, em toda a sua atuação, os princípios elencados no art. 4º da Lei nº 13.019/2014;
+   II - cumprir o acervo de obrigações previsto no art. 67 da referida Lei;
+   III - celebrar, quando for o caso, Termo de Colaboração ou Termo de Fomento, conforme a natureza da parceria;
+   IV - permitir a fiscalização pelo órgão governamental competente e pela sociedade civil, na forma da lei;
+   V - manter disponível, em seu sítio eletrônico, em linguagem clara e acessível, as informações relativas às parcerias celebradas, à execução e aos resultados alcançados.
+
+
+================================================================================
+                           DA DISSOLUÇÃO
+--------------------------------------------------------------------------------
+
+CAPÍTULO VII
+DA DISSOLUÇÃO, LIQUIDAÇÃO E DESTINAÇÃO DO PATRIMÔNIO
+
+Art. 47. O INSTITUTO será dissolvido, deliberadamente ou por determinação legal, nas seguintes hipóteses:
+   I - por deliberação expressa da Assembleia Geral, especialmente convocada para esse fim, com o quorum qualificado de, no mínimo, dois terços (2/3) dos associados com direito a voto, observado o disposto no art. 61 do Código Civil Brasileiro;
+   II - pela impossibilidade de continuidade de suas atividades, em razão de força maior, caso fortuito, insolvência ou outra causa grave, devidamente demonstrada e deliberada pela Assembleia Geral;
+   III - por decisão de autoridade competente, nas hipóteses previstas em lei.
+
+Art. 48. Em caso de dissolução, o INSTITUTO será liquidado por uma comissão liquidante, composta por 3 (três) membros, eleitos pela Assembleia Geral, observadas as seguintes regras:
+   I - a comissão liquidante assumirá a administração dos bens, direitos e obrigações do INSTITUTO;
+   II - procederá à apuração do ativo e do passivo, ao pagamento das obrigações pendentes e à realização do ativo;
+   III - apresentará à Assembleia Geral, no prazo de 180 (cento e oitenta) dias, prorrogável, o relatório final da liquidação, acompanhado das demonstrações contábeis.
+
+Art. 49. Apurado o eventual remanescente patrimonial, após o pagamento de todas as obrigações, este será destinado, integralmente, a outra pessoa jurídica de igual natureza jurídica, sem fins econômicos, preferably qualificada como Organização da Sociedade Civil de Interesse Público (OSCIP), com finalidades afins às do INSTITUTO, especialmente atuante nas áreas de políticas públicas, gestão governamental, economia aplicada, transparência pública ou reforma do Estado, a ser indicada pela Assembleia Geral que deliberar sobre a dissolução.
+
+§ 1º. Em nenhuma hipótese, o remanescente patrimonial poderá ser destinado a associados, dirigentes, conselheiros, empregados ou doadores do INSTITUTO, observado o disposto no art. 4º, inciso I, e no art. 61, § único, do Código Civil.
+
+§ 2º. A destinação do patrimônio remanescente observar-se-á, ainda, as restrições eventualmente impostas por doadores ou pelos instrumentos de parceria com o poder público.
+
+§ 3º. A pessoa jurídica beneficiária deverá ser domiciliada no Brasil e estar em regular situação cadastral e fiscal perante os órgãos competentes.
+
+
+================================================================================
+                        DAS DISPOSIÇÕES GERAIS
+--------------------------------------------------------------------------------
+
+CAPÍTULO VIII
+DAS DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS
+
+Art. 50. O presente Estatuto poderá ser reformado, no todo ou em parte, pela Assembleia Geral, especialmente convocada para esse fim, observado o quorum de instalação e de deliberação previsto no art. 26, § 2º, deste Estatuto.
+
+§ 1º. A reforma estatutária, após aprovação em Assembleia Geral, será levada a registro no Registro Civil das Pessoas Jurídicas, na forma da lei, produzindo efeitos perante terceiros após a competente publicação ou arquivamento.
+
+§ 2º. As matérias que não incidam sobre o conteúdo estrito do Estatuto poderão ser disciplinadas em regimento interno, políticas, manuais, regulamentos e normas operacionais, aprovados pelo Conselho Diretor.
+
+Art. 51. O exercício financeiro coincide com o ano civil, encerrando-se em 31 de dezembro, quando será elaborado o balanço patrimonial e demais demonstrações contábeis, a serem apreciadas pelo Conselho Fiscal e submetidas à Assembleia Geral.
+
+Art. 52. O INSTITUTO adotará, em toda a sua atuação, instrumentos e práticas de governança, integridade, compliance, gestão de riscos, controle interno e responsabilidade social, observadas as melhores práticas nacionais e internacionais aplicáveis ao terceiro setor.
+
+Art. 53. É vedada a participação do INSTITUTO, em qualquer hipótese, em campanhas de caráter eleitoral, partidário ou de apoio a candidatura a cargo eletivo, devendo suas atividades políticas, advocacy e de articulação institucional restringirem-se ao plano técnico, doutrinário, propositivo e de interesse público, observada a legislação pertinente.
+
+Parágrafo único. O INSTITUTO atuará com estrita observância ao princípio da pluralidade ideológica, abstendo-se de vincular-se a partido político ou a corrente político-partidária específica.
+
+Art. 54. O INSTITUTO deverá adotar e manter política de prevenção à lavagem de dinheiro (PLD), ao terrorismo e à corrupção, em conformidade com a Lei nº 9.613/1998, a Lei nº 12.846/2013 (Lei Anticorrupção) e demais normas aplicáveis.
+
+Art. 55. O INSTITUTO manterá canal de denúncias, acessível a associados, empregados, colaboradores, parceiros e ao público em geral, para comunicação de eventuais irregularidades, ilícitos ou desvios de conduta, garantindo-se o sigilo da identidade do denunciante e a apuração tempestiva e imparcial dos fatos relatados.
+
+Art. 56. Os casos omissos neste Estatuto serão resolvidos pela Assembleia Geral, ouvindo, quando necessário, o Conselho Diretor, o Conselho Técnico e o Conselho Fiscal, observadas as normas legais e os princípios gerais de direito aplicáveis.
+
+Parágrafo único. Na hipótese de lacuna não suprida pela Assembleia Geral, aplicar-se-ão, supletivamente, a legislação civil vigente, especialmente o Código Civil Brasileiro (Lei nº 10.406/2002), o Marco Legal das Organizações da Sociedade Civil (Lei nº 13.019/2014, com as alterações da Lei nº 13.797/2019) e demais normas aplicáveis.
+
+Art. 57. Fica eleito o foro da Comarca de ____________________, Estado de _____________, para dirimir quaisquer questões relativas ao presente Estatuto ou decorrentes de sua aplicação, com expressa renúncia a qualquer outro, por mais privilegiado que seja.
+
+Art. 58. O presente Estatuto, após aprovação pela Assembleia Geral de Constituição, entra em vigor na data de seu registro no Registro Civil das Pessoas Jurídicas, revogadas as disposições em contrário.
+
+
+================================================================================
+                     DA APROVAÇÃO E PROMULGAÇÃO
+--------------------------------------------------------------------------------
+
+CAPÍTULO IX
+DA APROVAÇÃO
+
+APROVADO e promulgado pela Assembleia Geral de Constituição do INSTITUTO DE GESTÃO NACIONAL (TEIA), realizada em __ de ____________ de _____, nesta cidade de ____________________, Estado de _____________, lavrando-se a respectiva ata, que será assinada por todos os associados fundadores presentes, em cuja folha de presença constam as respectivas assinaturas.
+
+
+                                 ____________________________________
+                                       PRESIDENTE DO INSTITUTO
+                                       de Gestão Nacional (TEIA)
+
+                                 ____________________________________
+                                       VICE-PRESIDENTE
+
+                                 ____________________________________
+                                       SECRETÁRIO-GERAL
+
+                                 ____________________________________
+                                       TESOUREIRO
+
+
+                                 ____________________________________
+                                       PRESIDENTE DA ASSEMBLEIA
+
+                                 ____________________________________
+                                       SECRETÁRIO DA ASSEMBLEIA
+
+
+-------------------------------------X------------------------------------------
+
+
+                                TESTEMUNHAS:
+
+
+1) _________________________________________
+        Nome:
+        CPF:
+        RG:
+
+2) _________________________________________
+        Nome:
+        CPF:
+        RG:
+
+
+================================================================================
+                                   ANEXOS
+================================================================================
+
+ANEXO I — QUADRO DE ASSOCIADOS FUNDADORES
+--------------------------------------------------------------------------------
+
+(Preencher com nome completo, qualificação, CPF/CNPJ, endereço e assinatura dos
+ associados fundadores subscritores do presente Estatuto.)
+
+Nº | NOME COMPLETO | CPF | ASSINATURA
+---|---------------|-----|----------
+ 1 |               |     |
+ 2 |               |     |
+ 3 |               |     |
+ 4 |               |     |
+ 5 |               |     |
+ 6 |               |     |
+ 7 |               |     |
+ 8 |               |     |
+
+
+ANEXO II — RELAÇÃO DE MEMBROS DOS ÓRGÃOS SOCIAIS
+--------------------------------------------------------------------------------
+
+CONSELHO DIRETOR (Art. 28):
+   Presidente:        __________________________________________
+   Vice-Presidente:   __________________________________________
+   Secretário-Geral:  __________________________________________
+   Tesoureiro:        __________________________________________
+
+CONSELHO TÉCNICO (Art. 36):
+   Coordenador:       __________________________________________
+   Membro:            __________________________________________
+   Membro:            __________________________________________
+   Membro:            __________________________________________
+   Membro:            __________________________________________
+
+CONSELHO FISCAL (Art. 38):
+   Presidente:        __________________________________________
+   Membro Efetivo:    __________________________________________
+   Membro Efetivo:    __________________________________________
+   Suplente 1:        __________________________________________
+   Suplente 2:        __________________________________________
+   Suplente 3:        __________________________________________
+
+
+ANEXO III — ROTEIRO DE PROVIDÊNCIAS PÓS-CONSTITUIÇÃO
+--------------------------------------------------------------------------------
+
+[ ] 1. Lavratura da Ata de Constituição e aprovação do Estatuto em Assembleia.
+[ ] 2. Registro do Estatuto e da Ata no Registro Civil das Pessoas Jurídicas
+       da Comarca da sede (Lei nº 6.015/1973, art. 120).
+[ ] 3. Obtenção do CNPJ junto à Receita Federal do Brasil.
+[ ] 4. Inscrição no Cadastro Estadual e Municipal, quando aplicável.
+[ ] 5. Alvará de funcionamento junto à Prefeitura Municipal.
+[ ] 6. Abertura de conta bancária em instituição financeira oficial.
+[ ] 7. Registro dos livros sociais (Atas, Associados, Patrimônio).
+[ ] 8. Requerimento da Certidão de Regularidade do FGTS (CRF).
+[ ] 9. Requerimento da Certidão Negativa de Débitos Trabalhistas (CNDT-TST).
+[ ] 10. Requerimento da Certidão Negativa de Débitos Tributários Federal,
+        Estadual e Municipal.
+[ ] 11. Pedido de qualificação como OSCIP, junto ao Ministério da Gestão e da
+        Inovação (ou órgão sucessor), mediante apresentação dos documentos
+        previstos no art. 70 da Lei nº 13.019/2014.
+[ ] 12. Registro do INSTITUTO no Conselho Municipal, Estadual ou Federal de
+        Assistência Social, quando aplicável às atividades.
+[ ] 13. Inscrição no CNES, MEC, CONSEP ou outros órgãos setoriais, conforme
+        as atividades desenvolvidas.
+[ ] 14. Implementação de canal de denúncias e política de compliance.
+[ ] 15. Elaboração e aprovação do Regimento Interno.
+[ ] 16. Publicação, no sítio eletrônico oficial, das informações relativas à
+        governança, à prestação de contas e às atividades institucionais.
+
+
+================================================================================
+                                REFERÊNCIAS LEGAIS
+================================================================================
+
+LEI nº 10.406, de 10 de janeiro de 2002 (Código Civil Brasileiro), arts. 44 a 61.
+LEI nº 13.019, de 31 de julho de 2014 (Marco Legal das Organizações da
+       Sociedade Civil).
+LEI nº 13.797, de 3 de janeiro de 2019 (alterações do Marco Legal das OSC).
+LEI nº 9.790, de 23 de março de 1999 (legislação anterior sobre OSCIP, parcialmente
+       revogada pela Lei nº 13.019/2014).
+LEI nº 8.906, de 4 de julho de 1994 (Estatuto da OAB), quando aplicável.
+LEI nº 9.613, de 3 de março de 1998 (Lavagem de Dinheiro).
+LEI nº 12.846, de 1º de junho de 2013 (Lei Anticorrupção).
+DECRETO nº 8.726, de 27 de abril de 2016 (Regulamento do Marco Legal das OSC).
+NORMAS BRASILEIRAS DE CONTABILIDADE — ITG 2000 (Entidades do Terceiro Setor).
+RESOLUÇÕES do Conselho Federal de Contabilidade aplicáveis.
+
+================================================================================
+                              OBSERVAÇÕES IMPORTANTES
+================================================================================
+
+1. O presente Estatuto Social foi elaborado em conformidade com o Marco Legal das
+   Organizações da Sociedade Civil (Lei nº 13.019/2014, com as alterações da Lei
+   nº 13.797/2019) e com os arts. 44 a 61 do Código Civil Brasileiro, e destina-se
+   ao registro no Registro Civil das Pessoas Jurídicas.
+
+2. RECOMENDA-SE EXPRESSAMENTE a revisão por ADVOGADO(A) regularmente inscrito(a)
+   na OAB, do Estado da sede do INSTITUTO, antes do protocolo em cartório,
+   especialmente para adequação às particularidades da legislação local e às
+   exigências específicas do Registro Civil das Pessoas Jurídicas competente.
+
+3. Os campos em branco, identificados por _____________ ou por linhas pontilhadas,
+   deverão ser preenchidos pelo(a) advogado(a) ou pelo Constituinte, antes do
+   protocolo do registro.
+
+4. As disposições relativas ao Conselho Técnico (arts. 35 a 37) e às categorias
+   de associados (arts. 10 e 11) poderão ser ajustadas, conforme a estratégia
+   institucional adotada, sem prejuízo da conformidade legal.
+
+5. Para fins de QUALIFICAÇÃO COMO OSCIP, observar os requisitos do art. 67 da Lei
+   nº 13.019/2014, bem como a remessa dos documentos previstos no art. 70 do
+   mesmo diploma legal, ao Ministério da Gestão e da Inovação (ou órgão sucessor).
+
+6. Caso o INSTITUTO pretenda captar recursos públicos, observem-se, ainda, as
+   disposições específicas da Lei de Responsabilidade Fiscal (LC nº 101/2000),
+   da Lei de Diretrizes Orçamentárias e dos editais específicos dos organismos
+   financiadores.
+
+7. Para a celebração de parcerias com o poder público, observar-se-ão os
+   Termos de Colaboração, Termos de Fomento, Acordos de Cooperação, Contratos
+   de Repasse e demais instrumentos previstos na Lei nº 13.019/2014, com a
+   redação dada pela Lei nº 13.797/2019.
+
+================================================================================
+                          FIM DO ESTATUTO SOCIAL
+================================================================================

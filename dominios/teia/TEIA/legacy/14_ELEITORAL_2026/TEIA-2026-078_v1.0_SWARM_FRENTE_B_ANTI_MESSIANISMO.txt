@@ -1,0 +1,792 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-078
+VERSÃO: v1.0
+CATEGORIA: 14_ELEITORAL_2026 — SWARM DE CAMPANHAS / FRENTE B
+TÍTULO: ANTI-MESSIANISMO — Desmontagem do Frame Salvacionista Brasileiro
+STATUS: INTERNO — Peças de comunicação para rede TEIA (subagent swarm)
+DATA: Julho/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+FRENTE: B (Anti-Messianismo)
+MITOS-ALVO: 2.1 (Salvador/Homem Forte) · 2.2 (Mito do Botão) · 2.3 (Apocalipsismo Eleitoral)
+================================================================================
+
+
+================================================================================
+1. EIXO NARRATIVO DA FRENTE B
+================================================================================
+
+EIXO-CENTRAL:
+  Trocar rosto sem tocar rede = trocar garçom, manter cardápio.
+  A solução não é eleger outro salvador. É mapear e desmontar a rede.
+
+PREMISSA OPERACIONAL:
+  O messianismo político não é erro de raciocínio. É ARQUITETURA COGNITIVA
+  que sustenta o sistema de captura. Enquanto a esperança coletiva se
+  concentrar em UM nome a cada 4 anos, a rede de captura opera 24/7,
+  transversalmente, invisível. O salvador é o RUÍDO que encobre a máquina.
+
+FUNÇÃO DA FRENTE B:
+  Desativar o ciclo salvador → decepção → novo salvador. Instalar no
+  imaginário do eleitor de 2026 a percepção de que:
+    (a) nenhum indivíduo resolve o sistema sozinho;
+    (b) eleição presidencial é NECESSÁRIA mas INSUFICIENTE;
+    (c) catastrofismo ("se fulano ganhar, o país acaba") é combustível
+        da polarização que a rede usa para se esconder.
+
+FRAME-CHAVE A REPETIR:
+  CAPTURA x GESTÃO. Não é esquerda x direita. Não é santo x demônio.
+  É rede que captura vs rede que gere. Há capturador nos dois lados.
+  Há gestor nos dois lados. Vote em INTEGRIDADE + COMPETÊNCIA, não em messias.
+
+
+================================================================================
+2. OS 3 MITOS-ALVO — DEFINIÇÃO, FUNÇÕES E CONTRANARRATIVA
+================================================================================
+
+--------------------------------------------------------------------------------
+MITO 2.1 — "PRECISAMOS DE UM HOMEM FORTE / SALVADOR"
+--------------------------------------------------------------------------------
+DEFINIÇÃO:
+  Externalização de agência. A solução não vem de processo coletivo de
+  organização institucional — vem DE FORA, de uma FIGURA. O "messias" pode
+  ser militar, operário, mito, técnico, empresário. A forma muda; a
+  estrutura cognitiva não.
+
+VARIANTES VERBALIZADAS:
+  "Faltou um militar de verdade."
+  "O Lula resolve."
+  "O Bolsonaro resolve."
+  "Esse país precisa de alguém com pulso firme."
+  "O salvador tá chegando."
+
+FUNÇÃO COGNITIVA:
+  Barato cognitivo. Em vez de mapear 594 parlamentares, 14 veto players,
+  5 mecanismos de captura, o sujeito terceiriza a complexidade para UM nome.
+  O salvador é atalho mental. A economia mental vicia.
+
+FUNÇÃO SISTÊMICA:
+  Personalismo DESTRÓI instituições. A cada 4 anos, a esperança se
+  concentra em UM nome. Quando falha (sempre falha parcialmente), a
+  desilusão gera fatalismo — que gera o próximo messias. CICLO QUE
+  ESVAZIA A DEMOCRACIA REPRESENTATIVA. O capturador ama o ciclo: enquanto
+  o eleitor briga sobre QUEM é o salvador, ninguém pergunta QUEM controla
+  a pauta.
+
+PADRÃO HISTÓRICO (documentado em §6 deste dossiê):
+  1930 (Vargas), 1961 (Jango), 2002 (Lula), 2018 (Bolsonaro). Todos
+  carregados como salvadores por algum segmento significativo. Todos
+  decepcionaram parte expressiva da própria base. A estrutura de captura
+  permaneceu INTACTA atravessando os quatro.
+
+CONTRANARRATIVA TEIA:
+  "Nenhum salvador resolve. O sistema não é um homem — é uma REDE.
+  Trocar o rosto sem tocar a rede = trocar o garçom, manter o cardápio.
+  A solução é IDENTIFICAR A REDE e DESMONTÁ-LA. Não há herói. Há trabalho."
+
+--------------------------------------------------------------------------------
+MITO 2.2 — "O PAÍS MUDA COM MUDANÇA DE GOVERNO"
+--------------------------------------------------------------------------------
+DEFINIÇÃO:
+  Mito do Botão. Acredita que eleição presidencial = reset. O novo governo
+  "aperta o botão" e o país muda. É a forma mais difundida de messianismo —
+  diluída, não reconhecida como tal.
+
+VARIANTES VERBALIZADAS:
+  "Em 2026 acaba."
+  "Quando o X assumir, melhora."
+  "Só o Y ganhar pra resolver isso."
+  "Agora vai ser diferente."
+
+FUNÇÃO COGNITIVA:
+  Reduz a complexidade do Estado (3 Poderes, 27 unidades federativas,
+  ~5.560 municípios, burocracia de carreira, Judiciário autônomo, sistema
+  financeiro, pactos federativos, dívida pública) a uma causalidade linear
+  e simples: trocou presidente, trocou país.
+
+FUNÇÃO SISTÊMICA:
+  Ignora a INÉRCIA ESTRUTURAL. Burocracia não muda com eleição. Congresso
+  não muda com eleição (renovação parcial, ~60% reeleição média em Câmara).
+  Judiciário não muda com eleição (mandatos longos, vitaliciedade). Sistema
+  financeiro não muda com eleição. O capturador SABE disso; o eleitor não.
+  Por isso o capturador permite o espetáculo eleitoral — distrai sem ameaçar.
+
+BASE TEIA:
+  14 veto players no Congresso controlam ~80% da pauta orçamentária,
+  INDEPENDENTE do partido do Executivo. Trocar presidente sem mudar o
+  Congresso = trocar o narrador, não o roteiro. A Câmara decide o que
+  chega ao plenário. Quem controla a pauta controla o país.
+
+CONTRANARRATIVA TEIA:
+  "Eleição presidencial muda o TOM. Eleição legislativa muda a PAUTA.
+  Para mudar o país, é preciso mudar as DUAS coisas. E depois continuar
+  cobrando. Votar é o começo — não o fim."
+
+--------------------------------------------------------------------------------
+MITO 2.3 — "SE FULANO GANHAR, O PAÍS ACABA"
+--------------------------------------------------------------------------------
+DEFINIÇÃO:
+  Apocalipsismo eleitoral. Catastrofismo. Atribui poder ONIPOTENTE a um
+  único resultado eleitoral — ignora freios, contrapesos, instituições,
+  inércia estrutural, etc. Tem duas polaridades simétricas.
+
+VARIANTES VERBALIZADAS (polaridade direita):
+  "Brasil vira Venezuela."
+  "Vira Cuba."
+  "A Constituição acaba."
+  "Vão tomar suas propriedades."
+
+VARIANTES VERBALIZADAS (polaridade esquerda):
+  "Brasil vira Chile de Pinochet."
+  "Vira fascismo aberto."
+  "Vai acabar com os direitos."
+  "Vão fechar o STF."
+
+FUNÇÃO COGNITIVA:
+  Catastrofismo. Trata resultado eleitoral como evento EXISTENCIAL.
+  Aciona amígdala, desliga córtex pré-frontal. O sujeito não DELIBERA —
+  REAGE. É o estado mental ideal para manipulação.
+
+FUNÇÃO SISTÊMICA:
+  POLARIZAÇÃO EXTREMA. Justifica lógica de "tudo ou nada". Paralisa o
+  eleitor moderado (que tem medo dos dois lados e muitas vezes se abstém
+  ou anula). ESGOTA A DEMOCRACIA — e democracia exausta é campo aberto
+  para captura. Quem lucra com o apocalipsismo? A rede, sempre. Enquanto
+  dois campos se tratam como inimigos existenciais, a bancada
+  transversal (agronegócio, bala, fé, financeira) vota junta em orçamento,
+  emenda, privilégio fiscal.
+
+CONTRANARRATIVA TEIA:
+  "Nenhuma eleição destrói o país. Mas cada eleição DESPERDIÇADA por medo
+  empurra o país para o abismo um passo de cada vez. O país não acaba em
+  2026. Mas pode ficar menor, mais capturado, mais exausto — se você votar
+  com medo em vez de votar com critério."
+
+
+================================================================================
+3. PEÇA A — TIKTOK (90 SEGUNDOS)
+================================================================================
+
+TÍTULO: "A história do Brasil em 5 messias que decepcionaram"
+FORMATO: Roteiro completo de vídeo vertical, 90 segundos
+TOM: Professor Cinza — grave, calmo, cínico, direto
+LOCUTORA/LOCUTOR: voz off, ritmo medium-slow, sem trilha dramática nos
+  primeiros 30s; trilha discreta cresce a partir do 4º messias.
+CORTES: cortes secos entre cada "messia"; texto em tela em caixa alta
+  amarela sobre fundo preto. Sem efeitos humorísticos.
+OBJETIVO COGNITIVO: instalar o padrão CICLO, não a opinião sobre cada nome.
+
+--------------------------------------------------------------------------------
+[00:00 — HOOK — 8 segundos]
+TEXTO EM TELA: "O BRASIL JÁ TEVE 5 MESSIAS."
+LOCUTORA (tom grave, pausa após cada frase):
+  "Todo 4 anos o Brasil procura um salvador.
+   Te conto agora sobre os cinco últimos.
+   Nenhum resolveu. Entende o porquê no final."
+CORTINA: clique seco. Fundo preto.
+
+[00:08 — MESSIAS 1 — VARGAS — 14 segundos]
+TEXTO EM TELA: "1930 — VARGAS"
+LOCUTORA:
+  "1930. Getúlio Vargas entra montado na Revolução.
+   Esperança messiânica: o pai dos pobres.
+   Cria CLT, Petrobras, Vale.
+   Mas governa com ditadura de 8 anos, entrega o país à结构的 captura
+   agrário-exportadora, e termina em suicídio em 54 — deixando uma rede
+   intacta."
+
+[CORREÇÃO DE LOCUÇÃO: substituir "estrutural" pelo termo correto —
+"deixando a rede agrária intacta". Revisar na gravação.]
+
+[00:22 — MESSIAS 2 — JANGO — 13 segundos]
+TEXTO EM TELA: "1961 — JANGO"
+LOCUTORA:
+  "1961. João Goulart assume prometendo Reformas de Base.
+   Esperança messiânica da esquerda: o reformista corajoso.
+   Não consegue aprovar nada no Congresso, perde base, é derrubado
+   em 64. A rede agrária e financeira que ele tentou tocar? Continua
+   lá. Vinte e um anos de ditadura. Salvador nenhum."
+
+[00:35 — MESSIAS 3 — LULA — 16 segundos]
+TEXTO EM TELA: "2002 — LULA"
+LOCUTORA:
+  "2002. Lula, o operário-presidente. Esperança messiânica massiva.
+   Bolsa Família, PAC, Programa Luz para Todos.
+   Mas herdou e manteve o tripé macroeconômico. Nomeou o mesmo
+   Centrão. Não tocou a reforma política. Mensalão. E em 2016, a rede
+   que ele não desmontou desmontou a sucessora dele."
+
+[00:51 — MESSIAS 4 — BOLSONARO — 14 segundos]
+TEXTO EM TELA: "2018 — BOLSONARO"
+LOCUTORA:
+  "2018. Bolsonaro, o mito, o anti-sistema.
+   Esperança messiânica da direita: o military que ia 'acabar com tudo'.
+   Entregou economia a Paulo Guedes, Ministério da Saúde a general,
+   Congresso a Lira e Centrão. Orçamento secreto. Não desmontou nada.
+   Deixou a rede mais forte do que encontrou."
+
+[01:05 — MESSIAS 5 — ATUAL (genérico) — 13 segundos]
+TEXTO EM TELA: "2026 — ???"
+LOCUTORA:
+  "Agora vendem o quinto salvador.
+   Esquerda tem o seu. Direita tem o seu.
+   Vai decepcionar também. Não porque é ruim — porque o sistema não
+   é um homem. É uma REDE. E a rede continua lá."
+
+[01:18 — DESENVOLVIMENTO + CTA — 12 segundos]
+TEXTO EM TELA: "NÃO HÁ SALVADOR. HÁ REDE."
+LOCUTORA:
+  "Cinco messias. Nenhuma rede tocada.
+   2026 não precisa de salvador. Precisa de eleitor informado.
+   Segue aqui. Vou te mostrar os 14 nomes que realmente mandam no Brasil."
+CORTINA FINAL: logo TEIA. Texto fixo: "GESTÃO x CAPTURA".
+
+================================================================================
+FIM DA PEÇA A
+================================================================================
+
+
+================================================================================
+4. PEÇA B — CARROSSEL INSTAGRAM (10 SLIDES)
+================================================================================
+
+TÍTULO: "Eleição presidencial muda o TOM. Congresso muda a PAUTA."
+FORMATO: Carrossel 1080x1350, 10 slides
+TOM: Professor Cinza — direto, didático, semEmoji, sem exagero
+PALETA: fundo preto, texto branco, destaques amarelos, numerais em cinza
+OBJETIVO COGNITIVO: transferir atenção do Executivo para o Legislativo
+  sem desistir do voto presidencial — instalar a NOÇÃO DE SISTEMA.
+
+--------------------------------------------------------------------------------
+SLIDE 1 (CAPA)
+TEXTO-PRINCIPAL (grande, centralizado):
+  "Eleição presidencial
+   muda o TOM.
+   Congresso muda a PAUTA."
+SUBTEXTO (pequeno, abaixo):
+  "Frente B · Anti-Messianismo · TEIA"
+COR: amarelo "TOM" e "PAUTA"; branco no resto.
+
+--------------------------------------------------------------------------------
+SLIDE 2
+TÍTULO: "O ENGENHO DA ILUSÃO"
+CORPO:
+  "Você troca de presidente a cada 4 anos.
+   Acha que mudou alguma coisa.
+
+   Mas o mesmo Congresso continua.
+   As mesmas 14 lideranças continuam.
+   A mesma pauta orçamentária continua.
+
+   Trocou o narrador.
+   Não trocou o roteiro."
+
+--------------------------------------------------------------------------------
+SLIDE 3
+TÍTULO: "OS 14 VETO PLAYERS"
+CORPO:
+  "14 parlamentares controlam ~80% da pauta orçamentária que chega
+   ao plenário da Câmara.
+
+   Presidente não os nomeia.
+   Presidente não os demite.
+   Eles seguem atravessando governos — de esquerda, de direita,
+   de centrão.
+
+   São a REDE. Não o rosto."
+
+--------------------------------------------------------------------------------
+SLIDE 4
+TÍTULO: "O QUE O PRESIDENTE PODE"
+CORPO:
+  "Pode vetar.
+   Pode nomear ministros.
+   Pode definir prioridades do Executivo.
+   Pode negociar tratados.
+
+   Mas não pode —
+   → aprovar leis sozinho
+   → abrir crédito sozinho
+   → mudar a Constituição sozinho
+   → revogar emendas sozinho
+
+   Tudo passa pela mesa da Câmara."
+
+--------------------------------------------------------------------------------
+SLIDE 5
+TÍTULO: "O QUE O CONGRESSO PODE"
+CORPO:
+  "→ Define o que VOTA
+   → Define o que MORRE em comissão
+   → Abre, corta, redireciona verba
+   → Aprova, derruba, sangra o Orçamento
+   → Cria cargos, muda tributos, anistia
+   → Pode cassar, pode impedir, pode blindar
+
+   Quem controla a pauta, controla o país.
+   Não é o Planalto."
+
+--------------------------------------------------------------------------------
+SLIDE 6
+TÍTULO: "A MATEMÁTICA DO ENGENHO"
+CORPO:
+  "Câmara dos Deputados: 513 cadeiras.
+   Renovação média a cada eleição: ~40%.
+   Reeleição média dos líderes de bancada: acima de 80%.
+
+   Ou seja: você renova ~200 deputados. Mas os 14 que mandam
+   na pauta têm ~80% de chance de continuar.
+
+   A rede não é sortuda. É ESTRUTURADA."
+
+--------------------------------------------------------------------------------
+SLIDE 7
+TÍTULO: "BANCADAS TRANSVERSAIS"
+CORPO:
+  "Agronegócio. Bala. Fé. Financeira.
+   Cada uma tem esquerda E direita DENTRO.
+
+   Quando a pauta é dinheiro público, votam juntas.
+   Quando a pauta é cultura, é só divergência de fachada.
+
+   A polarização que você assiste é o ruído que esconde
+   os votos que importam."
+
+--------------------------------------------------------------------------------
+SLIDE 8
+TÍTULO: "EXEMPLO CONCRETO"
+CORPO:
+  "Marco do Agronegócio (2024). Emendas da bala. PEC da Blindagem.
+   Anistia tributária setorial. Relaxamento de regras fiscais.
+
+   Aprovados com base TRANVERSAL — PT e PL votando juntos em
+   matérias de interesse das bancadas.
+
+   Você brigou sobre o STF enquanto isso.
+   Foi o objetivo."
+
+--------------------------------------------------------------------------------
+SLIDE 9
+TÍTULO: "A SAÍDA"
+CORPO:
+  "Não abandone o voto presidencial.
+   Reforce-o com voto LEGISLATIVO informado.
+
+   1. Vote para presidente com critério.
+   2. Vote para deputado federal com MAIS critério ainda.
+   3. Pós-2026: cobre mandato. Plataforma. Votação nominal.
+   4. Reeleja quem cumpre. Derrube quem trai.
+
+   Voto é começo, não fim."
+
+--------------------------------------------------------------------------------
+SLIDE 10
+TÍTULO: "RESUMO DA ÓPERA"
+CORPO (grande):
+  "Presidente muda o tom.
+   Congresso muda a pauta.
+   Cobrança muda o comportamento.
+   Abandono muda nada."
+
+RODAPÉ:
+  "TEIA · @professorcinza · GESTÃO x CAPTURA"
+
+================================================================================
+FIM DA PEÇA B
+================================================================================
+
+
+================================================================================
+5. PEÇA C — THREAD X/TWITTER (15 TWEETS)
+================================================================================
+
+TÍTULO: "Por que o próximo salvador vai te decepcionar também"
+FORMATO: Thread de 15 posts encadeados
+TOM: Professor Cinza — cínico, cortante, didático
+CRITÉRIO DE POSTAGEM: 1 tweet a cada 3-5 minutos; pin do primeiro; fixar
+  resposta com link para o dossiê TEIA-078 ao final.
+
+--------------------------------------------------------------------------------
+TWEET 1/15
+Por que o próximo salvador vai te decepcionar também — uma thread.
+
+Não é opinião. É padrão histórico. Documentado. Brasil, 1930-2026.
+
+Vem comigo. 🧵
+
+--------------------------------------------------------------------------------
+TWEET 2/15
+O brasileiro aprendeu a terceirizar a solução.
+
+Em vez de mapear quem realmente manda (14 veto players, bancadas
+transversais, ~80% da pauta), concentra esperança em UM nome a cada
+4 anos.
+
+Salvador é atalho mental. Atalho vicia.
+
+--------------------------------------------------------------------------------
+TWEET 3/15
+O ciclo messiânico brasileiro:
+
+→ Esperança inflada
+→ Eleição
+→ Decepção parcial
+→ Desilusão
+→ Fatalismo ("não tem jeito")
+→ Busca de novo messias
+→ Repete
+
+Não é acidente. É ARQUITETURA. O sistema de captura opera dentro
+desse ciclo, invisível.
+
+--------------------------------------------------------------------------------
+TWEET 4/15
+Vargas, 1930. Salvador de direita-nacionalista.
+Criou CLT, Petrobras, Vale. Mas governou com ditadura de 8 anos e
+deixou a rede agrário-exportadora INTACTA.
+
+Suicidou-se em 54. A rede seguiu.
+
+Salvador: 1. Sistema: 0.
+
+--------------------------------------------------------------------------------
+TWEET 5/15
+Jango, 1961. Salvador de esquerda-reformista.
+Propôs Reformas de Base. Não conseguiu aprovar NADA no Congresso.
+Perdeu base, perdeu o posto. A rede agrária e financeira que ele
+tentou tocar continuou lá.
+
+Deu em 1964. Não em reforma.
+
+--------------------------------------------------------------------------------
+TWEET 6/15
+Lula, 2002. Salvador petista massivo.
+Bolsa Família, PAC, Luz para Todos. Mas manteve tripé macroeconômico,
+nomeou Centrão, não tocou reforma política.
+
+Mensalão. E em 2016 a rede que não foi desmontada desmontou a
+sucessora dele.
+
+--------------------------------------------------------------------------------
+TWEET 7/15
+Bolsonaro, 2018. Salvador antissistema.
+"Vai acabar com tudo." Entregou economia a Guedes, Saúde a general,
+Congresso a Lira e Centrão.
+
+Orçamento secreto expandido. Não desmontou nada. Deixou a rede MAIS
+FORTALECIDA do que encontrou.
+
+--------------------------------------------------------------------------------
+TWEET 8/15
+Quatro messias. Quatro decepções. Zero redes tocadas.
+
+Não é coincidência. É ESTRUTURA.
+
+Quem espera um homem forte resolver uma rede de 14 veto players
+transversais está pedindo a um garçom que troque o cardápio.
+
+--------------------------------------------------------------------------------
+TWEET 9/15
+O capturador AMA o messianismo.
+
+Enquanto PT e PL brigam sobre QUAL salvador, agronegócio, bala, fé
+e financeira votam juntas no Orçamento.
+
+A polarização de rosto é ruído.
+A transversalidade de voto é sinal.
+
+--------------------------------------------------------------------------------
+TWEET 10/15
+"Ah, mas o próximo é diferente."
+
+Não é. Porque o sistema não é o homem. É:
+→ 14 veto players no Congresso
+→ ~80% da pauta orçamentária
+→ bancadas transversais (agronegócio/bala/fé/financeira)
+→ inércia de burocracia + Judiciário + dívida
+
+Salvador não tem poder contra isso.
+
+--------------------------------------------------------------------------------
+TWEET 11/15
+Personalismo destrói instituições.
+
+Quando a esperança se concentra em UM nome, o Legislativo vira
+coadjuvante. O parlamentar fica livre para capturar sem escrutínio.
+Você não cobra quem não vê. Você só vê o presidente.
+
+É o que eles querem.
+
+--------------------------------------------------------------------------------
+TWEET 12/15
+E o apocalipsismo? "Se fulano ganhar, o país acaba."
+
+Também é messianismo — invertido. O demônio é o salvador ao contrário.
+Mesma estrutura cognitiva. Mesma paralisia. Mesmo lucro para a rede.
+
+Você vota com medo. A rede vota com critério. Perde.
+
+--------------------------------------------------------------------------------
+TWEET 13/15
+O que funciona, então?
+
+→ Eleger presidente COM critério (necessário, não suficiente)
+→ Eleger Legislativo com MAIS critério ainda
+→ Cobrar mandato entre eleições (votação nominal, plataforma)
+→ Reeleger quem cumpre, derrubar quem trai
+→ Repetir por 3 ciclos. Não por 1.
+
+--------------------------------------------------------------------------------
+TWEET 14/15
+Não há salvador. Há trabalho.
+
+Trabalho organizado. Informação. Pressão persistente. Tempo.
+
+O contrário de messianismo não é pessimismo. É maturidade cívica.
+É reconhecer que democracia não é sistema que FUNCIONA — é sistema
+que se FAZ funcionar.
+
+--------------------------------------------------------------------------------
+TWEET 15/15
+Resumo:
+
+Trocar presidente sem mudar Congresso = trocar garçom, manter cardápio.
+
+Salvador é o ruído. Rede é o sinal.
+
+2026: vote com critério. Vote Legislativo. Continue cobrando em 2027.
+
+Dossiê completo: TEIA-078. Pinado. 📌
+
+@professorcinza · GESTÃO x CAPTURA
+
+================================================================================
+FIM DA PEÇA C
+================================================================================
+
+
+================================================================================
+6. PADRÃO HISTÓRICO — DOCUMENTAÇÃO DOS MESSIAS PRESIDENCIAIS (SEC XX-XXI)
+================================================================================
+
+MÉTODO:
+  Cada messias carregado por algum segmento significativo da opinião
+  pública como SALVADOR (não necessariamente pela maioria). O critério
+  é: existência de discurso messiânico articulado em torno da figura,
+  não julgamento político sobre a figura em si.
+
+--------------------------------------------------------------------------------
+6.1 — GETÚLIO VARGAS (1930 / 1951)
+--------------------------------------------------------------------------------
+CARGA MESSIÂNICA:
+  "Pai dos pobres." Revolução de 30 narrada como redenção. CLT,
+  Petrobras, trabalho formalizado como concessão pessoal.
+
+DECEPÇÃO PARCIAL:
+  Ditadura do Estado Novo (1937-1945). Perseguição a opositores.
+  Manutenção da estrutura latifundiária. Suicídio em 1954 deixando
+  rede intacta.
+
+REDE INTACTA:
+  A bancada agrária que dominou a República Velha migrou para o
+  PSD e continuou no poder. Vargas tocou a face trabalhista — não
+  tocou a face fundiária.
+
+--------------------------------------------------------------------------------
+6.2 — JOÃO GOULART (1961)
+--------------------------------------------------------------------------------
+CARGA MESSIÂNICA:
+  Reformista corajoso. Reformas de Base (tributária, agrária,
+  educacional, bancária) como redenção da desigualdade.
+
+DECEPÇÃO PARCIAL:
+  Não conseguiu aprovar nada de substantivo no Congresso. Perdeu
+  base política. Radicalização de ambos os lados. Golpe de 1964.
+
+REDE INTACTA:
+  Bancada agrária e financeira que bloqueou as reformas seguiu
+  intacta por toda a ditadura. Emergiu em 1985 com ARENA/PDS e
+  continuou até hoje — em parte como base do atual agronegócio.
+
+--------------------------------------------------------------------------------
+6.3 — LULA (2002)
+--------------------------------------------------------------------------------
+CARGA MESSIÂNICA:
+  Operário-presidente. Redenção simbólica de classe e raça.
+  Esperança de "Brasil país desenvolvido" no primeiro mandato.
+
+DECEPÇÃO PARCIAL:
+  Manutenção do tripé macroeconômico (superávit primário, Selic
+  alta, câmbio flutuante). Nomeação de Centrão para garantir
+  governabilidade. Mensalão (2005). Não aprovou reforma política.
+
+REDE INTACTA:
+  A rede do orçamento (orçamento secreto vem daí), a bancada do
+  agronegócio (Ministério da Agricultura sempre em negociação), e
+  a captura tributária setorial seguiram operacionais. Em 2016,
+  desmontaram a Dilma usando a mesma estrutura.
+
+--------------------------------------------------------------------------------
+6.4 — BOLSONARO (2018)
+--------------------------------------------------------------------------------
+CARGA MESSIÂNICA:
+  "O mito." Anti-sistema. Vai "acabar com a velha política" e
+  "destruir o PT". Messianismo de direita com carga religiosa
+  (evangélica e militar).
+
+DECEPÇÃO PARCIAL:
+  Entrega do Ministério da Economia a Paulo Guedes (agenda
+  privatizante que não entregou crescimento). Entrega do
+  Legislativo a Lira/Centrão. Orçamento secreto expandido.
+  COVID-19 com 700 mil mortes. Não desmontou nada de substantivo.
+
+REDE INTACTA:
+  A rede que Bolsonaro encontrou em 2019 estava MAIS FORTALECIDA
+  em 2022 do que antes. Bancada da bala cresceu. Bancada
+  evangélica cresceu. Bancada do agronegócio cresceu. O
+  "anti-sistema" fortaleceu o sistema.
+
+--------------------------------------------------------------------------------
+6.5 — PADRÃO RECORRENTE
+--------------------------------------------------------------------------------
+  (a) Todo messias decepciona PARTE significativa da própria base.
+  (b) Nenhum tocou a rede transversal de captura.
+  (c) A decepção alimenta o ciclo — fatalismo que busca o próximo
+      messias.
+  (d) A rede PERMANECE atravessando governos de esquerda e direita.
+  (e) Enquanto isso, ~80% da pauta orçamentária segue controlada
+      pelos mesmos 14 veto players.
+
+  → LIÇÃO: a esperança depositada em UM nome é a DESORIENTAÇÃO
+    que a rede precisa para operar. O salvador não é solução. É
+    CORTINA.
+
+
+================================================================================
+7. CONTRA-ESTRATÉGIA TEIA — OPERACIONAL
+================================================================================
+
+NÚCLEO:
+  Não há salvador. Há trabalho organizado, informação e pressão
+  persistente.
+
+PRINCÍPIOS OPERACIONAIS:
+  P1. Voto presidencial é NECESSÁRIO, mas INSUFICIENTE.
+      A eleição de 2026 deve ser acompanhada de voto criterioso
+      para o Legislativo federal e estadual.
+
+  P2. Mapear antes de votar.
+      Não votar em nome conhecido. Votar em nome VETADO. Use o
+      dossiê TEIA-077 (Rede de Captura: os 14 nomes) como guia
+      negativo. Rejeite capturador de qualquer lado.
+
+  P3. Cobrança pós-eleição é o que transforma voto em poder.
+      Plataforma de votações nominais. Acompanhar mandato. Exigir
+      relatórios de atividade legislativa. Pressão por canal
+      público (e-mail, redes, presencial).
+
+  P4. Reeleger quem cumpre, derrubar quem trai.
+      Sem isso, parlamentar capturador fica 4-8 anos blindado. A
+      reeleição baseada em entrega local (emenda) é o combustível
+      do sistema. Quebrar essa lógica exige informação.
+  
+  P5. Repetir por 3 ciclos eleitorais.
+      Mudança estrutural não se mede em mandato. Mede-se em década.
+      Persistência informada vence o ciclo messiânico.
+
+FRAME-CHAVE PARA REFORÇAR EM TODA COMUNICAÇÃO:
+  "CAPTURA x GESTÃO.
+   Não é esquerda x direita.
+   Não é santo x demônio.
+   É rede que captura vs rede que gere."
+
+O QUE A FRENTE B NÃO FAZ:
+  → Não ataca personalidades (isso reforça o messianismo invertido).
+  → Não defende "menos política" — defende MAIS política informada.
+  → Não equivale todos os candidatos (isso é fatalismo disfarçado).
+  → Não apregoa revolução (maximalismo é conservadorismo com pose).
+  → Não promete "salvador técnico" (técnico messias é o mesmo ciclo).
+
+O QUE A FRENTE B FAZ:
+  → Documenta o PADRÃO (salvador → decepção → novo salvador).
+  → Transfere atenção do Executivo para o Legislativo.
+  → Instala o frame CAPTURA x GESTÃO.
+  → Chama o apocalipsismo pelo nome: combustível da rede.
+  → Aponta para o trabalho de geração — não para o herói.
+
+
+================================================================================
+8. MÉTRICAS DE IMPACTO DA FRENTE B
+================================================================================
+
+SINAIS DE QUE O FRAME ESTÁ ENTRANDO:
+  (a) Comentários do tipo "mudei meu voto para deputado" em resposta
+      às peças.
+  (b) Uso espontâneo do binômio "CAPTURA x GESTÃO" em discussões.
+  (c) Queda de engajamento em posts apocalípticos ("vira Venezuela"
+      / "vira Chile de Pinochet") dentro da audiência TEIA.
+  (d) Aumento de buscas por votações nominais de deputados.
+  (e) Cobrança a parlamentares específicos (não a presidentes) em
+      menções públicas.
+
+SINAIS DE QUE O FRAME NÃO ESTÁ ENTRANDO:
+  (a) Audiência segue brigando sobre NOMES presidenciais.
+  (b) Reação tribal ("isso é coisa de petista" / "isso é coisa de
+      bolsonarista").
+  (c) Pedidos por "dizer em quem votar" (delegação messiânica ao
+      próprio TEIA — a ser recusada).
+
+GATILHO DE AJUSTE:
+  Se em 30 dias pós-publicação não houver sinal (a) ou (d),
+  reformular peças com NOMES CONCRETOS de veto players (TEIA-077).
+  Generalidade abre espaço para interpretação tribal. Concreto
+  trava o frame.
+
+
+================================================================================
+9. CROSS-REFERÊNCIAS TEIA
+================================================================================
+  TEIA-2026-076 — Mapa de Mitos e Crenças Políticas Brasileiras (origem)
+  TEIA-2026-077 — Frente A: Anti-Fatalismo / Rede de Captura nominativa
+  TEIA-2026-079 — Frente C: Anti-Deslocamento / CAPTURA x GESTÃO aplicado
+  TEIA-2026-080 — Frente D: Anti-Magia Econômica / fluxo R$ 3 tri
+  TEIA-2026-081 — Frente E: Anti-Apatia / Manual do Eleitor 2026
+
+REFERÊNCIAS INTERNE CONCEITUAIS:
+  - 14 veto players controlam ~80% da pauta orçamentária.
+  - Trocar presidente sem mudar Congresso = trocar narrador, não roteiro.
+  - Bancadas transversais (agronegócio, bala, fé, financeira) têm
+    esquerda E direita dentro.
+  - Ciclo messiânico: esperança → eleição → decepção → fatalismo →
+    novo messias → repete.
+  - Salvador é ruído. Rede é sinal.
+
+
+================================================================================
+10. ENCERRAMENTO DO DOSSIÊ
+================================================================================
+
+Este dossiê compõe a FRENTE B do swarm de campanhas TEIA 2026. As três
+peças (TikTok, Carrossel IG, Thread X/Twitter) devem ser disparadas em
+sequência — TikTok primeiro (gancho emocional), Thread 24h depois
+(expansão argumentativa), Carrossel IG em 48h (consolidação visual).
+
+Não há meta de conversão partidária. A meta é MUDANÇA COGNITIVA — sair
+da lógica salvacionista e entrar na lógica de sistema. Medir por sinais
+de maturidade cívica (§8), não por adesão a candidato.
+
+O trabalho do Professor Cinza não é eleger ninguém. É DESATIVAR a
+arquitetura cognitiva que permite ao sistema de captura operar — a cada
+4 anos — sem ser tocado.
+
+  Não há salvador. Há trabalho.
+  Não há revolução. Há persistência informada.
+  Não há herói. Há rede mapeada — e, portanto, desmontável.
+
+  GESTÃO x CAPTURA. Não esquerda x direita.
+
+  — Cleiton Moura, @professorcinza
+  TEIA · Julho/2026
+
+================================================================================
+FIM DO PROTOCOLO TEIA-2026-078
+================================================================================

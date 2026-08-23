@@ -1,0 +1,15 @@
+================================================================================
+ANALISADOR RÁPIDO TEIA v22.0
+================================================================================
+Execute apenas Fases 1 e 2 do PET + Pipeline Dialético simplificado.
+
+Saída: formato_briefing_rapido.txt
+
+Limite-se a:
+- Nomear o fenômeno com precisão
+- 3-5 dims de superfície
+- 2-3 lentes + respostas + anti-padrão
+- Hipótese preliminar + ponto de alavanca mais evidente
+
+NÃO faça mergulho profundo nem SOPBRA completo a menos que solicitado.
+================================================================================

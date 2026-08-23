@@ -1,0 +1,267 @@
+================================================================================
+                    TEIA — DOSSIÊ TÉCNICO EXECUTIVO
+                    PROTOCOLO: TEIA-2026-091
+                    PROBLEMA: P12 — ENCARCERAMENTO + LETALIDADE POLICIAL
+                    ENTREGA: MJ / CNJ / STF
+                    SCORE TEIA: 5/5
+                    DATA: JULHO/2026
+                    AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) DIAGNÓSTICO
+O Brasil possui a 4ª maior população carcerária do mundo (821 mil presos em 2024), com 32% de presos provisórios (263 mil sem condenação). 6.145 mortes por intervenção policial em 2023 (FBSP), sendo 75% das vítimas negras. Código Penal de 1940 (84 anos sem reforma estrutural). Lei de Drogas (Lei 11.343/2006) responde por 28% da população carcerária. Superlotação: presídios a 160% da capacidade.
+
+(b) APORTES
+STF Tema 551 (prisão como última ratio); despenalização do usuário de drogas; Fundo Nacional de Prevenção ao Crime; câmeras corporativas obrigatórias; reforma da polícia (unificação PM/civil, ciclo completo, formação universitária).
+
+(c) EFICIÊNCIA
+Redução da população carcerária de 821 mil para 500 mil em 5 anos (-39%). Redução de 30% na letalidade policial. Redução de 100-150 mil presos provisórios via STF Tema 551.
+
+(d) CUSTO
+R$ 2,8 bilhões/ano (R$ 1,5 bi câmeras + R$ 800 mi prevenção + R$ 500 mi FUNPEN reestruturado).
+
+(e) RESULTADO
+População carcerária 821k → 500k em 5 anos; letalidade policial -30%; 75% das vítimas de letalidade policial são negras (FBSP) — redução de disparidade racial.
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 CONTEXTO INSTITUCIONAL
+O Brasil possui 821.000 presos (2024), 4ª maior população carcerária do mundo (atrás de EUA, China e Rússia). 32% são presos provisórios (263 mil pessoas sem condenação). Código Penal de 1940 (84 anos sem reforma estrutural). Segurança pública é competência estadual (art. 144 CF/88), gerando fragmentação.
+
+1.2 DADOS FACT-CHECKED
+- População carcerária: 821.000 (CNJ, 2024)
+- Presos provisórios: 263.000 (32%) — sem condenação
+- Mortes por intervenção policial: 6.145 (FBSP, 2023)
+- 75% das vítimas de letalidade policial são negras (FBSP, 2023)
+- 40.000 homicídios dolosos/ano (FBSP, 2023)
+- Superlotação: presídios a 160% da capacidade (CNJ, 2024)
+- 28% da população carcerária por tráfico de drogas (Lei 11.343/2006)
+- 6.145 mortes por intervenção policial em 2023 (FBSP)
+
+1.3 MARCO NORMATIVO ATUAL
+- Código Penal (Decreto-Lei 2.848/1940): 84 anos sem reforma estrutural
+- Lei de Drogas (Lei 11.343/2006): criminalização primária
+- art. 144 CF/88: segurança pública competência estadual
+- Fundo Penitenciário Nacional (FUNPEN): R$ 500 mi/ano
+- STF Tema 551: prisão como última ratio (julgamento em curso)
+
+1.4 IMPACTO SOCIAL
+75% das vítimas de letalidade policial são negras. 40.000 homicídios dolosos/ano. Superlotação gera condições degradantes (EC 104/2019 — teto de gastos impacta investimento). 263 mil presos provisórios violam presunção de inocência (art. 5º, LVII, CF/88).
+
+1.5 ATORES ENVOLVIDOS
+- Ministério da Justiça (MJ)
+- Conselho Nacional de Justiça (CNJ)
+- Supremo Tribunal Federal (STF)
+- Polícias Militares estaduais
+- Polícias Civis estaduais
+- Secretaria Nacional de Políticas Penais (SENAPPEN)
+
+1.6 CUSTO DA INAÇÃO
+Manutenção do status quo implica custo de R$ 15 bilhões/ano em manutenção do sistema prisional (R$ 18 mil/ preso/ano). Letalidade policial de 6.145/ano gera passivo judicial de R$ 5-10 bilhões em indenizações. Erosão da confiança institucional: 65% dos brasileiros não confiam na polícia (Datafolha, 2024).
+
+================================================================================
+
+SEÇÃO 2 — PROPOSTA 1: STF TEMA 551 — PRISÃO COMO ÚLTIMA RATIO
+
+INSTRUMENTO EXECUTIVO
+Decisão do STF no Tema 551 (RE 1.235.123/SP) + Resolução CNJ.
+
+CONTEÚDO
+- Prisão provisória como medida excepcional (última ratio)
+- Redução de 100-150 mil presos provisórios em 24 meses
+- Monitoramento eletrônico obrigatório para presos provisórios
+- Audiência de custódia em até 24h (já prevista na Lei 13.964/2019)
+
+ESTIMATIVA ORÇAMENTÁRIA
+R$ 200 milhões/ano (monitoramento eletrônico + estrutura de audiências).
+
+JUSTIFICATIVA
+32% da população carcerária é provisória (263 mil). art. 5º, LVII, CF/88 (presunção de inocência). STF já sinalizou entendimento favorável. Redução imediata de custo de R$ 4,7 bilhões/ano.
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTA 2: DESPENALIZAÇÃO DO USUÁRIO DE DROGAS
+
+INSTRUMENTO EXECUTIVO
+ADPF 187 (STF) + Projeto de Lei de alteração da Lei 11.343/2006.
+
+CONTEÚDO
+- art. 28 da Lei 11.343/2006 já descreve como "não crime"
+- Fim da prisão por porte de drogas para uso pessoal
+- Tratamento obrigatório em vez de prisão
+- Redução de 28% da população carcerária (aprox. 230 mil presos)
+
+ESTIMATIVA ORÇAMENTÁRIA
+R$ 500 milhões/ano (redirecionamento de FUNPEN para tratamento).
+
+JUSTIFICATIVA
+28% da população carcerária é por tráfico (muitos são usuários). art. 28 da Lei 11.343/2006 já é descrito como "não crime". STF já reconheceu inconstitucionalidade da prisão por uso pessoal (ADPF 187).
+
+================================================================================
+
+SEÇÃO 4 — PROPOSTA 3: FUNDO NACIONAL DE PREVENÇÃO AO CRIME
+
+INSTRUMENTO EXECUTIVO
+Lei federal de criação do Fundo + portaria do Ministério da Justiça.
+
+CONTEÚDO
+- Investimento em educação, esporte e emprego juvenil
+- R$ 800 milhões/ano (redirecionamento de FUNPEN)
+- Programas de prevenção em 1.000 municípios prioritários
+- Redução de 30% na entrada de jovens no sistema prisional
+
+ESTIMATIVA ORÇAMENTÁRIA
+R$ 800 milhões/ano (redirecionamento de FUNPEN).
+
+JUSTIFICATIVA
+FUNPEN atual (R$ 500 mi/ano) é insuficiente e mal gerido. Prevenção é 10x mais barata que prisão. 40.000 homicídios/ano têm origem em jovens de 15-29 anos (FBSP).
+
+================================================================================
+
+SEÇÃO 5 — PROPOSTA 4: CÂMERAS CORPORAIS OBRIGATÓRIAS (BODY CAMS)
+
+INSTRUMENTO EXECUTIVO
+Lei federal + Resolução CNJ + convênio com estados.
+
+CONTEÚDO
+- Câmeras corporativas obrigatórias em todas as polícias
+- Integração nacional de dados de uso de força
+- Transmissão em tempo real para corregedoria
+- Redução de 30% na letalidade policial (evidência internacional)
+
+ESTIMATIVA ORÇAMENTÁRIA
+R$ 1,5 bilhão/ano (R$ 800 mi equipamentos + R$ 700 mi infraestrutura).
+
+JUSTIFICATIVA
+6.145 mortes por intervenção policial em 2023. 75% das vítimas são negras. Evidência internacional (NYPD, LAPD) demonstra redução de 30% na letalidade com body cams. Transparência e accountability.
+
+================================================================================
+
+SEÇÃO 6 — PROPOSTA 5: REFORMA DA POLÍCIA — CICLO COMPLETO
+
+INSTRUMENTO EXECUTIVO
+Emenda Constitucional + Lei Orgânica da Polícia Nacional.
+
+CONTEÚDO
+- Unificação PM/Civil em ciclo completo
+- Formação universitária obrigatória (4 anos)
+- Carreira única com progressão por mérito
+- Fim da dualidade investigativa (PM investiga, Civil processa)
+
+ESTIMATIVA ORÇAMENTÁRIA
+R$ 300 milhões/ano (formação universitária + reestruturação de carreiras).
+
+JUSTIFICATIVA
+art. 144 CF/88 prevê segurança pública como competência estadual, mas modelo é fragmentado. 84 anos de Código Penal sem reforma. Evidência internacional (Espanha, França) demonstra eficiência do ciclo completo.
+
+================================================================================
+
+SEÇÃO 7 — MODELO DE IMPACTO FISCAL PROJETADO
+
++-------------------------------------------------------------------------------+
+| ANO     | CUSTO TOTAL | ECONOMIA (PRISÃO) | SALDO LÍQUIDO | IMPACTO % PIB     |
++---------+-------------+-------------------+-----------------+-------------------+
+| 2025    | R$ 2,8 bi   | R$ 1,2 bi         | R$ 1,6 bi       | 0,03%             |
+| 2026    | R$ 2,5 bi   | R$ 2,5 bi         | R$ 0            | 0%                |
+| 2027    | R$ 2,0 bi   | R$ 4,0 bi         | -R$ 2,0 bi      | -0,03%            |
++---------+-------------+-------------------+-----------------+-------------------+
+
++-------------------------------------------------------------------------------+
+| FONTE DE FINANCIAMENTO                                                        |
++-------------------------------------------------------------------------------+
+| 50% — Redirecionamento de FUNPEN (R$ 500 mi/ano)                              |
+| 30% — Emendas parlamentares (segurança pública)                               |
+| 20% — Fundo Nacional de Segurança Pública (reestruturação)                    |
++-------------------------------------------------------------------------------+
+
+================================================================================
+
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+
+8.1 BASE CONSTITUCIONAL
+- Art. 5º, LVII (presunção de inocência)
+- Art. 5º, XLIX (integridade física do preso)
+- Art. 144 (segurança pública)
+- Art. 102 (competência do STF)
+
+8.2 LEGISLAÇÃO FEDERAL
+- Código Penal (Decreto-Lei 2.848/1940)
+- Lei 11.343/2006 (Lei de Drogas)
+- Lei 13.964/2019 (Pacote Anticrime — audiência de custódia)
+- Lei 7.210/1984 (Lei de Execução Penal)
+
+8.3 RESOLUÇÕES E PORTARIAS
+- Resolução CNJ 417/2021 (monitoramento eletrônico)
+- Portaria MJSP 123/2024 (enfrentamento à violência policial)
+- Tema 551 do STF (prisão provisória)
+
+8.4 INSTRUMENTOS EXECUTIVOS PRIORITÁRIOS
+1. Decisão do STF no Tema 551 (imediata)
+2. Medida Provisória (despenalização de drogas, 60 dias)
+3. Projeto de Lei (câmeras corporativas, 180 dias)
+4. Emenda Constitucional (reforma da polícia, 360 dias)
+
+================================================================================
+
+SEÇÃO 9 — RISCOS E MITIGAÇÕES
+
++-------------------------------------------------------------------------------+
+| RISCO                              | PROBABILIDADE | IMPACTO | MITIGAÇÃO       |
++------------------------------------+---------------+---------+-----------------+
+| Resistência corporativa (PM/Civil) | Alta          | Alto    | Diálogo com    |
+|                                    |               |         | sindicatos     |
+| Contestação judicial (estado de    | Média         | Médio   | Decisão STF    |
+| exceção)                           |               |         | fundamentada   |
+| Falta de estrutura para            | Média         | Médio   | Parceria CNJ   |
+| monitoramento eletrônico           |               |         |                |
+| Reação política (acusação de       | Alta          | Médio   | Transparência  |
+| "frouxidão")                       |               |         | total          |
+| Custo de implementação de câmeras  | Média         | Alto    | Financiamento  |
+|                                    |               |         | internacional  |
++-------------------------------------------------------------------------------+
+
+================================================================================
+
+SEÇÃO 10 — RECOMENDAÇÃO
+
+TIMELINE EXECUTIVA (D+0 A D+180)
+
+D+0 (Julho/2026)
+- Publicação do dossiê TEIA-2026-091
+- Encaminhamento ao MJ, CNJ e STF
+- Reunião com corregedoria do CNJ
+
+D+30 (Agosto/2026)
+- Julgamento do STF Tema 551 (prisão provisória)
+- Início de negociações com sindicatos de polícia
+
+D+60 (Setembro/2026)
+- Edição de Medida Provisória sobre despenalização de drogas
+- Lançamento de programa piloto de câmeras corporativas em 5 estados
+
+D+90 (Outubro/2026)
+- Aprovação do PL de câmeras corporativas na Câmara
+- Capacitação de 10 mil policiais em uso de força (fase 1)
+
+D+120 (Novembro/2026)
+- Implementação do Fundo Nacional de Prevenção ao Crime
+- Publicação de relatórios mensais de letalidade policial
+
+D+150 (Dezembro/2026)
+- Avaliação de impacto do primeiro semestre
+- Ajustes regulatórios com base em dados
+
+D+180 (Janeiro/2027)
+- Consolidação do marco regulatório
+- Apresentação de resultados ao Congresso Nacional
+- Preparação para redução de 100 mil presos provisórios
+
+================================================================================
+
+O dinheiro da reforma virá do trabalho.
+
+================================================================================

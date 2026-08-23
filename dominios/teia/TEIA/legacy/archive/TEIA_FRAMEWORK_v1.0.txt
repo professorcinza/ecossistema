@@ -1,0 +1,671 @@
+================================================================================
+TEIA FRAMEWORK v1.0
+================================================================================
+Framework Integrado de Diagnóstico, Influência e Reforma Institucional
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: Centro de Estudos em Hacker Cultura Periférica Teia de Aranha
+Protocolo: TEIA-2026-038
+Versão: v1.0 (release)
+Data: Julho/2026
+================================================================================
+
+O QUE É ESTE FRAMEWORK
+
+O TEIA Framework é um sistema integrado que permite a qualquer ator
+(analista, ativista, jornalista, servidor público, parlamentar, cidadão)
+DIAGNOSTICAR como o poder funciona no Brasil, QUANTIFICAR quem lucra,
+MAPEAR quem bloqueia mudança, SIMULAR estratégias de intervenção,
+EXECUTAR ações concretas, e MEDIR resultados.
+
+Não é teoria. É ENGENHARIA POLÍTICA aplicada.
+
+Cada módulo foi testado em pipeline dialético, verificado contra fontes
+primárias, e possui documentos de ação prontos para execução.
+
+
+================================================================================
+ARQUITETURA: 5 CAMADAS + 1 NÚCLEO
+================================================================================
+
+┌─────────────────────────────────────────────────────────────┐
+│                    CAMADA 5: EXECUÇÃO                        │
+│   Documentos de ação, playbooks, protocolo jurídico         │
+├─────────────────────────────────────────────────────────────┤
+│                    CAMADA 4: SIMULAÇÃO                       │
+│   Monte Carlo, árvore de decisão, coalizão, ameaças         │
+├─────────────────────────────────────────────────────────────┤
+│                    CAMADA 3: MAPEAMENTO                      │
+│   Veto players, fluxo de dinheiro, sistemas de captura      │
+├─────────────────────────────────────────────────────────────┤
+│                    CAMADA 2: DIAGNÓSTICO                     │
+│   6 dimensões do poder, pipeline dialético                  │
+├─────────────────────────────────────────────────────────────┤
+│                    CAMADA 1: OBSERVAÇÃO                      │
+│   Fontes primárias, state machine, monitoramento            │
+├─────────────────────────────────────────────────────────────┤
+│                     NÚCLEO: SOPBRA                           │
+│   Kernel político (9 axiomas), drivers, APIs               │
+└─────────────────────────────────────────────────────────────┘
+
+
+================================================================================
+NÚCLEO — SOPBRA (SISTEMA OPERACIONAL POLÍTICO BRASILEIRO)
+================================================================================
+
+O SOPBRA é o kernel. Codifica COMO a política brasileira funciona
+na prática — as regras reais do jogo, não as constitucionais.
+
+------------------------------------------------------------------------
+OS 9 AXIOMAS DO KERNEL
+------------------------------------------------------------------------
+
+K1 — REGRA DA PAUTA
+  Quem controla O QUE VOTA e QUANDO tem mais poder que quem vota.
+  O veto mais poderoso é o SILÊNCIO (não pautar).
+  OPERAÇÃO: para mover a pauta, crie custo de não pautar.
+
+K2 — REGRA DO ORÇAMENTO
+  Emenda parlamentar = moeda política. Quem tem emenda, tem voto.
+  OPERAÇÃO: quebre o vínculo emenda-voto via identificação nominal.
+
+K3 — REGRA DOS JUROS
+  A dívida pós-fixada alinha BC e rentistas.
+  OPERAÇÃO: prefixar (47% já) reduz sensibilidade, não Selic.
+
+K4 — REGRA DA BANCADA SETORIAL
+  O eixo relevante é SETORIAL, não ideológico.
+  OPERAÇÃO: identifique ganho material. Divida a bancada.
+
+K5 — REGRA DO PATRIMÔNIO FAMILIAR
+  Política é negócio familiar (Sarney, Lira, Calheiros, Braga).
+  OPERAÇÃO: exponha via TSE + MPF + conteúdo.
+
+K6 — REGRA DO JUDICIÁRIO
+  O STF é supremo quando PROVOCADO corretamente.
+  OPERAÇÃO: ADPF + amicus curiae estratégicos.
+
+K7 — REGRA DA OPACIDADE
+  O que não é visto não é cobrado.
+  OPERAÇÃO: primeira batalha é SEMPRE pela VISIBILIDADE.
+
+K8 — REGRA DA PACIÊNCIA ESTRATÉGICA
+  Reforma leva 5-15 anos. O sistema exaure reformadores.
+  OPERAÇÃO: ser SISTEMA, não pessoa. Versionar. Sobreviver.
+
+K9 — REGRA DA JANELA
+  Reformas só passam em janelas (pós-crise, pós-eleição, OCDE).
+  OPERAÇÃO: fora de janela, acumule. Dentro de janela, execute.
+
+
+================================================================================
+CAMADA 1 — OBSERVAÇÃO
+================================================================================
+
+Como observar o sistema político brasileiro e detectar oportunidades.
+
+------------------------------------------------------------------------
+1.1 STATE MACHINE (8 ESTADOS)
+------------------------------------------------------------------------
+
+ESTADO              | SINTOMA                     | ESTRATÉGIA
+--------------------|-----------------------------|------------------
+1. Status quo       | Pauta rotineira, sem crise  | RECON + acúmulo
+2. Crise aguda      | Escândalo, CPI, PF          | Entrar com PKG
+3. Janela eleitoral | <6 meses para eleição       | Cartão de Emendas
+4. Reforma          | Ministro receptivo, pauta   | Entregar proposta
+5. Lua de mel       | Novo governo, 6 primeiros m | Abordar ministros
+6. Bloqueio         | Veto player domina          | Bypass (Jud/Exec)
+7. Judicial         | STF/MPF age                 | Amicus + representação
+8. Colapso          | Múltiplas crises            | Propor estabilização
+
+DETECTOR (5 min/dia):
+  - Manchete principal (há crise?) → Estado 2/8
+  - Pauta da Câmara (há matéria de interesse?) → Estado 4
+  - Distância para eleição (<6m?) → Estado 3
+  - Decisões STF recentes → Estado 7
+  - Operação PF → Estado 2
+  - Nenhum dos acima → Estado 1
+
+------------------------------------------------------------------------
+1.2 FONTES PRIMÁRIAS (banco de dados confiável)
+------------------------------------------------------------------------
+
+CATEGORIA          | FONTE                           | URL/REFERÊNCIA
+-------------------|---------------------------------|------------------
+Macro fiscal       | Tesouro Nacional                | tesourotransparente.gov.br
+                   | Receita Federal                 | gov.br/receitafederal
+                   | BCB (SGS, REB, Focus)          | bcb.gov.br
+                   | IBGE (PIB, IPCA, população)    | ibge.gov.br
+Orçamento          | Portal da Transparência (CGU)   | portaldatransparencia.gov.br
+                   | SIGA Brasil (Senado)            | senado.leg.br/siga
+                   | LOA/LDO (Tesouro)               | tesourotransparente.gov.br
+Político           | TSE (DivulgaCandContas)        | divulgacandcontas.tse.jus.br
+                   | Câmara (votações, comissões)   | camara.leg.br
+                   | Senado (comissões, ADIs)       | senado.leg.br
+Judicial           | STF (ADPF, ADI, RE)            | stf.jus.br
+                   | CNJ (provimentos)              | cnj.jus.br
+                   | JusBrasil (busca processual)   | jusbrasil.com.br
+Ambiental          | INPE (PRODES, DETER)           | inpe.br
+                   | IBAMA (autuações)              | gov.br/ibama
+                   | MapBiomas                       | mapbiomas.org
+Internacional      | World Bank                      | data.worldbank.org
+                   | FMI (Artigo IV)                | imf.org
+                   | OCDE                            | oecd.org
+                   | Transparency International      | transparency.org
+
+
+================================================================================
+CAMADA 2 — DIAGNÓSTICO
+================================================================================
+
+Como diagnosticar problemas em 6 dimensões do poder.
+
+------------------------------------------------------------------------
+2.1 AS 6 DIMENSÕES DO PODER
+------------------------------------------------------------------------
+
+DIMENSÃO       | COBERTURA | O QUE MEDIR                     | MÉTRICAS-CHAVE
+---------------|-----------|---------------------------------|------------------
+1. Econômica   |   90%     | Juros, spread, tributos, dívida | R$ 950 bi juros/ano
+2. Instituc.   |   60%     | Sistema eleitoral, pauta        | R$ 4,9 bi Fundo Eleit.
+3. Tecnológica |   55%     | Big Tech, dados, desinformação  | R$ 10 bi gasto/ano
+4. Ambiental   |   50%     | Desmatamento, energia, ruralista| 321 parlamentares FPA
+5. Social      |   25%     | Saúde, educação, raça, gênero   | 17,7% mulheres Câmara
+6. Cultural    |    5%     | Narrativa, mídia, framing       | (a desenvolver)
+
+------------------------------------------------------------------------
+2.2 PIPELINE DIALÉTICO (método de validação)
+------------------------------------------------------------------------
+
+Toda análise TEIA passa por 4 estágios antes de ser publicada:
+
+  TESE (documento inicial)
+    ↓
+  FACT-CHECK (cada número verificado contra fonte primária)
+    [FC OK] / [FC AJUSTAR] / [FC ERRO]
+    ↓
+  REFUTAÇÃO (ataque hostil por economista crítico)
+    Identifica: aritmética falaciosa, inversão causal,
+    ausência de teoria de mudança, limitações constitucionais
+    ↓
+  CONTRA-REFUTAÇÃO (defesa honesta)
+    Para cada ataque: VENCE / PERDE / EMPATE
+    Reformula o que caiu, mantém o que sobreviveu
+    ↓
+  SÍNTESE (documento final versionado)
+
+REGRA: nenhum número entra sem fonte. Nenhuma proposta sem ter
+sobrevivido a refutação.
+
+
+================================================================================
+CAMADA 3 — MAPEAMENTO
+================================================================================
+
+Como mapear atores, fluxos e sistemas de captura.
+
+------------------------------------------------------------------------
+3.1 MAPEAMENTO DE VETO PLAYERS (Framework Tsebelis + scores)
+------------------------------------------------------------------------
+
+Para cada ator político, atribuir 8 scores (0-10):
+
+  PRG — Pragmatismo (flexibilidade ideológica)
+  VJU — Vulnerabilidade Jurídica (processos ativos)
+  VEL — Vulnerabilidade Eleitoral
+  VFI — Vulnerabilidade Financeira/Pessoal
+  POD — Poder institucional atual
+  IDE — Ideologia/Crença genuína
+  MUD — Histórico de mudança de posição
+  ALI — Aliados institucionais
+
+TIPOLOGIA RESULTANTE:
+  VULNERÁVEL (VJU/VFI alto): fácil de mover por pressão
+  PRAGMÁTICO (PRG alto, IDE baixo): fácil de cooptar por interesse
+  IDEOLÓGICO (IDE alto, VJU baixo): só se move por argumento
+  IRREMOVÍVEL (IDE alto, tudo baixo): não cooptável nem neutralizável
+
+------------------------------------------------------------------------
+3.2 SISTEMAS DE CAPTURA (3 eixos transversais)
+------------------------------------------------------------------------
+
+SISTEMA 1 — CAPTURA FINANCEIRA
+  Quem: bancos top-5, Febraban, Banco Master, asset managers
+  Como: juros da dívida (R$ 950 bi), spread (28-30 p.p.)
+  Veto central: Motta (Câmara) + Alcolumbre (Senado) + Renan (CAE)
+
+SISTEMA 2 — CAPTURA ORÇAMENTÁRIA
+  Quem: Centrão, oligarquias estaduais, construtoras regionais
+  Como: emendas de liderança (R$ 1,3 bi/ano, 96% em 4 partidos)
+  Veto central: Lira + Coronel + Valdemar + Ciro
+
+SISTEMA 3 — CAPTURA DA COMPLEXIDADE
+  Quem: cartórios (325+ parlamentares), contadores, Sistema S
+  Como: Custo Brasil (R$ 1,7 tri), conformidade tributária (1.501h/ano)
+  Veto central: Zé Neto + André Figueiredo + L.C. Motta
+
+------------------------------------------------------------------------
+3.3 FLUXO DE DINHEIRO TERRITORIAL (Bomba de Drenagem)
+------------------------------------------------------------------------
+
+  N/NE paga impostos → governo federal
+  ↓
+  FPE/FPM/emendas → prefeituras (R$ 624 bi/ano)
+  ↓
+  Empresas (frequentemente do Sudeste) → bancos (Sudeste)
+  ↓
+  Crédito concentrado no Sudeste (53,6% PJ)
+  ↓
+  Remessa de lucros → Sudeste enriquece
+  ↓
+  N/NE permanece pobre (ciclo)
+
+Métricas:
+  Transferências: R$ 595,7 bi/ano
+  Emendas: R$ 28,8 bi/ano (Gini territorial: 0,72-0,78)
+  Drenagem privada: não mensurada (lacuna do BCB)
+
+
+================================================================================
+CAMADA 4 — SIMULAÇÃO
+================================================================================
+
+Como quantificar probabilidade de sucesso e escolher estratégia.
+
+------------------------------------------------------------------------
+4.1 MONTE CARLO (1.260.000 cálculos validados)
+------------------------------------------------------------------------
+
+Para cada veto player × estratégia, calcular:
+
+  P_cooptação = f(PRG, MUD, IDE, ALI) + ajuste_estratégia
+  P_neutralização = f(VJU, VEL, VFI, POD, ALI, IDE) + ajuste_estratégia
+  P_combinada = 1 - (1-P_coopt)(1-P_neut)
+
+9 ESTRATÉGIAS MODELÁVEIS:
+  S1: CPI Master (P_média = 70,7%)
+  S2: Narrativa pública (P = 63,7%)
+  S3: Aliança Judiciário (P = 61,0%)
+  S4: Coalizão ganhadores (P = 55,7%)
+  S5: Pressão OCDE (P = 57,3%)
+  S6: CPI + STF combinado (P = 75,0%)
+  S7: Via Planalto/Lula (P = 87,1%) ← MAIS EFICAZ
+  S8: Compensação setorial (P = 77,2%)
+  S9: Via CNJ/Judiciário (P = 73,7%)
+
+------------------------------------------------------------------------
+4.2 DECISION TREE (rota de menor resistência)
+------------------------------------------------------------------------
+
+  Precisa de Congresso?
+  ├─ NÃO (70% dos casos) → portaria / resolução / Judiciário
+  └─ SIM (30%) → quem controla a comissão?
+      ├─ ALIADO → tramitação normal
+      ├─ NEUTRO → lobby técnico + coalizão
+      └─ VETO PLAYER → Estado 6 (bloqueio)
+          └─ Bypass: Via Planalto (P=87%) ou Judiciário (P=61%)
+
+------------------------------------------------------------------------
+4.3 THREAT MODEL (8 contramedidas)
+------------------------------------------------------------------------
+
+  Captura regulatória → OCDE + consulta pública
+  Judicialização → amicus curiae + base legal
+  Bloqueio de pauta → Via Planalto + narrativa
+  Manobra orçamentária → STF (orçamento constitucional)
+  Desinformação → fact-check imediato
+  Cooptação reversa → código de conduta (não aceitar cargo)
+  Intimidação jurídica → fonte pública = exercício regular
+  Exaustão → sistema versionado sobrevive a pessoas
+
+------------------------------------------------------------------------
+4.4 COALITION BUILDER (5 camadas)
+------------------------------------------------------------------------
+
+  CAMADA 1 — ESTRUTURAIS (sempre a favor):
+    Econômica: Tesouro, fintechs, cooperativas, CNI, MPF, CGU
+    Ambiental: IBAMA servidores, ONGs, MapBiomas
+    Tecnológica: desenvolvedores, comunidade open-source
+    Institucional: Barroso (STF), Transparência Brasil
+
+  CAMADA 2 — TÁTICOS (momentaneamente):
+    Oposição, ministro novo, parlamentar em ano eleitoral
+
+  CAMADA 3 — NEUTROS MOBILIZÁVEIS:
+    Academia, OAB, think tanks (FGV, Insper)
+
+  CAMADA 4 — OPOSIÇÃO DIVISÍVEL:
+    Febraban (bancos vs Nubank), Sistema S (SESC vs SEBRAE)
+    Ruralistas (agro sustentável vs desmatador)
+
+  CAMADA 5 — IRREDUTÍVEIS:
+    Bancos top-5, oligarquias estaduais, cartórios pequenos
+
+
+================================================================================
+CAMADA 5 — EXECUÇÃO
+================================================================================
+
+Como executar ações concretas com documentos prontos.
+
+------------------------------------------------------------------------
+5.1 OS 10 DRIVERS (interfaces com o Estado)
+------------------------------------------------------------------------
+
+DRIVER          | ENDPOINT PRINCIPAL           | CUSTO TÍPICO
+----------------|------------------------------|------------
+Executivo       | POST /portaria               | R$ 0
+Legislativo     | POST /pl                     | Lobby
+Judiciário STF  | POST /adpf, POST /amicus    | R$ 50-150 mil
+MPF             | POST /representacao          | R$ 50 mil
+TCU             | POST /representacao          | R$ 0
+CGU             | POST /denuncia, GET /lai    | R$ 0
+BCB/CMN         | POST /consulta-publica       | R$ 0
+TSE             | GET /prestacao-contas        | R$ 0
+CNJ             | POST /peticao                | R$ 100 mil
+Municípios      | GET /portal-transparencia    | R$ 0
+
+------------------------------------------------------------------------
+5.2 PACOTES DE AÇÃO (documentos prontos)
+------------------------------------------------------------------------
+
+PKG  | DOCUMENTO                    | DESTINATÁRIO        | STATUS
+-----|------------------------------|---------------------|--------
+01   | Dossiê Haddad (3 propostas) | Min. Fazenda        | Pendente
+02   | Petição CNJ (SERP)          | Presidente CNJ      | Pendente
+03   | Amicus curiae ADPF 854      | Min. Dino (STF)     | Pendente
+04   | Representação MPF           | PGR                 | Pendente
+05   | Dossiê Banco Master         | Público             | Pendente
+06   | Roteiro documentário        | YouTube             | Pendente
+07   | Série TikTok (20 vídeos)    | TikTok/IG           | Pendente
+08   | Podcast (5 episódios)       | Spotify             | Pendente
+09   | Estatuto TEIA               | Cartório            | Pendente
+10   | TikTok Big Tech R$ 10 bi    | TikTok              | Pendente
+
+------------------------------------------------------------------------
+5.3 OS 5 KPIs DE SUCESSO
+------------------------------------------------------------------------
+
+KPI 1 — VISIBILIDADE: Nota Técnica de Impacto Fiscal publicada
+KPI 2 — PRESSÃO: CPI Master instalada ou requerida
+KPI 3 — ALCANCE: 15 milhões de pessoas impactadas (doc + TikTok)
+KPI 4 — COALIZÃO: Fórum Competição Financeira com 5+ membros
+KPI 5 — INSTITUCIONALIDADE: TEIA registrada + R$ 5 mi captados
+
+
+================================================================================
+OS 7 MECANISMOS DE ACCOUNTABILITY
+================================================================================
+
+Como fazer quem manuseia dinheiro público se comportar bem.
+
+A equação: CUSTO do desvio deve ser > BENEFÍCIO do desvio.
+
+HOJE: custo ≈ 0. Razão custo/benefício ≈ infinita a favor do desvio.
+
+OS 7 MECANISMOS:
+
+  M1 — TRANSPARÊNCIA EM TEMPO REAL
+    IA detectando superfaturamento enquanto acontece
+    Custo: R$ 1,5-2 mi
+
+  M2 — CONSEQUÊNCIA RÁPIDA
+    Lei dos 90 Dias: bens bloqueados em 90 dias após investigação
+    Custo: R$ 0 (reorganização CNJ)
+
+  M3 — RECOMPENSA POSITIVA
+    Bônus de eficiência: municípios que melhoram indicadores
+    ganham 5-10% adicional no FPM (fundo separado, métricas robustas)
+    Custo: R$ 0 (realocação)
+
+  M4 — RESPONSABILIZAÇÃO PESSOAL
+    Gestor responde com bens próprios por obra não entregue
+    Custo: legislativo
+
+  M5 — CONTROLE SOCIAL
+    App "Minha Cidade, Meu Dinheiro" com notificação ao cidadão
+    Custo: R$ 2-3 mi
+
+  M6 — REPUTAÇÃO POLÍTICA
+    Cartão de Emendas no TSE: histórico de cada parlamentar
+    Custo: R$ 0 (resolução TSE)
+
+  M7 — PRESSÃO INTERNACIONAL
+    OCDE como alavanca para boas práticas
+    Custo: R$ 0,3-0,5 mi
+
+AS 3 AÇÕES PRIORITÁRIAS (R$ 4-5 mi total):
+  1. App "Minha Cidade" (R$ 2-3 mi)
+  2. IA detecção tempo real (R$ 1,5-2 mi)
+  3. Cartão de Emendas TSE (R$ 0)
+
+
+================================================================================
+SISTEMA DE CONTRIBUIDORES
+================================================================================
+
+O framework precisa de pessoas. 7 perfis:
+
+PERFIL         | FUNÇÃO                          | INCENTIVO
+---------------|---------------------------------|------------------
+Analista       | Dossiês, fact-check, simulação  | Impacto + publicação
+Jurista        | Petições, amicus curiae         | Jurisprudência
+Comunicador    | TikTok, podcast, carrossel      | Audiência + conteúdo
+Desenvolvedor  | Dashboards, app, IA             | Open-source + portfolio
+Articulador    | Conecta com centros de poder    | Influência
+Mobilizador    | Pressão eleitoral e comunitária | Causa + pertencimento
+Financiador    | Custeia com integridade         | Impacto mensurável
+
+5 NÍVEIS DE REPUTAÇÃO:
+  Iniciante (0-99) → Contributor (100-499) → Colaborador (500-999)
+  → Embaixador (1000-2999) → Mantenedor (3000+)
+
+Ranking público mensal no GitHub. Transparência total.
+
+CÓDIGO DE CONDUTA (8 regras):
+  1. Fonte pública apenas
+  2. Presunção de inocência
+  3. Não partidário
+  4. Declarar conflito de interesse
+  5. Não aceitar cargo em órgão monitorado
+  6. Verificar antes de publicar
+  7. Respeito institucional
+  8. Versionamento obrigatório
+
+
+================================================================================
+AS 10 SKILLS METODOLÓGICAS
+================================================================================
+
+SKILL                        | INPUT                    | OUTPUT
+-----------------------------|--------------------------|----------------------
+pipeline-dialetico           | Documento inicial        | Síntese validada
+fact-check-economico         | Número econômico         | [FC OK/AJUSTAR/ERRO]
+mapeamento-veto-players      | Tema de reforma          | Mapa de atores + scores
+simulacao-monte-carlo        | Atores + estratégia      | Probabilidade (%)
+redacao-juridica-advocacy    | Objetivo + órgão         | Petição/amicus/prontr
+producao-conteudo-advocacy   | Dado verificado          | Roteiro (TikTok/doc/pod)
+diagnostico-territorial      | Região ou tema           | Mapa de fluxo de $
+accountability-publica       | Problema de gestão       | Mecanismo + métrica
+sistema-protocolo            | Documento novo           | TEIA-AAAA-NNN v1.0
+posts-instagram-dados        | Dado + tema              | Carrossel 8 slides PNG
+
+
+================================================================================
+CICLO DE OPERAÇÃO (5 FASES)
+================================================================================
+
+Todo uso do framework segue este ciclo:
+
+FASE A — RECON
+  "Em qual estado o sistema está?"
+  → Rodar detector de estado (5 min)
+  → Identificar janela de oportunidade
+  → Skill: observação de fontes primárias
+
+FASE B — DIAGNÓSTICO
+  "Qual o problema e quem está envolvido?"
+  → Identificar dimensão (econômica, institucional, etc)
+  → Aplicar pipeline dialético
+  → Skill: fact-check + pipeline-dialetico
+
+FASE C — ESTRATÉGIA
+  "Qual a rota de menor resistência?"
+  → Mapear veto players e seus scores
+  → Rodar Monte Carlo (probabilidade)
+  → Escolher driver e endpoint
+  → Skill: mapeamento-veto-players + simulacao-monte-carlo
+
+FASE D — EXECUÇÃO
+  "Qual documento/ação executar?"
+  → Selecionar PKG apropriado ou produzir novo
+  → Protocolar/publicar/mobilizar
+  → Skill: redacao-juridica + producao-conteudo
+
+FASE E — MONITORAMENTO
+  "Funcionou?"
+  → Medir KPIs
+  → Versionar resultado
+  → Ajustar estratégia se necessário
+  → Skill: sistema-protocolo
+
+
+================================================================================
+MAPA INTEGRADO: DIMENSÃO × VETO PLAYER × ESTRATÉGIA
+================================================================================
+
+DIMENSÃO     | VETO PLAYER CHAVE          | ESTRATÉGIA ÓTIMA        | P
+-------------|---------------------------|-------------------------|------
+Econômica    | Motta + Alcolumbre + Renan| Via Planalto (Haddad)   | 87%
+             | Febraban                  | Divisão (fintechs vs    | 65%
+             |                           | bancos) + OCDE          |
+-------------|---------------------------|-------------------------|------
+Institucional| Mesa Diretora (Motta)     | Via Judiciário (STF)    | 61%
+             | Centrão (orçamento)      | Cartão Emendas (TSE)    | 70%
+             |                           | CPI Master              | 71%
+-------------|---------------------------|-------------------------|------
+Tecnológica  | Big Tech (Google, Meta)   | PL 2338 (Lei IA) + OCDE | 50%
+             | AmCham/Brasscom (lobby)   | Marco Civil reformado   | 45%
+             |                           | Soberania cloud (SERPRO)| 40%
+-------------|---------------------------|-------------------------|------
+Ambiental   | Bancada ruralista (321)   | Via executivo (MMA)     | 55%
+             | Pedro Lupion (FPA)       | Divisão (agro verde vs  | 50%
+             |                           | desmatador)             |
+             | IBAMA subfinanciado      | R$ 9-10 bi Big Tech →   | 60%
+             |                           | argumento realocação    |
+-------------|---------------------------|-------------------------|------
+Social      | Planos de saúde (ANS)     | Via executivo + SUS 2.0 | 50%
+             | Universidades particulares| Reforma universitária   | 30%
+             | Sistema carcerário        | Via STF (encarceramento)| 40%
+-------------|---------------------------|-------------------------|------
+Cultural    | Mídia tradicional         | Contra-narrativa digital| 35%
+             | Igrejas                   | Educação cívica         | 25%
+             | Algoritmos                | Regulação + open-source | 40%
+
+
+================================================================================
+PRINCÍPIOS ORIENTADORES DO FRAMEWORK
+================================================================================
+
+1. O dinheiro está. Falta direcionar.
+   O Brasil não é pobre. É mal gerido.
+
+2. Crescimento é NECESSÁRIO mas INSUFICIENTE.
+   Sem reforma institucional, crescimento é temporário.
+
+3. A economia é o sobressolo. A árvore tem 6 dimensões.
+   Comece pelo sobressolo (já está 90% coberto).
+
+4. A corrupção é vulnerabilidade, não força.
+   Atores corruptos são MAIS fáceis de mover.
+
+5. 70% das ações não precisam de Congresso.
+   Via portaria, resolução ou Judiciário.
+
+6. A primeira batalha é sempre pela VISIBILIDADE.
+   Sem transparência, não há pressão. Sem pressão, não há reforma.
+
+7. Não existe sistema que torne todos bons.
+   Existe sistema que torna o mau comportamento caro.
+
+8. O sistema político captura com dinheiro.
+   O TEIA liberta com propósito. Propósito se renova, dinheiro se gasta.
+
+9. Reformas só passam em janelas.
+   Fora de janela: acumule. Dentro: execute.
+
+10. O framework é um SISTEMA, não uma pessoa.
+    Se um operador sai, outro entra. Documentação versionada garante
+    continuidade. Git é a garantia de sobrevivência.
+
+
+================================================================================
+COMO USAR O FRAMEWORK (3 CENÁRIOS)
+================================================================================
+
+CENÁRIO 1 — "Descobri um esquema de corrupção"
+  1. RECON: estado do sistema (há crise? → Estado 2)
+  2. DIAGNÓSTICO: fact-check todos os números (skill 2)
+  3. ESTRATÉGIA: mapear veto players envolvidos (skill 3)
+  4. EXECUÇÃO: produzir dossiê (skill 1) + representação MPF (skill 5)
+     + TikTok (skill 6) + pressionar CPI
+  5. MONITORAMENTO: acompanhar investigação, versionar
+
+CENÁRIO 2 — "Quero propor uma reforma de política pública"
+  1. RECON: há janela? (pós-crise, pós-eleição, OCDE?)
+  2. DIAGNÓSTICO: pipeline dialético completo (tese → FC → refutação)
+  3. ESTRATÉGIA: Monte Carlo para escolher via (Planalto? STF? Congresso?)
+  4. EXECUÇÃO: dossiê técnico (skill 5) + amicus curiae (skill 5)
+     + documentário (skill 6) + coalizão de ganhadores
+  5. MONITORAMENTO: KPIs + ajuste
+
+CENÁRIO 3 — "Sou cidadão e quero fiscalizar meu município"
+  1. RECON: verificar Portal da Transparência do município
+  2. DIAGNÓSTICO: quanto recebeu em emendas? Quem executou?
+  3. ESTRATÉGIA: App "Minha Cidade" + denúncia CGU
+  4. EXECUÇÃO: postar no TikTok + pressionar vereadores
+  5. MONITORAMENTO: acompanhar obra/serviço
+
+
+================================================================================
+VERSIONAMENTO E INTEGRIDADE
+================================================================================
+
+Cada documento TEIA tem:
+  - Protocolo: TEIA-AAAA-NNN
+  - Versão: vX.Y
+  - Hash MD5 + SHA-256
+  - Categoria (01-12)
+  - Status (INTERNO / PENDENTE / PUBLICADO)
+
+Git workflow:
+  - Commits com mensagem estruturada
+  - Tags em marcos (v1.0, v2.0, etc)
+  - Branch main é a produção
+  - Nada é apagado. Histórico imutável.
+
+GitHub: https://github.com/mouracleiton/TEIA
+
+
+================================================================================
+FIM DO FRAMEWORK
+================================================================================
+
+O TEIA Framework é um sistema vivo. Evolui por iteração.
+Cada uso produz dados. Cada dados refine o modelo.
+Cada refutação fortalece a síntese.
+
+O dinheiro da reforma virá do trabalho.
+As instituições virão da organização.
+Os direitos virão da luta.
+O ambiente virá da consciência.
+A tecnologia virá da soberania.
+A cultura virá da educação.
+
+O framework é a ferramenta. O operador é você.
+
+================================================================================
+TEIA FRAMEWORK v1.0 — Julho/2026
+Protocolo: TEIA-2026-038
+================================================================================

@@ -1,0 +1,187 @@
+================================================================================
+TEIA-2026-086 | DOSSIÊ TÉCNICO | SPREAD BANCÁRIO ESTRUTURAL
+================================================================================
+Classificação: Confidencial — Uso Interno TEIA
+Autoria: Cleiton Moura (@professorcinza) — TEIA
+Data-base: Julho/2026
+Conformidade legal: Lei 12.865/2013 (Sistema de Pagamentos Brasileiro), Resoluções CMN 4.656/2018, 4.792/2020, Lei 13.097/2015 (Open Banking), EC 132/2023
+
+================================================================================
+SEÇÃO 0 — RESUMO EXECUTIVO
+================================================================================
+
+(a) Diagnóstico-central: O spread bancário médio no Brasil permanece em 28-30 pontos percentuais, contra 3-4 p.p. nos EUA e 8 p.p. no Chile. Com Selic a 15% a.a., o custo efetivo do crédito pessoa física supera 45% a.a.; cartão rotativo atinge 300-450% a.a. Concentração de mercado (top-4 = 57,9%) e assimetria de informação perpetuam rentabilidade extraordinária dos bancos.
+
+(b) Aportes: Open Finance com portabilidade irrestrita + dados alternativos; teto de 100% a.a. no cartão rotativo; DREX como garantia via smart contracts; Fórum de Competição Financeira (fintechs + cooperativas); centralização de score de crédito público open-source pelo BCB.
+
+(c) Eficiência: Redução estrutural do spread de 28→22 p.p. em 5 anos. Custo de crédito PF cai ~25%. PIX já demonstrou redução de 90% no custo de transferência.
+
+(d) Custo: R$ 0 (instrumentos via CMN/BCB, sem impacto fiscal direto). Ganho de eficiência: R$ 80-120 bilhões/ano de alívio no custo do crédito.
+
+(e) Resultado agregado: Spread médio cai para patamar Chile (18-20 p.p.) em 2030. Crédito consignado (R$ 500 bi) torna-se acessível a 15 milhões de novos tomadores. Oligopólio perde 12 p.p. de market share.
+
+================================================================================
+SEÇÃO 1 — DIAGNÓSTICO
+================================================================================
+
+1.1 Base de dados
+- BCB — Relatório de Estabilidade Financeira (2025): spread médio 28,4 p.p.
+- IFC/World Bank — Paying Taxes & Credit: Brasil 184º/190 em acesso a crédito.
+- Febraban — Anuário 2025: top-4 bancos detêm 57,9% dos depósitos.
+- Serasa Experian — Score médio Brasil: 380/1000 (vs Chile 620).
+- CMED — Preço de medicamentos: analogia de concentração de mercado.
+
+1.2 Estoque e fluxo
+- Estoque de crédito: R$ 5,8 trilhões (BCB, jun/2026).
+- Cartão rotativo: R$ 180 bilhões, custo médio 380% a.a.
+- Consignado: R$ 500 bilhões, spread 22 p.p.
+- Fluxo anual de novos empréstimos: R$ 1,9 trilhão.
+- Inadimplência média: 4,8% (vs 2,1% Chile).
+
+1.3 Razões estruturais
+- Concentração: Lei 13.097/2015 (Open Banking) implementada sem sanções.
+- Assimetria de informação: bureaus privados controlam 98% dos scores.
+- Custo de captação elevado: CSLL 20% vs 9% demais empresas.
+- Falta de portabilidade efetiva: 87% dos clientes permanecem no mesmo banco após 5 anos.
+- DREX em fase piloto (Resolução CMN 5.129/2024) sem uso como garantia.
+
+1.4 Sensibilidade
+- Elasticidade spread × Selic: 1,8 (aumento de 1 p.p. Selic eleva spread 1,8 p.p.).
+- Elasticidade spread × concentração HHI: 0,6.
+- Impacto Open Finance: cada 10 p.p. de portabilidade reduz spread 1,2 p.p.
+
+1.5 Equivalências materiais
+- Equivalente a imposto regressivo de R$ 240 bilhões/ano sobre tomadores.
+- Equivalente a subsídio cruzado de R$ 80 bilhões dos tomadores para acionistas dos 4 maiores bancos.
+- Equivalente a 1,8% do PIB em custo de intermediação excessivo.
+
+1.6 Diagnóstico-resumo
+O spread bancário brasileiro é fenômeno de mercado concentrado + informação assimétrica + regulação branda. Não é explicado por inadimplência (Chile tem inadimplência similar e spread 3x menor). Solução exige instrumentos executivos do CMN/BCB.
+
+================================================================================
+SEÇÃO 2 — PROPOSTA 1: EXPANSÃO OPEN FINANCE COM PORTABILIDADE IRRESTRITA
+================================================================================
+
+Instrumento: Resolução CMN + Circular BCB (prazo D+90)
+Conteúdo:
+- Portabilidade automática de todos os dados cadastrais, transacionais e de crédito em até 48h.
+- Inclusão obrigatória de dados alternativos (energia, telefonia, água, e-commerce) no score.
+- Sanção automática de R$ 50 mil/dia por descumprimento (modelo ANATEL).
+
+Estimativa: +35 milhões de clientes com portabilidade efetiva em 24 meses.
+Justificativa: Lei 12.865/2013 + Resolução CMN 4.792/2020 já autorizam. Falta enforcement.
+
+================================================================================
+SEÇÃO 3 — PROPOSTA 2: TETO DE JUROS NO CARTÃO ROTATIVO (100% A.A.)
+================================================================================
+
+Instrumento: Resolução CMN (prazo D+60)
+Conteúdo:
+- Teto de 100% a.a. no cartão rotativo a partir de D+180.
+- Transição: 200% a.a. (D+60) → 150% (D+120) → 100% (D+180).
+- Substituição por crédito consignado ou pessoal com garantia DREX.
+
+Estimativa: Redução de R$ 42 bilhões/ano no custo de rotativo.
+Justificativa: Chile e México adotaram tetos similares com queda de 60% no custo efetivo.
+
+================================================================================
+SEÇÃO 4 — PROPOSTA 3: DREX COMO GARANTIA VIA SMART CONTRACTS
+================================================================================
+
+Instrumento: Resolução BCB + Circular 5.129/2024 (atualização)
+Conteúdo:
+- DREX aceito como garantia real em operações de crédito.
+- Smart contracts com liquidação automática em caso de inadimplência.
+- Redução de LGD (Loss Given Default) de 45% para 12%.
+
+Estimativa: Spread médio cai 4-6 p.p. em operações lastreadas em DREX.
+Justificativa: Projeto-piloto BCB (2025) já demonstra viabilidade técnica.
+
+================================================================================
+SEÇÃO 5 — PROPOSTA 4: FÓRUM DE COMPETIÇÃO FINANCEIRA (FINTECHS + COOPERATIVAS)
+================================================================================
+
+Instrumento: Portaria BCB + Resolução CMN (prazo D+120)
+Conteúdo:
+- Criação de Fórum Permanente com 9 membros: 3 fintechs, 3 cooperativas, 3 bancos tradicionais.
+- Veto suspensivo a qualquer resolução que aumente barreiras de entrada.
+- Publicação mensal de ranking de spread por modalidade e instituição.
+
+Estimativa: Market share fintechs/cooperativas sobe de 9% para 18% em 5 anos.
+Justificativa: Sicredi e Sicoob já operam com spread 8-12 p.p. menor que bancos.
+
+================================================================================
+SEÇÃO 6 — PROPOSTA 5: SCORE PÚBLICO OPEN-SOURCE PELO BCB
+================================================================================
+
+Instrumento: Circular BCB (prazo D+180)
+Conteúdo:
+- BCB publica modelo de score open-source (features + pesos) atualizado trimestralmente.
+- Dados anonimizados de 180 milhões de CPFs disponíveis via API pública.
+- Integração obrigatória com bureaus privados.
+
+Estimativa: Redução de 30% no custo de aquisição de clientes por fintechs.
+Justificativa: Modelo similar adotado pelo Banco de Portugal reduziu spread em 3 p.p.
+
+================================================================================
+SEÇÃO 7 — MODELO DE IMPACTO FISCAL PROJETADO (2025-2027)
+================================================================================
+
++-----------------------------------+------------+------------+------------+
+| Indicador                         | 2025       | 2026       | 2027       |
++-----------------------------------+------------+------------+------------+
+| Spread médio (p.p.)               | 28,4       | 26,1       | 23,8       |
+| Custo crédito PF (a.a.)           | 45,2%      | 41,8%      | 38,4%      |
+| Volume crédito PF (R$ bi)         | 1.920      | 2.050      | 2.180      |
+| Alívio anual (R$ bi)              | 0          | 28         | 65         |
+| Novos tomadores (milhões)         | 0          | 4,2        | 9,8        |
+| Market share top-4 (%)            | 57,9       | 55,4       | 52,1       |
++-----------------------------------+------------+------------+------------+
+
+Impacto acumulado 2025-2027: R$ 93 bilhões de alívio no custo do crédito.
+
+================================================================================
+SEÇÃO 8 — CONFORMIDADE LEGAL E INSTRUMENTOS EXECUTIVOS
+================================================================================
+
+- Lei 12.865/2013, art. 9º: BCB pode regular sistemas de pagamento e crédito.
+- Resolução CMN 4.656/2018: autoriza BCN e fintechs.
+- Resolução CMN 4.792/2020: Open Banking.
+- Resolução BCB 5.129/2024: DREX.
+- Não requer Congresso. Implementação via CMN/BCB em até 180 dias.
+
+================================================================================
+SEÇÃO 9 — RISCOS E MITIGAÇÕES
+================================================================================
+
+Risco 1: Resistência dos grandes bancos (lobby)
+Mitigação: Publicação mensal de ranking de spread + pressão de fintechs no Fórum.
+
+Risco 2: Aumento de inadimplência com teto de juros
+Mitigação: Substituição por consignado + DREX (LGD cai de 45% para 12%).
+
+Risco 3: Captura regulatória do Fórum
+Mitigação: Composição tripartite + veto suspensivo + publicação de atas.
+
+Risco 4: Vazamento de dados no score público
+Mitigação: Anonimização + API com autenticação OAuth 2.0 + LGPD.
+
+================================================================================
+SEÇÃO 10 — RECOMENDAÇÃO FINAL E TIMELINE
+================================================================================
+
+Recomendação: Implementar as 5 propostas via CMN/BCB sem necessidade de lei. Prioridade máxima às Propostas 1, 2 e 3 (impacto imediato em 12 meses).
+
+Timeline:
+D+0   — Publicação das resoluções CMN/BCB
+D+30  — Início da portabilidade Open Finance
+D+60  — Teto 200% cartão rotativo
+D+90  — Fórum de Competição instalado
+D+120 — DREX como garantia operacional
+D+180 — Score público BCB disponível
+D+360 — Primeira avaliação de impacto (spread médio 26 p.p.)
+D+720 — Meta intermediária: spread 24 p.p.
+D+1.800 — Meta final: spread 22 p.p. (nível Chile)
+
+O dinheiro da reforma virá do trabalho.
+================================================================================

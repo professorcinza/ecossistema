@@ -1,0 +1,488 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-025
+VERSÃO: v1.0
+CATEGORIA: 06_TERRITORIAL
+TÍTULO: Síntese: Fluxo de Dinheiro no Território Nacional
+STATUS: INTERNO
+DESTINATÁRIO: Arquivo técnico
+AÇÃO: Concluído
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
+TAMANHO: 21,297 bytes (20.8 KB)
+HASH MD5: 6e223008bf825e31685e4c876ac829bb
+HASH SHA-256: 13f68bceb89919dcdb7f9efd34aaf8fb25436b64ac6012bdf5f8fdfda84d1e83
+================================================================================
+
+================================================================================
+DIAGNÓSTICO INTEGRADO: O FLUXO DE DINHEIRO NO TERRITÓRIO NACIONAL
+================================================================================
+Como R$ 900+ bilhões/ano de dinheiro público e privado circulam (ou não)
+pelo Brasil — e por que o sistema reproduz desigualdade regional.
+================================================================================
+Autor: Cleiton Moura
+Data: Julho/2026
+Base: cruzamento de 3 eixos de pesquisa com fontes primárias
+       (STN, BCB, IBGE, TCU, CGU, Portal da Transparência, ANP)
+================================================================================
+
+SUMÁRIO EXECUTIVO (1 página)
+================================================================================
+
+O Brasil movimenta anualmente mais de R$ 900 bilhões em transferências
+fiscais, emendas parlamentares e crédito que deveriam promover o
+desenvolvimento equilibrado do território. O diagnóstico integrado dos
+3 eixos revela que o sistema FAZ O INVERSO: reproduz e amplifica a
+desigualdade regional por 4 mecanismos conjugados:
+
+1. TRANSFERÊNCIAS MAL CALIBRADAS (R$ 595,7 bi/ano)
+   FPE, FPM e FUNDEB distribuem recursos com critérios defasados que
+   beneficiam estados do N/NE em valor absoluto, mas criam dependência
+   crônica (cidades-cativo com >80% de receita de transferências) e
+   penalizam estados produtivos (SP perde com Lei Kandir).
+
+2. EMENDAS CAPTURADAS TERRITORIALMENTE (R$ 28,8 bi/ano)
+   As emendas parlamentares funcionam como transferência inter-regional
+   REGRESSIVA: saem dos estados que pagam impostos (SP, RJ) e vão para
+   estados-cativo (MA, AL, AM, PI, BA) onde são capturadas por oligarquias
+   via prefeituras e empresas sem licitação transparente.
+   Concentração: 1% dos municípios absorve 25% do valor.
+   Gini territorial: 0,72-0,78.
+
+3. DRENAGEM FINANCEIRA PRIVADA (~R$ 300+ bi/ano em spread)
+   O sistema financeiro privado drena capital das regiões pobres:
+   - Sudeste detém 53,6% do crédito PJ; Norte apenas 4,2%
+   - 520 municípios (2,5 mi de habitantes) sem agência bancária
+   - 7.252 agências fechadas em 10 anos
+   - Densidade de crédito PF: Centro-Oeste R$ 30.597 vs Nordeste R$ 10.207
+   - Spread de 28-30% cobra MAIS de quem tem MENOS
+
+4. VAZAMENTO FINANCEIRO INTER-REGIONAL (não mensurado oficialmente)
+   Depósitos captados no N/NE financiam crédito no Sudeste. O BCB NÃO
+   publica dados de fluxo inter-regional de capital. Esta opacidade é
+   uma das principais lacunas estatísticas do sistema.
+
+O RESULTADO LíQUIDO: o dinheiro público vai do Sudeste para o N/NE via
+impostos e emendas, mas o dinheiro PRIVADO faz o caminho inverso via
+depósitos e remessa de lucros. O efeito é uma bomba de drenagem que
+suga capital das regiões mais pobres e concentra no Sudeste.
+
+
+================================================================================
+OS 3 EIXOS EM DETALHE
+================================================================================
+
+------------------------------------------------------------------------
+EIXO 1 — TRANSFERÊNCIAS CONSTITUCIONAIS: R$ 595,7 BI/ANO
+------------------------------------------------------------------------
+
+VALORES 2024 (fonte: STN, FGV IBRE):
+
+  FPE (Fundo de Participação dos Estados) ...... ~R$ 109 bi
+  FPM (Fundo de Participação dos Municípios) ... ~R$ 216,2 bi
+  FUNDEB (Educação Básica) ..................... ~R$ 287 bi
+    (R$ 241,5 bi contribuições + R$ 47,8 bi complementação União)
+  Royalties do petróleo ........................ ~R$ 38-40 bi
+  Cide-Combustíveis ........................... ~R$ 3-4 bi (estimado)
+  IPI-Exportação .............................. ~R$ 5-6 bi (estimado)
+  Lei Kandir (LC 87/96) ........................ compensação ~R$ 3-4 bi/ano
+
+TOTAL APROXIMADO: R$ 595,7 bi/ano
+
+TOP 5 RECEPTORES FPE (2024, ~estimativas):
+  1. Bahia ............ ~R$ 12 bi
+  2. Ceará ............ ~R$ 9,5 bi
+  3. Maranhão ......... ~R$ 8,5 bi
+  4. Pernambuco ....... ~R$ 8 bi
+  5. Pará ............. ~R$ 7,5 bi
+  → N+NE+CO absorvem 85% do FPE
+
+DISTORÇÕES MAPEADAS:
+
+(a) CIDADES-CATIO: 68% dos municípios brasileiros dependem em mais de
+    80% de transferências constitucionais para funcionar. Sem FPE/FPM,
+    estas cidades não pagam nem a folha de servidores.
+
+(b) FPM PER CAPITA INVERSO: municípios pequenos (até 10 mil hab.)
+    recebem per capita até 150x mais que metrópoles. Um município de
+    5 mil habitantes pode receber mais FPM per capita que São Paulo.
+
+(c) LEI KANDIR: SP perde estimados R$ 10-15 bi/ano por desonererar
+    exportações de ICMS sem compensação adequada. O fundo de
+    compensação (LC 87/96) nunca foi totalmente pago.
+
+(d) ROYALTIES DO PETRÓLEO: RJ concentra 59% do destinado a municípios
+    (R$ 10,6 bi em 10 cidades fluminenses). Macaé e Campos dos
+    Goytacazes recebem mais que estados inteiros do N/NE.
+
+(e) FUNDEB: a redistribuição pode penalizar municípios que INVESTEM
+    em educação — o coeficiente é baseado em matrículas e custo
+    aluno-ano, não em qualidade.
+
+------------------------------------------------------------------------
+EIXO 2 — EMENDAS PARLAMENTARES: R$ 28,8 BI/ANO
+------------------------------------------------------------------------
+
+DISTRIBUIÇÃO POR REGIÃO (2024):
+
+  Região         | Valor (~R$ bi) | % do total | Per capita (R$)
+  ---------------|----------------|------------|----------------
+  Nordeste ......|    10,8        |   38,9%    |    ~190
+  Sudeste .......|     6,8        |   24,6%    |     ~80
+  Norte .........|     4,2        |   14,6%    |    ~250
+  Sul ...........|     3,6        |   12,5%    |    ~120
+  Centro-Oeste ..|     2,5        |    7,8%    |    ~170
+
+DISTORÇÃO TERRITORIAL:
+
+  Roraima recebe R$ 684/hab em emendas
+  São Paulo recebe R$ 60/hab em emendas
+  → Distorção de 11x
+
+  1% dos municípios absorve 25% do valor total
+  Gini territorial: 0,72-0,78 (desigualdade alta)
+
+ESTADOS-CATIVO (caputura oligárquica):
+  Maranhão: R$ 134,9 mi só de Pedro Lucas (47% das emendas do União)
+  Alagoas: R$ 73 mi Lira (dez/2024)
+  Amazonas: R$ 4,3 bi acumulado Braga+Aziz (2015-2025)
+  Piauí: R$ 544 mi família Nogueira (Ciro + mãe Eliane)
+  Bahia: R$ 1,4 bi Overclean (DNOCS/Allpha/Coronel)
+
+O CICLO DE CAPTURA:
+  1. Parlamentar indica emenda → ministério repassa
+  2. Prefeitura recebe convênio
+  3. Empresa contratada (frequentemente ligada ao parlamentar)
+  4. Obra superfaturada ou não entregue
+  5. Retorno em caixa 2 ou apoio eleitoral
+
+RELEÇÃO ELEITORAL:
+  Reeleição de prefeitos em cidades campeãs de emenda: 93-98%
+  → As emendas funcionam como máquina eleitoral, não como política pública
+
+------------------------------------------------------------------------
+EIXO 3 — DRENAGEM FINANCEIRA PRIVADA
+------------------------------------------------------------------------
+
+CONCENTRAÇÃO DE CRÉDITO POR REGIÃO (BCB REB 2023):
+
+  Região         | % crédito PJ | % crédito PF | Densidade PF/hab
+  ---------------|--------------|--------------|------------------
+  Sudeste .......|    53,6%     |    43,6%     |   ~R$ 25.000
+  Sul ...........|    17,8%     |    15,2%     |   ~R$ 18.000
+  Centro-Oeste ..|    10,2%     |     9,5%     |   ~R$ 30.597
+  Nordeste ......|    14,2%     |    25,6%     |   ~R$ 10.207
+  Norte .........|     4,2%     |     6,1%     |   ~R$ 9.500
+
+  → Nordeste (54 mi de habitantes) tem densidade de crédito PF
+    2,5x MENOR que Centro-Oeste (16 mi de habitantes)
+  → Amazonas tem a MENOR densidade de crédito do país: R$ 8.376/hab
+
+DESERTOS FINANCEIROS:
+  520 municípios sem agência nem PA em 2024 (2,5 mi de habitantes)
+  Cresceu 27% desde 2020
+  Concentrados no Norte e Nordeste
+
+FECHAMENTO DE AGÊNCIAS:
+  7.252 agências fechadas em 10 anos (2014-2024)
+  2.737 só em SP (mesmo SP perdendo, ainda concentra 38% das agências)
+  Norte e Nordeste perderam proporcionalmente mais
+
+CONCENTRAÇÃO DE RENDA:
+  DF: PIB per capita R$ 129.790
+  Maranhão: PIB per capita R$ 22.020
+  Razão: 5,9x
+
+DREnAGEM VIA SPREAD:
+  Spread médio: 28-30 p.p.
+  Sobre uma carteira de ~R$ 4,5 tri: ~R$ 500-700 bi/ano em spread total
+  Parte regressiva: regiões mais pobres (com menos renda) pagam a MESMA
+  taxa de juros (ou mais) que regiões ricas, mas representam maior risco
+  → inadimplência mais alta no N/NE gera spread ainda maior lá
+
+DESEQUILÍBRIO REGIONAL DE CRÉDITO CONSTITUCIONAL:
+  FNE (Fundo Constitucional do Nordeste, BNB): R$ 44,8 bi em 2024
+  FNO (Fundo Constitucional do Norte, Banco da Amazônia): R$ 8,9 bi
+  → Desproporção 5:1 entre Nordeste e Norte
+
+LUCRO BANCÁRIO:
+  5 maiores bancos lucraram R$ 125,6 bi em 2024
+  Não há dados públicos de lucro POR REGIÃO (lacuna estatística)
+
+VAZAMENTO FINANCEIRO INTER-REGIONAL (não mensurado):
+  O BCB NÃO publica dados de fluxo inter-regional de capital.
+  Não há métrica oficial que mostre quanto dos depósitos captados no
+  Norte/Nordeste é destinado a crédito no Sudeste.
+  Esta é uma das PRINCIPAIS LACUNAS ESTATÍSTICAS do sistema.
+
+
+================================================================================
+A BOMBA DE DRENAGEM: COMO O SISTEMA FUNCIONA
+================================================================================
+
+O diagnóstico integrado revela um mecanismo que chamo de BOMBA DE
+DRENAGEM FINANCEIRA. Ele funciona em 4 tempos:
+
+TEMPO 1 — CAPTAÇÃO REGRESSIVA
+  O cidadão do Norte/Nordeste paga impostos (IVA embutido, IR, etc.)
+  que fluem para o governo federal. O cidadão também deposita sua
+  renda em contas bancárias (Caixa, BB, Itaú, Nubank). Os depósitos
+  são centralizados no Sudeste (sede dos bancos).
+
+TEMPO 2 — TRANSFERÊNCIA INCOMPLETA
+  O governo federal devolve parte via FPE/FPM/FUNDEB (R$ 595 bi), mas
+  com critérios defasados que criam dependência sem desenvolvimento.
+  As emendas parlamentares (R$ 28,8 bi) são capturadas por oligarquias
+  locais — o dinheiro chega ao município mas é desviado antes de
+  gerar valor público.
+
+TEMPO 3 — CRÉDITO CONCENTRADO
+  Os depósitos captados no N/NE financiam crédito no Sudeste (onde
+  estão os bancos e as empresas grandes). O crédito por habitante
+  no Sudeste é 2,5x maior que no Nordeste. Quem tem menos, recebe
+  menos crédito.
+
+TEMPO 4 — REMESSA DE LUCROS
+  Empresas do Sudeste que operam no N/NE (varejo, bancos, telecom,
+  commodities) remetem lucros de volta à sede. O capital que entrou
+  via transferência pública sai via remessa privada. Líquido líquido:
+  o N/NE perde capital.
+
+O RESULTADO: o dinheiro faz um ciclo completo que DRENA capital das
+regiões mais pobres:
+
+  N/NE paga impostos → governo federal → FPE/FPM/emendas →
+  prefeituras → empresas (frequentemente do Sudeste) →
+  bancos (Sudeste) → crédito concentrado no Sudeste →
+  remessa de lucros → Sudeste enriquece →
+  N/NE permanece pobre
+
+Este ciclo não é conspiração. É ARQUITETURA DO SISTEMA. Cada componente
+individual é legal e justificável. O PROBLEMA é o conjunto.
+
+
+================================================================================
+QUANTO O SISTEMA CUSTA POR HABITANTE
+================================================================================
+
+Vou fazer uma estimativa por habitante de cada região:
+
+CUSTO DO SPREAD BANCÁRIO (estimativa):
+  Spread médio: 29 p.p. sobre R$ 4,5 tri em crédito = ~R$ 650 bi/ano
+
+  Se distribuído igualmente por população:
+    Norte (18 mi hab): R$ 650 bi / 215 mi × 18 = R$ 54 bi/ano
+    Nordeste (54 mi): R$ 163 bi/ano
+    Sudeste (89 mi): R$ 269 bi/ano
+
+  Mas o crédito NÃO é distribuído igualmente:
+    Norte tem 4,2% do crédito PJ → paga proporcionalmente MENOS spread
+    MAS paga MAIS taxa de juros em crédito pessoal (risco maior)
+
+  ESTIMATIA DE CUSTO REGRESSIVO:
+    Um trabalhador nordestino que paga 45% ao ano no cartão paga
+    proporcionalmente MAIS de sua renda em spread que um trabalhador
+    paulista que paga 35% — porque tem menos renda.
+
+CUSTO DO VAZAMENTO (estimativa conservadora):
+  Se 30% dos depósitos do N/NE financiam crédito fora da região
+  (estimativa grosseira — BCB não publica dado oficial):
+    Depósitos N+NE estimados: ~R$ 500-700 bi
+    30% = R$ 150-210 bi/ano que SAEM via sistema financeiro
+    Comparado: FPE+FPM para N+NE = ~R$ 150-180 bi/ano que ENTRA
+
+  → O dinheiro público que ENTRA é aproximadamente IGUAL ao dinheiro
+    privado que SAI. O efeito líquido das transferências constitucionais
+    é NEUTRALIZADO pela drenagem financeira privada.
+
+
+================================================================================
+O QUE NÃO É MENSURADO (LACUNAS ESTATÍSTICAS)
+================================================================================
+
+O diagnóstico identifica 5 lacunas críticas nos dados oficiais:
+
+1. FLUXO INTER-REGIONAL DE CAPITAL: o BCB não publica quanto dos
+   depósitos captados em cada região é destinado a crédito na mesma
+   região vs em outras regiões. Sem isto, não é possível medir o
+   vazamento financeiro oficialmente.
+
+2. SPREAD POR REGIÃO: o BCB não publica a decomposição do spread por
+   região. Não se sabe oficialmente se o Norte paga spread maior que
+   o Sudeste (provável, mas não confirmado com dado público).
+
+3. LUCRO BANCÁRIO POR UF: os 5 maiores bancos não publicam lucro por
+   unidade federativa. Não se sabe quanto do lucro do Itaú vem de
+   operações no N/NE vs Sudeste.
+
+4. IMPACTO FISCAL DAS EMENDAS POR REGIÃO: não há métrica oficial de
+   "retorno fiscal" das emendas — quanto cada R$ 1 em emenda gera de
+   arrecadação futura. CGU e TCU auditam execução, mas não impacto.
+
+5. CONCENTRAÇÃO DE BENEFÍCIOS TRIBUTÁRIOS POR REGIÃO: a Receita
+   Federal não publica mapas territoriais de renúncia fiscal (Seti,
+   Zona Franca de Manaus, SUDENE/SUDAM). Não se sabe quanto cada
+   região recebe em incentivos vs quanto renúncia.
+
+
+================================================================================
+PROPOSTAS DE INTERVENÇÃO
+================================================================================
+
+As propostas estão divididas em 3 níveis: via executivo (R$ 0),
+via BCB/regulatório, e via Congresso.
+
+------------------------------------------------------------------------
+PROPOSTAS VIA EXECUTIVO (sem Congresso, R$ 0)
+------------------------------------------------------------------------
+
+P1 — RELATÓRIO DE FLUXO FINANCEIRO INTER-REGIONAL
+    Quem faz: BCB + Tesouro Nacional (portaria conjunta)
+    O que é: Publicação anual mostrando quanto dos depósitos captados
+    em cada região é destinado a crédito na mesma região vs fora.
+    Custo: R$ 0 (dados já existem internamente nos bancos)
+    Impacto: revela o vazamento financeiro e cria pressão pública
+
+P2 — ÍNDICE DE DESENVOLVIMENTO FISCAL TERRITORIAL (IDFT)
+    Quem faz: STN (portaria)
+    O que é: métrica trimestral que cruza transferências constitucionais
+    com indicadores de desenvolvimento local (IDH-M, educação, saúde).
+    Objetivo: mostrar se as transferências estão gerando desenvolvimento
+    ou apenas mantendo dependência.
+    Custo: R$ 0
+
+P3 — DASHBOARD TERRITORIAL DE EMENDAS
+    Quem faz: CGU + Portal da Transparência
+    O que é: mapa interativo mostrando cada emenda, seu autor, destino
+    (município), empresa contratada e situação de execução.
+    Já existe parcialmente — precisa ser ampliado com dados de
+    contratados e cruzamento de CNPJ.
+    Custo: R$ 500 mil
+
+------------------------------------------------------------------------
+PROPOSTAS VIA BCB/CMN (resolução, sem Congresso)
+------------------------------------------------------------------------
+
+P4 — EXIGÊNCIA DE INVESTIMENTO PROPORCIONAL EM REGIÃO DE CAPTAÇÃO
+    Quem faz: CMN (resolução)
+    O que é: bancos com mais de R$ 50 bi em ativos devem destinar
+    mínimo de X% do crédito à região onde captaram os depósitos.
+    Similar ao Community Reinvestment Act (CRA) dos EUA.
+    Impacto: reduz vazamento financeiro inter-regional
+    Custo: R$ 0 (regulatório)
+
+P5 — PUBLICAÇÃO DE SPREAD E LUCRO POR REGIÃO
+    Quem faz: BCB (resolução)
+    O que é: bancos devem publicar dados trimestrais de spread, taxa de
+    crédito e lucro por unidade federativa.
+    Impacto: revela onde o sistema financeiro cobra mais dos mais pobres
+    Custo: R$ 0
+
+P6 — EXPANSÃO FORÇADA DE COOPERATIVAS EM REGIÕES DESBANCARIZADAS
+    Quem faz: BCB + governos estaduais
+    O que é: programa de incentivo à criação de cooperativas de crédito
+    nos 520 municípios sem agência. Cooperativas RETÊM capital na região.
+    Meta: 200 novas cooperativas em 3 anos nas regiões N/NE.
+    Custo: R$ 100-200 mi (subsidio inicial + capacitação)
+
+------------------------------------------------------------------------
+PROPOSTAS VIA CONGRESSO (legislativas)
+------------------------------------------------------------------------
+
+P7 — REFORMA DO FPE COM RATING REGIONAL
+    Substituir o critério atual (baseado em população e renda per capita
+    inversa) por índice que PREMIA eficiência gestora e resultados
+    sociais (IDH-M, qualidade do gasto, redução da desigualdade).
+    Objetivo: transformar transferência em INCENTIVO ao desenvolvimento,
+    não em subsídio à dependência.
+
+P8 — LEI DE TRANSPARÊNCIA TERRITORIAL BANCÁRIA
+    Obrigar bancos a publicar dados de crédito, spread e lucro por UF
+    e por município. Hoje não há obrigação legal.
+
+P9 — FNO EXPANDIDO
+    Aumentar o Fundo Constitucional do Norte de R$ 8,9 bi para
+    R$ 20 bi (equalizando com FNE proporcional ao PIB regional).
+    O Norte tem metade do FNE do Nordeste mas tem metade da população.
+
+
+================================================================================
+VETO PLAYERS TERRITORIAIS
+================================================================================
+
+A reforma do sistema territorial enfrenta veto players diferentes dos
+do diagnóstico federal anterior:
+
+1. OLIGARQUIAS ESTADUAIS DO N/NE
+   Parlamentares que controlam emendas como moeda política territorial.
+   Não querem transparência porque o sistema de captura é a base do
+   poder eleitoral. (Mapeados: Lira em AL, Ciro em PI, Braga/Aziz em AM)
+
+2. BANCOS PRIVADOS DO SUDESTE
+   Resistem à exigência de investimento proporcional em região de
+   captação porque o vazamento financeiro é LUCRATIVO. Captam barato
+   no N/NE (depósitos em poupança/conta corrente) e emprestam caro
+   no Sudeste (crédito corporativo de menor risco).
+
+3. PREFEITOS DE CIDADES-CATIVO
+   68% dos municípios dependem >80% de transferências. Prefeitos
+   destas cidades resistem a qualquer critério que condicione
+   transferências a desempenho.
+
+4. SISTEMA S (SESC/SENAC)
+   O Sistema S opera com tributação parafiscal nacional mas presta
+   serviços desigualmente. Regionalmente concentrado no Sudeste/Sul.
+
+5. CONSTRUTORAS REGIONAIS
+   Empresas que vivem de contratos de emendas (Allpha, Grupo José
+   Marcos, etc.) resistem a transparência e licitação eletrônica.
+
+
+================================================================================
+O PRINCÍPIO ORIENTADOR
+================================================================================
+
+O problema do fluxo de dinheiro no território nacional não é falta
+de recursos. É DIRECIONAMENTO.
+
+O Brasil transfere R$ 595,7 bi/ano em transferências constitucionais
++ R$ 28,8 bi em emendas = R$ 624,5 bi/ano. Isto é mais do que o
+orçamento de muitos países desenvolvidos.
+
+O problema é que:
+  - As transferências são mal calibradas (criam dependência, não desenvolvimento)
+  - As emendas são capturadas (beneficiam oligarquias, não cidadãos)
+  - O crédito é concentrado (drena capital das regiões pobres)
+  - O vazamento financeiro não é medido (opacidade institucional)
+
+A solução não é MAIS dinheiro. É MELHOR direcionamento. E isto começa
+com TRANSPARÊNCIA TERRITORIAL: medir o fluxo, publicar os dados,
+identificar onde o dinheiro entra e onde sai, e cobrar resultados.
+
+A primeira proposta (P1 — Relatório de Fluxo Financeiro Inter-Regional)
+custa R$ 0, é via portaria do BCB e revelaria o tamanho real do
+vazamento. É o equivalente territorial da Nota Técnica de Impacto Fiscal.
+
+O dinheiro está. Falta direcionar.
+
+================================================================================
+ARQUIVOS DE REFERÊNCIA DOS 3 EIXOS
+================================================================================
+
+EIXO 1 (Transferências Constitucionais):
+  /home/kratos/diagnostico_transferencias_constitucionais_brasil_eixo1.txt
+  (46,7 KB, 861 linhas)
+
+EIXO 2 (Emendas Parlamentares Territorial):
+  /home/kratos/diagnostico_emendas_territorial_eixo2.txt
+  (37 KB, 644 linhas)
+
+EIXO 3 (Concentração de Crédito e Renda):
+  /home/kratos/diagnostico_eixo3_concentracao_territorial_credito_renda.txt
+  (36,4 KB, 647 linhas)
+
+SÍNTESE INTEGRADA (este documento):
+  /home/kratos/DIAGNOSTICO_INTEGRADO_FLUXO_DINHEIRO_NACIONAL.txt
+
+================================================================================
+FIM DO DIAGNÓSTICO INTEGRADO
+================================================================================

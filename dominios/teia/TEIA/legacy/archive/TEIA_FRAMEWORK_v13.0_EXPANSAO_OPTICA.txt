@@ -1,0 +1,579 @@
+================================================================================
+TEIA FRAMEWORK v13.0 — EXPANSÃO ÓPTICA MÁXIMA (51×24 = 1224 PERSPECTIVAS)
+================================================================================
+Integração das 8 novas lentes analíticas, elevando o arsenal de 16
+para 24 lentes e atingindo 1224 perspectivas de investigação.
+================================================================================
+Autor: Cleiton Moura (@professorcinza)
+Instituição: TEIA
+Protocolo: TEIA-2026-060
+Versão: v13.0 (EXPANSÃO ÓPTICA MÁXIMA — RELEASE FINAL ABSOLUTA DEFINITIVA)
+Data: Julho/2026
+================================================================================
+
+NOTA DE ATUALIZAÇÃO (v12.0 → v13.0)
+
+A v12.0 completou o mapa ontológico com 51 dimensões × 16 lentes.
+A v13.0 expande o ARSENAL ÓPTICO de 16 para 24 lentes analíticas,
+erradicando os últimos "pontos cegos" das ciências sociais tradicionais.
+
+As 8 novas lentes (Decolonial, Termodinâmica, Interseccional,
+Cibernética, Ator-Rede, Psicanalítica, Topológica, Espectrológica)
+foram desenhadas para operar as entranhas físicas, psíquicas,
+excrementais e terminais do poder estabelecidas nas Dimensões 37-51.
+
+Com 51 dimensões × 24 lentes, o framework gera 1224 perspectivas.
+Mais de MIL perspectivas de investigação disponíveis.
+
+
+================================================================================
+AS 8 NOVAS LENTES ANALÍTICAS (v3.0 — OPERACIONAL)
+================================================================================
+
+Cada lente mantém as 9 camadas da v3.0 (conceito-âncora, dimensão
+alvo, pergunta-chave, anti-padrão, técnica avançada, inputs,
+outputs, interoperabilidade, estado da arte).
+
+------------------------------------------------------------------------
+LENSE 17 — DECOLONIAL / COLONIALIDADE DO PODER
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O colonialismo não acabou — metamorfoseou-se em
+  "globalização" e "mercado". A matriz colonial de poder estrutura
+  racial, epistêmica e territorialmente a sociedade moderna.
+  (Quijano, Mignolo, Mbembe, Grosfoguel, Carneiro)
+
+DIMENSÃO DE PODER ALVO: Social (5), Espacial (10), Epistêmica (9),
+  Militar (37), Excremental (41)
+
+PERGUNTA-CHAVE: Qual grupo racial/étnico é destinatário HISTÓRICO
+  da violência e da extração? A extração de riqueza segue rotas
+  coloniais (Sul → Norte, periferia → centro)?
+
+ANTI-PADRÃO: Analisar a desigualdade como problema "econômico"
+  abstrato, ignorando que a arquitetura racial foi DESENHADA
+  colonialmente (não é acidente).
+
+TÉCNICA AVANÇADA: Cartografia Decolonial — mapear a persistência
+  de zonas coloniais de extração (quilombos ameaçados por mineração,
+  periferias negras com aterro sanitário).
+
+VETORES DE DADOS:
+  - IBGE Censo (raça/cor, território)
+  - INCRA (sobreposição de terras quilombolas com concessões)
+  - MapBiomas (desmatamento em territórios indígenas/quilombolas)
+  - Polícia Federal (letalidade por raça)
+  - FBSP (Fórum Brasileiro de Segurança Pública)
+
+ARTEFATO GERADO: MAPA DE ZONAS COLONIAIS DE EXTRAÇÃO
+  Sobreposição: território negro/indígena + desmatamento + aterro
+  sanitário + letalidade policial + ausência de serviço público.
+
+INTEROPERABILIDADE:
+  → Cruza com GEOGRAFIA (17 original) para espacializar racismo
+  → Conecta com SOCIOLOGIA (19 original) para habitus racial
+  → Alimenta INTERSECCIONAL (Lente 19 nova) para multiplicação
+    de opressões
+
+TÉCNICA DE ESTADO DA ARTE:
+  Colonialidade do saber (Mignolo) aplicada à análise de dados —
+  questionar quem PRODUZIU o dado (IBGE foi desenhado por quem?
+  A metodologia de raça/cor serve para invisibilizar quem?). Aplicar
+  "epistemologias do Sul" (Boaventura de Sousa Santos) para valorizar
+  conhecimento local sobrepondo a estatística oficial.
+
+------------------------------------------------------------------------
+LENSE 18 — TERMODINÂMICA / METABOLISMO SOCIAL
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A física da dominação. O capitalismo como sistema
+  que ACELERA A ENTROPIA global: transforma ordem (natureza) em
+  desordem (lixo, calor, caos social). Quem absorve a entropia?
+  (Martinez-Alier, Moore, Georgescu-Roegen, Foster)
+
+DIMENSÃO ALVO: Ambiental (4), Excremental (41), Hídrica (38),
+  Alimentar (17), Infraestrutural (15)
+
+PERGUNTA-CHAVE: Onde a energia/recurso ENTRA no sistema e em que
+  estado SAI? Quem absorve o "calor" (entropia) gerado pelo
+  consumo alheio?
+
+ANTI-PADRÃO: Analisar "poluição" como problema técnico de engenharia
+  ambiental, ignorando que a ENTROPIA é distribuída de forma RACIAL
+  e de CLASSE (centro consome limpo, periferia recebe lixo tóxico).
+
+TÉCNICA AVANÇADA: Análise de Fluxo de Materiais Sociais (MFA) —
+  rastrear fisicamente onde matéria-prima entra, como é transformada
+  e onde o REJEITO é despejado. Provar que o rejeito vai sempre
+  para territórios negros/pobres.
+
+VETORES DE DADOS:
+  - IBAMA (licenciamento ambiental)
+  - SNIS (sistema nacional de informações sobre saneamento)
+  - ANA (outorgas de água)
+  - IBGE (Censo — localização de aterros por bairro/raça)
+  - MapBiomas (mudança de uso do solo)
+
+ARTEFATO GERADO: MAPA DE FLUXO ENTROPICO-RACIAL
+  Diagrama: recurso natural → processamento (zona rica/limpa) →
+  rejeito → despejo (zona pobre/negra/suja). Entropia visualizada.
+
+INTEROPERABILIDADE:
+  → Conecta com EXCREMENTAL (41) para destinação de lixo
+  → Alimenta GEOGRAFIA (17 original) para espacialização
+  → Cruza com DECOLONIAL (Lente 17 nova) para racismo ambiental
+
+TÉCNICA DE ESTADO DA ARTE:
+  Modelagem de Metabolismo Social Urbano (MFA + GIS) — calcular
+  quantitativamente quantas toneladas de CO2, esgoto e lixo são
+  PRODUZIDAS por bairros ricos e DESPEJADAS em bairros pobres.
+  Provar a assimetria termodinâmica como racismo materializado.
+
+------------------------------------------------------------------------
+LENSE 19 — INTERSECCIONAL / MATRIZ DE DOMINAÇÃO
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: A sobreposição SIMULTÂNEA de sistemas de opressão
+  (raça, gênero, classe, território). A opressão não é aditiva — é
+  MULTIPLICADORA e CO-CONSTITUTIVA.
+  (Crenshaw, Collins, Davis, hooks, Gonzalez, Ribeiro)
+
+DIMENSÃO ALVO: Social (5), Biopolítica (11), Patológica (40),
+  Militar (37), Reprodutiva (25), Laboral (14)
+
+PERGUNTA-CHAVE: Qual CORPO ESPECÍFICO sofre a intersecção das
+  violências? A política analisada trata esse corpo como EXCEÇÃO
+  ou como REGRA da engenharia social?
+
+ANTI-PADRÃO: Analisar "mulheres" como categoria homogênea ou
+  "negros" como bloco único. A mulher negra periférica não sofre
+  "duplamente" — ela sofre de uma forma ÚNICA que não é
+  redutível a gênero + raça.
+
+TÉCNICA AVANÇADA: Matriz Interseccional de Vulnerabilidade — para
+  cada política, cruzar raça × gênero × classe × território × idade
+  para identificar quem é o corpo mais afetado.
+
+VETORES DE DADOS:
+  - DATASUS (mortalidade materna por raça/cor)
+  - FBSP (letalidade policial por raça/gênero/idade)
+  - IBGE PNAD (renda por raça/gênero)
+  - TSE (candidaturas por raça/gênero)
+  - MTE (trabalho escravo por raça/gênero)
+
+ARTEFATO GERADO: MATRIZ DE VULNERABILIDADE INTERSECCIONAL
+  Tabela cruzada: para cada política/captura, identificar o corpo
+  que sofre a intersecção AGUDA (ex: mulher negra, 18-24,
+  periferia, sem creche → máxima vulnerabilidade).
+
+INTEROPERABILIDADE:
+  → Conecta com DECOLONIAL (Lente 17) para dimensão racial
+  → Alimenta PSICOLOGIA SOCIAL (Lente 13) para bodes expiatórios
+  → Cruza com REPRODUTIVA (25) para sobrecarga de cuidado
+
+TÉCNICA DE ESTADO DA ARTE:
+  Análise Multi-Nível Interseccional (MLM) — modelagem estatística
+  que quantifica a interação entre raça, gênero, classe e território
+  simultaneamente, superando a análise univariável tradicional.
+  Provar que a mortalidade materna de mulher negra não é explicada
+  apenas por renda (controle), mas por raça (efeito interseccional
+  significativo mesmo controlando classe).
+
+------------------------------------------------------------------------
+LENSE 20 — CIBERNÉTICA / SISTEMAS DE CONTROLE
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O poder atua em CIRCUITOS de retroalimentação
+  (feedback). Um input (ruído) gera output (violência) que
+  retroalimenta input (mais repressão). O sistema se auto-regula
+  para manter o status quo.
+  (Wiener, Beer, Deleuze, Han)
+
+DIMENSÃO ALVO: Acústica (39), Biopolítica (11), Patológica (40),
+  Militar (37), Creditícia (28), Sistemas Complexos (11)
+
+PERGUNTA-CHAVE: Qual é o LOOP DE FEEDBACK VICIOSO que sustenta o
+  problema? Onde o sistema se AUTO-REGULA para manter o status quo?
+
+ANTI-PADRÃO: Tratar o problema como LINEAR (causa → efeito) quando
+  é CIRCULAR (causa → efeito → causa). A violência policial não
+  "reduz o crime"; ela gera mais trauma → mais crime → mais
+  violência (loop reforçado).
+
+TÉCNICA AVANÇADA: Diagrama de Loop Causal (Causal Loop Diagram — CLD)
+  mapeando os loops de reforço (positivos) e balanceamento (negativos)
+  que sustentam cada sistema de captura.
+
+VETORES DE DADOS:
+  - Séries temporais integradas (saúde + segurança + orçamento)
+  - Dados longitudinais de indicadores sociais (10+ anos)
+  - TCU (auditoria de sistemas de feedback governamental)
+
+ARTEFATO GERADO: DIAGRAMA DE LOOPS DE CAPTURA
+  Visualização: cada captura (ex: juros da dívida) como loop
+  circular com pontos de alavanca identificados.
+
+INTEROPERABILIDADE:
+  → Substitui SISTEMAS COMPLEXOS (Lente 11 original) em análises
+    que exigem modelagem formal de loops
+  → Alimenta SIMULAÇÃO (Lente 8) com parâmetros de loop
+  → Conecta com MOLECULAR (34) para loops biológicos
+
+TÉCNICA DE ESTADO DA ARTE:
+  Sociedade de Controle (Deleuze) + Psicopolítica (Han) — modelar
+  como o poder moderno não mais DISCIPLINA (Foucault) de fora para
+  dentro, mas CONTROLA via auto-vigilância algorítmica (nudging,
+  gamificação, score de crédito). O loop é INTERIORIZADO — o sujeito
+  se auto-controla para não perder score.
+
+------------------------------------------------------------------------
+LENSE 21 — ATOR-REDE (ANT) / AGENCIA DISTRIBUTIVA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: Coisas não-humanas (vírus, rios, algoritmos, armas,
+  concreto) não são meros "contextos" — são ATORES que agem e alteram
+  o tecido social. A agência é DISTRIBUTIVA.
+  (Latour, Callon, Law, Bennett)
+
+DIMENSÃO ALVO: Patológica (40), Hídrica (38), Tecnológica (3),
+  Zoopolítica (31), Militar (37), Infraestrutural (15)
+
+PERGUNTA-CHAVE: Qual ATOR NÃO-HUMANO está determinando a ação
+  política local? Como a MATERIALIDADE do objeto dita a lei?
+
+ANTI-PADRÃO: Antropocentrismo metodológico — analisar apenas
+  decisões humanas, ignorando que o VÍRUS, o RIO SECO, o ALGORITMO
+  e a ARMA são actantes que REESCREVEM a realidade social.
+
+TÉCNICA AVANÇADA: Mapeamento de Actantes — para cada situação,
+  listar TODOS os atores (humanos e não-humanos) e suas traduções
+  (como cada um transforma a rede).
+
+VETORES DE DADOS:
+  - Dados epidemiológicos (vírus como ator)
+  - Dados hidrológicos (rio como ator)
+  - Documentação técnica de algoritmos (código como ator)
+  - Dados de armamento (arma como ator)
+
+ARTEFATO GERADO: MAPA DE AGENCIA DISTRIBUTIVA
+  Rede de actantes: humano → não-humano → humano, mostrando como
+  vírus, rio, algoritmo ou arma MEDIAM a relação social.
+
+INTEROPERABILIDADE:
+  → Conecta com INFORMAÇÃO/REDES (Lente 15 original) para topologia
+  → Alimenta ZOOPOLÍTICA (31) para vida não-humana
+  → Cruza com PATOLÓGICA (40) para vírus como ator político
+
+TÉCNICA DE ESTADO DA ARTE:
+  Análise de Redes Sócio-Técnicas (STS + ANT) — mapear como a
+  introdução de uma nova tecnologia (ex: Drex, PIX, IA) reconfigura
+  TODA a rede de atores. Não analisar a tecnologia isoladamente —
+  analisar o que ELA FAZ com os humanos.
+
+------------------------------------------------------------------------
+LENSE 22 — PSICANALÍTICA / ECONOMIA LIBIDINAL
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O poder não opera apenas reprimindo — ele FABRICA
+  modos de gozo. O sujeito pode DESEJAR ativamente sua própria
+  subjugação. A dominação oferece satisfação compensatória.
+  (Freud, Lacan, Žižek, Deleuze/Guattari, Fanon)
+
+DIMENSÃO ALVO: Desejante (27), Afetiva (13), Religiosa (16),
+  Traumática (51), Mitológica (26), Sexual (46)
+
+PERGUNTA-CHAVE: Qual GOZO inconsciente o público extrai de sua
+  própria miséria? A dominação oferece um SINTOMA de prazer
+  compensatório?
+
+ANTI-PADRÃO: Pressupor que o oprimido quer RACIONALMENTE se libertar.
+  O oprimido pode GOZAR com sua subjugação (eleitor que vota em quem
+  o prejudica porque goza com a figura do "chefão" punitivo).
+
+TÉCNICA AVANÇADA: Análise de Economia Libidinal — para cada
+  sistema de captura, identificar: qual prazer compensatório é
+  oferecido? (consumo como anestésico, punitivismo como gozo,
+  nacionalismo como sintoma).
+
+VETORES DE DADOS:
+  - Dados de consumo (o que se compra quando se está frustrado)
+  - Dados eleitorais (quem se vota CONTRA próprio interesse)
+  - Discurso público (manifestações de prazer na punição alheia)
+  - Redes sociais (expressões de gozo coletivo)
+
+ARTEFATO GERADO: MAPA DE ECONOMIA LIBIDINAL DA CAPTURA
+  Identifica: qual captura oferece qual gozo compensatório? Como
+  o sistema se sustenta psiquicamente (não apenas economicamente)?
+
+INTEROPERABILIDADE:
+  → Substitui PSICOLOGIA COGNITIVA (Lente 12) em análises que
+    exigem camada INCONSCIENTE (não apenas viés cognitivo)
+  → Conecta com AFETIVA (13) para engenharia emocional
+  → Alimenta DESEJANTE (27) para fabricação de desejo
+
+TÉCNICA DE ESTADO DA ARTE:
+  Žižek aplicado à política brasileira — o eleitor que vota em
+  Bolsonaro não vota DESPITE ser prejudicado; vota PORQUE goza com
+  a transgressão, com o sadismo institucionalizado, com a "liberdade"
+  de ser cruel. O gozo é a MOEDA OCULTA do sistema de captura.
+
+------------------------------------------------------------------------
+LENSE 23 — TOPOLÓGICA / GEOMETRIA DAS REDES DE PODER
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: As desigualdades são EFEITOS TOPOLÓGICOS de rede.
+  Se você desconecta um HUB, o sistema de dominação entra em colapso.
+  A arquitetura das conexões dita quem tem poder.
+  (Barabási, Watts, Newman, Borgatti)
+
+DIMENSÃO ALVO: Datificacional (18), Militar (37), Relacional (36),
+  Institucional (2), Opacitária (48), Creditícia (28)
+
+PERGUNTA-CHAVE: Quem são os "NÓS CRÍTICOS" cuja remoção colapsa a
+  rede de poder? Há BURACOS ESTRUTURAIS controlados por intermediários?
+
+ANTI-PADRÃO: Focar em atores individuais (Motta, Lira) sem mapear
+  a TOPOLOGIA que os conecta. Motta não é poder isoladamente — é um
+  NÓ em uma rede cuja topologia sustenta o sistema.
+
+TÉCNICA AVANÇADA: Análise de Centralidade Multi-Dimensional —
+  calcular degree (conexões), betweenness (pontes), closeness
+  (acesso), eigenvector (conexões a outros poderosos) para cada nó.
+
+VETORES DE DADOS:
+  - TSE (doações → grafo político-empresarial)
+  - CGU (emendas → grafo territorial)
+  - CNPJ (sociedades → grafo corporativo)
+  - Registros de lobby (quando disponíveis)
+  - Pandora Papers / Panama Papers (offshores → grafo de opacidade)
+
+ARTEFATO GERADO: GRAFO DE NÓS CRÍTICOS DA DOMINAÇÃO
+  Visualização da rede de poder com: hubs (alta centralidade),
+  pontes (alto betweenness), clusters (comunidades de poder),
+  buracos estruturais (oportunidades de intervenção).
+
+INTEROPERABILIDADE:
+  → Evolui INFORMAÇÃO/REDES (Lente 15 original) para nível de
+    PODER (não apenas informação)
+  → Conecta com OPACITÁRIA (48) para mapear rede de offshores
+  → Alimenta CIÊNCIA POLÍTICA (Lente 9 original) com veto
+    players como topologia
+
+TÉCNICA DE ESTADO DA ARTE:
+  Graph Neural Networks (GNNs) treinadas em dados de corrupção
+  confirmada para PREVER quais conexões são fraudulentas antes
+  que sejam investigadas. O algoritmo aprende a "assinatura
+  topológica" da captura e a detecta em novas redes.
+
+------------------------------------------------------------------------
+LENSE 24 — ESPECTROLÓGICA / HANTOLOGIA POLÍTICA
+------------------------------------------------------------------------
+CONCEITO-ÂNCORA: O poder dos mortos, dos passados traumas não
+  resolvidos e dos futuros cancelados que ASSOMBRAM o presente.
+  A ditadura, a escravidão e os massacres não passam — operam como
+  FANTASMAS institucionais.
+  (Derrida, Gordon, Mbembe, Caruth)
+
+DIMENSÃO ALVO: Traumática (51), Tanatopolítica (47), Arquivística
+  (30), Mitológica (26), Religiosa (16), Histórica (18)
+
+PERGUNTA-CHAVE: Qual PASSADO NÃO ENTERRADO assombra e limita a
+  política atual? Quais "FUTUROS CANCELADOS" pesam no presente?
+
+ANTI-PADRÃO: Tratar a história como "passado" (algo que acabou).
+  O passado NÃO passou — ele OPERA ativamente no presente como
+  fantasma institucional (impunidade de torturadores, racismo
+  estrutural, trauma geracional).
+
+TÉCNICA AVANÇADA: Hauntology Analysis — rastrear como eventos
+  traumáticos do passado (escravidão, ditadura, genocídio indígena)
+  se manifestam como "fantasmas" no presente (impunidade seletiva,
+  racismo estrutural, epigenética do medo).
+
+VETORES DE DADOS:
+  - Arquivo Nacional (documentos da ditadura)
+  - CNV (Comissão Nacional da Verdade — relatórios)
+  - Dados epigenéticos (estudos de trauma intergeracional)
+  - Dados de impunidade (crimes históricos não punidos)
+  - Memória oral (entrevistas com comunidades afetadas)
+
+ARTEFATO GERADO: MAPA DE FANTASMAS INSTITUCIONAIS
+  Para cada problema atual, rastrear o FANTASMA que o ancora:
+  (racismo → escravidão; violência policial → ditadura; impunidade
+  → anistia de 1979; desigualdade → colônia).
+
+INTEROPERABILIDADE:
+  → Conecta com HISTÓRIA (Lente 18 original) para longa duração
+  → Alimenta TRAUMÁTICA (51) para psicologia coletiva
+  → Cruza com ARQUIVÍSTICA (30) para memória apagada
+
+TÉCNICA DE ESTADO DA ARTE:
+  Epigenética Social + Hauntology — aplicar a ciência da
+  transmissão intergeracional de trauma (estudos mostram que
+  descendentes de escravizados e sobreviventes de ditadura têm
+  alterações de expressão gênica ligadas ao estresse crônico)
+  para provar que o passado é BIOLOGICAMENTE ATIVO no presente.
+
+
+================================================================================
+NOVAS SKILLS (67-74)
+================================================================================
+
+SKILL 67: cartografia-decolonial-zonas-extracao
+  Lente 17 (Decolonial) — mapear persistência de zonas coloniais
+
+SKILL 68: analise-fluxo-materiais-sociais-mfa-gis
+  Lente 18 (Termodinâmica) — entropia como racismo materializado
+
+SKILL 69: analise-multinivel-interseccional-mlm
+  Lente 19 (Interseccional) — vulnerabilidade multiplicadora
+
+SKILL 70: diagrama-loop-causal-cld-captura
+  Lente 20 (Cibernética) — loops de feedback do poder
+
+SKILL 71: mapeamento-actantes-redes-socio-tecnicas
+  Lente 21 (ANT) — agência de vírus/rios/algoritmos
+
+SKILL 72: analise-economia-libidinal-gozo-captura
+  Lente 22 (Psicanalítica) — prazer na própria subjugação
+
+SKILL 73: analise-centralidade-multidimensional-gnn
+  Lente 23 (Topológica) — nós críticos e hubs de dominação
+
+SKILL 74: hauntology-analysis-fantasmas-institucionais
+  Lente 24 (Espectrológica) — passado não enterrado operando
+
+
+================================================================================
+A MATRIZ DEFINITIVA v13.0
+================================================================================
+
+DIMENSÕES DE CAPTURA: 51 (10 níveis de profundidade)
+LENTES ANALÍTICAS: 24 (v3.0 operacional, 9 camadas cada)
+
+MATRIZ TOTAL: 51 × 24 = 1224 PERSPECTIVAS DE INVESTIGAÇÃO
+
+SKILLS METODOLÓGICAS: 74
+PROTOCOLO DE QUALIDADE: 32 ITENS
+NÍVEIS DE PROFUNDIDADE DO PODER: 10
+
+AS 24 LENTES ANALÍTICAS COMPLETAS:
+
+  ORIGINAIS (v3.0):
+  7. Estatística
+  8. Simulação
+  9. Ciência Política
+  10. Public Choice
+  11. Sistemas Complexos
+  12. Psicologia Cognitiva
+  13. Psicologia Social
+  14. Discurso
+  15. Informação/Redes
+  16. Filosofia
+  17. Geografia (original)
+  18. História (original)
+  19. Sociologia (original)
+  20. Antropologia (original)
+  21. EPI
+  22. Direito
+
+  NOVAS (v13.0):
+  17Dec. Decolonial / Colonialidade
+  18Ter. Termodinâmica / Metabolismo Social
+  19Int. Interseccional / Matriz de Dominação
+  20Cib. Cibernética / Sistemas de Controle
+  21ANT. Ator-Rede / Agência Distributiva
+  22Psi. Psicanalítica / Economia Libidinal
+  23Top. Topológica / Geometria de Redes
+  24Esp. Espectrológica / Hauntologia Política
+
+  (Nota de numeração: as lentes originais 17-22 da v3.0 mantêm
+  sua numeração original nos documentos do framework. As novas
+  lentes são referenciadas como 17Dec-24Esp para evitar colisão.)
+
+
+================================================================================
+COMBINATÓRIAS POTENTES DAS NOVAS LENTES COM NÍVEL 8 (37-41)
+================================================================================
+
+MILITAR (37) × DECOLONIAL (17Dec):
+  Exército como herança do "Exército Pacificador" de Canuds e da
+  repressão escravocrata. Cartografia da violência militar em zonas
+  historicamente negras/indígenas.
+
+EXCREMENTAL (41) × TERMODINÂMICA (18Ter):
+  A entropia materializada — o luxo do centro consome energia limpa
+  e devolve lama tóxica na periferia. Lei da Entropia aplicada ao
+  racismo ambiental. MFA: onde entra e onde sai?
+
+PATOLÓGICA (40) × INTERSECCIONAL (19Int):
+  A mulher negra periférica como epítome da vulnerabilidade
+  epidemiológica — não por acidente, mas por ENGENHARIA
+  interseccional de necropolítica. MLM: provar interação significativa.
+
+ACÚSTICA (39) × CIBERNÉTICA (20Cib):
+  Loop autômato: poluição sonora → estresse/cortisol → violência
+  doméstica → chamada policial → encarceramento → mais filhos sem
+  pais → mais vulnerabilidade. CLD: visualizar loop e identificar
+  ponto de alavanca.
+
+HÍDRICA (38) × ATOR-REDE (21ANT):
+  Um rio seco não é pano de fundo — é um ACTANTE que destitui
+  populações e elege oligarcas do pivô. Mapeamento: rio como
+  mediador entre agronegócio e deslocamento populacional.
+
+TRAUMÁTICA (51) × PSICANALÍTICA (22Psi):
+  O eleitor traumatizado que GOZA com sua subjugação — vota em quem
+  o tortura porque o sadismo institucional oferece satisfação
+  compensatória pela miséria estrutural. Economia libidinal do voto.
+
+OPACITÁRIA (48) × TOPOLÓGICA (23Top):
+  A topologia das offshores — quem é HUB na rede de opacidade
+  global? Quais escritórios de advocacia funcionam como pontes
+  entre capital brasileiro e Cayman Islands?
+
+TANATOPOLÍTICA (47) × ESPECTROLÓGICA (24Esp):
+  Os mortos da ditadura e da escravidão que ASSOMBRAM o presente —
+  a impunidade de torturadores como FANTASMA institucional que
+  garante que a violência policial atual continue impune.
+
+
+================================================================================
+RESUMO DA EVOLUÇÃO DAS LENTES
+================================================================================
+
+v1.0 = CATEGORIAS ("qual teoria?")
+v2.0 = ARSENAL TÁTICO ("qual arma, qual mira?")
+v3.0 = INTELIGÊNCIA OPERACIONAL ("qual dado, qual produto?")
+v4.0 = EXPANSÃO ÓPTICA MÁXIMA ("qual ponto cego falta iluminar?")
+
+As 8 novas lentes fecham os últimos pontos cegos:
+  - DECOLONIAL: ilumina a PERSISTÊNCIA do racismo colonial
+  - TERMODINÂMICA: ilumina a FÍSICA da extração (entropia)
+  - INTERSECCIONAL: ilumina o CORPO que sofre multiplicadamente
+  - CIBERNÉTICA: ilumina os CIRCUITOS de auto-manutenção do sistema
+  - ATOR-REDE: ilumina a AGENCIA de vírus, rios e algoritmos
+  - PSICANALÍTICA: ilumina o GOZO na própria subjugação
+  - TOPOLÓGICA: ilumina a ARQUITETURA das conexões de poder
+  - ESPECTROLÓGICA: ilumina os FANTASMAS que ancora o presente
+
+Juntas, as 24 lentes oferecem VISÃO HOLOGRÁFICA com zoom infinito.
+
+
+================================================================================
+FIM — TEIA Framework v13.0 (EXPANSÃO ÓPTICA MÁXIMA)
+================================================================================
+Protocolo: TEIA-2026-060
+https://github.com/mouracleiton/TEIA
+
+51 dimensões × 24 lentes = 1224 perspectivas
+74 skills metodológicas
+10 níveis de profundidade do poder
+Protocolo de Qualidade: 32 itens
+
+A TEIA agora possui capacidade de disseccionar:
+  - A FÍSICA da opressão (Termodinâmica)
+  - A QUÍMICA do trauma intergeracional (Espectrológica/Epigenética)
+  - A GEOMETRIA oculta do tráfico de influências (Topológica)
+  - A ARQUITETURA colonial do racismo (Decolonial)
+  - O GOZO inconsciente na submissão (Psicanalítica)
+  - A AGENCIA de vírus e rios como atores políticos (ANT)
+  - Os LOOPS de auto-manutenção do sistema (Cibernética)
+  - O CORPO intersecional que sofre multiplicadamente (Interseccional)
+
+É um instrumento DEFINITIVO. Mais de MIL perspectivas de dissecação.
+
+================================================================================

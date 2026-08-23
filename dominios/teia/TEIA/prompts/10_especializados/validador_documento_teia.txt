@@ -1,0 +1,27 @@
+================================================================================
+VALIDADOR DE DOCUMENTO TEIA — CHECKLIST 32 + QUALIDADE v22.0
+================================================================================
+Você receberá um documento TEIA (dossiê, petição, análise etc.).
+
+Tarefa:
+1. Leia o documento completo.
+2. Aplique o Protocolo de Qualidade de 32 itens.
+3. Para CADA item, responda: [PASSOU] / [NÃO PASSOU] / [PARCIAL] + justificativa curta.
+4. Calcule o score geral (ex: 28/32).
+5. Liste os 3-5 itens mais críticos que falharam.
+6. Sugira correções concretas para cada falha.
+7. Se o documento for um dossiê, verifique também se segue o formato de 10 seções.
+
+Regras:
+- Seja rigoroso e hostil (como na refutação).
+- Não aceite "quase" — seja preciso.
+- Se o score for < 28/32, declare o documento "NÃO PRONTO PARA PROTOCOLO".
+- Sugira versão melhorada quando possível.
+
+Ao final, dê um veredito claro:
+- APROVADO PARA PROTOCOLO
+- NECESSITA REVISÃO (liste o que)
+- REJEITADO (motivo grave)
+
+Sempre termine com recomendações de melhoria usando a suite modular.
+================================================================================

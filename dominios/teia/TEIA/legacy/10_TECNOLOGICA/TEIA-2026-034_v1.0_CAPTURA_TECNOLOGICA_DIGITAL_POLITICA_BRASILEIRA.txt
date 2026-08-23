@@ -1,0 +1,1047 @@
+================================================================================
+TEIA — DIAGNÓSTICO MULTIDIMENSIONAL
+EIXO 5: CAPTURA TECNOLÓGICA E DIGITAL DA POLÍTICA BRASILEIRA
+================================================================================
+Como Big Tech, plataformas digitais e desinformação controlam o debate público
+================================================================================
+Protocolo: TEIA-2026-034
+Versão: v1.0
+Autor: Cleiton Moura — TEIA
+Data base: julho/2026
+================================================================================
+
+"Quem controla a infraestrutura digital de um país controla a sua política.
+ Quem controla os algoritmos controla a percepção. Quem controla os dados
+ controla o futuro. No Brasil de 2026, os três controles estão concentrados
+ em menos de dez empresas estrangeiras e em um Estado nacional que ainda não
+ aprendeu a ser soberano no digital."
+
+================================================================================
+SUMÁRIO EXECUTIVO — OS 12 NÚMEROS DA CAPTURA
+================================================================================
+
+1.  ~90%     — participação do Google no mercado brasileiro de busca
+2.  R$ 9,295 bi — gasto público brasileiro com Big Tech (jul/24-jun/25)
+3.  ~134,6 mi  — usuários de Instagram no Brasil (DataReportal 2024)
+4.  ~131 mi   — usuários do TikTok no Brasil (Datareportal 2025, 18+)
+5.  93,4%     — dos brasileiros online usam WhatsApp (Datareportal 2024)
+6.  R$ 376 mi — gasto com impulsionamento digital nas eleições 2022 (TSE)
+7.  22 pessoas — monitoradas pela "Abin paralela" (Operação Última Milha)
+8.  8 a 3     — placar do STF que tornou parcialmente inconstitucional art. 19
+                do Marco Civil (Temas 987 e 533, 26/jun/2025)
+9.  R$ 23 bi  — orçamento do Plano Brasileiro de IA (2024-2028)
+10. 63,5 bi   — transações Pix em 2024; recorde de 250,5 mi em um único dia
+11. 29 mi     — brasileiros sem acesso à internet (TIC Domicílios 2024)
+12. 90%       — dos chips/semicondutores consumidos pelo Brasil são importados
+
+================================================================================
+1. BIG TECH NO BRASIL — A INFRAESTRUTURA DA CAPTURA
+================================================================================
+
+------------------------------------------------------------------------
+1.1. GOOGLE (ALPHABET) — O MONOPÓLIO DA PERGUNTA
+------------------------------------------------------------------------
+PARTICIPAÇÃO DE MERCADO:
+- ~90% das buscas online no Brasil passam pelo Google.
+- Praticamente monopólio natural: ninguém "googla" no Bing.
+- O Google é, de fato, o portal de entrada da internet brasileira.
+
+FATURAMENTO/IMPACTO:
+- Google estima impacto econômico de R$ 188 bilhões no Brasil em 2023
+  (relatório próprio — número deve ser lido como auto-promocional).
+- Receita publicitária brasileira estimada em US$ 3-5 bi/ano (não
+  reportada separadamente pela Alphabet, mas estimada por analistas).
+- Google Brasil registrou receita de ~R$ 8 bi em 2023 (recolhimento
+  tributário proporcional — questão em disputa com Receita Federal).
+
+CAPTURA POLÍTICA:
+- Operação "Google subiu no telhado" (mai/2023): empresa usou sua
+  própria home page para mobilizar usuários contra o PL 2630 (Fake News)
+  — relator Orlando Silva chamou de "abuso de poder de mercado".
+- Lobby direto via Google Brasil, Google Public Policy e câmaras
+  americanas (AmCham).
+- Relação com governo Lula ambígua: PBIA (Plano Brasileiro de IA)
+  menciona Google Cloud e Gemini como parceiros potenciais.
+
+------------------------------------------------------------------------
+1.2. META (FACEBOOK/INSTAGRAM/WHATSAPP) — O TRIPÉ DA ATENÇÃO
+------------------------------------------------------------------------
+USUÁRIOS NO BRASIL (Datareportal 2024):
+- Facebook:        ~109 mi (caiu de ~140 mi em 2022; envelhecimento
+                   da base, migração para IG e TikTok)
+- Instagram:       ~134,6 mi (62% da população total do Brasil)
+- WhatsApp:        93,4% dos usuários online usam mensalmente
+                   — praticamente universal entre conectados
+- WhatsApp como "novo rádio": ~150 mi de contas ativas estimadas.
+
+POLARIZAÇÃO E EFEITOS:
+- Facebook foi epicentro do escândalo Cambridge Analytica (2018) que
+  afetou eleições de 2018 no Brasil.
+- WhatsApp é vetor PRINCIPAL de desinformação política brasileira
+  (v. seção 2.4).
+- Instagram Reels concorre diretamente com TikTok pela atenção de
+  18-34 anos — corrida que amplifica conteúdo extremo.
+
+LOBBY DA META NO BRASIL:
+- Meta Brasil mantém escritório em São Paulo desde 2014.
+- Gasto com lobby no Congresso: confidencial, mas existe registro
+  público de encontros com Mesa Diretora da Câmara e lideranças.
+- Meta é signatária de "acordos de cooperação" com TSE para eleições
+  2022, 2024 e 2026 (memorandos de entendimento).
+- Crítica recorrente: acordos são auto-regulatórios e sem sanção
+  real por descumprimento.
+
+------------------------------------------------------------------------
+1.3. BYTEDANCE (TIKTOK) — A NOVA FRONTEIRA DA ATENÇÃO
+------------------------------------------------------------------------
+USUÁRIOS:
+- 2024: Brasil era 3º maior mercado do mundo (atrás de EUA e Indonésia).
+- 2025: TikTok atingiu 131 mi de usuários 18+ no Brasil (Datareportal).
+- Anúncios alcançam 80% da população adulta — penetração inédita.
+- Idade média jovem: 60% dos usuários têm menos de 34 anos.
+
+EXPANSÃO PARA FINTECH:
+- 2024-2026: ByteDance busca licença BC para operar como instituição
+  financeira no Brasil (empréstimos, pagamentos via TikTok).
+- Estratégia de superapp: Lark + pagamento + conteúdo = WeChat chinês.
+- Risco regulatório: captura de dados financeiros de milhões de
+  brasileiros por empresa chinesa.
+
+CAPTURA POLÍTICA:
+- TikTok é centro do debate político para Geração Z (16-24).
+- Algoritmo "For You" é opaco — sem auditoria externa.
+- 2022 e 2024: candidatos investiram pesado em TikTok (impulsionamento
+  de conteúdo + influencers pagos).
+- Resolução TSE 23.732/2024 proíbe deepfakes e IA para conteúdo falso
+  — fiscalização sobre TikTok ainda frágil.
+
+------------------------------------------------------------------------
+1.4. MICROSOFT/AZURE — O DONO DA NUvem GOVERNAMENTAL?
+------------------------------------------------------------------------
+MARKET SHARE GLOBAL (2024):
+- AWS:        ~33%
+- Microsoft Azure: ~20%
+- Google Cloud:  ~10%
+- Juntas controlam ~63% do mercado mundial de cloud pública.
+
+PRESENÇA NO BRASIL:
+- Microsoft Azure: região Brazil South (São Paulo), Brazil Southeast.
+- Cliente estratégico: setor bancário (Itaú, Bradesco), varejo (Magalu),
+  saúde, governo.
+- Azure OpenAI Service: porta de entrada do ChatGPT/Copilot para o
+  setor público brasileiro.
+- Copilot M365 licenciado em dezenas de órgãos federais.
+
+CAPTURA ESTRATÉGICA:
+- Microsoft é parceira do PBIA (Plano Brasileiro de IA) via OpenAI.
+- Relação com Receita Federal, Serpro e BNDES é histórica.
+- Risco: dados sensíveis de cidadãos trafegando em infraestrutura
+  americana — LGPD permite transferência internacional, mas soberania
+  fica comprometida.
+
+------------------------------------------------------------------------
+1.5. AMAZON AWS — O BACKEND DA INTERNET
+------------------------------------------------------------------------
+- AWS é líder global e principal provedora de cloud para startups e
+  empresas brasileiras (Nubank roda em AWS, iFood, etc.).
+- AWS tem região em São Paulo desde 2011.
+- Netflix, Disney+, Max, Spotify Brasil — todos rodam em AWS.
+- Crítico: a maior parte do streaming de vídeo consumido no Brasil
+  está fisicamente fora do país.
+- AWS é provedora de alguns órgãos do governo federal via licitações.
+
+------------------------------------------------------------------------
+1.6. PLATAFORMAS NACIONAIS — MERCADO LIVRE E MAGALU
+------------------------------------------------------------------------
+MERCADO LIVRE:
+- Maior plataforma de e-commerce da América Latina.
+- 148 mi de usuários ativos.
+- Faturamento Brasil 2023: ~R$ 30 bi (estimado).
+- Dono do Mercado Pago — fintech com 30+ mi de contas brasileiras.
+- É empresa ARGENTINA com sede em Montevidéu — não é "nacional".
+
+MAGAZINE LUIZA (MGLU):
+- Faturamento 2023: R$ 43,3 bi.
+- "Magalu" é plataforma + logística + fintech (MagaluPay).
+- Tornou-se influencer virtual (Lu do Magalu: 30+ mi de seguidores).
+- Crise financeira 2023-2024: prejuízos consecutivos, reestruturação.
+
+CONCENTRAÇÃO DE MERCADO:
+- 6 maiores plataformas (Mercado Livre, Magalu, Shopee, Amazon,
+  Casas Bahia, Shein) concentraram 85,5% das vendas online em 2023.
+- E-commerce brasileiro: ~R$ 200 bi/ano.
+- SHOPEE (Singapura/Cina) e SHEIN (China) crescem agressivamente
+  — nova onda de captura estrangeira.
+
+------------------------------------------------------------------------
+1.7. LOBBY BIG TECH — "A MÃO INVISÍVEL"
+------------------------------------------------------------------------
+DADO INÉDITO (Investigação "Big Tech Files" / Agência Pública / ICCC 2024-25):
+- Quase 3.000 ações de lobby das Big Tech mapeadas em parlamentos e
+  governos de todo o mundo.
+- No Brasil: empresas usam think tanks, AmCham, Câmaras setoriais,
+  advogados de elite (Pinheiro Neto, Mattos Filho, Machado Meyer).
+- Articulação direta com Mesa Diretora da Câmara e lideranças do
+  Centrão (Lira, Bolsonaro família, Bancada Ruralista).
+- Tática principal: diluição/engavetamento de PLs regulatórios
+  (PL 2630, PL 2338, PL 2370).
+
+GASTO PÚBLICO COM BIG TECH (UOL Tilt, jul/2025):
+- De julho/2024 a junho/2025: R$ 9.295.329.648,01 gastos por
+  entidades públicas brasileiras em tecnologia.
+- Quase R$ 10 bi em 12 meses — dependência crítica.
+
+CASOS PARADIGMÁTICOS:
+- Google "subiu no telhado" (mai/2023): usou home page para sabotar
+  PL 2630. Investigado por TSE, multado em valores simbólicos.
+- Meta ameaçou tirar WhatsApp do Brasil por 3 vezes (2015, 2016,
+  2020) em resposta a decisões judiciais sobre quebra de sigilo.
+- TikTok ameaça: "poderemos suspender serviço" em casos de regulação.
+
+------------------------------------------------------------------------
+1.8. LGPD E ANPD — QUEM FISCALIZA OS DADOS?
+------------------------------------------------------------------------
+LGPD (Lei 13.709/2018):
+- Vigora desde setembro/2020; sanções desde agosto/2021.
+- Modelo europeu (GDPR-inspired).
+- 10 bases legais; 8 direitos do titular.
+
+ANPD — AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS:
+- Criada pela Lei 13.853/2019; inicialmente vinculada ao MJ.
+- 2024: MED (Medida Provisória 1.068/2021, convertida em Lei
+  14.737/2023) transformou ANPD em AUTARQUIA ESPECIAL.
+- Estrutura: Conselho Diretor (5 membros), Conselho Nacional de
+  Proteção de Dados Pessoais e da Privacidade (consultivo), Superin-
+  tendências técnicas, Ouvidoria, Corregedoria.
+- Diretora-presidente: Waldemar Gonçalves (renomeado em out/2023).
+
+PODER DE FISCALIZAÇÃO:
+- Multas: até 2% do faturamento, limitadas a R$ 50 mi por infração.
+- 2024-2025: primeiras multas reais aplicadas — fase "fiscalização"
+  substituiu fase "orientação" de 2021-2023.
+- Pequena empresa (faturamento R$ 1 mi/ano): multa até R$ 20 mil.
+- DPO (Encarregado) obrigatório para controllers de dados sensíveis.
+
+LIMITAÇÕES CRÍTICAS:
+- Quadro de pessoal insuficiente: ~140 servidores para fiscalizar
+  todo o mercado brasileiro (UE: mais de 1.000 só na Irlanda).
+- Orçamento anual ~R$ 70-100 mi — irrisório vs. faturamento Big Tech.
+- Sem poder de initio de investigação criminal (depende PF/MPF).
+- Não pode aplicar medidas estruturais (break-up de plataformas).
+- Em 2024-25, ANPD publicou análise crítica do PL 2338 pedindo
+  fortalecimento — mas os instrumentos legais continuam limitados.
+
+================================================================================
+2. DESINFORMAÇÃO ELEITORAL — A ARMA DA CAPTURA COGNITIVA
+================================================================================
+
+------------------------------------------------------------------------
+2.1. "GABINETE DO ÓDIO" E ABIN PARALELA — OPERAÇÕES DOCUMENTADAS
+------------------------------------------------------------------------
+GABINETE DO ÓDIO (2019-2022):
+- Estrutura informal no Planalto coordenando ataques digitais a
+  adversários de Bolsonaro.
+- Integrantes: Carlos Bolsonaro, Eduardo Bolsonaro, deputados aliados,
+  bloggers e influenciadores pagos com dinheiro público (secretárias
+  parlamentares, "rasga-rasga digital").
+- Tática: difamação de ministros do STF, jornalistas, médicos durante
+  a pandemia, governadores que adotaram lockdown.
+
+ABIN PARALELA — OPERAÇÃO ÚLTIMA MILHA (PF, 2023-2024):
+- Ex-diretor da ABIN Alexandre Ramagem e servidores usaram sistema
+  FirstMile (geolocalização de celulares) para monitorar ILEGALMENTE:
+  - 22 pessoas: ministros do STF (Moraes, Fachin), parlamentares
+    (Randolfe, Jean Wyllys em exílio), jornalistas (Conrado Heoli,
+    Mário Magro), advogados, figuras políticas.
+- Operação desarticulou organização criminosa em 11/jul/2024:
+  - 5 mandados de prisão, 7 de busca e apreensão (Brasília, Curitiba,
+    Juiz de Fora, Salvador, São Paulo).
+  - Tática integrada com gabinete do ódio: dados de ABIN alimentavam
+    ataques digitais.
+- Bolsonaro e Ramagem foram alvos posteriores; Bolsonaro foi condenado
+  em 2025 (CPI do 8 de Janeiro + Inquérito das Fake News).
+
+CONSEQUÊNCIAS JURÍDICAS:
+- Bolsonaro: inelegível até 2030 (TSE, junho/2023, por abuso de
+  poder político + uso indevido dos meios de comunicação).
+- Ramagem: respondendo a múltiplos processos criminais.
+- Modelo: privatização da inteligência estatal para fins eleitorais.
+
+------------------------------------------------------------------------
+2.2. GASTO DIGITAL NAS ELEIÇÕES — A NOVA MÍDIA PAGA
+------------------------------------------------------------------------
+ELEIÇÕES PRESIDENCIAIS 2022:
+- R$ 376 milhões gastos em impulsionamento digital (TSE).
+- Concentrados em: Google Ads, Facebook/Instagram Ads, YouTube,
+  TikTok (em menor escala).
+- PT e PL foram responsáveis por ~80% do gasto digital.
+
+ELEIÇÕES MUNICIPAIS 2024:
+- TSE não consolidou número único, mas estimativas indicam gasto
+  superior a R$ 500 milhões com impulsionamento digital.
+- Prefeituras de capitais investiram pesado em TikTok e Instagram.
+- Novos influencers (apolíticos declarados) pagos para fazer campanha
+  indireta — estratégia de "lavagem" de propaganda.
+
+ELEIÇÕES 2026 — PROJEÇÃO:
+- TSE assinou (jan/2026) memorandos de entendimento com Google,
+  Meta, TikTok, Twitter/X, Kwai, Spotify para combater desinformação.
+- Gasto digital previsto: R$ 800 mi a R$ 1 bi (estimativa TEIA).
+- Resolução TSE 23.732/2024 regulamenta IA (proíbe deepfakes,
+  exige identificação de IA em propagandas).
+
+------------------------------------------------------------------------
+2.3. BOTS E CONTAS FALSAS — COMO OPERAM
+------------------------------------------------------------------------
+ESTRUTURA TÍPICA DE UMA FAZENDA DE BOTS:
+- 500-2.000 celulares conectados a um servidor central.
+- Software automatiza curtidas, comentários, retweets, compartilha-
+  mentos no WhatsApp.
+- Preço de conta falsa: US$ 0,07 (sete centavos de dólar).
+- Mercado negro cresce 12-15% nos 30 dias antes de eleições nacionais.
+
+TÉCNICAS:
+1. Coordenação comportamental artificial: milhares de contas
+   publicam mesma mensagem em janela de 1-2 horas.
+2. Astroturfing: criar aparência de movimento popular espontâneo.
+3. Trending topics manipulados: empurrar hashtags para Trends.
+4. Flooding: inundar resposta de adversário com replies negativos.
+5. Amplificação cruzada: bots enxamecem post de influencer aliado.
+
+CASOS BRASILEIROS DOCUMENTADOS:
+- 2018: Gabinete do ódio + empresas de PR + assessores parlamentares.
+- 2022: STF identificou 16 grupos no Telegram com plano de golpe
+  (oriundos de desinformação eleitoral).
+- 2024: prefeituras municipais contrataram "assessorias de marketing
+  digital" que operavam fazendas de bots.
+- Stanford Internet Observatory, Graphika, e Brazil's NETLab (USP)
+  documentaram pelo menos 7 redes removidas pelo Twitter/Meta entre
+  2020-2024 associadas a atores brasileiros.
+
+BARROSO (ex-presidente TSE): "Contas falsas e bots serão o maior
+problema das eleições" (2022,前瞻性).
+
+------------------------------------------------------------------------
+2.4. WHATSAPP COMO VETOR DE DESINFORMAÇÃO
+------------------------------------------------------------------------
+O VETOR PRINCIPAL:
+- 93,4% dos brasileiros online usam WhatsApp mensalmente.
+- 87% dos usuários usam WhatsApp como principal fonte de notícias
+  (Reuters Digital News Report 2024).
+- Por ser criptografado ponta-a-ponta, é impossível auditar.
+- ~47% dos brasileiros compartilham notícias via apps de mensagem
+  (Reuters DNR 2024).
+
+POR QUE WHATSAPP É TÃO EFICIENTE PARA DESINFORMAÇÃO:
+1. Confiança interpessoal: chega via família/amigos.
+2. Velocidade viral: mensagens encaminhadas milhares de vezes.
+3. Ausência de moderação: nada entre o emissor e o receptor.
+4. Anonimato de origem: quem criou a mensagem é impossível rastrear.
+5. Sem metadados públicos: não dá para investigar disseminação.
+
+LIMITAÇÕES TÉCNICAS DA META:
+- 2018: Meta limitou encaminhamento para 20 contatos; depois 5.
+- 2020: WhatsApp Business integrado a campanhas oficiais.
+- 2022: Meta removeu 3 milhões de contas brasileiras por spam.
+- Persiste: conteúdo político falso circula em grupos privados
+  sem que a plataforma tenha qualquer visibilidade.
+
+ESTRATÉGIA ELEITORAL:
+- "WhatsApp é o novo comício" — estratégia central de campanhas
+  desde 2018.
+- Estrutura típica: coordinadores regionais → coordenadores locais
+  → multiplicadores (líderes de grupo) → eleitores.
+- Mensagens diárias ("cartilhas") distribuídas às 7h, 12h, 19h.
+
+------------------------------------------------------------------------
+2.5. FAKE NEWS SOBRE URNA ELETRÔNICA
+------------------------------------------------------------------------
+PRINCIPAIS NARRATIVAS FALSAS (2020-2024):
+1. "Urna pode ser hackeada" — nunca comprovado em 30+ auditorias.
+2. "TSE destrói urnas para esconder fraude" — falso; urnas com
+   vida útil exaurida são recicladas (verificação TSE).
+3. "Código fonte é secreto" — falso; TSE disponibiliza para partidos.
+4. "Voto impresso é mais seguro" — Barroso: "fraude havia com voto
+   impresso; urna eliminou fraudes regionais históricas".
+5. "Urna ligada ao 5G/Huawei" — falso; urna não tem conectividade.
+6. "Paralelo entre Maduro e Lula" — descontextualização.
+7. "Poderia haver fraude via satélite" — falso; urnas não se conectam.
+
+ORIGEM DOCUMENTADA:
+- Núcleo bolsonarista + think tanks americanos conservadores.
+- Amplificação por influencers pagos e políticos.
+- Influência estrangeira documentada: Steve Bannon, Mike Lindell,
+  redes americanas Trumpistas ajudaram a exportar narrativas.
+
+CONSEQUÊNCIAS:
+- Inquérito das Fake News (STF): 16 pessoas denunciadas criminalmente.
+- Bolsonaro condenado por usar fake news para atacar sistema eleitoral.
+- Atos de 8 de janeiro/2023: invasão das sedes dos Três Poderes
+  motivada, em grande parte, por crença em fraude inexistente.
+
+------------------------------------------------------------------------
+2.6. RESOLUÇÕES TSE — O ARCABOUÇO ELEITORAL DIGITAL
+------------------------------------------------------------------------
+RESOLUÇÃO TSE 23.610/2019:
+- Base da propaganda eleitoral na internet.
+- Define: sites, blogs, redes sociais, apps de mensagem.
+- Veda: anonimato, falsa atribuição, bots.
+
+RESOLUÇÃO TSE 23.732/2024 (27/fev/2024):
+- Atualiza a 23.610 para 2024 e seguintes.
+- INÉDITO: regula uso de IA na propaganda eleitoral.
+  - PROIBE deepfakes (áudio/vídeo sintético de candidato).
+  - PROIBE chatbots que simulem candidato sem identificação clara.
+  - EXIGE identificação "IA" ou "GERADO POR IA" em todos os
+    conteúdos sintéticos.
+- Previsão: retirada de conteúdo em 2 horas após notificação TSE.
+- Multa: até R$ 100 mil por infração, podendo dobrar em reincidência.
+
+OBSERVAÇÕES:
+- Não há correspondente direto à "Resolução 148/2024" citada na
+  demanda original — trata-se provavelmente de confusão com:
+  - Resolução TSE 23.732/2024 (propaganda)
+  - Resolução CNJ ou Resolução TSE específica para 2026 (a 23.733
+    ou posterior)
+- O arcabouço eleitoral digital está consolidado na Res. 23.610/19
+  alterada pela Res. 23.732/24.
+- 2026: TSE aprovou calendário (Resolução 23.733/2026) e firmou
+  memorandos com Big Techs (16/jan/2026).
+
+================================================================================
+3. ALGORITMOS E POLARIZAÇÃO — A ENGENHARIA DO ÓDIO
+================================================================================
+
+------------------------------------------------------------------------
+3.1. COMO ALGORITMOS AMPLIFICAM O EXTREMO
+------------------------------------------------------------------------
+PRINCÍPIO ECONÔMICO:
+- Plataformas vendem ATENÇÃO → Atenção é maior com emoções fortes →
+  Raiva, medo e indignação geram mais engajamento que informação.
+- Algoritmo de recomendação é otimizado para tempo de tela (retenção).
+- Conteúdo polarizador retém mais — então é amplificado.
+
+MECANISMOS IDENTIFICADOS:
+1. Recommendation feeds (YouTube, TikTok): recomendam conteúdo mais
+   "engajador", frequentemente mais extremo que o original.
+2. Engagement-based ranking (Facebook, Instagram): prioriza posts
+   com muitas reações — polarização gera reações.
+3. Echo chambers: algoritmo mostra conteúdo que confirma crença
+   prévia; usuário nunca vê contra-argumento.
+4. Microtargeting: anúncios políticos direcionados a subgrupos
+   específicos com mensagens sob medida — opaco e segmentado.
+
+PESQUISA CONSOLIDADA (Revista piauí, "O algoritmo da ágora"):
+- YouTube brasileiro privilegia vídeos polêmicos.
+- "Isso acaba favorecendo ideologias e pensamentos mais heterodoxos"
+  (entrevistado da indústria do YouTube, piauí #160).
+- Após pressão, YouTube Brasil reduziu recomendação de vídeos
+  "borderline" em 2020, mas efeito é limitado.
+
+------------------------------------------------------------------------
+3.2. YOUTUBE BRASIL — 2º MAIOR MERCADO MUNDIAL
+------------------------------------------------------------------------
+DADOS:
+- Brasil é o 2º maior mercado do YouTube no mundo (atrás apenas de
+  Índia; 3º EUA).
+- ~120 milhões de usuários brasileiros ativos mensais.
+- 90% dos brasileiros online acessam YouTube mensalmente.
+- Tempo médio diário: 30-45 minutos.
+
+YOUTUBE COMO MÍDIA:
+- Canais como Terça Livre, Conexão Política, Brasil Paralelo,
+  Pampe, Painel Pessoal tornaram-se contrapoderes midiáticos.
+- YouTubers políticos: identificar 50+ com mais de 1 mi de
+  inscritos — alguns com mais de 5 mi.
+- Polarização: existe YouTube de esquerda (Esquerda Online, Brasil
+  247) e YouTube de direita (Canal do Sávio, Terça Livre), raramente
+  dialogam.
+
+CICLO DE RADICALIZAÇÃO DOCUMENTADO:
+- Usuário entra por vídeo moderado → algoritmo recomenda vídeo mais
+  extremo → recommends cada vez mais extremos → bolha consolidada.
+- Estudos académicos (USP, UFMG, UFRGS) confirmaram padrão no Brasil.
+
+------------------------------------------------------------------------
+3.3. ECHO CHAMBER NA POLÍTICA BRASILEIRA
+------------------------------------------------------------------------
+EFEITOS PRÁTICOS (2022-2026):
+- 60% dos brasileiros relatam ter deixado de falar com familiar ou
+  amigo por divergência política (Datafolha 2023).
+- 80% dos eleitores de Lula e 75% dos de Bolsonaro NÃO têm amigos
+  políticos do outro lado (Datafolha 2022).
+- Impeachment de Yazbek (2020): circulação de desinformação.
+- Eleições 2022: nenhum debate televisionado teve peso comparável
+  ao debate em redes sociais.
+- 8 de Janeiro/2023: motivado por ecos em bolhas fechadas.
+
+ECHO CHAMBER E DEMOCRACIA:
+- Sem espaço público compartilhado, democracia representativa
+  perde base comum de fatos.
+- Polarização afetiva (não apenas ideológica): "o outro é inimigo".
+- Estudos do Latinobarómetro 2023-24 mostram confiança em democra-
+  cia caindo de 51% (2018) para 38% (2024) no Brasil.
+
+------------------------------------------------------------------------
+3.4. MARCO CIVIL DA INTERNET (LEI 12.965/2014) — INSUFICIENTE?
+------------------------------------------------------------------------
+O QUE O MARCO CIVUL REGULA:
+- Neutralidade de rede (Art. 9º).
+- Responsabilidade de plataformas (Art. 19): só respondem se
+  descumprirem ordem judicial de remoção.
+- Privacidade (Art. 7º): inviolabilidade de comunicação, dados
+  pessoais, retenção de logs.
+- Liberdade de expressão, uso comercial, aplicação na jurisdição
+  brasileira.
+
+LIMITAÇÕES CRÍTICAS:
+1. Art. 19 foi pedestal de impunidade: plataformas não removiam
+   conteúdo sem ordem judicial, mesmo em casos graves.
+2. Não regula algoritmos de recomendação.
+3. Não regula IA generativa.
+4. Não prevê dever de transparência algorítmica.
+5. Não cria autoridade reguladora específica para plataformas.
+
+JULGAMENTO HISTÓRICO STF (26/JUN/2025) — TEMAS 987 E 533:
+- Por 8 votos a 3, STF declarou PARCIALMENTE INCONSTITUCIONAL o
+  art. 19 do Marco Civil.
+- Tese: plataformas PODEM ser responsabilizadas civilmente por
+  conteúdos de terceiros SEM ordem judicial prévia, em casos de:
+  - Conteúdos ilícitos em si (não apenas por ordem judicial).
+  - Violação de direitos da personalidade.
+  - Plataforma teve conhecimento efetivo (notificação) e não agiu.
+- DECRETOS 12.975 E 12.976 (20/mai/2026) regulamentaram a decisão.
+- MARCO: fim do porto seguro absoluto no Brasil — plataformas agora
+  têm dever de cuidado (duty of care).
+
+------------------------------------------------------------------------
+3.5. LEI DE IA — STATUS E CONTEÚDO
+------------------------------------------------------------------------
+PL 2338/2023 — MARCO LEGAL DA INTELIGÊNCIA ARTIFICIAL:
+ORIGEM: Comissão Jurídica de Inteligência Artificial do Senado
+(CJSUBIA, 2022-2023); anteprojeto virou PL por Rodrigo Pacheco.
+RELATOR: Eduardo Gomes (PL-TO) na Comissão Temporária Interna.
+APROVAÇÃO SENADO: dezembro/2024, UNANIMIDADE.
+CÂMARA DOS DEPUTADOS: em tramitação 2026; forte lobby contrário.
+
+CONTEÚDO DO SUBSTITUTIVO (modelo baseado em risco, inspirado no EU
+AI Act):
+1. SISTEMAS PROIBIDOS (risco inaceitável):
+   - Social scoring por governos.
+   - Manipulação subliminar.
+   - Biometria em tempo real para aplicação da lei (com exceções
+     estritas).
+   - Exploit de grupos vulneráveis.
+2. ALTO RISCO (fortemente regulados):
+   - Biometria remota (não tempo real).
+   - Sistemas de crédito, contratação, educação.
+   - Componentes de segurança de produtos (médicos, veiculares).
+   - Aplicação da lei, migração, justiça.
+   - Obrigações: avaliação de impacto, governança, registro, log,
+     supervisão humana, robustez, transparência.
+3. RISCO MODERADO/BAIXO:
+   - Chatbots: obrigação de informar que é IA.
+   - Deepfakes: obrigação de identificação.
+4. DIREITOS DAS PESSOAS AFETADAS:
+   - Direito de explicação de decisões automatizadas.
+   - Direito de contestação.
+   - Direito de intervenção humana.
+5. AUTORIDADE SUPERVISORA:
+   - Sistema multisetorial (não só ANPD); ANPD coordena.
+6. SANÇÕES:
+   - Multa até R$ 50 mi ou 2% faturamento (o que for menor).
+   - Suspensão de serviço.
+
+OBSERVAÇÃO CRÍTICA: PL 2338 NÃO CRIA dever de licença prévia para
+IA generativa (ao contrário do EU AI Act para modelos sistêmicos).
+Lobby da OpenAI e Google atuou fortemente para suavizar texto.
+
+================================================================================
+4. SOBERANIA DIGITAL — A DEPENDÊNCIA ESTRUTURAL
+================================================================================
+
+------------------------------------------------------------------------
+4.1. DEPENDÊNCIA DE TECNOLOGIA ESTRANGEIRA
+------------------------------------------------------------------------
+SEMICONDUTORES (CHIPS):
+- Brasil importa ~90% dos chips que consome.
+- Taiwan (TSMC) e China concentram fabricação global.
+- EUA (Intel, NVIDIA) dominam design; Países Baixos (ASML),
+  equipamentos de litografia.
+- Tensão EUA-China-Taiwan: risco de disrupção de cadeia.
+- Iniciativa USP PocketFab (2026): microfábrica portátil, meta de
+  60 mi de chips/ano — ainda incipiente.
+
+INTELIGÊNCIA ARTIFICIAL:
+- 100% dos LLMs de ponta usados no Brasil são estrangeiros:
+  GPT (OpenAI/EUA), Claude (Anthropic/EUA), Gemini (Google/EUA),
+  Llama (Meta/EUA), Qwen (Alibaba/China), DeepSeek (China),
+  GLM (Zhipu/China), Ernie (Baidu/China).
+- PBIA 2024 prevê R$ 23 bi (2024-2028) para IA nacional — mas
+  grande parte vai para aquisição de APIs estrangeiras e
+  fine-tuning de modelos americanos.
+- Plano foi criticado (Le Monde Diplomatique Brasil, jun/2025)
+  por incluir "menções positivas a OpenAI" sem consulta ampla
+  à sociedade civil.
+
+CLOUD (INFRAESTRUTURA):
+- AWS, Azure, Google Cloud = 63% do mercado global.
+- Startups brasileiras rodam majoritariamente em AWS.
+- Bancos: Itaú tem cloud própria híbrida; Bradesco = Azure;
+  Nubank = AWS majoritariamente.
+
+SOFTWARE:
+- Sistema operacional mobile: Android (Google) = 85% do mercado BR;
+  iOS (Apple) = 14%.
+- Desktop: Windows (Microsoft) >85%; macOS (Apple) ~10%.
+- Aplicativos de produtividade: Microsoft 365 domina setor público.
+
+------------------------------------------------------------------------
+4.2. GOV.BR — A PLATAFORMA NACIONAL E SEU BACKEND
+------------------------------------------------------------------------
+O QUE É GOV.BR:
+- Plataforma única de serviços digitais do governo federal.
+- Lançada em 2019; consolidada na pandemia (auxílio emergencial).
+- 2024: 145+ mi de contas (cadastro único).
+- Integra: Receita Federal, INSS, SUS, Detrans, Carteira de Trabalho
+  Digital, CNH Digital, passaporte, etc.
+
+INFRAESTRUTURA — A NUVEM DE GOVERNO:
+- Acordos de Cooperação Técnica (nov/2024):
+  - ACT 142/2024 — SERPRO.
+  - ACT 141/2024 — DATAPREV.
+- Portaria SGD/MGI 5.950/2023 instituiu "Nuvem de Governo".
+- Objetivo declarado: autonomia tecnológica nacional, integridade
+  e segurança das informações, privacidade dos cidadãos.
+- INFRA REAL: mistura Serpro + Dataprev (on-premise + cloud privada
+  estatal) + ainda依赖AWS/Azure para workloads específicos.
+
+DADOS DOS CIDADÃOS:
+- ~145 mi de brasileiros com conta gov.br.
+- Incluem: CPF, RG, biometria, dados tributários, saúde (SUS),
+  previdenciários, eleitorais, trânsito.
+- LOCALIZAÇÃO: majoritariamente em datacenters Serpro (Brasília,
+  São Paulo, Rio) — predominantemente nacionais.
+- EXCEÇÕES: alguns sistemas setoriais ainda rodam em cloud
+  estrangeira (especialmente Azure e AWS) por questão de capacidade
+  ou especialização.
+
+AVALIAÇÃO:
+- POSITIVO: gov.br é avanço real de soberania digital — cidadão
+  brasileiro tem identidade digital unificada, acessível.
+- NEGATIVO: dependência parcial persiste; segurança da informação
+  ainda tem episódios críticos (vazamentos documentados 2021-2024).
+- RISCO: gov.br centraliza tantos dados que se torna alvo
+  estratégico para ataques estatais (Rússia, China, EUA).
+
+------------------------------------------------------------------------
+4.3. DREX E PIX — SOBERANIA MONETÁRIA DIGITAL
+------------------------------------------------------------------------
+PIX — SUCESSO HISTÓRICO:
+- Lançado em 16/nov/2020 (Banco Central).
+- 2024: 63,5 bilhões de transações anuais.
+- Recorde diário: 250,5 mi de transações em 6/dez/2024.
+- Volume financeiro recorde: R$ 124,3 bi em um único dia.
+- 5 anos: mais de 60 bi de transações/ano.
+- Inclusão financeira: antes do Pix, 77 mi de brasileiros no sistema
+  financeiro tradicional; hoje ~155 mi (dobrou).
+- Pix é INTEIRAMENTE nacional: infraestrutura do BC, regras do BC.
+
+PIX COMO SOBERANIA:
+- Primeiro sistema de pagamento instantâneo de massa do mundo.
+- Referência global (BIS, FMI reconhecem).
+- Reduziu custo de transação, eliminou spread bancário em
+  transferências.
+- Ameaça estratégica a: Visa, Mastercard, bandeiras tradicionais.
+
+DREX — O REAL DIGITAL — STATUS 2025-2026:
+- Anunciado em 2022 como "Real Digital" (CBDC).
+- Fase piloto: 36 propostas, mais de 100 instituições financeiras.
+- 2024: BC rebatizou para "Drex".
+- SETEMBRO/2025: Valor Econômico reportou "Drex encolhe, abandona
+  real digital e foca em gravame".
+- NOVEMBRO/2025: BC anunciou FIM do projeto Drex (real digital)
+  na forma original — projeto migrado para plataforma de
+  tokenização de ativos sem CBDC.
+
+LEITURA CRÍTICA:
+- Drex original teria sido instrumento de soberania monetária digital.
+- Recuo foi resultado de: lobby bancário (bancos não queriam
+  desintermediação), complexidade técnica, pressão internacional.
+- LIÇÃO: Brasil teve vitória parcial no Pix, retrocesso no Drex.
+- Perspectiva: CBDCs chinesa (e-Yuan) e indiana (e-Rupee) avançam;
+  Brasil fica para trás neste frente.
+
+------------------------------------------------------------------------
+4.4. CONECTIVIDADE E EXCLUSÃO DIGITAL
+------------------------------------------------------------------------
+5G — LEILÃO E COBERTURA:
+- Leilão 5G Anatel: 4/nov/2021.
+- Vencedoras principais lotes: Claro, Vivo (Telefônica), TIM.
+- Faixas leiloadas: 700 MHz, 2,3 GHz, 3,5 GHz, 26 GHz.
+- Compromissos: cobertura de todas as sedes municipais até 2031.
+- 2024: 5G presente em capitais e principais cidades (~600 cidades).
+- 2026: cobertura em expansão, mas Norte/Nordeste ainda subatendidas.
+- Novo leilão faixa 700 MHz (2025) visa cidades menores e estradas.
+
+CONTRADIÇÃO:
+- 5G nas capitais, mas 20 milhões de brasileiros SEM ACESSO a 4G
+  (Anatel, 2024).
+- TIC Domicílios 2024 (Cetic.br):
+  - ~85% dos lares brasileiros têm acesso à internet (subiu de
+    13% em 20 anos).
+  - 29 milhões de brasileiros AINDA estão desconectados.
+  - Norte e Nordeste têm penetração bem menor.
+  - 22% têm acesso a computador em casa (só 1 em cada 5).
+  - Classes DE: 40% sem internet em casa.
+
+EXCLUSÃO DIGITAL — TRÊS PILARES (Viva o Linux, 2024):
+1. Acesso a hardware (computador/celular adequado).
+2. Qualidade da conexão (banda larga vs 3G precário).
+3. Letramento informacional (saber usar, identificar fake news).
+
+EFEITO POLÍTICO:
+- Exclusão digital = exclusão cívica.
+- Quem não está online não debate; quem está online é capturado por
+  algoritmos das Big Tech.
+- 29 milhões sem internet = 14% da população fora do debate público
+  digital.
+
+================================================================================
+5. REGULAÇÃO PROPOSTA — O QUE ESTÁ EM JOGO
+================================================================================
+
+------------------------------------------------------------------------
+5.1. MARCO CIVIL DA IA (PL 2338/2023) — STATUS E LOBBY
+------------------------------------------------------------------------
+STATUS (julho/2026):
+- Aprovado no Senado (dez/2024, unanimidade).
+- Na Câmara: em tramitação. Comissão Temporária Interna ativa.
+- Expectativa de votação: 2º semestre 2026.
+- Pressão contrária: AmCham, Google, Meta, OpenAI, Microsoft.
+
+CONTEÚDO ESSENCIAL (v. seção 3.5):
+- Abordagem baseada em risco.
+- Direitos das pessoas afetadas.
+- Obrigações para sistemas de alto risco.
+- Proibição de práticas inaceitáveis.
+- Sanções até R$ 50 mi.
+
+DEBATES EM ABERTO:
+- Direito à explicação (inversão do ônus da prova proposta).
+- Aplicação a modelos de IA generativa (foundation models).
+- Autoridade supervisora: ANPD coordena, mas sistema multisetorial.
+- Inovação vs regulação (debate clássico).
+
+------------------------------------------------------------------------
+5.2. REGULAÇÃO DE PLATAFORMAS — EQUIVALENTE DA DSA EUROPEIA
+------------------------------------------------------------------------
+ESTADO ATUAL:
+- BRASIL NÃO TEM lei equivalente à Digital Services Act (DSA) da UE.
+- A DSA europeia (vigente desde 2024) obriga plataformas a:
+  - Transparência algorítmica.
+  - Avaliação de risco sistêmico.
+  - Auditoria externa.
+  - Remoção rápida de conteúdo ilícito.
+  - Proibição de microtargeting com dados sensíveis.
+  - Acesso a dados para pesquisadores.
+
+NO BRASIL:
+- PL 2630/2020 (PL das Fake News): ARQUIVADO em abr/2024 por
+  Arthur Lira ("engavetado"). Criado GT para discutir novo texto —
+  nunca foi a voto.
+- PL 2370/2019 (Direitos Autorais): prevê remuneração de jornais
+  e artistas por uso de conteúdo. Lobby Big Tech (Google, Meta)
+  conseguiu engavetar.
+- PL 295/2025: veda monetização de perfil social de agente público
+  (caso dos Bolsonaro) — em tramitação.
+
+JULGAMENTO STF (26/JUN/2025) — O "SUBSTITUTO" DA DSA:
+- STF criou, por via judicial, regime de responsabilidade civil de
+  plataformas (Temas 987 e 533).
+- Plataformas respondem mesmo sem ordem judicial em certos casos.
+- Decretos 12.975 e 12.976 (maio/2026) regulamentaram.
+- Mas: não há equivalente completo da DSA. Faltam:
+  - Dever de transparência algorítmica.
+  - Auditoria externa.
+  - Acesso a dados para pesquisa.
+  - Proibição de microtargeting.
+
+O QUE FALTA (AGENDA MÍNIMA):
+1. PL específico de plataformas (novo PL 2630 ou substitutivo).
+2. Transparência obrigatória de algoritmos políticos.
+3. Proibição de microtargeting eleitoral com dados sensíveis.
+4. Dever de auditoria anual pública.
+5. Acesso regulado para pesquisa académica.
+
+------------------------------------------------------------------------
+5.3. ANPD — TEM PODER SUFICIENTE?
+------------------------------------------------------------------------
+SITUAÇÃO INSTITUCIONAL:
+- ANPD virou autarquia especial em 2024 (Lei 14.737/2023).
+- Diretoria com mandato fixo (5 membros).
+- Conselho Nacional (consultivo).
+- Superintendências técnicas.
+- 2024-2025: amadurecimento institucional (Mayer Brown, 2025).
+
+PODERES EFETIVOS:
+- MULTAS: até 2% do faturamento, limite R$ 50 mi por infração.
+- 2024-25: primeiras multas reais aplicadas.
+- COMUNICAÇÃO internacional: ativa em redes globais (GPEN, OECD).
+
+LIMITAÇÕES REAIS:
+- Quadro de pessoal: ~140 servidores (UE tem 1.000+ na Irlanda).
+- Orçamento: ~R$ 70-100 mi/ano (irrisório vs. Big Tech).
+- Sem poder de investigação criminal (depende PF/MPF).
+- Sem poder de break-up estrutural.
+- Sem poder regulatório sobre plataformas (sobre dados, sim).
+- Em PL 2338: ANPD coordena sistema IA, mas sem monopólio.
+
+O QUE FALTA:
+- Triplicação de quadro e orçamento.
+- Poder de initio de investigação criminal.
+- Mandato claro sobre algoritmos.
+- Mandato claro sobre transparência de plataformas.
+
+------------------------------------------------------------------------
+5.4. TAXAÇÃO DE BIG TECH — O IMPOSTO QUE NÃO VEM
+------------------------------------------------------------------------
+DEBATE:
+- 2024: Receita Federal e MF começaram a discutir "tributação digital".
+- 2025: governo Lula engavetou proposta após pressão de Trump
+  (ameaças tarifárias, "Brazil Suspende Tributação das Big Techs"
+  jul/2025).
+- Modelo discutido: CIDE (Contribuição de Intervenção no Domínio
+  Econômico) sobre serviços digitais — estimativa de arrecadação
+  R$ 5-10 bi/ano.
+
+OBSTÁCULOS:
+- Big Techs não têm CNPJ operacional significativo no Brasil —
+  facturam via paraísos fiscais (Irlanda, Holanda, Bermudas).
+- Tributação requer treatises internacionais (OECD Pilar 1 e Pilar 2).
+- Pressão geopolítica EUA (Trump ameaçou tarifas em 2025).
+- Congresso brasileiro é capturado por interesses do setor.
+
+COMPARATIVO INTERNACIONAL:
+- UE: Digital Services Tax vigente; GAFA pagam ~3% adicional.
+- Reino Unido: 2% sobre receita digital.
+- França: 3%.
+- Índia: Equalisation Levy 6%.
+- Brasil: 0% (suspendeu proposta em 2025).
+
+CUSTO DA OMISSÃO:
+- Google Brasil recolhe pouco IR sobre faturamento publicitário
+  (US$ 3-5 bi estimado).
+- Meta Brasil tem estrutura mínima (escritório SP).
+- TikTok Brasil tem poucos funcionários formais.
+- Estimativa TEIA: perda anual R$ 8-15 bi em arrecadação.
+
+================================================================================
+6. MAPEAMENTO DOS ATORES — QUEM É QUEM
+================================================================================
+
+------------------------------------------------------------------------
+6.1. ATORES DA CAPTURA (LADO PRIVADO)
+------------------------------------------------------------------------
+BIG TECH PRINCIPAIS NO BRASIL:
+- Alphabet/Google Brasil — busca + cloud + ads + Android.
+- Meta Brasil — Facebook, Instagram, WhatsApp.
+- ByteDance Brasil — TikTok + Lark + busca fintech.
+- Microsoft Brasil — Azure + Microsoft 365 + Copilot + OpenAI.
+- Amazon Web Services Brasil — cloud.
+- Apple Brasil — iPhone, App Store, iCloud (taxa 30%).
+- Netflix Brasil — streaming.
+- Uber Brasil — transporte.
+- iFood (Brasil) — delivery (recursos: Movile, SoftBank).
+
+PLATAFORMAS NACIONAIS/Estrangeiras em ascendência:
+- Mercado Livre (Argentina/Uruguai) + Mercado Pago.
+- Magazine Luiza (nacional) + MagaluPay.
+- Shopee (Singapura/China).
+- Shein (China).
+- Americanas (em recuperação judicial).
+
+THINK TANKS E ARTICULAÇÃO:
+- AmCham (Câmara Americana de Comércio).
+- Brasscom (association de TI).
+- Abranet (associação de provedores).
+- InternetLab (advocacia digital progressista).
+- ITS Rio (inovação política).
+- Banco Mundial/FMI — pressão por políticas de mercado.
+
+------------------------------------------------------------------------
+6.2. ATORES DA RESISTÊNCIA (LADO PÚBLICO E CIVIL)
+------------------------------------------------------------------------
+ESTADO:
+- ANPD (autarquia).
+- CGI.Br (Comitê Gestor da Internet no Brasil).
+- Cgu (Controladoria-Geral da União).
+- TSE (justiça eleitoral).
+- STF (Corte Constitucional).
+- Senado Federal — CPIs, PL 2338, comissões temporárias.
+- Câmara dos Deputados — frequentemente capturada.
+- Banco Central — Pix, regulação financeira.
+- Anatel — telecomunicações.
+- AESPI (Agência Espacial Brasileira) — soberania espacial.
+- Serpro/Dataprev — empresas públicas de TI.
+
+SOCIEDADE CIVIL:
+- Article 19 Brasil (liberdade de expressão).
+- InternetLab (pesquisa jurídica).
+- ITS Rio (tecnologia e sociedade).
+- Coletivo Intervozes (comunicação).
+- Revista Piauí (jornalismo investigativo).
+- Agência Pública (investigação).
+- Intercept Brasil.
+- Instituto Atlas dos Gritos (pesquisa sobre desinformação).
+- NETLab (USP) — pesquisa sobre redes.
+
+ACADÊMIA:
+- CEST USP (Centro de Tecnologia e Sociedade).
+- Núcleo de Pesquisa em Política e Tecnologia da UFMG.
+- LABHD (UFBA) — Humanidades Digitais.
+- Inter-American Institute for Advanced Studies in Cultural Studies.
+
+================================================================================
+7. SÍNTESE ESTRATÉGICA — 15 TESES DA CAPTURA TECNOLÓGICA
+================================================================================
+
+1. INFRAESTRUTURA ESTRANGEIRA, SOBERANIA LIMITADA
+   - Big Tech (Google, Meta, Microsoft, Amazon, ByteDance) controlam
+     ~80% do ambiente digital brasileiro. Estado controla gov.br, Pix,
+     Serpro. Equilíbrio precário.
+
+2. ALGORITMO É PODER POLÍTICO SEM CONTROLES
+   - Algoritmos de recomendação definem o que 150+ milhões de
+     brasileiros veem diariamente. Sem transparência, sem auditoria.
+
+3. STF INVERTEU A CORTE — FIM DO PORTO SEGURO
+   - Temas 987/533 (2025): plataformas agora respondem civilmente
+     por conteúdo de terceiros mesmo sem ordem judicial. Marco pós-
+     -Marco Civil.
+
+4. PL 2338 AINDA É INCERTO
+   - Aprovado no Senado, engavetado na Câmara. Votação 2026 decisiva.
+
+5. NÃO HÁ DSA BRASILEIRA
+   - Diferente da UE, Brasil não tem regulação sistêmica de platafor-
+     mas. PL 2630 morreu. Regulação depende de pressão popular.
+
+6. WHATSAPP É O CALCANHAR DE AQUILES
+   - Vetor de desinformação que nem governo nem plataformas conseguem
+     controlar. Sem solução técnica conhecida.
+
+7. URNA ELETRÔNICA É CASO DE SUCESSO MUNDIAL
+   - 30 anos sem fraude comprovada. Mas narrativa de fraude
+     sequestrou debate público. Desinformação > realidade.
+
+8. ABIN PARALELA MOSTROU PRIVATIZAÇÃO DA INTELIGÊNCIA
+   - Estado brasileiro teve inteligência sequestrada por grupo
+     político. FirstMile usado contra a própria democracia.
+
+9. PIX É VITÓRIA; DREX É FRACASSO PARCIAL
+   - Pix colocou Brasil na vanguarda mundial de soberania monetária
+     digital. Drex retrocedeu sob lobby bancário.
+
+10. DEPENDÊNCIA DE CHIPS É VULNERABILIDADE ESTRATÉGICA
+    - 90% importados. Cadeia global concentrada em Taiwan/China.
+    Risco existencial em cenário de conflito.
+
+11. GOV.BR É AVANÇO, MAS ALVO
+    - 145 mi de brasileiros centralizados. Ataque estatal estrangeiro
+    ou hacker poderia paralisar serviços essenciais.
+
+12. 5G CHEGA, MAS 29 MI FICAM DE FORA
+    - Cobertura avança em capitais; campo e periferia continuam
+    excluídos. Exclusão digital = exclusão cívica.
+
+13. TAXAÇÃO DE BIG TECH É GEOPOLÍTICA
+    - Trump impediu; Brasil recuou. Perda anual estimada: R$ 8-15 bi.
+
+14. ANPD É FRACA
+    - Quadro e orçamento insuficientes. Sem poder sobre algoritmos
+    ou estruturas de plataforma.
+
+15. CICLO ELEITORAL 2026 É DECISIVO
+    - PL 2338, regulação de plataformas, memorandos TSE-Big Tech,
+    gasto digital projetado R$ 1 bi. Tudo converge em 2026.
+
+================================================================================
+8. FONTES E VERIFICAÇÃO
+================================================================================
+
+FONTES PRIMÁRIAS:
+- TSE — Resolução 23.610/2019, Resolução 23.732/2024, memorandos
+  com plataformas (jan/2026).
+- STF — Temas 987 e 533 de repercussão geral (RE 1.037.396 e
+  RE 1.057.258, julgamento em 26/jun/2025).
+- Senado Federal — PL 2338/2023, PL 295/2025, PL 2700/2025.
+- Câmara dos Deputados — PL 2630/2020 (arquivado), PL 2370/2019.
+- Banco Central — Drex (resoluções e comunicados), Pix dados.
+- Anatel — Leilão 5G (4/nov/2021), relatórios de cobertura.
+- ANPD — publicações e notas técnicas.
+- Receita Federal — arrecadação 2024 (R$ 2,65 tri).
+- Governo Federal — Decretos 12.975 e 12.976 de maio/2026;
+  PBIA 2024; Nuvem de Governo (Portaria SGD/MGI 5.950/2023).
+
+PESQUISAS E RELATÓRIOS:
+- Datareportal Digital 2024 Brazil — We Are Social + Meltwater.
+- Reuters Institute Digital News Report 2024.
+- TIC Domicílios 2024 — Cetic.br/NIC.br.
+- Stanford Internet Observatory — relatórios sobre operações de
+  influência coordenadas (2020-2024).
+- Graphika — relatórios sobre redes brasileiras.
+
+JORNALISMO INVESTIGATIVO:
+- Agência Pública — "A mão invisível das Big Techs" (2024-2025);
+  "Abin paralela: como tudo se conecta" (jun/2025).
+- Intercept Brasil — "Arthur Lira matou o PL das Fake News" (abr/2024);
+  "Dossiê big techs" (fev/2025).
+- UOL Tilt — "Trump x soberania: por que Brasil pagou R$ 9 bi às
+  Big Tech em 1 ano" (jul/2025).
+- Revista piauí — "O algoritmo da ágora" (#160).
+- Le Monde Diplomatique Brasil — "Ofensivas de Trump apenas
+  vulgarizam o que as big tech já fazem" (jun/2025).
+
+ACADEMICOS:
+- Mayer Brown — "Um olhar retrospectivo sobre a ANPD e a proteção
+  de dados no Brasil em 2024".
+- USP — PocketFab (2026), NETLab.
+- SciELO — diversos artigos sobre desinformação e educação.
+
+INSTITUIÇÕES CONSULTADAS:
+- TSE, STF, Senado, ANPD, BCB, Anatel, CGI.br, Cetic.br.
+- Article 19, InternetLab, ITS Rio, Agência Pública.
+
+================================================================================
+9. CONCLUSÃO TEIA — O QUE ISTO SIGNIFICA
+================================================================================
+
+A captura tecnológica da política brasileira é:
+- PARCIAL: Big Tech domina infraestrutura e atenção, mas Estado
+  tem peças próprias (Pix, gov.br, Serpro, ANPD).
+- DESIGUAL: desinformação ataca; regulação responde tarde.
+- ASSIMÉTRICA: 8-10 empresas estrangeiras vs. um Estado ainda
+  aprendendo a ser soberano.
+- DINÂMICA: STF, ANPD, BCB avançam; Congresso recua; lobby Big
+  Tech emperra.
+
+O KERNAL DA CAPTURA TECNOLÓGICA:
+"Se a dimensão ECONÔMICA foi capturada pelo sistema financeiro
+(TEIA-2026-033), a dimensão TECNOLÓGICA foi capturada por um
+oligopólio de plataformas globais que controlam: (1) o que
+vemos, (2) o que dizemos, (3) como pagamos, (4) onde nossos
+dados moram, (5) quem decide o que é verdade."
+
+NOSSA JANELA DE OPORTUNIDADE:
+- 2026 é ano eleitoral + ano de votação do PL 2338 + ano de
+  implementação dos Decretos 12.975/12.976.
+- Se o Brasil não regular plataformas, IA e algoritmos neste
+  ciclo, a captura pode se consolidar por décadas.
+
+TEIA-2026-034 — Documento para integrar eixo 5 do protocolo
+multidimensional TEIA-2026-033.
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

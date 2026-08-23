@@ -1,0 +1,122 @@
+================================================================================
+TEIA — ÍNDICE-MESTRE DO PROJETO
+================================================================================
+Atualizado em: 20/Julho/2026 (TEIA-104: 5 Métodos Éticos)
+Repositório: https://github.com/mouracleiton/TEIA
+Versão: v22.0 (156 dim x 60 lentes = 9.360 perspectivas)
+================================================================================
+
+NOTA v22.0: Matriz expandida via taxonomia acadêmica/bibliotecária
+(DDC, LCC, CAPES, OECD Frascati). Dims 109-156 + Lentes 45-60.
+Canônico: docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt
+Prompts: docs/PROMPT_TEIA_v22.0.txt | docs/PROMPT_TEIA_v22.0_INT_EN.txt
+Taxonomia 2º nível: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt (1237 campos)
+Taxonomia 3º nível: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt (5547 folhas)
+TOTAL CAMPOS: 6784
+Cheat-sheet: docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt
+Grafo interativo: docs/TAXONOMIA_GRAFO_INTERATIVO.html
+Grafo radial SVG: docs/TAXONOMIA_GRAFO_RADIAL.svg
+Grafo JSON: docs/taxonomia_grafo.json
+v21.0 arquivada em archive/.
+
+================================================================================
+DOCUMENTAÇÃO ESSENCIAL (docs/)
+================================================================================
+
+  docs/INDICE_MESTRE_TEIA.txt                              78 lin     4.2K
+  docs/MANIFESTO_PROTOCOLOS.txt                           307 lin    24.6K
+  docs/PROMPT_TEIA_v22.0.txt                              666 lin    32.2K   (legado monolítico)
+  docs/PROMPT_TEIA_v22.0_INT_EN.txt                       659 lin    30.8K
+  docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt              1321 lin    42.3K
+  docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt       5561 lin   339.8K
+  docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt               817 lin    41.6K
+  docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt              103 lin     5.5K
+  docs/teia_metodologia.png                                 0 lin   205.0K
+  docs/teia_metodologia_schema.json                      1776 lin    38.0K
+  docs/REFERENCIA_ENGENHARIA_MARKDOWN_SKYNETchat.txt                ~250 lin    (padrão de documentação TEIA)
+
+PROMPTS SUITE MODULAR (prompts/) — NOVA FORMA RECOMENDADA
+================================================================================
+
+  prompts/README_SUITE.md
+  prompts/SUITE_TEIA_v22.0_COMPOSER.txt          ← cole este (PT)
+  prompts/SUITE_TEIA_v22.0_COMPOSER_INT_EN.txt
+  prompts/TEIA_v22_FULL_MONOLITHIC.txt           ← versão única completa
+  prompts/CHEATSHEET_SUITE_v22.0.txt
+  prompts/09_composicao/coordenador_suite.txt    ← master coordinator
+  prompts/09_composicao/indice_modulos_suite.txt
+
+  00_base/          (core + teorema + EN)
+  01_matriz/        (156 dims + 60 lentes)
+  02_pet/
+  03_dialetico/
+  04_plano/
+  04_sopbra/
+  05_qualidade/     (checklist 32)
+  06_formatos/
+  07_fontes/
+  08_regras/
+  09_composicao/
+  10_especializados/ (dossiê, simulação, state machine, validador, agentes IA...)
+  11_juridico/      (petições + conformidade legal)
+  12_problemas/     (16 problemas + soluções em lote + frentes)
+  13_simulacao/     (modelagem + impacto fiscal)
+  14_electoral/     (debates, swarm, mitos, conteúdo em massa)
+  15_taxonomia/     (níveis 16-18 + grafo)
+  legacy/           (monolítico original)
+
+Total: 54 arquivos. Suite completa e consolidada.
+Use o Coordenador (09_composicao/coordenador_suite.txt) para tarefas complexas.
+
+DOSSIÊS EXECUTIVOS (05_ACAO/) — 16 PROBLEMAS COBERTOS
+================================================================================
+
+  TEIA-#013  TEIA-2026-013_v1.0_DOSSIE_TECNICO_HADDAD.txt             944 lin
+  TEIA-#014  TEIA-2026-014_v1.0_peticao_cnj_serp.txt                  455 lin
+  TEIA-#015  TEIA-2026-015_v1.0_amicus_curiae_adpf_854.txt            499 lin
+  TEIA-#016  TEIA-2026-016_v1.0_REPRESENTACAO_PGR_CONFLITO_INTERESSE_PARLAMENTAR.txt  731 lin
+  TEIA-#017  TEIA-2026-017_v1.0_dossie_banco_master_correlacoes_temporais.txt  638 lin
+  TEIA-#018  TEIA-2026-018_v1.0_ROTEIRO_DOCUMENTARIO_PRECO_SELIC.txt  549 lin
+  TEIA-#019  TEIA-2026-019_v1.0_contas_publicas_lote1_roteiros.txt    667 lin
+  TEIA-#020  TEIA-2026-020_v1.0_gestao-nao-gasto-planejamento-temporada1.txt  646 lin
+  TEIA-#021  TEIA-2026-021_v1.0_TEIA_Estatuto_Social.txt              687 lin
+  TEIA-      TEIA-2026-037_v1.0_TIKTOK_BIG_TECH_10_BI.txt              66 lin
+  TEIA-#067  TEIA-2026-067_v1.0_DOSSIE_SUS_MIN_SAUDE.txt              563 lin
+  TEIA-#086  TEIA-2026-086_v1.0_DOSSIE_SPREAD_BANCARIO_BCB.txt        186 lin
+  TEIA-#087  TEIA-2026-087_v1.0_DOSSIE_CUSTO_BRASIL_MDIC.txt          188 lin
+  TEIA-#088  TEIA-2026-088_v1.0_DOSSIE_CONFORMIDADE_TRIBUTARIA_RFB.txt  188 lin
+  TEIA-#089  TEIA-2026-089_v1.0_DOSSIE_CONCENTRACAO_BANCARIA_CADE.txt  187 lin
+  TEIA-#090  TEIA-2026-090_v1.0_DOSSIE_DESINFORMACAO_TSE.txt          261 lin
+  TEIA-#091  TEIA-2026-091_v1.0_DOSSIE_ENCARCERAMENTO_MJ.txt          266 lin
+  TEIA-#092  TEIA-2026-092_v1.0_DOSSIE_FOME_MDS.txt                   497 lin
+  TEIA-#093  TEIA-2026-093_v1.0_DOSSIE_SANEAMENTO_MMA.txt             185 lin
+  TEIA-#094  TEIA-2026-094_v1.0_DOSSIE_NEGATIVADOS_ANPD.txt           181 lin
+  TEIA-#095  TEIA-2026-095_v1.0_DOSSIE_PEC_BLINDAGEM_STF.txt          178 lin
+  TEIA-#102  TEIA-2026-102_v1.0_AMPLIFICACAO_INSTAGRAM_16_PROBLEMAS.txt  155 lin
+
+PLANO DE EXECUÇÃO (04_PLANO/):
+  TEIA-#104  TEIA-2026-104_v1.0_5_METODOS_ETICOS_FRAMEWORK.txt          ~290 lin
+
+================================================================================
+DIRETÓRIOS POR CATEGORIA
+================================================================================
+
+  01_ANALISE/  (6 arquivos)
+  02_MAPEAMENTO/  (7 arquivos)
+  03_SIMULACAO/  (2 arquivos)
+  04_PLANO/  (6 arquivos)
+  05_ACAO/  (22 arquivos)
+  06_TERRITORIAL/  (4 arquivos)
+  07_ACCOUNTABILITY/  (1 arquivos)
+  08_SINTESE_FINAL/  (1 arquivos)
+  09_MULTIDIMENSIONAL/  (1 arquivos)
+  10_TECNOLOGICA/  (2 arquivos)
+  11_INSTITUCIONAL/  (4 arquivos)
+  12_AMBIENTAL/  (1 arquivos)
+  13_PROJETOS/  (3 arquivos)
+  14_ELEITORAL_2026/  (9 arquivos)
+  15_MANUAL_TECNOLOGIA/  (1 arquivos)
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================

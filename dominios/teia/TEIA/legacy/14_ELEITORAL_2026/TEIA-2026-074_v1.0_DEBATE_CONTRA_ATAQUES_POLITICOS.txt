@@ -1,0 +1,816 @@
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-074
+VERSÃO: v1.0
+CATEGORIA: 14_ELEITORAL_2026
+TÍTULO: Contra-Argumentos Político-Institucionais — Política Interna, Externa e Institucional
+STATUS: INTERNO — Análise de inteligência eleitoral
+DATA: 19/07/2026
+AUTOR: Cleiton Moura (@professorcinza) — TEIA
+TAMANHO: 44,629 bytes (43.6 KB)
+HASH MD5: c0b1f25778e8395908d8baeeda707d68
+================================================================================
+
+================================================================================
+MAPEAMENTO DE ARGUMENTOS POLÍTICO-INSTITUCIONAIS E DE POLÍTICA EXTERNA
+CONTRA O GOVERNO LULA (2023-2026) — USO EM DEBATES DE 2026
+================================================================================
+Estrutura para cada item:
+  1. ARGUMENTO do opositor
+  2. DADO REAL (fact-check)
+  3. ERRO ASSUMIDO (se houve)
+  4. SOLUÇÃO TEIA (como redirecionar/contra-argumentar)
+Preparado para: Cleiton Moura — estratégia eleitoral 2026
+================================================================================
+
+
+################################################################################
+A. POLÍTICA INTERNA
+################################################################################
+
+--------------------------------------------------------------------------------
+A1. RELAÇÃO COM CENTRÃO (aliança com PP, União, Republicanos)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula entregou o governo ao Centrão, repetindo o erro de Dilma.
+   Fez acordo com PP, União Brasil e Republicanos — os mesmos partidos de
+   Bolsonaro. traiu o povo e o programa de campanha."
+2. DADO REAL:
+   - Governo Lula tem base ampla (~43% da Câmara, ~220 deputados) que INCLUI
+     PSD (Miranda), MDB, União Brasil, Republicanos e parte do PP — mas NÃO
+     há coligação formal com o "Centrão" como bloco.
+   - Centrão adotou postura de "neutralidade eleitoral" para 2026 (CNN Brasil,
+     Venceslau, 19/11/2025) — PP, União e Republicanos NÃO subiram no palanque
+     oficial de oposição nem de governo.
+   - Lula perdeu força no Nordeste com o Centrão (O Globo, 30/09/2025) por
+     pressão da federação União-PP. Não há "entrega" do governo.
+   - Comparar com Bolsonaro: Centrão esteve NO GOVERNO Bolsonaro (Guedes/Maia/
+     Lira/Leitão/Ciro Nogueira-PP chefe da Casa Civil). Em Lula, Centrão está
+     em neutralidade negociada, não no comando.
+3. ERRO ASSUMIDO: Há risco real de desgaste por associar imagem a partidos
+   tradicionais. Nomeações a pp/união/republicanos em ministérios e estatais
+   (ex.: Marcelo Álvaro Antunes no turismo, Silvio Costa Filho-Republicanos em
+   Portos, Carlos Fávaro-PSD/PP em Agronegócio) são custo político visível.
+4. SOLUÇÃO TEIA:
+   - Reforçar o contraste: "Centrão com Bolsonaro = ministérios-chave da
+     economia (Ciro-PP na Casa Civil). Com Lula = neutralidade e pauta
+     econômica de Haddad, não de cacique do Centrão."
+   - Destacar que neutralidade do Centrão em 2026 É VITÓRIA, não derrota —
+     tira da oposição os mesmos partidos que apoiaram Bolsonaro em 2022.
+   - Evitar novas entregas de pastas estratégicas ao Centrão em 2026; usar
+     PSD e MDB como fiadores da "ala moderada".
+
+
+--------------------------------------------------------------------------------
+A2. ARTHUR LIRA (presidente da Câmara, aliado?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lira é o homem de Lula na Câmara. Continuidade do orçamento
+   secreto, troca de favores, governabilidade via loteamento."
+2. DADO REAL:
+   - Arthur Lira (PP-AL) deixou a presidência da Câmara em 01/02/2025, sucedido
+     por Hugo Motta (Republicanos-PB).
+   - Lira passou a atuar como articulador informal da base — Gleisi Hoffmann
+     (Relações Institucionais) afirmou em 05/09/2025 que Lira "integra a base de
+     apoio" ao governo.
+   - Em 26/11/2025, Lira afagou Lula e mencionou "quarto mandato" do petista
+     (Valor) — sinal de alinhamento estratégico.
+   - A aprovação de matérias em 2025 usou Lira como relator do projeto-chave
+     (LCP/arcabouço).
+3. ERRO ASSUMIDO: Imagem de subordinação a Lira reforça narrativa de
+   "governabilidade por troca" e de impopularidade da Câmara (rejeição subiu
+   de 63% em jul/2025 para 70% em set/2025 — TimesBrasil/iPeSpê).
+4. SOLUÇÃO TEIA:
+   - Transferir a "cara" da governabilidade de Lira para Hugo Motta e para a
+     figura de Haddad/Gleisi — mais identificáveis com programa de governo.
+   - Aproveitar queda de popularidade da Câmara para posicionar Lula como
+     "reforma do Legislativo" e "combate ao orçamento secreto" — Lula
+     sancionou LOA 2024 cortando R$ 5,6 bi em emendas parlamentares.
+   - Redirecionar: "Lira votou com o povo em X ocasiões" — não defender Lira
+     pessoalmente.
+
+
+--------------------------------------------------------------------------------
+A3. ORÇAMENTO SECRETO (Lula manteve?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula criticou o orçamento secreto em campanha, mas manteve,
+   só mudou o nome. Emendas Pix, emendas de comissão, relator-rei continuam
+   funcionando."
+2. DADO REAL:
+   - STF declarou inconstitucional o modelo original do orçamento secreto
+     (Relatora Rosa Weber, 2022; pacote julgado set/2023).
+   - Lula sancionou LOA 2024 (jan/2024) com CORTE de R$ 5,6 bilhões em emendas
+     parlamentares e "fundão" de R$ 4,9 bi (O Povo).
+   - Em 2024, emendas "Pix" (individuais) somaram ~R$ 25 bi (Gazeta Brasil),
+     dentro do teto legal; é instrumento diferente do "orçamento secreto" —
+     não há mais distribuição secreta pelo relator sem critério.
+   - Infomoney (2025): "O modelo foi encerrado, mas surgiram novas formas de
+     repasse. Especialistas apontam que emendas de comissão mantêm práticas
+     semelhantes." → ou seja: modelo secreto acabou, mas repasses individuais
+     continuam.
+3. ERRO ASSUMIDO: Existe continuidade real do "orçamento relator-rei" em
+   versão mais transparente; narrativa de "fim completo" é frágil.
+4. SOLUÇÃO TEIA:
+   - Apresentar os fatos: STF (não Lula) extinguiu o secreto; Lula apenas
+     acatou. Cortou R$ 5,6 bi em 2024. "Se houvesse orçamento secreto, não
+     haveria corte."
+   - Defender nova agenda: LCP (Lei de Lançamento de Peças? Não — Lei de
+     Convergência Pra... ). Melhor: PEC emergencial/arcabouço fiscal com
+     limite explícito para emendas individuais.
+   - Não prometer "extinção total das emendas" — isso é mentira e colaria
+     negativo; prometer "teto + transparência total em plataforma digital
+     pública."
+
+
+--------------------------------------------------------------------------------
+A4. PEC DA BLINDAGEM (votada durante governo Lula — qual foi a posição?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula apoiou a PEC da Blindagem para proteger deputados
+   corruptos aliados. Governo tolerou porque precisava do Centrão."
+2. DADO REAL:
+   - PEC 3/2021, de autoria do então deputado Celso Sabino (PSDB-PA, hoje no
+     União Brasil e ministro do Turismo de Lula), proposta em 2021 após prisão
+     de Daniel Silveira. NÃO é uma PEC do governo Lula.
+   - Câmara aprovou em 16/09/2025: 1º turno 353x134, 2º turno 344x133 (UOL).
+   - Em 27/08/2025, Planalto SE ESQUIVOU da discussão (G1): "Lula optou por se
+     esquivar" — não apoiou publicamente nem vetou via liderado do governo.
+   - PEC foi BARRADA no SENADO (BBC Brasil). Não virou norma.
+   - Lula reagiu dizendo que Congresso "ignora prioridades do povo" (IG/Lorena).
+3. ERRO ASSUMIDO: Postura ambígua (esquiva em vez de posição clara contra)
+     alimenta narrativa de cumplicidade. Celso Sabino (autor da PEC) ser
+     ministro de Lula é munição direta.
+4. SOLUÇÃO TEIA:
+   - Documentar: "Lula não sancionou, não promoveu, não pediu voto. A PEC foi
+     barrada no Senado com o governo ausente na articulação contrária."
+   - Aproveitar para demover Sabino (ministro do Turismo) — ou reposicioná-lo,
+     dado o custo símbolo.
+   - Defender publicamente: "Sou contra qualquer blindagem a parlamentar.
+     Puni bandido de colarinho branco com Lava Jato. Sou a favor de foro
+     especializado, não de foro privilegiado."
+
+
+--------------------------------------------------------------------------------
+A5. REFORMA MINISTERIAL (quantos ministérios? gastos?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula criou 39 ministérios — recorde histórico. Gasolância,
+   gasto excessivo, loteamento político, inchaço para satisfazer aliados."
+2. DADO REAL:
+   - Governo Lula chegou a ter 39 ministérios (Wikipédia: "Governo Lula
+     2023–presente") — igualando Dilma 2.
+   - Atualmente (nov/2025) tem 38 ministérios (Agência Tatu; Estadão 19/11/2025).
+   - Reforma ministerial em etapas: 1ª fase antes do Carnaval 2025 (foco no
+     Planalto), 2ª fase com nomeação de Márcia Lopes (Mulheres) em 05/05/2025,
+     saída de Carlos Lupi (Previdência).
+   - Comparativo: Bolsonaro teve 23 ministérios (foi promessa de campanha);
+     FHC teve 17 a 19; Lula 1/2 cerca de 25-37.
+   - Gasto direto com ministérios é PEQUENO no orçamento total (~R$ 5-8 bi/
+     ano de custeio dos gabinetes), mas simbolicamente grande.
+3. ERRO ASSUMIDO: Real inchaço (38-39 é alto historicamente) e pastas com
+   sobreposição (ex.: Comunicações x Cultura; Igualdade Racial x Mulheres x
+   Direitos Humanos) geram crítica legítima.
+4. SOLUÇÃO TEIA:
+   - Defender o porquê: "Cada ministério representa pauta que foi historicamente
+     ignorada (Indígenas, Igualdade Racial, Mulheres, Pesca, Micro e Pequena
+     Empresa). Recortar é apagar esses eleitores."
+   - Apresentar plano de fusão em 2º mandato: "Vou reduzir para 30 em 2027,
+     fundindo pastas com sobreposição." — sinal de austeridade.
+   - Dado numérico: gasto com ministérios < 0,1% da LOA. O problema não é
+     financeiro, é simbólico — combater com argumento de representatividade.
+
+
+--------------------------------------------------------------------------------
+A6. NOMEÇÕES POLÍTICAS E CARGOS COMISSIONADOS
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula voltou a lotear o Estado com cacique do PT e aliados.
+   Quebra da promessa de reforma do Estado."
+2. DADO REAL:
+   - Todas as nomeações para cargos em comissão (DAS/DAS-100) seguem modelo
+     misto — metade técnica, metade política (padrão brasileiro desde FHC).
+   - Em 2023, Lula editou decreto reorganizando DAS em 5 níveis + funções
+     comissionadas técnicas (FCE).
+   - Estatais: nomeou presidentes de BB (Fausto Ribeiro), Caixa (Carlos
+     Vieira), Petrobras (Jean Paul Prates → ao depois demitido, Magda
+     Chambriard), Eletrobras, Correios — maioria com perfil técnico, mas com
+     custo político de party quota.
+   - Comparar com Bolsonaro: nomeou general e parente (3 filhos em cargos),
+     quebra clara de critério.
+3. ERRO ASSUMIDO: Existem casos de nepotismo pontuais e party quota que
+   enfraquecem o discurso "técnico". Demissão de Jean Paul Prates por
+   resistir a nomeação política na Petrobras foi mal explicada.
+4. SOLUÇÃO TEIA:
+   - Reposicionar: "Os cargos de chefia são ocupados por mais de 60% de
+     servidores concursados (Dados DIMP/SIORG)."
+   - Apresentar reforma administrativa em 2º mandato: "Reduzir DAS em 25% e
+     abrir mais concursos (PF: 2 mil vagas, Receita, INSS)."
+   - Caso Prates: explicar que foi divergência técnica sobre política de
+     preços, não "ordem partidária."
+
+
+--------------------------------------------------------------------------------
+A7. POLARIZAÇÃO (Lula vs Bolsonaro mantém divisão?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula é tão polarizador quanto Bolsonaro. Não uniu o país,
+   aprofundou a divisão. O ódio continua."
+2. DADO REAL:
+   - Datafolha (24/12/2025): polarização persiste; mais brasileiros se
+     declara petista que bolsonarista (40% x 30% aproximadamente).
+   - Existe eleitorado "nem Lula nem Bolsonaro" expressivo (Quaest, 2025,
+     ~30% do eleitorado) — disputa por esse campo é decisiva.
+   - 8 de Janeiro de 2023 (invasão de Brasília) foi maior choque institucional
+     desde a redemocratização. Bolsonaro foi indiciado e julgado por tentativa
+     de golpe; em 25/11/2025, STF condenou militares do golpe (Brasil de Fato).
+3. ERRO ASSUMIDO: Lula usou tom de confronto em alguns momentos (ex.:
+   "Bolsonaro é aberração genética") que alimentou polarização simbólica.
+4. SOLUÇÃO TEIA:
+   - Diferenciar: "Polarização em Lula = reação democrática a golpe.
+     Polarização em Bolsonaro = programa político de divisão."
+   - Em 2º turno, ABRIR para o campo "nem-nem" — não atacar Bolsonaro
+     pessoalmente, mas defender "democracia + crescimento + inclusão."
+   - Evitar combater Lava Jato, Moraes, Moraes... — parecer vingativo.
+
+
+--------------------------------------------------------------------------------
+A8. PT NO CONGRESSO (base aliada suficiente?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula não tem base, governa apanhando no Congresso. Não elegeu
+   presidência da Câmara nem do Senado."
+2. DADO REAL:
+   - PT elegeu 68 deputados em 2022 (maior bancada) + 12 senadores.
+   - Hugo Motta (Republicanos-PB) venceu presidência da Câmara em 2025 —
+     apoio tácito do governo, não candidato oficial do PT.
+   - Pacheco (PSD-MG) reeleito no Senado com apoio de Lula.
+   - Base aliada: ~43% da Câmara (~220 deputados), segundo Infomoney (2025).
+   - Para aprovar PEC (308) ou lei complementar (257), governo depende de
+     acordo caso a caso.
+3. ERRO ASSUMIDO: Base é ampla mas não sólida; reformas estruturais
+   (tributária aprovada em 2023, arcabouço 2023) passaram, mas em 2025
+   governo perdeu votações-chave.
+4. SOLUÇÃO TEIA:
+   - Vender reformas aprovadas: tributária (maior reforma desde 1988),
+     arcabouço fiscal, Marcos Civil da Transição Ecológica, PX.
+   - Apontar oposição fragmentada: PL não tem maioria nem coerência.
+   - Para 2026, CHORAR vaga de LIDERANÇA em Motta (já feita) e articular
+     Sandro (PL? não —MDB/PSD) como alternativa moderada.
+
+
+--------------------------------------------------------------------------------
+A9. ELEIÇÕES MUNICIPAIS 2024 (resultado para PT)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "PT perdeu nas municipais 2024. Derrota em São Paulo (Boulos),
+   Rio, capitais estratégicas."
+2. DADO REAL:
+   - PT cresceu em número de prefeituras: de ~210 (2020) para ~263 (2024).
+   - PT elegeu prefeitos em capitais: Fortaleza (Evandro Leitão), Belém
+     (Igor Normando? Não, foi Edmilson Rodrigues-PSOL apoiado por PT — verificar),
+     Maceió, São Luís (Eduardo Braide-PSD, não PT).
+   - Em São Paulo, Boulos (PSOL com apoio PT) PERDEU para Nunes (MDB com apoio
+     Bolsonaro/Tarcísio) no 2º turno.
+   - No Rio, Eduardo Paes (sem partido PSD) venceu com apoio PT.
+   - PSD foi o partido que mais elegeu prefeitos (G1).
+   - Em vitória simbólica, PT saiu fortalecido em municípios pequenos/médios.
+3. ERRO ASSUMIDO: Derrota em SP tem peso simbólico grande. Aliança com Boulos
+   não se converteu em vitória. Oposição saiu com fôlego (Nunes/Tarcísio).
+4. SOLUÇÃO TEIA:
+   - Não focar em SP; focar em Fortaleza (primeira capital do NE com PT).
+   - "Crescemos 25% em prefeituras, fomos a 3º partido em vereadores."
+   - Reposicionar aliança 2026: PSD mais MDB (centro) + PT (esquerda) para
+     isolar PL (direita).
+
+
+--------------------------------------------------------------------------------
+A10. FORO DE SÃO PAULO (narrativa conspiratória)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula e PT estão ligados ao Foro de São Paulo, que teria
+   articulado a 'tomada do poder' pela esquerda na América Latina."
+2. DADO REAL:
+   - Foro de São Paulo (FSP) é fórum de partidos políticos de esquerda
+     fundado em 1990 pelo PT — organização legítima, pública e reconhecida.
+   - Lula participou do XXIV Encontro em junho de 2025 em Brasília; estiveram
+     Gleisi Hoffmann, Luciana Santos (PCdoB), Marcelo Freixo (Embratur).
+   - Não há qualquer comprovação judicial ou documental de "plano de tomada
+     de poder." Narrativa conspiratória de extrema-direita.
+   - Análogos: Internacional Socialista, União Interparlamentar, IDU
+     (União Democrática Internacional — da qual PL é filiado).
+3. ERRO ASSUMIDO: Participação de Lula em evento do FSP em 2025 deu munição
+   narrativa; frases de Lula antigas ("devemos muito aos cubanos", 2013) são
+   repetidas em vídeo.
+4. SOLUÇÃO TEIA:
+   - "Foro de São Paulo é fórum de partidos, como a IDU à qual o PL é filiado.
+     Não há conspiração, há diplomacia partidária comum no mundo todo."
+   - Pedir a oposição que mostre UMA decisão judicial confirmando conspiração
+     (não existe).
+   - Virar o jogo: "PL é filiado à IDU, que apoiou Bolsonaro. É só diplomacia."
+
+
+--------------------------------------------------------------------------------
+A11. "COMUNISMO" (narrativa extrema-direita)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula é comunista, vai implantar o comunismo no Brasil."
+2. DADO REAL:
+   - Governo Lula aprovou reforma tributária (IVA) e arcabouço fiscal —
+     pautas de mercado, endossadas por FIESP, CNI e Banco Mundial.
+   - Bolsa Família manteve regras de condicionalidade; não há estatização.
+   - Privatizações e concessões continuaram (ex.: Eletrobras em 2022 foi
+     sob Bolsonaro; Lula respeitou).
+   - Resultados macro: inflação sob controle (~4,5%), desemprego em queda
+     (2023-2025), PIB cresceu ~3% em 2023 e 2024.
+3. ERRO ASSUMIDO: Discurso de Lula às vezes com tom "anti-banco" ou
+   "anti-mercado" alimenta narrativa.
+4. SOLUÇÃO TEIA:
+   - Dado objetivo: "Bolsa Família = 0,5% do PIB. Comunismo cubano = 100%
+     da economia estatal. São coisas diferentes."
+   - Mostrar indicadores: lucro recorde de bancos e commodity traders no
+     governo Lula. Se fosse comunista, baniria lucro.
+   - Caso Lula: "[Insira frase gravada de Lula em 2003]: 'nunca fui
+     comunista, fui metalúrgico.'"
+
+
+################################################################################
+B. POLÍTICA EXTERNA
+################################################################################
+
+--------------------------------------------------------------------------------
+B1. RELAÇÃO COM CHINA (adesão ao Belt and Road?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula está entregando o Brasil à China, vai aderir à Nova Rota
+   da Seda, vai nos tornar província chinesa."
+2. DADO REAL:
+   - Brasil NÃO aderiu formalmente ao Belt and Road Initiative (BRI / Nova
+     Rota da Seda). Decisão confirmada em nov/2024 durante visita de Xi Jinping
+     a Brasília (DW 20/11/2024; Valor International 21/11/2024).
+   - Brasil e China assinaram 37 acordos em 2024 — sem adesão formal ao BRI.
+     Declaração conjunta fala em "sinergia" com PAC e Nova Indústria Brasil,
+     não "adesão."
+   - Justificativa do Itamaraty: evitar dependência e manter autonomia
+     estratégica (Observa China, 25/08/2025).
+   - China é MAIOR parceiro comercial do Brasil desde 2009 (US$ 150 bi/ano).
+3. ERRO ASSUMIDO: Discurso de Lula sobre "moeda comum BRICS" (jul/2025,
+   GZH) alimenta narrativa. Discurso anti-dólar tem custo com Trump.
+4. SOLUÇÃO TEIA:
+   - "Brasil NÃO aderiu ao BRI. Mantivemos parceria comercial com a China
+     (1º parceiro desde 2009, sob FHC, Lula, Dilma, Temer e Bolsonaro) SEM
+     subordinação política."
+   - Mostrar dado: Bolsonaro, em 2019, foi à China e assinou 9 acordos.
+   - Sobre moeda BRICS: "Não é substituir dólar, é reduzir custo de transação
+     entre países do Sul. Os EUA não ficam pobres por causa disso."
+
+
+--------------------------------------------------------------------------------
+B2. VENEZUELA (reconhecimento de Maduro?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula reconheceu a ditadura Maduro, traiu a democracia
+   venezuelana. Depois voltou atrás, mas já mostrou o lado."
+2. DADO REAL:
+   - Em 28/07/2024, eleição venezuelana: Maduro alegou vitória sem
+     transparência (CNE não divulgou atas).
+   - Lula, inicialmente cauteloso: "Ainda não reconheço" (15/08/2024,
+     Blog do Eliomar; O Globo/Lauro Jardim 2024). Pediu "explicações
+     à sociedade e ao mundo."
+   - Brasil NUNCA reconheceu formalmente Maduro como vencedor legítimo
+     em 2024. Manteve relação diplomática (embaixadora em Caracas), mas
+     posicionou-se por transparência.
+   - Maduro foi preso? Não — notícias de "prisão" são falsas (defato 2025).
+3. ERRO ASSUMIDO: Envio de embaixadora do Brasil à posse de Maduro em
+     10/01/2025 (Cesar Vale, 03/01/2025) — gesto diplomático que pode ser
+     lido como reconhecimento tácito. Tensão com oposição venezuelana.
+4. SOLUÇÃO TEIA:
+   - Posicionamento oficial: "Pedimos transparência no voto. Não
+     reconhecemos vitória sem atas. Manter canais diplomáticos abertos
+     não é reconhecer ditadura — é defender 30 mil brasileiros que moram
+     lá e comércio de US$ 3 bi."
+   - Virar: "Bolsonaro rompeu com a Venezuela e não trouxe um emprego a
+     mais para o Brasil. Diplomacia inteligente protege nacional."
+
+
+--------------------------------------------------------------------------------
+B3. ISRAEL/PALESTINA (posição sobre Gaza)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula ofendeu Israel, comparou a Hitler, prejudicou relações
+   comerciais e diplomáticas. É anti-semita."
+2. DADO REAL:
+   - 18/02/2024: Lula comparou ação de Israel em Gaza ao Holocausto
+     (depoimento em Addis Abeba): "o que está acontecendo na Faixa de
+     Gaza com o povo palestino não existiu em nenhum outro momento
+     histórico. Aliás, existiu: quando Hitler decidiu matar os judeus"
+     (GZH; Estadão).
+   - 24/09/2025: na 80ª AGNU, Lula reafirmou: "Não há palavra mais
+     apropriada para descrever o que está ocorrendo em Gaza do que
+     genocídio" (Urbs Magna).
+   - Brasil rompeu? Não. Embaixador recalled para consultas em fev/2024.
+     Israel fez o mesmo (align with Hadas). Em 2025, relações normalizaram
+     parcialmente.
+   - Posição do Brasil alinhada com Corte Internacional de Justiça (CIJ)
+     e relatórios da ONU sobre Gaza (mais de 50 mil crianças mortas).
+3. ERRO ASSUMIDO: A comparação com Hitler foi excesso retórico — custou
+     diplomático real (saida de embaixadores, crítica de entidades judias
+     brasileiras como CONIB). Lula negiu usar palavra "Holocausto" mas
+     comparação já tinha sido feita.
+4. SOLUÇÃO TEIA:
+   - "Defendi o povo palestino — como sempre defendi judeus perseguidos.
+     Os números da ONU comprovam tragédia humanitária. Brasil não é
+     anti-Israel, é pró-direito humanitário."
+   - Em 2026, EVITAR reeditar a comparação Hitler. Falar em "catastrofe
+     humanitária" e em "solução de dois Estados" — alinhado com UE,
+     ONU, Biden/Harris.
+   - Destacar: Lula foi o primeiro presidente a reconhecer estado
+     palestino (2010). Posição histórica, não improvisação.
+
+
+--------------------------------------------------------------------------------
+B4. UCRÂNIA/RÚSSIA (posição de Lula)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula é próximo de Putin, culpa os EUA pela guerra, é
+   ambíguo com a invasão da Ucrânia."
+2. DADO REAL:
+   - Lula 2023: disse que "os dois lados têm razão" e que a guerra foi
+     provocada — frase infeliz, custou diplomático.
+   - 19/02/2025: Lula defendeu mesa de negociação ampla (UE + BRICS + EUA
+     + Ucrânia + Rússia), descartou enviar tropas (G1).
+   - 24/09/2025: Lula e Zelensky se encontraram em NY; presidente
+     ucraniano disse: "Lula fará o máximo por paz" (UOL/BBC/CNN Brasil).
+   - Brasil NÃO votou contra Ucrânia na ONU; abstém em algumas resoluções
+     mas condenou a invasão (mar/2022 e mar/2023).
+3. ERRO ASSUMIDO: Visitas a Moscou (festival de/spiões em 2023) e discurso
+     "ambos culpados" deram munição.
+4. SOLUÇÃO TEIA:
+   - "Brasil condenou a invasão da Ucrânia desde 2022. Não enviamos armas
+     porque não somos beligerantes. Atuamos pela paz com Zelensky."
+   - Apontar: "EUA sob Trump também negocia com Putin. Brasil não faz
+     diferente."
+   - Evitar futuras visitas a Moscou durante a guerra.
+
+
+--------------------------------------------------------------------------------
+B5. BRICS (expansão, moeda comum?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula quer criar moeda BRICS contra o dólar, vai afrontar os
+   EUA e prejudicar o agronegócio."
+2. DADO REAL:
+   - BRICS expandiu em 2024: Egito, Etiópia, Irã, Emirados Árabes Unidos
+     entraram; Arábia Saudita ainda analisa. Argentina recusou (Milei).
+   - "Moeda comum BRICS" NÃO existe; o que existe é discussão de
+     mecanismos de compensação em moedas locais (ex.: BRICS Pay).
+   - Lula sugeriu moeda comum em 04/07/2025 antes da cúpula (GZH), mas
+     Itamaraty recuou: "não é para amanhã, é para reflexão."
+3. ERRO ASSUMIDO: Discurso "anti-dólar" pode provocar retaliação
+     trumpista (tarifas).
+4. SOLUÇÃO TEIA:
+   - "Moeda comum é projeto de longo prazo, entre países que queiram —
+     Brasil não vai sair do dólar amanhã. Comércio em reais e yuan
+     reduz custo para exportador brasileiro."
+   - BRICS = 45% da população mundial, 35% do PIB (PPP). Não estar lá é
+     isolamento. Bolsonaro desprezou o bloco.
+   - Evitar discursos "anti-dólar" diretos; falar "complementaridade."
+
+
+--------------------------------------------------------------------------------
+B6. OCDE (adesão em curso?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula abandonou o processo de OCDE, prefere BRICS e
+   alinhamento Sul-Sul em vez de Estados de mercado desenvolvidos."
+2. DADO REAL:
+   - Brasil iniciou processo formal em 2022 (sob Bolsonaro), recebeu
+     "roteiro de acessão" em 2022.
+   - Em 2025, Brasil encaminhou MEMORANDO INICIAL de acessão à OCDE
+     (1.170 páginas, 32 capítulos, 120 oficinas, 26 ministérios —
+     SIN Agências).
+   - Cronograma: processo longo (3-5 anos); Itamaraty trabalha em
+     adesão a instrumentos (já aderiu a 112 de 257).
+   - Crítica (Gazeta do Povo): "Não é prioridade de Lula" — leitura
+     parcial; ministério da Fazenda tem OCDE como pauta.
+3. ERRO ASSUMIDO: Retórica de "autonomia estratégica" pode parecer
+     desinteresse. Demora do processo é confundida com desinteresse.
+4. SOLUÇÃO TEIA:
+   - "Memorando inicial enviado em 2025. Continuamos o processo iniciado
+     em 2022. Adesão à OCDE é prioridade para modernização regulatória,
+     não para escolha de bloco."
+   - "BRICS e OCDE não são mutuamente exclusivos. México, Chile e
+     Turquia fazem parte dos dois."
+   - Apontar avanços: Convenção de Combate à Suborno,_codigo de
+     governança de SOEs, etc.
+
+
+--------------------------------------------------------------------------------
+B7. COP30 (Belém 2025 — sucesso ou fracasso?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "COP30 foi fracasso. Saída de Lula pela platéia, ausência de
+   líderes globais, dinheiro prometido não veio."
+2. DADO REAL:
+   - COP30 em Belém (PA), nov/2025 — primeira COP em Amazônia.
+   - Líderes presentes: abaixo do esperado (~30 chefes de Estado). Macron,
+     Lula, alguns africanos. UE representada por comissários.
+   - Resultados (BBC/Mundo Ecologia/Eco Response 22-30/11/2025):
+     * "Pacote de Belém" / Decisão Mutirão — reúne pontos controversos.
+     * Criação do TFFF (Tropical Forests Forever Facility) — fundo do
+       Banco Mundial para florestas tropicais (US$ 125 bi prometido).
+     * Avanços em indicadores de adaptação (Global Goal on Adaptation).
+     * FRACASSOS: meta de US$ 1,3 tri/ano para países em desenvolvimento
+       não saiu do papel; EUA não participou oficialmente (Trump).
+   - Críticas: ausência de líderes G7; protesto de ONGs; operação
+     urbana de Belém criticada (desapropriações).
+3. ERRO ASSUMIDO: Promessa exagerada ("COP30 será a COP da entrega") gerou
+     expectativa que resultados modestes não cumpriram. Custo simbólico de
+     Belém (obras) deu munição.
+4. SOLUÇÃO TEIA:
+   - "COP30 entregou Pacote de Belém, criou fundo TFFF, avançou meta de
+     adaptação. Fracasso é de quem não compareceu (Trump, UE
+     parcialmente), não do Brasil."
+   - Vender: "Brasil colocou Amazônia no centro do debate global."
+   - Prometer continuidade: COP31 será na Austrália; Brasil presidera
+     fórum Amazônia.
+
+
+--------------------------------------------------------------------------------
+B8. AMAZÔNIA (desmatamento subiu ou desceu?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Desmatamento voltou a subir no governo Lula. Política
+   ambiental de Marina Silva falhou."
+2. DADO REAL:
+   - Dados PRODES/INPE (out/2025): Amazônia teve 5.796 km² desmatados
+     em ago/2024-jul/2025 — QUARTA QUEDA CONSECUTIVA após oito anos
+     de aumento. Menor taxa em 11 anos (G1).
+   - Redução: -11% vs 2024; comparado com pico Bolsonaro 2021
+     (~13 mil km²), é queda acumulada de ~55%.
+   - Cerrado também teve queda.
+   - EM 1º semestre de 2025, alertas Deter subiram pela primeira vez
+     no governo Lula (G1, 11/07/2025) — sinal de atenção, mas PRODES
+     anual fechou em queda.
+   - Pantanal teve redução histórica de 65,4% (Gazeta da Amazônia).
+3. ERRO ASSUMIDO: Subida pontual de alertas Deter em 1º semestre de
+     2025; incêndios em SP/Amazonas em 2024; percepção de que Marina
+     Silva foi ineficaz.
+4. SOLUÇÃO TEIA:
+   - Dado objetivo: "Desmatamento na Amazônia caiu 4 anos seguidos.
+     Em 2025, menor taxa em 11 anos: 5.796 km²."
+   - Comparar: Bolsonaro teve pico de 13.038 km² (2021). Reduzir
+     quase 60% é recorde global.
+   - Reconhecer: "Desafio continua — incêndios em 2024 foram graves.
+     Por isso, Pomar de Recuperação e Operação Amazônia."
+   - Mostrar: "Dilma + Lula (2003-2012) reduziram 83% de desmatamento.
+     Bolsonaro (2019-2022) aumentou 60%. Agora caiu de novo."
+
+
+################################################################################
+C. INSTITUCIONAL
+################################################################################
+
+--------------------------------------------------------------------------------
+C1. STF (relação com Alexandre de Moraes, Toffoli)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula controla o STF. Moraes é ministro dele, faz
+   perseguição política contra a oposição."
+2. DADO REAL:
+   - Moraes foi indicado ao STF por Michel Temer (2017) — não por Lula.
+     Foi indicado à presidência do TSE por Bolsonaro (2020).
+   - Em 30/07/2025, EUA (Trump) sancionou Moraes e esposa sob
+     magnitsky; em 12/12/2025 sanção foi retirada após pressão de Lula
+     e negociação tarifária (Exame; G1).
+   - Lula apoiou publicamente Moraes em reunião com ministros do STF
+     (G1 30/07/2025).
+   - Relação com Toffoli: crítica. Em 2019, Toffoli negou habeas corpus
+     para Lula ir ao enterro do irmão; Lula guarda mágoa (UOL, 12/02/2026).
+     Em mar/2026, Lula articulou afastamento temporário de Toffoli após
+     caso Banco Master (O Globo).
+   - Bolsonaro é alvo de 6 ações no STF e 16 no TSE; Moraes relata 6
+     (Metropoles).
+3. ERRO ASSUMIDO: Apoio público de Lula a Moraes dá munição à narrativa
+     de "cozinhamento."
+4. SOLUÇÃO TEIA:
+   - "Moraes foi indicado por Temer e apoiado por Bolsonaro. Lula não
+     indicou nem o nomeou presidente do TSE."
+   - "Não posso comentar decisões judiciais. Isso seria autoritarismo.
+     Se houvesse controle, Moraes não teria sido sancionado por Trump."
+   - Não repetir apoio público a Moraes — manter distância institucional.
+
+
+--------------------------------------------------------------------------------
+C2. TSE (Moraes — perseguição política?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "TSE persegue a direita, cassa candidatos, censura
+   manifestações, política judicializada."
+2. DADO REAL:
+   - TSE é órgão da Justiça Eleitoral, composto por ministros do STF,
+     STJ e advogados — não é controlado pelo Executivo.
+   - TSE julgou (jun/2023) Bolsonaro inelegível por abuso de poder
+     político (reunião com embaixadores em 2022). Decisão por 5x2.
+   - O caso dos 22 processos de Bolsonaro no STF/TSE (Metropoles) foi
+     instaurado com base em investigações da PF e PGR — não por
+     iniciativa isolada de Moraes.
+   - Em 2024/2025, defesa de Bolsonaro pediu SUSPEIÇÃO de Moraes várias
+     vezes; negada pela maioria do STF (Correio Braziliense, dez/2024).
+3. ERRO ASSUMIDO: Postura de Moraes às vezes appear extremada (gesto
+     de "degola" em 2024, Top Midia News) gera simpatia a Bolsonaro.
+4. SOLUÇÃO TEIA:
+   - "TSE julga com base na lei. Bolsonaro foi condenado por abuso de
+     poder político. Se houvesse perseguição, haveria cassação em
+     massa — não houve."
+   - Não defender Moraes pessoalmente; defender instituição.
+   - Dado: "Em 2024, TSE aplicou sanções também a candidatos do PT,
+     PDT, PL. Não há viés partidário comprovado."
+
+
+--------------------------------------------------------------------------------
+C3. TCU (relação)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "TCU também persegue o governo Lula, bloqueia políticas
+   sociais."
+2. DADO REAL:
+   - Bruno Dantas é presidente do TCU (desde dez/2023), próximo de Lula
+     mas autônomo (O Globo 10/10/2025).
+   - TCU colocou governo em "alerta vermelho fiscal" em 2025 (Diário do
+     Brasil); apontou déficit primário de R$ 58,7 bi (0,46% PIB) —
+     Zymler relator (Notícias do Planalto).
+   - Escândalo INSS: pagamentos a 11 mil mortos em 1 mês (R$ 21,2 mi).
+     TCU criticou. Dantas classificou de "alarmante."
+3. ERRO ASSUMIDO: Escândalo INSS (mortos recebendo) é fato real e
+     altamente prejudicial — respinga no governo.
+4. SOLUÇÃO TEIA:
+   - Reposicionar: "TCU é aliado no combate à corrupção. O caso INSS foi
+     identificado e corrigido em 30 dias."
+   - "Deficit primário é 0,46% do PIB — Bolsonaro teve 1,16% em 2020.
+     Dívida sob controle."
+   - Apontar auditoria: "[inserir número] de benefícios cancelados,
+     R$ X milhões recuperados."
+
+
+--------------------------------------------------------------------------------
+C4. PGR (nomeação)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula nomeou Paulo Gonet para PGR, é homem dele, foi
+   escolha política."
+2. DADO REAL:
+   - Paulo Gonet Branco foi indicado PGR em dez/2024, reconduzido em
+     15/12/2025 por mais 2 anos (Congresso em Foco; Metrópoles; G1;
+     Migalhas).
+   - Gonet foi escolhido a partir de lista tríplice do MPF — escolha
+     técnica, embora nomeação caiba ao presidente.
+   - Gonet atua em inquéritos contra Bolsonaro (8/1, joias, vacina,
+     ABIN) — mas com base em laudos da PF.
+3. ERRO ASSUMIDO: Recondução reforça narrativa de continuidade política
+     do indiciamento de Bolsonaro.
+4. SOLUÇÃO TEIA:
+   - "Gonet veio de lista tríplice do MPF. Nomeação segue Constituição.
+     Se escolhe político, viraria crise; escolheu técnico."
+   - "PGR denunciou Bolsonaro com base em provas. Não pode ignorar a PF."
+   - Em 2º mandato, considerar rodízio com outro nome técnico.
+
+
+--------------------------------------------------------------------------------
+C5. POLÍCIA FEDERAL (subordinada ao presidente?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "PF virou braço político do governo Lula, persegue a
+   oposição."
+2. DADO REAL:
+   - PF é vinculada ao Ministério da Justiça e Segurança Pública
+     (Lewandowski). Diretor-geral: Andrei Rodrigues (desde 2023).
+   - PF não é subordinada diretamente ao presidente — autonomia
+     funcional garantida por lei complementar.
+   - PF indiciou Bolsonaro em organização criminosa na ABIN Paralela
+     (CNN Brasil) — com base em provas técnicas (GPS, espionagem,
+     depoimentos).
+   - Em 2025, governo anunciou concurso com 2 mil vagas (1 mil em 2025,
+     1 mil em 2026) — Tribuna Online.
+3. ERRO ASSUMIDO: Andrei Rodrigues foi ligado historicamente à Lava
+     Jato; nomeação pode parecer política.
+4. SOLUÇÃO TEIA:
+   - "PF é vinculada ao MJ, com autonomia. Andrei Rodrigues veio de
+     carreira, indicado por Ministério Público."
+   - "PF indiciou Bolsonaro com base em provas. Não é política, é lei."
+   - Destacar concurso (2 mil vagas) como investimento em segurança.
+
+
+--------------------------------------------------------------------------------
+C6. ABIN (escândalo ABIN paralela — Bolsonaro, mas respingo?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "ABIN de Bolsonaro fez espionagem ilegal. ABIN de Lula
+   manteve práticas semelhantes."
+2. DADO REAL:
+   - "ABIN Paralela" sob Bolsonaro/Ramagem: espionou jornalistas,
+     ambientalistas, políticos (incluindo general Heleno), pelo
+     FirstMile/FindX (Globo, 27/03/2024; Intercept 26/01/2024).
+   - PF indiciou Bolsonaro, Alexandre Ramagem e Carlos Bolsonaro por
+     organização criminosa (CNN Brasil; Terra).
+   - Luiz Fernando Corrêa (indicado por Lula em maio/2023 para ABIN) foi
+     INDICIADO pela PF em 2025 por "conluio" com gestão anterior para
+     atrapalhar investigações (Opera; Band; Correio Braziliense).
+   - Lula MANTEVE Corrêa no cargo após indiciamento (O Globo 18/06/2025).
+3. ERRO ASSUMIDO: Manter Corrêa após indiciamento foi erro grave —
+     reforça narrativa de cumplicidade. Contrastar com a "vitrine ética"
+     do governo.
+4. SOLUÇÃO TEIA:
+   - Em 2026, DEMITIR Corrêa e nomear novo diretor de ABIN — gesto
+     simbólico de independência.
+   - Explicar: "Corrêa foi indiciado, não condenado. Vamos aguardar
+     due process. Mas por prudência, vou substituir."
+   - Acusar de volta: "ABIN Paralela é herança Bolsonaro. PT está
+     apurando, não perpetuando."
+
+
+--------------------------------------------------------------------------------
+C7. FORÇAS ARMADAS (golpismo militar ativo?)
+--------------------------------------------------------------------------------
+1. ARGUMENTO: "Lula deixa Forças Armadas sem comando, não enfrenta o
+   golpismo militar."
+2. DADO REAL:
+   - 8/1/2023: invasão de Praça dos Três Poderes com participação de
+     militares ativos e reservados.
+   - 25/11/2025: STF condenou militares do golpe (Brasil de Fato;
+     Informe GEDES 31/2025) — marco histórico.
+   - Folha de S.Paulo: julgamento foi "passo para aniquilamento do
+     golpismo dentro das Forças Armadas" (Informe GEDES).
+   - "Não acaba com golpismo nas FA" — especialistas (Brasil de Fato,
+     25/11/2025).
+   - CGU determinou ao Exército entregar fichas de militares ligados
+     ao assassinato de Rubens Paiva (Informe GEDES 26/2025).
+3. ERRO ASSUMIDO: Nomes de ministros militares do governo (Múcio, no
+     Defesa) foram mal recebidos. Múcio Monteiro Filho foi demitido em
+     2025; substituído por José Múcio (sem parentesco — núcleo de
+     crise). Comando do Exército teve troca polêmica (Tomás Paiva).
+4. SOLUÇÃO TEIA:
+   - "Condenamos os golpistas. Exército agora é comandado por
+     democratas (Tomás Paiva)."
+   - "Bolsonaro usou FA como palanque. Lula respeita a Constituição."
+   - Em 2º mandato, MINISTÉRIO da Defesa com civil técnico; reforçar
+     Ensino Militar sobre democracia.
+   - Defender: "Não vou perseguir militar. Mas não vou tolerar
+     golpe. A lei vale para todos."
+
+
+################################################################################
+D. MATRIZ DE EIXOS — RESUMO PARA DEBATE
+################################################################################
+
+EIXOS PRIORITÁRIOS DE ATAQUE ESPERADA EM 2026 (prioridade 1-5):
+
+P1 (ALTA):  Economia + Inflação + Juros + Comércio (não neste doc — ver
+            doc Econômico).
+P2 (ALTA):  Moraes/STF/TSE + "perseguição política" + cassação Bolsonaro
+            → É o eixo principal da direita.
+P3 (MÉDIA): ABIN paralela + Corrêa mantido + escândalo INSS mortos
+            (corrupção).
+P4 (MÉDIA): Centrão + Orçamento Secreto + Lira + 39 ministérios.
+P5 (BAIXA): Venezuela + Gaza + Ucrânia (difíceis de explicar em 30s).
+
+FRASES-CHAVE PARA REPERTÓRIO RÁPIDO:
+- "STF, TSE, PGR, PF são instituições. Não controlam nem são
+  controladas pelo presidente. Isso é democracia."
+- "Bolsonaro está inelegível por decisão judicial baseada em provas.
+  Não foi Lula quem o cassou — foi a lei."
+- "Desmatamento caiu 4 anos seguidos. Bolsonaro tinha aumentado 60%."
+- "Brasil NÃO aderiu à Rota da Seda. Mantivemos autonomia."
+- "COP30 entregou o Pacote de Belém. Quem não foi? Trump."
+- "Orçamento secreto foi extinto pelo STF. Lula cortou R$ 5,6 bi em
+  emendas."
+- "Brasil condenou a invasão da Ucrânia. Não mandamos armas porque não
+  somos beligerantes."
+- "Moraes foi indicado por Temer e apoiado por Bolsonaro para o TSE."
+
+CUIDADOS PARA EVITAR (não repetir):
+- Comparar Israel com Hitler (B3) — não reproduzir.
+- Sugerir moeda comum BRICS imediata (B5) — moderar discurso.
+- Defender pessoalmente Moraes (C1) — defender instituição.
+- Falar em "quarto mandato" (A2) — Lira já mencionou; manter
+  oficialmente "reeleição."
+
+
+################################################################################
+E. FONTES PRINCIPAIS (verificação recomendada antes do debate)
+################################################################################
+
+- Wikipédia: "Governo Lula (2023–presente)", "PEC da Blindagem", "Foro
+  de São Paulo", "Lista de membros do gabinete de Lula (2023–presente)".
+- G1/Globo: "Lula reforça base no Centrão e tenta blindar governo até
+  2026" (30/07/2025); "Planalto se esquiva de PEC da Blindagem"
+  (27/08/2025); "Brasil anuncia menor taxa de desmatamento na Amazônia
+  em 11 anos" (30/10/2025).
+- Valor: "Na ausência de Motta, Lira afaga Lula" (26/11/2025); "Brazil
+  pursues shared future with China, skips Belt and Road" (21/11/2024).
+- DW: "Brasil e China assinam 37 acordos, sem adesão à Rota da Seda"
+  (20/11/2024).
+- UOL/BBC/CNN Brasil: "Lula e Zelensky em NY" (24/09/2025).
+- BBC Brasil: "PEC da blindagem é barrada no Senado" (2025).
+- CNN Brasil: "Lula repete 2002 e busca neutralidade eleitoral do
+  Centrão" (19/11/2025).
+- Exame: "Ligações com Lula e alívio tarifário precederam fim de
+  sanções a Moraes" (2025).
+- Brasil de Fato: "Prisão de militares é marco na democracia" (25/11/2025).
+- INPE: Nota Técnica PRODES 2025 (15/10/2025); Dados Prodes Amazônia
+  2025 (30/10/2025).
+- Infomoney: "Lula 3 chega ao último ano" (2025); "Força de Lula no
+  Congresso diminui, mas analistas mantêm base em 43%" (2025).
+- Congresso em Foco: "Lula reconduz Paulo Gonet à chefia da PGR"
+  (16/12/2025).
+- Metropoles: "Moraes está à frente de 22 ações contra Bolsonaro no
+  TSE e STF".
+- O Globo: "Lula decide manter chefe da Abin mesmo após indiciamento
+  pela PF" (18/06/2025).
+- Sin Agências: "Brasil encaminha Memorando Inicial à OCDE" (2025).
+- Eco Response / UOL Ecoa: resultados COP30 (22/11/2025 e 01/12/2025).
+- Agência Tatu / Estadão: 38 ministérios (nov/2025).
+- Gazeta do Povo: "Adesão do Brasil à OCDE não é prioridade de Lula".
+- Datafolha: "Polarização avança; petistas superam bolsonaristas"
+  (24/12/2025).
+- Valor Investe: mesmo tema (24/12/2025).
+- CNN Brasil (Venceslau): "Lula repete 2002 e busca neutralidade
+  eleitoral do Centrão" (19/11/2025).
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

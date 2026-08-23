@@ -38,18 +38,22 @@ O projeto nasce como um **compromisso unilateral** — não como uma negociaçã
 | Carta de Colaboração Aberta | [pt](docs/open-collaboration-charter/pt.md) | [en](docs/open-collaboration-charter/en.md) | [zh](docs/open-collaboration-charter/zh.md) |
 | Política de Invenção Aberta | [pt](docs/open-invention-policy/pt.md) | [en](docs/open-invention-policy/en.md) | [zh](docs/open-invention-policy/zh.md) |
 | Spec Driven Development | [pt](docs/spec-driven-development.md) | [en](docs/spec-driven-development.en.md) | [zh](docs/spec-driven-development.zh.md) |
+| O Crivo — canal público de sugestões | [pt](docs/crivo/pt.md) | [en](docs/crivo/en.md) | [zh](docs/crivo/zh.md) |
 
 ## Estrutura planejada
 
 - `docs/unilateral-commitment/` — Declaração Unilateral de Compromisso, documento fundador do projeto (trilíngue)
+- `docs/carta-boas-vindas/` — Carta de Boas-Vindas: o convite humano à teia (trilíngue)
 - `docs/open-collaboration-charter/` — Carta de Colaboração Aberta: termos de colaboração do autor como arquiteto de protótipos (trilíngue)
 - `docs/open-invention-policy/` — Política de Invenção Aberta: regime "patente free" com atribuição obrigatória (trilíngue)
+- `docs/crivo/` — O Crivo: canal público de sugestões, com registro, parking e túmulo documentado (trilíngue; o registro é operacional)
+- `tools/ecossistema/` — ferramentas da esteira: gerador de páginas dos projetos e lint de specs (EST-002, roda no CI)
 - `prototypes/` — série numerada de protótipos; começa no `0001-ponte/` (desafio em andamento)
 - `docs/proposals/` — Propostas futuras de intercâmbio cultural, acadêmico, comercial, tecnológico e ambiental *(em construção)*
 
 ## Como contribuir
 
-Sugestões, correções e novas ideias são bem-vindas por meio de *issues* e *pull requests* — em português, inglês ou chinês.
+Sugestões, correções e novas ideias são bem-vindas por meio de *issues* e *pull requests* — em português, inglês ou chinês. Sugestões de melhoria entram pelo [Crivo](docs/crivo/pt.md): abra uma issue com o modelo **"O Crivo — sugestão"** (problema observado + proposta) e a engenharia responde com veredito e motivo.
 
 ## Blueprints externos
 

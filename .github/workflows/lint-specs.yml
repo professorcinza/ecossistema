@@ -1,0 +1,23 @@
+name: Lint da Esteira (EST-002)
+
+on:
+  push:
+    branches: [main]
+    paths: ['docs/**', 'tools/**', 'README*.md', '.github/**']
+  pull_request:
+    paths: ['docs/**', 'tools/**', 'README*.md', '.github/**']
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    name: Spec inválida não entra
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Lint das specs (trigêmeas, IDs, status, evidência)
+        run: python tools/ecossistema/lint_specs.py docs README.md

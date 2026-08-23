@@ -34,20 +34,26 @@ The project begins as a **unilateral commitment** — not a negotiation — assu
 | Document | Português | English | 中文 |
 |---|---|---|---|
 | Unilateral Declaration of Commitment | [pt](docs/unilateral-commitment/pt.md) | [en](docs/unilateral-commitment/en.md) | [zh](docs/unilateral-commitment/zh.md) |
+| Welcome Letter | [pt](docs/carta-boas-vindas/pt.md) | [en](docs/carta-boas-vindas/en.md) | [zh](docs/carta-boas-vindas/zh.md) |
 | Open Collaboration Charter | [pt](docs/open-collaboration-charter/pt.md) | [en](docs/open-collaboration-charter/en.md) | [zh](docs/open-collaboration-charter/zh.md) |
 | Open Invention Policy | [pt](docs/open-invention-policy/pt.md) | [en](docs/open-invention-policy/en.md) | [zh](docs/open-invention-policy/zh.md) |
+| Spec Driven Development | [pt](docs/spec-driven-development.md) | [en](docs/spec-driven-development.en.md) | [zh](docs/spec-driven-development.zh.md) |
+| The Sieve — public suggestion channel | [pt](docs/crivo/pt.md) | [en](docs/crivo/en.md) | [zh](docs/crivo/zh.md) |
 
 ## Planned structure
 
 - `docs/unilateral-commitment/` — the Unilateral Declaration of Commitment, the project's founding document (trilingual)
+- `docs/carta-boas-vindas/` — the Welcome Letter: the human invitation into the web (trilingual)
 - `docs/open-collaboration-charter/` — the Open Collaboration Charter: the author's terms of collaboration as a prototype architect (trilingual)
 - `docs/open-invention-policy/` — the Open Invention Policy: the "patent-free" regime with mandatory attribution (trilingual)
+- `docs/crivo/` — the Sieve: public suggestion channel, with log, parking, and documented graveyard (trilingual; the log is operational)
+- `tools/ecossistema/` — pipeline tools: project page generator and spec linter (EST-002, runs in CI)
 - `prototypes/` — numbered prototype series; begins with `0001-ponte/` (challenge in progress)
 - `docs/proposals/` — future proposals for cultural, academic, commercial, technological, and environmental exchange *(under construction)*
 
 ## How to contribute
 
-Suggestions, corrections, and new ideas are welcome via *issues* and *pull requests* — in Portuguese, English, or Chinese.
+Suggestions, corrections, and new ideas are welcome via *issues* and *pull requests* — in Portuguese, English, or Chinese. Improvement suggestions enter through [the Sieve](docs/crivo/en.md): open an issue with the **"The Sieve — suggestion"** template (observed problem + proposal) and engineering answers with verdict and reason.
 
 ## External blueprints
 

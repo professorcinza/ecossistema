@@ -34,20 +34,26 @@
 | 文件 | Português | English | 中文 |
 |---|---|---|---|
 | 单方面承诺声明 | [pt](docs/unilateral-commitment/pt.md) | [en](docs/unilateral-commitment/en.md) | [zh](docs/unilateral-commitment/zh.md) |
+| 欢迎信 | [pt](docs/carta-boas-vindas/pt.md) | [en](docs/carta-boas-vindas/en.md) | [zh](docs/carta-boas-vindas/zh.md) |
 | 开放合作章程 | [pt](docs/open-collaboration-charter/pt.md) | [en](docs/open-collaboration-charter/en.md) | [zh](docs/open-collaboration-charter/zh.md) |
 | 开放发明政策 | [pt](docs/open-invention-policy/pt.md) | [en](docs/open-invention-policy/en.md) | [zh](docs/open-invention-policy/zh.md) |
+| 规格驱动开发 | [pt](docs/spec-driven-development.md) | [en](docs/spec-driven-development.en.md) | [zh](docs/spec-driven-development.zh.md) |
+| 建议之筛——公开建议渠道 | [pt](docs/crivo/pt.md) | [en](docs/crivo/en.md) | [zh](docs/crivo/zh.md) |
 
 ## 规划结构
 
 - `docs/unilateral-commitment/` — 单方面承诺声明，项目创始文件（三语版本）
+- `docs/carta-boas-vindas/` — 欢迎信：进入蛛网的人性邀请（三语版本）
 - `docs/open-collaboration-charter/` — 开放合作章程：作者作为原型架构师的合作条件（三语版本）
 - `docs/open-invention-policy/` — 开放发明政策：强制署名的“免专利”制度（三语版本）
+- `docs/crivo/` — 建议之筛：公开建议渠道，含记录、停放与有档墓园（三语版本；记录为运营性质）
+- `tools/ecossistema/` — 流水线工具：项目页面生成器与规格 linter（EST-002，运行于 CI）
 - `prototypes/` — 编号原型系列；始于 `0001-ponte/`（进行中的挑战）
 - `docs/proposals/` — 未来在文化、学术、商贸、技术与环境领域的交流提案 *（建设中）*
 
 ## 如何参与
 
-欢迎通过 *issue* 和 *pull request* 提出建议、指正与新想法——葡萄牙语、英语或中文均可。
+欢迎通过 *issue* 和 *pull request* 提出建议、指正与新想法——葡萄牙语、英语或中文均可。改进建议经[建议之筛](docs/crivo/zh.md)进入：以**“建议之筛”**模板开 issue（观察到的问题 + 提案），工程必以裁决与理由作答。
 
 ## 外部蓝图
 

@@ -1,3 +1,5 @@
+<!-- lint-specs: exempt-i18n — placeholder "em construção": trilingue num arquivo só; vira trio quando as propostas nascerem -->
+
 # Propostas / Proposals / 提案
 
 Este diretório reunirá as propostas futuras de intercâmbio — cultural, acadêmico, comercial, tecnológico e ambiental. Cada proposta será publicada sempre nas três línguas do projeto: português, inglês e chinês.

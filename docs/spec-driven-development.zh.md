@@ -131,6 +131,7 @@
 | EST-005 | 签名可复现的发布（TOS-019）；生成代码通过依赖审计 |
 | EST-006 | 语言例外（上游 C、AI Python）在自动物化之外——它们是贡献，非派生产品 |
 | EST-007 | 流水线尽可能运行于生态系统自身的 APU 链上——系统物化自身 |
+| EST-008 | 自动验证本身亦有规格（第三法）：lint（`tools/ecossistema/lint_specs.py`）校验三语齐全（FMT-I18N）、ID 格式 `DOMAIN-NNN`（FMT-ID）、**同表内**重复（FMT-DUP——在同一文档的验证表中复列 ID 属引用，非冲突），以及由数据自证的 status 列：仅当某值属词汇表 rascunho/revisado/verificado（+英文，+草案/草稿/已审/已验证）方为生命周期列——此时才要求词汇（FMT-STATUS）与已验证之证据（FMT-EVID）；书面豁免以 `lint-specs: exempt-i18n` 标记；退出代码 0 通过 · 1 违规 · 2 用法——皆为版本化于本行的行为；lint 变，本行先变 |
 
 ---
 

@@ -36,7 +36,7 @@ EXEMPT_MARKER = re.compile(r"<!--\s*lint-specs:\s*exempt-i18n")
 EVIDENCE = re.compile(r"\d|http")
 
 STATUS_WORD = re.compile(
-    r"^(rascunho|revisado|verificado|draft|reviewed|verified|草案|已审|已验证)"
+    r"^(rascunho|revisado|verificado|draft|reviewed|verified|草案|草稿|已审|已验证)"
     r"[:：\-—–(（,，.\s]*(.*)$", re.IGNORECASE)
 VERIFIED = {"verificado", "verified", "已验证"}
 STATUS_HEADERS = ("status", "estado", "状态")
@@ -96,13 +96,22 @@ def is_exempt(path):
 
 
 def lint_ids_and_status(path):
-    """Regras 2, 3 e 4 sobre as tabelas de um arquivo."""
+    """Regras 2, 3 e 4 sobre as tabelas de um arquivo.
+
+    Duplicata é na mesma tabela (EST-008): re-listar ID em tabela de
+    verificação do mesmo documento é citação, não conflito. Coluna de
+    status é tipada pelos dados: só é ciclo de vida se algum valor
+    pertence ao vocabulário — colunas de "estado do mundo" ficam fora.
+    """
     out = []
     lines = path.read_text(encoding="utf-8").splitlines()
-    seen = {}
     for _hln, header, rows in iter_tables(lines):
+        seen = {}
         status_idx = next((k for k, c in enumerate(header)
                            if c.lower().startswith(STATUS_HEADERS)), None)
+        lifecycle = status_idx is not None and any(
+            status_idx < len(cells) and STATUS_WORD.fullmatch(cells[status_idx])
+            for _ln, cells in rows)
         for ln, cells in rows:
             if cells:
                 first = cells[0]
@@ -115,7 +124,7 @@ def lint_ids_and_status(path):
                                      f"ID duplicado: {first} (primeiro na linha {seen[first]})"))
                     else:
                         seen[first] = ln
-            if status_idx is not None and status_idx < len(cells):
+            if lifecycle and status_idx is not None and status_idx < len(cells):
                 m = STATUS_WORD.fullmatch(cells[status_idx])
                 if not m:
                     out.append(v(path, ln, "FMT-STATUS",

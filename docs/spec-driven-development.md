@@ -129,6 +129,7 @@ REPO DE SPEC          ESTEIRA                                          PRODUTO
 | EST-005 | releases assinadas e reproduzíveis (TOS-019); código gerado passa por auditoria de dependências | segurança |
 | EST-006 | exceções de linguagem (C upstream, Python de IA) ficam fora da materialização automática — são contribuição, não produto derivado | norma II |
 | EST-007 | a esteira roda, quando possível, na própria cadeia de APUs do ecossistema — o sistema que se materializa a si mesmo | arquiteto |
+| EST-008 | a validação automática é ela própria especificada (lei 3): o lint (`tools/ecossistema/lint_specs.py`) valida trigêmeas (FMT-I18N), formato de ID `DOMÍNIO-NNN` (FMT-ID), duplicata **na mesma tabela** (FMT-DUP — re-listar ID em tabela de verificação do mesmo documento é citação, não conflito), coluna de status tipada pelos próprios dados: só é ciclo de vida se algum valor for do vocabulário rascunho/revisado/verificado (+ EN, + 草案/草稿/已审/已验证) — então vocabulário (FMT-STATUS) e evidência de verificado (FMT-EVID) se exigem; isenção documentada por marcador `lint-specs: exempt-i18n`; códigos de saída 0 passou · 1 violações · 2 uso — comportamento versionado nesta linha; mudou o lint, muda esta linha primeiro | lei 3 |
 
 **O precedente da indústria** (ago/2026): o spec-kit do GitHub e o Kiro da Amazon provam o paradigma spec→código; o ecossistema estende-o a spec→**produto**, com verificação como gate de primeira classe.
 

@@ -133,6 +133,7 @@ SPEC REPO            PIPELINE                                        PRODUCT
 | EST-005 | signed, reproducible releases (TOS-019); generated code passes dependency audit |
 | EST-006 | language exceptions (upstream C, AI Python) stay outside automatic materialization — they are contribution, not derived product |
 | EST-007 | the pipeline runs, when possible, on the ecosystem's own APU chain — the system materializing itself |
+| EST-008 | automated validation is itself specified (law 3): the lint (`tools/ecossistema/lint_specs.py`) checks trilingual completeness (FMT-I18N), ID format `DOMAIN-NNN` (FMT-ID), duplicates **within the same table** (FMT-DUP — re-listing an ID in a verification table of the same document is citation, not conflict), and status columns typed by their own data: a column is lifecycle only if some value belongs to the vocabulary draft/reviewed/verified (+ PT, + 草案/草稿/已审/已验证) — only then are vocabulary (FMT-STATUS) and evidence for verified (FMT-EVID) enforced; documented exemption via the `lint-specs: exempt-i18n` marker; exit codes 0 pass · 1 violations · 2 usage — behavior versioned in this line; if the lint changes, this line changes first |
 
 ---
 

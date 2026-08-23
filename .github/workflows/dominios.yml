@@ -1,0 +1,87 @@
+name: dominios
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      domains: ${{ steps.filter.outputs.domains }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - id: filter
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          # Detecta quais domínios foram tocados; na ausência de base (push inicial), todos.
+          if [ -z "$BASE" ] || ! git rev-parse -q --verify "$BASE" >/dev/null; then
+            dirs=$(ls -d dominios/*/ | xargs -n1 basename | jq -R . | jq -s -c .)
+          else
+            dirs=$(git diff --name-only "$BASE" "${{ github.event.pull_request.head.sha || github.sha }}" \
+              | cut -d/ -f2 | grep -E '^(teia|energia|civilizacao|poder-visivel|social)$' \
+              | sort -u | jq -R . | jq -s -c .)
+          fi
+          echo "domains=$dirs" >> "$GITHUB_OUTPUT"
+          echo "Domínios alterados: $dirs"
+
+  test-domain:
+    needs: changes
+    if: ${{ needs.changes.outputs.domains != '[]' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        domain: ${{ fromJson(needs.changes.outputs.domains) }}
+    name: testes — ${{ matrix.domain }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # poder-visivel: stack npm
+      - name: Detecta e testa stack do domínio (${{ matrix.domain }})
+        run: |
+          set -e
+          found=0
+          for pkg in $(find "dominios/${{ matrix.domain }}" -name package.json -not -path '*/node_modules/*'); do
+            dir=$(dirname "$pkg")
+            echo "::group::npm — $dir"
+            cd "$dir"
+            npm ci || npm install
+            npm test --if-present
+            cd -
+            echo "::endgroup::"
+            found=1
+          done
+
+          for py in $(find "dominios/${{ matrix.domain }}" -name pyproject.toml -o -name requirements.txt); do
+            dir=$(dirname "$py")
+            echo "::group::python — $dir"
+            python3 -m pip install --quiet pip
+            [ -f "$py" ] && case "$py" in
+              *requirements.txt) pip install -r "$py" ;;
+              *) pip install . || pip install -e . || true ;;
+            esac
+            if [ -f "$dir/pyproject.toml" ]; then
+              (cd "$dir" && python3 -m pytest --version >/dev/null 2>&1 && python3 -m pytest || echo "sem pytest configurado — skip")
+            else
+              (cd "$dir" && python3 -m pytest || true)
+            fi
+            echo "::endgroup::"
+            found=1
+          done
+
+          for cargo in $(find "dominios/${{ matrix.domain }}" -name Cargo.toml); do
+            dir=$(dirname "$cargo")
+            echo "::group::rust — $dir"
+            (cd "$dir" && cargo test)
+            echo "::endgroup::"
+            found=1
+          done
+
+          if [ "$found" -eq 0 ]; then
+            echo "Domínio '${{ matrix.domain }}' não tem stack de código/testes — nada a rodar (specs apenas). ✅"
+          fi

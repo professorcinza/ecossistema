@@ -6,7 +6,10 @@ Fonte unica de verdade: qual projeto existe, a que dominio pertence, quem depend
 
 - **teia**: teia-rede (userscript), TEIA, teia-kernel, specs-teia — rede P2P descentralizada + kernel de nacoes + engine
 - **energia**: avatar-energy — hardware modular aberto, avatar de energia, casa local-first
-- **civilizacao**: our-civilization-the-game, inkos-worlds — jogo de civilizacao narrativo + mundos/contratos para LLM
+- **civilizacao**: our-civilization-the-game (DOIS produtos num motor: The Game = o
+  treino, RPG/MMORPG narrativo; Civilization Lab = o laboratório, simulador/emulador
+  de sociedade com forks selados + reality feed para questões concretas do mundo real),
+  inkos-worlds — jogo de civilizacao narrativo + mundos/contratos para LLM
 - **poder-visivel**: poder-visivel (V FOR X) — vigilancia do poder: DAG assinado, ZK, oraculo semantico
 - **social**: longterm-mutual-support-friendship, ponte-brasil-china — charters sociais, instancias do template social
 

@@ -1,0 +1,32 @@
+name: guarda-contratos
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, labeled, unlabeled]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: PR tocando nucleo/contratos exige label 'contract'
+        env:
+          LABELS: ${{ join(github.event.pull_request.labels.*.name, ' ') }}
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          head="${{ github.event.sha }}"
+          touched=$(git diff --name-only "$base" "$head" | grep '^nucleo/contratos/' || true)
+          if [ -n "$touched" ]; then
+            echo "Arquivos de contrato alterados:"
+            echo "$touched"
+            if [[ " $LABELS " == *" contract "* ]]; then
+              echo "OK — label 'contract' presente."
+            else
+              echo "::error::PR altera nucleo/contratos/ sem a label 'contract'. Mudança de contrato exige ADR em docs/adr/ e a label 'contract' (registry.md, regra 2 e 5)."
+              exit 1
+            fi
+          else
+            echo "Nenhum arquivo em nucleo/contratos/ — guarda não se aplica."
+          fi

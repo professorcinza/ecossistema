@@ -85,11 +85,7 @@ _TOKEN = re.compile(r"\{([a-zA-Z_][a-zA-Z0-9_]*)\}")
 
 def interpolate(template: str, values: dict[str, str]) -> str:
     """Single-pass: valores não são re-interpolados; desconhecidos ficam literais."""
-    return _TOKEN.sub(lambda m: _escape(values.get(m.group(1), m.group(0))), template)
-
-
-def _escape(s: str) -> str:
-    return s.replace("{", "{{").replace("}", "}}")
+    return _TOKEN.sub(lambda m: values.get(m.group(1), m.group(0)), template)
 
 
 def render(template: str, values: dict[str, str]) -> str:

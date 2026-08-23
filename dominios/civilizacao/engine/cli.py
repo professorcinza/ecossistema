@@ -4,9 +4,16 @@ from __future__ import annotations
 import argparse
 import sys
 
-from .events import EventStore
-from .game import Game
-from .scenario import Scenario
+if __package__:
+    from .events import EventStore
+    from .game import Game
+    from .scenario import Scenario
+else:
+    # execução direta: re-executa como módulo do pacote
+    import os as _os, sys as _sys
+    _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
+    from engine.cli import main  # noqa: F401
+    _sys.exit(main())
 
 
 def main(argv=None):
@@ -18,8 +25,9 @@ def main(argv=None):
     sc = Scenario.load(args.scenario)
     store = EventStore(args.db)
     game = Game(store)
-    cid = game.new_campaign(sc, {}, ai_opening=(sc.opening_mode == "ai"))
-    print(f"Campanha {cid}\n")
+    answers = sc.ask_setup() if sc.questions else {}
+    cid = game.new_campaign(sc, answers, ai_opening=(sc.opening_mode == "ai"))
+    print(f"\nCampanha {cid} — {sc.title}\n")
     print(game.opening_of(cid))
     print("\nComandos: texto = ação | /rewind | /sair")
 

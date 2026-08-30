@@ -34,15 +34,19 @@ The project begins as a **unilateral commitment** — not a negotiation — assu
 | Document | Português | English | 中文 |
 |---|---|---|---|
 | Unilateral Declaration of Commitment | [pt](docs/unilateral-commitment/pt.md) | [en](docs/unilateral-commitment/en.md) | [zh](docs/unilateral-commitment/zh.md) |
+| Welcome Letter | [pt](docs/carta-boas-vindas/pt.md) | [en](docs/carta-boas-vindas/en.md) | [zh](docs/carta-boas-vindas/zh.md) |
 | Open Collaboration Charter | [pt](docs/open-collaboration-charter/pt.md) | [en](docs/open-collaboration-charter/en.md) | [zh](docs/open-collaboration-charter/zh.md) |
 | Open Invention Policy | [pt](docs/open-invention-policy/pt.md) | [en](docs/open-invention-policy/en.md) | [zh](docs/open-invention-policy/zh.md) |
+| Spec Driven Development | [pt](docs/spec-driven-development.md) | [en](docs/spec-driven-development.en.md) | [zh](docs/spec-driven-development.zh.md) |
 
 ## Planned structure
 
 - `docs/unilateral-commitment/` — the Unilateral Declaration of Commitment, the project's founding document (trilingual)
+- `docs/carta-boas-vindas/` — Welcome Letter: the human invitation into the ecosystem (trilingual)
 - `docs/open-collaboration-charter/` — the Open Collaboration Charter: the author's terms of collaboration as a prototype architect (trilingual)
 - `docs/open-invention-policy/` — the Open Invention Policy: the "patent-free" regime with mandatory attribution (trilingual)
-- `prototypes/` — numbered prototype series; begins with `0001-ponte/` (challenge in progress)
+- `docs/spec-driven-development.md` — engineering constitution: Spec Driven Development (trilingual)
+- `prototypes/` — numbered prototype series; begins with `0001-ponte/` (approved 2026-08-22)
 - `docs/proposals/` — future proposals for cultural, academic, commercial, technological, and environmental exchange *(under construction)*
 
 ## How to contribute

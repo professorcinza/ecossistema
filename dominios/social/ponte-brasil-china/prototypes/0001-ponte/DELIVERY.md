@@ -1,5 +1,7 @@
 # Entrega 001 — "Ponte"
 
+*Idiomas:* [Português](DELIVERY.md) · [English](DELIVERY.en.md) · [中文](DELIVERY.zh.md)
+
 **Arquiteto:** Cleiton Moura Loura · **Implementação:** conforme o breve, em 22 de agosto de 2026
 
 ---
@@ -41,7 +43,7 @@
 
 ## Tamanho verificado
 
-- `index.html`: **8.138 bytes** sem compressão — 40% do orçamento de 20 KB.
+- `index.html`: **9.750 bytes** sem compressão — 48% do orçamento de 20 KB.
 - URLS externas no arquivo: **0** (verificado por busca) — nenhuma requisição de rede, offline garantido.
 
 ## Evidência de teste funcional (jsdom, 22/08/2026)
@@ -55,8 +57,13 @@ A pedido do arquiteto, adicionada a seção **"Projetos e blueprints externos"**
 - **Estado do link:** verificado novamente em 22/08/2026 — **repositório público e acessível** (4 commits; `BLUEPRINT.md`, conteúdo CC BY-SA 4.0, código AGPL-3.0). Antes da publicação, retornava 404;
 - O link é externo (`target=_blank`, `rel=noopener noreferrer`), mas **não gera requisição de rede** ao carregar a página — o requisito offline permanece válido.
 
+## Revisão 3 (27/08/2026) — Carta e Constituição na Ponte
+
+A Ponte passa a apontar também para a **Carta de Boas-Vindas** e a **Constituição de engenharia (SDD)**, cada idioma para a sua versão. O aviso de não oficialidade, o teto de 20 KB e o requisito offline permanecem válidos.
+
 ## Pendências
 
 - [x] Aprovação (ou alterações) do arquiteto — **aprovado em 22/08/2026**
 - [x] Commit com autoria registrada
 - [x] Publicação pública do repositório `Our-Civilization-The-Game` para que o link da Ponte funcione
+- [x] BRIEF e DELIVERY em PT, EN e ZH — dívida de concepção paga em 27/08/2026

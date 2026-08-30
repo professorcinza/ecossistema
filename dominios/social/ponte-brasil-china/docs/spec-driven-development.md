@@ -183,4 +183,4 @@ ENTRADA (aberta)          CRIVO TÉCNICO                        DESTINO (três)
 
 ---
 
-*Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões EN/ZH abrem a pedido de contribuidores.*
+*Código AGPL-3.0-or-later · Conteúdo CC BY-SA 4.0. Arquitetura e autoria: Cleiton Moura Loura. Versões: [PT](spec-driven-development.md) · [EN](spec-driven-development.en.md) · [ZH](spec-driven-development.zh.md).*

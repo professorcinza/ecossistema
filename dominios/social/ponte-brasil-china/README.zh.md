@@ -34,15 +34,19 @@
 | 文件 | Português | English | 中文 |
 |---|---|---|---|
 | 单方面承诺声明 | [pt](docs/unilateral-commitment/pt.md) | [en](docs/unilateral-commitment/en.md) | [zh](docs/unilateral-commitment/zh.md) |
+| 欢迎信 | [pt](docs/carta-boas-vindas/pt.md) | [en](docs/carta-boas-vindas/en.md) | [zh](docs/carta-boas-vindas/zh.md) |
 | 开放合作章程 | [pt](docs/open-collaboration-charter/pt.md) | [en](docs/open-collaboration-charter/en.md) | [zh](docs/open-collaboration-charter/zh.md) |
 | 开放发明政策 | [pt](docs/open-invention-policy/pt.md) | [en](docs/open-invention-policy/en.md) | [zh](docs/open-invention-policy/zh.md) |
+| 规格驱动开发 | [pt](docs/spec-driven-development.md) | [en](docs/spec-driven-development.en.md) | [zh](docs/spec-driven-development.zh.md) |
 
 ## 规划结构
 
 - `docs/unilateral-commitment/` — 单方面承诺声明，项目创始文件（三语版本）
+- `docs/carta-boas-vindas/` — 欢迎信：进入生态系统的人性邀请（三语版本）
 - `docs/open-collaboration-charter/` — 开放合作章程：作者作为原型架构师的合作条件（三语版本）
 - `docs/open-invention-policy/` — 开放发明政策：强制署名的“免专利”制度（三语版本）
-- `prototypes/` — 编号原型系列；始于 `0001-ponte/`（进行中的挑战）
+- `docs/spec-driven-development.md` — 工程宪法：规格驱动开发（三语版本）
+- `prototypes/` — 编号原型系列；始于 `0001-ponte/`（已于 2026-08-22 批准）
 - `docs/proposals/` — 未来在文化、学术、商贸、技术与环境领域的交流提案 *（建设中）*
 
 ## 如何参与

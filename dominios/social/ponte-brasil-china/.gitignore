@@ -3,3 +3,5 @@
 
 # Ferramentas locais / Local tools / 本地工具
 .mimosa/
+__pycache__/
+*.py[cod]

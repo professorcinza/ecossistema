@@ -162,11 +162,15 @@ def readme_header(p):
             "> Licenças: código **AGPL-3.0-or-later** · conteúdo **CC BY-SA 4.0** · arquitetura e autoria: **Cleiton Moura Loura**\n\n---\n\n")
 
 def gen_page(p):
-    bullets_html = "".join("<li>" + b + "</li>" for b in p['bullets'][0])
+    bullets_html = "".join(f"<li data-i=b{i}>{b}</li>" for i, b in enumerate(p['bullets'][0]))
+    def pack(role, tag, dh, bh, lh, desc, foot, ann, bullets):
+        t = {'role': role, 'tag': tag, 'dh': dh, 'bh': bh, 'lh': lh, 'desc': desc, 'foot': foot, 'ann': ann}
+        t.update({f'b{i}': b for i, b in enumerate(bullets)})
+        return t
     t = {
-      'pt': {'role': 'no ecossistema: ' + p['papel'], 'tag': p['tag'][0], 'dh': 'Sobre', 'bh': 'Em números', 'lh': 'Links', 'desc': p['desc'][0], 'foot': 'Cleiton Moura Loura · AGPL-3.0 (código) · CC BY-SA 4.0 (conteúdo)', 'ann': 'Idioma alterado.'},
-      'en': {'role': 'in the ecosystem: ' + p['papel_en'], 'tag': p['tag'][1], 'dh': 'About', 'bh': 'In numbers', 'lh': 'Links', 'desc': p['desc'][1], 'foot': 'Cleiton Moura Loura · AGPL-3.0 (code) · CC BY-SA 4.0 (content)', 'ann': 'Language changed.'},
-      'zh': {'role': '生态系统中之角色：' + p['papel_zh'], 'tag': p['tag'][2], 'dh': '关于', 'bh': '数据一览', 'lh': '链接', 'desc': p['desc'][2], 'foot': 'Cleiton Moura Loura · AGPL-3.0（代码）· CC BY-SA 4.0（内容）', 'ann': '语言已切换。'},
+      'pt': pack('no ecossistema: ' + p['papel'], p['tag'][0], 'Sobre', 'Em números', 'Links', p['desc'][0], 'Cleiton Moura Loura · AGPL-3.0 (código) · CC BY-SA 4.0 (conteúdo)', 'Idioma alterado.', p['bullets'][0]),
+      'en': pack('in the ecosystem: ' + p['papel_en'], p['tag'][1], 'About', 'In numbers', 'Links', p['desc'][1], 'Cleiton Moura Loura · AGPL-3.0 (code) · CC BY-SA 4.0 (content)', 'Language changed.', p['bullets'][1]),
+      'zh': pack('生态系统中之角色：' + p['papel_zh'], p['tag'][2], '关于', '数据一览', '链接', p['desc'][2], 'Cleiton Moura Loura · AGPL-3.0（代码）· CC BY-SA 4.0（内容）', '语言已切换。', p['bullets'][2]),
     }
     extra = '<a href=https://github.com/professorcinza/avatar-energy/releases/tag/v1.0.0>PDF v1.0.0 ↗</a>' if p.get('extra') == 'release' else ''
     return (PAGE

@@ -34,6 +34,7 @@ O projeto nasce como um **compromisso unilateral** — não como uma negociaçã
 | Documento | Português | English | 中文 |
 |---|---|---|---|
 | Declaração Unilateral de Compromisso | [pt](docs/unilateral-commitment/pt.md) | [en](docs/unilateral-commitment/en.md) | [zh](docs/unilateral-commitment/zh.md) |
+| Carta de Boas-Vindas | [pt](docs/carta-boas-vindas/pt.md) | [en](docs/carta-boas-vindas/en.md) | [zh](docs/carta-boas-vindas/zh.md) |
 | Carta de Colaboração Aberta | [pt](docs/open-collaboration-charter/pt.md) | [en](docs/open-collaboration-charter/en.md) | [zh](docs/open-collaboration-charter/zh.md) |
 | Política de Invenção Aberta | [pt](docs/open-invention-policy/pt.md) | [en](docs/open-invention-policy/en.md) | [zh](docs/open-invention-policy/zh.md) |
 | Spec Driven Development | [pt](docs/spec-driven-development.md) | [en](docs/spec-driven-development.en.md) | [zh](docs/spec-driven-development.zh.md) |
@@ -41,9 +42,11 @@ O projeto nasce como um **compromisso unilateral** — não como uma negociaçã
 ## Estrutura planejada
 
 - `docs/unilateral-commitment/` — Declaração Unilateral de Compromisso, documento fundador do projeto (trilíngue)
+- `docs/carta-boas-vindas/` — Carta de Boas-Vindas: o convite humano ao ecossistema (trilíngue)
 - `docs/open-collaboration-charter/` — Carta de Colaboração Aberta: termos de colaboração do autor como arquiteto de protótipos (trilíngue)
 - `docs/open-invention-policy/` — Política de Invenção Aberta: regime "patente free" com atribuição obrigatória (trilíngue)
-- `prototypes/` — série numerada de protótipos; começa no `0001-ponte/` (desafio em andamento)
+- `docs/spec-driven-development.md` — Constituição de engenharia: Spec Driven Development (trilíngue)
+- `prototypes/` — série numerada de protótipos; começa no `0001-ponte/` (aprovado em 22/08/2026)
 - `docs/proposals/` — Propostas futuras de intercâmbio cultural, acadêmico, comercial, tecnológico e ambiental *(em construção)*
 
 ## Como contribuir

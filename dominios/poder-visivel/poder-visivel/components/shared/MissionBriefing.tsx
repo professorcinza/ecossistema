@@ -33,7 +33,6 @@ import {
 	getTotalCompletion,
 	type Mission,
 } from "@/lib/missions";
-import type { PersonaId } from "@/lib/personas";
 import { stationOf, STATION_BY_ID, type StationMeta } from "@/lib/station-map";
 import { sound } from "@/lib/sound";
 
@@ -57,9 +56,7 @@ const EMPTY: BriefingData = {
 	personaMissionsCount: 0,
 };
 
-async function loadBriefing(
-	personaId: PersonaId | null,
-): Promise<BriefingData> {
+async function loadBriefing(personaId: string | null): Promise<BriefingData> {
 	const [watchlist, alertRules] = await Promise.all([
 		watchlistGetAll(),
 		alertRulesGetAll(),
